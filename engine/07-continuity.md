@@ -1,0 +1,123 @@
+# 07 — Kontinuitas: Canon dan Story Ledger
+
+## Dua Sumber
+
+- **`canon.md`** — fakta cerita: premis, karakter, aturan dunia, motif, ending.
+- **`ledger.md`** — dokumen hidup: timeline, lokasi, pengetahuan, status tokoh,
+  fakta keras, setup/payoff, log perubahan.
+
+Canon timeline adalah **rencana awal**. Setelah bab ditulis, **Ledger A menjadi master**
+timeline. Jika keduanya berbeda, Ledger A menang untuk kejadian yang sudah terjadi;
+canon diperbarui agar tidak bertentangan.
+
+Fakta hanya sah jika ada di canon/ledger atau di teks bab yang sudah disetujui.
+Jika tidak ada, jangan mengarang. Tandai `[PERIKSA]` dan tanyakan.
+
+## Ledger A–G
+
+### A. Timeline Master
+
+| Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
+|---|---|---|---|---|
+
+Aturan:
+
+- Setiap adegan punya hari, jam, lokasi, walau tidak semua ditulis di teks.
+- Hitung selang waktu antarbab.
+- Penyebaran kabar butuh waktu dan jalur.
+- Tenggat/hitung mundur dicatat.
+- Aktivitas harus masuk akal pada jamnya.
+
+### B. Daftar Lokasi
+
+| Lokasi | Ciri tetap | Siapa sering di situ | Jarak/waktu |
+|---|---|---|---|
+
+Jangan menambah lokasi baru tanpa mencatatnya.
+
+### C. Matriks Pengetahuan
+
+| Fakta | Siapa tahu | Sejak bab | Dari mana |
+|---|---|---|---|
+
+Setiap fakta penting (rahasia, bukti, kesalahan, perasaan) dicatat. Sebelum tokoh
+memakai informasi, cek matriks ini. Bukti di klimaks harus punya jalur pengetahuan.
+
+### D. Status Tokoh per Bab
+
+| Bab | POV | Emosi/perubahan | Benda | Urusan menggantung |
+|---|---|---|---|---|
+
+Benda, luka, pakaian, pesan yang belum dibalas tidak boleh hilang.
+
+### E. Fakta Keras dan Angka
+
+| Fakta | Nilai | Rujukan |
+|---|---|---|
+
+Contoh: jumlah penerima, nominal uang, versi file, nama tempat, jabatan, usia, aturan
+sistem (mis. undo 5 detik). Satu angka satu nilai.
+
+### F. Benang Terbuka (Setup/Payoff)
+
+| Benang | Ditaman di bab | Direncanakan dibayar | Status |
+|---|---|---|---|
+
+Setiap benda/aturan/fakta yang disorot harus punya payoff. Setiap payoff besar harus
+punya setup.
+
+### G. Log Perubahan Canon
+
+| Versi | Tanggal | Perubahan | Alasan | Bab terdampak |
+|---|---|---|---|---|
+
+Semua perubahan canon/outline yang disetujui dicatat.
+
+## Sebelum Menulis: Pra-cek 5 Baris
+
+1. Posisi cerita: hari, jam, lokasi terakhir.
+2. Kondisi protagonis: emosi, benda, urusan menggantung.
+3. Hook bab sebelumnya yang harus disambung.
+4. Fakta canon/ledger yang akan dipakai.
+5. Setup yang harus ditanam atau payoff yang harus dibayar.
+
+## Setelah Menulis: Catatan 5–8 Baris
+
+- Waktu dan lokasi bab ini.
+- Fakta baru (tandai **BARU**).
+- Siapa tahu apa sekarang.
+- Benda/urusan yang dibawa ke bab berikutnya.
+- Setup yang ditanam/dibayar.
+- Risiko kontinuitas.
+
+Setelah itu, perbarui tabel Ledger yang berubah. Jangan menunggu akhir proyek.
+
+## Anti-Halusinasi
+
+- Jangan menyebut nama, angka, jam, atau kejadian lama dari ingatan. Rujuk ledger/teks.
+- Jangan menambah aturan dunia baru di tengah cerita hanya demi menyelamatkan adegan.
+- Jangan membuat tokoh tahu sesuatu karena penulis membutuhkannya.
+- Jangan menutup lubang dengan kebetulan.
+- Jika dua bab bertentangan, laporkan dan usulkan versi yang dipertahankan.
+
+## Pertanyaan Pembaca yang Harus Dijawab Teks
+
+- “Kok bisa dia tahu?”
+- “Itu kan baru kemarin, kok sudah begini?”
+- “Dia kan di sana, kok tiba-tiba di sini?”
+- “Kenapa dia nggak tinggal begini saja?”
+- “Bukannya tadi dia bawa itu?”
+
+Jika ada yang belum terjawab, perbaiki bab atau tambahkan satu kalimat penjelas.
+
+## Ganti Sesi
+
+Jika sesi baru/konteks penuh, baca ulang:
+
+1. `AGENTS.md`
+2. `engine/README.md`
+3. `canon.md`
+4. `ledger.md`
+5. Ringkasan bab terakhir
+
+Lalu tulis posisi cerita 5 baris sebelum melanjutkan.
