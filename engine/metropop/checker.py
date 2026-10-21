@@ -2,12 +2,55 @@
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 from typing import Any
 
 from .render import chapter_filename, word_range
 from .storage import chapter_path, load_story
 from .text import split_frontmatter, word_count
+
+MIN_CHAPTERS = 30
+MAX_CHAPTERS = 40
+EMOJI_RE = re.compile(
+    "[\U0001F300-\U0001FAFF\U00002700-\U000027BF\U0001F1E6-\U0001F1FF\U00002600-\U000026FF]"
+)
+REQUIRED_CHAPTER_FIELDS = [
+    "goal", "beats", "change", "knowledge", "setup", "payoff",
+    "humor_beat", "emotional_beat", "technique", "hook", "logic",
+    "reader_question", "not_happening", "day", "time", "place", "pov",
+]
+
+
+def validate_outline(story: dict[str, Any]) -> list[str]:
+    """Structural checks required before the outline can be locked."""
+    errors: list[str] = []
+    chapters = story.get("chapters", [])
+    if not MIN_CHAPTERS <= len(chapters) <= MAX_CHAPTERS:
+        errors.append(f"Jumlah bab {len(chapters)}; harus 30–40.")
+    titles: dict[str, int] = {}
+    for chapter in chapters:
+        number = int(chapter.get("number", 0))
+        title = chapter.get("title", "")
+        words = title.split()
+        if not 2 <= len(words) <= 5:
+            errors.append(f"Bab {number}: judul '{title}' harus 2–5 kata.")
+        if title in titles:
+            errors.append(f"Bab {number}: judul duplikat dengan bab {titles[title]}.")
+        titles[title] = number
+        for field in REQUIRED_CHAPTER_FIELDS:
+            value = chapter.get(field)
+            if value is None or value == "" or value == []:
+                errors.append(f"Bab {number}: kolom outline '{field}' kosong.")
+        if len(chapter.get("beats", [])) < 3:
+            errors.append(f"Bab {number}: beat minimal 3.")
+        if not chapter.get("hook"):
+            errors.append(f"Bab {number}: hook kosong.")
+    if chapters:
+        first = chapters[0]
+        if "in medias res" not in str(first.get("technique", "")).lower():
+            errors.append("Bab 1 wajib memakai teknik in medias res.")
+    return errors
 
 
 def inspect_story(story_dir: Path) -> dict[str, Any]:
@@ -18,14 +61,17 @@ def inspect_story(story_dir: Path) -> dict[str, Any]:
     rows: list[dict[str, Any]] = []
     seen_titles: dict[str, int] = {}
 
-    if len(chapters) < 30:
-        errors.append(f"Jumlah bab {len(chapters)}; MetroPop minimal 30 bab.")
+    if not MIN_CHAPTERS <= len(chapters) <= MAX_CHAPTERS:
+        errors.append(f"Jumlah bab {len(chapters)}; MetroPop harus 30–40 bab.")
     if len(chapters) != int(story.get("chapter_count", len(chapters))):
         errors.append("story.json: chapter_count tidak cocok dengan daftar chapters.")
     if not story.get("secret"):
         warnings.append("Rahasia utama kosong; konflik jangka panjang akan lemah.")
     if not story.get("glossary"):
         warnings.append("Glosarium kosong; istilah kerja akan sulit dijelaskan konsisten.")
+    if story.get("outline", {}).get("status") != "locked":
+        warnings.append("Outline belum dikunci; jalankan `metropop lock` setelah stress test.")
+    errors.extend(validate_outline(story))
 
     for chapter in chapters:
         number = int(chapter["number"])
@@ -63,6 +109,15 @@ def inspect_story(story_dir: Path) -> dict[str, Any]:
         words = word_count(body)
         row["status"] = status
         row["words"] = words
+
+        first_line = next((line.strip() for line in body.splitlines() if line.strip()), "")
+        expected = f"## Bab {number}: {title}"
+        if first_line.startswith("# Bab") and not first_line.startswith("## Bab"):
+            warnings.append(f"Bab {number}: heading memakai '# Bab'; format acuan '## Bab N: Judul'.")
+        elif first_line != expected:
+            warnings.append(f"Bab {number}: heading harus '{expected}'.")
+        if EMOJI_RE.search(body):
+            warnings.append(f"Bab {number}: mengandung emoji; panduan melarang emoji.")
 
         if status not in {"todo", "draft", "done"}:
             warnings.append(f"Bab {number}: status tidak dikenal '{status}'.")
@@ -108,4 +163,5 @@ def inspect_story(story_dir: Path) -> dict[str, Any]:
         "percent": percent,
         "total_words": total_words,
         "average": average,
+        "outline": story.get("outline", {}),
     }

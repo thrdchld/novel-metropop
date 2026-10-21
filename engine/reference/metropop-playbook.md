@@ -1,8 +1,11 @@
 # MetroPop Playbook
 
+> Acuan tertinggi tetap `../../Panduan Menulis Web Novel Metropop Indonesia.txt`.
+> Ringkasan operasional dan perintahnya ada di `panduan-utama.md`.
+
 ## Apa Itu MetroPop
 
-MetroPop adalah fiksi urban kontemporer Indonesia: orang-orang usia 20–30-an, kota besar,
+MetroPop adalah fiksi urban kontemporer Indonesia: orang-orang usia 18–50, kota besar,
 pekerjaan nyata, keluarga yang menekan, dan romansa yang tumbuh di sela-sela masalah
 sehari-hari. Nada utamanya hangat, jenaka, dan jujur. Kritik sosialnya menempel pada
 kejadian, bukan pada pidato.
@@ -43,6 +46,9 @@ Setiap bab harus memenuhi minimal satu, idealnya dua.
     protagonis harus berubah dan memilih.
 
 ## Formula Bab 750 Kata
+
+Format wajib: `## Bab N: Judul` (2–5 kata), chat `**Nama:** *isi pesan*`, email/surat
+miring, tanpa emoji. Bab 1 wajib in medias res. Target panjang 30–40 bab.
 
 Ini bukan rumus kaku, tetapi pembagian yang membantu menjaga ritme:
 

@@ -7,7 +7,10 @@ from typing import Any
 
 from . import data
 from .rng import Rng
-from .text import folder_name, slugify
+from .text import folder_name, slugify, truncate
+
+MIN_CHAPTERS = 30
+MAX_CHAPTERS = 40
 
 PHASE_LABELS = {
     "setup": "Babak 1 — Setup",
@@ -28,7 +31,7 @@ LOGLINES = {
     ),
     "pura-pura-pacar": (
         "{protagonis} dan {love} sepakat berpura-pura pacaran untuk {event}. "
-        "Kesepakatan itu berjalan rapi sampai {duration} yang seharusnya singkat "
+        "Kesepakatan itu berjalan rapi, sampai batas waktu yang seharusnya singkat "
         "mulai terasa terlalu nyata."
     ),
     "proyek-bersama": (
@@ -106,6 +109,104 @@ EXTRA_TURNS = [
     "Seseorang yang selama ini dianggap lemah ternyata menyimpan bukti.",
     "Pilihan yang benar tetap terasa seperti pengkhianatan.",
     "Semua orang setuju, dan justru itu yang membuat {protagonis} curiga.",
+]
+
+CHANGE_BANK = {
+    "setup": "Taruhan naik: makin banyak orang percaya pada versi yang salah, dan protagonis makin sulit mundur.",
+    "escalation": "Tekanan bertambah: satu orang mulai curiga, dan hubungan pribadi mulai mengganggu keputusan.",
+    "midpoint": "Tujuan protagonis berubah: dari bertahan menjadi melawan.",
+    "fallout": "Sekutu retak dan pilihan menyempit; protagonis kehilangan jalan aman.",
+    "act3": "Keputusan diambil, dan konsekuensinya tidak bisa ditarik.",
+}
+
+GOAL_BANK = {
+    "Pemicu": "Menunjukkan kesalahan atau kesepakatan yang tidak bisa ditarik, beserta akibat awalnya.",
+    "Reaksi": "Menunjukkan konsekuensi pertama dan aturan main yang membuat protagonis terjebak.",
+    "Sekutu pertama": "Memperkenalkan bantuan yang punya syarat dan taruhan sendiri.",
+    "Tekanan antagonis": "Membuat antagonis mengubah situasi menjadi keuntungan.",
+    "Kemenangan palsu": "Memberi harapan yang justru memperbesar risiko.",
+    "Komitmen": "Membuat protagonis menerima peran atau risiko yang tidak ia minta.",
+    "Hambatan": "Menutup jalan keluar paling mudah.",
+    "Rahasia menekan": "Membuat kebohongan makin mahal untuk dipertahankan.",
+    "Konsekuensi": "Menunjukkan biaya pertama dari pilihan protagonis.",
+    "Kedekatan": "Mendekatkan protagonis dan love interest dengan konsekuensi profesional.",
+    "Serangan balik": "Membuat antagonis bergerak memakai aturan, bukan kekerasan.",
+    "Adegan besar": "Menaikkan taruhan di depan publik.",
+    "Peringatan": "Membuat sekutu meragukan protagonis.",
+    "Titik tengah": "Mengubah pemahaman protagonis dan arah tujuannya.",
+    "Retak": "Membuat sekutu merasa dibohongi.",
+    "Pengkhianatan": "Memindahkan dukungan atau membocorkan rahasia.",
+    "Bukti": "Memberi bukti dengan harga mahal.",
+    "Titik terendah": "Menutup semua jalan aman.",
+    "Keputusan": "Membuat protagonis memilih melawan.",
+    "Persiapan": "Menyusun rencana dengan informasi yang belum lengkap.",
+    "Rencana": "Menetapkan langkah konkret menuju konfrontasi.",
+    "Konfrontasi": "Membenturkan rencana dengan kenyataan.",
+    "Semua hilang": "Membuat satu elemen rencana gagal.",
+    "Pengakuan": "Membuat protagonis mengatakan kebenaran tentang dirinya.",
+    "Klimaks": "Membuka konfrontasi publik dan pembalikan fakta.",
+    "Resolusi": "Menunjukkan konsekuensi nyata, tidak semua baik.",
+    "Citra akhir": "Menunjukkan perubahan lewat pilihan kecil.",
+    "Eskalasi awal": "Memperbesar masalah tanpa memberi jalan keluar.",
+    "Kehidupan pribadi": "Menunjukkan taruhan personal yang membuat protagonis tidak bisa berhenti.",
+    "Tekanan kecil": "Menambah satu komplikasi yang membuat situasi lebih sempit.",
+    "Petunjuk": "Menanam detail yang akan dipakai kemudian.",
+    "Kedekatan": "Mendekatkan dua tokoh dengan konsekuensi yang tidak mereka rencanakan.",
+    "Konsekuensi baru": "Menagih pilihan dari bab-bab sebelumnya.",
+    "Adegan besar": "Membawa konflik ke ruang publik.",
+    "Persiapan akhir": "Menyiapkan konfrontasi dengan risiko yang jelas.",
+    "Akselerasi": "Mempercepat menuju klimaks.",
+}
+
+READER_QUESTIONS = {
+    "setup": "Apakah protagonis akan membetulkan kesalahannya sebelum makin banyak orang percaya?",
+    "escalation": "Siapa yang akan tahu lebih dulu, dan apa yang ia lakukan dengan informasi itu?",
+    "midpoint": "Apakah tujuan protagonis berubah setelah bukti ini?",
+    "fallout": "Apakah protagonis masih punya sekutu yang bisa dipercaya?",
+    "act3": "Apakah protagonis akan mengaku, dan apa harganya?",
+}
+
+NOT_HAPPENING = {
+    "setup": "Tidak ada tokoh baru; belum ada pengakuan; rahasia utama belum terbuka; antagonis belum menyerang terbuka.",
+    "escalation": "Tidak ada tokoh baru; belum ada bukti yang dibuka ke publik; hubungan romansa belum resmi.",
+    "midpoint": "Tidak ada tokoh baru; belum ada keputusan final; antagonis belum tahu protagonis punya bukti.",
+    "fallout": "Tidak ada tokoh baru; belum ada klimaks; belum ada pengakuan di depan publik.",
+    "act3": "Tidak ada tokoh baru; tidak ada penyelesaian ajaib; tidak semua masalah selesai.",
+}
+
+TECHNIQUE_BANK = {
+    "setup": ["dramatic irony", "foreshadowing", "action beats", "show, don't tell", "motif"],
+    "escalation": ["dramatic irony", "pacing", "motif", "action beats", "foreshadowing"],
+    "midpoint": ["plot twist", "dramatic irony", "reveal"],
+    "fallout": ["flashback", "stream of consciousness", "red herring", "show, don't tell"],
+    "act3": ["payoff", "motif", "climax", "cliffhanger", "dramatic irony"],
+}
+
+HOOK_TYPE_WORDS = [
+    ("Pesan", ("pesan", "notifikasi", "telepon", "chat", "surat", "email")),
+    ("Kedatangan", ("pintu", "masuk", "datang", "muncul", "tiba")),
+    ("Pengungkapan", ("ternyata", "menemukan", "tahu", "bukti", "nama", "layar", "konfirmasi", "terkirim", "tombol", "mewarisi")),
+    ("Keputusan", ("memilih", "menekan", "setuju", "memutuskan", "berdiri")),
+    ("Ancaman", ("jangan", "tidak akan", "habis", "ancam")),
+    ("Objek", ("amplop", "berkas", "dokumen", "kotak", "map")),
+]
+
+MOTIVES = {
+    "protagonis": "membuktikan bahwa ia bisa aman tanpa harus menyenangkan semua orang",
+    "love": "menjaga hidupnya tetap terpisah dari pekerjaan",
+    "antagonis": "mempertahankan posisi dan citra yang ia bangun bertahun-tahun",
+    "sekutu": "melindungi pekerjaan dan orang-orang yang bergantung padanya",
+    "mentor": "mewariskan cara kerja yang lebih baik sebelum ia pergi",
+    "keluarga": "memastikan anaknya tidak mengulangi kesulitan yang ia alami",
+}
+
+EMOTIONAL_BEATS = [
+    "Momen tulus: protagonis mengakui satu hal kecil yang selama ini ia tahan.",
+    "Momen tulus: seseorang menolong tanpa meminta imbalan.",
+    "Momen tulus: protagonis dan love interest bicara tanpa kepentingan pekerjaan.",
+    "Momen tulus: keluarga menunjukkan kasih dengan cara yang tidak sempurna.",
+    "Momen tulus: sekutu memilih tetap tinggal meski tahu risikonya.",
+    "Momen tulus: antagonis menunjukkan satu keretakan yang membuatnya manusiawi.",
 ]
 
 FILLER_FUNCTIONS = {
@@ -198,7 +299,7 @@ EARLY_TURNS = [
     "Ia menghitung berapa lama ia bisa bertahan tanpa pekerjaan ini.",
     "Seseorang menawarkan bantuan, dan ia tidak tahu apakah itu tulus.",
     "Ia membaca ulang pesannya dan menemukan satu kalimat yang terlalu jujur.",
-    "Kantor tetap berjalan seperti biasa, dan itu terasa lebih menakutkan.",
+    "Dunia luar tetap berjalan seperti biasa, dan itu terasa lebih menakutkan.",
     "Ia menyadari tidak ada satu orang pun yang bisa ia hubungi malam ini.",
     "Rencana sederhananya berubah sebelum sempat dimulai.",
     "Ia melihat reaksi orang lain, dan reaksinya tidak seperti yang ia bayangkan.",
@@ -246,6 +347,8 @@ PLACE_HINTS = [
     ("reuni", "aula serbaguna"),
     ("restoran", "restoran klien"),
     ("dinner", "restoran klien"),
+    ("notaris", "kantor notaris"),
+    ("kontrakan", "rumah kontrakan"),
     ("rumah", "rumah Mama"),
     ("kamar", "kamar kos {protagonis}"),
     ("kos", "kamar kos {protagonis}"),
@@ -304,8 +407,8 @@ def _name(rng: Rng, gender: str, used_first: set[str], used_surnames: set[str]) 
 
 
 def _phase_counts(total: int) -> tuple[int, int, int, int, int]:
-    if total < 30:
-        raise ValueError("MetroPop minimal 30 bab.")
+    if not MIN_CHAPTERS <= total <= MAX_CHAPTERS:
+        raise ValueError(f"MetroPop harus 30–40 bab, bukan {total}.")
     setup = max(7, round(total * 0.25))
     escalation = max(6, round(total * 0.23))
     midpoint = 1
@@ -393,6 +496,22 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
     ally_job = rng.pick(["staf finance", "analis data", "staf legal", "admin HR", "tim operasional", "staf customer support", "desainer"])
     mentor_job = rng.pick(data.MENTOR_ROLES)
 
+    def sheet(role_key: str, call: str) -> dict[str, Any]:
+        return {
+            "appearance": rng.sample(data.APPEARANCES, rng.integer(2, 3)),
+            "tells": rng.sample(data.TELLS, 4),
+            "signature_object": rng.pick(data.SIGNATURE_OBJECTS),
+            "emotional_tell": rng.pick(data.EMOTIONAL_TELLS),
+            "lie": rng.pick(data.LIES),
+            "never_do": rng.pick(data.NEVER_DO),
+            "motive": MOTIVES[role_key],
+            "address": data.ADDRESS_STYLES[role_key],
+            "dialogue_sample": [
+                fill(sample, {"call": call})
+                for sample in data.DIALOGUE_SAMPLES[role_key]
+            ],
+        }
+
     cast = {
         "protagonis": {
             "name": protagonist_full,
@@ -408,6 +527,7 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
             "voice": data.VOICES["protagonis"],
             "family_pressure": rng.pick(data.FAMILY_PRESSURES),
             "function": f"ingin {want}; butuh {need}",
+            **sheet("protagonis", protagonist_first),
         },
         "love": {
             "name": love_full,
@@ -421,6 +541,7 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
             "arc": "belajar membuka batas tanpa kehilangan prinsip",
             "voice": data.VOICES["love"],
             "function": f"membuat {protagonist_first} memilih antara aman dan jujur",
+            **sheet("love", love_first),
         },
         "antagonis": {
             "name": antagonist_full,
@@ -433,6 +554,7 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
             "rationale": rng.pick(data.ANTAGONIST_RATIONALES),
             "voice": data.VOICES["antagonis"],
             "function": f"menekan lewat: {tactic}",
+            **sheet("antagonis", f"{antagonist_title} {antagonist_first}"),
         },
         "sekutu": {
             "name": ally_full,
@@ -444,6 +566,7 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
             "condition": rng.pick(data.ALLY_CONDITIONS),
             "voice": data.VOICES["sekutu"],
             "function": f"taruhan: {stake}",
+            **sheet("sekutu", ally_first),
         },
         "mentor": {
             "name": mentor_full,
@@ -453,6 +576,7 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
             "job": mentor_job,
             "voice": data.VOICES["mentor"],
             "function": "memberi perspektif tanpa mengambil alih keputusan",
+            **sheet("mentor", f"{mentor_title} {mentor_first}"),
         },
         "keluarga": {
             "name": family_name,
@@ -463,6 +587,7 @@ def _cast(rng: Rng, engine: dict[str, Any], world: dict[str, Any]) -> dict[str, 
             "pressure": "",
             "voice": data.VOICES["ibu"],
             "function": "tekanan dan alasan emosional protagonis",
+            **sheet("keluarga", "Mama"),
         },
     }
     return cast
@@ -555,13 +680,78 @@ def plan_story(
     logline = fill(LOGLINES[engine["key"]], context)
     dramatic_question = fill(DRAMATIC_QUESTIONS[engine["key"]], context)
     ending_direction = fill(rng.pick(engine["resolutions"]), context)
+    midpoint_text = fill(engine["midpoint"], context)
+    crisis_text = fill(engine["crisis"], context)
 
     setup_n, escalation_n, midpoint_n, fallout_n, act3_n = _phase_counts(chapters)
 
     midpoint_chapter = setup_n + escalation_n + midpoint_n
     act3_start = setup_n + escalation_n + midpoint_n + fallout_n + 1
     climax_chapter = act3_start + (act3_n - 3)
+    crisis_chapter = act3_start + 2
     act_break_chapter = setup_n
+    turning_points = sorted({act_break_chapter, midpoint_chapter, act3_start, climax_chapter})
+
+    threads = [
+        {
+            "name": "Refleks khas protagonis",
+            "plant": 1,
+            "pay": climax_chapter,
+            "desc": f"Refleks '{protagonist['flaw']}' muncul pertama kali.",
+        },
+        {
+            "name": "Objek khas protagonis",
+            "plant": min(3, setup_n),
+            "pay": midpoint_chapter,
+            "desc": f"Objek {protagonist['signature_object']} diperkenalkan.",
+        },
+        {
+            "name": "Aturan mekanisme",
+            "plant": 2,
+            "pay": act3_start + 2,
+            "desc": engine["logic_rules"][0],
+        },
+        {
+            "name": "Rahasia love interest",
+            "plant": max(5, midpoint_chapter - 2),
+            "pay": act3_start - 1,
+            "desc": f"Rahasia {love['call']}: {love['secret']}",
+        },
+        {
+            "name": "Bukti utama",
+            "plant": max(4, midpoint_chapter - 1),
+            "pay": climax_chapter - 1,
+            "desc": "Bukti yang nanti dipakai di klimaks.",
+        },
+        {
+            "name": "Tekanan keluarga",
+            "plant": max(6, setup_n - 1),
+            "pay": min(chapters, act3_start + 2),
+            "desc": f"Tekanan keluarga: {protagonist['family_pressure']}",
+        },
+    ]
+    setup_map: dict[int, list[str]] = {number: [] for number in range(1, chapters + 1)}
+    payoff_map: dict[int, list[str]] = {number: [] for number in range(1, chapters + 1)}
+    for thread in threads:
+        setup_map[thread["plant"]].append(f"{thread['name']} — {thread['desc']}")
+        payoff_map[thread["pay"]].append(f"{thread['name']} — dibayar atau diubah maknanya.")
+
+    humor_chapters: set[int] = set()
+    cursor = 2
+    while cursor <= chapters:
+        humor_chapters.add(cursor)
+        cursor += rng.integer(2, 3)
+    emotional_chapters = set(range(5, chapters + 1, 5))
+    humor_pool = rng.cycle(engine.get("humor", ["Momen canggung di ruang publik."]), len(humor_chapters))
+    emotional_pool = rng.cycle(EMOTIONAL_BEATS, len(emotional_chapters))
+    humor_map = {
+        number: humor_pool[index]
+        for index, number in enumerate(sorted(humor_chapters))
+    }
+    emotional_map = {
+        number: emotional_pool[index]
+        for index, number in enumerate(sorted(emotional_chapters))
+    }
 
     phases = [
         {"key": "setup", "label": PHASE_LABELS["setup"], "count": setup_n},
@@ -576,14 +766,19 @@ def plan_story(
         phase["end"] = start + phase["count"] - 1
         start = phase["end"] + 1
 
-    title_pool = [t for t in (engine["titles"] + data.CHAPTER_TITLES) if t.lower() != story_title.lower()]
+    title_pool = [
+        t for t in data.CHAPTER_TITLES
+        if 2 <= len(t.split()) <= 5 and t.lower() != story_title.lower()
+    ]
     title_pool = rng.shuffled(list(dict.fromkeys(title_pool)))
     hook_pools = {phase: rng.shuffled(data.HOOKS[phase]) for phase in PHASE_ORDER}
     special_hook_pools: dict[str, list[str]] = {}
     complication_pool = rng.shuffled(data.COMPLICATIONS + EXTRA_COMPLICATIONS)
     turn_pool = rng.shuffled(data.TURNS + EXTRA_TURNS)
     early_complications = rng.shuffled(EARLY_COMPLICATIONS)
-    accident_complications = rng.shuffled(ACCIDENT_COMPLICATIONS)
+    accident_complications = rng.shuffled(
+        engine.get("pemicu_complications", ACCIDENT_COMPLICATIONS)
+    )
     early_turns = rng.shuffled(EARLY_TURNS)
     complication_index = 0
     turn_index = 0
@@ -593,13 +788,18 @@ def plan_story(
     def next_title() -> str:
         if title_pool:
             return title_pool.pop()
-        return f"Bab {len(chapters_out) + 1}"
+        return f"Bab {len(chapters_out) + 1} Tanpa Judul"
 
     def next_hook(phase: str, function: str | None = None) -> str:
-        if function in SPECIAL_HOOKS:
-            pool = special_hook_pools.setdefault(function, rng.shuffled(SPECIAL_HOOKS[function]))
+        source: list[str] | None = None
+        if function == "Pemicu" and engine.get("pemicu_hooks"):
+            source = engine["pemicu_hooks"]
+        elif function in SPECIAL_HOOKS:
+            source = SPECIAL_HOOKS[function]
+        if source is not None:
+            pool = special_hook_pools.setdefault(function, rng.shuffled(source))
             if not pool:
-                pool.extend(rng.shuffled(SPECIAL_HOOKS[function]))
+                pool.extend(rng.shuffled(source))
             return fill(pool.pop(), context)
         pool = hook_pools[phase]
         if not pool:
@@ -610,8 +810,9 @@ def plan_story(
         nonlocal complication_index
         if phase == "setup":
             if function == "Pemicu":
+                source = engine.get("pemicu_complications", ACCIDENT_COMPLICATIONS)
                 if not accident_complications:
-                    accident_complications.extend(rng.shuffled(ACCIDENT_COMPLICATIONS))
+                    accident_complications.extend(rng.shuffled(source))
                 return fill(accident_complications.pop(), context)
             if not early_complications:
                 early_complications.extend(rng.shuffled(EARLY_COMPLICATIONS))
@@ -650,6 +851,31 @@ def plan_story(
         last_time = value
         return value
 
+    def day_label(number: int) -> str:
+        return f"Hari {(number - 1) // 2 + 1}"
+
+    def hook_type(hook: str) -> str:
+        lower = hook.lower()
+        for label, words in HOOK_TYPE_WORDS:
+            if any(word in lower for word in words):
+                return label
+        return "Pertanyaan"
+
+    def present_characters(scene: str, pov: str) -> list[str]:
+        people = [pov]
+        for person in cast.values():
+            for name in (person.get("call"), person.get("name")):
+                if name and name in scene and name not in people:
+                    people.append(name)
+        return people
+
+    def technique_for(phase: str, number: int) -> str:
+        if number == 1:
+            return "in medias res; dramatic irony; action beats"
+        bank = TECHNIQUE_BANK[phase]
+        picks = rng.sample(bank, 2)
+        return "; ".join(picks)
+
     chapters_out: list[dict[str, Any]] = []
 
     def add(
@@ -669,7 +895,25 @@ def plan_story(
             elif rng.chance(0.07):
                 pov = ally["call"]
                 side_chapter = True
-        chapter_target = target or (900 if function in {"Komitmen", "Titik tengah", "Klimaks"} else target_words)
+
+        chapter_time = infer_time(scene, next_time())
+        chapter_place = next_place(scene)
+        conflict = next_complication(phase, function)
+        turn = next_turn(phase, function)
+        people = present_characters(scene, pov)
+        turning = number in turning_points
+        chapter_target = target or (
+            900 if turning or function in {"Komitmen", "Titik tengah", "Klimaks"} else target_words
+        )
+        setup_text = "; ".join(setup_map.get(number, [])) or "—"
+        payoff_text = "; ".join(payoff_map.get(number, [])) or "—"
+        beats = [
+            f"Buka: {truncate(scene, 180)}",
+            f"Tekanan: {conflict}",
+            f"Informasi baru: {turn}",
+            f"Tutup dengan hook: {hook}",
+        ]
+
         chapters_out.append({
             "number": number,
             "title": next_title(),
@@ -677,44 +921,38 @@ def plan_story(
             "phase_label": PHASE_LABELS[phase],
             "function": function,
             "scene": scene,
-            "conflict": next_complication(phase, function),
-            "turn": next_turn(phase, function),
+            "goal": GOAL_BANK.get(function, f"Menjalankan beat '{function}'."),
+            "conflict": conflict,
+            "turn": turn,
+            "change": CHANGE_BANK[phase],
+            "knowledge": f"Yang menyaksikan: {', '.join(people)}. Fakta baru: {turn}",
+            "setup": setup_text,
+            "payoff": payoff_text,
+            "humor_beat": humor_map.get(number, "—"),
+            "emotional_beat": emotional_map.get(number, "—"),
+            "technique": technique_for(phase, number),
             "hook": hook,
+            "hook_type": hook_type(hook),
+            "logic": engine["logic_rules"][(number - 1) % len(engine["logic_rules"])],
+            "reader_question": READER_QUESTIONS[phase],
+            "not_happening": NOT_HAPPENING[phase],
+            "beats": beats,
             "pov": pov,
-            "time": infer_time(scene, next_time()),
-            "place": next_place(scene),
+            "day": day_label(number),
+            "time": chapter_time,
+            "place": chapter_place,
             "target_words": chapter_target,
+            "turning_point": turning,
             "side_chapter": side_chapter,
         })
 
-    setup_events = list(engine["setup_events"])
-    setup_mode = engine.get("setup_mode", "inciting_first")
-    setup_raw: list[tuple[str, str]] = []
-    if setup_mode == "inciting_second":
-        setup_raw.append((setup_events[0], "Pembuka"))
-        setup_raw.append((engine["inciting"], "Pemicu"))
-        setup_used = setup_events[3:]
-    elif setup_mode == "inciting_third":
-        setup_raw.append((setup_events[0], "Pembuka"))
-        setup_raw.append((setup_events[1], "Tekanan awal"))
-        setup_raw.append((engine["inciting"], "Pemicu"))
-        setup_used = setup_events[3:]
-    else:
-        setup_raw.append((rng.pick(data.GENERIC_OPENINGS), "Pembuka"))
-        setup_raw.append((engine["inciting"], "Pemicu"))
-        setup_used = setup_events[1:]
-
-    for raw in setup_used:
-        setup_raw.append((raw, setup_function(raw)))
-
+    setup_raw = [(engine["inciting"], "Pemicu")] + [
+        (raw, setup_function(raw)) for raw in engine["setup_events"]
+    ]
     setup_slots = setup_n - 1
     fixed_for_setup = setup_raw[:setup_slots]
     leftover_setup = setup_raw[setup_slots:]
-    setup_filler_pool = (
-        [raw for raw, _ in leftover_setup]
-        + setup_events[5:]
-        + list(data.GENERIC_FILLERS["setup"])
-    )
+    setup_filler_pool = [raw for raw, _ in leftover_setup] + list(data.GENERIC_FILLERS["setup"])
     setup_fillers_needed = max(0, setup_slots - len(fixed_for_setup))
     setup_fillers = rng.cycle(setup_filler_pool, setup_fillers_needed)
 
@@ -785,17 +1023,37 @@ def plan_story(
         "chapter_count": chapters,
         "target_words": target_words,
         "logline": logline,
+        "blurb": f"{logline} {protagonist['call']} pikir ia bisa menunggu sampai semuanya reda. Tapi setiap hari, harga untuk mengaku makin mahal. {dramatic_question}",
         "premise": " ".join([
             logline,
-            fill(engine["midpoint"], context),
-            "Konflik memuncak ketika " + fill(engine["crisis"], context),
+            midpoint_text,
+            "Konflik memuncak ketika " + crisis_text,
         ]),
         "theme": theme,
         "dramatic_question": dramatic_question,
         "ending_direction": ending_direction,
         "secret": context["secret"],
+        "midpoint_text": midpoint_text,
+        "crisis_text": crisis_text,
+        "outline": {"version": "0.1", "status": "draft", "locked_at": None},
+        "format": {
+            "heading": "## Bab N: Judul",
+            "chat": "**Nama:** *isi pesan*",
+            "email": "teks email atau surat ditulis miring",
+            "emoji": "dilarang",
+        },
+        "release_plan": "3–5 bab per minggu",
+        "calendar": {
+            "start": "Jumat",
+            "note": "Dua bab per hari naratif; sesuaikan hari dan jam saat menulis.",
+        },
+        "turning_points": turning_points,
+        "knowledge_facts": engine.get("knowledge_facts", []),
+        "logic_rules": engine.get("logic_rules", []),
+        "humor": engine.get("humor", []),
         "midpoint_chapter": midpoint_chapter,
         "climax_chapter": climax_chapter,
+        "crisis_chapter": crisis_chapter,
         "act_break_chapter": act_break_chapter,
         "world": world,
         "extras": extras,
@@ -805,3 +1063,43 @@ def plan_story(
         "chapters": chapters_out,
     }
     return story
+
+
+def propose_ideas(
+    seed: int | None = None,
+    engine_key: str | None = None,
+    count: int = 3,
+) -> list[dict[str, Any]]:
+    """Return 3 premise options as required by the writing guide."""
+    rng = Rng(seed)
+    count = max(1, min(count, 6))
+    if engine_key:
+        pool = [data.ENGINE_BY_KEY[engine_key]]
+    else:
+        pool = rng.shuffled(data.ENGINES)
+    engines = [pool[index % len(pool)] for index in range(count)]
+
+    ideas: list[dict[str, Any]] = []
+    for engine in engines:
+        story = plan_story(
+            engine_key=engine["key"],
+            seed=rng.integer(1, 999_999_999),
+            chapters=30,
+        )
+        cast = story["cast"]
+        ideas.append({
+            "title": story["title"],
+            "engine": engine["label"],
+            "engine_key": engine["key"],
+            "logline": story["logline"],
+            "theme": story["theme"],
+            "dramatic_question": story["dramatic_question"],
+            "humor": story.get("humor", []),
+            "cast": {
+                "protagonis": f"{cast['protagonis']['name']} — {cast['protagonis']['job']}; cacat: {cast['protagonis']['flaw']}",
+                "love": f"{cast['love']['name']} — {cast['love']['job']}",
+                "antagonis": f"{cast['antagonis']['name']} — {cast['antagonis']['job'] or cast['antagonis']['role']}",
+                "sekutu": f"{cast['sekutu']['name']} — {cast['sekutu']['job']}",
+            },
+        })
+    return ideas

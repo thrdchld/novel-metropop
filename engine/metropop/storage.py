@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 from typing import Any
 
+from .ledger import render_change_request, render_ledger, render_rubric, render_stress_test
 from .render import chapter_filename, render_bible, render_chapter_skeleton, render_outline
 from .text import folder_name
 
@@ -22,10 +23,25 @@ def chapter_path(story_dir: Path, number: int) -> Path:
     return story_dir / "chapters" / chapter_filename(number)
 
 
+def ensure_support_files(story: dict[str, Any], story_dir: Path) -> None:
+    """Create living documents only when absent, so edits are never overwritten."""
+    documents = {
+        "ledger.md": render_ledger(story),
+        "stress-test.md": render_stress_test(story),
+        "rubric.md": render_rubric(story),
+        "change-request.md": render_change_request(story),
+    }
+    for name, content in documents.items():
+        path = story_dir / name
+        if not path.exists():
+            path.write_text(content, encoding="utf-8")
+
+
 def save_rendered(story: dict[str, Any], story_dir: Path) -> None:
     story_dir.mkdir(parents=True, exist_ok=True)
     (story_dir / "bible.md").write_text(render_bible(story), encoding="utf-8")
     (story_dir / "outline.md").write_text(render_outline(story), encoding="utf-8")
+    ensure_support_files(story, story_dir)
 
 
 def save_story(story: dict[str, Any], story_dir: Path, skeleton: bool = True) -> None:

@@ -174,6 +174,141 @@ VOICES = {
     "mentor": "lambat, suka bercerita, jarang memuji langsung",
 }
 
+APPEARANCES = [
+    "kemeja lengan panjang yang selalu digulung rapi",
+    "rambut diikat asal-asalan dengan penjepit",
+    "tote bag hitam yang sudah lusuh",
+    "jam tangan kulit cokelat",
+    "kacamata bulat yang sering turun",
+    "sepatu kets putih yang tidak pernah benar-benar putih",
+    "blazer abu-abu yang selalu terbuka",
+    "tas laptop dengan gantungan kucing",
+    "batik kantor yang dilipat di laci",
+    "hoodie kantor yang dipakai saat lembur",
+    "kemeja biru muda yang terlalu rapi",
+    "gelang benang dari adik",
+    "pulpen hitam yang selalu diklik",
+    "botol minum berstiker",
+    "payung lipat di tas",
+]
+
+TELLS = [
+    "memeluk tas saat gugup",
+    "mengetuk meja dengan pulpen",
+    "mengaduk kopi yang sudah dingin",
+    "menepuk bahu lalu mencengkeram",
+    "menatap langit-langit saat berpikir",
+    "menghela napas sebelum menjawab",
+    "menggeser kacamata dengan telunjuk",
+    "menggigit bibir saat menahan sesuatu",
+    "mengetik lalu menghapus kalimat",
+    "memeriksa ponsel meski tidak ada notifikasi",
+    "merapikan berkas yang sudah rapi",
+    "menyandarkan punggung ke kursi sebelum berbohong",
+    "tersenyum terlalu cepat",
+    "menyilangkan tangan saat tidak setuju",
+    "mengangguk pelan sebelum menolak",
+]
+
+SIGNATURE_OBJECTS = [
+    "tote bag hitam",
+    "map biru",
+    "gelas kopi dingin",
+    "ponsel dengan layar retak",
+    "jam tangan kulit",
+    "pulpen klik",
+    "botol minum berstiker",
+    "kardus kecil di bawah meja",
+    "laptop berstiker kucing",
+    "payung lipat",
+    "buku catatan tebal",
+    "kaleng permen jahe",
+    "kotak makan siang",
+    "kunci apartemen",
+    "dompet lusuh",
+]
+
+EMOTIONAL_TELLS = [
+    "kalau malu, telinganya memerah",
+    "kalau marah, suaranya justru makin pelan",
+    "kalau takut, ia bercanda lebih banyak",
+    "kalau sedih, ia pura-pura sibuk",
+    "kalau gugup, ia mengulang pertanyaan",
+    "kalau lega, bahunya turun",
+    "kalau berbohong, ia menyebut terlalu banyak detail",
+    "kalau kecewa, ia tersenyum tipis",
+    "kalau sayang, ia memberi makanan",
+    "kalau panik, ia membuka ponsel tanpa tujuan",
+]
+
+LIES = [
+    "kalau aku berguna, aku tidak akan ditinggalkan",
+    "kalau aku tidak membuat masalah, semua akan baik-baik saja",
+    "orang dewasa tidak boleh mengeluh",
+    "minta tolong itu tanda lemah",
+    "kalau aku jujur, aku akan kehilangan semuanya",
+    "cinta harus dibayar dengan pengorbanan",
+    "keluarga tidak pernah salah",
+    "pekerjaan ini satu-satunya yang aku punya",
+    "kalau aku terlihat tenang, tidak ada yang akan tahu",
+    "aku harus menyelesaikan semuanya sendiri",
+]
+
+NEVER_DO = [
+    "tidak akan mempermalukan orang di depan umum",
+    "tidak akan membuka rahasia orang lain",
+    "tidak akan meminta bantuan orang tua",
+    "tidak akan menangis di kantor",
+    "tidak akan memakai jabatan untuk membalas",
+    "tidak akan meninggalkan tim di tengah krisis",
+    "tidak akan berbohong kepada adiknya",
+    "tidak akan memuji orang yang ia benci",
+    "tidak akan pulang tanpa menyelesaikan pekerjaan",
+    "tidak akan mengakui kesalahan sebelum ada bukti",
+]
+
+ADDRESS_STYLES = {
+    "protagonis": "aku/kamu ke rekan sebaya; saya/Pak/Bu ke atasan; Ma ke ibu",
+    "love": "saya/kamu di tempat kerja; aku/kamu setelah jam kerja",
+    "antagonis": "saya, dan menyebut orang lain dengan nama lengkap di depan publik",
+    "sekutu": "aku/kamu; memanggil protagonis dengan nama depan",
+    "mentor": "kamu; menyebut dirinya 'saya'",
+    "keluarga": "Mama/kamu; memanggil protagonis dengan nama depan",
+}
+
+DIALOGUE_SAMPLES = {
+    "protagonis": [
+        "{call}: \"Siap, bisa kok.\"",
+        "{call}: \"Aku cuma... nggak mau bikin ribet.\"",
+        "{call}: \"Tunggu. Aku belum selesai.\"",
+    ],
+    "love": [
+        "{call}: \"Kamu nanya, tapi kamu sudah tahu jawabannya.\"",
+        "{call}: \"Aku nggak butuh kamu setuju. Aku cuma butuh kamu dengar.\"",
+        "{call}: \"Kalau kamu mau, kita bisa berhenti jadi sopan sekarang.\"",
+    ],
+    "antagonis": [
+        "{call}: \"Saya hanya ingin yang terbaik untuk tim.\"",
+        "{call}: \"Kita satu tim, kan?\"",
+        "{call}: \"Jangan salah paham. Ini bukan ancaman.\"",
+    ],
+    "sekutu": [
+        "{call}: \"Aku punya datanya. Kamu mau lihat atau tidak?\"",
+        "{call}: \"Aku nggak akan bilang 'aku sudah bilang'. Tapi aku sudah bilang.\"",
+        "{call}: \"Kamu bisa marah nanti. Sekarang dengar dulu.\"",
+    ],
+    "mentor": [
+        "{call}: \"Kamu tahu kenapa kamu datang ke saya?\"",
+        "{call}: \"Saya tidak akan menjawab itu. Tapi saya akan duduk di sini sampai kamu menemukannya.\"",
+        "{call}: \"Kadang yang benar bukan yang paling aman.\"",
+    ],
+    "keluarga": [
+        "{call}: \"Kamu udah makan belum?\"",
+        "{call}: \"Mama cuma mau kamu bahagia.\"",
+        "{call}: \"Kamu nggak perlu cerita semuanya. Tapi jangan bohong.\"",
+    ],
+}
+
 CHAPTER_TITLES = [
     "Yang Tidak Dibilang", "Tiga Menit", "Kopi Dingin", "Pesan Terakhir",
     "Ruang Tunggu", "Nama di Layar", "Yang Tidak Dijawab", "Di Balik Pintu",
@@ -181,15 +316,25 @@ CHAPTER_TITLES = [
     "Versi Lain", "Kabar Burung", "Kotak Masuk", "Rapat Darurat",
     "Satu Lagi", "Kesalahan Kecil", "Dinding Kaca", "Lantai Dua Belas",
     "Ponsel yang Bergetar", "Sebelum Tidur", "Di Meja Sudut", "Nama yang Sama",
-    "Titik Nol", "Yang Terlewat", "Pilihan", "Kembali", "Bukan Rahasia",
-    "Sesuatu yang Benar", "Salah Paham", "Kabar Baik", "Kabar Buruk",
-    "Di Antara Dua", "Hari yang Panjang", "Malam yang Panjang",
-    "Suara di Balik Pintu", "Pesan Suara", "Tanda Tanya", "Jawaban",
-    "Pertemuan", "Perpisahan", "Jarak", "Dekat", "Ruang Kosong",
-    "Meja Makan", "Foto Lama", "Pesan Baru", "Nomor Tak Dikenal",
-    "Panggilan Terakhir", "Jam Tiga Pagi", "Setelah Hujan", "Sebelum Fajar",
-    "Kota Ini", "Pulang", "Rumah", "Batas", "Izin", "Maaf",
-    "Terima Kasih", "Send", "Draft", "Lampiran", "Baca Ulang", "Hapus", "Simpan",
+    "Titik Nol", "Yang Terlewat", "Pilihan Terakhir", "Jalan Kembali",
+    "Bukan Rahasia", "Sesuatu yang Benar", "Salah Paham", "Kabar Baik",
+    "Kabar Buruk", "Di Antara Dua", "Hari yang Panjang", "Malam yang Panjang",
+    "Suara di Balik Pintu", "Pesan Suara", "Tanda Tanya", "Jawaban yang Salah",
+    "Pertemuan Pertama", "Perpisahan Kecil", "Jarak yang Aman", "Terlalu Dekat",
+    "Ruang Kosong", "Meja Makan", "Foto Lama", "Pesan Baru",
+    "Nomor Tak Dikenal", "Panggilan Terakhir", "Jam Tiga Pagi", "Setelah Hujan",
+    "Sebelum Fajar", "Kota Ini", "Jalan Pulang", "Rumah yang Sama",
+    "Batas yang Kabur", "Izin yang Tertunda", "Maaf yang Terlambat",
+    "Terima Kasih", "Menekan Send", "Draf Terakhir", "Lampiran Salah",
+    "Baca Ulang", "Hapus Semua", "Simpan Dulu", "Pintu Terbuka",
+    "Pesan Masuk", "Keputusan Kecil", "Orang Lain", "Nama Lama",
+    "Kebohongan Pertama", "Bukti Pertama", "Harga yang Mahal", "Tepuk Tangan",
+    "Kartu Akses", "Surat Wasiat", "Enam Bulan", "Papan Nama",
+    "Meja Notaris", "Kontrak Palsu", "Aturan Pertama", "Satu Tim",
+    "Rapat Dadakan", "Nada Dering", "Komentar Pertama", "Tayangan Ulang",
+    "Kamera Menyala", "Hapus Unggahan", "Kebenaran Pendek", "Suara Sendiri",
+    "Malam Terakhir", "Hari Pertama", "Pulang Sendiri", "Meja Kosong",
+    "Lampu Mati",
 ]
 
 COMPLICATIONS = [
@@ -346,15 +491,14 @@ LOCATIONS = [
 ]
 
 TIMES = [
-    "pagi", "siang", "sore", "malam", "Jumat malam", "Sabtu pagi",
-    "akhir pekan", "jam sibuk pulang kerja", "setelah jam kantor",
+    "pagi", "siang", "sore", "malam",
+    "jam sibuk pulang kerja", "setelah jam kantor",
 ]
 
 ENGINES = [
     {
         "key": "salah-kirim",
         "label": "Salah Kirim / Pahlawan Kecelakaan",
-        "setup_mode": "inciting_second",
         "promise": "Kesalahan kecil yang tidak bisa ditarik, lalu berubah menjadi gerakan yang lebih besar dari pelakunya.",
         "titles": [
             "Salah Kirim", "Kepada Semua", "Bukan untuk Dikirim", "Terkirim",
@@ -372,7 +516,19 @@ ENGINES = [
         "problem": ["budaya lembur", "target yang tidak masuk akal", "atasan yang menelepon di hari libur", "janji promosi yang tidak pernah ditepati", "jam kerja yang tidak manusiawi"],
         "misread": ["pahlawan", "pemimpin", "pelopor perubahan", "orang paling jujur di kantor"],
         "movement": ["gerakan perbaikan budaya kerja", "petisi karyawan", "forum terbuka", "mogok diam-diam"],
-        "inciting": "Malam itu, {protagonis} menulis {draft_kind} berisi unek-unek soal {problem}, lalu tanpa sengaja mengirimnya ke {audience}.",
+        "inciting": "Jumat malam, {protagonis} menekan tombol yang salah: {draft_kind} berisi unek-unek soal {problem} terkirim ke {audience}.",
+        "pemicu_hooks": [
+            "Pesan Anda telah terkirim.",
+            "Di kolom penerima, satu alamat muncul di baris paling atas.",
+            "Tombol yang ia tekan bukan tombol yang ia maksud.",
+            "Layar menampilkan konfirmasi kecil yang tidak bisa dibatalkan.",
+        ],
+        "pemicu_complications": [
+            "Tidak ada tombol undo yang cukup cepat.",
+            "Penerima pesan jauh lebih banyak dari yang ia kira.",
+            "Pesan itu tidak bisa ditarik tanpa persetujuan atasan.",
+            "Layar sudah menampilkan konfirmasi terkirim.",
+        ],
         "secret": "Semua orang mengira {draft_kind} itu dikirim dengan sengaja. {protagonis} tidak pernah membetulkan anggapan itu.",
         "midpoint": "{protagonis} menemukan bukti bahwa {problem} bukan kebetulan, melainkan dipertahankan oleh {antagonis}.",
         "crisis": "{antagonis} membongkar bahwa {draft_kind} itu salah kirim, tepat saat {protagonis} hendak membuka bukti.",
@@ -391,14 +547,30 @@ ENGINES = [
             "kebenaran tidak menjadi salah hanya karena diucapkan oleh orang yang panik",
             "perubahan dimulai ketika seseorang berhenti menyembunyikan kesalahannya",
         ],
+        "humor": [
+            "ironi: seluruh kantor memuji kesalahan yang membuat protagonis panik",
+            "refleks 'siap, bisa kok' yang kambuh di momen paling salah",
+            "kontras antara wajah ramah atasan dan isi pesannya",
+            "rapat darurat Sabtu pagi yang membuktikan keluhan itu benar",
+        ],
+        "logic_rules": [
+            "Fitur undo hanya berlaku lima detik; penarikan pesan butuh persetujuan tertulis direksi.",
+            "Pesan masuk ke milis all-staff, jadi semua penerima melihat jam kirim dan nama pengirim.",
+            "Forum diumumkan lewat grup kantor, sehingga protagonis tidak punya ruang menolak tanpa saksi.",
+        ],
+        "knowledge_facts": [
+            "Isi pesan salah kirim — protagonis dan seluruh penerima sejak Bab 1; niat sebenarnya hanya protagonis.",
+            "Kebijakan penarikan pesan — protagonis dan IT sejak Bab 2; atasan sejak Bab 3.",
+            "Bukti bahwa masalah dipertahankan — protagonis dan sekutu sejak midpoint; atasan baru tahu saat crisis.",
+        ],
         "setup_events": [
-            "Pagi di {company}: {protagonis} membuka {channel} dan melihat pengumuman yang akan mengubah harinya.",
-            "Lembur Jumat: {protagonis} menulis {draft_kind} di jendela balasan yang seharusnya sudah ditutup.",
-            "Klik yang salah: {draft_kind} terkirim ke {audience}, dan tombol undo sudah hilang.",
-            "Notifikasi pertama masuk; {protagonis} membaca nama-nama penerima satu per satu.",
-            "{antagonis} mengirim pesan singkat yang terlalu ramah untuk menjadi kabar baik.",
+            "Notifikasi pertama masuk; {protagonis} membaca daftar penerima dan menyadari {audience} bukan kelompok kecil.",
+            "{protagonis} mencoba menarik pesan lewat IT; fitur undo sudah hilang dan penarikan butuh persetujuan {antagonis} secara tertulis.",
+            "{antagonis} mengirim pesan yang terlalu ramah untuk menjadi kabar baik.",
             "{sekutu} muncul dengan data yang membuat {protagonis} sadar masalahnya lebih besar dari yang ia kira.",
-            "{protagonis} mencoba menarik {draft_kind} lewat IT, tetapi penarikan itu membutuhkan persetujuan {antagonis} secara tertulis.",
+            "Rekan-rekan mulai memuji {protagonis}; ia dipanggil ke ruang {antagonis} dan bukannya dipecat, ia ditawari peran.",
+            "{antagonis} mengumumkan forum di grup kantor; {protagonis} tidak sempat menolak.",
+            "Malam itu {protagonis} menulis surat pengunduran diri, lalu menyimpannya tanpa dikirim.",
         ],
         "escalation_events": [
             "Rapat darurat hari Sabtu dipanggil {antagonis}, persis seperti yang dikeluhkan di {draft_kind}.",
@@ -420,7 +592,6 @@ ENGINES = [
             "{klien} menunda {project} karena masalah internal.",
             "{protagonis} dipanggil ke ruang {antagonis}; kali ini tidak ada senyum.",
             "Seseorang membocorkan bahwa {draft_kind} adalah kecelakaan, dan versi itu menyebar lebih cepat dari versi aslinya.",
-            "{protagonis} menulis surat pengunduran diri, lalu menyimpannya tanpa dikirim.",
             "Data yang ia butuhkan hilang dari sistem.",
             "{antagonis} menawarkan kesepakatan: diam, dan semuanya kembali normal.",
         ],
@@ -447,7 +618,6 @@ ENGINES = [
     {
         "key": "pura-pura-pacar",
         "label": "Pura-Pura Pacar / Kontrak Romansa",
-        "setup_mode": "inciting_third",
         "promise": "Dua orang berpura-pura bahagia sampai kebohongan kecil itu mulai terasa seperti satu-satunya hal yang nyata.",
         "titles": [
             "Kontrak Pacar", "Pacar Pinjaman", "Plus One", "Status: Pura-pura",
@@ -475,8 +645,19 @@ ENGINES = [
             "{love} berjanji kepada adiknya bahwa ia tidak akan datang sendirian",
         ],
         "event": ["pernikahan sepupu", "gala perusahaan", "dinner keluarga", "reuni SMA", "peluncuran produk"],
-        "duration": ["tiga minggu", "satu bulan", "sampai acara selesai", "selama musim liburan"],
-        "inciting": "{protagonis} membutuhkan pasangan untuk {event} karena {plus_one_reason}; {love} setuju dengan syarat {love_reason}. Mereka membuat kesepakatan {duration}.",
+        "duration": ["tiga minggu", "satu bulan", "sampai acara selesai", "musim liburan"],
+        "inciting": "Di meja kafe, {protagonis} dan {love} menyepakati kontrak {duration}: mereka akan berpura-pura pacaran untuk {event}, karena {plus_one_reason} dan {love_reason}.",
+        "pemicu_hooks": [
+            "Kata 'ya' keluar sebelum ia sempat menghitung risikonya.",
+            "Kontrak itu ditulis di belakang menu, dengan dua tanda tangan.",
+            "Mereka berjabat tangan, dan sandiwara itu resmi dimulai.",
+        ],
+        "pemicu_complications": [
+            "Kesepakatan itu tidak bisa dibatalkan tanpa memalukan keluarga.",
+            "Terlalu banyak orang sudah menganggap hubungan itu nyata.",
+            "Kontrak itu punya tenggat yang tidak bisa dinegosiasikan.",
+            "Salah satu dari mereka sudah terlanjur berbohong kepada orang lain.",
+        ],
         "secret": "Kesepakatan mereka hanya di atas kertas, tetapi keluarga {protagonis} sudah menganggapnya serius.",
         "midpoint": "Di tengah {event}, {love} memperkenalkan {protagonis} sebagai orang yang penting, dan kalimat itu tidak ada di dalam kontrak.",
         "crisis": "{protagonis} mendengar {love} mengatakan kepada orang lain bahwa semuanya hanya pengaturan.",
@@ -495,14 +676,29 @@ ENGINES = [
             "kita tidak bisa meminta orang lain mencintai versi diri yang kita karang",
             "keluarga yang baik belum tentu keluarga yang mengenal kita",
         ],
+        "humor": [
+            "kontrak pacar yang aturannya lebih rinci daripada kontrak kerja",
+            "keluarga yang sudah menyiapkan daftar tamu sebelum hubungan itu resmi",
+            "latihan menjawab pertanyaan 'kapan nikah' yang berakhir pertengkaran",
+            "kontras antara chemistry di depan orang dan sikap dingin setelah acara",
+        ],
+        "logic_rules": [
+            "Kesepakatan punya tenggat yang jelas dan saksi, jadi tidak bisa dibatalkan sepihak.",
+            "Keluarga sudah mengumumkan hubungan itu, sehingga mundur berarti mempermalukan orang tua.",
+            "Pekerjaan protagonis mengharuskan ia menjaga citra stabil di depan klien.",
+        ],
+        "knowledge_facts": [
+            "Isi kontrak — protagonis dan love sejak Bab 1; tidak ada orang lain yang tahu.",
+            "Alasan sebenarnya masing-masing — protagonis dan love sejak Bab 1; keluarga hanya tahu versi palsu.",
+            "Perasaan yang mulai nyata — protagonis mulai midpoint; love belum mengaku.",
+        ],
         "setup_events": [
-            "Undangan {event} tiba dengan dua nama, dan {protagonis} belum punya pasangan.",
-            "Mantan {protagonis} mengirim pesan yang terlalu akrab untuk diabaikan.",
-            "Kesepakatan pertama ditulis di belakang menu kafe, lengkap dengan aturan yang tidak boleh dilanggar.",
+            "Mereka menulis aturan di belakang menu: tidak ada perasaan, tidak ada cerita palsu berlebihan, berakhir setelah {event}.",
             "{protagonis} dan {love} berlatih menjawab pertanyaan keluarga; latihan itu berakhir dengan pertengkaran kecil.",
             "Mama menelepon dan sudah menyiapkan daftar tamu yang akan duduk satu meja dengan mereka.",
             "{protagonis} mulai berbohong kepada {sekutu}, dan kebohongan pertama terasa lebih berat dari yang ia sangka.",
-            "{love} menyerahkan satu kotak berisi barang-barang yang perlu dipakai selama sandiwara berlangsung.",
+            "{love} menyerahkan satu kotak berisi barang-barang yang perlu dipakai selama sandiwara.",
+            "Mantan {protagonis} muncul di grup keluarga dan bertanya apakah {protagonis} akan datang dengan pasangan.",
         ],
         "escalation_events": [
             "Dinner keluarga berjalan lancar sampai seseorang bertanya kapan mereka akan menikah.",
@@ -548,7 +744,6 @@ ENGINES = [
     {
         "key": "proyek-bersama",
         "label": "Proyek Bersama / Musuh Jadi Rekan",
-        "setup_mode": "inciting_first",
         "promise": "Dua orang yang paling tidak cocok dipaksa menyelesaikan satu proyek, dan batas profesional mulai retak.",
         "titles": [
             "Proyek Kita", "Tenggat Rasa", "Tim Sementara", "Kontrak Sembilan Puluh Hari",
@@ -568,7 +763,18 @@ ENGINES = [
             "mereka punya pandangan yang bertolak belakang tentang cara menyelesaikan pekerjaan",
             "salah satu pernah menulis evaluasi yang membuat karier yang lain hampir berakhir",
         ],
-        "inciting": "{protagonis}, {protagonist_job} di {company}, ditugaskan menangani {project} bersama {love}, {love_job} dari {client}. Masalahnya, mereka punya sejarah: {conflict_history}.",
+        "inciting": "Rapat kick-off {project} baru saja dimulai ketika {antagonis} mengumumkan bahwa {protagonis} dan {love} harus memimpin bersama—meski sejarah mereka {conflict_history}.",
+        "pemicu_hooks": [
+            "Semua orang di ruang rapat menoleh ke arahnya.",
+            "Kontrak proyek itu diletakkan di meja, sudah bertanda tangan.",
+            "Ia membuka mulut untuk menolak, dan yang keluar adalah 'siap'.",
+        ],
+        "pemicu_complications": [
+            "Kontrak sudah ditandatangani; mundur berarti kehilangan pekerjaan.",
+            "Klien sudah mengenal mereka sebagai satu tim.",
+            "Atasan sudah mengumumkan pembagian peran di depan semua orang.",
+            "Tidak ada orang lain yang bisa mengambil alih proyek ini.",
+        ],
         "secret": "Proyek ini bisa menyelamatkan karier {protagonis}, tetapi juga bisa menghancurkan reputasi {love}.",
         "midpoint": "Di tengah presentasi, {protagonis} menemukan bahwa {antagonis} sengaja menempatkan mereka berdua di proyek ini untuk saling menghancurkan.",
         "crisis": "{klien} memberi ultimatum: salah satu dari mereka harus dikeluarkan dari proyek.",
@@ -587,14 +793,30 @@ ENGINES = [
             "kepercayaan dibangun dari kesalahan yang diakui, bukan dari kesempurnaan",
             "orang yang paling sulit diajak bekerja sama kadang adalah cermin kita sendiri",
         ],
+        "humor": [
+            "dua orang yang saling menghindari dipaksa satu meja selama berbulan-bulan",
+            "rapat yang seharusnya membahas proyek berubah jadi adu data",
+            "klien mengira ketegangan mereka adalah chemistry profesional",
+            "lembur sampai pagi yang berakhir dengan pengakuan yang tidak direncanakan",
+        ],
+        "logic_rules": [
+            "Kontrak proyek mengikat kedua pihak sampai presentasi akhir.",
+            "Klien punya hak menghentikan proyek jika terjadi konflik kepentingan.",
+            "Semua keputusan teknis harus tercatat di grup proyek, jadi tidak bisa dihapus diam-diam.",
+        ],
+        "knowledge_facts": [
+            "Sejarah konflik mereka — protagonis dan love sejak Bab 1; atasan tahu sebagian.",
+            "Data yang disembunyikan love — love sejak awal; protagonis sejak Bab 3.",
+            "Rencana antagonis menempatkan mereka — antagonis sejak Bab 1; protagonis sejak midpoint.",
+        ],
         "setup_events": [
-            "Rapat kick-off {project} mempertemukan {protagonis} dan {love} untuk pertama kalinya setelah konflik lama.",
-            "{antagonis} mengumumkan pembagian peran yang jelas-jelas tidak seimbang.",
+            "{antagonis} membagi peran dengan jelas-jelas tidak seimbang.",
             "Presentasi pertama berjalan buruk, dan {klien} meminta semuanya diulang.",
             "{protagonis} menemukan bahwa {love} menyimpan data yang tidak ia bagikan.",
             "Lembur pertama berakhir dengan pertengkaran tentang siapa yang paling berhak mengambil keputusan.",
             "{sekutu} memperingatkan {protagonis} agar tidak mempercayai {love} terlalu cepat.",
             "{antagonis} menawarkan jalur cepat kepada {protagonis}, dengan syarat {love} tidak dilibatkan.",
+            "{love} membela {protagonis} di depan {antagonis}, meski itu merugikan posisinya.",
         ],
         "escalation_events": [
             "Dinner dengan {klien} berubah menjadi wawancara kerja rahasia untuk salah satu dari mereka.",
@@ -641,7 +863,6 @@ ENGINES = [
     {
         "key": "identitas-salah",
         "label": "Identitas Salah / Nama Pinjaman",
-        "setup_mode": "inciting_first",
         "promise": "Satu kesalahpahaman di hari pertama membuka pintu yang tidak seharusnya, dan setiap hari kebohongan itu makin mahal.",
         "titles": [
             "Orang Lain", "Nama yang Salah", "Akun Anonim", "Bukan Saya",
@@ -668,7 +889,18 @@ ENGINES = [
             "kesempatan memperbaiki kesalahan masa lalu",
             "posisi yang bisa menyelamatkan keluarganya",
         ],
-        "inciting": "Di hari pertama di {company}, {protagonis} disangka {wrong_identity}. Ia tidak membetulkannya karena {benefit}.",
+        "inciting": "Di hari pertama di {company}, resepsionis memanggil {protagonis} dengan nama orang lain. {protagonis} membuka mulut untuk membetulkan, lalu menutupnya lagi karena {benefit}.",
+        "pemicu_hooks": [
+            "Resepsionis tersenyum. 'Selamat datang, Pak.'",
+            "Ia membuka mulut untuk membetulkan, lalu menutupnya lagi.",
+            "Kartu akses itu sudah tercetak dengan nama orang lain.",
+        ],
+        "pemicu_complications": [
+            "Nama itu sudah tercetak di kartu akses.",
+            "Sistem sudah memberikan akses yang tidak seharusnya.",
+            "Terlalu banyak orang sudah memanggilnya dengan nama itu.",
+            "Membetulkan sekarang berarti mengakui kesalahan di hari pertama.",
+        ],
         "secret": "Semua keuntungan yang ia dapat dibangun di atas satu nama yang bukan miliknya.",
         "midpoint": "Orang yang identitasnya ia pinjam ternyata menyimpan rahasia yang jauh lebih besar.",
         "crisis": "Orang asli itu muncul di {company}, dan {protagonis} harus bicara sebelum {antagonis} melakukannya.",
@@ -687,8 +919,23 @@ ENGINES = [
             "pengakuan tidak selalu menyelamatkan kita, tapi mengakhiri kebohongan",
             "nama yang kita pakai bukan bukti tentang siapa kita",
         ],
+        "humor": [
+            "setiap rapat, satu orang memuji keahlian yang bukan milik protagonis",
+            "nama yang salah membuat protagonis diundang ke rapat yang seharusnya tidak ia hadiri",
+            "rekan kerja meminta pendapat 'ahli' dengan sangat serius",
+            "kebenaran yang hampir keluar di lift, lalu ditelan lagi",
+        ],
+        "logic_rules": [
+            "Akses diberikan berdasarkan nama di sistem, bukan wajah.",
+            "HR baru memeriksa dokumen identitas setelah masa percobaan.",
+            "Rekan kerja hanya tahu nama dari daftar tim, bukan dari KTP.",
+        ],
+        "knowledge_facts": [
+            "Identitas asli — protagonis dan orang asli; belum ada yang lain.",
+            "Kesalahpahaman pertama — protagonis dan resepsionis sejak Bab 1; rekan kerja menyimpulkan sendiri.",
+            "Kecurigaan antagonis — antagonis sejak Bab 3; belum terbukti sampai crisis.",
+        ],
         "setup_events": [
-            "Hari pertama {protagonis} di {company}: resepsionis menyebut nama yang salah, dan ia tidak membetulkannya.",
             "{protagonis} diberi akses dan proyek yang seharusnya bukan untuk posisinya.",
             "{sekutu} menyebut detail yang membuat {protagonis} sadar identitas itu punya masa lalu.",
             "{antagonis} mulai mengajukan pertanyaan yang terlalu spesifik.",
@@ -740,7 +987,6 @@ ENGINES = [
     {
         "key": "warisan",
         "label": "Warisan / Tempat yang Harus Diselamatkan",
-        "setup_mode": "inciting_first",
         "promise": "Seseorang mewarisi tempat yang penuh kenangan, utang, dan orang-orang yang tidak percaya ia mampu menjaganya.",
         "titles": [
             "Warisan", "Kedai Terakhir", "Nama di Papan", "Rumah Lama",
@@ -770,7 +1016,18 @@ ENGINES = [
             "tidak percaya pada cara {protagonis}",
             "sedang membangun tempat serupa di seberang jalan",
         ],
-        "inciting": "{protagonis} mewarisi {inheritance} dari {benefactor}, dengan syarat {condition}. Masalahnya, {love} sudah punya rencana lain untuk tempat itu.",
+        "inciting": "Di ruang notaris, {protagonis} membaca surat wasiat {benefactor}: ia mewarisi {inheritance}, dengan syarat {condition}.",
+        "pemicu_hooks": [
+            "Notaris mendorong surat wasiat ke arahnya.",
+            "Syarat itu dibacakan, dan ruangan terasa lebih kecil.",
+            "Ia mewarisi tempat yang sudah lama ia hindari.",
+        ],
+        "pemicu_complications": [
+            "Syarat wasiat tidak bisa dinegosiasikan.",
+            "Utang warisan harus dilunasi sebelum aset bisa dijual.",
+            "Karyawan lama sudah tahu nama protagonis.",
+            "Notaris mencatat setiap keputusan hari itu.",
+        ],
         "secret": "Warisan itu datang dengan utang dan janji yang tidak tertulis.",
         "midpoint": "{protagonis} menemukan buku catatan {benefactor} yang membongkar alasan sebenarnya warisan diberikan kepadanya.",
         "crisis": "Penawaran besar datang untuk membeli {inheritance}; menerimanya menyelesaikan masalah, menolaknya berarti mempertahankan janji.",
@@ -789,14 +1046,29 @@ ENGINES = [
             "warisan bukan tentang benda, tapi tentang janji yang kita teruskan",
             "menyelamatkan sesuatu tidak selalu berarti mempertahankannya seperti dulu",
         ],
+        "humor": [
+            "orang yang tidak pernah mengurus bisnis tiba-tiba harus memimpin rapat karyawan",
+            "karyawan lama memperlakukan protagonis seperti anak magang",
+            "pelanggan setia menanyakan menu yang sudah tidak ada sejak lima tahun lalu",
+            "notaris yang menjelaskan utang dengan nada seperti membacakan menu",
+        ],
+        "logic_rules": [
+            "Surat wasiat mengikat selama enam bulan; penjualan sebelum itu memerlukan persetujuan notaris.",
+            "Utang warisan harus dilunasi sebelum aset bisa dialihkan.",
+            "Karyawan lama punya kontrak yang hanya bisa diakhiri dengan pesangon.",
+        ],
+        "knowledge_facts": [
+            "Isi surat wasiat — protagonis dan notaris sejak Bab 1; love dan karyawan tahu sebagian.",
+            "Utang warisan — protagonis sejak Bab 2; karyawan lama belum tentu tahu.",
+            "Alasan sebenarnya warisan — protagonis sejak midpoint; love belum tahu sampai crisis.",
+        ],
         "setup_events": [
-            "{protagonis} menerima kabar kematian {benefactor} di tengah pekerjaan yang sedang sibuk.",
-            "Surat wasiat dibacakan, dan syaratnya membuat {protagonis} terdiam.",
             "{protagonis} mengunjungi {inheritance} untuk pertama kali setelah bertahun-tahun.",
             "{love} sudah berada di lokasi dengan rencana renovasi sendiri.",
             "Karyawan lama menolak percaya bahwa {protagonis} akan bertahan.",
             "{protagonis} menemukan tumpukan tagihan yang tidak disebutkan dalam surat wasiat.",
             "Mama memperingatkan {protagonis} agar tidak mengulangi kesalahan keluarga.",
+            "{antagonis} mengajukan penawaran pembelian pertama.",
         ],
         "escalation_events": [
             "Hari pertama operasional berjalan kacau, dan {protagonis} membuat kesalahan yang mahal.",
@@ -843,7 +1115,6 @@ ENGINES = [
     {
         "key": "viral",
         "label": "Viral / Perhatian yang Tidak Diminta",
-        "setup_mode": "inciting_first",
         "promise": "Satu momen menjadi milik publik, dan seseorang harus memutuskan apakah ia ingin dikenal sebagai dirinya atau sebagai versi yang dipotong algoritma.",
         "titles": [
             "Viral", "Satu Menit", "Komentar", "Trending", "Konten",
@@ -884,7 +1155,18 @@ ENGINES = [
             "ia dibayar untuk membuat konten itu",
             "kalimat yang dikutip bukan kalimatnya",
         ],
-        "inciting": "{protagonis}, {protagonist_job} di {company}, menjadi viral karena {viral_trigger}. Dalam semalam, hidupnya berubah.",
+        "inciting": "Ponsel {protagonis} tidak berhenti bergetar. Video {viral_trigger} sudah dibagikan empat puluh ribu kali, dan {company} mulai menelepon.",
+        "pemicu_hooks": [
+            "Ponselnya tidak berhenti bergetar.",
+            "Empat puluh ribu orang sudah melihat videonya.",
+            "Nama perusahaan muncul di layar panggilan.",
+        ],
+        "pemicu_complications": [
+            "Unggahan sudah menyebar; menghapusnya tidak menghentikan tangkapan layar.",
+            "Nama perusahaan sudah muncul di komentar.",
+            "Terlalu banyak orang sudah menyimpan videonya.",
+            "Klarifikasi apa pun akan dibaca sebagai pembelaan.",
+        ],
         "midpoint": "Seseorang mengunggah konteks lengkap yang membongkar bahwa {secret}.",
         "crisis": "{company} meminta {protagonis} menghapus semuanya; {love} memintanya bicara jujur.",
         "climax": "{protagonis} muncul di depan kamera dan menjawab semua pertanyaan tanpa skrip.",
@@ -902,9 +1184,23 @@ ENGINES = [
             "versi pendek dari kebenaran tetap bisa melukai",
             "kita tidak berutang seluruh hidup kepada orang yang menonton",
         ],
+        "humor": [
+            "komentar internet yang tiba-tiba menganggap protagonis ahli segala hal",
+            "keluarga yang bangga tanpa memahami apa yang sebenarnya terjadi",
+            "rapat krisis yang dipimpin orang yang paling tidak paham media sosial",
+            "tawaran kerja yang datang lebih cepat daripada klarifikasi",
+        ],
+        "logic_rules": [
+            "Unggahan bisa dihapus, tetapi tangkapan layar dan reupload tidak.",
+            "Perusahaan punya klausul brand safety di kontrak kerja.",
+            "Klarifikasi publik butuh persetujuan tim komunikasi, kecuali dilakukan atas nama pribadi.",
+        ],
+        "knowledge_facts": [
+            "Pemicu viral — protagonis dan publik sejak Bab 1; keluarga tahu belakangan.",
+            "Konteks lengkap — protagonis sejak awal; publik baru tahu saat midpoint.",
+            "Peran perusahaan — atasan sejak Bab 2; protagonis baru sadar saat crisis.",
+        ],
         "setup_events": [
-            "Video {protagonis} diunggah oleh orang lain dan mulai dibagikan.",
-            "Ponsel {protagonis} tidak berhenti bergetar sepanjang pagi.",
             "{company} meminta klarifikasi, dan {protagonis} belum tahu harus berkata apa.",
             "{love} adalah orang pertama yang bertanya apakah semuanya benar.",
             "{protagonis} membaca komentar pertama yang membela dan yang pertama menghina.",

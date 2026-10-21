@@ -1,5 +1,16 @@
 # Chapter Craft
 
+## Format Teks Wajib
+
+- Judul bab: `## Bab N: Judul` — 2–5 kata, memancing rasa penasaran, tidak membocorkan twist.
+- Chat: `**Nama:** *isi pesan*`.
+- Email atau surat yang dibaca tokoh: ditulis miring.
+- Tanpa emoji di narasi maupun chat.
+- **Bab 1 wajib in medias res:** buka di detik pemicu atau sesudahnya, bukan pagi yang tenang.
+  Tiga kalimat pertama harus membuat pembaca bertanya "terus gimana?".
+- Satu bab = satu adegan/beat, 600–900 kata, selalu berakhir hook.
+- Outline harus terkunci sebelum bab ditulis; perubahan lewat `change-request.md`.
+
 ## Adegan = Tujuan + Rintangan + Belokan
 
 Setiap bab harus bisa dijawab dengan tiga pertanyaan:

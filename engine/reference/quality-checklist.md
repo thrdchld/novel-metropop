@@ -18,13 +18,39 @@
 - [ ] Setiap tokoh punya cara bicara yang bisa dibedakan.
 - [ ] Tidak ada tokoh yang hanya muncul untuk menjelaskan plot.
 
+## Format dan Outline
+
+- [ ] 30–40 bab.
+- [ ] Bab 1 in medias res, bukan pagi yang tenang.
+- [ ] Judul bab 2–5 kata; heading `## Bab N: Judul`.
+- [ ] Chat `**Nama:** *isi pesan*`; email/surat miring.
+- [ ] Tanpa emoji dan umpatan kasar.
+- [ ] Outline berstatus terkunci sebelum bab ditulis.
+- [ ] Semua kolom outline per bab terisi: tujuan, komplikasi, 3–5 beat, perubahan,
+      pengetahuan, setup/payoff, teknik, hook, logika, pertanyaan pembaca, yang TIDAK terjadi.
+- [ ] `stress-test.md` sudah diisi, bukan placeholder.
+- [ ] `ledger.md` diperbarui setelah bab terakhir.
+
+## Anti Plot Hole
+
+- [ ] Jalan keluar paling mudah sudah ditutup secara eksplisit.
+- [ ] Alasan protagonis tidak jujur konsisten dengan kelemahannya.
+- [ ] Teks yang terlihat orang lain (judul, jam kirim, nama file) sudah diperiksa.
+- [ ] Antagonis punya alasan untuk tidak langsung menyerang.
+- [ ] Mekanisme teknis masuk akal dan konsisten antarbab.
+- [ ] Tidak ada tokoh yang memakai informasi yang belum ia terima.
+- [ ] Setiap bukti di klimaks punya setup.
+- [ ] Motif tiap tokoh jelas.
+- [ ] Tidak ada tokoh baru tanpa jejak.
+- [ ] Tidak ada kebetulan yang menyelamatkan protagonis.
+
 ## Struktur
 
 - [ ] Pemicu terjadi sebelum 15%.
 - [ ] Komitmen di sekitar 25%.
 - [ ] Midpoint mengubah pemahaman, bukan hanya menambah informasi.
 - [ ] Titik terendah di sekitar 75%.
-- [ ] Klimaks di sekitar 90%.
+- [ ] Klimaks di sekitar 85–95%.
 - [ ] Setiap subplot punya resolusi atau konsekuensi.
 - [ ] Tidak ada benang baru setelah midpoint tanpa penanaman sebelumnya.
 
@@ -77,7 +103,21 @@
 - [ ] Citra akhir mencerminkan tema.
 - [ ] Tidak ada hook palsu di bab terakhir.
 
-## Rubrik 1–5
+## Rubrik Wajib (8 Kriteria)
+
+Nilai 1–5 per kriteria. Bab lulus jika **tidak ada nilai di bawah 4** dan
+**total minimal 34/40**. Jika tidak lulus, perbaiki dulu, jangan kirim.
+
+| Kriteria | Yang dinilai | Gagal jika |
+|---|---|---|
+| Bahasa dan suara | Sehari-hari, mengalir, tidak terasa terjemahan | Kaku, formal, analogi aneh, kalimat rancu |
+| Kejelasan | Pembaca awam paham, istilah asing dijelaskan sekali | Ada istilah/konteks membingungkan |
+| Logika dan kontinuitas | Waktu, tempat, siapa tahu apa konsisten | Pembaca bertanya "kok bisa?" |
+| Kepatuhan outline | Sesuai outline terkunci | Fakta/tokoh/urutan berubah tanpa izin |
+| Hook dan ritme | Ada perkembangan, tempo pas, akhir menarik | Bab diam di tempat atau hook lemah |
+| Humor dan awkwardness | Lucu dari situasi, ada momen canggung konkret | Lelucon dipaksakan atau tidak ada |
+| Tokoh dan emosi | Tells konsisten, emosi terasa tanpa dijelaskan panjang | Tokoh keluar karakter |
+| Teknik naratif | Dipakai tepat guna, sesuai rencana | Dipaksakan atau tidak sesuai outline |
 
 | Nilai | Arti |
 |---:|---|
@@ -87,8 +127,11 @@
 | 4 | Kuat; karakter dan konflik saling mendorong. |
 | 5 | Berkesan; pembaca akan mengutipnya. |
 
-Nilai minimal untuk dianggap siap publikasi: **3.5 rata-rata**, tanpa nilai 1 di
-kategori premis, karakter, atau struktur.
+## Tes Pembaca
+
+1. Maukah aku langsung klik bab berikutnya?
+2. Adakah bagian yang membuatku mengernyit atau membaca dua kali?
+3. Adakah yang tidak masuk akal bagi orang awam?
 
 ## Pertanyaan untuk Beta Reader
 

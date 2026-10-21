@@ -1,10 +1,15 @@
 # Referensi MetroPop
 
+**Acuan tertinggi:** `../../Panduan Menulis Web Novel Metropop Indonesia.txt`.
+Ringkasan operasional dan pemetaan perintahnya ada di `panduan-utama.md`.
+Jika ada konflik antara file di folder ini dan panduan sumber, panduan sumber menang.
+
 Folder ini berisi pengetahuan yang dipakai engine untuk merencanakan cerita. Engine tidak
 membaca file ini saat runtime; isinya adalah acuan manusia dan agen saat menulis.
 
 | File | Isi |
 |---|---|
+| `panduan-utama.md` | Ringkasan operasional panduan sumber: format, outline lock, Ledger, rubrik. |
 | `metropop-playbook.md` | Definisi genre, janji pembaca, suara, formula bab 750 kata. |
 | `structure-30-40.md` | Tiga babak, lima fase, titik balik, peta bab untuk 30/35/40 bab. |
 | `chapter-craft.md` | Kerajinan adegan, dialog, hook, kontinuitas, dan revisi. |
@@ -14,11 +19,12 @@ membaca file ini saat runtime; isinya adalah acuan manusia dan agen saat menulis
 
 ## Urutan Pakai
 
-1. Baca `metropop-playbook.md` sebelum menyetujui premis.
-2. Pakai `structure-30-40.md` untuk memeriksa peta babak.
-3. Saat menulis bab, buka `chapter-craft.md`.
-4. Sebelum menandai `done`, jalankan `quality-checklist.md`.
-5. Jika ingin membuat mesin baru, tiru pola di `trope-bank.md`.
+1. Baca panduan sumber, lalu `panduan-utama.md`.
+2. Pakai `metropop-playbook.md` sebelum menyetujui premis.
+3. Pakai `structure-30-40.md` untuk memeriksa peta babak.
+4. Saat menulis bab, buka `chapter-craft.md`.
+5. Sebelum menandai `done`, jalankan `quality-checklist.md` dan rubrik.
+6. Jika ingin membuat mesin baru, tiru pola di `trope-bank.md`.
 
 ## Sumber
 

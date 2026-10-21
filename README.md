@@ -1,15 +1,19 @@
 # novel-metropop
 
 Repositori untuk merencanakan dan menulis web novel **MetroPop**: drama urban Indonesia
-dengan romansa, humor, dan kritik sosial ringan. Satu bab ±750 kata, minimal 30 bab.
+dengan romansa, humor, dan kritik sosial ringan. Satu bab ±750 kata, **30–40 bab**.
+
+**Acuan tertinggi:** [`Panduan Menulis Web Novel Metropop Indonesia.txt`](./Panduan%20Menulis%20Web%20Novel%20Metropop%20Indonesia.txt).
+Engine, template, dan validator di repo ini mengikuti panduan tersebut. Ringkasan
+operasionalnya ada di `engine/reference/panduan-utama.md`.
 
 ## Dua Folder Utama
 
-- **`engine/`** — mesin cerita: bank premis, planner, renderer, validator, CLI, dan
-  panduan referensi. Engine membuat premis, karakter, bible, outline 30–50 bab, dan paket
-  penulisan per bab.
+- **`engine/`** — mesin cerita: bank premis, planner, character sheet, outline lock,
+  Story Ledger, stress test, rubrik, validator, CLI, dan panduan referensi.
 - **`story/`** — hasil cerita. Satu cerita = satu folder sesuai judul, berisi
-  `story.json`, `bible.md`, `outline.md`, dan `chapters/bab-XX.md`.
+  `story.json`, bible, outline, Ledger, stress test, rubrik, change request, dan
+  `chapters/bab-XX.md`.
 
 `referensi` di root adalah manuskrip contoh “Reply All” (blueprint 40 bab + 10 bab jadi)
 yang menjadi studi kasus engine.
@@ -17,16 +21,20 @@ yang menjadi studi kasus engine.
 ## Mulai Cepat
 
 ```bash
-# lihat mesin premis
-bash engine/bin/metropop engines
+# 1. usul 3 premis
+bash engine/bin/metropop ideas
 
-# buat cerita baru (40 bab, seed tetap)
+# 2. buat cerita baru (30–40 bab)
 bash engine/bin/metropop new "Salah Kirim" --engine salah-kirim --seed 42
 
-# paket penulisan bab 1
+# 3. isi stress test, lalu kunci outline
+bash engine/bin/metropop stress --story "story/Salah Kirim"
+bash engine/bin/metropop lock --story "story/Salah Kirim"
+
+# 4. paket penulisan bab 1
 bash engine/bin/metropop brief 1 --story "story/Salah Kirim"
 
-# validasi dan progres
+# 5. validasi dan progres
 bash engine/bin/metropop check --story "story/Salah Kirim" --strict
 bash engine/bin/metropop stats --story "story/Salah Kirim"
 ```
@@ -42,18 +50,23 @@ python3 -m metropop engines
 ## Batasan Cerita
 
 - Genre: MetroPop (urban kontemporer, bukan fantasi/horor/sejarah).
-- 30–50 bab; default 40.
-- ±750 kata per bab; rentang 600–900; bab titik balik boleh 720–950.
-- Satu POV per bab, satu adegan utama, satu hook di kalimat terakhir.
+- **30–40 bab**; default 40.
+- ±750 kata per bab; rentang 600–900; titik balik 720–950.
+- **Bab 1 wajib in medias res.**
+- Judul bab 2–5 kata; heading `## Bab N: Judul`.
+- Chat `**Nama:** *isi pesan*`; email/surat miring; tanpa emoji.
+- Satu POV per bab, satu adegan/beat, satu hook di kalimat terakhir.
 - Tiga babak: 25% setup, 50% eskalasi + midpoint + kejatuhan, 25% resolusi.
+- Outline dikunci sebelum menulis; kontinuitas dijaga lewat `ledger.md`.
 
 ## Dokumentasi
 
 - `engine/README.md` — perintah, struktur, cara kerja, menambah mesin.
+- `engine/reference/panduan-utama.md` — ringkasan operasional panduan sumber.
 - `engine/reference/metropop-playbook.md` — aturan genre dan formula bab.
 - `engine/reference/structure-30-40.md` — peta babak dan beat.
 - `engine/reference/chapter-craft.md` — kerajinan adegan, dialog, hook.
 - `engine/reference/trope-bank.md` — enam mesin premis dan arketipe.
-- `engine/reference/quality-checklist.md` — daftar periksa sebelum publikasi.
+- `engine/reference/quality-checklist.md` — daftar periksa dan rubrik.
 - `engine/reference/case-study-reply-all.md` — analisis manuskrip referensi.
 - `story/README.md` — konvensi folder dan alur menulis.

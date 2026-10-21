@@ -1,5 +1,9 @@
 # Struktur 30–40 Bab
 
+> Struktur ini mengikuti `../../Panduan Menulis Web Novel Metropop Indonesia.txt`.
+> Outline harus dikunci sebelum bab ditulis; kontinuitas dijaga di `ledger.md`.
+> Bab 1 wajib in medias res, dan setiap bab berakhir hook.
+
 ## Tiga Babak
 
 | Babak | Porsi | Fungsi |

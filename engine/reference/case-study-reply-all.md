@@ -76,7 +76,8 @@ pindahkan penemuan bukti lebih awal atau tambah konsekuensi setelahnya.
 
 “Reply All” adalah prototipe mesin **`salah-kirim`**:
 
-- `setup_mode: inciting_second` — Bab 1 dunia awal, Bab 2 pemicu, lalu reaksi dan sekutu.
+- Bab 1 = pemicu (in medias res), lalu `setup_events` berisi reaksi, aturan main, tekanan,
+  sekutu, dan komitmen.
 - `midpoint` — protagonis menemukan bahwa masalah yang ia tulis memang dipertahankan.
 - `crisis` — antagonis membongkar bahwa pesan itu salah kirim.
 - `climax` — pengakuan publik, lalu isi pesan tetap dibacakan.
