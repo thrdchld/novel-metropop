@@ -58,6 +58,12 @@ Aturan harus:
 
 - **Kecil.** Satu perubahan untuk satu masalah.
 - **Bisa dipakai ulang.** Bukan aturan khusus satu adegan.
+- **Jangan memaksa alat.** Jangan menambah aturan yang mewajibkan subplot, flashback,
+  atau scene ikonik. Prinsip Pas: boleh nol jika cerita sudah padat.
+- **Ide tambahan sebelum lock** masuk `templates/idea-list.md`; setelah lock hanya lewat
+  Permintaan Perubahan.
+- **Panduan sumber terbaru menang.** Jika panduan baru bertentangan dengan engine,
+  perbaiki engine.
 - **Tidak overfit.** Jangan mengubah aturan global karena satu cerita.
 - **Tidak diam-diam.** Catat dan jelaskan.
 - **Tidak menghapus canon project** tanpa persetujuan user.

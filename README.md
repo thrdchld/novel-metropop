@@ -1,7 +1,11 @@
 # novel-metropop
 
 Repositori untuk menulis web novel **MetroPop Indonesia** bersama AI agent: 30–40 bab,
-±750 kata per bab, dengan canon, outline terkunci, Story Ledger, dan rubrik.
+±750 kata per bab, target pembaca **13+**, latar dan usia tokoh bebas. Dilengkapi canon,
+outline terkunci, Story Ledger, dan rubrik.
+
+**Prinsip Pas:** teknik naratif, subplot, flashback, dan scene ikonik adalah alat
+opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 
 Repo ini **agent-first**. Otaknya adalah markdown di `engine/`, bukan aplikasi Python.
 Buka folder ini di Antigravity, Codex, Claude, Gemini, atau agent lain, lalu suruh ia
@@ -31,14 +35,16 @@ CLAUDE.md              # pointer untuk Claude
 GEMINI.md              # pointer untuk Gemini/Antigravity
 engine/                # otak agent: workflow, genre, struktur, gaya, template
 story/                 # cerita: canon, outline, ledger, chapters
-Panduan Menulis Web Novel Metropop Indonesia.txt  # acuan tertinggi
+Panduan Proyek Web Novel Reply All (Brief untuk AI).md  # acuan tertinggi
+Panduan Menulis Web Novel Metropop Indonesia.txt        # versi sebelumnya
 referensi              # studi kasus "Reply All"; jangan salin prosa/plot
 ```
 
 ## Mode Kerja
 
-- **Ide/premis baru** — agent memberi 3 opsi: judul, logline, tema, tokoh, humor.
-- **Project baru** — canon → outline → stress test → lock → Bab 1.
+- **Ide/premis baru** — agent memberi 3 opsi: judul, logline, tema, tokoh, pemicu, humor.
+- **Project baru** — tahap A–G: premis → dokumen dasar → outline → stress test → lock →
+  Bab 1.
 - **Lanjutkan** — baca canon/ledger/bab terakhir → posisi 5 baris → konfirmasi → bab baru.
 - **Revisi** — klasifikasi feedback → revisi lokal → update canon/ledger → catat pelajaran.
 - **Riset** — ekstrak prinsip dari PDF/teks/URL, tanpa menyalin karya berhak cipta.

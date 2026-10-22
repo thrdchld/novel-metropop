@@ -4,11 +4,16 @@
 
 | Sumber | Fungsi |
 |---|---|
-| `../Panduan Menulis Web Novel Metropop Indonesia.txt` | Acuan tertinggi. Baca seluruhnya. |
+| `../Panduan Proyek Web Novel Reply All (Brief untuk AI).md` | **Acuan tertinggi versi terbaru.** Baca seluruhnya. |
+| `../Panduan Menulis Web Novel Metropop Indonesia.txt` | Versi sebelumnya; referensi tambahan. |
 | `../referensi` | Manuskrip contoh “Reply All” + blueprint 40 bab. |
 | `examples/` | Contoh premis, outline, adegan, hook, perbaikan gaya. |
 | `learnings/editor-feedback.md` | Kritik berulang dari user. |
 | `learnings/changelog.md` | Riwayat perubahan aturan engine. |
+
+Panduan terbaru memperluas cakupan: target pembaca **13+**, latar dan usia tokoh bebas
+(kantor, sekolah, kuliah, pernikahan, keluarga, desa, lansia), dan **Prinsip Pas**—
+teknik/subplot/flashback/scene ikonik opsional, boleh nol.
 
 `../referensi` adalah studi kasus “Reply All”: blueprint 40 bab + 10 bab prosa. Gunakan
 untuk mempelajari struktur dan ritme, **bukan** untuk menyalin prosa/plot. `examples/`

@@ -6,12 +6,15 @@ description: Menulis dan merevisi web novel MetroPop Indonesia 30–40 bab, ±75
 # Skill: MetroPop Novel
 
 Baca `AGENTS.md` di root repo, lalu `engine/README.md` dan `engine/00-workflow.md`.
-Dokumen sumber tertinggi: `Panduan Menulis Web Novel Metropop Indonesia.txt`.
+Dokumen sumber tertinggi: `Panduan Proyek Web Novel Reply All (Brief untuk AI).md`.
+Panduan lama hanya referensi tambahan.
 
 ## Perilaku Wajib
 
 - Mulai sesi dengan satu pertanyaan: ide baru, project baru, lanjutkan, revisi, atau riset.
 - Jangan menulis prosa sebelum mode dipilih dan outline disetujui.
+- Target pembaca 13+; latar dan usia tokoh bebas.
+- Prinsip Pas: teknik/subplot/flashback/scene ikonik opsional, boleh nol.
 - Satu bab per respons; batch hanya jika diminta.
 - Setiap bab 600–900 kata, satu POV, satu adegan/beat, berakhir hook.
 - Format: `## Bab N: Judul`, judul 2–5 kata, chat `**Nama:** *isi*`, email/surat miring,

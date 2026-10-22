@@ -3,6 +3,30 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v1.3 — 2026-10-22
+
+- **Perubahan:** Mengadopsi `Panduan Proyek Web Novel Reply All (Brief untuk AI).md`
+  sebagai acuan tertinggi; panduan lama menjadi referensi tambahan.
+- **Cakupan baru:** target pembaca 13+; latar dan usia tokoh bebas (kantor, sekolah,
+  kuliah, pernikahan, keluarga, desa, lansia).
+- **Prinsip Pas:** teknik naratif, subplot, flashback, dan scene ikonik opsional; boleh
+  nol; angka 1–3 subplot / 3–5 scene ikonik adalah batas atas, bukan target.
+- **Workflow:** tahap A–G, balasan pertama 5 poin, Daftar Usulan Ide, Tes Pas, dan
+  Daftar Kritik Editor.
+- **Kontinuitas:** tambah A2 timeline masa lalu, rahasia/bukti, tokoh kecil berulang;
+  Ledger D kini memuat hubungan terakhir dan rahasia yang dipegang.
+- **Mekanisme:** canon wajib memuat “kenapa tidak bisa diperbaiki”.
+- **Teknik:** katalog Wajib/Sering/Sesekali/Jarang/Dilarang dan batas 1–2 teknik per bab.
+- **Protokol:** intake form, Daftar Usulan Ide (aktif, bukan opsional), rubrik jadi hard gate
+  (tidak ada jalan kirim dengan skor gagal) plus alasan singkat jika nilai <5.
+- **Konsistensi:** batas kata diseragamkan ke 600–900 di semua file; Daftar Kritik Editor
+  punya satu pemilik (`09-revision.md`); rantai prioritas disamakan.
+- **Template:** canon, outline, ledger, premise-options, idea-list.
+- **File:** `AGENTS.md`, `00-workflow.md`, `01-genre.md`, `02-premise.md`,
+  `03-structure.md`, `04-character.md`, `05-style.md`, `06-chapter.md`,
+  `07-continuity.md`, `08-quality.md`, `09-revision.md`, `10-evolution.md`,
+  `README.md`, `sources.md`, `story/README.md`, `.agent/rules/metropop.md`, templates.
+
 ## v1.2 — 2026-10-22
 
 - **Perubahan:** Stress test end-to-end 30 bab + Bab 1; aturan diperkuat.

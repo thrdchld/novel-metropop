@@ -9,8 +9,10 @@
 
 - **Judul:** <Judul>
 - **Genre:** MetroPop
+- **Target pembaca:** 13+
 - **Panjang:** <30–40> bab × ±<750> kata
 - **POV:** orang ketiga terbatas, kala lampau
+- **Latar dan usia tokoh:** <kantor/sekolah/kuliah/pernikahan/keluarga/desa> · <usia>
 - **Kota:** <Jakarta>
 - **Tone:** <hangat/jenaka/getir>
 
@@ -27,7 +29,7 @@
 | Tokoh | Peran | Umur | Pekerjaan | Fungsi dramatik |
 |---|---|---:|---|---|
 | ... | Protagonis | ... | ... | ... |
-| ... | Love interest | ... | ... | ... |
+| ... | Love interest (opsional) | ... | ... | ... |
 | ... | Antagonis | ... | ... | ... |
 | ... | Sekutu | ... | ... | ... |
 | ... | Mentor | ... | ... | ... |
@@ -55,20 +57,46 @@
 
 ## Dunia dan Aturan
 
-- **Perusahaan:** ...
-- **Pekerjaan protagonis:** ...
-- **Proyek:** ...
-- **Klien/pihak luar:** ...
+- **Lingkungan/tempat:** ...
+- **Pekerjaan/sekolah/kampus protagonis:** ...
+- **Aktivitas utama:** ...
+- **Pihak luar/klien/wali:** ...
 - **Kanal komunikasi:** ...
-- **Mekanisme teknis:** ...
+- **Mekanisme teknis:** ditulis langkah demi langkah (tomol/fitur/sistem, siapa punya akses, aturan pembalikan, jam operasional).
+- **Kenapa tidak bisa diperbaiki:** syarat, keputusan, dan larangan yang menutup jalan keluar.
 - **Jam operasional:** ...
 - **Aturan yang tidak boleh dilanggar:** ...
+
+## Rahasia dan Bukti
+
+| Fakta/rahasia | Siapa tahu | Sejak kapan | Dari mana | Terungkap di bab |
+|---|---|---|---|---|
+| ... | ... | ... | ... | ... |
 
 ## Timeline Awal (rencana; Ledger A menjadi master setelah bab ditulis)
 
 | Bab | Hari/jam | Lokasi | Kejadian |
 |---|---|---|---|
 | 1 | ... | ... | ... |
+
+## Timeline Masa Lalu (A2)
+
+| Tokoh | Usia/tahun | Kejadian penting | Muncul/dirujuk di bab |
+|---|---|---|---|
+| ... | ... | ... | ... |
+
+## Tokoh Kecil Berulang
+
+| Tokoh | Peran | Muncul di bab | Payoff |
+|---|---|---|---|
+| ... | ... | ... | ... |
+
+## Subplot, Backstory, Scene Ikonik (Opsional)
+
+- **Subplot (0–3):** ...
+- **Backstory/flashback:** ...
+- **Scene ikonik (0–5):** ...
+- **Alasan jika nol:** cerita sudah padat / tidak dibutuhkan.
 
 ## Motif
 
@@ -83,12 +111,13 @@
 - **Yang tidak boleh terjadi:** ...
 - **Harga yang harus dibayar:** ...
 
-## Batasan Konten
+## Batasan Konten (13+)
 
 - Tanpa emoji/umpatan.
 - Tanpa merek nyata/tokoh publik.
-- Tanpa konten eksplisit.
+- Tanpa konten seksual eksplisit atau kekerasan grafis.
 - Hindari stereotip/SARA.
+- Tema berat ditulis dengan empati.
 
 ## Pertanyaan Terbuka
 

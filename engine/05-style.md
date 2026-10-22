@@ -29,7 +29,7 @@
 - SMS/pesan dari pengirim tak dikenal: `**Nomor tak dikenal:** *isi pesan*`.
 - Email/surat yang dibaca tokoh: ditulis miring.
 - Tanpa emoji.
-- Satu bab = satu adegan/beat, 600–900 kata (titik balik 720–950).
+- Satu bab = satu adegan/beat, 600–900 kata (titik balik target 900).
 - Hook adalah kalimat terakhir.
 
 Contoh chat:
@@ -50,6 +50,8 @@ Email/surat:
 - Jangan menulis nama di setiap kalimat.
 - Selingi dengan action beats: mengaduk kopi, menutup laptop, melihat ponsel.
 - Jangan memakai dialog untuk menjelaskan dunia.
+- Jumlah dialog menyesuaikan jenis adegan. Adegan sunyi, aksi, atau observasi boleh minim
+  dialog; paksakan hanya kalau memang adegan dialog.
 
 Contoh lemah:
 
@@ -114,8 +116,27 @@ Sumber humor:
 - kontras antara wajah ramah dan niat sebenarnya;
 - momen awkward di ruang publik.
 
-Minimal satu adegan awkward/konyol setiap 2–3 bab. Jangan memaksakan lelucon di setiap
-paragraf.
+Minimal satu adegan awkward/konyol setiap 2–3 bab adalah **target lembut**, bukan
+kewajiban. Jangan memaksakan lelucon; kalau tidak ada yang alami, pastikan bab tetap
+punya momen khas atau emosi yang jujur.
+
+## Usia dan Latar
+
+Gaya dasar tetap ringan, santai, kalimat pendek, mudah dipahami. Yang disesuaikan hanya
+kosakata, sapaan, dan topik.
+
+| Tokoh/latar | Bahasa dan sapaan | Topik khas | Hati-hati |
+|---|---|---|---|
+| Anak (6–12) | Kalimat sederhana; Mama, Papa, Bu Guru | PR, teman, mainan | Jangan menggurui |
+| Remaja (13–18) | Gaul ringan; aku-kamu atau gue-lo | Ujian, naksir, ekskul, ortu | Tanpa umpatan; romansa polos |
+| Mahasiswa (18–23) | Santai ke teman, sopan ke dosen | Skripsi, kos, organisasi | Jangan terlalu dewasa |
+| Dewasa muda (22–35) | Indonesia + serapan kantor | Kerja, cicilan, jodoh | Jelaskan jargon sekali |
+| Menikah (28–50) | Santai, hemat kata | Rumah tangga, mertua, anak | Jangan menghakimi |
+| Lansia | Sopan, humor kering, bahasa daerah secukupnya | Pensiun, cucu, kesepian | Jangan jadi karikatur |
+| Perantauan/desa | Indonesia + bahasa daerah secukupnya | Mudik, kontras kota-desa | Jangan merendahkan |
+
+**Aturan 13+:** tanpa konten seksual eksplisit, kekerasan grafis, umpatan kasar, atau
+promosi zat terlarang. Tema berat ditulis dengan empati.
 
 ## Larangan
 

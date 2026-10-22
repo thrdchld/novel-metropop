@@ -3,19 +3,24 @@
 Folder ini adalah **skill/prompt package** untuk agent penulis. Tidak ada kode yang
 perlu dijalankan. Agent cukup membaca markdown di sini, lalu bekerja lewat percakapan.
 
-**Acuan tertinggi tetap** `../Panduan Menulis Web Novel Metropop Indonesia.txt`.
-Jika ada konflik, panduan sumber menang. Ringkasan operasionalnya ada di
+**Acuan tertinggi** `../Panduan Proyek Web Novel Reply All (Brief untuk AI).md`
+(versi terbaru). `../Panduan Menulis Web Novel Metropop Indonesia.txt` adalah versi
+sebelumnya; pakai hanya sebagai referensi tambahan. Ringkasan operasional ada di
 `00-workflow.md` dan file-file di folder ini.
+
+**Prinsip Pas:** teknik naratif, subplot, flashback, dan scene ikonik adalah alat
+opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 
 ## Cara Kerja
 
 1. Agent membaca `AGENTS.md` di root repo.
 2. Agent membaca file ini, lalu `00-workflow.md`.
 3. Agent memeriksa `../story/`.
-4. Agent bertanya **satu** pertanyaan: mau ide, project baru, lanjut, revisi, atau riset?
-5. Agent mengikuti mode yang dipilih.
-6. Setiap selesai bab, agent memperbarui `ledger.md` dan menilai dengan rubrik.
-7. Jika feedback berulang, agent memperbarui file di `learnings/` dan file panduan.
+4. Jika sesi baru, agent membalas ringkasan 5 poin + tahap A–G yang relevan.
+5. Agent bertanya **satu** pertanyaan: mau ide, project baru, lanjut, revisi, atau riset?
+6. Agent mengikuti mode yang dipilih.
+7. Setiap selesai bab, agent memperbarui `ledger.md` dan menilai dengan rubrik.
+8. Jika feedback berulang, agent memperbarui file di `learnings/` dan file panduan.
 
 ## Peta File
 
@@ -34,7 +39,7 @@ Jika ada konflik, panduan sumber menang. Ringkasan operasionalnya ada di
 | `08-quality.md` | Rubrik 8 kriteria, anti plot hole, tes pembaca. |
 | `09-revision.md` | Cara menangani feedback dan revisi lokal. |
 | `10-evolution.md` | Cara memperbarui engine dari feedback/teori baru. |
-| `templates/` | Template canon, outline, chapter, ledger, character sheet, feedback. |
+| `templates/` | Template canon, outline, chapter, ledger, character sheet, feedback, idea list. |
 | `examples/` | Contoh premis, outline, adegan, dan perbaikan gaya. |
 | `sources.md` | Aturan riset, PDF, internet, hak cipta, dan pencatatan sumber. |
 | `learnings/` | Kritik editor dan changelog aturan engine. |
@@ -45,7 +50,7 @@ File-file ini adalah sumber aturan. File lain hanya merujuk, tidak menduplikasi.
 
 | Aturan | File pemilik |
 |---|---|
-| Alur sesi dan mode | `00-workflow.md` |
+| Alur sesi, tahap A–G, Prinsip Pas | `00-workflow.md` |
 | Genre dan batasan konten | `01-genre.md` |
 | Premis dan novelty | `02-premise.md` |
 | Struktur, outline, lock | `03-structure.md` |
@@ -61,6 +66,8 @@ File-file ini adalah sumber aturan. File lain hanya merujuk, tidak menduplikasi.
 ## Aturan Baca
 
 - Folder ini adalah paket markdown. Tidak ada kode yang perlu dijalankan.
+- Target pembaca **13+**; latar dan usia tokoh bebas.
+- **Prinsip Pas:** alat tambahan opsional; boleh nol.
 - Jangan menulis prosa sebelum mode dipilih, canon ada, dan outline disetujui.
 - Jangan mengubah canon/outline diam-diam.
 - Jangan menambah tokoh baru tanpa setup.

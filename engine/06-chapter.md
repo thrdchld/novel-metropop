@@ -2,7 +2,7 @@
 
 ## Format
 
-- 600–900 kata; target ±750; titik balik 720–950.
+- 600–900 kata; target ±750; titik balik target ±900, maksimal 900.
 - Hitung kata prosa. Metadata, header `>`, dan komentar HTML tidak dihitung.
 - Satu POV, satu adegan/beat, satu perubahan.
 - Judul `## Bab N: Judul`, 2–5 kata.
@@ -21,6 +21,10 @@ Kalau salah satu tidak ada, adegan belum siap.
 
 ## Kontrak dengan Outline
 
+**Prinsip Pas:** subplot, flashback, dan scene ikonik hanya dipakai jika ada di outline
+dan benar-benar dibutuhkan. Jangan menempelkan alat tambahan di bab. Satu bab cukup
+**satu atau dua teknik yang menonjol**; katalognya ada di `03-structure.md`.
+
 - Semua beat yang tertulis di outline harus muncul di teks.
 - Semua setup yang dijanjikan harus benar-benar ditanam; semua payoff yang dijadwalkan
   harus dibayar.
@@ -30,6 +34,8 @@ Kalau salah satu tidak ada, adegan belum siap.
   dengan satu telepon, tunjukkan kenapa telepon itu gagal.
 - Hook harus punya jalur masuk akal. Jika pesan dari nomor tak dikenal, jelaskan
   bagaimana pengirim mendapat nomor itu (aplikasi, surat penagihan, kartu petugas).
+- Subplot/flashback/scene ikonik hanya dipakai jika ada di outline dan lolos Tes Pas.
+- Jangan memakai pola adegan/jenis hook yang sama dengan bab sebelumnya.
 
 ## Formula 750 Kata
 
@@ -41,7 +47,7 @@ Kalau salah satu tidak ada, adegan belum siap.
 | 520–680 | belokan | Keputusan/pengungkapan yang tidak bisa ditarik. |
 | 680–750 | hook | Kalimat terakhir yang membuka pertanyaan. |
 
-Bab titik balik boleh 720–950 kata; target tetap ±900.
+Bab titik balik target 900 kata; jangan lebih dari 900.
 
 ## Bab 1 In Medias Res
 
@@ -110,7 +116,8 @@ Satu detail per bab yang bisa diingat:
 
 ## Dialog
 
-- Minimal 3 pertukaran yang bekerja.
+- Pada adegan dialog: minimal 3 pertukaran yang bekerja. Adegan sunyi atau aksi boleh
+  tanpa dialog.
 - Dialog harus mengubah taruhan atau mengungkap karakter.
 - Action beats di sela dialog.
 - Jangan pakai dialog untuk menjelaskan plot.
@@ -119,14 +126,17 @@ Satu detail per bab yang bisa diingat:
 
 - [ ] Satu POV.
 - [ ] Satu tujuan, satu rintangan, satu belokan.
-- [ ] 600–900 kata (titik balik 720–950); hitung prosa saja.
+- [ ] 600–900 kata; hitung prosa saja.
 - [ ] Semua beat outline muncul.
 - [ ] Setup/payoff outline benar-benar ditanam/dibayar.
 - [ ] Jalan keluar paling mudah sudah ditutup.
 - [ ] Hook punya jalur masuk akal.
 - [ ] POV tidak menulis isi kepala tokoh lain.
+- [ ] Lolos Tes Pas: tidak ada teknik/ide yang terasa ditempel.
+- [ ] Jenis adegan/hook berbeda dari bab sebelumnya.
+- [ ] Bab memberi alasan untuk lanjut, bukan bab pengisi.
 - [ ] Paragraf pertama langsung di adegan.
-- [ ] Minimal tiga pertukaran dialog.
+- [ ] Kalau adegan dialog: minimal tiga pertukaran yang bekerja.
 - [ ] Satu detail konkret.
 - [ ] Hook adalah kalimat terakhir.
 - [ ] Bab sebelumnya tidak diringkas.

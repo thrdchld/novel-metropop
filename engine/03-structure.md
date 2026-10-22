@@ -1,9 +1,12 @@
 # 03 — Struktur dan Outline
 
+> **Prinsip Pas:** subplot, flashback, dan scene ikonik di bawah ini opsional. Boleh nol.
+> Angka yang disebut adalah batas atas, bukan target.
+
 ## Format
 
 - **30–40 bab**, target ±750 kata/bab.
-- Rentang 600–900 kata; bab titik balik 720–950.
+- Rentang 600–900 kata; bab titik balik target 900, maksimal 900.
 - Sekitar 25% awal, 50% tengah, 25% akhir. Pembulatan menyesuaikan jumlah bab.
 - Contoh 40 bab: 10 / 20 / 10.
 - Titik putar: Bab 10, 20, 30 (untuk 40 bab). Untuk 30/35 bab, gunakan posisi 25%,
@@ -41,8 +44,9 @@
 - Naikkan taruhan dengan urutan: waktu → reputasi → uang → keluarga → pekerjaan →
   identitas → pilihan moral.
 - Jangan melompat ke identitas sebelum waktu/reputasi/uang dibangun.
-- Minimal satu adegan awkward/konyol setiap 2–3 bab.
-- Minimal satu momen emosional tulus setiap ±5 bab.
+- **Target lembut** (bukan kewajiban): satu adegan awkward/konyol setiap 2–3 bab dan
+  satu momen emosional tulus setiap ±5 bab. Jangan paksakan jika tidak pas; yang penting
+  bab tetap punya momen khas atau perubahan.
 
 ## Kolom Wajib Outline per Bab
 
@@ -65,11 +69,14 @@ Semua kolom harus terisi. Jangan menulis bab jika ada kolom kosong.
 - **Jalan keluar paling mudah ditutup:** kenapa tokoh tidak memilih jalan termudah.
 - **Pertanyaan pembaca yang dijawab:** ...
 - **Yang TIDAK terjadi:** ...
-- **Target kata:** ±750 (titik balik ±900; terima 720–950).
+- **Target kata:** ±750 (titik balik ±900; maksimal 900).
 ```
 
 Semua beat wajib muncul di teks. Setup/payoff harus benar-benar ditanam/dibayar; jika
 tidak, perbaiki bab atau ajukan Perubahan Outline.
+
+Kolom opsional: subplot/flashback yang disentuh, jenis adegan (untuk variasi), dan tanda
+“ikonik”. Isi hanya jika dipakai; jangan memaksakan.
 
 ## Titik Putar
 
@@ -107,16 +114,92 @@ Untuk 40 bab: 1–10 / 11–19 / 20 / 21–30 / 31–40.
 Untuk jumlah lain (31–34, 36–39), bagi proporsional: setup 25%, eskalasi 23%, midpoint
 1 bab, kejatuhan 22%, resolusi sisanya. Bulatkan dan pastikan totalnya pas.
 
-## Subplot
+## Subplot (Opsional)
 
-| Benang | Porsi | Fungsi |
+Subplot adalah **alat pilihan**, bukan kewajiban. Jumlahnya 0–3; ini batas atas, bukan
+target. Jika cerita sudah padat, nol subplot boleh.
+
+| Benang | Porsi maksimal | Fungsi |
 |---|---:|---|
-| A — plot utama | 55–60% | Kesalahan, gerakan, bukti, konflik profesional. |
-| B — romansa | 25–30% | Kedekatan yang menciptakan konflik kepentingan. |
-| C — keluarga/sosial | 15–20% | Tekanan yang membuat protagonis tidak bisa berhenti. |
+| A — plot utama | 60–100% | Masalah utama yang menggerakkan seluruh novel. |
+| B — romansa | ≤25% | Kedekatan yang menciptakan konflik kepentingan. |
+| C — keluarga/sosial | ≤20% | Tekanan yang membuat protagonis tidak bisa berhenti. |
 
-Setiap benang muncul minimal sekali per 3 bab. Jangan membuka benang baru setelah
-midpoint kecuali sudah ditanam di Babak 1.
+Setiap subplot harus punya minimal satu fungsi: menjelaskan akar kelemahan, memberi alat
+untuk klimaks, menambah tekanan, menambah emosi, atau mencerminkan tema. Jangan membuka
+subplot baru setelah midpoint kecuali sudah ditanam di Babak 1.
+
+## Flashback dan Backstory (Opsional)
+
+- Bentuk: kilasan 2–4 kalimat; adegan 200–400 kata; atau satu bab penuh (sangat jarang,
+  maksimal 1–2 per novel).
+- Dipicu benda, kata, bau, lagu, atau ucapan—bukan tiba-tiba.
+- Beri penanda waktu jelas (“Dua belas tahun lalu, kelas 5 SD.”).
+- Kembali ke masa kini dengan perubahan pemahaman.
+- Jangan membocorkan twist lebih awal.
+- Fakta masa lalu dicatat di Ledger A2 dan tidak boleh bertentangan dengan timeline utama.
+- Tidak boleh muncul tiba-tiba di klimaks; alat pemecah masalah harus ditanam minimal
+  2 bab sebelumnya.
+
+## Scene Ikonik (Opsional)
+
+Scene ikonik adalah adegan yang mudah diceritakan ulang dalam satu kalimat dan diingat
+pembaca. Ini **opsional**; 0 boleh.
+
+- Batas atas 3–5 scene untuk novel 40 bab.
+- Ciri: kontras kuat, memuat emosi tema, punya benda/kalimat khas, berakar pada karakter.
+- Setiap scene ikonik butuh setup.
+- Jangan memaksakan; jika bertentangan dengan logika, ubah scene-nya, bukan logikanya.
+
+## Teknik Naratif
+
+Prinsip: teknik melayani cerita, bukan sebaliknya. Tanyakan: *apa yang didapat pembaca dari
+teknik ini yang tidak akan ia dapat tanpanya?* Kalau tidak ada, jangan dipakai.
+**Dalam satu bab cukup satu atau dua teknik yang menonjol.** Rencanakan di kolom
+“Teknik naratif” outline; jangan menambah teknik baru di tengah penulisan kecuali untuk
+menyambung rencana yang sudah tertulis.
+
+**WAJIB**
+
+- **In medias res (Bab 1):** buka di tengah momen krusial. Latar dan sebab disisipkan
+  lewat 2–4 kalimat ingatan pendek. Tiga kalimat pertama harus membuat pembaca bertanya.
+- **Hook di akhir setiap bab**, dengan jenis yang bervariasi.
+- **Chekhov's gun:** setiap benda, aturan, atau fakta bersorotan harus terpakai kemudian;
+  setiap payoff besar harus punya setup lebih awal (catat di Ledger F).
+
+**SERING**
+
+- **Show, don't tell.**
+- **Action beats** di sela dialog.
+- **Dramatic irony:** pembaca tahu sesuatu yang belum diketahui tokoh tertentu.
+- **Pacing:** irama naik-turun; jangan dua bab beruntun dengan tempo sama.
+
+**SESEKALI (terencana)**
+
+- **Foreshadowing:** petunjuk kecil yang dibayar nanti.
+- **Motif:** 2–3 elemen berulang di bible; ending boleh mengubah maknanya.
+- **Flashback:** abide aturan di atas.
+- **Stream of consciousness:** hanya di momen panik/memuncak, maksimal satu paragraf.
+- **Red herring:** adil, pembaca bisa melihat kebenarannya setelah terungkap.
+- **Plot twist:** fair play, ada petunjuk sebelumnya.
+- **Allusion:** rujukan halus ke budaya Indonesia, tanpa mengutip karya berhak cipta.
+
+**JARANG**
+
+- **Frame story**, **flashforward** (jangan bocorkan ending), **unreliable narrator**
+  (persepsi tokoh yang keliru, dengan petunjuk yang bisa diverifikasi).
+
+**DILARANG**
+
+- **Deus ex machina.** Kebetulan yang memperburuk keadaan boleh; yang menyelamatkan
+  tokoh tidak.
+
+## Anti-Monoton
+
+- Jangan memakai pola adegan yang sama dua bab berturut-turut.
+- Variasikan lokasi, tokoh, jenis konflik, jenis humor, dan jenis hook.
+- Jenis adegan atau jenis hook yang sama maksimal 3 kali per 10 bab.
+- Tell dan motif boleh berulang; lelucon yang sama persis jangan diulang.
 
 ## Stress Test
 
@@ -140,6 +223,8 @@ Syarat lock:
 - judul 2–5 kata dan tidak duplikat;
 - Bab 1 in medias res;
 - stress test selesai;
+- tidak ada bab pengisi; setiap bab menaikkan taruhan/memberi informasi/mendalamkan hubungan;
+- Teknik/subplot/flashback/scene ikonik yang dipakai lolos Tes Pas;
 - user menyetujui.
 
 Setelah lock, perubahan hanya lewat `templates/change-request.md`. Naikkan versi

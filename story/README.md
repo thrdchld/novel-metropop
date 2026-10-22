@@ -3,8 +3,12 @@
 Satu cerita = satu folder, dinamai sesuai judul. Semua canon, outline, ledger, dan naskah
 disimpan di sini. Folder ini dibaca oleh agent sebelum menulis.
 
-Acuan penulisan: `../Panduan Menulis Web Novel Metropop Indonesia.txt` dan
+Acuan penulisan: `../Panduan Proyek Web Novel Reply All (Brief untuk AI).md` (terbaru),
+`../Panduan Menulis Web Novel Metropop Indonesia.txt` (versi sebelumnya), dan
 `../engine/` (terutama `00-workflow.md`, `03-structure.md`, `07-continuity.md`).
+
+Target pembaca 13+; latar dan usia tokoh bebas. Prinsip Pas: teknik/subplot/flashback/
+scene ikonik opsional, boleh nol.
 
 ## Struktur
 

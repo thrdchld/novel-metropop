@@ -30,79 +30,40 @@ Setiap opsi wajib punya:
 
 ```markdown
 ## Opsi 1 — "Judul"
-- **Logline:** satu kalimat.
+- **Logline:** tokoh + kesalahan kecil + akibat yang membesar.
 - **Tema:** satu pertanyaan sederhana.
-- **Tokoh inti:**
-  - Protagonis: nama, pekerjaan, cacat khas.
-  - Love interest: nama, pekerjaan, hambatan struktural.
-  - Antagonis: nama, posisi, motif yang ia percaya benar.
-  - Sekutu: nama, peran, taruhan.
-- **Sumber humor:** 2–3 situasi konkret.
+- **Tokoh inti (3):** nama, usia, pekerjaan/sekolah, kelemahan khas.
+- **Pemicu:** apa yang terjadi di Bab 1 dan kenapa masuk akal.
+- **Kenapa tokoh tidak bisa keluar:** alasan kuat.
+- **Sumber humor/awkward:** 3 contoh konkret.
+- **Ending singkat:** bagaimana berakhir dan apa harganya.
 - **Pertanyaan dramatik:** apakah ...?
 ```
 
 Jangan memberi 10 opsi. Tiga cukup. Satu opsi boleh dikembangkan lebih dalam jika
 user meminta.
 
-## Enam Mesin Premis
+## Sumber Situasi
 
-### 1. Salah Kirim / Pahlawan Kecelakaan
+Jangan terpaku pada kantor. Situasi bisa datang dari:
 
-Pesan/email/dokumen yang seharusnya tidak dikirim terkirim ke publik, lalu kesalahan
-itu disalahartikan sebagai keberanian. Protagonis terjebak antara mengaku atau diam.
-
-Adegan wajib: klik salah, reaksi publik yang tidak marah, atasan memuji, sekutu membawa
-data, midpoint bukti sistemik, pengakuan publik, konsekuensi nyata.
-
-### 2. Pura-Pura Pacar / Kontrak Romansa
-
-Dua orang berpura-pura pacaran untuk acara/keluarga/pekerjaan. Kedekatan yang dipaksakan
-menghasilkan komedi dan kerentanan.
-
-Adegan wajib: kesepakatan aturan, latihan menjawab keluarga, acara pertama berhasil,
-momen privat di luar kontrak, kebohongan terbongkar, pengakuan, hubungan tanpa tenggat.
-
-### 3. Proyek Bersama / Musuh Jadi Rekan
-
-Dua orang dengan sejarah buruk dipaksa menyelesaikan satu proyek. Konflik profesional
-membuka luka pribadi.
-
-Adegan wajib: kick-off canggung, presentasi gagal, lembur, perjalanan dinas, pengkhianatan
-kepentingan, presentasi akhir, keputusan hubungan.
-
-### 4. Identitas Salah / Nama Pinjaman
-
-Seseorang disangka orang lain dan memilih tidak membetulkannya karena keuntungan.
-Setiap adegan punya ketegangan “kapan terbongkar?”.
-
-Adegan wajib: kesalahpahaman pertama, akses pertama, detail tidak cocok, kecurigaan,
-orang asli muncul, pengakuan, identitas sendiri.
-
-### 5. Warisan / Tempat yang Harus Diselamatkan
-
-Protagonis mewarisi tempat/usaha dengan syarat dan utang. Setiap keputusan bisnis juga
-keputusan emosional.
-
-Adegan wajib: surat wasiat, kunjungan pertama, tagihan, konflik dengan love interest,
-penawaran pembelian, acara penyelamatan, keputusan akhir.
-
-### 6. Viral / Perhatian yang Tidak Diminta
-
-Satu unggahan membuat seseorang viral. Ia harus memilih memanfaatkan perhatian atau
-mengambil kembali hidupnya.
-
-Adegan wajib: momen viral, lonjakan pengikut, tawaran komersial, konteks asli terbongkar,
-keluarga/rekan terdampak, klarifikasi langsung, keputusan.
+- kantor: email, meeting, grup chat, evaluasi kinerja;
+- sekolah: ujian, ekskul, pemilihan ketua kelas, grup chat kelas;
+- kuliah: skripsi, organisasi, kos, uang saku;
+- pernikahan: lamaran, undangan, mertua, rumah tangga;
+- keluarga besar: arisan, mudik, warisan, pamer ke tetangga;
+- kos/apartemen, ojol, media sosial, WFH, reuni, tetangga, perantauan dan pulang kampung;
+- hubungan lansia dengan cucu.
 
 ## Novelty
 
 Sebelum menyetujui premis:
 
 - Bandingkan dengan cerita yang sudah ada di `story/`.
-- Hindari kombinasi yang baru saja dipakai.
-- Ganti satu elemen kunci dari premis populer: pemicu, tokoh, atau arah akibat.
-- Pastikan ironinya spesifik, bukan “orang baik kena masalah”.
-- Pastikan ada satu adegan yang hanya bisa terjadi pada premis ini.
+- Tulis **3 hal yang berbeda** dari novel sebelumnya: pemicu, jenis kesalahan, latar,
+  ending, tema, atau tokoh kunci.
+- Ganti satu elemen kunci dari premis populer sampai terasa berbeda.
+- Jangan menyalin kalimat, nama, atau susunan beat plot.
 
 Uji cepat:
 
@@ -113,6 +74,60 @@ Uji cepat:
 5. Apa yang pembaca tunggu sampai akhir?
 
 Jika salah satu tidak bisa dijawab, premis belum siap.
+
+## Enam Mesin Premis
+
+Mesin ini bisa dipakai di latar apa pun. Sesuaikan peran: atasan bisa jadi guru, senior,
+ketua organisasi, mertua, atau tetangga. Pola adegan di bawah adalah contoh, bukan
+checklist yang harus semua muncul; pakai yang pas.
+
+### 1. Salah Kirim / Pahlawan Kecelakaan
+
+Pesan/email/dokumen yang seharusnya tidak dikirim terkirim ke publik, lalu kesalahan
+itu disalahartikan sebagai keberanian. Protagonis terjebak antara mengaku atau diam.
+
+Pola adegan yang sering dipakai: klik salah, reaksi publik yang tidak marah, atasan memuji, sekutu membawa
+data, midpoint bukti sistemik, pengakuan publik, konsekuensi nyata.
+
+### 2. Pura-Pura Pacar / Kontrak Romansa
+
+Dua orang berpura-pura pacaran untuk acara/keluarga/pekerjaan. Kedekatan yang dipaksakan
+menghasilkan komedi dan kerentanan.
+
+Pola adegan yang sering dipakai: kesepakatan aturan, latihan menjawab keluarga, acara pertama berhasil,
+momen privat di luar kontrak, kebohongan terbongkar, pengakuan, hubungan tanpa tenggat.
+
+### 3. Proyek Bersama / Musuh Jadi Rekan
+
+Dua orang dengan sejarah buruk dipaksa menyelesaikan satu proyek. Konflik profesional
+membuka luka pribadi.
+
+Pola adegan yang sering dipakai: kick-off canggung, presentasi gagal, lembur, perjalanan dinas, pengkhianatan
+kepentingan, presentasi akhir, keputusan hubungan.
+
+### 4. Identitas Salah / Nama Pinjaman
+
+Seseorang disangka orang lain dan memilih tidak membetulkannya karena keuntungan.
+Setiap adegan punya ketegangan “kapan terbongkar?”.
+
+Pola adegan yang sering dipakai: kesalahpahaman pertama, akses pertama, detail tidak cocok, kecurigaan,
+orang asli muncul, pengakuan, identitas sendiri.
+
+### 5. Warisan / Tempat yang Harus Diselamatkan
+
+Protagonis mewarisi tempat/usaha dengan syarat dan utang. Setiap keputusan bisnis juga
+keputusan emosional.
+
+Pola adegan yang sering dipakai: surat wasiat, kunjungan pertama, tagihan, konflik dengan love interest,
+penawaran pembelian, acara penyelamatan, keputusan akhir.
+
+### 6. Viral / Perhatian yang Tidak Diminta
+
+Satu unggahan membuat seseorang viral. Ia harus memilih memanfaatkan perhatian atau
+mengambil kembali hidupnya.
+
+Pola adegan yang sering dipakai: momen viral, lonjakan pengikut, tawaran komersial, konteks asli terbongkar,
+keluarga/rekan terdampak, klarifikasi langsung, keputusan.
 
 ## Judul
 
@@ -155,5 +170,6 @@ Jangan mengganti premis. Lakukan:
 4. Pilih bersama user sebelum outline.
 
 Sebelum outline, tulis mekanisme teknis yang menggerakkan plot di canon: cara sistem
-bekerja, siapa punya akses, aturan pembalikan, jam operasional. Jangan mengandalkan
-asumsi pembaca.
+bekerja, siapa punya akses, aturan pembalikan, jam operasional, dan **kenapa semua itu
+tidak bisa diperbaiki** (syarat, keputusan, larangan). Jangan mengandalkan asumsi
+pembaca.

@@ -2,6 +2,11 @@
 
 Kritik berulang dari user. Jangan mengubah aturan engine hanya karena satu komentar.
 
+Daftar Kritik Editor yang sudah pernah diberikan ada di `../09-revision.md` (file pemilik).
+Jangan menyalinnya di sini; catat hanya log dan aturan baru.
+
+## Log Feedback
+
 | Tanggal | Feedback | Aturan baru | File |
 |---|---|---|---|
 | - | - | - | - |

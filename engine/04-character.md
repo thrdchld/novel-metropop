@@ -62,8 +62,14 @@ Tokoh kecil berulang: satpam, IT, petugas kebersihan, anak magang, barista langg
 Mereka boleh muncul 3–5 kali dan menjadi payoff.
 
 **Jumlah cast:** 6–8 tokoh utama sudah cukup. Tokoh kecil berulang boleh lebih, tetapi
-masing-masing harus punya fungsi. Boleh ada satu antagonis dekat (atasan) dan satu
-antagonis institusional (kepatuhan/regulator); keduanya butuh motif konkret.
+masing-masing harus punya fungsi. Boleh ada satu antagonis dekat dan satu antagonis
+institusional; keduanya butuh motif konkret.
+
+**Sesuaikan peran dengan latar.** Atasan bisa menjadi guru, senior, ketua organisasi,
+mertua, atau tetangga. Love interest bisa teman sekelas, teman kos, rekan kerja, atau
+sepupu jauh. Hambatan romansa bisa restu orang tua, beda kota, jarak usia, atau konflik
+kepentingan. Love interest dan romansa **opsional**; jika ada, harus punya hambatan
+struktural, bukan sekadar salah paham.
 
 ## Protagonis
 

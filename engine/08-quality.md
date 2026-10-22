@@ -65,6 +65,8 @@ Sebelum lock:
 - POV tidak menulis isi kepala tokoh lain.
 - Ledger tidak mengklaim fakta yang tidak ada di teks.
 - Istilah teknis yang menanggung plot sudah dijelaskan sekali.
+- Tidak ada teknik/subplot/flashback/ide yang terasa ditempel.
+- Bab memberi alasan untuk lanjut, bukan bab pengisi.
 
 ## Tes Pembaca
 
@@ -72,14 +74,22 @@ Sebelum lock:
 2. Adakah bagian yang membuatku mengernyit atau membaca dua kali?
 3. Adakah yang tidak masuk akal bagi orang awam?
 
+## Tes Kepasan
+
+Bagian dari **Prinsip Pas**: alat tambahan harus benar-benar dibutuhkan, bukan ditempel.
+
+- Apakah ada teknik, subplot, flashback, atau ide yang terasa ditempel?
+- Jika bagian itu dihapus dan cerita tetap jalan, **hapus**.
+- Apakah bab ini bergerak, atau hanya mengulang?
+- Apakah setiap adegan punya fungsi terhadap masalah utama?
+
 ## Format Pengiriman Bab
 
 1. Teks bab (`## Bab N: Judul`).
 2. Catatan kontinuitas 5–8 baris.
-3. Skor rubrik 8 angka dalam satu baris.
-4. Jika belum lulus: `STATUS: BELUM LULUS` + bagian yang gagal.
-5. Penyimpangan outline: “tidak ada” atau daftar jujur.
-6. Satu pertanyaan untuk editor, hanya jika perlu.
+3. Skor rubrik 8 angka dalam satu baris, plus alasan singkat jika ada nilai di bawah 5.
+4. Penyimpangan outline: “tidak ada” atau daftar jujur.
+5. Satu pertanyaan untuk editor, hanya jika perlu.
 
 Jangan menambahkan ringkasan panjang, pujian diri, atau penjelasan yang tidak diminta.
 
@@ -89,8 +99,10 @@ Jangan menambahkan ringkasan panjang, pujian diri, atau penjelasan yang tidak di
 - Antagonis jahat tanpa motif.
 - Hook tidak pernah dibayar.
 - Rahasia utama dibuka sebelum midpoint tanpa konsekuensi.
-- Bab di luar 600–900 kata (720–950 untuk titik balik) tanpa alasan.
+- Bab di luar 600–900 kata tanpa alasan.
 - Lebih dari 15% bab adalah bab sampingan.
+- Bab pengisi: tidak menaikkan taruhan, tidak memberi informasi, tidak mendalamkan hubungan.
+- Teknik/subplot/flashback/ide yang tidak lolos Tes Pas tetap dipaksakan.
 - Ada emoji/umpatan.
 - Ada tokoh baru tanpa setup.
 - Ada POV slip (isi kepala tokoh lain).
@@ -103,7 +115,7 @@ Jangan menambahkan ringkasan panjang, pujian diri, atau penjelasan yang tidak di
 ## Jika Rubrik Gagal
 
 - Lakukan maksimal 2 pass revisi.
-- Jika masih di bawah 34/40, **jangan kirim sebagai final**. Tandai `STATUS: BELUM LULUS`,
-  laporkan skor dan bagian yang gagal, lalu minta user memilih: revisi lagi, ubah outline,
-  atau terima sebagai draft.
-- Jangan mengaku lulus, jangan menaikkan skor agar terlihat baik.
+- Bab **tidak dikirim sebagai final** selama ada nilai di bawah 4 atau total di bawah 34.
+- Perbaiki lagi, atau minta editor memutuskan: revisi, ubah outline, atau turunkan standar
+  bab ini. Jangan mengarang skor dan jangan mengirim sambil menyebut belum lulus.
+- Nyatakan alasan singkat kalau ada nilai di bawah 5, lalu perbaiki.

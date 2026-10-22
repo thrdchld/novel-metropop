@@ -67,6 +67,20 @@ Laporkan:
 - bab lain yang ikut direvisi;
 - risiko yang masih ada.
 
+## Daftar Kritik Editor
+
+Kritik yang sudah pernah diberikan; jangan terulang:
+
+1. Bahasa terlalu formal dan tidak seperti cerita sehari-hari.
+2. Serapan bahasa Inggris kantor terlalu sedikit.
+3. Analogi aneh yang terasa terjemahan dan tidak masuk akal bagi orang Indonesia.
+4. Pemilihan kata dan susunan kalimat rancu.
+5. Istilah asing tidak dijelaskan (GA, Slack, dll.).
+6. Emoji muncul di teks.
+7. Plot hole dan perubahan logika di tengah penulisan (mekanisme, penyebaran kabar,
+   cara kumpul tanda tangan, tokoh baru tiba-tiba).
+8. Outline berubah saat menulis bab.
+
 ## Feedback Berulang
 
 Jika user memberi kritik yang sama dua kali:
@@ -75,6 +89,9 @@ Jika user memberi kritik yang sama dua kali:
 2. Perbarui file panduan terkait (`05-style.md`, `06-chapter.md`, dst.).
 3. Catat di `learnings/changelog.md`: tanggal, aturan, alasan.
 4. Terapkan ke bab-bab lama yang relevan, bukan hanya bab berikutnya.
+
+Lakukan **satu pass revisi menyeluruh**: cari pola yang sama di bab lain sebelum
+mengirim, jangan menunggu ditegur berulang.
 
 ## Jangan
 

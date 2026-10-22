@@ -2,7 +2,7 @@
 
 ## Dua Sumber
 
-- **`canon.md`** — fakta cerita: premis, karakter, aturan dunia, motif, ending.
+- **`canon.md`** — Dokumen Dasar (bible): premis, karakter, aturan dunia, motif, ending.
 - **`ledger.md`** — dokumen hidup: timeline, lokasi, pengetahuan, status tokoh,
   fakta keras, setup/payoff, log perubahan.
 
@@ -10,8 +10,10 @@ Canon timeline adalah **rencana awal**. Setelah bab ditulis, **Ledger A menjadi 
 timeline. Jika keduanya berbeda, Ledger A menang untuk kejadian yang sudah terjadi;
 canon diperbarui agar tidak bertentangan.
 
-Fakta hanya sah jika ada di canon/ledger atau di teks bab yang sudah disetujui.
-Jika tidak ada, jangan mengarang. Tandai `[PERIKSA]` dan tanyakan.
+Fakta yang **sudah terjadi** hanya sah jika ada di Ledger atau di teks bab yang sudah
+disetujui. Canon berisi **rencana**: perlakukan sebagai rencana sampai kejadiannya
+benar-benar ditulis di bab. Jika tidak ada, jangan mengarang. Tandai `[PERIKSA]` dan
+tanyakan.
 
 Aturan pencatatan:
 
@@ -22,6 +24,7 @@ Aturan pencatatan:
   tidak pernah muncul.
 - POV terbatas: jangan menulis niat/isi kepala tokoh lain.
 - Mekanisme teknis yang menggerakkan plot harus tertulis di canon/ledger, bukan asumsi.
+- Canon = rencana; Ledger = yang sudah terjadi. Untuk fakta cerita, Ledger menang.
 
 ## Ledger A–G
 
@@ -37,6 +40,14 @@ Aturan:
 - Penyebaran kabar butuh waktu dan jalur.
 - Tenggat/hitung mundur dicatat.
 - Aktivitas harus masuk akal pada jamnya.
+
+### A2. Timeline Masa Lalu
+
+| Tokoh | Usia/tahun | Kejadian penting | Muncul/dirujuk di bab |
+|---|---|---|---|
+
+Untuk flashback dan backstory. Fakta masa lalu (usia, kelas, tahun, tempat) tidak boleh
+bertentangan dengan timeline utama.
 
 ### B. Daftar Lokasi
 
@@ -55,8 +66,8 @@ memakai informasi, cek matriks ini. Bukti di klimaks harus punya jalur pengetahu
 
 ### D. Status Tokoh per Bab
 
-| Bab | POV | Emosi/perubahan | Benda | Urusan menggantung |
-|---|---|---|---|---|
+| Bab | POV | Emosi/perubahan | Benda | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
+|---|---|---|---|---|---|---|
 
 Benda, luka, pakaian, pesan yang belum dibalas tidak boleh hilang.
 

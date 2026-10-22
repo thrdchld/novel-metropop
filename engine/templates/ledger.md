@@ -10,6 +10,12 @@
 |---|---|---|---|---|
 | 1 | ... | ... | ... | ... |
 
+## A2. Timeline Masa Lalu
+
+| Tokoh | Usia/tahun | Kejadian penting | Muncul/dirujuk di bab |
+|---|---|---|---|
+| ... | ... | ... | ... |
+
 ## B. Daftar Lokasi
 
 | Lokasi | Bab pertama | Ciri tetap | Siapa sering di situ | Jarak/waktu |
@@ -25,9 +31,9 @@
 
 ## D. Status Tokoh per Bab
 
-| Bab | POV | Emosi/perubahan | Benda | Urusan menggantung |
-|---|---|---|---|---|
-| 1 | ... | ... | ... | ... |
+| Bab | POV | Emosi/perubahan | Benda | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
+|---|---|---|---|---|---|---|
+| 1 | ... | ... | ... | ... | ... | ... |
 
 ## E. Fakta Keras dan Angka
 

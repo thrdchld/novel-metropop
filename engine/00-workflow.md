@@ -1,12 +1,41 @@
 # 00 — Workflow
 
+## 0. Tahap Proyek A–G
+
+| Tahap | Isi | Selesai jika |
+|---|---|---|
+| A. Premis | 3 opsi atau premis dari user | User memilih |
+| B. Dokumen Dasar | Canon: tokoh, dunia, mekanisme, timeline, lokasi, rahasia/bukti | User setuju |
+| C. Outline | Semua bab dengan kolom lengkap | Semua kolom terisi |
+| D. Stress test | 10 pertanyaan + 3 peran + uji silang | Semua lubang tertutup |
+| E. Lock | Presentasi ke user | Outline v1.0 TERKUNCI |
+| F. Tulis | Pra-cek, tulis, nilai, kirim | User menyetujui |
+| G. Revisi | Klasifikasi feedback, revisi lokal | User puas |
+
+## 0.1 Prinsip Pas
+
+Teknik naratif, subplot, flashback, dan scene ikonik adalah **alat opsional**, bukan
+kewajiban. Angka seperti “1–3 subplot” atau “3–5 scene ikonik” adalah **batas atas**,
+bukan target. **Nol pun boleh** jika cerita sudah padat.
+
+Pakai alat hanya jika lolos Tes Pas:
+
+1. cerita benar-benar membutuhkannya;
+2. jika dihapus, ada yang hilang;
+3. tidak menambah risiko plot hole;
+4. tidak melebarkan cerita dari masalah utama.
+
+Jika ragu, jangan masukkan. Cerita solid dan pas lebih penting daripada penuh teknik.
+
 ## 1. Mulai Sesi
 
 1. Baca `AGENTS.md`, `engine/README.md`, lalu file ini (`engine/00-workflow.md`), dan
    panduan sumber.
 2. Periksa `../story/`.
-3. Ringkas posisi repo 2–3 baris.
-4. Tanya **satu** pertanyaan:
+3. Jika ini pertama kali membaca panduan di sesi ini, balas **3 hal**: ringkasan
+   pemahaman 5 poin, tahap A–G yang relevan, dan satu pertanyaan.
+4. Jika bukan pertama kali, ringkas posisi repo 2–3 baris dan sebut tahap A–G.
+5. Tanya **satu** pertanyaan:
 
 > Mau apa hari ini: (A) cari ide/premis baru, (B) mulai project baru, (C) lanjutkan
 > cerita yang ada, (D) revisi cerita, atau (E) analisis referensi/riset?
@@ -16,18 +45,17 @@ memilih mode.
 
 ## 2. Mode A — Ide / Premis Baru
 
-Baca `02-premise.md`. Beri **3 opsi**. Format tiap opsi:
+Baca `01-genre.md` dan `02-premise.md`. Beri **3 opsi**. Format tiap opsi:
 
 ```markdown
 ## Opsi 1 — "Judul"
-- **Logline:** satu kalimat.
-- **Tema:** satu pertanyaan/idea.
-- **Tokoh inti:**
-  - Protagonis: nama, pekerjaan, cacat khas.
-  - Love interest: nama, pekerjaan, hambatan struktural.
-  - Antagonis: nama, posisi, motif yang ia percaya benar.
-  - Sekutu: nama, peran, taruhan.
-- **Sumber humor:** 2–3 situasi.
+- **Logline:** tokoh + kesalahan kecil + akibat yang membesar.
+- **Tema:** satu pertanyaan.
+- **Tokoh inti (3):** nama, usia, pekerjaan, kelemahan khas.
+- **Pemicu:** apa yang terjadi di Bab 1 dan kenapa masuk akal.
+- **Kenapa tokoh tidak bisa keluar:** alasan kuat.
+- **Sumber humor/awkward:** 3 contoh konkret.
+- **Ending singkat:** bagaimana berakhir dan apa harganya.
 - **Pertanyaan dramatik:** apakah ...?
 ```
 
@@ -44,9 +72,22 @@ berikut tanpa bertanya:
 - 30–40 bab, ±750 kata/bab;
 - tone hangat/jenaka/getir;
 - ending terbuka atau bahagia;
+- latar dan usia tokoh: pilih yang paling kuat untuk premis; target pembaca 13+;
 - 1 POV utama, bab sampingan maksimal 10–15%.
 
 Jika user belum memberi premis, jalankan Mode A dulu (3 opsi) sebelum membuat canon.
+
+#### Lembar Permintaan Awal (kalau sudah ada)
+
+Kalau user sudah mengisi (atau kamu diminta mengisinya), pakai isinya dan jangan tanya
+ulang:
+
+- Premis dan judul: dari user, atau usulkan 3 opsi.
+- Jumlah bab dan panjang per bab.
+- Nada: komedi ringan, hangat, getir, atau campuran.
+- Ending: terbuka, bahagia, atau serahkan ke agent.
+- Tokoh atau situasi wajib ada, dan hal yang dilarang.
+- Cuplikan referensi gaya (1–2 paragraf).
 
 ### 3.2 Buat Folder
 
@@ -69,15 +110,33 @@ Canon wajib memuat:
 - judul, logline, blurb 3–5 kalimat;
 - tema dan pertanyaan dramatik;
 - janji ke pembaca;
-- setting: kota, perusahaan, pekerjaan, proyek, kanal komunikasi;
+- latar: kota/lingkungan, pekerjaan atau sekolah, usia tokoh, proyek/aktivitas, kanal komunikasi;
 - cast table + character sheet lengkap;
-- aturan dunia dan mekanisme teknis yang menggerakkan plot;
+- aturan dunia dan mekanisme teknis yang menggerakkan plot, ditulis langkah demi
+  langkah, **lengkap dengan kenapa tidak bisa diperbaiki**;
+- **daftar rahasia dan bukti:** apa, siapa tahu, sejak kapan, dari mana, di bab berapa terungkap;
+- **timeline masa lalu (A2)** untuk flashback/backstory;
+- **tokoh kecil berulang** dan peran mereka nanti;
 - motif (refleks, objek, aturan, tekanan keluarga);
 - tekanan keluarga dan taruhan personal;
+- subplot/backstory/flashback yang dipakai — opsional, 0 boleh;
+- scene ikonik — opsional, 0 boleh;
 - arah ending (boleh spoiler; ini dokumen kerja);
-- batasan konten.
+- batasan konten 13+.
 
-### 3.4 Isi Outline
+### 3.4 Daftar Usulan Ide (sebelum outline)
+
+Agent **aktif mengusulkan** ide tambahan (subplot, flashback, tokoh kecil, momen awkward,
+twist kecil, scene ikonik) supaya cerita kaya dan tidak datar. Lebih baik 3 ide yang
+pas dan terpakai daripada 10 ide yang dipaksakan. Kalau tidak ada ide tambahan yang
+benar-benar dibutuhkan, katakan itu dan lanjutkan ceritanya apa adanya.
+
+Kumpulkan ide di `idea-list.md` sebelum outline. Untuk tiap ide tulis: ide, fungsi, bab
+yang cocok, risiko. Uji dengan 5 pertanyaan di `03-structure.md`. User memilih; hanya
+yang disetujui masuk outline. Setelah outline terkunci, ide baru hanya lewat Permintaan
+Perubahan.
+
+### 3.5 Isi Outline
 
 Baca `03-structure.md`. Outline wajib punya:
 
@@ -88,8 +147,9 @@ Baca `03-structure.md`. Outline wajib punya:
   alasan logis, pertanyaan pembaca yang dijawab, dan yang **TIDAK** terjadi;
 - titik putar dan midpoint;
 - catatan setup/payoff.
+- kolom opsional: subplot/flashback yang disentuh, jenis adegan, tanda “ikonik”.
 
-### 3.5 Stress Test
+### 3.6 Stress Test
 
 Jawab 10 pertanyaan skeptis di `08-quality.md` dengan merujuk bab. Lakukan simulasi tiga
 peran:
@@ -100,7 +160,7 @@ peran:
 
 Tutup semua lubang sebelum meminta persetujuan.
 
-### 3.6 Persetujuan dan Lock
+### 3.7 Persetujuan dan Lock
 
 Presentasikan:
 
@@ -119,7 +179,7 @@ Minta persetujuan user. Setelah disetujui, tandai:
 
 Jangan menulis Bab 1 sebelum status terkunci.
 
-### 3.7 Tulis Bab 1
+### 3.8 Tulis Bab 1
 
 Baca `06-chapter.md`. Bab 1 wajib in medias res. Tulis satu bab saja. Setelah selesai,
 ikuti Loop Bab di bagian 7.
@@ -175,8 +235,8 @@ urutan tetap:
    - benda/urusan yang dibawa;
    - setup/payoff;
    - risiko kontinuitas.
-3. **Skor rubrik 8 kriteria** dalam satu baris (1–5). Lulus jika tidak ada nilai <4
-   dan total ≥34/40.
+3. **Skor rubrik 8 kriteria** dalam satu baris (1–5), plus alasan singkat jika ada nilai
+   di bawah 5. Lulus jika tidak ada nilai <4 dan total ≥34/40.
 4. **Penyimpangan outline**: “tidak ada” atau daftar jujur.
 5. **Satu pertanyaan** ke user, hanya jika perlu.
 
@@ -185,13 +245,15 @@ Sebelum mengirim, cek:
 - semua beat outline muncul di teks;
 - semua setup/payoff benar-benar ditanam/dibayar;
 - ledger hanya memuat fakta yang ada di teks;
-- POV tidak menulis isi kepala tokoh lain.
+- POV tidak menulis isi kepala tokoh lain;
+- **Tes Pas:** tidak ada teknik/ide yang terasa ditempel;
+- bab memberi alasan untuk lanjut, bukan bab pengisi.
 
 Jangan menambahkan ringkasan panjang atau pujian diri.
 
 ## 8. Definition of Done per Bab
 
-- 600–900 kata (titik balik 720–950).
+- 600–900 kata; titik balik target 900, maksimal 900.
 - Satu POV, satu adegan/beat, satu perubahan.
 - Format `## Bab N: Judul`, judul 2–5 kata.
 - Hook adalah kalimat terakhir.
@@ -200,6 +262,7 @@ Jangan menambahkan ringkasan panjang atau pujian diri.
 - Tidak ada tokoh/fakta baru tanpa setup.
 - Catatan kontinuitas dan update ledger sudah dibuat.
 - Rubrik ≥34/40 tanpa nilai <4.
+- Lolos Tes Pas; tidak ada teknik/ide yang terasa ditempel.
 - Penyimpangan outline dicatat.
 
 ## 9. Batas Respons
@@ -223,8 +286,13 @@ Jangan menambahkan ringkasan panjang atau pujian diri.
 
 ## 11. Jika Ada Konflik
 
-- **Fakta cerita:** instruksi user terbaru > `canon.md` project.
-- **Aturan menulis:** instruksi user terbaru > panduan sumber > file di `engine/`.
-- Jika canon bertentangan dengan aturan craft: canon menang untuk fakta, engine menang
-  untuk cara menulis.
-- Jika dua file engine bertentangan, laporkan dan usulkan versi yang dipertahankan.
+1. Instruksi user terbaru.
+2. Outline terkunci dan canon project — untuk fakta cerita.
+3. `Panduan Proyek Web Novel Reply All (Brief untuk AI).md` — untuk aturan menulis.
+4. File di `engine/`.
+5. Teknik naratif.
+6. Hal lainnya.
+
+Jika outline/canon bertentangan dengan aturan craft: outline/canon menang untuk fakta,
+panduan/engine menang untuk cara menulis. Jika dua file engine bertentangan, laporkan dan
+usulkan versi yang dipertahankan.
