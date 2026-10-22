@@ -13,6 +13,16 @@ canon diperbarui agar tidak bertentangan.
 Fakta hanya sah jika ada di canon/ledger atau di teks bab yang sudah disetujui.
 Jika tidak ada, jangan mengarang. Tandai `[PERIKSA]` dan tanyakan.
 
+Aturan pencatatan:
+
+- Ledger hanya mencatat fakta yang **benar-benar muncul di teks** atau yang sengaja
+  direncanakan. Bedakan “terjadi” dan “direncanakan”.
+- Jangan mengutip sebuah bab sebagai sumber fakta yang tidak ada di bab itu.
+- Header waktu (mis. 01.40–02.20) harus didukung prosa. Jangan menulis rentang jam yang
+  tidak pernah muncul.
+- POV terbatas: jangan menulis niat/isi kepala tokoh lain.
+- Mekanisme teknis yang menggerakkan plot harus tertulis di canon/ledger, bukan asumsi.
+
 ## Ledger A–G
 
 ### A. Timeline Master
@@ -98,6 +108,8 @@ Setelah itu, perbarui tabel Ledger yang berubah. Jangan menunggu akhir proyek.
 - Jangan menambah aturan dunia baru di tengah cerita hanya demi menyelamatkan adegan.
 - Jangan membuat tokoh tahu sesuatu karena penulis membutuhkannya.
 - Jangan menutup lubang dengan kebetulan.
+- Jangan mencatat fakta di ledger kalau fakta itu tidak ada di teks.
+- Jangan menulis isi kepala tokoh lain dalam POV terbatas.
 - Jika dua bab bertentangan, laporkan dan usulkan versi yang dipertahankan.
 
 ## Pertanyaan Pembaca yang Harus Dijawab Teks

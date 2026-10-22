@@ -2,10 +2,11 @@
 
 > **Status:** draft
 > **POV:** <Nama>
-> **Target:** ±750 kata
+> **Target:** ±750 kata (hitung prosa; metadata/komentar tidak dihitung)
 > **Hari/jam/lokasi:** <Hari>, <jam>, <lokasi>
 > **Fungsi:** <fungsi bab>
 > **Teknik:** <teknik>
+> **Catatan POV:** jangan menulis isi kepala tokoh lain.
 
 <!--
 BACA DULU:

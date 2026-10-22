@@ -2,6 +2,7 @@
 
 > Dokumen hidup. Perbarui setelah setiap bab. Fakta hanya sah jika ada di sini atau di
 > teks bab yang sudah disetujui. Tandai fakta baru dengan **BARU**.
+> Kolom “Rujukan” harus menunjuk fakta yang benar-benar ada di teks, bukan rencana.
 
 ## A. Timeline Master
 

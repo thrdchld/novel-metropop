@@ -180,6 +180,13 @@ urutan tetap:
 4. **Penyimpangan outline**: “tidak ada” atau daftar jujur.
 5. **Satu pertanyaan** ke user, hanya jika perlu.
 
+Sebelum mengirim, cek:
+
+- semua beat outline muncul di teks;
+- semua setup/payoff benar-benar ditanam/dibayar;
+- ledger hanya memuat fakta yang ada di teks;
+- POV tidak menulis isi kepala tokoh lain.
+
 Jangan menambahkan ringkasan panjang atau pujian diri.
 
 ## 8. Definition of Done per Bab

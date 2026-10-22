@@ -153,3 +153,7 @@ Jangan mengganti premis. Lakukan:
 2. Tanyakan maksimal 3 hal yang belum jelas.
 3. Kembangkan menjadi 3 varian arah, bukan 3 premis baru.
 4. Pilih bersama user sebelum outline.
+
+Sebelum outline, tulis mekanisme teknis yang menggerakkan plot di canon: cara sistem
+bekerja, siapa punya akses, aturan pembalikan, jam operasional. Jangan mengandalkan
+asumsi pembaca.

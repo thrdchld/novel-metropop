@@ -17,13 +17,16 @@
 - Default: orang ketiga terbatas, dekat dengan pikiran satu tokoh per adegan.
 - Kala lampau, konsisten.
 - Pindah POV hanya jika ada di outline dan diberi pemisah jelas.
-- Narasi tidak boleh tahu isi kepala tokoh lain.
+- Narasi hanya berisi apa yang bisa dilihat, didengar, atau dipikirkan POV.
+  Jangan menulis niat/isi kepala tokoh lain.
 - Pikiran langsung ditulis miring dan singkat.
+- Narasi juga memakai bahasa sehari-hari, bukan hanya dialog. Jangan mendadak formal.
 
 ## Format Teks
 
 - Judul bab: `## Bab N: Judul` — 2–5 kata.
 - Chat: `**Nama:** *isi pesan*`.
+- SMS/pesan dari pengirim tak dikenal: `**Nomor tak dikenal:** *isi pesan*`.
 - Email/surat yang dibaca tokoh: ditulis miring.
 - Tanpa emoji.
 - Satu bab = satu adegan/beat, 600–900 kata (titik balik 720–950).
@@ -88,11 +91,17 @@ Sertakan satu detail per bab: makanan, aplikasi, benda di meja, suara ruangan, b
 Detail harus spesifik dan Indonesia: AC kantor yang dingin, notifikasi yang terus bunyi,
 bau kopi, nasi bungkus, KRL, ojol, kos di Tebet.
 
+Maksimal 1–2 perumpamaan per bab. Jangan menumpuk simile; satu perumpamaan yang tepat
+lebih kuat daripada empat yang sibuk.
+
 ## Exposition
 
 - Bagikan informasi lewat tekanan, bukan penjelasan.
 - Karakter menjelaskan aturan karena ia sedang melanggar atau dituntut.
 - Jangan menulis paragraf wiki tentang perusahaan.
+- Maksimal 2 definisi panjang per bab. Istilah lain dijelaskan singkat sambil aksi;
+  jangan menumpuk tiga paragraf definisi di awal bab.
+- Istilah yang menanggung plot (mis. eksposur, maker-checker, T+3) wajib dijelaskan sekali.
 - Glosarium inline sekali: “all-staff (alamat email grup untuk seluruh karyawan)”.
 
 ## Humor

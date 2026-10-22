@@ -133,7 +133,7 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
   - canon dan outline ada;
   - outline disetujui/terkunci.
 - Jangan mengubah outline, canon, atau aturan dunia diam-diam. Gunakan
-  `templates/change-request.md`.
+  `engine/templates/change-request.md`.
 - Jangan menambah tokoh baru tanpa setup.
 - Jangan menyelesaikan konflik dengan kebetulan yang menyelamatkan tokoh (deus ex machina).
 - Tanpa emoji, tanpa umpatan kasar, tanpa merek/tokoh publik nyata.

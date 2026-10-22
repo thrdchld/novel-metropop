@@ -3,6 +3,21 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v1.2 — 2026-10-22
+
+- **Perubahan:** Stress test end-to-end 30 bab + Bab 1; aturan diperkuat.
+- **Temuan:** hook dari nomor tak dikenal tanpa jalur; POV slip; ledger mengklaim fakta
+  yang tidak ada di teks; beat/setup outline tidak ditanam; definisi teknis menumpuk;
+  similes berlebih; "besok pagi" pada 02.19; pintu keluar (telepon Bu Laras) tidak ditutup.
+- **Aturan baru:** POV terbatas; format SMS/nomor tak dikenal; maksimal 2 definisi panjang
+  per bab; maksimal 1–2 simile; kontrak beat/setup/payoff; hook harus punya jalur;
+  ledger hanya fakta yang ada di teks; kolom "jalan keluar paling mudah ditutup";
+  cek POV/ledger/beat sebelum kirim.
+- **File:** `02-premise.md`, `03-structure.md`, `04-character.md`, `05-style.md`,
+  `06-chapter.md`, `07-continuity.md`, `08-quality.md`, `00-workflow.md`,
+  `templates/outline.md`, `templates/chapter.md`, `templates/ledger.md`.
+- **Dampak:** semua project baru; bab lama hanya jika relevan.
+
 ## v1.1 — 2026-10-21
 
 - **Perubahan:** Migrasi penuh ke agent-first. `engine/` sekarang berisi markdown;

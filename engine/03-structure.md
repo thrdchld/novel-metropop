@@ -62,10 +62,14 @@ Semua kolom harus terisi. Jangan menulis bab jika ada kolom kosong.
 - **Teknik naratif:** ...
 - **Hook:** ...
 - **Kenapa masuk akal:** satu kalimat bukti logika.
+- **Jalan keluar paling mudah ditutup:** kenapa tokoh tidak memilih jalan termudah.
 - **Pertanyaan pembaca yang dijawab:** ...
 - **Yang TIDAK terjadi:** ...
 - **Target kata:** ±750 (titik balik ±900; terima 720–950).
 ```
+
+Semua beat wajib muncul di teks. Setup/payoff harus benar-benar ditanam/dibayar; jika
+tidak, perbaiki bab atau ajukan Perubahan Outline.
 
 ## Titik Putar
 

@@ -61,6 +61,10 @@ Contoh:
 Tokoh kecil berulang: satpam, IT, petugas kebersihan, anak magang, barista langganan.
 Mereka boleh muncul 3–5 kali dan menjadi payoff.
 
+**Jumlah cast:** 6–8 tokoh utama sudah cukup. Tokoh kecil berulang boleh lebih, tetapi
+masing-masing harus punya fungsi. Boleh ada satu antagonis dekat (atasan) dan satu
+antagonis institusional (kepatuhan/regulator); keduanya butuh motif konkret.
+
 ## Protagonis
 
 - Cacat harus menyebabkan masalah di Babak 1 dan menuntut perubahan di akhir.

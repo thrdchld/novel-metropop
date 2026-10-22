@@ -56,6 +56,16 @@ Sebelum lock:
 - Presentasikan lubang yang ditemukan dan cara menutupnya.
 - Minta persetujuan user.
 
+## Cek Sebelum Kirim
+
+- Semua beat outline muncul di teks.
+- Setup/payoff yang dijanjikan benar-benar ditanam/dibayar.
+- Jalan keluar paling mudah sudah ditutup.
+- Hook punya jalur masuk akal (termasuk pesan dari nomor tak dikenal).
+- POV tidak menulis isi kepala tokoh lain.
+- Ledger tidak mengklaim fakta yang tidak ada di teks.
+- Istilah teknis yang menanggung plot sudah dijelaskan sekali.
+
 ## Tes Pembaca
 
 1. Maukah aku langsung klik bab berikutnya?
@@ -83,6 +93,10 @@ Jangan menambahkan ringkasan panjang, pujian diri, atau penjelasan yang tidak di
 - Lebih dari 15% bab adalah bab sampingan.
 - Ada emoji/umpatan.
 - Ada tokoh baru tanpa setup.
+- Ada POV slip (isi kepala tokoh lain).
+- Hook tanpa jalur masuk akal.
+- Beat outline hilang tanpa perubahan resmi.
+- Ledger mengklaim fakta yang tidak ada di teks.
 - Ada deus ex machina.
 - Outline berubah tanpa change request.
 

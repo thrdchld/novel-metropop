@@ -3,6 +3,7 @@
 ## Format
 
 - 600–900 kata; target ±750; titik balik 720–950.
+- Hitung kata prosa. Metadata, header `>`, dan komentar HTML tidak dihitung.
 - Satu POV, satu adegan/beat, satu perubahan.
 - Judul `## Bab N: Judul`, 2–5 kata.
 - Berakhir dengan hook sebagai kalimat terakhir.
@@ -17,6 +18,18 @@ Setiap bab harus bisa dijawab:
 3. **Belokan:** apa yang berubah sebelum bab selesai?
 
 Kalau salah satu tidak ada, adegan belum siap.
+
+## Kontrak dengan Outline
+
+- Semua beat yang tertulis di outline harus muncul di teks.
+- Semua setup yang dijanjikan harus benar-benar ditanam; semua payoff yang dijadwalkan
+  harus dibayar.
+- Jika satu beat tidak jadi, **jangan diam-diam**. Perbaiki bab atau ajukan Perubahan
+  Outline, lalu update ledger.
+- Tutup jalan keluar paling mudah di bab ini. Kalau tokoh bisa menyelesaikan masalah
+  dengan satu telepon, tunjukkan kenapa telepon itu gagal.
+- Hook harus punya jalur masuk akal. Jika pesan dari nomor tak dikenal, jelaskan
+  bagaimana pengirim mendapat nomor itu (aplikasi, surat penagihan, kartu petugas).
 
 ## Formula 750 Kata
 
@@ -106,7 +119,12 @@ Satu detail per bab yang bisa diingat:
 
 - [ ] Satu POV.
 - [ ] Satu tujuan, satu rintangan, satu belokan.
-- [ ] 600–900 kata (titik balik 720–950).
+- [ ] 600–900 kata (titik balik 720–950); hitung prosa saja.
+- [ ] Semua beat outline muncul.
+- [ ] Setup/payoff outline benar-benar ditanam/dibayar.
+- [ ] Jalan keluar paling mudah sudah ditutup.
+- [ ] Hook punya jalur masuk akal.
+- [ ] POV tidak menulis isi kepala tokoh lain.
 - [ ] Paragraf pertama langsung di adegan.
 - [ ] Minimal tiga pertukaran dialog.
 - [ ] Satu detail konkret.
