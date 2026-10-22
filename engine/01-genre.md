@@ -15,8 +15,8 @@ unsur itu, ia harus tetap tunduk pada masalah manusia yang bisa dikenali pembaca
 
 ## Janji ke Pembaca
 
-1. **Pengenalan:** “ini gue banget”, “kantor gue juga gitu”.
-2. **Ketegangan:** “habis ini gimana?”
+1. **Pengenalan:** “ini gue banget”, “kantor gue juga gitu”, “tiap hari pengin resign tapi butuh duit”.
+2. **Ketegangan & Dinamika:** “habis ini gimana?”, interaksi seru antarteman kubikel, ketegangan dengan atasan/rekan, dan romansa yang tumbuh dari rasa sebal.
 
 Setiap bab harus memenuhi minimal satu, idealnya dua.
 
@@ -26,16 +26,18 @@ Setiap bab harus memenuhi minimal satu, idealnya dua.
    sebagai keberanian, kebohongan yang dianggap strategi, identitas pinjaman yang
    membuka pintu.
 2. **Dunia spesifik.** Sebut pekerjaan/sekolah/kampus, tempat, rutinitas, aplikasi chat,
-   makanan, jalur pulang, dan benda khas. Detail membuat pembaca percaya.
+   makanan, jalur pulang, dan benda khas (kubikel, drawer camilan, flash disk, revisi ke-10).
 3. **Protagonis punya cacat aktif.** Cacat menyebabkan masalah, bukan hanya sifat.
 4. **Satu plot utama; subplot opsional.** Romansa, keluarga, atau benang sosial boleh
    ada 0–3, masing-masing punya fungsi. Romansa memperburuk plot utama, bukan
    mengalihkannya. Jangan memaksakan subplot yang tidak dibutuhkan.
 5. **Satu bab, satu adegan utama, satu perubahan.** Satu POV per bab.
 6. **Hook adalah kalimat terakhir.** Bukan ringkasan, bukan pertanyaan retoris kosong.
-7. **Dialog bekerja.** Dialog menjelaskan karakter dan taruhan, bukan plot.
-8. **Detail konkret mengalahkan kata sifat.** “Kopi ketiga sudah dingin” lebih kuat
-   dari “dia sangat lelah”.
+7. **Dialog bekerja dan renyah.** Dialog mencerminkan dinamika asli pergaulan (lo-gue
+   antarrekan sebaya, sopan ke atasan, ledek-ledekan akrab, *awkward banter*).
+8. **Detail konkret dan monolog batin yang hidup.** Monolog batin yang spontan, sedikit
+   sarkastik, dan *self-deprecating* (meratapi nasib tapi tetap bekerja) jauh lebih ampuh
+   daripada narasi puitis yang kaku.
 9. **Kritik sosial lewat biaya.** Tunjukkan siapa kehilangan waktu, uang, atau martabat.
 10. **Akhir adalah pilihan, bukan penyelesaian total.** Tidak semua masalah hilang.
 

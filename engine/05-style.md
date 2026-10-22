@@ -1,46 +1,62 @@
 # 05 — Gaya Bahasa dan Format
 
-## Suara
+> **Acuan Utama:** Dokumen `acuan-bahasa.docx` di root repositori adalah benchmark utama
+> untuk cara penulisan, gaya bahasa, diksi, dan cara bercerita (dinamis, segar, kocak,
+> dan sangat *relatable* khas kehidupan perkotaan/kantoran).
 
-- Bahasa sehari-hari orang Indonesia, nada ngobrol.
-- Pakai: nggak, udah, kayak, ngetik, nyender, banget, aja, bikin, tuh.
-- Kalimat pendek. Paragraf pendek. Hindari kalimat bertingkat.
-- Serapan kantor dipakai wajar: meeting, deadline, urgent call, follow up, feedback,
-  spreadsheet, Slack, forum.
-- Istilah asing/kerja dijelaskan sekali secara inline, lalu bebas dipakai.
-- Hindari analogi aneh dan terjemahan literal dari bahasa Inggris.
-- Humor lahir dari situasi, bukan kalimat yang dipaksa lucu.
-- Tanpa emoji dan umpatan kasar.
+## Suara dan Nada Cerita
 
-## POV dan Tense
+- Bahasa sehari-hari percakapan urban Indonesia: mengalir, santai, lincah, bernada ngobrol.
+- Kata percakapan khas: *nggak, udah, kayak, ngetik, nyender, banget, aja, bikin, tuh, pengin, nyengir, manyun, tengil, mendamprat, misuh-misuh, sewot, doyan, yeee*.
+- **Code-switching alami:** Selipkan kata atau frasa bahasa Inggris yang lazim dipakai kaum urban/pekerja kantoran tanpa terkesan kaku atau sok keminggris:
+  *outlier, drawer, walkout, lunch break, urgent, meeting, resign, CV, flash disk, awkward, simple truth, for God's sake, this time is zero, done, cubicle*.
+- Kalimat pendek dan renyah. Paragraf pendek. Hindari struktur kalimat bertingkat yang berbelit-belit.
+- Humor lahir dari ironi situasi, nasib apes tokoh (*self-deprecating*), celetukan spontan, dan *banter* (saling ledek) antarrekan.
+- **Batasan 13+:** Tanpa emoji dan tanpa umpatan kasar (umpatan ringan sehari-hari seperti *sial, astaga, ya ampun* diperbolehkan).
 
-- Default: orang ketiga terbatas, dekat dengan pikiran satu tokoh per adegan.
-- Kala lampau, konsisten.
-- Pindah POV hanya jika ada di outline dan diberi pemisah jelas.
-- Narasi hanya berisi apa yang bisa dilihat, didengar, atau dipikirkan POV.
-  Jangan menulis niat/isi kepala tokoh lain.
-- Pikiran langsung ditulis miring dan singkat.
-- Narasi juga memakai bahasa sehari-hari, bukan hanya dialog. Jangan mendadak formal.
+## Sudut Pandang (POV) dan Monolog Batin
+
+- **Pilihan POV Utama: Orang Pertama ("Aku")**
+  Sangat direkomendasikan karena paling pas untuk menangkap kedekatan emosi, kelucuan monolog batin, dan keluh-kesah tokoh (sebagaimana contoh di `acuan-bahasa.docx`).
+- **Opsi Alternatif: Orang Ketiga Terbatas (Dekat)**
+  Jika proyek memilih sudut pandang orang ketiga, buat jarak narator sangat dekat dengan isi kepala tokoh utama, tetap menggunakan bahasa yang santai dan tidak mendadak kaku.
+- **Monolog Batin yang Hidup:**
+  Tokoh utama memiliki suara batin yang reaktif, sarkastik, dan spontan menyela narasi ketika menghadapi situasi menjengkelkan atau konyol.
+  Contoh:
+  > *Gantian aku yang melongo. Dari tadi nenek moyangmu, Tigran!*
+  > *Bye-bye, Pak, I'm done respecting you!*
+  > *Okay, now I am actually sick.*
+  > *Sial, aku harus bersikap bagaimana di dalam mobil?*
+- Narasi tidak boleh membocorkan isi kepala tokoh lain di luar tokoh POV.
+
+## Tingkat Tutur dan Sapaan (Register)
+
+Dinamika pergaulan ditunjukkan lewat cara bicara yang kontras:
+1. **Antarrekan Sebaya / Sahabat Kubikel:**
+   Menggunakan *lo-gue*, ledek-ledekan akrab tanpa filter, saling roasting, dan tanpa rasa tersinggung.
+   > *”Tanggal tua nggak usah banyak mau!”*
+   > *”Ini teman lo mau nikah, sekali seumur hidup!”*
+2. **Kepada Senior Tim:**
+   Sapaan hormat (*Mbak/Mas*) dipadukan dengan percakapan akrab (*lo-gue* atau santai).
+   > *”Ih... tapi dari depan dia kayak narik lo ke dadanya gitu, jadi semi-Titanic!” kata Mbak Karen.*
+3. **Kepada Atasan / Klien:**
+   Formal dan sopan menggunakan *saya-Bapak/Ibu*, menjaga intonasi meskipun batinnya berontak.
+   > *”Pak, komputer saya saja belum panas setelah ditinggal ngobrol sejam di ruangan Bapak.”*
 
 ## Format Teks
 
-- Judul bab: `## Bab N: Judul` — 2–5 kata.
-- Chat: `**Nama:** *isi pesan*`.
-- SMS/pesan dari pengirim tak dikenal: `**Nomor tak dikenal:** *isi pesan*`.
-- Email/surat yang dibaca tokoh: ditulis miring.
-- Tanpa emoji.
-- Satu bab = satu adegan/beat, 600–900 kata (titik balik target 900).
-- Hook adalah kalimat terakhir.
-
-Contoh chat:
-
-```markdown
-**Arga:** *Nad, besok jam 8 ada urgent call ya. Cuma 15 menit kok.*
-```
-
-Email/surat:
-
-> *Kepada Yth. Bapak Bimo Santoso, saya bermaksud mengajukan pengunduran diri...*
+- **Judul Bab:** `## Bab N: Judul` (2–5 kata).
+- **Epigraph / Quote Pembuka (Khas Acuan Bahasa):**
+  Tiap bab boleh dibuka dengan kutipan singkat yang lucu, satir, atau menggambarkan tema bab tersebut:
+  > *”No one naturally loves to work, except my boss.”* — The Cungpret
+- **Format Chat:**
+  Dapat menggunakan salah satu dari dua format yang rapi:
+  - Format naskah: `Nama : Isi pesan`
+  - Format markdown: `**Nama:** *Isi pesan*`
+- **Email / Dokumen Resmi:** Ditulis miring atau menggunakan blok kutipan (`>`).
+- **Pemberitahuan / SMS tak dikenal:** `**Nomor tak dikenal:** *isi pesan*`.
+- **Panjang Bab:** 600–900 kata (titik balik target 900).
+- **Hook Akhir:** Kalimat terakhir bab yang membuat pembaca ingin segera lanjut membaca.
 
 ## Dialog
 

@@ -288,9 +288,9 @@ Jangan menambahkan ringkasan panjang atau pujian diri.
 
 1. Instruksi user terbaru.
 2. Outline terkunci dan canon project — untuk fakta cerita.
-3. `Panduan Proyek Web Novel Reply All (Brief untuk AI).md` — untuk aturan menulis.
+3. `acuan-bahasa.docx` dan `engine/05-style.md` — untuk gaya, diksi, dan cara penulisan.
 4. File di `engine/`.
-5. Teknik naratif.
+5. Dokumen arsip di `old-documents-unneeded/`.
 6. Hal lainnya.
 
 Jika outline/canon bertentangan dengan aturan craft: outline/canon menang untuk fakta,

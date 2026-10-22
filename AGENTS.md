@@ -12,8 +12,8 @@ bawah. Jangan mulai menulis prosa sebelum user memilih mode dan menyetujui renca
 1. `AGENTS.md` — file ini.
 2. `engine/README.md` — peta paket.
 3. `engine/00-workflow.md` — alur kerja dan pertanyaan sesi.
-4. `Panduan Proyek Web Novel Reply All (Brief untuk AI).md` — **acuan tertinggi versi terbaru**.
-5. `Panduan Menulis Web Novel Metropop Indonesia.txt` — versi sebelumnya; pakai hanya sebagai referensi tambahan.
+4. `acuan-bahasa.docx` — **acuan utama cara penulisan, gaya bahasa, diksi, dan gaya bercerita**.
+5. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
 6. Periksa isi `story/`. Jika ada cerita, baca `canon.md`, `outline.md`, `ledger.md`,
    dan bab terakhir yang sudah ditulis.
 
@@ -204,9 +204,9 @@ karena satu adegan.
 - Urutan prioritas bila bertabrakan:
   1. Instruksi user terbaru.
   2. Outline terkunci dan canon project — untuk fakta cerita.
-  3. `Panduan Proyek Web Novel Reply All (Brief untuk AI).md` — untuk aturan menulis.
+  3. `acuan-bahasa.docx` dan `engine/05-style.md` — untuk gaya bahasa, diksi, dan cara bercerita.
   4. File di `engine/`.
-  5. Teknik naratif.
+  5. Dokumen arsip di `old-documents-unneeded/`.
   6. Hal lainnya.
 - Jika outline/canon bertentangan dengan aturan craft: outline/canon menang untuk fakta,
   panduan/engine menang untuk cara menulis. Teknik naratif adalah prioritas paling bawah.

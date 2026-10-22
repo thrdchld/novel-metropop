@@ -3,10 +3,10 @@
 Folder ini adalah **skill/prompt package** untuk agent penulis. Tidak ada kode yang
 perlu dijalankan. Agent cukup membaca markdown di sini, lalu bekerja lewat percakapan.
 
-**Acuan tertinggi** `../Panduan Proyek Web Novel Reply All (Brief untuk AI).md`
-(versi terbaru). `../Panduan Menulis Web Novel Metropop Indonesia.txt` adalah versi
-sebelumnya; pakai hanya sebagai referensi tambahan. Ringkasan operasional ada di
-`00-workflow.md` dan file-file di folder ini.
+**Acuan gaya bahasa & cara penulisan:** `../acuan-bahasa.docx` (contoh novel dengan
+gaya bahasa, diksi, pilihan kata, dan gaya bercerita yang diinginkan). Dokumen panduan
+lama diarsipkan di `../old-documents-unneeded/` sebagai referensi tambahan. Ringkasan
+operasional ada di `00-workflow.md` dan file-file di folder ini.
 
 **Prinsip Pas:** teknik naratif, subplot, flashback, dan scene ikonik adalah alat
 opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.

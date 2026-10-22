@@ -4,23 +4,15 @@
 
 | Sumber | Fungsi |
 |---|---|
-| `../Panduan Proyek Web Novel Reply All (Brief untuk AI).md` | **Acuan tertinggi versi terbaru.** Baca seluruhnya. |
-| `../Panduan Menulis Web Novel Metropop Indonesia.txt` | Versi sebelumnya; referensi tambahan. |
-| `../referensi` | Manuskrip contoh “Reply All” + blueprint 40 bab. |
+| `../acuan-bahasa.docx` | **Acuan utama gaya bahasa, diksi, dan cara bercerita.** Contoh novel acuan gaya MetroPop hidup, dinamis, dan segar. |
+| `../old-documents-unneeded/` | Arsip dokumen versi sebelumnya (`Panduan Proyek Web Novel Reply All`, `Panduan Menulis Web Novel Metropop Indonesia.txt`, `referensi.txt`). |
 | `examples/` | Contoh premis, outline, adegan, hook, perbaikan gaya. |
-| `learnings/editor-feedback.md` | Kritik berulang dari user. |
+| `learnings/editor-feedback.md` | Kritik berulang dan preferensi gaya user. |
 | `learnings/changelog.md` | Riwayat perubahan aturan engine. |
 
-Panduan terbaru memperluas cakupan: target pembaca **13+**, latar dan usia tokoh bebas
-(kantor, sekolah, kuliah, pernikahan, keluarga, desa, lansia), dan **Prinsip Pas**—
-teknik/subplot/flashback/scene ikonik opsional, boleh nol.
+`acuan-bahasa.docx` adalah benchmark utama cara bertutur yang diinginkan user: menggunakan sudut pandang orang pertama ("Aku") yang ekspresif, monolog batin yang kocak/sarkastik, dialog renyah dengan *code-switching* bahasa Inggris urban yang wajar (*outlier, drawer, walkout, lunch break, urgent, meeting, awkward, simple truth*), dan dinamika pergaulan kantor yang sangat hidup (kawan senasib kubikel, bos perfeksionis).
 
-`../referensi` adalah studi kasus “Reply All”: blueprint 40 bab + 10 bab prosa. Gunakan
-untuk mempelajari struktur dan ritme, **bukan** untuk menyalin prosa/plot. `examples/`
-juga berisi contoh orisinal; jangan menyalin kalimatnya.
-
-Provenance: `referensi` disediakan pemilik repo dan diperlakukan sebagai materi internal.
-Jika isinya berasal dari karya pihak lain, verifikasi izin sebelum memakai elemennya.
+Gunakan untuk mempelajari gaya bercerita, diksi, dan ritme dialog, **bukan** untuk menyalin karakter atau plot secara langsung ke cerita baru.
 
 Engine Python lama sudah dihapus dari working tree. Jika perlu referensi implementasi,
 ambil dari riwayat git sebelum commit migrasi.

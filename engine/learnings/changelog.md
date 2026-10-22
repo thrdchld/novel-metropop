@@ -3,6 +3,24 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v1.4 — 2026-10-22
+
+- **Perubahan:** Mengadopsi `acuan-bahasa.docx` sebagai acuan utama cara penulisan,
+  gaya bahasa, diksi, dan cara bercerita. Dokumen lama dipindahkan ke `old-documents-unneeded/`.
+- **Gaya & Diksi Baru:**
+  - Pilihan POV Utama: Orang Pertama ("Aku") yang ekspresif, lincah, dan sarat monolog
+    batin yang reaktif, sarkastik, serta *self-deprecating*.
+  - Natural *corporate/urban code-switching*: pemakaian istilah/frasa bahasa Inggris yang
+    wajar dalam percakapan perkotaan modern (*outlier, drawer, walkout, lunch break,
+    urgent, meeting, resign, CV, awkward, simple truth, done*).
+  - Register sapaan kontras: ledek-ledekan antarrekan kubikel (*lo-gue*), senior tim
+    (*Mbak/Mas* + nada santai), dan atasan (*saya-Bapak/Ibu*).
+  - Format bab: judul bab kini dapat dilengkapi *epigraph / quote* pembuka bab bernada satir/humor.
+  - Dinamika karakter: arketipe kawan senasib kubikel (*The Cungpret dynamic*).
+- **File:** `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, `engine/01-genre.md`,
+  `engine/04-character.md`, `engine/05-style.md`, `engine/06-chapter.md`, `engine/sources.md`,
+  `engine/SKILL.md`, `.agent/rules/metropop.md`, `engine/learnings/editor-feedback.md`.
+
 ## v1.3 — 2026-10-22
 
 - **Perubahan:** Mengadopsi `Panduan Proyek Web Novel Reply All (Brief untuk AI).md`

@@ -51,12 +51,21 @@ Contoh:
 
 | Peran | Fungsi | Catatan |
 |---|---|---|
-| Protagonis | Ingin, butuh, cacat, memilih | Harus aktif, bukan korban pasif. |
-| Love interest | Mengubah cara protagonis melihat diri | Punya hidup sendiri. |
-| Antagonis | Menekan dengan logika sendiri | Bukan jahat tanpa alasan. |
-| Sekutu | Informasi + taruhan pribadi | Bisa retak di midpoint. |
-| Mentor | Perspektif | Jangan menyelamatkan protagonis. |
-| Keluarga | Tekanan emosional | Sumber humor dan rasa bersalah. |
+| Protagonis | Ingin, butuh, cacat, memilih | Aktif, pekerja keras yang lelah tapi gigih, punya monolog batin yang kocak/sarkas. |
+| Love interest / Atasan | Mengubah cara protagonis melihat diri | Dingin, berprestasi, hemat kata, menuntut kesempurnaan tapi punya sisi rapuh/perhatian. |
+| Antagonis | Menekan dengan logika sendiri | Bisa berupa figur otoritas kaku, sistem kantor, atau kolega penjilat. |
+| Sekutu (Grup Kubikel) | Informasi, pelipur lara, tawa | Kawan senasib yang saling roasting, doyan ngemil, dan jadi sumber gosip makan siang. |
+| Mentor | Perspektif | Memberi sudut pandang realistis, tidak menyelesaikan masalah protagonis. |
+| Keluarga | Tekanan emosional | Sumber rasa bersalah, tuntutan menikah/uang, tapi tempat berlabuh. |
+
+### Dinamika Tim Kubikel (Arketipe Kawan Senasib)
+
+Kekuatan cerita MetroPop sering lahir dari kelompok kawan senasib (seperti kelompok "The Cungpret"):
+1. **Si Tukang Ngemil & Santai:** Drawer mejanya penuh camilan, suka kabur dari tugas kecil, perhitungan soal amplop nikahan, selalu punya ide konyol.
+2. **Si Senior Tajam & Ratu Gosip:** Suaranya kencang, ceplas-ceplos, anti basa-basi, tahu segala skandal kantor, tapi pasang badan saat temannya dizalimi.
+3. **Si Pengamat Santai / Tukang Kompor:** Senior kalem yang sudah berkeluarga, suka melempar celetukan memanaskan suasana saat ada yang salah tingkah.
+
+Kombinasi ini membuat suasana kantor/komunitas terasa sangat hidup dan pembaca merasa ikut "nongkrong" bersama mereka.
 
 Tokoh kecil berulang: satpam, IT, petugas kebersihan, anak magang, barista langganan.
 Mereka boleh muncul 3–5 kali dan menjadi payoff.

@@ -9,7 +9,7 @@ Jangan menyalinnya di sini; catat hanya log dan aturan baru.
 
 | Tanggal | Feedback | Aturan baru | File |
 |---|---|---|---|
-| - | - | - | - |
+| 2026-10-22 | “menambahkan acuan-bahasa.docx: contoh novel dengan cara penulisan, gaya bahasa, diksi, pilihan kata, gaya bercerita yang diinginkan” | Adopsi gaya MetroPop acuan-bahasa.docx: POV 1 intim, monolog batin sarkastik/kocak, dialog renyah, code-switching urban wajar, epigraph pembuka bab. | 05-style.md, 04-character.md, 06-chapter.md |
 
 ## Cara Mengisi
 

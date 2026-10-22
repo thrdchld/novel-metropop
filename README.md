@@ -35,9 +35,8 @@ CLAUDE.md              # pointer untuk Claude
 GEMINI.md              # pointer untuk Gemini/Antigravity
 engine/                # otak agent: workflow, genre, struktur, gaya, template
 story/                 # cerita: canon, outline, ledger, chapters
-Panduan Proyek Web Novel Reply All (Brief untuk AI).md  # acuan tertinggi
-Panduan Menulis Web Novel Metropop Indonesia.txt        # versi sebelumnya
-referensi              # studi kasus "Reply All"; jangan salin prosa/plot
+acuan-bahasa.docx      # acuan utama gaya bahasa, diksi, dan cara bercerita
+old-documents-unneeded/ # arsip referensi panduan sebelumnya
 ```
 
 ## Mode Kerja

@@ -6,8 +6,8 @@ description: Menulis dan merevisi web novel MetroPop Indonesia 30–40 bab, ±75
 # Skill: MetroPop Novel
 
 Baca `AGENTS.md` di root repo, lalu `engine/README.md` dan `engine/00-workflow.md`.
-Dokumen sumber tertinggi: `Panduan Proyek Web Novel Reply All (Brief untuk AI).md`.
-Panduan lama hanya referensi tambahan.
+Acuan utama gaya bahasa, diksi, dan cara bercerita: `acuan-bahasa.docx`.
+Dokumen arsip ada di `old-documents-unneeded/`.
 
 ## Perilaku Wajib
 
