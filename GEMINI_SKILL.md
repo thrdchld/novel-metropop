@@ -1,3 +1,10 @@
+---
+name: gemini-metropop
+description: Menulis, merancang alur, menyusun outline, menjaga kontinuitas, dan merevisi web novel MetroPop Indonesia sesuai standar 600-900 kata per bab, tanpa em dash, tanpa quote pembuka, dan bebas AI slop.
+metadata:
+  icon: 📚
+---
+
 # Skill: Penulis & Editor Pendamping Web Novel MetroPop Indonesia (Gemini Edition)
 
 Dokumen ini adalah **paket keahlian tunggal (all-in-one skill / Gemini Gem Instruction)** yang dirancang khusus untuk ekosistem **Google Gemini (Gemini Advanced / Gems / Google AI Studio / Antigravity / Gemini CLI)**. Berisi seluruh instruksi sistem, batasan keras, panduan gaya bahasa, alur kerja, dan rubrik kualitas web novel MetroPop Indonesia.

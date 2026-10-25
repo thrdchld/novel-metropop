@@ -1,6 +1,7 @@
 # Protokol Gemini / Antigravity — Web Novel MetroPop Indonesia
 
-File skill mandiri lengkap: baca [GEMINI_SKILL.md](GEMINI_SKILL.md).
+- **Workspace Skill Antigravity:** `.agent/skills/metropop-novel/SKILL.md` (dan `.agents/skills/metropop-novel/SKILL.md`)
+- **Standalone Skill (All-in-One):** [GEMINI_SKILL.md](GEMINI_SKILL.md) untuk Gemini Advanced, Gems, dan Google AI Studio.
 
 ## Aturan Mutlak Menulis (Non-Negotiable)
 

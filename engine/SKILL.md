@@ -1,6 +1,8 @@
 ---
 name: metropop-novel
-description: Menulis dan merevisi web novel MetroPop Indonesia 30–40 bab, ±750 kata per bab, dengan canon, outline lock, Story Ledger, dan rubrik. Gunakan saat user ingin ide premis, project baru, lanjutkan cerita, revisi, atau analisis referensi.
+description: Menulis dan merevisi web novel MetroPop Indonesia 30-40 bab, target 750 kata per bab, dengan canon, outline lock, Story Ledger, dan rubrik. Gunakan saat user ingin ide premis, project baru, lanjutkan cerita, revisi, atau analisis referensi.
+metadata:
+  icon: 📚
 ---
 
 # Skill: MetroPop Novel
