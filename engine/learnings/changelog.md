@@ -3,6 +3,14 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v1.5 — 2026-10-24
+
+- **Perubahan:** Penegasan gaya berdasarkan masukan editor:
+  - Hapus dan larang kutipan/quote di atas bab (agar tidak mencontek novel acuan).
+  - Larang keras pemakaian em dash (`—`) di seluruh narasi maupun dialog novel.
+  - Hilangkan diksi baku kaku dan deskripsi melodramatis/AI slop; wajib memakai bahasa tutur dan percakapan alami orang Indonesia.
+- **File:** `engine/05-style.md`, `engine/06-chapter.md`, `engine/learnings/editor-feedback.md`.
+
 ## v1.4 — 2026-10-22
 
 - **Perubahan:** Mengadopsi `acuan-bahasa.docx` sebagai acuan utama cara penulisan,

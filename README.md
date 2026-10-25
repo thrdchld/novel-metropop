@@ -32,6 +32,8 @@ Tidak perlu install Python, API key engine, atau CLI. API key hanya untuk agent-
 ```text
 AGENTS.md              # protokol utama agent
 CLAUDE.md              # pointer untuk Claude
+CLAUDE_SKILL.md        # skill mandiri all-in-one untuk Claude
+CHATGPT_SKILL.md       # skill mandiri all-in-one untuk ChatGPT / Custom GPT
 GEMINI.md              # pointer untuk Gemini/Antigravity
 engine/                # otak agent: workflow, genre, struktur, gaya, template
 story/                 # cerita: canon, outline, ledger, chapters

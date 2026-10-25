@@ -160,6 +160,10 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 - Jangan menambah tokoh baru tanpa setup.
 - Jangan menyelesaikan konflik dengan kebetulan yang menyelamatkan tokoh (deus ex machina).
 - Tanpa emoji, tanpa umpatan kasar, tanpa merek/tokoh publik nyata.
+- **Tanpa em dash (`—`):** Dilarang keras memakai em dash (`—`) di seluruh narasi maupun dialog novel.
+- **Tanpa quote/epigraph di atas bab:** Jangan menaruh quote atau epigraph sebelum teks bab.
+- **Bebas dari AI slop dan bahasa baku kaku:** Wajib menggunakan bahasa percakapan sehari-hari orang Indonesia yang membumi, natural, dan segar; dilarang memakai frasa puitis artifisial buatan mesin.
+- **Wajib periksa kontinuitas sebelum menulis:** Wajib membaca `story/<Judul>/canon.md`, `outline.md`, dan `ledger.md` sebelum menulis bab berikutnya.
 - Istilah asing/kerja dijelaskan sekali secara inline.
 - Setiap bab 600–900 kata (titik balik target 900), satu POV, satu adegan/beat, berakhir hook.
 - Format judul: `## Bab N: Judul`; judul 2–5 kata.

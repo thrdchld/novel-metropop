@@ -46,9 +46,8 @@ Dinamika pergaulan ditunjukkan lewat cara bicara yang kontras:
 ## Format Teks
 
 - **Judul Bab:** `## Bab N: Judul` (2–5 kata).
-- **Epigraph / Quote Pembuka (Khas Acuan Bahasa):**
-  Tiap bab boleh dibuka dengan kutipan singkat yang lucu, satir, atau menggambarkan tema bab tersebut:
-  > *”No one naturally loves to work, except my boss.”* — The Cungpret
+- **Tanpa Quote / Epigraph:** Jangan menaruh kutipan atau quote di atas bab agar tidak mencontek gaya novel acuan.
+- **Tanpa Em Dash (`—`):** Dilarang keras menggunakan em dash (`—`). Gunakan tanda koma, titik, tanda pisah hubung biasa (`-`), atau susun kalimat secara alami.
 - **Format Chat:**
   Dapat menggunakan salah satu dari dua format yang rapi:
   - Format naskah: `Nama : Isi pesan`
@@ -156,6 +155,9 @@ promosi zat terlarang. Tema berat ditulis dengan empati.
 
 ## Larangan
 
+- **Em dash (`—`):** Dilarang keras memakai em dash (`—`) di seluruh naskah novel (narasi maupun dialog).
+- **Quote/epigraph pembuka bab:** Dilarang memasang kutipan/quote di atas bab.
+- **AI slop dan diksi baku kaku:** Hindari frasa puitis artifisial, metafora robotik, atau deskripsi klise (misalnya *'menyatukan nada bicara tegap berwibawa'*, *'menyemburkan omelan jilid dua'*). Tulislah dengan gaya bertutur manusia Indonesia yang membumi, segar, dan apa adanya.
 - Emoji.
 - Umpatan kasar.
 - Merek nyata/tokoh publik.

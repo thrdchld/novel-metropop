@@ -6,8 +6,8 @@
 - Hitung kata prosa. Metadata, header `>`, dan komentar HTML tidak dihitung.
 - Satu POV, satu adegan/beat, satu perubahan.
 - Judul `## Bab N: Judul`, 2–5 kata.
-- Boleh disertai epigraph / kutipan pembuka bernada satir/lucu khas MetroPop (opsional):
-  `> *”Makan siang adalah surga rumpi.”*`
+- Tanpa quote/epigraph di atas bab.
+- Tanpa em dash (`—`).
 - Berakhir dengan hook sebagai kalimat terakhir.
 - Bab 1 wajib in medias res.
 
