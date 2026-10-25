@@ -35,6 +35,7 @@ CLAUDE.md              # pointer untuk Claude
 CLAUDE_SKILL.md        # skill mandiri all-in-one untuk Claude
 CHATGPT_SKILL.md       # skill mandiri all-in-one untuk ChatGPT / Custom GPT
 GEMINI.md              # pointer untuk Gemini/Antigravity
+GEMINI_SKILL.md        # skill mandiri all-in-one untuk Gemini / Gems
 engine/                # otak agent: workflow, genre, struktur, gaya, template
 story/                 # cerita: canon, outline, ledger, chapters
 acuan-bahasa.docx      # acuan utama gaya bahasa, diksi, dan cara bercerita
