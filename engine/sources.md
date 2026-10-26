@@ -5,6 +5,7 @@
 | Sumber | Fungsi |
 |---|---|
 | `../acuan-bahasa.docx` | **Acuan utama gaya bahasa, diksi, dan cara bercerita.** Contoh novel acuan gaya MetroPop hidup, dinamis, dan segar. |
+| `../Kerangka Plot yang Terbukti untuk Web Novel.md` | **Acuan utama kerangka plot, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita.** |
 | `../old-documents-unneeded/` | Arsip dokumen versi sebelumnya (`Panduan Proyek Web Novel Reply All`, `Panduan Menulis Web Novel Metropop Indonesia.txt`, `referensi.txt`). |
 | `examples/` | Contoh premis, outline, adegan, hook, perbaikan gaya. |
 | `learnings/editor-feedback.md` | Kritik berulang dan preferensi gaya user. |

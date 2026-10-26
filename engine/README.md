@@ -4,8 +4,10 @@ Folder ini adalah **skill/prompt package** untuk agent penulis. Tidak ada kode y
 perlu dijalankan. Agent cukup membaca markdown di sini, lalu bekerja lewat percakapan.
 
 **Acuan gaya bahasa & cara penulisan:** `../acuan-bahasa.docx` (contoh novel dengan
-gaya bahasa, diksi, pilihan kata, dan gaya bercerita yang diinginkan). Dokumen panduan
-lama diarsipkan di `../old-documents-unneeded/` sebagai referensi tambahan. Ringkasan
+gaya bahasa, diksi, pilihan kata, dan gaya bercerita yang diinginkan).
+**Acuan kerangka plot, premis, & evaluasi alur:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`
+(8 kerangka plot terbukti, uji kelayakan 5 slot, resep 9 langkah premis baru, siklus coba-gagal, planting solusi 2x, 10 uji logika, dan 10 tanda bahaya).
+Dokumen panduan lama diarsipkan di `../old-documents-unneeded/` sebagai referensi tambahan. Ringkasan
 operasional ada di `00-workflow.md` dan file-file di folder ini.
 
 **Prinsip Pas:** teknik naratif, subplot, flashback, dan scene ikonik adalah alat
@@ -30,14 +32,14 @@ opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 | `SKILL.md` | Ringkasan skill untuk tool yang mendukung skill. |
 | `00-workflow.md` | Alur sesi, pertanyaan, mode kerja, dan definition of done. |
 | `01-genre.md` | Definisi MetroPop, janji pembaca, tone, batasan konten. |
-| `02-premise.md` | Rumus premis, 3 opsi, novelty, riset, blurb, judul. |
-| `03-structure.md` | 30–40 bab, 3 babak, beat, kolom outline, stress test, lock. |
+| `02-premise.md` | Rumus 1 kalimat, uji 5 slot, 7 langkah pilih kerangka, resep 9 langkah ide baru, 3 opsi. |
+| `03-structure.md` | 8 kerangka plot terbukti, pemetaan 8 tahap, siklus coba-gagal, planting 2x, 30–40 bab, kolom outline. |
 | `04-character.md` | Character sheet, tells, dialog, cast, arc. |
 | `05-style.md` | Gaya bahasa, POV, dialog, format, before/after. |
 | `06-chapter.md` | Struktur bab 600–900 kata, hook, checklist. |
 | `07-continuity.md` | Canon, ledger A–G, timeline, pengetahuan, setup/payoff. |
-| `08-quality.md` | Rubrik 8 kriteria, anti plot hole, tes pembaca. |
-| `09-revision.md` | Cara menangani feedback dan revisi lokal. |
+| `08-quality.md` | Rubrik 8 kriteria, 10 uji logika alur, 10 tanda bahaya, stress test. |
+| `09-revision.md` | Diagnosis alur cerita, cara menangani feedback, dan revisi lokal. |
 | `10-evolution.md` | Cara memperbarui engine dari feedback/teori baru. |
 | `templates/` | Template canon, outline, chapter, ledger, character sheet, feedback, idea list. |
 | `examples/` | Contoh premis, outline, adegan, dan perbaikan gaya. |

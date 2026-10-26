@@ -13,8 +13,9 @@ bawah. Jangan mulai menulis prosa sebelum user memilih mode dan menyetujui renca
 2. `engine/README.md` — peta paket.
 3. `engine/00-workflow.md` — alur kerja dan pertanyaan sesi.
 4. `acuan-bahasa.docx` — **acuan utama cara penulisan, gaya bahasa, diksi, dan gaya bercerita**.
-5. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
-6. Periksa isi `story/`. Jika ada cerita, baca `canon.md`, `outline.md`, `ledger.md`,
+5. `Kerangka Plot yang Terbukti untuk Web Novel.md` — **acuan utama 8 kerangka plot terbukti, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita**.
+6. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
+7. Periksa isi `story/`. Jika ada cerita, baca `canon.md`, `outline.md`, `ledger.md`,
    dan bab terakhir yang sudah ditulis.
 
 Folder `engine/` adalah paket markdown. Tidak ada kode yang perlu dijalankan; baca
@@ -71,25 +72,28 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 
 ### A. Ide / Premis Baru
 
-- Baca `engine/01-genre.md` dan `engine/02-premise.md`.
+- Baca `engine/01-genre.md`, `engine/02-premise.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
+- Gunakan **Resep 9 Langkah (arah terbalik dari kelemahan tokoh & kerangka)** dan **Uji Kelayakan 5 Slot**.
 - Beri **3 opsi**. Setiap opsi berisi:
   - judul novel;
-  - logline satu kalimat;
-  - tema;
-  - tokoh inti singkat (protagonis, love interest, antagonis, sekutu);
-  - sumber humor;
-  - pertanyaan dramatik.
+  - logline satu kalimat (`[Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata]`);
+  - kerangka plot utama + pendamping (dari 8 kerangka terbukti);
+  - tema dan pertanyaan dramatik;
+  - tokoh inti singkat (protagonis dengan kelemahan khas sebagai mesin plot, love interest/sekutu, antagonis/penekan);
+  - uji 5 slot kelayakan (keinginan vs kebutuhan, masalah & tenggat luar, konsekuensi nyata terukur, 3 jalan mudah tertutup, perubahan & harga akhir);
+  - benih solusi (*planting* 2 kali) dan sumber humor konkret.
 - Jangan menulis bab. Tunggu user memilih atau meminta variasi.
-- Jika user memberi premis sendiri, jangan mengganti premisnya; kembangkan.
+- Jika user memberi premis sendiri, jangan mengubah keputusan user; lengkapi slot yang kosong dan perbaiki logikanya.
 
 ### B. Project Baru
 
-- Baca `engine/00-workflow.md`, `01-genre.md`, `03-structure.md`, `04-character.md`.
+- Baca `engine/00-workflow.md`, `01-genre.md`, `02-premise.md`, `03-structure.md`, `04-character.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
 - Tanyakan maksimal 3 hal yang benar-benar belum jelas. Default:
   - 30–40 bab, ±750 kata/bab;
   - tone hangat/jenaka/getir;
-  - ending terbuka atau bahagia.
+  - ending tidak sempurna namun memuaskan (ada harga nyata yang dibayar).
 - Jika user belum memberi premis, jalankan **Mode A** dulu (3 opsi) sebelum canon.
+- Jalankan **7 Langkah Menentukan Kerangka dari Premis**, petakan ke **8 Tahap Format Dasar Penulis**, susun **Siklus Coba-Gagal** (6 komponen wajib + Uji 100%), dan rencanakan **Planting Solusi 2 Kali** di Babak 1–2.
 - Ide tambahan (subplot, flashback, scene ikonik) masuk `idea-list.md` sebelum lock;
   setelah lock hanya lewat Permintaan Perubahan.
 - Buat `story/<Judul>/` dari template di `engine/templates/`:
@@ -98,9 +102,9 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
   - `ledger.md`
   - `feedback.md`
   - `chapters/`
-- Isi canon: premis, blurb, tema, karakter (character sheet), aturan dunia, motif.
-- Isi outline per bab dengan kolom wajib di `engine/03-structure.md`.
-- Jalankan **stress test** 10 pertanyaan + simulasi 3 peran.
+- Isi canon: premis, 5 slot kelayakan, kerangka plot, planting 2x, blurb, tema, karakter (character sheet), aturan dunia, motif.
+- Isi outline per bab dengan kolom wajib di `engine/03-structure.md` (pastikan minimal 6 titik balik untuk 30 bab, 8 titik balik untuk 40 bab).
+- Jalankan **stress test**: **10 Uji Logika Alur Cerita** + **10 Tanda Bahaya (*Red Flags*)** + simulasi 3 peran.
 - Presentasikan ringkasan outline dan lubang yang sudah ditutup. Minta persetujuan.
 - Setelah disetujui, tandai outline **TERKUNCI v1.0**.
 - Tulis **Bab 1 saja**. Jangan menulis semua bab sekaligus kecuali user meminta batch.
@@ -119,10 +123,11 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 - Setelah bab selesai: update `ledger.md` dan `canon.md` jika ada fakta baru.
 - Catat penyimpangan outline dengan jujur.
 
-### D. Revisi Cerita
+### D. Revisi & Evaluasi Alur Cerita
 
-- Baca `engine/09-revision.md`.
-- Tanyakan: bab mana, feedback-nya apa, dan apakah revisi boleh mengubah canon.
+- Baca `engine/08-quality.md`, `engine/09-revision.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
+- Tanyakan atau identifikasi: bab/bagian mana, feedback-nya apa, dan apakah revisi boleh mengubah canon.
+- Jika diminta menilai/menganalisis alur cerita, jalankan **Diagnosis Alur Cerita** (Uji 5 Slot Premis, Pemetaan 8 Kerangka, Uji 100% Siklus Coba-Gagal, Planting 2 Kali, 10 Uji Logika, dan 10 Tanda Bahaya).
 - Klasifikasikan feedback:
   - **gaya** → terapkan ke semua bab terdampak;
   - **logika/plot** → buat Permintaan Perubahan, update outline/ledger;
@@ -209,9 +214,10 @@ karena satu adegan.
   1. Instruksi user terbaru.
   2. Outline terkunci dan canon project — untuk fakta cerita.
   3. `acuan-bahasa.docx` dan `engine/05-style.md` — untuk gaya bahasa, diksi, dan cara bercerita.
-  4. File di `engine/`.
-  5. Dokumen arsip di `old-documents-unneeded/`.
-  6. Hal lainnya.
+  4. `Kerangka Plot yang Terbukti untuk Web Novel.md`, `engine/02-premise.md`, `engine/03-structure.md`, dan `engine/08-quality.md` — untuk kerangka plot, kelayakan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita.
+  5. File lain di `engine/`.
+  6. Dokumen arsip di `old-documents-unneeded/`.
+  7. Hal lainnya.
 - Jika outline/canon bertentangan dengan aturan craft: outline/canon menang untuk fakta,
   panduan/engine menang untuk cara menulis. Teknik naratif adalah prioritas paling bawah.
 - Jika dua file engine bertentangan, laporkan dan usulkan versi yang dipertahankan.

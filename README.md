@@ -40,6 +40,7 @@ GEMINI_SKILL.md        # skill mandiri all-in-one untuk Gemini / Gems
 engine/                # otak agent: workflow, genre, struktur, gaya, template
 story/                 # cerita: canon, outline, ledger, chapters
 acuan-bahasa.docx      # acuan utama gaya bahasa, diksi, dan cara bercerita
+Kerangka Plot yang Terbukti untuk Web Novel.md # acuan utama kerangka plot, premis, dan penilaian alur
 old-documents-unneeded/ # arsip referensi panduan sebelumnya
 ```
 

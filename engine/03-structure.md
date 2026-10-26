@@ -1,239 +1,198 @@
-# 03 — Struktur dan Outline
+# 03 — Struktur, Kerangka Plot, dan Outline
 
-> **Prinsip Pas:** subplot, flashback, dan scene ikonik di bawah ini opsional. Boleh nol.
-> Angka yang disebut adalah batas atas, bukan target.
+> **Acuan Utama:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`.
+> **Prinsip Pas:** subplot, flashback, dan scene ikonik bersifat opsional (boleh nol). Angka yang disebut adalah batas atas, bukan target.
 
-## Format
+## 1. Format & Alokasi Bab
 
-- **30–40 bab**, target ±750 kata/bab.
-- Rentang 600–900 kata; bab titik balik target 900, maksimal 900.
-- Sekitar 25% awal, 50% tengah, 25% akhir. Pembulatan menyesuaikan jumlah bab.
-- Contoh 40 bab: 10 / 20 / 10.
-- Titik putar: Bab 10, 20, 30 (untuk 40 bab). Untuk 30/35 bab, gunakan posisi 25%,
-  50%, dan 75% dari total bab.
-- Satu bab = satu adegan/beat, satu POV, berakhir hook.
+- **Panjang:** **30–40 bab**, target ±750 kata/bab (rentang wajib 600–900 kata; bab titik balik target 900 kata).
+- **Satu bab** hanya memuat satu kejadian utama (satu adegan/beat), satu POV, dan wajib diakhiri *hook*.
+- **Hitungan Bahan & Alokasi:**
 
-## Lima Fase
+| Panjang Novel | Titik Balik Minimal | Siklus Coba-Gagal (Babak 2) | Pembagian Tiga Babak | Arc Bersarang |
+|---|---:|---|---|---|
+| **30 bab** (±22.500 kata) | **6 titik balik** | 3–5 siklus | 8 / 15 / 7 | 3 arc × 10 bab |
+| **40 bab** (±30.000 kata) | **8 titik balik** | 3–6 siklus | 10 / 20 / 10 | 4 arc × 10 bab |
 
-| Fase | Porsi | Isi |
-|---|---:|---|
-| Setup | 25% | Dunia awal, pemicu, reaksi, komitmen. |
-| Eskalasi | 23% | Konsekuensi, kedekatan, serangan balik, peringatan. |
-| Midpoint | 1 bab | Fakta baru yang mengubah tujuan. |
-| Kejatuhan | 22% | Retak, pengkhianatan, bukti, titik terendah. |
-| Resolusi | sisanya | Rencana, konfrontasi, pengakuan, klimaks, konsekuensi. |
+### Posisi Titik Penting
 
-## Beat Wajib
+| Titik Struktur | Posisi (%) | 30 Bab | 40 Bab | Fungsi Utama |
+|---|---:|---|---|---|
+| **Pemicu masalah** | 10% | Bab 3 | Bab 4 | Masalah mendadak mengunci tokoh (Bab 1 sudah *in medias res*). |
+| **Masuk Babak 2 (Keputusan)** | 20–25% | Bab 6–7 | Bab 8–10 | Tokoh mengambil keputusan aktif masuk ke masalah. |
+| **Titik tengah (Midpoint)** | 50% | Bab 15 | Bab 20 | Kemenangan semu, kekalahan semu, atau fakta baru yang mengubah arah. |
+| **Titik terendah (Semua hilang)** | 75% | Bab 22–23 | Bab 30 | Rencana runtuh, tokoh menyerah sejenak sebelum menemukan benih solusi. |
+| **Solusi dari benih (Planting)** | 80–90% | Bab 25–27 | Bab 32–36 | Tokoh menyadari/merakit solusi dari bahan yang sudah ditanam di Babak 1–2. |
+| **Puncak (Klimaks)** | 90–95% | Bab 28–29 | Bab 37–38 | Konfrontasi/tindakan penentu dengan cara khas tokoh & harga nyata. |
+| **Penutup (Resolusi)** | 100% | Bab 30 | Bab 40 | Akhir tidak sempurna (ada harga yang dibayar) dan bukti perubahan tokoh. |
 
-1. **Pemicu** — kesalahan/kenakalan kecil terjadi di Bab 1.
-2. **Reaksi tak terduga** — dunia menafsirkan berbeda: memuji, percaya, menjadikan simbol.
-3. **Kebohongan pasif** — tokoh membiarkan salah paham tumbuh.
-4. **Eskalasi** — tiap bab menaikkan taruhan/menambah komplikasi.
-5. **Kesalahan fatal pertama** — reaksi panik memperburuk keadaan.
-6. **Midpoint** — fakta baru mengubah tujuan dari bertahan menjadi melawan (atau sebaliknya).
-7. **Tekanan memuncak** — antagonis bergerak, sekutu retak, pilihan menyempit.
-8. **Dilema puncak** — tiga pilihan buruk yang sama-sama punya harga.
-9. **Klimaks** — pengakuan/tindakan dengan cara khas tokoh.
-10. **Konsekuensi nyata** — tidak semua dimaafkan atau dibereskan.
-11. **Penutup** — versi sadar dari hal yang dulu terjadi tanpa sengaja.
+**Cara menghitung titik balik:** Titik balik adalah kejadian yang mengubah arah masalah atau menutup satu pilihan tokoh (1 pemicu + 1 keputusan masuk + 1 per siklus percobaan + 1 titik tengah + 1 titik terendah + 1 solusi + 1 puncak). Jika jumlahnya kurang dari minimal tabel di atas, tambah siklus atau lapisan masalah.
 
-## Aturan Eskalasi
+---
 
-- Tidak ada bab yang hanya mengulang.
-- Setiap bab harus menaikkan taruhan, memberi informasi baru, atau mendalamkan hubungan.
-- Naikkan taruhan dengan urutan: waktu → reputasi → uang → keluarga → pekerjaan →
-  identitas → pilihan moral.
-- Jangan melompat ke identitas sebelum waktu/reputasi/uang dibangun.
-- **Target lembut** (bukan kewajiban): satu adegan awkward/konyol setiap 2–3 bab dan
-  satu momen emosional tulus setiap ±5 bab. Jangan paksakan jika tidak pas; yang penting
-  bab tetap punya momen khas atau perubahan.
+## 2. Delapan Kerangka Plot yang Terbukti
 
-## Kolom Wajib Outline per Bab
+Hanya gunakan 8 kerangka ini (jangan membuat kerangka eksperimental):
 
-Semua kolom harus terisi. Jangan menulis bab jika ada kolom kosong.
+### Kerangka 1–4: Fondasi
+1. **Struktur Tiga Babak (Freytag, Syd Field):**
+   - *Langkah:* Babak 1 (latar, pemicu, keputusan masuk), Babak 2 (usaha makin sulit, titik tengah, titik terendah), Babak 3 (puncak, penyelesaian).
+   - *Porsi 40 bab:* 25% / 50% / 25% (Bab 1–10, 11–30, 31–40).
+   - *Syarat lolos:* Punya pemicu di Bab 1–5, titik tengah yang mengubah arah, dan titik terendah sebelum solusi.
+2. **Save the Cat (Blake Snyder / Jessica Brody):**
+   - *15 Beat (40 bab):* Gambar pembuka (Bab 1), Tema (Bab 2), Pemicu (Bab 4), Debat (Bab 5–8), Masuk Babak 2 (Bab 8), Senang-senang & gagal (Bab 9–19), Titik tengah kemenangan/kekalahan semu (Bab 20), Tekanan makin dekat (Bab 21–29), Semua hilang (Bab 30), Malam gelap (Bab 31), Masuk Babak 3 (Bab 32), Puncak (Bab 33–39), Gambar penutup (Bab 40).
+   - *Syarat lolos:* Tokoh punya kekurangan jelas di Bab 1 yang diperbaiki di akhir, dan "semua hilang" bukan kebetulan.
+3. **Story Circle (Dan Harmon):**
+   - *8 Langkah:* (1) Zona nyaman, (2) Menginginkan sesuatu, (3) Masuk situasi baru, (4) Mencari & beradaptasi/percobaan, (5) Mendapat yang diinginkan, (6) Membayar harganya, (7) Kembali, (8) Berubah.
+   - *Cocok untuk:* Pencarian jati diri dan *quarter-life crisis*.
+   - *Syarat lolos:* Keinginan (*want*) dan kebutuhan (*need*) berbeda, serta ada harga nyata di langkah 6.
+4. **Seven-Point Structure (Dan Wells):**
+   - *7 Titik (disusun dari akhir ke awal):* Hook, Titik balik 1, Tekanan 1, Titik tengah, Tekanan 2, Titik balik 2, Resolusi.
+   - *Kekuatan:* Keadaan awal (*hook*) dan akhir (*resolusi*) berkebalikan. Terbaik untuk logika ketat dan menanam benih solusi (*planting*) karena resolusi ditetapkan lebih dulu.
+
+### Kerangka 5–8: Sesuai Jenis Cerita
+5. **Fichtean Curve (John Gardner):**
+   - *Langkah:* Pengantar singkat, Krisis 1, Krisis 2, Krisis 3 dst., Puncak, Penutup pendek.
+   - *Cocok untuk:* Cerita kesalahan yang menyebar beruntun.
+   - *Syarat lolos:* Tiap krisis lebih besar dari sebelumnya dan lahir langsung dari solusi krisis sebelumnya (beri jeda komedi/napas agar pembaca tidak *burnout*).
+6. **Struktur Romance (Gwen Hayes, *Romancing the Beat*):**
+   - *Langkah:* Pengenalan, Pertemuan (*Meet Cute*), Penolakan, Kedekatan, Titik tengah, Mundur, Momen gelap (*Break Up*), Perbaikan (*Grand Gesture*), Akhir.
+   - *Kontrak genre:* Wajib berakhir bahagia (HEA) atau "bahagia untuk sekarang" (HFN). Jika pasangan tidak bersatu di akhir, jangan pakai sebagai kerangka utama (jadikan subplot).
+   - *Syarat lolos:* Ada alasan kuat kenapa mereka tidak bisa langsung bersatu dan alasan itu bisa diselesaikan.
+7. **Kishōtenketsu (Tradisi Asia Timur):**
+   - *4 Bagian:* *Ki* (pengenalan), *Shō* (perkembangan), *Ten* (belokan tak terduga tapi sudah ditanam), *Ketsu* (penyatuan dan penerimaan).
+   - *Cocok untuk:* Cerita ringan, komunitas, penerimaan diri, tanpa antagonis.
+   - *Syarat lolos:* Belokan (*Ten*) harus mengubah makna dua bagian pertama.
+8. **Arc Bersarang (Struktur Serial):**
+   - *Langkah (40 bab):* 4 arc × 10 bab (atau 3 arc × 10 bab untuk 30 bab). Tiap arc punya awal, krisis, dan penutup sebagian.
+   - *Syarat lolos:* Kemenangan atau kerugian sebagian di akhir Arc 1 melahirkan masalah utama Arc 2.
+
+---
+
+## 3. Pemetaan Kerangka ke Format Dasar Penulis (8 Tahap)
+
+Format dasar penulis memiliki 8 tahap: **(1) Latar tokoh, (2) Masalah mendadak, (3) Dilema, (4) Percobaan solusi, (5) Menyerah, (6) Solusi dari benih, (7) Akhir tidak sempurna, dan (8) Perubahan.**
+
+| Kerangka | Latar, Masalah, Dilema | Percobaan Solusi (Siklus Coba-Gagal) | Menyerah & Solusi dari Benih | Akhir & Perubahan |
+|---|---|---|---|---|
+| **Tiga Babak** | Babak 1 | Babak 2 (titik tengah di tengah) | Titik terendah akhir Babak 2, puncak di Babak 3 | Penyelesaian Babak 3 |
+| **Save the Cat** | Gambar pembuka s.d. debat | Senang-senang, titik tengah, tekanan makin dekat | Semua hilang, malam gelap, puncak | Gambar penutup |
+| **Story Circle** | Langkah 1–3 | Langkah 4 (mencari dan beradaptasi) | Langkah 5–6 (mendapat, membayar harga) | Langkah 7–8 |
+| **Seven-Point** | Hook, titik balik 1 | Tekanan 1, titik tengah, tekanan 2 | Titik balik 2 | Resolusi |
+| **Fichtean Curve** | Pengantar, krisis 1 | Krisis 2 sampai *n* | Puncak | Penutup pendek |
+| **Struktur Romance** | Pengenalan, pertemuan | Penolakan, kedekatan, titik tengah | Mundur, momen gelap | Perbaikan, akhir |
+| **Kishōtenketsu** | *Ki* (pengenalan) | *Shō* (perkembangan) | *Ten* (belokan dari benih yang ditanam) | *Ketsu* (penyatuan & penerimaan) |
+| **Arc Bersarang** | Arc 1 | Arc 2–3 | Arc 4 awal | Arc 4 akhir |
+
+---
+
+## 4. Mesin Bagian Tengah: Siklus Coba-Gagal (*Try-Fail Cycles*)
+
+Bagian tengah semua kerangka di atas digerakkan oleh **Siklus Coba-Gagal**. Satu siklus memakan **3–7 bab** (siklus kecil 3–4 bab, siklus besar 5–7 bab dengan subplot). Untuk novel 30–40 bab, susun **3–6 siklus**.
+
+### Enam Isi Wajib Tiap Siklus Coba-Gagal
+1. **Tujuan:** Apa yang tokoh coba capai (harus terkait masalah inti dan lolos **Uji 100%**: jika berhasil penuh, masalah inti memang selesai).
+2. **Alasan memilih:** Kenapa cara ini masuk akal bagi tokoh pada saat itu.
+3. **Cara:** Tindakan nyata yang dilakukan tokoh dalam adegan yang bisa dibayangkan.
+4. **Hambatan:** Berasal dari watak tokoh, aturan dunia cerita, atau kelemahan di dalam cara itu sendiri (bukan karena penulis butuh gagal).
+5. **Hasil (pilih 1 dari 4):**
+   - Gagal dan memperburuk keadaan;
+   - Berhasil tapi ada harga mahal;
+   - Berhasil sebagian;
+   - Hampir berhasil lalu terhenti di detik akhir.
+   *(Hasil "berhasil penuh" hanya boleh terjadi di puncak/klimaks).*
+6. **Akibat:** Masalah baru yang lahir dari hasil tersebut, ditambah **satu adegan lucu atau canggung (*awkward*)**.
+
+**Urutan siklus yang aman:** Siklus pertama paling sederhana dan jelas gagal -> siklus tengah tampak berhasil -> siklus terakhir sebelum menyerah hampir berhasil lalu runtuh. Setiap siklus wajib menaikkan taruhan atau menyempitkan pilihan tokoh.
+
+---
+
+## 5. Prosedur Menanam Solusi (*Planting* 2 Kali)
+
+Tentukan solusi akhir lebih dulu sebelum mengunci outline, pecah menjadi bahan-bahan pembentuknya, lalu **tanam tiap bahan minimal dua kali sebelum titik terendah**:
+1. **Tanaman pertama:** muncul sebagai hal sepele di adegan biasa.
+2. **Tanaman kedua:** muncul sebagai hal yang tampak tidak penting/hiasan komedi tetapi sedikit menonjol.
+
+| Jenis Bahan Solusi | Cara Menanam di Babak 1–2 | Contoh dari Novel Teruji |
+|---|---|---|
+| **Orang** | Muncul di adegan biasa dengan satu kebiasaan khas | Narapidana di pemakaman bab 1 (*Great Expectations*); Gene sebagai kolega sejak awal (*The Rosie Project*) |
+| **Benda** | Disebut sambil lalu, lalu dipakai untuk urusan lain dulu | Kikir yang dibawa Pip (*Great Expectations*); cermin yang dijelaskan Dumbledore (*Harry Potter*) |
+| **Kebiasaan** | Diulang di dua adegan berbeda sebagai ciri karakter | Jam Passepartout yang tidak pernah disesuaikan (*Around the World in 80 Days*) |
+| **Informasi / Kejadian Kecil** | Terucap atau terjadi di adegan sepele / salah tafsir | Cerita Wickham tentang Darcy (*Pride and Prejudice*); suara tawa aneh di loteng (*Jane Eyre*) |
+
+**Larangan keras:** Hindari orang baru yang muncul tepat saat solusi, benda penyelamat yang tidak pernah disebut, atau informasi yang hanya diketahui tokoh sendiri tanpa pernah ditunjukkan ke pembaca.
+
+---
+
+## 6. Referensi Pola dari Studi Kasus Novel Terkenal
+
+Saat merancang struktur dari premis, rujuk pola teruji di `../Kerangka Plot yang Terbukti untuk Web Novel.md`:
+
+| Novel Acuan | Kerangka Utama | Pola Struktur yang Dipakai |
+|---|---|---|
+| *Around the World in 80 Days* | Fichtean Curve | Tenggat luar ketat; solusi dari fakta dunia (zona waktu) yang sudah ditanam |
+| *A Christmas Carol* | Story Circle | Perubahan karakter lewat bukti nyata yang dilihat mata sendiri, bukan ceramah |
+| *Laskar Pelangi* | Kishōtenketsu / Episodik | Tenggat di bab 1, tema berulang, akhir tidak sempurna (ada harga nyata) |
+| *Pride and Prejudice* | Struktur Romance | Salah paham dari sumber yang tampak masuk akal, dibongkar lewat bukti/tindakan nyata |
+| *Emma* | Tiga Babak | Kelemahan tokoh (merasa paling tahu) menjadi mesin penghasil masalah |
+| *Jane Eyre* | Tiga Babak | Rahasia besar disebar sebagai gejala-gejala kecil yang dijelaskan keliru |
+| *Great Expectations* | Story Circle | Twist utama ditanam di adegan pembuka Bab 1; asumsi salah tokoh menipu pembaca |
+| *Bridget Jones's Diary* | Struktur Romance | Kerangka klasik dipindah ke kehidupan lajang urban modern |
+| *The Devil Wears Prada* | Story Circle | Dua keinginan bertabrakan; akhir tidak sempurna dengan harga karier yang nyata |
+| *The Rosie Project* | Story Circle | Dua proyek paralel; proyek sampingan justru yang mengubah tokoh kaku |
+| *Eleanor Oliphant* | Story Circle | Narator tak sepenuhnya andal tapi petunjuk adil sejak awal; perubahan lewat tindakan kecil |
+| *Perahu Kertas* | Romance + Story Circle | Dua tokoh saling mencerminkan; jalur impian dan jalur hubungan berjalan paralel |
+| *The Hundred-Year-Old Man* | Rantai Domino | Dua garis waktu; komedi dari reaksi tenang tokoh terhadap kekacauan |
+| *Harry Potter 1* | Misteri | *Red herring* bermotif nyata; solusi memakai aturan yang sudah diajarkan ke pembaca |
+| *The Curious Incident...* | Misteri Keseharian | Penyelidikan kecil di lingkungan rumah membuka rahasia keluarga yang besar |
+| *Critical Eleven* | Struktur Romance | Dibuka di tengah krisis; sudut pandang bergantian tanpa perlu tokoh jahat |
+
+---
+
+## 7. Kolom Wajib Outline per Bab
+
+Outline per bab harus cukup jelas sebagai acuan menulis tanpa perlu panduan tambahan di luar outline. Semua kolom wajib terisi:
 
 ```markdown
 ### Bab N — Judul (2–5 kata)
 - **Hari/jam/lokasi:** ...
 - **POV:** ...
+- **Posisi Kerangka & Siklus:** (misal: Babak 2 - Siklus Coba-Gagal 2: Cara & Hambatan / Titik Tengah)
 - **Tujuan adegan:** ...
 - **Komplikasi:** ...
 - **Beat:** 1) ... 2) ... 3) ... 4) ...
 - **Perubahan:** apa yang berbeda di akhir bab.
 - **Siapa tahu apa:** siapa menyaksikan, fakta baru, siapa belum tahu.
-- **Setup yang ditanam:** ...
+- **Setup/Planting yang ditanam:** (tandai Tanaman 1 atau Tanaman 2 jika bagian dari solusi akhir)
 - **Payoff yang dibayar:** ...
 - **Teknik naratif:** ...
 - **Hook:** ...
 - **Kenapa masuk akal:** satu kalimat bukti logika.
-- **Jalan keluar paling mudah ditutup:** kenapa tokoh tidak memilih jalan termudah.
+- **Jalan keluar paling mudah ditutup:** kenapa tokoh tidak memilih jalan termudah di bab ini.
 - **Pertanyaan pembaca yang dijawab:** ...
 - **Yang TIDAK terjadi:** ...
 - **Target kata:** ±750 (titik balik ±900; maksimal 900).
 ```
 
-Semua beat wajib muncul di teks. Setup/payoff harus benar-benar ditanam/dibayar; jika
-tidak, perbaiki bab atau ajukan Perubahan Outline.
+Kolom opsional (isi hanya jika lolos Tes Pas): `Subplot/flashback`, `Jenis adegan`, `Ikonik`.
 
-Kolom opsional: subplot/flashback yang disentuh, jenis adegan (untuk variasi), dan tanda
-“ikonik”. Isi hanya jika dipakai; jangan memaksakan.
+---
 
-## Titik Putar
+## 8. Subplot, Flashback, Scene Ikonik, dan Teknik Naratif
 
-| Posisi | Bab (40) | Fungsi |
-|---|---:|---|
-| 10% | 4–5 | Pemicu sudah terjadi; protagonis bereaksi. |
-| 25% | 10 | Komitmen: menerima peran/risiko. |
-| 50% | 20 | Midpoint: bukti/pengungkapan mengubah arah. |
-| 75% | 30 | Titik terendah: sekutu pergi, bukti hilang, pilihan sulit. |
-| 90% | 36–38 | Klimaks: konfrontasi publik. |
-| 100% | 40 | Citra akhir: pilihan sadar. |
+- **Subplot (Opsional, 0–3):** Plot utama (A) 60–100%, Romansa (B) ≤25%, Keluarga/sosial (C) ≤20%. Jangan membuka subplot baru setelah titik tengah kecuali sudah ditanam di Babak 1.
+- **Flashback (Opsional):** Dipicu benda/kata/tempat konkret, beri penanda waktu jelas, kembali ke masa kini dengan perubahan pemahaman, dicatat di Ledger A2.
+- **Scene Ikonik (Opsional, 0–5):** Mudah diceritakan ulang dalam satu kalimat, berakar pada karakter dan tema, wajib punya setup.
+- **Teknik Naratif (1–2 per bab):**
+  - *Wajib:* In medias res (Bab 1), Hook akhir bab, Chekhov's gun / Planting 2x.
+  - *Sering:* Show don't tell, Action beats, Dramatic irony, Pacing naik-turun.
+  - *Sesekali:* Foreshadowing, Motif, Stream of consciousness (maks 1 paragraf saat panik), Red herring adil, Plot twist fair play, Allusion budaya Indonesia.
+  - *Dilarang:* Deus ex machina (kebetulan boleh memperburuk keadaan, dilarang menyelamatkan tokoh).
 
-Untuk 30 bab:
+---
 
-| Babak | Bab | Jumlah |
-|---|---|---:|
-| Setup | 1–8 | 8 |
-| Eskalasi | 9–15 | 7 |
-| Midpoint | 16 | 1 |
-| Kejatuhan | 17–23 | 7 |
-| Resolusi | 24–30 | 7 |
+## 9. Anti-Monoton & Outline Lock
 
-Untuk 35 bab:
-
-| Babak | Bab | Jumlah |
-|---|---|---:|
-| Setup | 1–9 | 9 |
-| Eskalasi | 10–17 | 8 |
-| Midpoint | 18 | 1 |
-| Kejatuhan | 19–26 | 8 |
-| Resolusi | 27–35 | 9 |
-
-Untuk 40 bab: 1–10 / 11–19 / 20 / 21–30 / 31–40.
-
-Untuk jumlah lain (31–34, 36–39), bagi proporsional: setup 25%, eskalasi 23%, midpoint
-1 bab, kejatuhan 22%, resolusi sisanya. Bulatkan dan pastikan totalnya pas.
-
-## Subplot (Opsional)
-
-Subplot adalah **alat pilihan**, bukan kewajiban. Jumlahnya 0–3; ini batas atas, bukan
-target. Jika cerita sudah padat, nol subplot boleh.
-
-| Benang | Porsi maksimal | Fungsi |
-|---|---:|---|
-| A — plot utama | 60–100% | Masalah utama yang menggerakkan seluruh novel. |
-| B — romansa | ≤25% | Kedekatan yang menciptakan konflik kepentingan. |
-| C — keluarga/sosial | ≤20% | Tekanan yang membuat protagonis tidak bisa berhenti. |
-
-Setiap subplot harus punya minimal satu fungsi: menjelaskan akar kelemahan, memberi alat
-untuk klimaks, menambah tekanan, menambah emosi, atau mencerminkan tema. Jangan membuka
-subplot baru setelah midpoint kecuali sudah ditanam di Babak 1.
-
-## Flashback dan Backstory (Opsional)
-
-- Bentuk: kilasan 2–4 kalimat; adegan 200–400 kata; atau satu bab penuh (sangat jarang,
-  maksimal 1–2 per novel).
-- Dipicu benda, kata, bau, lagu, atau ucapan—bukan tiba-tiba.
-- Beri penanda waktu jelas (“Dua belas tahun lalu, kelas 5 SD.”).
-- Kembali ke masa kini dengan perubahan pemahaman.
-- Jangan membocorkan twist lebih awal.
-- Fakta masa lalu dicatat di Ledger A2 dan tidak boleh bertentangan dengan timeline utama.
-- Tidak boleh muncul tiba-tiba di klimaks; alat pemecah masalah harus ditanam minimal
-  2 bab sebelumnya.
-
-## Scene Ikonik (Opsional)
-
-Scene ikonik adalah adegan yang mudah diceritakan ulang dalam satu kalimat dan diingat
-pembaca. Ini **opsional**; 0 boleh.
-
-- Batas atas 3–5 scene untuk novel 40 bab.
-- Ciri: kontras kuat, memuat emosi tema, punya benda/kalimat khas, berakar pada karakter.
-- Setiap scene ikonik butuh setup.
-- Jangan memaksakan; jika bertentangan dengan logika, ubah scene-nya, bukan logikanya.
-
-## Teknik Naratif
-
-Prinsip: teknik melayani cerita, bukan sebaliknya. Tanyakan: *apa yang didapat pembaca dari
-teknik ini yang tidak akan ia dapat tanpanya?* Kalau tidak ada, jangan dipakai.
-**Dalam satu bab cukup satu atau dua teknik yang menonjol.** Rencanakan di kolom
-“Teknik naratif” outline; jangan menambah teknik baru di tengah penulisan kecuali untuk
-menyambung rencana yang sudah tertulis.
-
-**WAJIB**
-
-- **In medias res (Bab 1):** buka di tengah momen krusial. Latar dan sebab disisipkan
-  lewat 2–4 kalimat ingatan pendek. Tiga kalimat pertama harus membuat pembaca bertanya.
-- **Hook di akhir setiap bab**, dengan jenis yang bervariasi.
-- **Chekhov's gun:** setiap benda, aturan, atau fakta bersorotan harus terpakai kemudian;
-  setiap payoff besar harus punya setup lebih awal (catat di Ledger F).
-
-**SERING**
-
-- **Show, don't tell.**
-- **Action beats** di sela dialog.
-- **Dramatic irony:** pembaca tahu sesuatu yang belum diketahui tokoh tertentu.
-- **Pacing:** irama naik-turun; jangan dua bab beruntun dengan tempo sama.
-
-**SESEKALI (terencana)**
-
-- **Foreshadowing:** petunjuk kecil yang dibayar nanti.
-- **Motif:** 2–3 elemen berulang di bible; ending boleh mengubah maknanya.
-- **Flashback:** abide aturan di atas.
-- **Stream of consciousness:** hanya di momen panik/memuncak, maksimal satu paragraf.
-- **Red herring:** adil, pembaca bisa melihat kebenarannya setelah terungkap.
-- **Plot twist:** fair play, ada petunjuk sebelumnya.
-- **Allusion:** rujukan halus ke budaya Indonesia, tanpa mengutip karya berhak cipta.
-
-**JARANG**
-
-- **Frame story**, **flashforward** (jangan bocorkan ending), **unreliable narrator**
-  (persepsi tokoh yang keliru, dengan petunjuk yang bisa diverifikasi).
-
-**DILARANG**
-
-- **Deus ex machina.** Kebetulan yang memperburuk keadaan boleh; yang menyelamatkan
-  tokoh tidak.
-
-## Anti-Monoton
-
-- Jangan memakai pola adegan yang sama dua bab berturut-turut.
-- Variasikan lokasi, tokoh, jenis konflik, jenis humor, dan jenis hook.
-- Jenis adegan atau jenis hook yang sama maksimal 3 kali per 10 bab.
-- Tell dan motif boleh berulang; lelucon yang sama persis jangan diulang.
-
-## Stress Test
-
-Gunakan prosedur di `08-quality.md`: 10 pertanyaan skeptis + simulasi tiga peran.
-Tutup semua lubang sebelum lock. Jika tidak bisa, ubah outline sebelum menulis.
-
-## Outline Lock
-
-Status outline:
-
-```markdown
-**Status:** DRAFT v0.1
-**Status:** TERKUNCI v1.0
-**Tanggal lock:** YYYY-MM-DD
-```
-
-Syarat lock:
-
-- 30–40 bab;
-- semua kolom terisi;
-- judul 2–5 kata dan tidak duplikat;
-- Bab 1 in medias res;
-- stress test selesai;
-- tidak ada bab pengisi; setiap bab menaikkan taruhan/memberi informasi/mendalamkan hubungan;
-- Teknik/subplot/flashback/scene ikonik yang dipakai lolos Tes Pas;
-- user menyetujui.
-
-Setelah lock, perubahan hanya lewat `templates/change-request.md`. Naikkan versi
-(v1.1, v1.2) dan catat di ledger bagian G.
-
-## 30 vs 40 Bab
-
-**30 bab** lebih cepat: kurangi bab sampingan, gabungkan dua peristiwa kecil, midpoint
-tetap di 50%.
-
-**40 bab** memberi ruang untuk 3–4 bab sampingan, subplot keluarga, set piece publik
-tambahan, dan satu bab tenang sebelum klimaks. Jangan menambah bab hanya untuk mencapai 40.
+- Jangan memakai pola adegan atau jenis hook yang sama dua bab berturut-turut (maksimal 3 kali per 10 bab).
+- Sebelum mengunci outline (**TERKUNCI v1.0**), jalankan **10 Uji Logika & Tanda Bahaya** di `08-quality.md`.
+- Setelah terkunci, perubahan hanya boleh dilakukan lewat `templates/change-request.md`.

@@ -11,28 +11,46 @@
 - **Genre:** MetroPop
 - **Target pembaca:** 13+
 - **Panjang:** <30–40> bab × ±<750> kata
-- **POV:** orang ketiga terbatas, kala lampau
+- **POV:** orang pertama ("Aku") atau orang ketiga terbatas, kala lampau
 - **Latar dan usia tokoh:** <kantor/sekolah/kuliah/pernikahan/keluarga/desa> · <usia>
-- **Kota:** <Jakarta>
+- **Kota:** <Jakarta/dll.>
 - **Tone:** <hangat/jenaka/getir>
 
-## Premis
+## Premis & Kerangka Plot
 
-- **Logline:** ...
+- **Logline (1 kalimat):** [Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata].
 - **Blurb:** 3–5 kalimat.
-- **Tema:** ...
-- **Pertanyaan dramatik:** ...
+- **Tema & Pertanyaan Dramatik:** ...
 - **Janji ke pembaca:** ...
+- **Kerangka Utama:** <Tiga Babak / Save the Cat / Story Circle / Seven-Point / Fichtean Curve / Struktur Romance / Kishōtenketsu / Arc Bersarang>
+- **Kerangka Pendamping:** <Siklus Coba-Gagal / Arc Bersarang / Subplot Romance>
+- **Alasan pemilihan kerangka:** ...
+
+## Uji 5 Slot Kelayakan Premis
+
+1. **Keinginan vs Kebutuhan Tokoh (berbeda):** ...
+2. **Masalah & Tenggat dari Luar:** ...
+3. **Konsekuensi Nyata jika Gagal (terukur & siapa yang dirugikan):** ...
+4. **Jalan Mudah yang Tertutup (minimal 3 alasan tertulis):**
+   - Jalan pintas 1: ... (tertutup karena ...)
+   - Jalan pintas 2: ... (tertutup karena ...)
+   - Jalan pintas 3: ... (tertutup karena ...)
+5. **Perubahan di Akhir & Harganya (Akhir Tidak Sempurna):** ...
+
+## Rencana Menanam Solusi (Planting 2 Kali)
+
+| Bahan Solusi (Orang/Benda/Kebiasaan/Info) | Tanaman 1 (Muncul Sepele di Bab) | Tanaman 2 (Muncul Tampak Seperti Hiasan di Bab) | Dipakai sebagai Solusi di Bab |
+|---|---|---|---|
+| ... | Bab ... | Bab ... | Bab ... |
 
 ## Cast
 
-| Tokoh | Peran | Umur | Pekerjaan | Fungsi dramatik |
+| Tokoh | Peran | Umur | Pekerjaan | Kelemahan / Fungsi Dramatik |
 |---|---|---:|---|---|
 | ... | Protagonis | ... | ... | ... |
 | ... | Love interest (opsional) | ... | ... | ... |
-| ... | Antagonis | ... | ... | ... |
+| ... | Antagonis / Penekan | ... | ... | ... |
 | ... | Sekutu | ... | ... | ... |
-| ... | Mentor | ... | ... | ... |
 | ... | Keluarga | ... | ... | ... |
 
 ## Character Sheets
@@ -45,7 +63,7 @@
 - **Pola bicara:** ...
 - **Benda khas:** ...
 - **Tell emosi:** ...
-- **Kelemahan fatal:** ...
+- **Kelemahan fatal (mesin plot):** ...
 - **Ketakutan terbesar:** ...
 - **Ingin vs butuh:** ...
 - **Kebohongan yang diyakini:** ...
@@ -62,8 +80,8 @@
 - **Aktivitas utama:** ...
 - **Pihak luar/klien/wali:** ...
 - **Kanal komunikasi:** ...
-- **Mekanisme teknis:** ditulis langkah demi langkah (tomol/fitur/sistem, siapa punya akses, aturan pembalikan, jam operasional).
-- **Kenapa tidak bisa diperbaiki:** syarat, keputusan, dan larangan yang menutup jalan keluar.
+- **Mekanisme teknis:** ditulis langkah demi langkah (fitur/sistem, siapa punya akses, aturan pembalikan, jam operasional).
+- **Kenapa tidak bisa diperbaiki langsung:** syarat, keputusan, dan larangan yang menutup jalan keluar.
 - **Jam operasional:** ...
 - **Aturan yang tidak boleh dilanggar:** ...
 
@@ -109,15 +127,14 @@
 
 - **Arah ending:** ...
 - **Yang tidak boleh terjadi:** ...
-- **Harga yang harus dibayar:** ...
+- **Harga nyata yang harus dibayar:** ...
 
 ## Batasan Konten (13+)
 
-- Tanpa emoji/umpatan.
+- Tanpa em dash (`—`), tanpa quote di atas bab, tanpa emoji/umpatan kasar.
 - Tanpa merek nyata/tokoh publik.
 - Tanpa konten seksual eksplisit atau kekerasan grafis.
 - Hindari stereotip/SARA.
-- Tema berat ditulis dengan empati.
 
 ## Pertanyaan Terbuka
 

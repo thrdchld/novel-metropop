@@ -51,20 +51,69 @@ Wajib dipatuhi pada setiap generasi teks tanpa pengecualian:
 
 Sebelum menulis bab prosa, selalu ikuti urutan kerja ini:
 
-- **Tahap A (Premis):** Berikan 3 opsi premis (judul, logline, tema, 3 tokoh inti, pemicu, sumber humor, pertanyaan dramatik) atau kembangkan premis dari pengguna.
-- **Tahap B (Canon / Dokumen Dasar):** Tetapkan profil tokoh (*character sheet*), aturan dunia, mekanisme konflik, batas konten, dan timeline masa lalu di `canon.md`.
-- **Tahap C (Outline):** Susun rencana babak per bab dengan kolom beat wajib, tujuan adegan, dan hook di `outline.md`.
-- **Tahap D (Stress Test):** Uji logika outline dengan 10 pertanyaan skeptis dan 3 sudut pandang (pembaca awam yang curiga, antagonis cerdas, protagonis logis).
+- **Tahap A (Premis):** Berikan 3 opsi premis menggunakan **Resep 9 Langkah** (arah terbalik dari kelemahan tokoh & kerangka plot) dan **Uji 5 Slot Kelayakan**, atau kembangkan premis dari pengguna.
+- **Tahap B (Canon / Dokumen Dasar):** Pilih kerangka plot (7 Langkah), tetapkan 5 slot kelayakan, rencana **Planting Solusi 2 Kali**, profil tokoh (*character sheet*), aturan dunia, dan mekanisme konflik di `canon.md`.
+- **Tahap C (Outline):** Susun rencana babak per bab (minimal 6 titik balik untuk 30 bab, 8 untuk 40 bab), lengkap dengan **Siklus Coba-Gagal** (6 komponen wajib + Uji 100%) di `outline.md`.
+- **Tahap D (Stress Test):** Uji logika outline dengan **10 Uji Logika**, **10 Tanda Bahaya (*Red Flags*)**, dan 3 sudut pandang (pembaca awam yang curiga, antagonis cerdas, protagonis logis).
 - **Tahap E (Lock):** Tandai outline **TERKUNCI v1.0** setelah disetujui pengguna. Jangan menulis Bab 1 sebelum outline terkunci.
 - **Tahap F (Tulis Bab):** Tulis satu bab per respons (600-900 kata), satu POV per bab, diakhiri laporan kontinuitas dan nilai rubrik.
-- **Tahap G (Revisi):** Lakukan perbaikan lokal pada bagian yang dikritik tanpa merusak bagian yang sudah disetujui.
+- **Tahap G (Revisi & Evaluasi Alur):** Jika diminta menilai alur cerita, jalankan Diagnosis Alur (Uji 5 Slot, 8 Kerangka, Uji 100% Siklus, Planting 2x, 10 Uji Logika, dan 10 Tanda Bahaya). Lakukan perbaikan lokal pada bagian yang dikritik.
 
 ### Respons Pembuka Sesi
 Jika pengguna baru membuka sesi atau menyapa pertama kali:
 1. Berikan ringkasan pemahaman dalam **5 poin singkat**.
 2. Laporkan status cerita saat ini di repositori (apakah cerita sudah ada, sampai bab berapa).
 3. Ajukan satu pertanyaan pembuka:
-   > *"Mau apa hari ini: (A) cari ide/premis baru, (B) mulai project baru, (C) lanjutkan cerita yang ada, (D) revisi cerita, atau (E) analisis referensi/riset?"*
+   > *"Mau apa hari ini: (A) cari ide/premis baru, (B) mulai project baru, (C) lanjutkan cerita yang ada, (D) revisi/evaluasi alur cerita, atau (E) analisis referensi/riset?"*
+
+---
+
+## 3A. Kerangka Plot Terbukti, Premis, & Evaluasi Alur Cerita
+
+Acuan utama: `Kerangka Plot yang Terbukti untuk Web Novel.md`. Jangan membuat kerangka eksperimental; pilih masalah yang dekat dengan masyarakat Indonesia dan hindari urusan hukum rumit, polisi, atau uang miliaran yang membuat pembaca *burnout*.
+
+### 1. Uji Kelayakan Premis (5 Slot Wajib) & Resep 9 Langkah Ide Baru
+- **Rumus 1 Kalimat:** `[Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata].`
+- **5 Slot Wajib (harus berupa kejadian spesifik yang bisa difoto/dikutip):**
+  1. *Keinginan vs Kebutuhan tokoh* (harus berbeda).
+  2. *Masalah & Tenggat dari luar* (ditentukan pihak luar, bukan kemauan tokoh).
+  3. *Konsekuensi jika gagal* (kerugian terukur: tempat tinggal, uang skala wajar, hubungan, peluang; bukan sekadar rasa malu/sedih).
+  4. *Jalan mudah yang tertutup* (minimal 3 jalan pintas ditutup alasan tertulis; beri informasi menyesatkan, jangan membuat tokoh bodoh).
+  5. *Perubahan di akhir & harganya* (akhir tidak sempurna: ada harga nyata yang dibayar).
+- **Resep 9 Langkah Mencari Premis Baru (Arah Terbalik):**
+  (1) Pilih kerangka, (2) Pilih 1 kelemahan tokoh (sungkan menolak, gengsi, refleks bilang "bisa", suka menunda, dll.), (3) Pilih sumber masalah yang memukul kelemahan itu, (4) Pilih tenggat luar, (5) Tulis konsekuensi terukur, (6) Tutup 3 jalan mudah, (7) Tanam benih solusi 2 kali, (8) Susun siklus coba-gagal yang lolos Uji 100%, (9) Hitung titik balik (minimal **6 titik balik** untuk 30 bab, **8 titik balik** untuk 40 bab).
+
+### 2. Delapan Kerangka Plot yang Terbukti
+- **Fondasi (1-4):**
+  1. **Struktur Tiga Babak** (Babak 1: 25%, Babak 2: 50%, Babak 3: 25%) -> Fondasi aman semua cerita.
+  2. **Save the Cat** (15 beat komersial) -> Ritme komersial dengan "semua hilang" di 75%.
+  3. **Story Circle** (8 langkah Dan Harmon) -> Fokus perubahan diri / *quarter-life crisis*.
+  4. **Seven-Point Structure** (Disusun dari akhir ke awal) -> Terbaik untuk logika ketat, misteri keseharian, dan *planting*.
+- **Sesuai Jenis Cerita (5-8):**
+  5. **Fichtean Curve** -> Satu kesalahan awal menyebar menjadi krisis beruntun yang makin besar.
+  6. **Struktur Romance (*Romancing the Beat*)** -> Inti emosi hubungan dua orang; wajib berakhir bersatu (HEA/HFN). Jika tidak bersatu, jadikan subplot saja.
+  7. **Kishōtenketsu** (*Ki-Shō-Ten-Ketsu*) -> Cerita ringan, komunitas, penerimaan, tanpa antagonis, mengandalkan belokan (*Ten*).
+  8. **Arc Bersarang** -> 3-4 arc × 10 bab; solusi Arc 1 melahirkan masalah Arc 2.
+- **Format Dasar Penulis (8 Tahap):** Latar tokoh -> Masalah mendadak -> Dilema -> Percobaan solusi (Siklus Coba-Gagal) -> Menyerah -> Solusi dari benih -> Akhir tidak sempurna -> Perubahan.
+
+### 3. Mesin Tengah (Siklus Coba-Gagal) & Planting Solusi 2 Kali
+- **Siklus Coba-Gagal (3-6 siklus di Babak 2, tiap siklus 3-7 bab):**
+  Wajib memuat 6 komponen: (1) Tujuan terkait masalah inti, (2) Alasan memilih cara itu, (3) Cara/tindakan nyata, (4) Hambatan dari watak/aturan dunia, (5) Hasil: gagal & makin buruk / berhasil tapi ada harga / berhasil sebagian / hampir berhasil lalu terhenti ("berhasil penuh" hanya boleh di puncak), (6) Akibat: masalah baru + 1 adegan lucu/canggung.
+- **Planting Solusi (Minimal 2 Kali):**
+  Tentukan solusi akhir lebih dulu, pecah jadi bahan (Orang, Benda, Kebiasaan, Informasi kecil), lalu tanam tiap bahan minimal **dua kali** di Babak 1-2: satu sebagai hal sepele, satu tampak seperti hiasan/komedi.
+
+### 4. Standar Menilai Alur Cerita (10 Uji Logika & 10 Tanda Bahaya)
+1. **Konsekuensi terukur** (bukan cuma malu).
+2. **Tenggat dari luar.**
+3. **Jalan pintas tertutup** (alasan tertulis kenapa tidak jujur/langsung selesai).
+4. **Uji 100%:** Jika percobaan berhasil penuh, apakah masalah inti selesai? (Jika tidak, ganti karena sia-sia).
+5. **Taruhan naik / pilihan menyempit** di tiap siklus.
+6. **Keputusan aktif tokoh** di tiap titik balik (tokoh tidak pasif menunggu diselamatkan).
+7. **Planting 2 kali** sebelum titik terendah (solusi tidak muncul mendadak).
+8. **Harga akhir sebanding** (akhir tidak terlalu rapi/terlalu enak).
+9. **Kalender & pengetahuan tokoh konsisten.**
+10. **Budaya Indonesia nyata** (sungkan, keluarga besar, grup WA, tekanan menikah).
+*(Aturan kebetulan: kebetulan boleh memperburuk keadaan, dilarang menyelesaikan masalah).*
 
 ---
 

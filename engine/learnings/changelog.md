@@ -3,6 +3,15 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v1.6 — 2026-10-26
+
+- **Perubahan:** Mengintegrasikan `Kerangka Plot yang Terbukti untuk Web Novel.md` sebagai acuan utama kerangka plot, pembuatan ide/premis baru, pengembangan premis ke outline, dan evaluasi/penilaian alur cerita:
+  - **Membuat Ide/Premis Baru:** Menggunakan arah terbalik (dari kelemahan tokoh + kerangka plot) dengan Tabel Bahan Ide MetroPop dan **Resep 9 Langkah**.
+  - **Uji Kelayakan & Pengembangan Premis:** Wajib lolos **Uji 5 Slot Kelayakan** (kejadian spesifik, minimal 3 jalan mudah tertutup tanpa membuat tokoh bodoh, hindari hukum/polisi/uang miliaran yang memicu *burnout*), **Prosedur 7 Langkah**, serta batas minimal titik balik (6 untuk 30 bab, 8 untuk 40 bab).
+  - **Struktur & Kerangka:** Mengadopsi **8 Kerangka Plot Terbukti** (Tiga Babak, Save the Cat, Story Circle, Seven-Point, Fichtean Curve, Struktur Romance, Kishōtenketsu, Arc Bersarang), pemetaan ke **8 Tahap Format Dasar Penulis**, **Siklus Coba-Gagal** (6 komponen wajib + Uji 100%), **Prosedur Planting Solusi 2 Kali**, dan **16 Studi Kasus Novel Terkenal**.
+  - **Menilai Alur Cerita:** Menetapkan **10 Uji Logika** dan **10 Tanda Bahaya (*Red Flags*)** sebagai standar evaluasi outline dan diagnosis revisi naskah.
+- **File:** `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, `engine/02-premise.md`, `engine/03-structure.md`, `engine/08-quality.md`, `engine/09-revision.md`, `engine/sources.md`, `engine/templates/`, `engine/learnings/`, dan seluruh file Skill (`GEMINI_SKILL.md`, `CLAUDE_SKILL.md`, `CHATGPT_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`).
+
 ## v1.5 — 2026-10-24
 
 - **Perubahan:** Penegasan gaya berdasarkan masukan editor:
