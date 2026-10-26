@@ -1,106 +1,70 @@
-# 01 — Genre MetroPop
+# 01 — Genre MetroPop dan Batasan Konten
 
-## Definisi Kerja
+> **File Pemilik:** File ini memiliki aturan **Definisi Genre MetroPop, Janji Pembaca, Latar/Setting, Tema, dan Batasan Konten 13+**.
+> Aturan premis ada di `02-premise.md`, struktur/kerangka di `03-structure.md`, karakter di `04-character.md`, gaya bahasa di `05-style.md`, dan kerajinan bab di `06-chapter.md`.
+
+## 1. Definisi Kerja
 
 MetroPop adalah **cerita ringan tentang masalah kehidupan modern orang Indonesia**,
 terutama di perkotaan. Tema, latar, dan usia tokoh **bebas**: kantor, sekolah, kuliah,
 pernikahan, keluarga, perantauan, desa, sampai lansia. Cerita terasa dekat, hangat,
-jenaka, tetapi punya inti yang menyentuh.
+jenaka, tetapi punya inti emosional yang menyentuh.
 
-Target pembaca **13+**. Ringan bukan berarti dangkal: maknanya harus tersampaikan dengan
-jelas tanpa perlu ditafsirkan panjang.
+- **Target pembaca:** **13+**. Ringan bukan berarti dangkal: maknanya harus tersampaikan dengan jelas tanpa perlu ditafsirkan berbelit-belit.
+- **Skala masalah:** Pilih masalah yang dekat dengan masyarakat Indonesia dan mudah dijelaskan. **Hindari urusan hukum rumit, polisi, kejahatan berat, atau uang miliaran** yang membuat pembaca *burnout* dan menjauh dari realitas keseharian.
+- **Bukan MetroPop:** fantasi murni, horor, sejarah, dystopia, atau thriller aksi.
 
-Bukan MetroPop: fantasi, horor, sejarah, dystopia, atau thriller aksi murni. Kalau ada
-unsur itu, ia harus tetap tunduk pada masalah manusia yang bisa dikenali pembaca.
+---
 
-## Janji ke Pembaca
+## 2. Janji ke Pembaca
 
-1. **Pengenalan:** “ini gue banget”, “kantor gue juga gitu”, “tiap hari pengin resign tapi butuh duit”.
-2. **Ketegangan & Dinamika:** “habis ini gimana?”, interaksi seru antarteman kubikel, ketegangan dengan atasan/rekan, dan romansa yang tumbuh dari rasa sebal.
+Setiap bab wajib memenuhi minimal satu (idealnya keduanya):
+1. **Kedekatan (*Relatability*):** *"Ini gue banget"*, *"Kantor/keluarga gue juga gitu"*, *"Tiap hari pengin resign tapi butuh duit"*.
+2. **Ketegangan & Dinamika:** *"Habis ini gimana?"*, interaksi seru antarteman senasib, ketegangan dengan atasan/keluarga, dan hubungan yang tumbuh alami dari gesekan karakter.
 
-Setiap bab harus memenuhi minimal satu, idealnya dua.
+---
 
-## Aturan Genre
+## 3. Sepuluh Ciri Khas Genre MetroPop
 
-1. **Premis satu kalimat dan mengandung ironi.** Kesalahan kecil yang disalahartikan
-   sebagai keberanian, kebohongan yang dianggap strategi, identitas pinjaman yang
-   membuka pintu.
-2. **Dunia spesifik.** Sebut pekerjaan/sekolah/kampus, tempat, rutinitas, aplikasi chat,
-   makanan, jalur pulang, dan benda khas (kubikel, drawer camilan, flash disk, revisi ke-10).
-3. **Protagonis punya cacat aktif.** Cacat menyebabkan masalah, bukan hanya sifat.
-4. **Satu plot utama; subplot opsional.** Romansa, keluarga, atau benang sosial boleh
-   ada 0–3, masing-masing punya fungsi. Romansa memperburuk plot utama, bukan
-   mengalihkannya. Jangan memaksakan subplot yang tidak dibutuhkan.
-5. **Satu bab, satu adegan utama, satu perubahan.** Satu POV per bab.
-6. **Hook adalah kalimat terakhir.** Bukan ringkasan, bukan pertanyaan retoris kosong.
-7. **Dialog bekerja dan renyah.** Dialog mencerminkan dinamika asli pergaulan (lo-gue
-   antarrekan sebaya, sopan ke atasan, ledek-ledekan akrab, *awkward banter*).
-8. **Detail konkret dan monolog batin yang hidup.** Monolog batin yang spontan, sedikit
-   sarkastik, dan *self-deprecating* (meratapi nasib tapi tetap bekerja) jauh lebih ampuh
-   daripada narasi puitis yang kaku.
-9. **Kritik sosial lewat biaya.** Tunjukkan siapa kehilangan waktu, uang, atau martabat.
-10. **Akhir adalah pilihan, bukan penyelesaian total.** Tidak semua masalah hilang.
+1. **Premis satu kalimat yang memuat ironi dan tenggat nyata** (lihat `02-premise.md`).
+2. **Dunia keseharian yang spesifik:** sebut pekerjaan/sekolah/kampus, tempat, rutinitas, aplikasi chat, makanan, jalur transportasi (KRL, ojol, TransJakarta), dan benda khas (kubikel, *drawer* camilan, ponsel retak).
+3. **Protagonis punya kelemahan aktif sebagai mesin plot** (lihat `04-character.md`).
+4. **Satu plot utama dengan salah satu dari 8 Kerangka Plot Terbukti**; subplot opsional 0–3 sesuai **Prinsip Pas** (lihat `03-structure.md`).
+5. **Satu bab, satu adegan utama, satu perubahan, berakhir hook** (lihat `06-chapter.md`).
+6. **Dialog renyah dan mencerminkan tingkat tutur asli Indonesia** (lihat `05-style.md`).
+7. **Monolog batin yang hidup, spontan, sedikit sarkastik, dan *self-deprecating*** (lihat `05-style.md`).
+8. **Kritik sosial lewat biaya keseharian:** tunjukkan siapa kehilangan waktu, uang kecil/tabungan, kesempatan, atau gengsi.
+9. **Faktor budaya Indonesia nyata:** rasa sungkan menolak, tekanan keluarga besar, grup WhatsApp keluarga/kantor, tuntutan menikah, atau gengsi sosial.
+10. **Akhir tidak sempurna namun memuaskan:** tokoh berubah dan menyelesaikan masalah inti, tetapi ada harga nyata yang dibayar.
 
-## Porsi Cerita
+---
 
-Porsi plot/subplot ada di `03-structure.md`. Subplot bersifat opsional (0–3). Romansa
-bukan mesin utama. Jangan menunda plot hanya untuk adegan romantis.
+## 4. Setting / Latar yang Kuat
 
-## Prinsip Pas
+- **Kantor/kerja:** agensi kreatif, startup logistik, bank digital, media online, firma konsultan, usaha kuliner keluarga, radio komunitas, toko buku, properti.
+- **Sekolah & Kuliah:** ujian, ekskul, OSIS, skripsi, dosen pembimbing, organisasi, kos-kosan, magang.
+- **Pernikahan & Keluarga:** lamaran, restu, biaya nikah, calon mertua, rumah tangga baru, arisan keluarga besar, warisan rumah/usaha kecil.
+- **Perantauan & Komunitas:** mudik Lebaran, pulang kampung, kontras kota-desa, tetangga kepo, pengemudi ojol, kreator konten.
 
-Teknik naratif, subplot, flashback, dan scene ikonik adalah alat opsional. Boleh nol.
-Pakai hanya jika cerita membutuhkannya dan jika dihapus ada yang hilang.
+*Catatan:* Lokasi geografis nyata (Kuningan, Tebet, Sudirman, Kemang, dll.) boleh dipakai; nama perusahaan, merek komersial, hotel, dan tokoh publik wajib fiktif.
 
-## Cast
+---
 
-Enam sampai delapan nama sudah cukup:
+## 5. Tema yang Sering Cocok
 
-| Peran | Fungsi |
-|---|---|
-| Protagonis | Ingin sesuatu, punya cacat, harus memilih. |
-| Love interest (opsional) | Mengubah cara protagonis melihat diri; jika ada, punya hambatan struktural. |
-| Antagonis | Punya alasan yang ia percaya benar. |
-| Sekutu | Memberi informasi dan taruhan pribadi. |
-| Mentor | Perspektif, bukan penyelamat. |
-| Keluarga | Tekanan emosional dan alasan protagonis bertahan. |
+Pilih **satu tema utama** (jangan menumpuk banyak pesan dalam satu novel):
+- Berani jujur dan menolak saat semua orang menuntut kita bilang "bisa"?
+- Apakah kita bekerja untuk hidup, atau mengorbankan hidup demi terlihat sukses?
+- Bisakah kita menerima diri sendiri tanpa harus memalsukan status di depan keluarga?
+- Apakah keluarga yang bangga pada citra kita benar-benar mengenal siapa kita?
+- Bisakah dua orang yang sama-sama gengsi belajar menurunkan ego demi hubungan yang sehat?
 
-Tokoh kecil berulang (satpam, IT, petugas kebersihan, anak magang) membuat dunia hidup
-dan bisa dipakai sebagai payoff.
+---
 
-## Setting yang Kuat
+## 6. Batasan Konten Wajib (13+)
 
-- **Kantor/kerja:** startup logistik dengan budaya “keluarga besar”; agensi kreatif;
-  bank digital; media online; restoran keluarga; radio komunitas; toko buku; properti.
-- **Sekolah:** ulangan, ekskul, OSIS, wali kelas, grup chat kelas, tekanan orang tua.
-- **Kuliah:** skripsi, dosen pembimbing, organisasi, kos, uang saku, magang.
-- **Pernikahan:** lamaran, restu, biaya, calon mertua, rumah tangga, pembagian peran.
-- **Keluarga lintas generasi:** orang tua, anak, cucu, warisan, arisan, lansia.
-- **Perantauan/desa:** mudik, pulang kampung, kontras kota-desa, tetangga kepo.
-- **Komunitas:** kos, apartemen, pertemanan, ojol, kreator konten.
-
-Lokasi nyata (Kuningan, Tebet, KRL, ojol) boleh; perusahaan, merek, dan tokoh harus fiktif.
-
-## Batasan Konten (13+)
-
-- Tanpa emoji dan umpatan kasar.
-- Tanpa merek nyata atau tokoh publik.
-- Tanpa konten seksual eksplisit atau kekerasan grafis.
-- Hindari stereotip yang merendahkan dan topik SARA yang memicu polemik.
-- Tema berat (burnout, kehilangan, tekanan keluarga) ditangani dengan empati, bukan
-  ditertawakan atau dijadikan detail vulgar.
-
-Jika user meminta genre lain (fantasi, horor, sejarah), jelaskan bahwa paket ini
-dioptimalkan untuk MetroPop. Tanyakan apakah ia tetap ingin **tone** MetroPop atau mau
-memakai panduan genre lain.
-
-## Tema yang Sering Cocok
-
-- Berani bersuara saat semua mata melihat?
-- Apakah kita bekerja untuk hidup atau hidup untuk bekerja?
-- Bisakah kita jujur tanpa kehilangan orang yang kita cintai?
-- Apakah keluarga yang bangga benar-benar mengenal kita?
-- Apakah perhatian publik adalah bukti bahwa kita didengar?
-- Bisakah kita pulang tanpa mengulang kesalahan orang tua?
-- Apakah nilai yang kita pegang milik kita atau hanya warisan?
-
-Pilih satu tema. Jangan menumpuk lima pesan dalam satu novel.
+- **Tanpa emoji** dan **tanpa umpatan kotor/kasar** (umpatan ringan sehari-hari seperti *sial, astaga, buset, ya ampun* diperbolehkan).
+- **Tanpa merek nyata atau tokoh publik nyata.**
+- **Tanpa konten seksual eksplisit** atau kekerasan grafis.
+- **Hindari stereotip yang merendahkan** dan topik SARA yang memicu polemik.
+- Tema berat (*burnout*, kehilangan, tekanan keluarga) ditangani dengan empati dan humor hangat, bukan detail vulgar.

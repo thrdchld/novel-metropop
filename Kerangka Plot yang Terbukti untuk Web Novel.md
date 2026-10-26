@@ -18,7 +18,7 @@ Dokumen ini dipakai AI untuk tiga tugas: memilih kerangka plot dari sebuah premi
 
 - Hanya pakai kerangka yang ada di dokumen ini. Jangan membuat kerangka eksperimental.
 - Keputusan pengguna tidak diubah. AI hanya melengkapi slot kosong dan memperbaiki logika.
-- Jangan menanyakan konfirmasi. Ambil keputusan paling logis dan tulis alasannya satu kalimat.
+- Saat melengkapi slot kosong atau memperbaiki celah logika, jangan bolak-balik menanyakan konfirmasi detail; ambil keputusan paling logis dan tulis alasannya satu kalimat (persetujuan pengguna hanya diminta pada gerbang tahap utama: memilih premis dan mengunci outline).
 - Kalau premis gagal uji, perbaiki premisnya dulu. Jangan memaksa kerangka menutupi premis yang lemah.
 - Pilih masalah yang dekat dengan masyarakat Indonesia dan mudah dijelaskan. Hindari urusan hukum dan uang besar yang membuat pembaca burnout.
 - Outline per bab harus cukup jelas sebagai acuan menulis. Tidak perlu panduan tambahan di luar outline.

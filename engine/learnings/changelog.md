@@ -32,7 +32,7 @@ disertai alasan.
     urgent, meeting, resign, CV, awkward, simple truth, done*).
   - Register sapaan kontras: ledek-ledekan antarrekan kubikel (*lo-gue*), senior tim
     (*Mbak/Mas* + nada santai), dan atasan (*saya-Bapak/Ibu*).
-  - Format bab: judul bab kini dapat dilengkapi *epigraph / quote* pembuka bab bernada satir/humor.
+  - Format bab: ~~judul bab kini dapat dilengkapi *epigraph / quote* pembuka bab bernada satir/humor~~ **[DIUBAH & DILARANG DI v1.5: Tanpa quote/epigraph di atas bab]**.
   - Dinamika karakter: arketipe kawan senasib kubikel (*The Cungpret dynamic*).
 - **File:** `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, `engine/01-genre.md`,
   `engine/04-character.md`, `engine/05-style.md`, `engine/06-chapter.md`, `engine/sources.md`,

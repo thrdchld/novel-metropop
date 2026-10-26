@@ -2,6 +2,8 @@
 
 - **Workspace Skill Antigravity:** `.agent/skills/metropop-novel/SKILL.md` (dan `.agents/skills/metropop-novel/SKILL.md`)
 - **Standalone Skill (All-in-One):** [GEMINI_SKILL.md](GEMINI_SKILL.md) untuk Gemini Advanced, Gems, dan Google AI Studio.
+- **Acuan Utama Gaya & Diksi:** `acuan-bahasa.docx` dan `engine/05-style.md`
+- **Acuan Utama Kerangka Plot, Premis, & Evaluasi Alur:** [Kerangka Plot yang Terbukti untuk Web Novel.md](Kerangka%20Plot%20yang%20Terbukti%20untuk%20Web%20Novel.md) (`engine/02-premise.md`, `03-structure.md`, `08-quality.md`)
 
 ## Aturan Mutlak Menulis (Non-Negotiable)
 

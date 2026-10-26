@@ -1,157 +1,77 @@
 # 06 — Kerajinan Bab
 
-## Format
+> **File Pemilik:** File ini memiliki aturan **Panjang Kata Bab, Formula 750 Kata, Struktur Adegan per Bab, Pembuka In Medias Res, dan Variasi Hook Akhir Bab**.
+> Untuk struktur 8 kerangka plot lihat `03-structure.md`, gaya bahasa lihat `05-style.md`, dan rubrik penilaian lihat `08-quality.md`.
 
-- 600–900 kata; target ±750; titik balik target ±900, maksimal 900.
-- Hitung kata prosa. Metadata, header `>`, dan komentar HTML tidak dihitung.
-- Satu POV, satu adegan/beat, satu perubahan.
-- Judul `## Bab N: Judul`, 2–5 kata.
-- Tanpa quote/epigraph di atas bab.
-- Tanpa em dash (`—`).
-- Berakhir dengan hook sebagai kalimat terakhir.
-- Bab 1 wajib in medias res.
+## 1. Spesifikasi Wajib per Bab
 
-## Adegan = Tujuan + Rintangan + Belokan
+- **Rentang Kata:** **600–900 kata** (target ideal **±750 kata**; bab titik balik/klimaks target **900 kata**, maksimal 900 kata). Hitung hanya teks prosa cerita (header metadata atau komentar tidak dihitung).
+- **Fokus Tunggal:** Satu POV, satu adegan/kejadian utama, dan satu perubahan nyata di akhir bab.
+- **Format Judul:** `## Bab N: Judul` (2–5 kata), tanpa quote/epigraph pembuka di atas bab, dan tanpa karakter em dash (`—`) di seluruh teks.
+- **Kalimat Terakhir:** Wajib berupa *hook* yang memancing pembaca langsung lanjut ke bab berikutnya.
 
-Setiap bab harus bisa dijawab:
+---
 
-1. **Tujuan:** apa yang ingin dicapai tokoh POV?
-2. **Rintangan:** siapa/apa yang menghalangi?
-3. **Belokan:** apa yang berubah sebelum bab selesai?
+## 2. Anatomi Adegan = Tujuan + Rintangan + Belokan
 
-Kalau salah satu tidak ada, adegan belum siap.
+Setiap bab wajib bisa menjawab tiga hal ini:
+1. **Tujuan:** Apa yang ingin dicapai tokoh POV saat masuk ke adegan ini?
+2. **Rintangan:** Siapa atau apa yang menghalangi tujuan tersebut?
+3. **Belokan (*Turn*):** Apa yang berubah sebelum bab selesai (informasi baru, pilihan menyempit, atau masalah memburuk)?
 
-## Kontrak dengan Outline
+Jika salah satu tidak ada, bab tersebut adalah bab pengisi (*filler*) dan harus diperbaiki.
 
-**Prinsip Pas:** subplot, flashback, dan scene ikonik hanya dipakai jika ada di outline
-dan benar-benar dibutuhkan. Jangan menempelkan alat tambahan di bab. Satu bab cukup
-**satu atau dua teknik yang menonjol**; katalognya ada di `03-structure.md`.
+---
 
-- Semua beat yang tertulis di outline harus muncul di teks.
-- Semua setup yang dijanjikan harus benar-benar ditanam; semua payoff yang dijadwalkan
-  harus dibayar.
-- Jika satu beat tidak jadi, **jangan diam-diam**. Perbaiki bab atau ajukan Perubahan
-  Outline, lalu update ledger.
-- Tutup jalan keluar paling mudah di bab ini. Kalau tokoh bisa menyelesaikan masalah
-  dengan satu telepon, tunjukkan kenapa telepon itu gagal.
-- Hook harus punya jalur masuk akal. Jika pesan dari nomor tak dikenal, jelaskan
-  bagaimana pengirim mendapat nomor itu (aplikasi, surat penagihan, kartu petugas).
-- Subplot/flashback/scene ikonik hanya dipakai jika ada di outline dan lolos Tes Pas.
-- Jangan memakai pola adegan/jenis hook yang sama dengan bab sebelumnya.
+## 3. Formula Porsi 750 Kata
 
-## Formula 750 Kata
+| Porsi Kata | Bagian Adegan | Isi yang Ditulis |
+|---:|---|---|
+| **0–60 kata** | Pembuka | Langsung masuk ke tindakan/situasi aktif + satu detail indera konkret. |
+| **60–250 kata** | Konteks & Tujuan | Tujuan tokoh di adegan ini dan hambatan awal yang dihadapi. |
+| **250–520 kata** | Komplikasi | Interaksi/dialog, aksi, informasi baru, situasi memburuk atau canggung. |
+| **520–680 kata** | Belokan / Keputusan | Keputusan aktif tokoh atau pengungkapan yang tidak bisa ditarik kembali. |
+| **680–750 kata** | Hook Penutup | 1–2 kalimat terakhir yang membuka pertanyaan mendesak untuk bab selanjutnya. |
 
-| Porsi | Kata | Isi |
-|---|---:|---|
-| 0–60 | pembuka | Langsung di adegan, satu detail indera. |
-| 60–250 | konteks | Tujuan tokoh, siapa yang menghalangi. |
-| 250–520 | komplikasi | Dialog, aksi, informasi baru, dua kali memburuk. |
-| 520–680 | belokan | Keputusan/pengungkapan yang tidak bisa ditarik. |
-| 680–750 | hook | Kalimat terakhir yang membuka pertanyaan. |
+---
 
-Bab titik balik target 900 kata; jangan lebih dari 900.
+## 4. Kontrak Bab dengan Outline
 
-## Bab 1 In Medias Res
+- **Semua beat wajib muncul:** Seluruh beat, *setup/planting* (Tanaman 1 atau Tanaman 2), dan *payoff* yang dijadwalkan di `outline.md` pada bab tersebut wajib tertulis nyata di dalam prosa.
+- **Tutup jalan keluar termudah:** Jika di bab itu tokoh bisa menyelesaikan masalah hanya dengan satu panggilan telepon atau satu kalimat jujur, tunjukkan secara eksplisit di dalam adegan kenapa cara mudah itu gagal atau tertutup.
+- **Jalur logis informasi:** Jika ada pesan dari nomor tak dikenal atau tokoh mengetahui suatu fakta, pastikan jalur masuknya informasi sudah tertulis masuk akal.
+- **Prinsip Pas:** Hanya gunakan 1–2 teknik naratif yang menonjol per bab sesuai rencana outline. Jangan menempelkan flashback atau subplot yang tidak perlu.
 
-- Buka di detik kesalahan/pemicu atau sesudahnya.
-- Bukan pagi tenang, bangun tidur, cuaca, atau perkenalan panjang.
-- Tiga kalimat pertama harus membuat pembaca bertanya “terus gimana?”.
-- Latar dan sebab disisipkan lewat 2–4 kalimat ingatan pendek di sela aksi.
-- Kelemahan protagonis harus terlihat lewat aksi sebelum atau saat kesalahan terjadi.
+---
 
-Contoh pembuka:
+## 5. Bab 1 Wajib *In Medias Res*
 
-> Pesan Anda telah terkirim.
->
-> Kotak abu-abu kecil itu muncul di pojok kanan atas layar, tenang banget, seolah nggak
-> ada apa-apa.
->
-> Tombol yang barusan ia klik bukan Discard.
+- Buka langsung di tengah tindakan krusial, detik terjadinya kesalahan, atau tepat saat masalah mendadak menghantam tokoh.
+- **Dilarang membuka Bab 1 dengan:** bangun tidur, alarm berbunyi, penjelasan cuaca pagi yang cerah, bercermin, atau perkenalan biodata panjang.
+- Tiga kalimat pertama harus langsung memancing pertanyaan *"Terus gimana?"*.
+- Latar belakang dan konteks disisipkan secara ringkas (2–4 kalimat) di sela-sela aksi dan dialog.
+- Kelemahan khas protagonis harus langsung terlihat lewat tindakannya di Bab 1.
 
-## Kalimat Pembuka
+---
 
-Tipe yang bekerja:
+## 6. Variasi Kalimat Pembuka & Hook Akhir Bab
 
-- **Aksi:** “Kursor mendarat di tombol yang salah.”
-- **Detail:** “Kopi ketiga sudah dingin, tapi ia tetap meminumnya.”
-- **Suara:** “Di kantor ini, kata ‘final’ artinya ‘sementara’.”
-- **Kontras:** “Senin pagi seharusnya membosankan. Pagi itu tidak.”
-- **Objek:** “Ada amplop di mejanya, tanpa nama pengirim.”
+### Lima Tipe Kalimat Pembuka Bab
+1. **Aksi langsung:** *"Kursor mendarat di tombol yang salah."*
+2. **Detail benda konkret:** *"Kopi ketiga sudah dingin, tapi ia tetap meminumnya."*
+3. **Observasi tajam/ironis:** *"Di kantor ini, kata 'final' artinya 'sementara'."*
+4. **Kontras situasi:** *"Senin pagi seharusnya membosankan. Pagi itu tidak."*
+5. **Objek pemicu:** *"Ada amplop cokelat di atas mejanya, tanpa nama pengirim."*
 
-Hindari: cuaca, mimpi, membangunkan tokoh dari tidur, penjelasan latar panjang.
+### Delapan Tipe Hook Kalimat Terakhir (Variasikan Antarbab)
+Jangan memakai tipe hook yang sama dua bab berturut-turut:
+1. **Pesan masuk:** *"Layar ponselnya menyala: 'Jangan percaya siapa pun di ruangan itu.'"*
+2. **Kedatangan tak terduga:** *"Pintu kaca terbuka, dan orang yang paling ia hindari minggu ini melangkah masuk."*
+3. **Pengungkapan bukti:** *"Di baris paling bawah dokumen itu, tertera satu nama yang seharusnya tidak pernah ada."*
+4. **Keputusan nekat:** *"Untuk pertama kalinya, ia menekan tombol Kirim dengan sengaja."*
+5. **Ancaman/Tenggat:** *"Kamu punya waktu sampai Jumat jam lima sore."*
+6. **Temuan objek:** *"Di dalam laci yang terkunci itu, tersimpan papan nama lamanya."*
+7. **Keheningan canggung:** *"Semua orang di meja makan mendadak berhenti mengunyah saat namanya disebut."*
+8. **Pertanyaan tajam:** *"Kalau bukan dia yang mengirim file itu, lalu siapa?"*
 
-## Hook
-
-Hook yang baik:
-
-- kalimat terakhir bab;
-- pendek (1–2 kalimat);
-- menambah informasi, bukan mengulang;
-- membuka pertanyaan yang dibayar di bab berikutnya;
-- tidak berbohong.
-
-Tipe:
-
-1. **Pesan** — “Pesan masuk: ‘Jangan percaya siapa pun di ruangan itu.’”
-2. **Kedatangan** — “Pintu terbuka, dan orang yang seharusnya tidak ada di sana masuk.”
-3. **Pengungkapan** — “Di baris terakhir dokumen itu ada satu nama yang tidak seharusnya ada.”
-4. **Keputusan** — “Untuk pertama kalinya, ia menekan Send dengan sengaja.”
-5. **Ancaman** — “Kamu punya waktu sampai Senin.”
-6. **Objek** — “Ada amplop di mejanya, tanpa nama pengirim.”
-7. **Diam** — “Semua orang berhenti bicara saat namanya disebut.”
-8. **Pertanyaan** — “Kalau bukan dia, lalu siapa?”
-
-Hindari: “Apa yang akan terjadi selanjutnya?” atau “Bersambung.”
-
-## Detail Konkret
-
-Satu detail per bab yang bisa diingat:
-
-- kopi dingin;
-- ponsel retak;
-- map biru;
-- tiket parkir di saku;
-- notifikasi 87;
-- bau parfum atasan;
-- suara AC;
-- nasi bungkus yang belum dibuka.
-
-## Dialog
-
-- Pada adegan dialog: minimal 3 pertukaran yang bekerja. Adegan sunyi atau aksi boleh
-  tanpa dialog.
-- Dialog harus mengubah taruhan atau mengungkap karakter.
-- Action beats di sela dialog.
-- Jangan pakai dialog untuk menjelaskan plot.
-
-## Checklist Bab
-
-- [ ] Satu POV.
-- [ ] Satu tujuan, satu rintangan, satu belokan.
-- [ ] 600–900 kata; hitung prosa saja.
-- [ ] Semua beat outline muncul.
-- [ ] Setup/payoff outline benar-benar ditanam/dibayar.
-- [ ] Jalan keluar paling mudah sudah ditutup.
-- [ ] Hook punya jalur masuk akal.
-- [ ] POV tidak menulis isi kepala tokoh lain.
-- [ ] Lolos Tes Pas: tidak ada teknik/ide yang terasa ditempel.
-- [ ] Jenis adegan/hook berbeda dari bab sebelumnya.
-- [ ] Bab memberi alasan untuk lanjut, bukan bab pengisi.
-- [ ] Paragraf pertama langsung di adegan.
-- [ ] Kalau adegan dialog: minimal tiga pertukaran yang bekerja.
-- [ ] Satu detail konkret.
-- [ ] Hook adalah kalimat terakhir.
-- [ ] Bab sebelumnya tidak diringkas.
-- [ ] Istilah asing dijelaskan sekali.
-- [ ] Tidak ada emoji/umpatan.
-- [ ] Tidak ada tokoh/fakta baru tanpa setup.
-- [ ] Catatan kontinuitas dibuat.
-
-## Yang Harus Dihindari
-
-- Bab yang hanya mengulang konflik sebelumnya.
-- Protagonis pasif; masalah datang dan pergi tanpa pilihan.
-- Semua konflik selesai dalam satu presentasi.
-- Dialog yang menjelaskan perasaan yang seharusnya ditunjukkan.
-- Hook palsu yang tidak dibayar.
-- Bab 900 kata tanpa alasan.
+**Dilarang menutup bab dengan:** *"Apa yang akan terjadi selanjutnya?"*, *"Bersambung"*, atau kesimpulan moral yang menutup rasa penasaran.

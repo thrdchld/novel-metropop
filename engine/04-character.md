@@ -1,149 +1,73 @@
 # 04 — Karakter dan Character Sheet
 
-## Prinsip
+> **File Pemilik:** File ini memiliki aturan **Penokohan, Kelemahan Tokoh sebagai Mesin Plot, Character Sheet, Aturan Tells, Cast Default, dan Dinamika Kelompok**.
 
-- Protagonis punya **kelemahan khas** yang menjadi mesin cerita.
-- Keinginan vs kebutuhan: ingin aman, butuh berani.
-- Antagonis halus: ramah di luar, merugikan di dalam; punya motif konkret.
-- Love interest punya hambatan struktural, bukan sekadar salah paham.
-- Keluarga adalah sumber humor sekaligus emosi.
-- Tokoh kecil berulang membuat dunia hidup dan bisa menjadi payoff.
+## 1. Prinsip Karakter MetroPop
 
-## Character Sheet Wajib
+1. **Kelemahan Tokoh sebagai Mesin Plot:** Protagonis wajib punya satu kelemahan khas (misal: *sungkan menolak, gengsi, menghindari konflik, menyimpan masalah sendiri, refleks menjawab "bisa", perfeksionis, suka menunda, mengalah terus*) yang langsung memicu masalah di Babak 1 dan menyulitkannya di tiap Siklus Coba-Gagal.
+2. **Keinginan (*Want*) vs Kebutuhan (*Need*) Berbeda:** Apa yang dikejar tokoh di permukaan berbeda dengan apa yang sebenarnya ia butuhkan untuk bertumbuh.
+3. **Tokoh sebagai Cermin:** Tokoh pendamping (*love interest*, rekan kerja, atau sahabat) berfungsi mencerminkan sisi buta yang tidak disadari protagonis.
+4. **Antagonis / Penekan Realistis:** Bukan penjahat kartunal yang jahat tanpa sebab. Ia memiliki keinginan, logika, dan alasan yang masuk akal dari sudut pandangnya sendiri (melindungi reputasi, keluarga, atau target kerja).
+5. **Love Interest Berdaya:** Punya pekerjaan, ambisi, masalah sendiri, dan alasan logis yang spesifik saat berinteraksi dengan protagonis (bukan sekadar jatuh cinta mendadak atau hadir sebagai hadiah di akhir).
 
-Setiap tokoh inti dan tokoh berulang punya:
+---
+
+## 2. Character Sheet Wajib
+
+Setiap tokoh inti dan tokoh berulang di `canon.md` wajib memiliki:
 
 ```markdown
 ### Nama — Peran
-- **Identitas:** nama lengkap, panggilan, usia, pekerjaan, tempat tinggal, latar singkat.
-- **Penampilan khas (maks 3):** gaya baju, benda yang selalu dibawa, rambut.
-- **Tells fisik/kebiasaan (3–5):** gerakan kecil yang muncul berulang.
-- **Pola bicara:** kalimat andalan, panjang kalimat, kata favorit, cara menyapa,
-  cara bicara saat gugup/marah/berbohong.
-- **Benda khas:** map biru, tote bag, gelas kopi, ponsel retak.
-- **Tell emosi:** cara menunjukkan malu, marah, bahagia, takut tanpa kata emosinya.
-- **Kelemahan fatal:** ...
-- **Ketakutan terbesar:** ...
-- **Ingin vs butuh:** ...
-- **Kebohongan yang diyakini:** ...
-- **Tidak akan pernah:** batas karakter agar tidak OOC.
-- **Rahasia dan motif:** ...
-- **Arc:** dari ... menjadi ...
-- **Cara menyapa tokoh lain:** ...
-- **Contoh dialog 3 baris:** ...
+- **Identitas:** nama lengkap, panggilan, usia, pekerjaan/aktivitas, tempat tinggal, latar singkat.
+- **Penampilan khas (maks 3):** gaya pakaian, benda yang selalu dibawa, ciri fisik sederhana.
+- **Tells fisik/kebiasaan (3–5):** gerakan kecil berulang saat gugup/berpikir/bohong.
+- **Pola bicara:** kalimat andalan, panjang kalimat, kata favorit, cara menyapa tokoh lain.
+- **Benda khas:** benda konkret yang melekat pada tokoh (bisa menjadi bahan *planting*).
+- **Tell emosi:** cara menunjukkan malu, marah, bahagia, atau takut lewat tindakan fisik (*show, don't tell*).
+- **Kelemahan fatal (mesin plot):** kelemahan yang memicu dan memperkeruh konflik.
+- **Ketakutan terbesar:** apa yang paling ia hindari.
+- **Ingin vs butuh:** keinginan permukaan vs kebutuhan batin.
+- **Kebohongan yang diyakini:** asumsi keliru yang dipegang tokoh sejak awal.
+- **Tidak akan pernah:** batas moral/karakter agar tokoh tidak keluar karakter (*out of character*).
+- **Rahasia dan motif:** apa yang ia sembunyikan dan kenapa ia bertindak.
+- **Arc perubahan:** dari kondisi awal ... menjadi ... (beserta harga yang dibayar).
+- **Contoh dialog 3 baris:** contoh kalimat yang menunjukkan suara khasnya.
 ```
 
-## Aturan Tells
+---
 
-- Pilih 1–2 tells per adegan; jangan memakai semuanya.
-- Ulangi tell utama setiap 3–5 bab agar jadi ciri.
-- Perubahan tell = tanda tokoh berkembang.
-- Jangan memakai klise umum (“jantung berdegup kencang”) tanpa detail khas.
-- Show, don't tell untuk momen penting; untuk transisi cepat, boleh langsung memberi tahu.
+## 3. Aturan Tells (Gerakan Khas)
 
-Contoh:
+- Pilih **1–2 tells per adegan**; jangan memborong semua tells sekaligus.
+- Ulangi tell utama setiap 3–5 bab agar menjadi ciri khas yang dikenali pembaca.
+- **Perubahan tell di Babak 3** menandakan karakter sudah berubah/bertumbuh.
+- Hindari klise generik (*"jantung berdegup kencang"*, *"menghela napas berat"* berulang-ulang) tanpa detail fisik yang spesifik.
 
-> Tell: “Nadia gugup.”
->
-> Show: “Sendok di tangan Nadia gemetar sampai kena piring.”
+---
 
-## Cast Default
+## 4. Cast Default & Dinamika Kawan Senasib
 
-| Peran | Fungsi | Catatan |
+Enam sampai delapan tokoh utama sudah cukup (jangan membanjiri cerita dengan nama tanpa fungsi):
+
+| Peran | Fungsi Dramatik | Karakteristik Khas |
 |---|---|---|
-| Protagonis | Ingin, butuh, cacat, memilih | Aktif, pekerja keras yang lelah tapi gigih, punya monolog batin yang kocak/sarkas. |
-| Love interest / Atasan | Mengubah cara protagonis melihat diri | Dingin, berprestasi, hemat kata, menuntut kesempurnaan tapi punya sisi rapuh/perhatian. |
-| Antagonis | Menekan dengan logika sendiri | Bisa berupa figur otoritas kaku, sistem kantor, atau kolega penjilat. |
-| Sekutu (Grup Kubikel) | Informasi, pelipur lara, tawa | Kawan senasib yang saling roasting, doyan ngemil, dan jadi sumber gosip makan siang. |
-| Mentor | Perspektif | Memberi sudut pandang realistis, tidak menyelesaikan masalah protagonis. |
-| Keluarga | Tekanan emosional | Sumber rasa bersalah, tuntutan menikah/uang, tapi tempat berlabuh. |
+| **Protagonis** | Menggerakkan plot lewat keputusan & kelemahannya | Aktif, pekerja keras yang lelah tapi gigih, monolog batin kocak/sarkastik. |
+| **Love Interest / Rekan Utama** | Mengubah cara protagonis melihat diri | Kompeten, punya standar tinggi/kaku, punya alasan pragmatis yang *to the point*. |
+| **Antagonis / Penekan** | Menekan dengan logika & tenggat nyata | Figur otoritas (bos/tante/mertua/klien) atau rekan kompetitif dengan motif konkret. |
+| **Sekutu (Grup Kubikel/Sahabat)** | Informasi, pelipur lara, sumber komedi | Kawan senasib yang saling *roasting*, jujur, dan solidaritasnya tinggi. |
+| **Keluarga** | Tekanan emosional & taruhan personal | Sumber rasa bersalah, tuntutan sosial/menikah, sekaligus tempat berlabuh. |
+| **Tokoh Kecil Berulang** | Membuat dunia hidup & menjadi bahan *planting* | Satpam, staf IT, barista, tetangga kos, atau kurir (muncul 2–4 kali, punya kebiasaan khas). |
 
-### Dinamika Tim Kubikel (Arketipe Kawan Senasib)
+### Dinamika Tim Kubikel / Sahabat (*The Cungpret Dynamic*)
+Kekuatan cerita MetroPop sering lahir dari obrolan kelompok sahabat senasib:
+1. **Si Tukang Ngemil & Santai:** *Drawer* meja penuh camilan, perhitungan soal uang kas/patungan, selalu punya ide konyol.
+2. **Si Senior Tajam & Ratu Gosip:** Ceplas-ceplos, tahu semua gosip lingkungan, tapi paling galak membela temannya yang dizalimi.
+3. **Si Pengamat Kalem / Tukang Kompor:** Santai, suka melempar satu kalimat pendek yang langsung memanaskan suasana saat ada yang salah tingkah.
 
-Kekuatan cerita MetroPop sering lahir dari kelompok kawan senasib (seperti kelompok "The Cungpret"):
-1. **Si Tukang Ngemil & Santai:** Drawer mejanya penuh camilan, suka kabur dari tugas kecil, perhitungan soal amplop nikahan, selalu punya ide konyol.
-2. **Si Senior Tajam & Ratu Gosip:** Suaranya kencang, ceplas-ceplos, anti basa-basi, tahu segala skandal kantor, tapi pasang badan saat temannya dizalimi.
-3. **Si Pengamat Santai / Tukang Kompor:** Senior kalem yang sudah berkeluarga, suka melempar celetukan memanaskan suasana saat ada yang salah tingkah.
+---
 
-Kombinasi ini membuat suasana kantor/komunitas terasa sangat hidup dan pembaca merasa ikut "nongkrong" bersama mereka.
+## 5. Diferensiasi Suara Dialog per Tokoh
 
-Tokoh kecil berulang: satpam, IT, petugas kebersihan, anak magang, barista langganan.
-Mereka boleh muncul 3–5 kali dan menjadi payoff.
-
-**Jumlah cast:** 6–8 tokoh utama sudah cukup. Tokoh kecil berulang boleh lebih, tetapi
-masing-masing harus punya fungsi. Boleh ada satu antagonis dekat dan satu antagonis
-institusional; keduanya butuh motif konkret.
-
-**Sesuaikan peran dengan latar.** Atasan bisa menjadi guru, senior, ketua organisasi,
-mertua, atau tetangga. Love interest bisa teman sekelas, teman kos, rekan kerja, atau
-sepupu jauh. Hambatan romansa bisa restu orang tua, beda kota, jarak usia, atau konflik
-kepentingan. Love interest dan romansa **opsional**; jika ada, harus punya hambatan
-struktural, bukan sekadar salah paham.
-
-## Protagonis
-
-- Cacat harus menyebabkan masalah di Babak 1 dan menuntut perubahan di akhir.
-- Beri satu refleks khas yang muncul saat stres.
-- Beri satu benda yang selalu dibawa.
-- Beri satu kebohongan yang ia yakini tentang dirinya.
-- Jangan membuat protagonis cantik/ganteng dan “tidak sadar”.
-- Jangan membuat semua orang mencintainya tanpa alasan.
-
-## Antagonis
-
-- Motif konkret: mempertahankan posisi, melindungi orang, takut kehilangan relevansi.
-- Taktik: memuji di depan, menekan di belakang; mengubah aturan; memakai orang lain.
-- Titik lemah: sesuatu yang bisa dipakai protagonis di klimaks.
-- Jangan membuat antagonis tertawa sinis tanpa alasan.
-
-## Love Interest
-
-- Punya pekerjaan, ambisi, dan masalah sendiri.
-- Hambatan struktural: atasan-bawahan, konflik kepentingan, kontrak, keluarga.
-- Jangan hanya menjadi hadiah di akhir.
-- Jangan menunda pengakuan hanya karena penulis butuh konflik.
-
-## Keluarga
-
-- Bukan sekadar “kapan nikah”. Beri kekhawatiran, kebanggaan, dan cara kasih yang tidak sempurna.
-- Mama bisa bangga pada citra, bukan pada kebenaran.
-- Adik bisa usil tetapi setia.
-- Tekanan keluarga harus punya biaya nyata: uang, waktu, rasa bersalah.
-
-## Dialog per Tokoh
-
-Setiap tokoh punya:
-
-- cara menyapa (Mbak/Mas/Pak/Bu, aku/kamu, saya);
-- panjang kalimat;
-- kata favorit;
-- cara mengelak;
-- cara marah;
-- cara berbohong.
-
-Contoh pola:
-
-- Protagonis: kalimat pendek, banyak “iya” yang menahan sesuatu.
-- Antagonis: sopan, rapi, selalu terdengar benar.
-- Sekutu: datar, jujur, tidak suka basa-basi.
-- Mama: cepat, melompat antar topik, penuh kekhawatiran.
-- Mentor: lambat, suka bercerita, jarang memuji langsung.
-
-## Contoh Sheet Ringkas
-
-```markdown
-### Alya — Protagonis
-- **Identitas:** Alya Pratama, 27, project manager di Lintasan, kos di Tebet.
-- **Penampilan:** kemeja digulung rapi; tote bag hitam lusuh; rambut diikat penjepit.
-- **Tells:** memeluk tas saat gugup; mengetik lalu menghapus; menatap langit-langit.
-- **Pola bicara:** “Siap, bisa kok”; kalimat pendek; mengulang pertanyaan saat panik.
-- **Benda khas:** tote bag hitam.
-- **Tell emosi:** kalau malu, telinganya memerah.
-- **Cacat:** tidak bisa menolak permintaan.
-- **Takut:** dianggap tidak berguna.
-- **Ingin vs butuh:** ingin aman; butuh berani mengatakan tidak.
-- **Kebohongan:** kalau aku berguna, aku tidak akan ditinggalkan.
-- **Tidak akan:** menangis di kantor.
-- **Rahasia:** menulis surat pengunduran diri sejak lama.
-- **Arc:** dari menghindar konflik menjadi memilih dengan sadar.
-```
+Pastikan setiap tokoh terdengar berbeda jika label namanya ditutup:
+- Bedakan dari **pilihan sapaan** (*lo-gue* untuk rekan sebaya/sahabat urban; *aku-kamu* untuk latar non-Jakarta/sekolah atau hubungan tertentu; *Mbak/Mas* ke senior; *saya-Bapak/Ibu* ke atasan/orang tua baru dikenal).
+- Bedakan dari **panjang kalimat dan ritme** (misal: protagonis reaktif dan suka menyela di batin; love interest hemat kata dan langsung ke inti; ibu/tante bicara cepat melompat antartopik).

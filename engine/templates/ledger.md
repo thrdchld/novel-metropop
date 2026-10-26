@@ -2,7 +2,7 @@
 
 > Dokumen hidup. Perbarui setelah setiap bab. Fakta hanya sah jika ada di sini atau di
 > teks bab yang sudah disetujui. Tandai fakta baru dengan **BARU**.
-> Kolom “Rujukan” harus menunjuk fakta yang benar-benar ada di teks, bukan rencana.
+> Kolom "Rujukan" harus menunjuk fakta yang benar-benar ada di teks, bukan rencana.
 
 ## A. Timeline Master
 
@@ -22,16 +22,16 @@
 |---|---|---|---|---|
 | ... | ... | ... | ... | ... |
 
-## C. Matriks Pengetahuan
+## C. Matriks Pengetahuan (Siapa Tahu Apa)
 
-| Fakta | Siapa tahu | Sejak bab | Dari mana |
+| Fakta/rahasia | Siapa tahu | Sejak bab | Dari mana |
 |---|---|---|---|
 | Rahasia utama: ... | protagonis | 1 | pikiran protagonis |
 | ... | ... | ... | ... |
 
 ## D. Status Tokoh per Bab
 
-| Bab | POV | Emosi/perubahan | Benda | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
+| Bab | POV | Emosi/perubahan | Benda yang dibawa | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
 |---|---|---|---|---|---|---|
 | 1 | ... | ... | ... | ... | ... | ... |
 
@@ -40,21 +40,22 @@
 | Fakta | Nilai | Rujukan |
 |---|---|---|
 | Jumlah bab | ... | outline |
-| Nama perusahaan | ... | canon |
+| Kerangka plot | ... | canon |
+| Nama perusahaan/tempat | ... | canon |
 | Umur tokoh | ... | canon |
-| Jumlah penerima/peserta | TETAPKAN | belum ada |
-| Nominal uang | TETAPKAN | belum ada |
-| Aturan sistem | TETAPKAN | canon |
+| Tenggat waktu luar | TETAPKAN | canon/bab 1 |
+| Nominal uang/taruhan | TETAPKAN | canon/bab 1 |
+| Aturan mekanisme | TETAPKAN | canon |
 
-## F. Benang Terbuka (Setup/Payoff)
+## F. Benang Terbuka (Setup / Planting 2x & Payoff)
 
-| Benang | Ditaman di bab | Direncanakan dibayar | Status |
-|---|---|---|---|
-| Refleks protagonis | 1 | ... | terbuka |
-| Objek khas | ... | ... | terbuka |
-| Bukti utama | ... | ... | terbuka |
+| Bahan / Benang | Tanaman 1 (Sepele di Bab) | Tanaman 2 (Tampak Hiasan di Bab) | Direncanakan Dibayar (Payoff) | Status |
+|---|---|---|---|---|
+| Bahan solusi 1: ... | Bab ... | Bab ... | Bab ... | terbuka |
+| Refleks protagonis | Bab 1 | - | Bab ... | terbuka |
+| Objek khas | Bab ... | - | Bab ... | terbuka |
 
-## G. Log Perubahan Canon
+## G. Log Perubahan Canon & Outline
 
 | Versi | Tanggal | Perubahan | Alasan | Bab terdampak |
 |---|---|---|---|---|

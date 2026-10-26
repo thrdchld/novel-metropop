@@ -1,6 +1,8 @@
 # Protokol Claude — Web Novel MetroPop Indonesia
 
-File skill mandiri lengkap: baca [CLAUDE_SKILL.md](CLAUDE_SKILL.md).
+- **Standalone Skill (All-in-One):** [CLAUDE_SKILL.md](CLAUDE_SKILL.md)
+- **Acuan Utama Gaya & Diksi:** `acuan-bahasa.docx` dan `engine/05-style.md`
+- **Acuan Utama Kerangka Plot, Premis, & Evaluasi Alur:** [Kerangka Plot yang Terbukti untuk Web Novel.md](Kerangka%20Plot%20yang%20Terbukti%20untuk%20Web%20Novel.md) (`engine/02-premise.md`, `03-structure.md`, `08-quality.md`)
 
 ## Aturan Mutlak Menulis (Non-Negotiable)
 

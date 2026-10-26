@@ -1,24 +1,27 @@
 # Folder Story
 
 Satu cerita = satu folder, dinamai sesuai judul. Semua canon, outline, ledger, dan naskah
-disimpan di sini. Folder ini dibaca oleh agent sebelum menulis.
+disimpan di sini. Folder ini wajib dibaca oleh agent sebelum menulis bab berikutnya.
 
-Acuan penulisan & gaya: `../acuan-bahasa.docx` (acuan utama gaya, diksi, dan penceritaan),
-`../old-documents-unneeded/` (arsip referensi panduan sebelumnya), dan
-`../engine/` (terutama `00-workflow.md`, `03-structure.md`, `07-continuity.md`).
+## Acuan Utama
 
-Target pembaca 13+; latar dan usia tokoh bebas. Prinsip Pas: teknik/subplot/flashback/
-scene ikonik opsional, boleh nol.
+1. **Gaya Bahasa, Diksi, & Penceritaan:** `../acuan-bahasa.docx` dan `../engine/05-style.md`.
+2. **Kerangka Plot, Premis, Siklus Coba-Gagal, Planting, & Evaluasi Alur:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`, `../engine/02-premise.md`, `../engine/03-structure.md`, dan `../engine/08-quality.md`.
+3. **Alur Kerja & Kontinuitas:** `../AGENTS.md`, `../engine/00-workflow.md`, dan `../engine/07-continuity.md`.
+4. **Arsip Panduan Lama:** `../old-documents-unneeded/` (hanya referensi tambahan).
 
-## Struktur
+Target pembaca **13+**; latar dan usia tokoh bebas. **Prinsip Pas:** teknik naratif, subplot,
+flashback, dan scene ikonik bersifat opsional (boleh nol jika cerita sudah padat).
+
+## Struktur Folder Cerita
 
 ```text
 story/
 └── <Judul>/
-    ├── canon.md          # sumber kebenaran: premis, cast, aturan, motif, ending
-    ├── outline.md        # peta 30–40 bab + kolom wajib
-    ├── ledger.md         # Story Ledger A–G (dokumen hidup)
-    ├── feedback.md       # catatan feedback user dan tindakan
+    ├── canon.md          # sumber kebenaran: premis (5 slot), kerangka plot, planting 2x, cast, aturan, ending
+    ├── outline.md        # peta 30–40 bab (min 6–8 titik balik) + siklus coba-gagal + kolom wajib
+    ├── ledger.md         # Story Ledger A–G (dokumen hidup kontinuitas fakta)
+    ├── feedback.md       # catatan feedback user dan tindakan revisi
     └── chapters/
         ├── bab-01.md
         ├── bab-02.md
@@ -35,77 +38,37 @@ Minta agent:
 > berjudul "...".
 
 Agent akan:
-
 1. bertanya maksimal 3 hal yang belum jelas;
-2. membuat folder ini dari template;
-3. mengisi `canon.md`;
-4. menyusun `outline.md` dan stress test;
-5. meminta persetujuan;
-6. menandai outline **TERKUNCI v1.0**;
-7. menulis Bab 1.
+2. menjalankan **Uji 5 Slot Kelayakan Premis** dan **7 Langkah Menentukan Kerangka Plot**;
+3. membuat folder cerita dari template;
+4. mengisi `canon.md` (termasuk rencana **Planting Solusi 2 Kali**);
+5. menyusun `outline.md` (lengkap dengan **Siklus Coba-Gagal 6 Komponen**) dan menjalankan **Stress Test (10 Uji Logika & 10 Tanda Bahaya)**;
+6. meminta persetujuan user dan menandai outline **TERKUNCI v1.0**;
+7. menulis **Bab 1** saja (600–900 kata, *in medias res*, tanpa em dash, tanpa quote di atas bab).
 
-Jangan menulis bab sebelum outline terkunci.
-
-## Cara Melanjutkan
+## Cara Melanjutkan Cerita
 
 Minta agent:
 
 > Baca `AGENTS.md`, `engine/README.md`, dan `story/<Judul>/`. Lanjutkan bab berikutnya.
 
-Agent membaca `canon.md`, `ledger.md`, dan 1–2 bab terakhir, lalu menulis posisi cerita
-5 baris sebelum menulis.
+Agent membaca `canon.md`, `outline.md`, `ledger.md`, dan 1–2 bab terakhir, menampilkan
+**posisi cerita 5 baris**, meminta konfirmasi, lalu menulis satu bab (600–900 kata).
 
-## Cara Revisi
+## Cara Revisi & Evaluasi Alur Cerita
 
 Minta agent:
 
-> Baca `engine/09-revision.md`. Revisi Bab 5: ...
+> Baca `engine/08-quality.md` dan `engine/09-revision.md`. Analisis/revisi alur cerita ini: ...
 
-Agent mengklasifikasikan feedback, merevisi lokal, memperbarui ledger/canon, dan mencatat
-pelajaran jika perlu.
+Agent menjalankan **Diagnosis Alur Cerita** (Uji 5 Slot, 8 Kerangka, Uji 100% Siklus, Planting 2x, 10 Uji Logika, dan 10 Tanda Bahaya), mengklasifikasikan feedback, melakukan revisi lokal, serta memperbarui `ledger.md` dan `canon.md`.
 
 ## File dan Tanggung Jawab
 
-| File | Isi | Kapan diperbarui |
+| File | Isi Utama | Kapan Diperbarui |
 |---|---|---|
-| `canon.md` | Premis, cast, aturan, motif, ending | Saat canon berubah, dengan persetujuan |
-| `outline.md` | Peta bab + kolom wajib | Sebelum menulis; perubahan lewat change request |
-| `ledger.md` | Timeline, pengetahuan, benda, setup/payoff | Setelah setiap bab |
-| `feedback.md` | Feedback user dan tindakan | Setelah revisi |
-| `chapters/bab-NN.md` | Prosa | Setiap bab |
-
-## Aturan
-
-Aturan lengkap dimiliki file di `../engine/`:
-
-- format/struktur: `03-structure.md`
-- gaya dan format teks: `05-style.md`
-- kerajinan bab: `06-chapter.md`
-- kontinuitas: `07-continuity.md`
-- rubrik: `08-quality.md`
-
-Ringkasan ini bukan sumber aturan. Jika berbeda, file pemilik menang.
-
-Yang khusus folder ini:
-
-- Simpan bab ke `chapters/bab-NN.md`.
-- Perbarui `ledger.md` setelah setiap bab.
-- Perubahan canon/outline hanya dengan persetujuan user.
-- Catat feedback di `feedback.md`.
-
-## Nama Folder
-
-Folder memakai judul apa adanya. Karakter path yang tidak valid (`/ \ : * ? " < > |`)
-diganti tanda hubung. Spasi diperbolehkan.
-
-## Ledger dan Canon
-
-- `canon.md` menjawab “apa yang benar di cerita ini”.
-- `ledger.md` menjawab “apa yang terjadi, kapan, di mana, dan siapa tahu apa”.
-- Jika dua bab bertentangan, laporkan dan usulkan versi yang dipertahankan.
-- Jangan mengarang fakta dari ingatan. Tandai `[PERIKSA]` jika tidak yakin.
-
-## Catatan
-
-Engine Python lama sudah dihapus. Jika perlu referensi implementasi, ambil dari riwayat
-git sebelum commit migrasi.
+| `canon.md` | Premis 5 slot, kerangka plot, planting 2x, cast, aturan dunia, ending | Saat canon berubah (dengan persetujuan user) |
+| `outline.md` | Peta babak, siklus coba-gagal, dan rincian per bab | Sebelum menulis; perubahan lewat `change-request.md` |
+| `ledger.md` | Timeline, matriks pengetahuan, benda, angka keras, setup/payoff | Setiap selesai menulis/merevisi satu bab |
+| `feedback.md` | Log feedback user dan tindakan perbaikan | Setiap selesai revisi |
+| `chapters/bab-NN.md` | Naskah prosa bab (600–900 kata) | Setiap bab selesai ditulis |

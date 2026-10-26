@@ -83,8 +83,8 @@ File-file ini adalah sumber aturan. File lain hanya merujuk, tidak menduplikasi.
 > Baca `AGENTS.md` dan `engine/README.md`. Saya mau mulai novel MetroPop baru.
 
 Agent akan menanyakan maksimal 3 hal yang belum jelas. Default: 30–40 bab, ±750 kata,
-tone hangat/jenaka/getir, ending terbuka atau bahagia. Jika premis belum ada, agent
-memberi 3 opsi premis dulu.
+tone hangat/jenaka/getir, ending tidak sempurna namun memuaskan (ada harga nyata yang dibayar). Jika premis belum ada, agent
+memberi 3 opsi premis dulu (menggunakan Resep 9 Langkah & Uji 5 Slot).
 
 **Lanjutkan cerita:**
 
