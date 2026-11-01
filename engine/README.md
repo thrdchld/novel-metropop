@@ -71,7 +71,8 @@ File-file ini adalah sumber aturan. File lain hanya merujuk, tidak menduplikasi.
 
 ## Aturan Baca
 
-- Folder ini adalah paket markdown. Tidak ada kode yang perlu dijalankan.
+- Folder ini adalah paket markdown. Tidak ada kode yang wajib dijalankan untuk memahami panduan.
+- Skrip Python di `scripts/` berfungsi sebagai linter mekanis/penjinak halusinasi AI (mengecek kontinuitas, 0 em dash, dan frasa AI slop). Panduan menjalankan Python di Android (Termux), Linux, dan Windows tersedia di root `README.md`.
 - Target pembaca **13+**; latar dan usia tokoh bebas.
 - **Prinsip Pas:** alat tambahan opsional; boleh nol.
 - Jangan menulis prosa sebelum mode dipilih, canon ada, dan outline disetujui.

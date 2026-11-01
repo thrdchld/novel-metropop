@@ -3,6 +3,18 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v2.9 — 2026-11-01
+
+- **Perubahan:** Menambahkan **Dokumentasi Transparan Peran Python & Panduan Eksekusi Multi-Platform (Android/Termux, Linux, Windows)**:
+  1. *Penjelasan Arsitektur:* Menguraikan peran Python sebagai Wasit Mekanis / Linter Deterministik pendamping AI (Otak Kanan Kreatif AI vs Otak Kiri Deterministik Python) di root `README.md`.
+  2. *Spesifikasi Prasyarat (Requirements):* Menegaskan zero external dependencies (hanya Python 3.8+ Standard Library bawaan tanpa butuh `pip install`).
+  3. *Panduan Platform Lengkap:* Menyusun perintah instalasi dan eksekusi langkah demi langkah untuk:
+     - Android via Termux (`pkg install git python`, `termux-setup-storage`).
+     - Linux via APT/DNF/Pacman (`python3 scripts/...`).
+     - Windows via PowerShell / CMD (`winget install Python...`, PATH flag) dan Git Bash / WSL.
+  4. *Penggunaan Web AI Murni:* Menegaskan prosedur penggunaan repositori pada platform web tanpa terminal (ChatGPT, Claude, Google AI Studio) via file skill mandiri.
+- **File:** `README.md`, `engine/README.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v2.8 — 2026-11-01
 
 - **Perubahan:** Menetapkan **Protokol Uji Ketahanan Ekstrem Outline & Mitigasi Krisis Logika Tengah Cerita (*Outline Stress-Testing & In-Flight Crisis Mitigation*)** untuk mengeliminasi cacat logika saat penulisan bab tengah (seperti Bab 20) tanpa merombak naskah dari awal:
