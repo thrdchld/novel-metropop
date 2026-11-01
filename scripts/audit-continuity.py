@@ -52,9 +52,15 @@ def audit_story(story_dir: Path) -> int:
     print(f"AUDIT KONTINUITAS BERLAPIS: {story_dir.name}")
     print("=" * 70)
 
-    # 0. Verifikasi Tiga Dokumen Pilar Kontinuitas
+    # 0. Verifikasi Dokumen Pilar Kontinuitas & Bank Premis
     pilar_files = ["canon.md", "state.md", "ledger.md"]
-    print("0. DOKUMEN PILAR KONTINUITAS:")
+    print("0. DOKUMEN PILAR KONTINUITAS & BANK PREMIS:")
+    premise_bank = story_dir.parent / "premise-bank.md"
+    if premise_bank.is_file():
+        print(f"   [OK] story/premise-bank.md ditemukan ({premise_bank.stat().st_size} bytes)")
+    else:
+        print("   [WARN] story/premise-bank.md tidak ditemukan di root story/!")
+
     for pf in pilar_files:
         p = story_dir / pf
         if p.is_file():

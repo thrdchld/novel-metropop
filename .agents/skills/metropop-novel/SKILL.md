@@ -13,9 +13,11 @@ Skill ini memandu AI untuk bertindak sebagai **Penulis dan Editor Pendamping Web
 
 1. `AGENTS.md` (protokol sesi kerja agent).
 2. `acuan-bahasa.docx` (acuan utama nada bicara, gaya bahasa, diksi, dan cara bercerita).
-3. `Kerangka Plot yang Terbukti untuk Web Novel.md` (acuan utama 8 kerangka plot terbukti, resep 9 langkah ide baru, uji 5 slot kelayakan premis, siklus coba-gagal, planting solusi 2 kali, 10 uji logika, dan 10 tanda bahaya alur cerita).
-4. `engine/00-workflow.md` hingga `engine/10-evolution.md` (aturan craft, outline, rubrik).
-5. `story/<Judul>/` (`canon.md`, `state.md`, `outline.md`, `ledger.md`, `feedback.md`).
+3. `panduan-pengembangan-premis-cerita.md` (acuan utama arsitektur premis fiksi: 3 pilar mencari, menilai, mengembangkan premis, M.I.C.E., 3P Sanderson, dan formula sintaksis).
+4. `Kerangka Plot yang Terbukti untuk Web Novel.md` (acuan utama 8 kerangka plot terbukti, resep 9 langkah ide baru, uji 5 slot kelayakan premis, siklus coba-gagal, planting solusi 2 kali, 10 uji logika, dan 10 tanda bahaya alur cerita).
+5. `engine/00-workflow.md` hingga `engine/12-audit-remediation.md` (aturan craft, outline, rubrik, world building, audit & remediasi).
+6. `story/premise-bank.md` (bank premis & inventaris ide, status aktif/backlog/ditolak, dan daftar hitam trope).
+7. `story/<Judul>/` (`canon.md`, `state.md`, `outline.md`, `ledger.md`, `feedback.md`).
 
 ---
 
@@ -28,6 +30,7 @@ Skill ini memandu AI untuk bertindak sebagai **Penulis dan Editor Pendamping Web
 5. **Format Bab & Dua Tipe In Medias Res:** Format judul `## Bab N: Judul` (2-5 kata). Bab 1 wajib *in medias res*, memilih antara **Tipe 1: Direct Action Linier** (aksi langsung dari Waktu 0 tanpa kilas balik besar) atau **Tipe 2: Flash-Forward Hook Framing** (Bab 1–2 krisis puncak/anomali dari midpoint/titik rendah, Bab 3 rewind dengan wajib In Medias Res Tipe 1 pada garis waktu lampau, dan *loop closure* di titik tengah). Kalimat penutup setiap bab wajib diakhiri *hook* yang tajam.
 6. **Mekanisme Kontinuitas & Gerbang Pra-Tulis:** Wajib membaca `story/<Judul>/` (`state.md`, `canon.md`, `outline.md`, `ledger.md`) dan menampilkan blok **Pre-Flight Continuity Gate (5 poin)** sebelum menulis bab baru, menyinkronkan `state.md` + `ledger.md` pasca-tulis, serta menjalankan audit skrip `python3 scripts/audit-continuity.py`.
 7. **Evolusi Engine:** Jika ada kritik atau preferensi berulang dari user, AI wajib mencatatnya di `engine/learnings/editor-feedback.md` dan memperbarui file engine terkait.
+8. **Bank Premis & Anti-Penawaran Ulang:** AI wajib memeriksa `story/premise-bank.md` sebelum memberikan ide di Mode A. Dilarang keras menawarkan kembali ide/premis yang sudah ditolak atau pola/trope yang tercantum dalam *Daftar Hitam Trope*! Opsi yang disetujui, dicadangkan, atau ditolak wajib dicatat ke bank premis.
 
 ---
 

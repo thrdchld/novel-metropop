@@ -5,6 +5,8 @@ perlu dijalankan. Agent cukup membaca markdown di sini, lalu bekerja lewat perca
 
 **Acuan gaya bahasa & cara penulisan:** `../acuan-bahasa.docx` (contoh novel dengan
 gaya bahasa, diksi, pilihan kata, dan gaya bercerita yang diinginkan).
+**Acuan arsitektur premis & pengembangan ide:** `../panduan-pengembangan-premis-cerita.md`
+(3 pilar: mencari lewat observasi/SCAMPER/What-If, menilai lewat Uji 5 Slot & M.I.C.E. FILO, mengembangkan lewat 3P Sanderson & formula sintaksis).
 **Acuan kerangka plot, premis, & evaluasi alur:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`
 (8 kerangka plot terbukti, uji kelayakan 5 slot, resep 9 langkah premis baru, siklus coba-gagal, planting solusi 2x, 10 uji logika, dan 10 tanda bahaya).
 Dokumen panduan lama diarsipkan di `../old-documents-unneeded/` sebagai referensi tambahan. Ringkasan
@@ -32,7 +34,7 @@ opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 | `SKILL.md` | Ringkasan skill untuk tool yang mendukung skill. |
 | `00-workflow.md` | Alur sesi, pertanyaan, mode kerja, dan definition of done. |
 | `01-genre.md` | Definisi MetroPop, janji pembaca, tone, batasan konten. |
-| `02-premise.md` | Rumus 1 kalimat, uji 5 slot, 7 langkah pilih kerangka, resep 9 langkah ide baru, 3 opsi. |
+| `02-premise.md` | 3 pilar premis (mencari, menilai, mengembangkan), M.I.C.E., 3 tingkat taruhan, 3 formula sintaksis, uji 5 slot, Bank Premis (`story/premise-bank.md`), dan aturan anti-penawaran ulang ide ditolak. |
 | `03-structure.md` | 8 kerangka plot terbukti, pemetaan 8 tahap, siklus coba-gagal, planting 2x, 30–40 bab, kolom outline. |
 | `04-character.md` | Character sheet, tells, dialog, cast, arc. |
 | `05-style.md` | Gaya bahasa, POV, dialog, format, before/after. |

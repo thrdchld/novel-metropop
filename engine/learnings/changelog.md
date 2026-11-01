@@ -3,6 +3,19 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.0 — 2026-11-01
+
+- **Perubahan:** Membangun **Sistem Bank Premis (Premise Bank & Registry) & Arsitektur Siklus Hidup Premis Lengkap (Engine v3.0)**:
+  1. *Acuan Master Arsitektur Premis Baru:* Mengintegrasikan `panduan-pengembangan-premis-cerita.md` (ontologi premis, demarkasi ide vs premis vs logline vs plot vs tema, 4 elemen pokok premis).
+  2. *Dokumen Hidup Bank Premis (`story/premise-bank.md` & template `engine/templates/premise-bank.md`):* Registry inventaris premis seluruh proyek novel dengan indeks status (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, `DITOLAK / JANGAN DITAWARKAN LAGI`). Memetakan `PRM-001: Narik Ojol Cinta Pun Nongol` sebagai premis aktif.
+  3. *Aturan Mutlak Anti-Penawaran Ulang (Zero Re-pitch Rule):* AI wajib memeriksa `story/premise-bank.md` sebelum memulai sesi brainstorming Mode A. Dilarang keras menawarkan kembali ide/premis yang sudah ditolak atau premis baru yang menggunakan trope yang tercantum dalam *Daftar Hitam Trope*!
+  4. *Tiga Pilar Kemampuan Premis (`engine/02-premise.md`):*
+     - **Pilar 1: Mencari Premis (Brainstorming & Curiosity Hook):** Observasi aktif keseharian urban Indonesia, mesin spekulasi "What If?" 3 tahap, Core Irony & Mental Picture (*Save the Cat!*), 7 Lensa Perubahan SCAMPER, 3 Katalogik Peristiwa Pemicu, dan 6 Mesin Situasi MetroPop Indonesia.
+     - **Pilar 2: Menilai Premis (Evaluasi & Diagnostik Kelayakan):** Uji Kelayakan 5 Slot Wajib, Matriks Diagnostik 5 Parameter Premis (Kausalitas, Conviction, Agency, Stakes, Focus), Elevasi Breakout Level Donald Maass (Gut Appeal, Konvergensi Outer vs Inner Plot, Escalation Stakes 3 Tingkat: Personal, Public, Ultimate), M.I.C.E. Quotient & Kaidah Struktur Bersarang FILO (*First In, Last Out*), serta 5 Pertanyaan Uji Validasi Akhir.
+     - **Pilar 3: Mengembangkan Premis (Formulasi & Penajaman):** Kerangka 3P Brandon Sanderson (*Promise, Progress, Payoff*), Aturan Premis Tunggal (*Single Premise Rule* Lajos Egri), 3 Formula Sintaksis Penulisan Premis (Basic Logline, Character-Driven, 3-Kalimat James Scott Bell), dan Desain Benih Solusi (*Planting Solusi 2 Kali*).
+  5. *Pembaruan Template & Alur:* Memperbarui `engine/templates/premise-options.md` (memuat ID `PRM-XXX`, 3 formula sintaksis, M.I.C.E., 3 tingkat taruhan), `engine/00-workflow.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, dan `.agents/skills/metropop-novel/SKILL.md`.
+- **File:** `panduan-pengembangan-premis-cerita.md`, `story/premise-bank.md`, `story/README.md`, `engine/templates/premise-bank.md`, `engine/templates/premise-options.md`, `engine/02-premise.md`, `engine/00-workflow.md`, `engine/README.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v2.9 — 2026-11-01
 
 - **Perubahan:** Menambahkan **Dokumentasi Transparan Peran Python & Panduan Eksekusi Multi-Platform (Android/Termux, Linux, Windows)**:

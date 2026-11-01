@@ -162,6 +162,7 @@ engine/                # Otak panduan penulisan (workflow, world building, struk
 scripts/               # Wasit mekanis Python (audit-continuity, analyze-prose, combine)
 story/                 # Folder naskah novel (canon, state, outline, ledger, chapters)
 acuan-bahasa.docx      # Acuan utama gaya bahasa, diksi, dan cara bercerita
+panduan-pengembangan-premis-cerita.md # Acuan utama arsitektur premis fiksi (3 pilar, M.I.C.E., 3P Sanderson)
 Kerangka Plot yang Terbukti untuk Web Novel.md # Acuan utama 8 kerangka plot terbukti
 ```
 
@@ -169,7 +170,7 @@ Kerangka Plot yang Terbukti untuk Web Novel.md # Acuan utama 8 kerangka plot ter
 
 ## 6. Mode Kerja Agen
 
-- **Mode A: Ide / Premis Baru** - AI menyusun 3 opsi premis dengan Uji 5 Slot dan Resep 9 Langkah.
+- **Mode A: Ide / Premis Baru** - Konsultasi Bank Premis (`story/premise-bank.md`), anti-penawaran ulang ide ditolak, 3 opsi premis (3 Pilar Premis, M.I.C.E., 3 Tingkat Taruhan, Uji 5 Slot).
 - **Mode B: Project Baru** - Alur A-G lengkap: premis -> canon & world building -> outline -> stress test -> lock -> Bab 1.
 - **Mode C: Lanjutkan Cerita** - Pre-Flight Continuity Gate (5 poin) -> tulis 1 bab (600-900 kata) -> sync state.md + ledger.md -> verifikasi linter.
 - **Mode D: Revisi, Evaluasi, & Remediasi Beruntun** - Standar Audit 5 Tahap & Remediasi Beruntun R1-R5 (`engine/12-audit-remediation.md`) tanpa merusak bab sebelumnya.

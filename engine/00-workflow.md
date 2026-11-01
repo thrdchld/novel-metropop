@@ -1,10 +1,10 @@
-# 00 — Workflow
+# 00: Workflow
 
 ## 0. Tahap Proyek A–G
 
 | Tahap | Isi | Selesai jika |
 |---|---|---|
-| A. Premis | 3 opsi (Resep 9 Langkah & Uji 5 Slot) atau premis dari user + pilih Kerangka Plot (7 Langkah) | User memilih |
+| A. Premis | Bank Premis (`story/premise-bank.md`), 3 opsi (3 Pilar Premis, M.I.C.E., 3 Tingkat Taruhan, Resep 9 Langkah, Uji 5 Slot) atau premis dari user, anti-penawaran ulang premis ditolak | User memilih & dicatat di bank premis |
 | B. Dokumen Dasar | Canon: 5 slot premis, kerangka utama & pendamping, tokoh, dunia, mekanisme, planting solusi (2x), timeline, rahasia/bukti + Penjaga State (`state.md`) | User setuju |
 | C. Outline | Semua bab lengkap (alokasi titik balik, siklus coba-gagal 6 komponen, planting) | Semua kolom terisi |
 | D. Stress test | 10 Uji Logika + 10 Tanda Bahaya + 3 peran + uji silang | Semua lubang tertutup |
@@ -27,20 +27,20 @@ Pakai alat hanya jika lolos Tes Pas:
 
 Jika ragu, jangan masukkan. Cerita solid dan pas lebih penting daripada penuh teknik.
 
-## 0.2 Protokol *Smart-Reading* (Efisiensi Konteks & Anti-Dilusi Fokus AI)
+## 0.2 Protokol Smart-Reading (Efisiensi Konteks & Anti-Dilusi Fokus AI)
 
-Jangan memuat seluruh 12 file di `engine/` sekaligus pada setiap giliran percakapan karena akan menguras jendela konteks dan memecah perhatian AI terhadap detail mikro. Gunakan pemetaan *on-demand* berikut:
+Jangan memuat seluruh file di `engine/` sekaligus pada setiap giliran percakapan karena akan menguras jendela konteks dan memecah perhatian AI terhadap detail mikro. Gunakan pemetaan *on-demand* berikut:
 
 | Mode / Tugas Saat Ini | File yang Wajib Dibaca | File yang JANGAN Dibaca Dulu |
 |---|---|---|
 | **Pembuka Sesi Baru** | `AGENTS.md`, `00-workflow.md`, cek daftar folder di `story/` | Seluruh bab cerita & file detail craft lainnya |
-| **Mode A (Cari Ide / Premis Baru)** | `01-genre.md`, `02-premise.md`, `Kerangka Plot yang Terbukti untuk Web Novel.md` | `06-chapter.md`, `07-continuity.md`, `09-revision.md` |
+| **Mode A (Cari Ide / Premis Baru)** | `story/premise-bank.md`, `01-genre.md`, `02-premise.md`, `panduan-pengembangan-premis-cerita.md`, `Kerangka Plot yang Terbukti untuk Web Novel.md` | `06-chapter.md`, `07-continuity.md`, `09-revision.md` |
 | **Mode B (Project Baru: Canon & Outline)** | `02-premise.md`, `03-structure.md`, `04-character.md`, `07-continuity.md`, `08-quality.md`, `templates/` | `09-revision.md`, `10-evolution.md` |
 | **Mode C (Menulis Bab Baru)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bagian bab terkait), `ledger.md`, 1–2 bab terakhir, `05-style.md`, `06-chapter.md` | `01-genre.md`, `02-premise.md`, `10-evolution.md`, bab-bab lama yang tidak terkait |
 | **Mode D (Revisi Bab / Audit Alur)** | `05-style.md`, `07-continuity.md`, `08-quality.md`, `09-revision.md`, `canon.md`, `state.md`, `ledger.md`, bab yang direvisi | `01-genre.md`, `templates/` |
 | **Mode E (Riset / Evolusi Engine)** | `sources.md`, `10-evolution.md`, `learnings/editor-feedback.md`, `learnings/changelog.md` | File proyek cerita yang tidak sedang diubah |
 
-**Aturan *Active Cache*:** Jangan membaca ulang file yang sudah dibaca di sesi yang sama kecuali file tersebut baru saja diubah.
+**Aturan Active Cache:** Jangan membaca ulang file yang sudah dibaca di sesi yang sama kecuali file tersebut baru saja diubah.
 
 ## 1. Mulai Sesi
 
@@ -58,33 +58,33 @@ Jangan memuat seluruh 12 file di `engine/` sekaligus pada setiap giliran percaka
 Jangan bertanya lebih dari satu pertanyaan pembuka. Jangan menulis prosa sebelum user
 memilih mode.
 
-## 2. Mode A — Ide / Premis Baru
+## 2. Mode A: Ide / Premis Baru (Premise Bank & Lifecycle)
 
-Baca `01-genre.md`, `02-premise.md`, dan `../Kerangka Plot yang Terbukti untuk Web Novel.md`.
-Gunakan **Resep 9 Langkah (arah terbalik dari kelemahan tokoh & kerangka)** dan pastikan
-setiap opsi lolos **Uji Kelayakan 5 Slot**. Beri **3 opsi** dengan format:
+### 2.1 Konsultasi Bank Premis (Wajib Pra-Brainstorming)
+Sebelum mengajukan ide apa pun, AI **WAJIB membaca `story/premise-bank.md`**:
+1. Periksa premis aktif (`DITERIMA / AKTIF`) dan backlog (`CADANGAN / BACKLOG`).
+2. Periksa daftar premis yang ditolak (`DITOLAK / JANGAN DITAWARKAN LAGI`).
+3. **ATURAN MUTLAK:** Dilarang keras menawarkan kembali ide yang sudah ditolak atau premis baru yang memuat pola/trope pada **Daftar Hitam Trope** user!
 
-```markdown
-## Opsi 1 — "Judul"
-- **Logline (1 kalimat):** [Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata].
-- **Kerangka Plot:** Kerangka Utama + Pendamping (beserta alasan singkat 1 kalimat).
-- **Tema & Pertanyaan Dramatik:** ...
-- **Tokoh Inti (3):** nama, usia, pekerjaan, kelemahan khas (mesin plot).
-- **Uji 5 Slot Kelayakan:**
-  1. *Keinginan vs Kebutuhan:* ...
-  2. *Masalah & Tenggat Luar:* ...
-  3. *Konsekuensi Nyata:* ...
-  4. *3 Jalan Mudah yang Ditutup:* ...
-  5. *Perubahan Akhir & Harganya:* ...
-- **Benih Solusi (Planting):** apa yang ditanam sejak awal untuk solusi akhir.
-- **Sumber Humor/Awkward:** 3 contoh adegan konkret.
-```
+### 2.2 Formulasi 3 Opsi Premis
+Gunakan **3 Pilar Arsitektur Premis** (`engine/02-premise.md` dan `panduan-pengembangan-premis-cerita.md`) serta **8 Kerangka Plot Terbukti**. Setiap opsi diberi ID unik lanjutan (`PRM-XXX`) dan memuat:
+- Formula Sintaksis (Basic, Character-Driven, 3-Kalimat Bell)
+- M.I.C.E. Dominan & Kerangka Plot Utama + Pendamping
+- 3 Tingkat Taruhan (Personal, Public, Ultimate Stakes)
+- Uji Kelayakan 5 Slot (Keinginan/Kebutuhan, Masalah/Tenggat, Konsekuensi, 3 Jalan Tertutup, Perubahan/Harga)
+- Planting Solusi 2 Kali & Sumber Humor Konkret
+- Novelty (Pembeda konkret dari premis di bank)
 
-Jangan menulis bab. Tunggu user memilih, meminta variasi, atau memberi premis sendiri.
-Jika user memberi premis sendiri, **jangan mengubah keputusan user**; lengkapi slot yang
-kosong dan perbaiki logikanya.
+Gunakan template format dari `engine/templates/premise-options.md`.
 
-## 3. Mode B — Project Baru
+### 2.3 Pencatatan dan Siklus Hidup Premis
+Jangan menulis bab. Tunggu keputusan user:
+- Opsi terpilih: Catat di `story/premise-bank.md` sebagai `DITERIMA / AKTIF` dan lanjutkan ke Mode B.
+- Opsi simpanan yang disukai user: Catat sebagai `CADANGAN / BACKLOG`.
+- Opsi yang ditolak user: Catat sebagai `DITOLAK / JANGAN DITAWARKAN LAGI`, dokumentasikan alasan penolakan user, dan masukkan trope terlarang ke Daftar Hitam Trope agar tidak pernah diulang.
+- Jika user memberi premis sendiri: **Jangan mengubah keputusan user**; lengkapi 4 elemen pokok dan 5 slot kelayakan, uji dengan Matriks Diagnostik 5 Parameter, dan catat ke `story/premise-bank.md`.
+
+## 3. Mode B: Project Baru
 
 ### 3.1 Klarifikasi & Penentuan Kerangka (7 Langkah)
 

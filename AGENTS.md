@@ -13,9 +13,10 @@ bawah. Jangan mulai menulis prosa sebelum user memilih mode dan menyetujui renca
 2. `engine/README.md` — peta paket.
 3. `engine/00-workflow.md` — alur kerja dan pertanyaan sesi.
 4. `acuan-bahasa.docx` — **acuan utama cara penulisan, gaya bahasa, diksi, dan gaya bercerita**.
-5. `Kerangka Plot yang Terbukti untuk Web Novel.md` — **acuan utama 8 kerangka plot terbukti, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita**.
-6. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
-7. Periksa isi `story/`. Jika ada cerita, baca `canon.md`, `state.md`, `outline.md`, `ledger.md`,
+5. `panduan-pengembangan-premis-cerita.md` — **acuan utama arsitektur premis fiksi (3 pilar: mencari, menilai, mengembangkan premis, M.I.C.E., 3P Sanderson, dan formula sintaksis)**.
+6. `Kerangka Plot yang Terbukti untuk Web Novel.md` — **acuan utama 8 kerangka plot terbukti, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita**.
+7. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
+8. Periksa isi `story/`. Baca `premise-bank.md`. Jika ada cerita, baca `canon.md`, `state.md`, `outline.md`, `ledger.md`,
    dan bab terakhir yang sudah ditulis.
 
 Folder `engine/` adalah paket markdown. Tidak ada kode yang perlu dijalankan; baca
@@ -72,20 +73,26 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 
 ## 3. Mode Kerja
 
-### A. Ide / Premis Baru
+### A. Ide / Premis Baru (Premise Bank & Lifecycle)
 
-- Baca `engine/01-genre.md`, `engine/02-premise.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
-- Gunakan **Resep 9 Langkah (arah terbalik dari kelemahan tokoh & kerangka)** dan **Uji Kelayakan 5 Slot**.
-- Beri **3 opsi**. Setiap opsi berisi:
-  - judul novel;
-  - logline satu kalimat (`[Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata]`);
-  - kerangka plot utama + pendamping (dari 8 kerangka terbukti);
-  - tema dan pertanyaan dramatik;
-  - tokoh inti singkat (protagonis dengan kelemahan khas sebagai mesin plot, love interest/sekutu, antagonis/penekan);
-  - uji 5 slot kelayakan (keinginan vs kebutuhan, masalah & tenggat luar, konsekuensi nyata terukur, 3 jalan mudah tertutup, perubahan & harga akhir);
-  - benih solusi (*planting* 2 kali) dan sumber humor konkret.
-- Jangan menulis bab. Tunggu user memilih atau meminta variasi.
-- Jika user memberi premis sendiri, jangan mengubah keputusan user; lengkapi slot yang kosong dan perbaiki logikanya.
+- **Wajib Baca Bank Premis Dulu:** Baca `story/premise-bank.md`, `engine/01-genre.md`, `engine/02-premise.md`, `panduan-pengembangan-premis-cerita.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
+- **Aturan Mutlak Anti-Penawaran Ulang:** Periksa premis aktif, backlog, dan premis yang ditolak. DILARANG KERAS menawarkan kembali premis yang sudah ditolak atau premis baru yang memuat pola/trope yang tercantum dalam *Daftar Hitam Trope*!
+- Gunakan **3 Pilar Arsitektur Premis** (Mencari lewat observasi/SCAMPER/What-If, Menilai lewat Uji 5 Slot & Matriks Diagnostik 5 Parameter, Mengembangkan lewat 3P Sanderson & 3 Formula Sintaksis).
+- Beri **3 opsi** dengan ID urut (`PRM-XXX`) sesuai format `engine/templates/premise-options.md`:
+  - formula sintaksis (Basic, Character-Driven, 3-Kalimat Bell);
+  - M.I.C.E. dominan & kerangka plot utama + pendamping (dari 8 kerangka terbukti);
+  - tokoh inti singkat dengan kelemahan aktif (*flaw* sebagai mesin plot);
+  - konvergensi outer vs inner plot;
+  - 3 tingkat taruhan (Personal, Public, Ultimate Stakes);
+  - uji 5 slot kelayakan lengkap;
+  - benih solusi (*planting* 2 kali) dan sumber humor konkret;
+  - novelty pembeda konkret dari premis di bank.
+- Jangan menulis bab. Tunggu keputusan user.
+- Setelah user merespons:
+  - Opsi terpilih diperbarui statusnya menjadi `DITERIMA / AKTIF` di `story/premise-bank.md`.
+  - Opsi simpanan disukai dicatat sebagai `CADANGAN / BACKLOG`.
+  - Opsi yang ditolak dicatat sebagai `DITOLAK / JANGAN DITAWARKAN LAGI` beserta kutipan kritik user dan isolasi trope ke Daftar Hitam Trope.
+- Jika user memberi premis sendiri, jangan mengubah keputusan user; lengkapi slot yang kosong, uji dengan Matriks Diagnostik 5 Parameter, dan daftarkan ke bank premis.
 
 ### B. Project Baru
 
