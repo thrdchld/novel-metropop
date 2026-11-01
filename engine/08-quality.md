@@ -46,6 +46,46 @@ Gunakan 10 uji ini untuk menilai premis, outline, maupun naskah novel yang sedan
 
 ---
 
+## 2B. Tujuh Uji Logika Mikro & Prosedur Dunia Nyata (Anti-Cacat Logika Fiksi)
+
+Cacat logika mikro (prosedur dunia nyata yang salah, urutan dialog yang tumpang tindih, atau tindakan fisik yang mustahil) adalah ciri paling fatal dari *AI slop* yang membuat pembaca langsung berhenti membaca. **Setiap bab wajib lulus 7 uji logika mikro ini sebelum dikirim:**
+
+1. **Uji Sebab-Akibat & Anti-Redundansi Percakapan:**
+   - **Cacat yang dilarang:** Tokoh A sudah menawarkan *X* (misal: *"Saya kasih uang muka 500 ribu tunai sekarang"*), lalu dua kalimat kemudian Tokoh B menuntut *X* seolah Tokoh A belum menawarkannya (*"Syarat ketiga, uang 500 ribu harus dibayar sekarang"*).
+   - **Aturan wajib:** Setiap kalimat dialog wajib merespons status informasi terakhir. Jika A menawarkan nominal/syarat, B hanya boleh **menawar lebih tinggi, memperjelas pelunasannya, atau mengajukan syarat baru yang belum disebut A**. Bedakan secara tegas istilah **uang muka (DP)** dan **bayaran lunas (impas)**.
+2. **Uji Prosedur & Mekanisme Dunia Nyata Indonesia:**
+   - **Cacat yang dilarang:** Mengarang cara kerja alat/prosedur umum yang bertentangan dengan dunia nyata (misal: men-*scan* kartu parkir saat motor *ditinggal parkir*, padahal palang parkir hanya di-*tap* saat masuk atau keluar; atau tim IT perusahaan swasta meretas mutasi rekening bank pribadi orang lain tanpa surat polisi/pengadilan).
+   - **Aturan wajib:** Semua prosedur sehari-hari (parkir gedung/ojol, penitipan motor ke satpam dengan uang tip, *m-banking*, aturan kerahasiaan bank, hukum/kepolisian) **wajib bekerja persis seperti di dunia nyata Indonesia**.
+3. **Uji Konsistensi Hitungan Uang & Ekonomi:**
+   - **Cacat yang dilarang:** Uang yang disebut "DP" di bab awal tiba-tiba dianggap "lunas" di bab berikutnya tanpa pembayaran sisa; atau uang yang katanya sudah dipakai membayar utang mendadak dikembalikan utuh tanpa penjelasan.
+   - **Aturan wajib:** Setiap rupiah yang berpindah tangan harus konsisten secara matematis dari bab ke bab (berapa totalnya, berapa DP-nya, berapa sisanya, berapa yang sudah terpakai untuk bayar utang, dan berapa sisa saldo yang bisa dikembalikan).
+4. **Uji Fisik, Ukuran Dimensi, Wadah, & Benda Bawaan (*Object Permanence & Physical Scale*):**
+   - **Cacat yang dilarang:**
+     1. Tokoh makan makanan berkuah di meja makan sambil tetap memakai masker tanpa melepasnya; membawa puluhan kotak katering dan troli lipat sambil naik motor matik; atau menyembunyikan wajah dengan masker dari orang yang sudah pernah melihat wajah aslinya tanpa masker di bab sebelumnya.
+     2. **Cacat ukuran & wadah benda:** Kertas ukuran besar (A4 seperti ijazah/dokumen kontrak) tidak sengaja terbawa di dalam map yang katanya hanya berisi KTP kecil (pasti langsung terlihat/terasa bedanya); atau memasukkan dua kotak kue dan map A4 ke dalam tas selempang kecil; atau menjejalkan tumpukan robekan kertas kontrak tebal ke dalam saku kemeja; atau gelang yang dilepas langsung dari tangan tiba-tiba punya "kotak beludru" tanpa dijelaskan kapan kotaknya dibeli.
+   - **Aturan wajib:** Pastikan **ukuran fisik benda sebanding dengan wadahnya** (misal: fotokopi ijazah A4 bisa tidak sengaja terselip karena tercampur dengan kertas katalog harga ukuran A4 saat terburu-buru; kotak kue dan map A4 dibawa memakai *tas jinjing/tote bag*; makanan berkuah dibungkus di *rantang susun*).
+5. **Uji Jalur Informasi & Jejak Bukti (*Information Trail*):**
+   - **Cacat yang dilarang:** Tokoh tiba-tiba mengirim chat WhatsApp ke nomor tokoh lain tanpa dijelaskan dari mana ia mendapat nomor itu; atau bukti transfer bank pribadi musuh didapat dari "retasan tim IT kantor".
+   - **Aturan wajib:** Tulis secara eksplisit jalur masuknya informasi (misal: nomor WA didapat dari spanduk pemesanan warung kue di depan rumah; bukti transfer didapat karena pemilik agensi/vendor yang ketakutan dilaporkan ke polisi menyerahkan sendiri bukti transfer pemesanannya).
+6. **Uji Logika Motivasi Kehadiran Tokoh:**
+   - **Cacat yang dilarang:** Antagonis datang ke acara protagonis hanya untuk dipermalukan tanpa alasan logis mengapa ia mau datang ke sana.
+   - **Aturan wajib:** Beri umpan atau ekspektasi yang salah namun logis (misal: antagonis datang karena mengira protagonis akan dipecat/diputuskan di depan umum).
+7. **Uji Realitas Lokal & Iklim Indonesia:**
+   - **Cacat yang dilarang:** Menyalin detail budaya/iklim negara empat musim atau Barat (misal: menyalakan *penghangat kabin/heater* mobil saat hujan di Jakarta, menulis *cek pribadi* untuk nominal kecil/menengah oleh anak muda, atau menyebut *sepeda kargo*).
+   - **Aturan wajib:** Gunakan realitas Indonesia (mengecilkan AC mobil saat hujan, bukti transfer *m-banking*, *sepeda ontel/gerobak barang*).
+8. **Uji Asimetri Pengetahuan Tokoh ("Kok Dia Tahu Info Itu?" / Anti-Telepati Data Mikro):**
+   - **Cacat yang dilarang:**
+     1. Seorang tokoh tiba-tiba mengetahui fakta spesifik yang sebelumnya **hanya ada di monolog batin narator (POV 1)** atau hanya ada di tabel *Character Sheet* (misal: Rian tiba-tiba memuji Ayu sebagai *"lulusan terbaik Fakultas Ekonomi dan Bisnis"* padahal Ayu baru membatin soal ijazah *cumlaude* di Bab 1 dan belum pernah menyebutkannya ke Rian; atau Ayu tiba-tiba tahu nama belakang *"Vina Rosalinda"* di Bab 5 padahal sebelumnya hanya disebut *"Vina"*).
+     2. **Telepati data mikro fisik:** Tokoh melafalkan atau mengetahui nomor pelat kendaraan (misal: Rian menyebut *"motor Beat pelat B 4892 TBT"* di Bab 2 padahal ia belum pernah menunduk membaca pelatnya dan Ayu tidak pernah menyebutnya), nomor ponsel, alamat rumah, atau kode tagihan tanpa melalui salah satu dari **3 saluran fisik sah** (visual langsung, auditori di dialog, atau membaca dokumen/layar).
+   - **Aturan wajib:** Tokoh A hanya boleh mengetahui fakta tentang Tokoh B jika sudah ada adegan eksplisit di mana fakta itu dilihat langsung dengan mata kepala sendiri, diucapkan lawan bicara di dialog, atau dibaca dari berkas dokumen fisik/layar ponsel. Semua data mikro yang diperoleh tokoh per bab wajib tercatat di bagian VI `state.md`.
+9. **Uji Anti-Retroactive Planting & Kronologi Bukti (*Anti-Mention Tanpa Adegan Sebelumnya*):**
+   - **Cacat yang dilarang:**
+     1. Tokoh mengklaim *"Aku pernah lihat berkas itu waktu kamu tunjukin hari Selasa kemarin!"* padahal di bab hari Selasa yang sudah ditulis **sama sekali tidak ada adegan** menunjukkan berkas tersebut.
+     2. Detektif bayaran yang baru disewa di Bab 10 tiba-tiba memiliki foto kejadian dari Bab 1–3 (sebelum detektif itu disewa dan sebelum antagonis curiga).
+   - **Aturan wajib:** Setiap petunjuk yang dirujuk kembali di klimaks **wajib benar-benar tertulis adegannya** di bab awal (bukan cuma diklaim secara retroaktif lewat dialog), dan setiap foto/bukti intaian hanya boleh merekam kejadian **setelah** penguntit mulai bekerja (atau diambil dari dokumentasi acara publik).
+
+---
+
 ## 3. Sepuluh Tanda Bahaya (*Red Flags*) dalam Menilai Alur Cerita
 
 Saat mengaudit outline atau membedah naskah novel yang bermasalah, periksa 10 tanda bahaya ini dan terapkan perbaikannya:
@@ -77,12 +117,28 @@ Sebelum mengunci outline (**TERKUNCI v1.0**):
    - *Protagonis yang berpikir logis* (mencari jalan keluar termudah tanpa drama).
 5. Presentasikan lubang yang ditemukan beserta cara menutupnya kepada user.
 
+### Simulasi Pengalaman Baca (*Persona-Bound Reader-Sim*) & Simulasi Tokoh (*Character-Sim*)
+
+Selain audit teknis, gunakan dua simulasi ini saat mengevaluasi bab krusial atau ketika adegan terasa datar:
+
+1. **Simulasi Pembaca Pertama Kali (*Reader-Sim MetroPop*):**
+   - Baca bab dari kacamata persona spesifik: **"Pembaca web novel Indonesia usia 18–30 tahun yang membaca di layar HP saat istirahat kerja atau di dalam KRL, dan belum tahu isi `outline.md`."**
+   - Laporkan pengalaman baca (*felt experience*) pada 5 jalur kepuasan pembaca:
+     - *Transportation:* Di kalimat mana dunia cerita terasa hidup, dan di kalimat mana pembaca tiba-tiba terlempar keluar karena detail janggal atau rasa "tulisan AI"?
+     - *Social Simulation:* Apakah pembaca bisa menebak gengsi/perasaan tersembunyi tokoh tanpa dijelaskan narator?
+     - *Curiosity / Prediction:* Pertanyaan apa yang dipegang pembaca di tengah bab? Apakah dijawab terlalu cepat sehingga sisa bab kehilangan daya tarik?
+     - *Flow:* Di paragraf mana mata pembaca mulai bosan dan ingin *scroll* cepat (*attention thinning*)?
+     - *Voice Pleasure:* Bagian mana yang sukses membuat pembaca tersenyum sendiri atau merasa *"Ini gue banget"*?
+2. **Simulasi Interogasi/Obrolan Tokoh (*Character-Sim*):**
+   - Saat merancang dialog konfrontasi atau adegan canggung yang sulit, uji dengan berbicara sebagai tokoh tersebut (**hanya menggunakan informasi yang sudah diketahui tokoh itu pada bab tersebut**).
+   - Biarkan tokoh bereaksi seperti manusia asli saat tertekan: mengelak (*deflect*), menyangkal, salah fokus, atau menjawab ketus, bukan berbicara rapi seperti narator.
+
 ---
 
 ## 5. Cek Sebelum Kirim & Format Pengiriman Bab
 
 ### Checklist Sebelum Kirim Bab
-- Panjang bab **600–900 kata** (target ±750 kata).
+- Panjang bab standar **600–900 kata** (target ±750 kata; boleh dilonggarkan hingga **maksimal 1.200 kata hanya jika benar-benar urgent** agar tidak memotong kejadian/logika penting).
 - **Tanpa em dash (`—`)** dan **tanpa quote/epigraph di atas bab**.
 - Semua beat outline muncul di teks dan setup/planting benar-benar tertulis.
 - Jalan keluar paling mudah di bab tersebut sudah ditutup secara eksplisit.

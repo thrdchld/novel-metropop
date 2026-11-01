@@ -3,6 +3,125 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v2.7 — 2026-11-01
+
+- **Perubahan:** Menetapkan **Standar Audit 5 Tahap & Alur Remediasi Beruntun (*Cascading Remediation*) Anti-Regresi** per judul novel MetroPop:
+  1. **Dokumen Panduan Master Baru (`engine/12-audit-remediation.md`):** Mengkodifikasi hierarki Piramida Ketergantungan Struktur (Tingkat 1 Canon/World Building -> Tingkat 2 Outline/Plot Makro -> Tingkat 3 Kontinuitas/State Machine -> Tingkat 4 Desain Adegan Bab -> Tingkat 5 Prosa/Dialog/Diksi) dan menetapkan *The Downward Cascade Law*.
+  2. **Prosedur Audit 5 Tahap Berurutan (Top-Down):** Memeriksa secara berurutan dari Fondasi Canon -> Arsitektur Outline -> Integritas Kontinuitas -> Anatomi Adegan Bab -> Prosa/Dialog, yang menghasilkan Matriks Diagnostik Cacat (*The Defect Matrix* berlabel Critical, Major, Minor).
+  3. **Prosedur Remediasi Beruntun R1–R5 (Top-Down Cascading):** Memperbaiki cacat dari tingkat tertinggi yang rusak: R1 (Kunci Canon) -> R2 (Sinkronkan Outline) -> R3 (Kunci State Machine & Isolasi Jangkauan Bab Terdampak) -> R4 (Eksekusi Revisi Lokal Rasio 74/18/8 dan 4-Pass Revision) -> R5 (Verifikasi Otomatis Tanpa Regresi via `audit-continuity.py`, `analyze-prose.py`, dan *Boundary Seam Test*).
+  4. **Template Laporan Audit Baru (`engine/templates/audit-remediation-report.md`):** Standar laporan audit dan remediasi per judul novel.
+  5. **Pembaruan Dokumen Engine & Protokol:** Mendaftarkan file pemilik `12-audit-remediation.md` ke `engine/README.md`, `engine/00-workflow.md`, `engine/09-revision.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, dan `.agents/skills/metropop-novel/SKILL.md`.
+- **File:** `engine/12-audit-remediation.md`, `engine/templates/audit-remediation-report.md`, `engine/09-revision.md`, `engine/00-workflow.md`, `engine/README.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v2.6 — 2026-10-31
+
+- **Perubahan:** Menetapkan **Sistem World Building Berjangkar Realitas (*Grounded Urban World Building*)** untuk novel MetroPop Indonesia:
+  1. **Dokumen Panduan Master Baru (`engine/11-worldbuilding.md`):** Mengkodifikasi 5 pilar world building:
+     - *Pilar 1: Latar Spasial (Negara & Kota):* Default negara Indonesia, karakteristik kota (Jabodetabek vs Kota Lapis Kedua vs Kota Pendidikan), peta zonasi (Kutub Elit/SCBD vs Pemukiman Pekerja/Gang), serta hukum jarak tempuh, waktu, jam sibuk (07.00-09.30 & 16.30-19.30), dan moda transportasi riil (KRL, TransJakarta, ojol, SOP parkir gedung).
+     - *Pilar 2: Latar Temporal (Tahun Kejadian & Era Teknologi):* Penetapan tahun spesifik (2025/2026), kanal komunikasi sah (WhatsApp grup kantor/keluarga, TikTok/IG reels/DM, QRIS, m-banking; dilarang anachronism seperti SMS jadul atau cek kertas), dan patokan daya beli riil ekonomi mikro (UMR, sewa kos, makan harian, skala utang realistis puluhan juta).
+     - *Pilar 3: Sistem Hukum & Regulasi Positif Indonesia:* Prosedur Laporan Polisi (LP) resmi tanpa penangkapan ajaib, UU ITE (pencemaran nama baik & doxxing), perlindungan rahasia bank mutlak (anti-retasan mutasi rekening ajaib oleh tim IT kantor), serta regulasi perburuhan dan larangan *conflict of interest* tender vendor.
+     - *Pilar 4: Norma Sosial & Budaya Urban:* Tekanan keluarga besar (pertanyaan jodoh usia 25+), rasa sungkan (*ewuh pakewuh* / *passive-aggressive*), dan solidaritas komunitas bawah (pangkalan ojol, tetangga gang).
+     - *Pilar 5: Aturan Khusus Premis (6 Klausul Wajib):* Klausul hak & imbalan, kewajiban peran, batasan/larangan (no baper, no sentuh), penalti jika bocor, objek bukti fisik penyimpan aturan, dan tenggat kedaluwarsa.
+     - *7 Uji Ketahanan Dunia Cerita (Audit World Building).*
+  2. **Pembaruan Template Canon (`engine/templates/canon.md`):** Menambahkan sub-bab khusus World Building & Aturan Dunia Cerita terstruktur (Spasial, Temporal, Hukum, Sosial, dan Aturan Premis).
+  3. **Pembaruan Dokumen Engine & Protokol:** Mendaftarkan file pemilik `11-worldbuilding.md` ke `engine/README.md`, `engine/00-workflow.md`, `engine/01-genre.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, dan `.agents/skills/metropop-novel/SKILL.md`.
+- **File:** `engine/11-worldbuilding.md`, `engine/templates/canon.md`, `engine/README.md`, `engine/00-workflow.md`, `engine/01-genre.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v2.5 — 2026-10-29
+
+- **Perubahan:** Menetapkan **Standarisasi Dua Tipe Pembuka *In Medias Res*** untuk meningkatkan daya saing retensi web novel MetroPop di bab-bab awal:
+  1. **Tipe 1: *Direct Action In Medias Res* (Pembuka Aksi Langsung Kronologis):** Cerita dibuka langsung di detik terjadinya insiden pemicu / masalah mendadak pada Waktu 0; alur melaju maju linier dari Bab 1 ke depan tanpa kilas balik besar. Cocok untuk ritme komedi situasi alami dan cerita eskalasi linier (*Fichtean Curve*).
+  2. **Tipe 2: *Flash-Forward Hook Framing / Proleptic In Medias Res* (Pembuka Puncak Krisis di Depan):**
+     - **Bab 1 & 2:** Menculik adegan krisis puncak atau anomali dramatik ekstrem dari pertengahan cerita (Midpoint 50% atau Titik Terendah 75%) untuk dipasang di Bab 1–2, menciptakan jurang keingintahuan raksasa (*The Mega Curiosity Gap*).
+     - **Bab 3 (Hukum Anti-Mendem):** Melompat mundur (*rewind*) dengan penanda waktu jelas, tetapi **DILARANG KERAS** dibuka dengan eksposisi lambat atau bangun tidur; **WAJIB DIBUKA DENGAN *DIRECT ACTION IN MEDIAS RES* (TIPE 1)** pada garis waktu lampau.
+     - **Kaidah Penutupan Lingkaran (*The Loop Closure Law*):** Alur lampau menyatu kembali dengan adegan pembuka di bab tengah yang sudah dijadwalkan di outline, ditulis ulang dengan seluruh subteks, motif, dan bobot emosional utuh (*The Revisit Rule*).
+  3. **Pembaruan Dokumen Engine & Template:** Mengintegrasikan pemilihan Tipe 1 vs Tipe 2 pada dokumen panduan bab, struktur, workflow, template outline, protokol agen, dan skill.
+- **File:** `engine/06-chapter.md`, `engine/03-structure.md`, `engine/00-workflow.md`, `engine/templates/outline.md`, `AGENTS.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `GEMINI_SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v2.4 — 2026-10-27
+
+- **Perubahan:** Menetapkan **Hukum Pemerolehan Fakta Fisik & Anti-Telepati Data Mikro (*The Physical Fact Acquisition Law*)** setelah user menemukan Rian secara ajaib mengetahui nomor pelat motor Ayu (`B 4892 TBT`) di Bab 2 padahal Ayu belum pernah memberi tahu dan Rian tidak pernah melihat pelatnya:
+  1. **Aturan 3 Saluran Sah Pemerolehan Fakta:** Tokoh dilarang keras melafalkan atau mengetahui string data mikro (nomor pelat kendaraan, nama lengkap orang asing, gelar/IPK, nomor telepon/rekening, kode tagihan, alamat rumah) jika belum ada adegan fisik pemerolehan melalui salah satu dari 3 saluran sah: (1) Visual langsung dengan mata kepala sendiri, (2) Auditori nyata di dialog adegan, (3) Dokumen fisik / layar perangkat.
+  2. **Log Pemerolehan Fakta per Bab di `state.md` (Komponen VI):** Menambahkan tabel rekam jejak fakta baru yang didapat tiap tokoh per bab, saluran fisiknya, dan daftar data mikro yang secara tegas *BELUM BOLEH DIKETAHUI (Strictly Unknown Data)*.
+  3. **Perbaikan Bab 2:** Rian tidak menyebut pelat `B 4892 TBT`; Satpam Pak Darto yang melangkah ke motor, menunduk membaca pelat di bodi motor, mencatat di buku mutasi pos VIP, dan memegang kunci motor dari Ayu. Rian baru menanyakan nama asli Ayu di depan pintu SUV.
+  4. **Pembaruan Skrip Linter (`scripts/audit-continuity.py`):** Menambahkan asersi otomatis untuk mendeteksi telepatis data mikro pada dialog tokoh.
+- **File:** `engine/07-continuity.md`, `engine/08-quality.md`, `engine/templates/state.md`, `story/Narik Ojol Cinta Pun Nongol/state.md`, `story/Narik Ojol Cinta Pun Nongol/ledger.md`, `story/Narik Ojol Cinta Pun Nongol/chapters/bab-02.md`, `story/Narik Ojol Cinta Pun Nongol/manuscript.md`, `scripts/audit-continuity.py`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v2.3 — 2026-10-27
+
+- **Perubahan:** Membangun **Sistem Penjaga Kontinuitas Berlapis (*The 4-Layer Continuity Guardian System*)** dan **File Penjaga Kondisi Aktif per Cerita (`state.md`)** untuk mengeliminasi amnesia AI pada alur, objek, hubungan, orang, dan waktu secara permanen:
+  1. **Tiga Dokumen Pilar Kebenaran (`canon.md`, `state.md`, `ledger.md`):** `canon.md` sebagai bible rencana, `state.md` sebagai potret instan garis depan penulisan (*live state machine*), dan `ledger.md` sebagai arsip kumulatif kronologis.
+  2. **File Template & Standar `state.md` (`engine/templates/state.md` & `story/<Judul>/state.md`):** Memuat 7 instrumen pengunci:
+     - I. Status Garis Depan Penulisan (bab, hari/jam persis, cuaca, POV, emosi aktif).
+     - II. Jangkar Waktu Relatif Mutlak (tabel H, H-1, H-2, hingga kejadian lampau berjangkar hari nyata).
+     - III. Register Status Hubungan & Diksi Terlarang (label sah vs diksi yang dilarang keras, misal larangan kata "calon istri" sebelum lamaran resmi).
+     - IV. Inventaris Benda Fisik Krusial (pelacak keberadaan & pemegang fisik gelang emas, motor Beat `B 4892 TBT`, uang, surat kontrak).
+     - V. Kunci Ambang Batas Kejadian Pertama (*Milestone Lock* — mencegah pengulangan adegan "pertama kali" seperti pertama bertemu orang tua/Ibu atau pertama lepas masker).
+     - VI. Matriks Asimetri Rahasia & Pengetahuan (*Knowledge Asymmetry* — mencegah telepati narator).
+     - VII. Benang Terbuka & Janji Tertunda.
+  3. **Gerbang Pra-Tulis Kontinuitas (*Pre-Flight Continuity Gate* 5 Poin):** Kewajiban menampilkan verifikasi 5 poin sebelum menulis bab; dilarang keras menulis prosa bab jika blok ini belum ada.
+  4. **Pembaruan Skrip Audit Mekanis (`scripts/audit-continuity.py`):** Memvalidasi keberadaan 3 file pilar, klaim waktu relatif, status hubungan per bab, perkenalan ganda, angka uang, dan *assertion check* ambang batas kejadian pertama.
+- **File:** `engine/07-continuity.md`, `engine/00-workflow.md`, `engine/templates/state.md`, `story/Narik Ojol Cinta Pun Nongol/state.md`, `scripts/audit-continuity.py`, `AGENTS.md`, `GEMINI.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `GEMINI_SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v2.2 — 2026-10-27
+
+- **Perubahan:** Menambahkan **Audit Silang Antarbab** setelah user menemukan Bab 1 "pacar" tetapi Bab 2 "calon istri". Penyebab: stress test sebelumnya hanya mengukur metrik per bab (kata, em dash, posisi dialog, kalimat seragam) dan tidak pernah membandingkan klaim fakta antarbab; penyisipan 6 bab baru juga tidak diikuti audit silang pada bab di sekitarnya.
+  1. `scripts/audit-continuity.py`: mencetak label status hubungan, klaim waktu relatif, perkenalan tokoh ganda, dan nominal uang per bab untuk dicocokkan dengan `ledger.md`.
+  2. `07-continuity.md`: 7 aturan Audit Silang Antarbab (status hubungan, waktu relatif, perkenalan tokoh, tahu-nama, adegan pertama kali, jam lintas bab, audit ulang setelah menyisipkan bab).
+  3. `09-revision.md`: Lapis 2 ditambah langkah audit silang; Daftar Kritik Editor ditambah butir kebocoran kontinuitas lintas bab.
+- **File:** `engine/07-continuity.md`, `engine/09-revision.md`, `scripts/audit-continuity.py`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`, `story/Narik Ojol Cinta Pun Nongol/` (Bab 2, 7, 10, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22, 23, 24, ledger.md).
+
+## v2.1 — 2026-10-27
+
+- **Perubahan:** Mengadaptasi temuan riset korpus akademik dari `Nanako0129/sepia` (*StoryScope*, *LAMP Corpus CHI 2025*, *Reinhart et al. PNAS 2025*) yang dilokalkan ke dalam ekosistem Web Novel MetroPop Indonesia:
+  1. **Memecahkan Dogma *Over-Embodied* (81% AI vs 38% Manusia), Jatah Penciuman, & Pijakan Ruang Aksi (`05-style.md`):** Menggabungkan 3 mode emosi manusia (tindakan pada objek + penyebutan perasaan jujur *plain naming* 29% manusia seperti *"Jujur, aku takut banget"* + sensasi anatomi tubuh maksimal 1–2 puncak per bab), membatasi deskripsi bau maksimal 1–2 kali per bab, dan membuka adegan di *Action Space* (ruang kerja/gerak) alih-alih *Perceived Space*.
+  2. **Lima Pola Sintaksis AI yang Diburu & Pengembalian Register Manusia (`05-style.md`):** Menghapus klausa pembuka/penutup *"Sambil..., aku..."* / *"..., membuat..."*, kata benda pembungkus abstrak, nominalisasi subjek, abstrak kembar, dan kata filter persepsi; mengembalikan kata hubung kausal lisan (`soalnya, gara-gara, masalahnya, makanya, habisnya, lagian`), kalimat sanggahan alami, dan melarang rotasi tag buku pelajaran (`ujarnya/tuturnya/timpalnya/tukasnya`).
+  3. **Empat Pola Posisi Kalimat di Halaman (*Discourse Position Tells*) & *QUD Check* (`05-style.md`):** Mengatur variasi letak dialog agar tidak selalu menutup paragraf, panjang paragraf tidak rata (*ragged*), menghindari *Rule of Three*, memecah deretan $\ge 3$ kalimat berurutan yang panjangnya seragam, serta mewajibkan minimal 1 paragraf perbandingan/kontradiksi ekspektasi vs realitas per bab.
+  4. **Pengenalan Tokoh Lewat Dialog (*In-Dialogue Introduction*), Uji Gema (*The Echo Test*), & Rem Sidik Jari Model AI (`04-character.md` & `06-chapter.md`):** Memperkenalkan tokoh baru langsung lewat dialog/aksi aktif (penanda manusia #1) dan memasang tabel rem khusus kebiasaan model **Gemini**, **Claude**, dan **GPT**.
+  5. **Rasio Edit Profesional 74/18/8 + *Deletion Test* & *Reversion Test* (`09-revision.md` & `scripts/analyze-prose.py`):** Mencegah *lexical dilution* saat revisi dan memperbarui `scripts/analyze-prose.py` ke v2.1 untuk mendeteksi persentase dialog di akhir paragraf, deretan kalimat panjang seragam, sensasi tubuh, bau, dan pola sintaksis AI.
+- **File:** `engine/04-character.md`, `engine/05-style.md`, `engine/06-chapter.md`, `engine/09-revision.md`, `scripts/analyze-prose.py`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v2.0 — 2026-10-27
+
+- **Perubahan:** Mengadaptasi fitur-fitur unggulan dari `haowjy/creative-writing-skills` yang dilokalkan ke dalam ekosistem Web Novel MetroPop Indonesia:
+  1. **Lima Penyakit Insting Bawaan AI (*LLM Instinct Failure Modes*) & Prinsip Ekonomi Dua Fungsi (`05-style.md`):** Mematikan insting AI yang meredakan ketegangan terlalu cepat (*positive sentiment skew*), membuat monolog batin rapi seperti esai (*shallow interiority*), memberi kesimpulan moral di akhir adegan (*tidy-summary endings*), menyeragamkan kefasihan bicara semua tokoh, meluberkan cakupan adegan (*over-elaborating scope*), dan mengulang gerakan tubuh klise (*stock-tells trap*). Mengatur kontrol **Jarak Batin (*Psychic Distance*)** serta mewajibkan setiap elemen menjalankan minimal 2 fungsi.
+  2. **Lima Jalur Kepuasan Pembaca (*5 Reader Reward Channels*) & Aturan Khusus Romansa (`01-genre.md`):** Mengunci perlindungan atas *Transportation, Social Simulation, Curiosity/Prediction, Flow,* dan *Voice Pleasure*, serta melarang klaim *chemistry* abstrak (*Don't Announce Chemistry*) dan mewajibkan *Romance Micro-Shifts* di tiap bab.
+  3. **Simulasi Pembaca Pertama Kali (*Persona-Bound Reader-Sim MetroPop*) & Simulasi Tokoh (*Character-Sim*) (`08-quality.md` & `09-revision.md`):** Menambahkan uji pengalaman baca dari sudut pandang pembaca web novel HP Indonesia serta uji dialog *in-character* sesuai batas pengetahuan tokoh saat itu.
+  4. **Ekstraksi *Factual State Diff*, Kontradiksi Berdampingan (*Side-by-Side Contradiction*), & Pelacak Isu Proyek (`07-continuity.md` & `templates/feedback.md`):** Mencegah *silent retcon* dengan menyajikan versi lama vs baru secara berdampingan untuk dipilih penulis, serta tabel pelacak *tic*/isu berulang lintas-bab.
+  5. **Script Analisis Mekanis Prosa Bahasa Indonesia (`scripts/analyze-prose.py`):** Menganalisis jumlah kata, 0 *em dash*, deteksi frasa *AI slop*, rasio dialog vs narasi, distribusi panjang kalimat, jejak kata ganti POV 1 vs POV 3, dan pengulangan kata dalam jendela 5 paragraf.
+- **File:** `engine/01-genre.md`, `engine/05-style.md`, `engine/07-continuity.md`, `engine/08-quality.md`, `engine/09-revision.md`, `engine/templates/feedback.md`, `scripts/analyze-prose.py`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
+## v1.9 — 2026-10-27
+
+- **Perubahan:** Mengadaptasi fitur-fitur unggulan dari `kshanxs/book-writer-skill` yang diselaraskan dengan kaidah Web Novel MetroPop Indonesia sambil mempertahankan seluruh keunggulan asli repo `novel-metropop`:
+  1. **Pemisahan Tugas Narator, Monolog Batin, & Dialog (`05-style.md`):** Melarang dialog bertele-tele yang mengulang kronologi narasi atau menyebut spesifikasi teknis seperti narator (*"kertas ukuran A4"*, mengeja pelat nomor milik lawan bicara sendiri); dialog dibuat singkat dan spontan, sementara gerutuan emosi masuk ke monolog batin.
+  2. **Matriks Sapaan & Kata Ganti Kontekstual (*Contextual Address Matrix* — `04-character.md` & `templates/canon.md`):** Tabel wajib di `canon.md` yang mengunci sebutan di narasi batin POV 1 (*Ibu/Ibuku, Bang Bobi, Rian*) serta perubahan sapaan dan kata ganti (*aku-kamu, gue-lo, saya-Mas*) saat formal, akrab/di depan umum, maupun saat marah.
+  3. **Sistem Revisi 4 Lapis Terfokus (*4-Pass Revision System* — `09-revision.md`):** Memecah pemeriksaan revisi menjadi 4 lapis terpisah agar tidak ada detail mikro yang lolos: (1) *Audit Dialog, Subteks, & Uji Tutup-Nama*, (2) *Audit Logika Fisik, Ukuran Benda, & Asimetri Pengetahuan*, (3) *Audit Bahasa Sehari-hari, Anti-AI Slop, & Pijakan Indera Lokal*, serta (4) *Audit Gelombang Ketegangan & Hook*.
+  4. **Mesin Mikro Adegan (`Berhasil, tapi...` / `Gagal, dan malah...`), Pergeseran Emosi, & Gerbang Khusus Bab 1 (`06-chapter.md` & `03-structure.md`):** Mencegah bab datar di tengah buku dan menambah 5 uji khusus Bab 1 sebelum lanjut ke Bab 2.
+  5. **Protokol *Smart-Reading*, *Content Boundary*, & Protokol Spinoff Satu Semesta (`00-workflow.md` & `07-continuity.md`):** Mengatur pemuatan file panduan *on-demand* sesuai Mode A–E agar konteks AI tidak terdilusi, serta aturan `[DARI: <Judul Induk>]` untuk novel *spinoff*.
+  6. **Script Penggabung Naskah Otomatis (`scripts/combine-chapters.sh`):** Menggabungkan seluruh `chapters/bab-*.md` menjadi satu file `manuscript.md` utuh disertai tabel audit jumlah kata per bab.
+- **File:** `AGENTS.md`, `engine/00-workflow.md`, `engine/03-structure.md`, `engine/04-character.md`, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md`, `engine/09-revision.md`, `engine/templates/canon.md`, `engine/templates/outline.md`, `scripts/combine-chapters.sh`, `story/Narik Ojol Cinta Pun Nongol/canon.md`, dan file Skill.
+
+## v1.8 — 2026-10-27
+
+- **Perubahan:**
+  1. **Pemurnian POV 1 (Anti-Kebocoran Character Sheet POV 3):** Mewajibkan protagonis POV 1 menyebut anggota keluarganya dan orang terdekat dengan panggilan hubungan langsung (*Ibu/Ibuku, Bapak, Bang Bobi*), melarang penyebutan nama lengkap *character sheet* (*"Ibu Sumi"*) di narasi batin protagonis, serta menghapus julukan berjarak ala narator orang ketiga (*"bos muda itu"*).
+  2. **Uji Asimetri Pengetahuan Tokoh (*"Kok Dia Tahu Info Itu?"*) & Anti-Retroactive Planting:** Melarang tokoh mengetahui fakta yang baru ada di monolog batin protagonis, melarang klaim *mention* masa lalu yang adegannya belum pernah ditulis di bab sebelumnya, dan menjaga kronologi bukti foto intaian.
+  3. **Uji Logika Ukuran, Dimensi, & Wadah Benda (*Physical Scale*):** Memastikan ukuran benda sesuai dengan wadah/konteksnya (misal fotokopi ijazah A4 hanya bisa terselip tak sengaja jika tercampur dengan dokumen A4 lain seperti katalog harga kue saat terburu-buru; kotak kue & map A4 dibawa memakai *tas jinjing/tote bag*).
+  4. **Kelonggaran Darurat Rentang Kata (Maksimal 1.200 Kata):** Standar bab tetap **600–900 kata** (target ±750 kata), namun boleh dilonggarkan hingga **maksimal 1.200 kata hanya jika benar-benar urgent** agar tidak memotong kejadian penting atau logika cerita.
+- **File:** `AGENTS.md`, `GEMINI.md`, `engine/04-character.md`, `engine/06-chapter.md`, `engine/08-quality.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`, serta file Skill.
+
+## v1.7 — 2026-10-26
+
+- **Perubahan:** Menambahkan **7 Uji Logika Mikro & Prosedur Dunia Nyata (Anti-Cacat Logika Fiksi)** serta aturan **Keluwesan Lisan & Realitas Lokal Indonesia**:
+  1. **Uji Sebab-Akibat & Anti-Redundansi Percakapan:** Melarang dialog di mana Tokoh B menuntut syarat yang baru saja ditawarkan Tokoh A; memisahkan secara tegas konsep *uang muka (DP)* dan *pelunasan*.
+  2. **Uji Prosedur & Mekanisme Dunia Nyata:** Memastikan prosedur parkir gedung (titip satpam dengan tip + *tap* kartu saat keluar), aturan kerahasiaan bank (larangan klise "tim IT meretas mutasi bank pribadi dalam 3 jam"), dan hukum berjalan sesuai realitas Indonesia.
+  3. **Uji Konsistensi Hitungan Uang & Ekonomi:** Melacak setiap rupiah (DP, pelunasan, jumlah yang terpakai membayar utang, dan sisa saldo yang dikembalikan) agar konsisten secara matematis.
+  4. **Uji Fisik, Pakaian, & Benda Bawaan (*Object Permanence*):** Melarang tindakan fisik mustahil (seperti makan makanan berkuah sambil memakai masker di meja makan atau membawa troli katering besar di atas motor matik).
+  5. **Uji Jalur Informasi & Jejak Bukti:** Mewajibkan penjelasan eksplisit dari mana tokoh mendapat nomor WA (misal dari spanduk warung) atau bukti transfer.
+  6. **Uji Motivasi Kehadiran Tokoh & Realitas Iklim/Lokal Indonesia:** Menghapus terjemahan harfiah (*arah jam sebelas, izin diberikan, papan tombol, sepeda kargo*) dan detail asing (*penghangat kabin mobil* di Jakarta, *cek pribadi* untuk anak muda).
+- **File:** `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`, serta seluruh bab `story/Narik Ojol Cinta Pun Nongol/`.
+
 ## v1.6 — 2026-10-26
 
 - **Perubahan:** Mengintegrasikan `Kerangka Plot yang Terbukti untuk Web Novel.md` sebagai acuan utama kerangka plot, pembuatan ide/premis baru, pengembangan premis ke outline, dan evaluasi/penilaian alur cerita:

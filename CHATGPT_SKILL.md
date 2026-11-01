@@ -103,7 +103,7 @@ Acuan utama: `Kerangka Plot yang Terbukti untuk Web Novel.md`. Jangan membuat ke
 - **Planting Solusi (Minimal 2 Kali):**
   Tentukan solusi akhir lebih dulu, pecah jadi bahan (Orang, Benda, Kebiasaan, Informasi kecil), lalu tanam tiap bahan minimal **dua kali** di Babak 1-2: satu sebagai hal sepele, satu tampak seperti hiasan/komedi.
 
-### 4. Standar Menilai Alur Cerita (10 Uji Logika & 10 Tanda Bahaya)
+### 4. Standar Menilai Alur Cerita (10 Uji Logika Makro, 7 Uji Logika Mikro Dunia Nyata, & 10 Tanda Bahaya)
 1. **Konsekuensi terukur** (bukan cuma malu).
 2. **Tenggat dari luar.**
 3. **Jalan pintas tertutup** (alasan tertulis kenapa tidak jujur/langsung selesai).
@@ -115,6 +115,15 @@ Acuan utama: `Kerangka Plot yang Terbukti untuk Web Novel.md`. Jangan membuat ke
 9. **Kalender & pengetahuan tokoh konsisten.**
 10. **Budaya Indonesia nyata** (sungkan, keluarga besar, grup WA, tekanan menikah).
 *(Aturan kebetulan: kebetulan boleh memperburuk keadaan, dilarang menyelesaikan masalah).*
+
+#### 7 Uji Logika Mikro & Prosedur Dunia Nyata (Anti-Cacat Logika Fiksi — Wajib per Bab)
+1. **Anti-Redundansi Percakapan:** Jangan membuat Tokoh B menuntut syarat yang baru saja ditawarkan Tokoh A; bedakan secara tegas antara *uang muka (DP)* dan *pelunasan*.
+2. **Prosedur Dunia Nyata Indonesia:** Parkir gedung hanya di-*tap* saat masuk/keluar atau dititipkan ke satpam dengan uang tip (bukan di-*scan* saat motor ditinggal parkir); tim IT kantor swasta tidak bisa meretas mutasi rekening bank pribadi orang lain tanpa surat polisi (bukti transfer harus didapat dari pengakuan vendor/rekanan yang terpojok).
+3. **Konsistensi Matematika Uang:** Lacak setiap rupiah (total kesepakatan, DP, pelunasan, jumlah yang terpakai membayar utang, dan sisa saldo yang dikembalikan).
+4. **Logika Fisik & Benda Bawaan (*Object Permanence*):** Jangan membuat tokoh makan makanan berkuah sambil tetap memakai masker di meja makan (bungkus dengan *rantang*); alasan memakai masker di rumah keluarga harus logis (misal sedang flu/bersin agar tidak menulari lansia).
+5. **Jalur Informasi Eksplisit:** Jelaskan dari mana tokoh mendapat nomor WA (misal dari spanduk pemesanan warung di depan rumah) atau bukti dokumen.
+6. **Motivasi Kehadiran Tokoh:** Beri alasan logis mengapa antagonis mau datang ke acara protagonis (misal karena mengira protagonis akan diputuskan/dipecat).
+7. **Realitas Iklim & Lokal Indonesia:** Hindari terjemahan harfiah (*arah jam sebelas, izin diberikan, papan tombol, sepeda kargo*) dan detail asing (*penghangat kabin mobil/heater* saat hujan di Jakarta, atau *cek pribadi* untuk anak muda).
 
 ---
 

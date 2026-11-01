@@ -41,6 +41,8 @@ opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 | `08-quality.md` | Rubrik 8 kriteria, 10 uji logika alur, 10 tanda bahaya, stress test. |
 | `09-revision.md` | Diagnosis alur cerita, cara menangani feedback, dan revisi lokal. |
 | `10-evolution.md` | Cara memperbarui engine dari feedback/teori baru. |
+| `11-worldbuilding.md` | Latar spasial (negara, kota, zonasi), temporal (tahun, era, uang), aturan hukum, sosial, premis. |
+| `12-audit-remediation.md` | Standar audit 5 tahap berurutan dan alur remediasi beruntun (cascading) anti-regresi. |
 | `templates/` | Template canon, outline, chapter, ledger, character sheet, feedback, idea list. |
 | `examples/` | Contoh premis, outline, adegan, dan perbaikan gaya. |
 | `sources.md` | Aturan riset, PDF, internet, hak cipta, dan pencatatan sumber. |
@@ -63,6 +65,8 @@ File-file ini adalah sumber aturan. File lain hanya merujuk, tidak menduplikasi.
 | Rubrik dan anti plot hole | `08-quality.md` |
 | Revisi | `09-revision.md` |
 | Evolusi engine | `10-evolution.md` |
+| World building, latar, dan aturan dunia | `11-worldbuilding.md` |
+| Audit menyeluruh & remediasi beruntun | `12-audit-remediation.md` |
 | Riset dan sumber | `sources.md` |
 
 ## Aturan Baca

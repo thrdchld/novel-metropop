@@ -12,8 +12,9 @@
 - **Target pembaca:** 13+
 - **Panjang:** <30–40> bab × ±<750> kata
 - **POV:** orang pertama ("Aku") atau orang ketiga terbatas, kala lampau
-- **Latar dan usia tokoh:** <kantor/sekolah/kuliah/pernikahan/keluarga/desa> · <usia>
-- **Kota:** <Jakarta/dll.>
+- **Negara & Kota:** Indonesia · <Jakarta/Surabaya/Bandung/dll.>
+- **Tahun Kejadian & Era:** <misal: 2025/2026, era smartphone, QRIS, m-banking>
+- **Latar Arena & Usia Tokoh:** <kantor/sekolah/kuliah/pernikahan/keluarga/desa> · <usia>
 - **Tone:** <hangat/jenaka/getir>
 
 ## Premis & Kerangka Plot
@@ -73,17 +74,53 @@
 - **Cara menyapa tokoh lain:** ...
 - **Contoh dialog 3 baris:** ...
 
-## Dunia dan Aturan
+## Matriks Sapaan & Kata Ganti Kontekstual (Contextual Address Matrix)
 
-- **Lingkungan/tempat:** ...
-- **Pekerjaan/sekolah/kampus protagonis:** ...
-- **Aktivitas utama:** ...
-- **Pihak luar/klien/wali:** ...
-- **Kanal komunikasi:** ...
-- **Mekanisme teknis:** ditulis langkah demi langkah (fitur/sistem, siapa punya akses, aturan pembalikan, jam operasional).
-- **Kenapa tidak bisa diperbaiki langsung:** syarat, keputusan, dan larangan yang menutup jalan keluar.
-- **Jam operasional:** ...
-- **Aturan yang tidak boleh dilanggar:** ...
+> Wajib dipatuhi di seluruh narasi dan dialog agar panggilan keluarga/relasi tidak bocor ke POV 3 dan kata ganti (`aku-kamu` vs `gue-lo` vs `saya-Mas/Bapak`) tetap konsisten.
+
+| Pembicara -> Lawan Bicara | Sebutan di Narasi Batin (POV 1) | Sapaan & Kata Ganti Awal / Formal | Sapaan & Kata Ganti Saat Akrab / Depan Umum | Saat Konflik / Marah |
+|---|---|---|---|---|
+| Protagonis -> Ibu/Ayah | `Ibu` / `Ibuku` / `Bapak` (dilarang nama asli `Ibu <Nama>`) | `Bu` / `Pak`, `Aku-Ibu/Bapak` | `Bu` / `Pak`, `Aku-Ibu/Bapak` | Nada tertahan, tetap `Bu` / `Pak` |
+| Protagonis -> Love Interest | `<Nama Panggilan>` (dilarang julukan POV 3) | `Pak/Mas <Nama>`, `Saya-Bapak/Mas` | `Mas <Nama>`, `Aku-Mas/Kamu` | Kembali formal dingin atau panggil nama pendek |
+| Love Interest -> Protagonis | - | `<Nama>` / `Mbak <Nama>`, `Saya-Kamu` | `<Nama>`, `Aku-Kamu` | Nada dingin/singkat |
+| Protagonis -> Sahabat/Tetangga | `<Nama>` / `Bang <Nama>` | `Gue-Lo` atau `Aku-Kamu/Bang` | Julukan akrab | Panggil nama tanpa embel-embel |
+| Antagonis -> Protagonis | `<Nama Antagonis>` | Sopan di depan umum | - | Merendahkan / menunjuk status |
+
+## World Building & Aturan Dunia Cerita (`11-worldbuilding.md`)
+
+### A. Latar Spasial & Peta Zonasi
+- **Negara & Kota Utama:** <Indonesia / Kota>
+- **Kutub Ruang Atas (Pusat Kuasa/Elit):** <Kawasan kantor/gedung bertingkat/perumahan elit tempat konflik status>
+- **Kutub Ruang Bawah (Pemukiman Rakyat/Pekerja):** <Gang padat/kontrakan petakan/pangkalan ojol tempat tinggal atau basis tokoh>
+- **Realitas Mobilitas & Transportasi:** <Jalur komuter, KRL/TransJakarta/ojol, waktu tempuh jam sibuk, sistem parkir gedung>
+
+### B. Latar Temporal & Ekonomi Mikro
+- **Tahun Kejadian:** <Tahun>
+- **Kanal Komunikasi Sah:** <Grup WhatsApp keluarga/kantor, TikTok/Instagram, tanpa SMS jadul>
+- **Sistem Pembayaran:** <QRIS, m-banking, e-wallet, tanpa cek kertas>
+- **Patokan Ekonomi Mikro:**
+  - Gaji/penghasilan bulanan tokoh: Rp...
+  - Biaya sewa kos/kontrakan: Rp...
+  - Biaya makan harian: Rp...
+  - Skala utang/taruhan: Rp...
+
+### C. Sistem Hukum & Regulasi Nyata
+- **Batasan Hukum Acara:** <Prosedur Laporan Polisi resmi, UU ITE pencemaran nama baik/doxxing>
+- **Kerahasiaan Bank & Data:** <Tanpa retasan rekening ajaib tim IT; bukti diperoleh lewat saksi/dokumen sukarela>
+- **Aturan Korporat/Institusi:** <SOP tender vendor, larangan conflict of interest, kartu akses lantai>
+
+### D. Norma Sosial & Tekanan Budaya
+- **Tekanan Keluarga Kolektif:** <Tuntutan usia nikah, arisan keluarga, gengsi mertua/orang tua>
+- **Konsep Sungkan & Passive-Aggressive:** <Sindiran halus di depan umum, meledak di grup WA terpisah>
+- **Komunitas Penopang:** <Solidaritas warga gang/pangkalan ojol vs dinginnya gedung korporat>
+
+### E. Aturan Khusus Premis (Mekanisme Kontrak / Sandiwara)
+- **Klausul Hak & Imbalan:** <Berapa rupiah/fasilitas yang didapat, skema DP vs pelunasan>
+- **Klausul Kewajiban & Peran:** <Jadwal pertemuan sandiwara, skenario hubungan>
+- **Klausul Batasan & Larangan:** <Batasan fisik, larangan baper, menjaga rahasia identitas>
+- **Pemicu Batal & Penalti:** <Konsekuensi jika rahasia bocor, siapa yang ganti rugi>
+- **Objek Bukti Fisik:** <Kertas kontrak, map, e-money VIP, perhiasan pinjaman>
+- **Tenggat Kedaluwarsa:** <Batas waktu berakhirnya aturan>
 
 ## Rahasia dan Bukti
 

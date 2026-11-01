@@ -36,12 +36,18 @@ Setiap tokoh inti dan tokoh berulang di `canon.md` wajib memiliki:
 
 ---
 
-## 3. Aturan Tells (Gerakan Khas)
+## 3. Aturan Tells (Gerakan Khas) & Pengenalan Tokoh Lewat Dialog
 
+### Aturan Tells (Gerakan Khas)
 - Pilih **1–2 tells per adegan**; jangan memborong semua tells sekaligus.
 - Ulangi tell utama setiap 3–5 bab agar menjadi ciri khas yang dikenali pembaca.
 - **Perubahan tell di Babak 3** menandakan karakter sudah berubah/bertumbuh.
 - Hindari klise generik (*"jantung berdegup kencang"*, *"menghela napas berat"* berulang-ulang) tanpa detail fisik yang spesifik.
+
+### Pengenalan Tokoh Lewat Dialog & Aksi (*In-Dialogue Character Introduction*)
+- Berdasarkan riset naratif (*StoryScope*), **memperkenalkan tokoh baru langsung lewat ucapan atau tindakannya di tengah situasi aktif** adalah pembeda #1 antara tulisan manusia asli dan tulisan AI.
+- **Dilarang memperkenalkan tokoh baru dengan:** membekukan adegan untuk memaparkan biodata, tinggi badan, bentuk wajah, dan daftar pakaian dari kepala sampai kaki seperti laporan intelijen.
+- **Cara yang benar:** Biarkan tokoh baru itu **berbicara atau melakukan sesuatu yang khas lebih dulu** (misal menawar ongkos, mengomel soal parkir, atau menyodorkan map), baru selipkan 1–2 detail penampilan fisiknya yang paling mencolok sambil percakapan berjalan.
 
 ---
 
@@ -66,8 +72,77 @@ Kekuatan cerita MetroPop sering lahir dari obrolan kelompok sahabat senasib:
 
 ---
 
-## 5. Diferensiasi Suara Dialog per Tokoh
+## 5. Diferensiasi Suara Dialog, Matriks Sapaan Kontekstual, & Sebutan di POV 1
 
-Pastikan setiap tokoh terdengar berbeda jika label namanya ditutup:
+Pastikan setiap tokoh terdengar berbeda jika label namanya ditutup (*Uji Tutup-Nama*):
 - Bedakan dari **pilihan sapaan** (*lo-gue* untuk rekan sebaya/sahabat urban; *aku-kamu* untuk latar non-Jakarta/sekolah atau hubungan tertentu; *Mbak/Mas* ke senior; *saya-Bapak/Ibu* ke atasan/orang tua baru dikenal).
 - Bedakan dari **panjang kalimat dan ritme** (misal: protagonis reaktif dan suka menyela di batin; love interest hemat kata dan langsung ke inti; ibu/tante bicara cepat melompat antartopik).
+- **Aturan Mutlak Sebutan Keluarga & Orang Terdekat di POV 1 (Anti-Kebocoran Character Sheet POV 3):**
+  - Dalam novel ber-POV Orang Pertama (*"Aku"*), protagonis **wajib** menyebut orang tua, saudara, atau sahabat dekatnya dengan panggilan hubungan langsung sehari-hari (**"Ibu" / "Ibuku"**, **"Bapak"**, **"Bang Bobi"**) baik di dalam narasi maupun dialog.
+  - **Dilarang keras** menyalin nama dari tabel *Character Sheet* orang ketiga ke dalam narasi batin protagonis (misal: menulis *"Ibu Sumi mengelap tangannya"* atau *"Bobi menghampiriku"* padahal protagonis sehari-hari memanggilnya *"Ibu"* dan *"Bang Bobi"*). Nama asli orang tua protagonis (*Bu Sumi*) hanya boleh muncul pada tulisan spanduk/dokumen atau saat disebut oleh tokoh luar.
+  - Setelah protagonis mengenal dekat *love interest*, hindari sebutan berjarak ala narator orang ketiga di dalam narasi batin (seperti *"bos muda itu"*, *"pemuda berkemeja modis itu"*, atau nama lengkap *"Rian Pratama"* di adegan intim); gunakan nama panggilannya langsung.
+
+### Matriks Sapaan & Kata Ganti Kontekstual (*Contextual Address Matrix*)
+
+Cara seorang tokoh memanggil tokoh lain di Indonesia sangat bergantung pada **siapa yang berbicara, kedekatan hubungan, situasi sosial (di depan umum vs berdua), dan suhu emosi saat itu**. Setiap `canon.md` wajib memuat tabel **Matriks Sapaan & Kata Ganti** ini agar panggilan tidak pernah bocor atau kaku:
+
+| Tokoh Pembicara -> Lawan Bicara | Sebutan di Narasi Batin (POV 1) | Sapaan & Kata Ganti Awal / Formal | Sapaan & Kata Ganti Saat Akrab / Intim | Saat Konflik / Marah / Menyindir |
+|---|---|---|---|---|
+| **Protagonis -> Ibu Kandung** | `Ibu` / `Ibuku` (dilarang `Ibu <Nama>`) | `Bu`, `Aku-Ibu` | `Bu`, `Aku-Ibu` | `Bu...` (nada tertahan, tidak pernah membentak kasar) |
+| **Protagonis -> Love Interest** | Nama panggilan (`Rian`), bukan julukan POV 3 | `Pak/Mas <Nama>`, `Saya-Bapak/Mas` | `Mas <Nama>` / `<Nama>`, `Aku-Mas/Kamu` | Kembali formal dingin (`Pak/Anda`) atau panggil nama langsung tanpa embel-embel |
+| **Love Interest -> Protagonis** | - | `<Nama>` / `Mbak <Nama>`, `Saya-Kamu/Mbak` | `<Nama>`, `Aku-Kamu` | `<Nama Lengkap>` atau nada pendek tanpa basa-basi |
+| **Protagonis -> Sahabat / Tetangga Dekat** | `Indah`, `Bang Bobi` | `Gue-Lo` atau `Aku-Kamu/Bang` (konsisten sejak Bab 1) | Julukan akrab / ledekan khas | Panggil nama lengkap saat kesal (*"Bobi!"*) |
+| **Antagonis -> Protagonis** | `<Nama Antagonis>` | Sopan palsu di depan orang tua/umum | - | Merendahkan, memotong sapaan hormat, atau menunjuk status (*"sopir ojol itu"*) |
+
+**Aturan Pergeseran Sapaan (*Address Shift*):**
+1. **Jangan Melompat Tanpa Pemicu:** Perubahan dari `Saya-Mas` ke `Aku-Mas/Kamu` wajib terjadi karena momen emosional atau kesepakatan yang jelas di dalam adegan, dan setelah bergeser tidak boleh tiba-tiba kembali ke `Saya` di adegan romantis kecuali tokoh sedang sengaja menjaga jarak karena marah/cemburu.
+2. **Kontras Depan Umum vs Berdua:** Dalam cerita pura-pura atau hubungan rahasia kantor, bedakan secara tajam kata ganti saat mereka bersandiwara di depan keluarga/kantor vs saat mereka berdebat berdua di dalam mobil/ruangan tertutup.
+
+---
+
+## 6. Arsitektur Perkembangan Karakter (Character Arc Progression & Transformation Engine)
+
+Pertumbuhan karakter di novel MetroPop **bukan sekadar perubahan suasana hati atau kesadaran moral mendadak (*instant epiphany*)**, melainkan proses nyeri yang dipicu oleh benturan konsekuensi nyata terhadap kelemahan fatal tokoh.
+
+### 6.1 Tiga Komponen Penggerak Busur Karakter
+Setiap tokoh utama (protagonis dan *love interest*) wajib memiliki 3 instrumen batin yang tercatat di `character-sheet.md`:
+1. **Kelemahan Fatal (*The Fatal Flaw*):** Cacat kepribadian aktif yang memicu dan memperkeruh masalah (gengsi, takut dikasihani, defensif ekonomi, sungkan menolak, perfeksionis kaku).
+2. **Kebohongan yang Diyakini (*The Lie the Character Believes*):** Keyakinan keliru yang dijadikan benteng pertahanan psikologis sejak awal (misal: *"Kalau aku jujur soal kemiskinanku, orang kaya cuma bakal merendahkan dan mengasihani aku"*).
+3. **Kebutuhan Sejati vs Keinginan Permukaan (*Want vs Need*):**
+   - **Want (Keinginan Luar):** Target material terukur yang diperjuangkan di Babak 1 (misal: uang Rp45 juta untuk melunasi utang Bapak).
+   - **Need (Kebutuhan Batin):** Pertumbuhan jiwa yang belum disadari tokoh (misal: berani jujur, belajar mempercayai orang lain, dan menyadari harga dirinya tidak ditentukan oleh status sosial/pekerjaan).
+
+---
+
+### 6.2 Lima Titik Kunci Transformasi Karakter Lintas Babak
+Perkembangan karakter wajib dipetakan ke dalam 5 titik struktur cerita:
+
+```
+[Babak 1: The Lie & Cara Lama] 
+       ↓ 
+[Babak 2A: Benturan Siklus Coba-Gagal] 
+       ↓ 
+[Midpoint: Kilasan Kebutuhan Sejati (The Truth)] 
+       ↓ 
+[Titik Terendah: Runtuhnya Benteng & Titik Pilihan] 
+       ↓ 
+[Babak 3: Tindakan Nyata Memeluk Need (Action over Epiphany)]
+```
+
+1. **Titik 1 (Babak 1 — Zona Nyaman yang Retak):** Tokoh menyelesaikan masalah mendadak menggunakan kelemahan lamanya (Ayu memilih bersandiwara pura-pura pacaran demi uang cepat daripada jujur).
+2. **Titik 2 (Babak 2A — Kegagalan Beruntun dengan Cara Lama):** Di setiap Siklus Coba-Gagal, kelemahan tokoh mulai memukul balik. Cara lamanya tidak menyelesaikan masalah inti, malah melahirkan komplikasi baru.
+3. **Titik 3 (Midpoint — Pergeseran Sudut Pandang):** Tokoh melihat sekilas kebenaran (*The Truth / Need*) melalui tokoh pendamping/*love interest* (Ayu melihat sisi rapuh Rian di warung mi ayam; Rian melihat integritas dan kecerdasan Ayu). Tokoh beralih dari sikap reaktif menjadi proaktif.
+4. **Titik 4 (Titik Terendah / Dark Night of the Soul — Runtuhnya Kebohongan):** Cara lama hancur total. Tokoh dipaksa memilih: terus berpegang pada Kebohongannya dan mengorbankan nyawa/orang lain (kesehatan Oma), atau melepaskan Want (uang) demi memeluk Need (kejujuran).
+5. **Titik 5 (Klimaks & Resolusi — Bukti Tindakan Nyata):** Tokoh membuktikan pertumbuhannya lewat **TINDAKAN NYATA (*Action over Epiphany*)** yang di Bab 1 tidak akan pernah ia lakukan (Ayu melepas masker kain secara sukarela, mengembalikan gelang emas, dan menyerahkan uang DP).
+
+---
+
+### 6.3 Tiga Aturan Mutlak Pertumbuhan Karakter (Anti-Cacat Perkembangan AI)
+
+1. **Uji Tindakan Bukan Khotbah (*Action-Over-Epiphany Test*):**
+   - Dilarang membuktikan perubahan karakter lewat monolog batin puitis panjang (*"Kini aku sadar bahwa..."*).
+   - Perubahan karakter **hanya sah** jika dibuktikan lewat **keputusan sulit dan tindakan berisiko tinggi** yang bertentangan dengan kebiasaan lamanya di Bab 1.
+2. **Harga Nyata yang Dibayar (*The Cost of Growth*):**
+   - Pertumbuhan karakter tidak pernah gratis. Ada harga nyata yang harus dibayar tokoh saat memilih bertumbuh (Ayu kehilangan pesanan katering dan merelakan tabungannya, Rian merelakan perjodohan bisnis keluarga demi cinta sejati).
+3. **Batas Moral Terkunci (*The 'Never Ever' Boundary*):**
+   - Tokoh dilarang melanggar batas moral yang tercatat di *character-sheet.md* (*"Tidak Akan Pernah"*), bahkan saat berada di titik terendah. Ayu tidak akan pernah mencuri atau menerima suap; Rian tidak akan pernah menyakiti fisik perempuan atau membiarkan keluarganya terancam.

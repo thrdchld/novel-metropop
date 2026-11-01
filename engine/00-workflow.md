@@ -5,11 +5,11 @@
 | Tahap | Isi | Selesai jika |
 |---|---|---|
 | A. Premis | 3 opsi (Resep 9 Langkah & Uji 5 Slot) atau premis dari user + pilih Kerangka Plot (7 Langkah) | User memilih |
-| B. Dokumen Dasar | Canon: 5 slot premis, kerangka utama & pendamping, tokoh, dunia, mekanisme, planting solusi (2x), timeline, rahasia/bukti | User setuju |
+| B. Dokumen Dasar | Canon: 5 slot premis, kerangka utama & pendamping, tokoh, dunia, mekanisme, planting solusi (2x), timeline, rahasia/bukti + Penjaga State (`state.md`) | User setuju |
 | C. Outline | Semua bab lengkap (alokasi titik balik, siklus coba-gagal 6 komponen, planting) | Semua kolom terisi |
 | D. Stress test | 10 Uji Logika + 10 Tanda Bahaya + 3 peran + uji silang | Semua lubang tertutup |
 | E. Lock | Presentasi ke user | Outline v1.0 TERKUNCI |
-| F. Tulis | Pra-cek, tulis (600–900 kata), nilai rubrik, kirim | User menyetujui |
+| F. Tulis | Pre-flight continuity gate, tulis (600–900 kata), nilai rubrik, sinkronisasi state.md/ledger.md | User menyetujui |
 | G. Revisi | Diagnosis alur / klasifikasi feedback, revisi lokal | User puas |
 
 ## 0.1 Prinsip Pas
@@ -26,6 +26,21 @@ Pakai alat hanya jika lolos Tes Pas:
 4. tidak melebarkan cerita dari masalah utama.
 
 Jika ragu, jangan masukkan. Cerita solid dan pas lebih penting daripada penuh teknik.
+
+## 0.2 Protokol *Smart-Reading* (Efisiensi Konteks & Anti-Dilusi Fokus AI)
+
+Jangan memuat seluruh 12 file di `engine/` sekaligus pada setiap giliran percakapan karena akan menguras jendela konteks dan memecah perhatian AI terhadap detail mikro. Gunakan pemetaan *on-demand* berikut:
+
+| Mode / Tugas Saat Ini | File yang Wajib Dibaca | File yang JANGAN Dibaca Dulu |
+|---|---|---|
+| **Pembuka Sesi Baru** | `AGENTS.md`, `00-workflow.md`, cek daftar folder di `story/` | Seluruh bab cerita & file detail craft lainnya |
+| **Mode A (Cari Ide / Premis Baru)** | `01-genre.md`, `02-premise.md`, `Kerangka Plot yang Terbukti untuk Web Novel.md` | `06-chapter.md`, `07-continuity.md`, `09-revision.md` |
+| **Mode B (Project Baru: Canon & Outline)** | `02-premise.md`, `03-structure.md`, `04-character.md`, `07-continuity.md`, `08-quality.md`, `templates/` | `09-revision.md`, `10-evolution.md` |
+| **Mode C (Menulis Bab Baru)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bagian bab terkait), `ledger.md`, 1–2 bab terakhir, `05-style.md`, `06-chapter.md` | `01-genre.md`, `02-premise.md`, `10-evolution.md`, bab-bab lama yang tidak terkait |
+| **Mode D (Revisi Bab / Audit Alur)** | `05-style.md`, `07-continuity.md`, `08-quality.md`, `09-revision.md`, `canon.md`, `state.md`, `ledger.md`, bab yang direvisi | `01-genre.md`, `templates/` |
+| **Mode E (Riset / Evolusi Engine)** | `sources.md`, `10-evolution.md`, `learnings/editor-feedback.md`, `learnings/changelog.md` | File proyek cerita yang tidak sedang diubah |
+
+**Aturan *Active Cache*:** Jangan membaca ulang file yang sudah dibaca di sesi yang sama kecuali file tersebut baru saja diubah.
 
 ## 1. Mulai Sesi
 
@@ -92,6 +107,7 @@ Buat `story/<Judul>/` dengan:
 
 ```text
 canon.md
+state.md
 outline.md
 ledger.md
 feedback.md
@@ -108,7 +124,7 @@ Canon wajib memuat:
 - **Uji 5 Slot Kelayakan Premis** dan **Kerangka Plot (Utama + Pendamping)**;
 - tema dan pertanyaan dramatik;
 - janji ke pembaca;
-- latar: kota/lingkungan, pekerjaan atau sekolah, usia tokoh, proyek/aktivitas, kanal komunikasi;
+- **world building & aturan dunia (`11-worldbuilding.md`):** latar spasial (negara, kota, zonasi elit vs pemukiman), latar temporal (tahun kejadian, era teknologi, patokan ekonomi riil), aturan hukum nyata Indonesia (UU ITE, SOP kepolisian, rahasia bank), norma sosial-budaya, dan aturan khusus premis (hak, kewajiban, larangan, penalti, tenggat);
 - cast table + character sheet lengkap (kelemahan tokoh sebagai mesin plot);
 - aturan dunia dan mekanisme teknis yang menggerakkan plot, ditulis langkah demi
   langkah, **lengkap dengan minimal 3 jalan mudah yang ditutup beserta alasannya**;
@@ -140,6 +156,7 @@ Perubahan.
 Baca `03-structure.md`. Outline wajib punya:
 
 - status versi (mulai v0.1 DRAFT);
+- penentuan **Tipe In Medias Res** (Tipe 1: Direct Action Linier vs Tipe 2: Flash-Forward Hook Framing dengan Loop Closure di Midpoint/Krisis);
 - kerangka plot utama & pendamping, hitungan titik balik (minimal 6 untuk 30 bab, 8 untuk 40 bab), dan pemetaan Siklus Coba-Gagal;
 - peta babak sesuai kerangka yang dipilih;
 - untuk setiap bab: nomor, judul 2–5 kata, hari/jam/lokasi, POV, posisi kerangka & siklus,
@@ -178,38 +195,42 @@ Jangan menulis Bab 1 sebelum status terkunci.
 
 ### 3.8 Tulis Bab 1
 
-Baca `06-chapter.md`. Bab 1 wajib in medias res. Tulis satu bab saja (600–900 kata). Setelah selesai,
+Baca `06-chapter.md`. Bab 1 wajib in medias res (pilih Tipe 1 Direct Action atau Tipe 2 Flash-Forward Framing sesuai outline). Tulis satu bab saja (600–900 kata). Setelah selesai,
 ikuti Loop Bab di bagian 7.
 
 ## 4. Mode C — Lanjutkan Cerita
 
-1. Baca `canon.md`, `outline.md`, `ledger.md`, dan 1–2 bab terakhir.
-2. Tulis **posisi cerita 5 baris**:
-   - hari/jam/lokasi terakhir;
-   - kondisi protagonis (emosi, benda, urusan menggantung);
-   - hook bab terakhir;
-   - fakta canon/ledger dan posisi siklus coba-gagal yang akan dipakai;
-   - setup/planting (Tanaman 1 / Tanaman 2) atau payoff yang harus ditanam/dibayar.
-3. Minta konfirmasi user.
+1. Baca `story/<Judul>/state.md`, `canon.md`, `outline.md`, `ledger.md`, dan 1–2 bab terakhir.
+2. Tampilkan **Gerbang Pra-Tulis Kontinuitas (Pre-Flight Continuity Gate) 5 Poin** (Lapis 1):
+   - **Waktu & Jangkar:** Hari [X], [Nama Hari], [Jam] | "Kemarin" merujuk ke [Hari X-1] | Rujukan lampau yang sah: [Hari Y lalu]
+   - **Status Hubungan Sah:** [Label resmi aktif] | DILARANG: [Diksi terlarang/prematur]
+   - **Inventaris Fisik:** Benda yang dibawa tokoh utama | Lokasi objek krusial
+   - **Asimetri Pengetahuan:** Tokoh hadir tahu [...] tapi belum tahu [...]
+   - **Kunci Milestone:** Ambang batas kejadian pertama yang berlaku di bab ini
+3. Minta konfirmasi user (jika user minta langsung lanjut tanpa konfirmasi, tetap wajib tampilkan blok gerbang sebelum bab).
 4. Setelah dikonfirmasi, tulis satu bab (600–900 kata).
-5. Update `ledger.md`; update `canon.md` jika ada fakta baru.
-6. Laporkan penyimpangan outline dengan jujur.
-
-Jika user minta lanjut tanpa konfirmasi, tetap tampilkan posisi 5 baris sebelum menulis.
+5. Ekstrak *Factual State Diff* dan update `state.md` (potret instan untuk bab berikutnya).
+6. Update `ledger.md` (arsip baris kronologis); update `canon.md` jika ada fakta baru.
+7. Jalankan audit silang `python3 scripts/audit-continuity.py "story/<Judul>"`.
+8. Laporkan penyimpangan outline dengan jujur.
 
 ## 5. Mode D — Revisi & Evaluasi Alur Cerita
 
-Baca `08-quality.md` dan `09-revision.md`.
+Baca `08-quality.md`, `09-revision.md`, `07-continuity.md`, dan **panduan master audit & perbaikan menyeluruh `12-audit-remediation.md`**.
 
-1. Tanyakan atau identifikasi: bab/bagian mana, feedback-nya apa, boleh mengubah canon/outline atau tidak.
-2. Jika diminta menilai/menganalisis naskah atau outline, jalankan **Diagnosis Alur Cerita** (Uji 5 Slot, Pemetaan 8 Kerangka, Uji 100% Siklus Coba-Gagal, Planting 2x, dan 10 Tanda Bahaya).
-3. Klasifikasikan:
+1. Tanyakan atau identifikasi: bab/bagian mana, feedback-nya apa, boleh mengubah canon/outline/state atau tidak.
+2. Jika diminta menilai/menganalisis naskah secara menyeluruh per judul, jalankan **Pemeriksaan 5 Tahap Berurutan** di `12-audit-remediation.md` (Tahap 1 Canon -> Tahap 2 Outline -> Tahap 3 Kontinuitas -> Tahap 4 Mesin Mikro Bab -> Tahap 5 Prosa) dan buat Matriks Diagnostik Cacat.
+3. Saat melakukan perbaikan menyeluruh, wajib ikuti **Alur Perbaikan Beruntun (*Cascading Remediation*) R1–R5** agar tidak merusak langkah sebelumnya:
+   - **R1:** Kunci perubahan fakta/hukum di `canon.md` (buat Permintaan Perubahan);
+   - **R2:** Sinkronkan beat adegan & siklus coba-gagal di `outline.md`;
+   - **R3:** Kunci ulang kondisi di `state.md` & `ledger.md`, serta isolasi **Jangkauan Bab Terdampak**;
+   - **R4:** Eksekusi revisi lokal prosa bab terdampak memakai rasio 74/18/8 dan Sistem Revisi 4 Lapis Terfokus;
+   - **R5:** Verifikasi otomatis tanpa regresi (`audit-continuity.py`, `analyze-prose.py`, dan tes sambungan bab).
+4. Klasifikasikan:
    - **gaya** → terapkan ke semua bab terdampak;
-   - **logika/plot** → Permintaan Perubahan + update outline/ledger;
+   - **logika/plot** → Permintaan Perubahan + update outline/ledger/state.md;
    - **preferensi baru** → catat di `learnings/editor-feedback.md` dan update file engine.
-4. Revisi lokal; jangan menulis ulang bab penuh jika masalahnya lokal.
-5. Cek timeline, pengetahuan tokoh, dan setup/payoff.
-6. Laporkan perubahan dan file yang diperbarui.
+5. Laporkan perubahan, file yang diperbarui, dan hasil verifikasi bebas regresi.
 
 ## 6. Mode E — Riset / Referensi
 
@@ -226,17 +247,18 @@ Setiap selesai satu bab, simpan ke `story/<Judul>/chapters/bab-NN.md`, lalu kiri
 urutan tetap:
 
 1. **Teks bab** (600–900 kata, tanpa em dash, tanpa quote di atas bab).
-2. **Catatan kontinuitas 5–8 baris**:
+2. **Catatan kontinuitas 5–8 baris & Factual Diff**:
    - waktu/lokasi;
    - fakta baru (tandai **BARU**);
    - siapa tahu apa sekarang;
    - benda/urusan yang dibawa;
    - setup/planting & payoff;
    - risiko kontinuitas.
-3. **Skor rubrik 8 kriteria** dalam satu baris (1–5), plus alasan singkat jika ada nilai
-   di bawah 5. Lulus jika tidak ada nilai <4 dan total ≥34/40.
-4. **Penyimpangan outline**: "tidak ada" atau daftar jujur.
-5. **Satu pertanyaan** ke user, hanya jika perlu.
+3. **Sinkronisasi State & Ledger**: Perbarui `state.md` (potret instan bab berikutnya) dan `ledger.md` (arsip kronologis).
+4. **Audit Kontinuitas Skrip**: Jalankan `python3 scripts/audit-continuity.py "story/<Judul>"` untuk memastikan 0 kesalahan status hubungan, waktu relatif, dan perkenalan tokoh ganda.
+5. **Skor rubrik 8 kriteria** dalam satu baris (1–5), plus alasan singkat jika ada nilai di bawah 5. Lulus jika tidak ada nilai <4 dan total ≥34/40.
+6. **Penyimpangan outline**: "tidak ada" atau daftar jujur.
+7. **Satu pertanyaan** ke user, hanya jika perlu.
 
 Sebelum mengirim, cek:
 

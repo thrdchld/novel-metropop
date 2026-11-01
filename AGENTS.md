@@ -15,7 +15,7 @@ bawah. Jangan mulai menulis prosa sebelum user memilih mode dan menyetujui renca
 4. `acuan-bahasa.docx` — **acuan utama cara penulisan, gaya bahasa, diksi, dan gaya bercerita**.
 5. `Kerangka Plot yang Terbukti untuk Web Novel.md` — **acuan utama 8 kerangka plot terbukti, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita**.
 6. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
-7. Periksa isi `story/`. Jika ada cerita, baca `canon.md`, `outline.md`, `ledger.md`,
+7. Periksa isi `story/`. Jika ada cerita, baca `canon.md`, `state.md`, `outline.md`, `ledger.md`,
    dan bab terakhir yang sudah ditulis.
 
 Folder `engine/` adalah paket markdown. Tidak ada kode yang perlu dijalankan; baca
@@ -45,6 +45,8 @@ Dokumen ini mengatur **perilaku sesi**. Aturan craft ada di file pemiliknya:
 - rubrik: `engine/08-quality.md`
 - revisi: `engine/09-revision.md`
 - evolusi: `engine/10-evolution.md`
+- world building & aturan dunia: `engine/11-worldbuilding.md`
+- audit & remediasi menyeluruh: `engine/12-audit-remediation.md`
 - riset: `engine/sources.md`
 
 Jangan menduplikasi aturan craft di file lain. Jika ada konflik, file pemilik menang.
@@ -98,6 +100,7 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
   setelah lock hanya lewat Permintaan Perubahan.
 - Buat `story/<Judul>/` dari template di `engine/templates/`:
   - `canon.md`
+  - `state.md`
   - `outline.md`
   - `ledger.md`
   - `feedback.md`
@@ -111,23 +114,34 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 
 ### C. Lanjutkan Cerita
 
-- Baca `canon.md`, `ledger.md`, dan 1–2 bab terakhir.
-- Tulis **posisi cerita 5 baris**:
-  1. hari/jam/lokasi terakhir;
-  2. kondisi protagonis (emosi, benda, urusan menggantung);
-  3. hook bab terakhir;
-  4. fakta canon/ledger yang akan dipakai;
-  5. setup/payoff yang harus ditanam atau dibayar.
-- Minta konfirmasi user sebelum menulis bab berikutnya.
-- Setelah dikonfirmasi, tulis satu bab sesuai `engine/06-chapter.md`.
-- Setelah bab selesai: update `ledger.md` dan `canon.md` jika ada fakta baru.
+- Baca `story/<Judul>/state.md`, `canon.md`, `outline.md`, `ledger.md`, dan 1–2 bab terakhir.
+- Tampilkan **Gerbang Pra-Tulis Kontinuitas (Pre-Flight Gate) 5 Poin** (Lapis 1):
+  1. **Waktu & Jangkar:** Hari [X], [Nama Hari], [Jam] | "Kemarin" merujuk ke [Hari X-1] | Rujukan lampau yang sah: [Hari Y lalu]
+  2. **Status Hubungan Sah:** [Label resmi aktif] | DILARANG: [Diksi terlarang/prematur]
+  3. **Inventaris Fisik:** Benda yang dibawa tokoh utama | Lokasi objek krusial
+  4. **Asimetri Pengetahuan:** Tokoh hadir tahu [...] tapi belum tahu [...]
+  5. **Kunci Milestone:** Ambang batas kejadian pertama yang berlaku di bab ini
+- Minta konfirmasi user (jika user minta langsung lanjut, tetap wajib tampilkan gerbang ini sebelum teks bab).
+- Setelah dikonfirmasi, tulis satu bab sesuai `engine/06-chapter.md` (600–900 kata).
+- Setelah bab selesai: ekstrak *Factual Diff*, perbarui `state.md` (snapshot instan) dan `ledger.md` (arsip kronologis).
+- Jalankan audit kontinuitas `python3 scripts/audit-continuity.py "story/<Judul>"`.
 - Catat penyimpangan outline dengan jujur.
 
 ### D. Revisi & Evaluasi Alur Cerita
 
-- Baca `engine/08-quality.md`, `engine/09-revision.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
+- Baca `engine/08-quality.md`, `engine/09-revision.md`, `Kerangka Plot yang Terbukti untuk Web Novel.md`, dan **panduan master audit & remediasi menyeluruh `engine/12-audit-remediation.md`**.
 - Tanyakan atau identifikasi: bab/bagian mana, feedback-nya apa, dan apakah revisi boleh mengubah canon.
-- Jika diminta menilai/menganalisis alur cerita, jalankan **Diagnosis Alur Cerita** (Uji 5 Slot Premis, Pemetaan 8 Kerangka, Uji 100% Siklus Coba-Gagal, Planting 2 Kali, 10 Uji Logika, dan 10 Tanda Bahaya).
+- Jika diminta menilai/menganalisis naskah secara menyeluruh per judul, jalankan **Audit 5 Tahap Berurutan** (Tahap 1 Canon -> Tahap 2 Outline -> Tahap 3 Kontinuitas -> Tahap 4 Mesin Mikro Bab -> Tahap 5 Prosa) dan buat Matriks Diagnostik Cacat.
+- Saat melakukan perbaikan menyeluruh, wajib ikuti **Alur Remediasi Beruntun (*Cascading Remediation*) R1–R5** agar tidak merusak langkah sebelumnya:
+  - **R1:** Perbaiki Fondasi Canon & World Building (buat Permintaan Perubahan);
+  - **R2:** Sinkronkan Arsitektur Outline & Siklus Coba-Gagal;
+  - **R3:** Kunci State Machine (`state.md` + `ledger.md`) & isolasi Jangkauan Bab Terdampak;
+  - **R4:** Eksekusi revisi lokal prosa bab terdampak memakai rasio 74/18/8 dan Sistem Revisi 4 Lapis Terfokus;
+  - **R5:** Verifikasi regresi otomatis (`scripts/audit-continuity.py`, `scripts/analyze-prose.py`, dan Boundary Seam Test).
+  1. **Lapis 1 (Dialog & Subteks):** *Uji Tutup-Nama*, *Uji Anti-Eksposisi Rasa Narator* (pisahkan ucapan singkat di dialog vs gerutuan di monolog batin), gesekan subteks, dan kepatuhan **Matriks Sapaan & Kata Ganti Kontekstual**.
+  2. **Lapis 2 (Logika Fisik, Ukuran Benda, & Asimetri Pengetahuan):** Kemurnian POV 1, ukuran/dimensi benda vs wadahnya, prosedur dunia nyata Indonesia, dan anti-telepati (*"Kok dia tahu info itu?"*).
+  3. **Lapis 3 (Bahasa Sehari-hari & Anti-AI Slop):** 0 *em dash* (`—`), 0 quote pembuka, pijakan minimal 2 indera lokal, dan ritme kalimat bervariasi.
+  4. **Lapis 4 (Gelombang Ketegangan & Hook):** Skor ketegangan naik-turun, pola hasil adegan (`Berhasil, tapi...` / `Gagal, dan malah...`), pergeseran emosi tokoh, dan ketajaman *hook* akhir.
 - Klasifikasikan feedback:
   - **gaya** → terapkan ke semua bab terdampak;
   - **logika/plot** → buat Permintaan Perubahan, update outline/ledger;
@@ -168,12 +182,12 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 - **Tanpa em dash (`—`):** Dilarang keras memakai em dash (`—`) di seluruh narasi maupun dialog novel.
 - **Tanpa quote/epigraph di atas bab:** Jangan menaruh quote atau epigraph sebelum teks bab.
 - **Bebas dari AI slop dan bahasa baku kaku:** Wajib menggunakan bahasa percakapan sehari-hari orang Indonesia yang membumi, natural, dan segar; dilarang memakai frasa puitis artifisial buatan mesin.
-- **Wajib periksa kontinuitas sebelum menulis:** Wajib membaca `story/<Judul>/canon.md`, `outline.md`, dan `ledger.md` sebelum menulis bab berikutnya.
+- **Wajib periksa kontinuitas sebelum menulis:** Wajib membaca `story/<Judul>/state.md`, `canon.md`, `outline.md`, dan `ledger.md` serta menampilkan Gerbang Pra-Tulis Kontinuitas sebelum menulis bab berikutnya.
 - Istilah asing/kerja dijelaskan sekali secara inline.
-- Setiap bab 600–900 kata (titik balik target 900), satu POV, satu adegan/beat, berakhir hook.
+- Setiap bab standar 600–900 kata (titik balik target 900; boleh dilonggarkan hingga maksimal 1.200 kata hanya jika benar-benar urgent agar tidak memotong kejadian penting), satu POV, satu adegan/beat, berakhir hook.
 - Format judul: `## Bab N: Judul`; judul 2–5 kata.
 - Chat: `**Nama:** *isi pesan*`; email/surat ditulis miring.
-- Bab 1 wajib in medias res.
+- Bab 1 wajib in medias res (pilih **Tipe 1: Direct Action Linier** atau **Tipe 2: Flash-Forward Hook Framing** dengan rewind Bab 3 dan loop closure di midpoint; lihat `engine/06-chapter.md`).
 
 ## 5. Loop Setelah Menulis Bab
 
@@ -181,17 +195,19 @@ Setiap selesai satu bab:
 
 1. **Simpan bab** ke `story/<Judul>/chapters/bab-NN.md`.
 2. Kirim **teks bab**.
-3. **Catatan kontinuitas 5–8 baris**:
+3. **Catatan kontinuitas 5–8 baris & Factual Diff**:
    - waktu/lokasi;
    - fakta baru (tandai **BARU**);
    - siapa tahu apa sekarang;
    - benda/urusan yang dibawa;
    - setup/payoff;
    - risiko kontinuitas.
-4. **Skor rubrik 8 kriteria** dalam satu baris (1–5), plus alasan singkat jika ada nilai
+4. **Sinkronisasi Dokumen Negara**: Perbarui `state.md` (potret instan untuk bab selanjutnya) dan `ledger.md` (arsip kronologis).
+5. **Audit Kontinuitas Skrip**: Jalankan `python3 scripts/audit-continuity.py "story/<Judul>"`.
+6. **Skor rubrik 8 kriteria** dalam satu baris (1–5), plus alasan singkat jika ada nilai
    di bawah 5. Lulus jika tidak ada nilai <4 dan total ≥34/40.
-5. **Penyimpangan outline**: “tidak ada” atau daftar jujur.
-6. **Satu pertanyaan** ke user, hanya jika perlu.
+7. **Penyimpangan outline**: “tidak ada” atau daftar jujur.
+8. **Satu pertanyaan** ke user, hanya jika perlu.
 
 Jangan menambahkan ringkasan panjang atau pujian diri.
 

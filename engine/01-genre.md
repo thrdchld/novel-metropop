@@ -16,11 +16,24 @@ jenaka, tetapi punya inti emosional yang menyentuh.
 
 ---
 
-## 2. Janji ke Pembaca
+## 2. Janji ke Pembaca & 5 Jalur Kepuasan Pembaca (*Reader Reward Channels*)
 
 Setiap bab wajib memenuhi minimal satu (idealnya keduanya):
 1. **Kedekatan (*Relatability*):** *"Ini gue banget"*, *"Kantor/keluarga gue juga gitu"*, *"Tiap hari pengin resign tapi butuh duit"*.
 2. **Ketegangan & Dinamika:** *"Habis ini gimana?"*, interaksi seru antarteman senasib, ketegangan dengan atasan/keluarga, dan hubungan yang tumbuh alami dari gesekan karakter.
+
+### Lima Jalur Kepuasan Pembaca (*5 Reader Reward Channels*)
+Pembaca web novel bertahan membaca dari Bab 1 sampai tamat karena 5 jalur kenikmatan ini. Merusak satu jalur akan membuat pembaca berhenti di tengah jalan:
+1. **Transportation (Masuk ke Dunia Cerita):** Dijaga dengan konsistensi POV 1 (hanya tahu apa yang sudah dialami tokoh), detail indera khas Indonesia, dan logika ukuran benda/prosedur dunia nyata yang masuk akal.
+2. **Social Simulation (Menebak Isi Hati Tokoh):** Pembaca senang menebak perasaan tokoh dari gerak-gerik dan gengsinya. Jangan merusak kenikmatan ini dengan melabeli emosi secara langsung (*"Dia marah"*, *"Aku sedih"*) atau membuat dialog yang terlalu terus terang tanpa subteks.
+3. **Curiosity / Prediction Reward (Rasa Penasaran & Tebak-Tebakan):** Dijaga dengan celah informasi, *planting* 2 kali, dan menahan jawaban penuh agar pembaca terus menebak *"Habis ini ketahuan nggak ya?"*.
+4. **Flow (Kelancaran Baca di Layar HP):** Dijaga dengan ritme paragraf yang pas, transisi yang jelas, dan pergantian antara adegan tegang dengan jeda komedi/napas.
+5. **Voice & Aesthetic Pleasure (Kenikmatan Suara Narator):** Di MetroPop Indonesia, kenikmatan ini lahir dari celotehan batin yang jenaka, sarkastik, *self-deprecating*, dan terasa seperti curhatan teman dekat.
+
+### Aturan Khusus Romansa & Relasi MetroPop (*Earned Intimacy & Micro-Shifts*)
+1. **Dilarang "Mengumumkan" *Chemistry* (*Don't Announce Chemistry*):** Jangan menulis klaim abstrak seperti *"Ada getaran listrik di antara kami"* atau *"Pesonanya membuatku terpaku"*. Dramatisasikan ketertarikan lewat tindakan kecil dan perhatian spesifik (misal: tokoh yang kaku diam-diam memperhatikan jari protagonis yang lecet karena tali plastik pesanan, atau hafal kebiasaan makannya).
+2. **Lacak Pergeseran Kecil (*Micro-Shifts*):** Di setiap bab yang mempertemukan protagonis dan *love interest*, harus ada pergeseran mikro dalam hal kepercayaan, gengsi, rasa takut, atau salah paham. Jangan melompat terlalu cepat dari ketegangan ke pengakuan cinta.
+3. **Intimasi yang Dibayar (*Earned Intimacy*):** Momen jujur atau kedekatan emosional terasa berharga karena tokoh harus menurunkan gengsinya atau mengambil risiko nyata untuk melakukannya.
 
 ---
 
@@ -40,6 +53,8 @@ Setiap bab wajib memenuhi minimal satu (idealnya keduanya):
 ---
 
 ## 4. Setting / Latar yang Kuat
+
+> Untuk aturan lengkap mengenai negara, kota, zonasi ruang, tahun/era teknologi, sistem hukum nyata, dan aturan dunia cerita, lihat file pemilik: `11-worldbuilding.md`.
 
 - **Kantor/kerja:** agensi kreatif, startup logistik, bank digital, media online, firma konsultan, usaha kuliner keluarga, radio komunitas, toko buku, properti.
 - **Sekolah & Kuliah:** ujian, ekskul, OSIS, skripsi, dosen pembimbing, organisasi, kos-kosan, magang.

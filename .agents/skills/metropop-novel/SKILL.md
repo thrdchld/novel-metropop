@@ -15,18 +15,18 @@ Skill ini memandu AI untuk bertindak sebagai **Penulis dan Editor Pendamping Web
 2. `acuan-bahasa.docx` (acuan utama nada bicara, gaya bahasa, diksi, dan cara bercerita).
 3. `Kerangka Plot yang Terbukti untuk Web Novel.md` (acuan utama 8 kerangka plot terbukti, resep 9 langkah ide baru, uji 5 slot kelayakan premis, siklus coba-gagal, planting solusi 2 kali, 10 uji logika, dan 10 tanda bahaya alur cerita).
 4. `engine/00-workflow.md` hingga `engine/10-evolution.md` (aturan craft, outline, rubrik).
-5. `story/<Judul>/` (`canon.md`, `outline.md`, `ledger.md`, `feedback.md`).
+5. `story/<Judul>/` (`canon.md`, `state.md`, `outline.md`, `ledger.md`, `feedback.md`).
 
 ---
 
 ## Aturan Mutlak Menulis (Non-Negotiable)
 
-1. **Rentang Kata per Bab:** Wajib **600-900 kata** (target ideal sekitar 750 kata). Dilarang menghasilkan bab di bawah 600 kata.
+1. **Rentang Kata per Bab:** Standar wajib **600-900 kata** (target ideal sekitar 750 kata; boleh dilonggarkan hingga **maksimal 1.200 kata hanya jika benar-benar urgent** agar tidak memotong kejadian penting atau logika cerita). Dilarang menghasilkan bab di bawah 600 kata.
 2. **Dilarang Keras Memakai Em Dash (`—`):** Karakter em dash (`—`) dilarang di seluruh naskah novel (baik narasi maupun dialog). Gunakan koma, titik, tanda hubung biasa (`-`), atau susun kalimat secara alami.
 3. **Dilarang Memasang Quote Pembuka Bab:** Jangan menaruh epigraph, quote filosofis, atau kutipan puitis sebelum teks bab. Bab langsung dimulai dengan teks cerita.
 4. **Bebas AI Slop & Diksi Baku Kaku:** Gunakan gaya tutur percakapan sehari-hari orang Indonesia perkotaan yang natural, membumi, dan lincah. Dilarang memakai frasa puitis kaku artifisial buatan mesin.
-5. **Format Bab:** Format judul `## Bab N: Judul` (2-5 kata). Bab 1 wajib *in medias res*. Kalimat penutup setiap bab wajib diakhiri *hook* yang tajam.
-6. **Mekanisme Kontinuitas:** Wajib membaca `story/<Judul>/canon.md`, `outline.md`, dan `ledger.md` sebelum menulis bab berikutnya.
+5. **Format Bab & Dua Tipe In Medias Res:** Format judul `## Bab N: Judul` (2-5 kata). Bab 1 wajib *in medias res*, memilih antara **Tipe 1: Direct Action Linier** (aksi langsung dari Waktu 0 tanpa kilas balik besar) atau **Tipe 2: Flash-Forward Hook Framing** (Bab 1–2 krisis puncak/anomali dari midpoint/titik rendah, Bab 3 rewind dengan wajib In Medias Res Tipe 1 pada garis waktu lampau, dan *loop closure* di titik tengah). Kalimat penutup setiap bab wajib diakhiri *hook* yang tajam.
+6. **Mekanisme Kontinuitas & Gerbang Pra-Tulis:** Wajib membaca `story/<Judul>/` (`state.md`, `canon.md`, `outline.md`, `ledger.md`) dan menampilkan blok **Pre-Flight Continuity Gate (5 poin)** sebelum menulis bab baru, menyinkronkan `state.md` + `ledger.md` pasca-tulis, serta menjalankan audit skrip `python3 scripts/audit-continuity.py`.
 7. **Evolusi Engine:** Jika ada kritik atau preferensi berulang dari user, AI wajib mencatatnya di `engine/learnings/editor-feedback.md` dan memperbarui file engine terkait.
 
 ---
@@ -43,8 +43,14 @@ Skill ini memandu AI untuk bertindak sebagai **Penulis dan Editor Pendamping Web
 3. **Mesin Tengah (Siklus Coba-Gagal) & Planting Solusi:**
    - Babak 2 digerakkan oleh 3-6 **Siklus Coba-Gagal** (tiap siklus wajib punya 6 isi: Tujuan yang lolos **Uji 100%**, Alasan memilih, Cara, Hambatan watak/aturan dunia, Hasil, Akibat + adegan lucu/canggung).
    - **Planting 2 Kali:** Bahan solusi akhir (orang, benda, kebiasaan, info) wajib ditanam minimal dua kali sebelum titik terendah (1 tampak sepele, 1 tampak seperti hiasan).
-4. **Menilai Alur Cerita (10 Uji Logika & 10 Tanda Bahaya):**
-   - Uji Konsekuensi, Tenggat luar, Jalan pintas tertutup, Uji 100%, Taruhan naik, Keputusan aktif tokoh, Planting 2x, Harga sebanding, Kalender konsisten, dan Budaya Indonesia nyata. Kebetulan boleh memperburuk keadaan, dilarang menyelesaikan masalah.
+4. **Menilai Alur Cerita (10 Uji Logika Makro, 7 Uji Logika Mikro Dunia Nyata, & 10 Tanda Bahaya):**
+   - **10 Uji Logika Makro:** Uji Konsekuensi, Tenggat luar, Jalan pintas tertutup, Uji 100%, Taruhan naik, Keputusan aktif tokoh, Planting 2x, Harga sebanding, Kalender konsisten, dan Budaya Indonesia nyata. Kebetulan boleh memperburuk keadaan, dilarang menyelesaikan masalah.
+   - **7 Uji Logika Mikro & Prosedur Dunia Nyata (`08-quality.md`):** (1) Anti-redundansi dialog (jangan menuntut syarat yang baru saja ditawarkan lawan bicara; pisahkan tegas uang muka/DP vs pelunasan), (2) Prosedur nyata Indonesia (parkir gedung di-*tap* saat keluar atau dititipkan ke satpam dengan uang tip; tim IT kantor tidak bisa meretas mutasi bank pribadi tanpa surat polisi), (3) Konsistensi matematika uang (DP, pelunasan, pemakaian bayar utang, sisa saldo), (4) Logika fisik & benda (tidak makan berkuah sambil memakai masker di meja makan; bungkus dengan *rantang*), (5) Jalur informasi eksplisit (nomor WA didapat dari spanduk pemesanan warung, bukti transfer dari pengakuan vendor), (6) Motivasi kehadiran antagonis yang logis, (7) Realitas iklim/lokal Indonesia (mengecilkan AC mobil saat hujan, bukan *heater*; bukti transfer *m-banking*, bukan cek pribadi).
+5. **World Building Berjangkar Realitas (`engine/11-worldbuilding.md`):**
+   - *Latar Spasial:* Negara (Indonesia), Kota & Peta Zonasi (Kutub Elit/SCBD vs Pemukiman Pekerja/Gang), waktu tempuh riil jam sibuk.
+   - *Latar Temporal:* Tahun spesifik (2025/2026), kanal sah (WhatsApp, TikTok/IG, QRIS, m-banking; dilarang SMS jadul/cek kertas), patokan ekonomi mikro riil.
+   - *Sistem Hukum & Regulasi:* UU ITE, SOP kepolisian (LP resmi), rahasia bank mutlak (anti-retasan rekening ajaib tim IT).
+   - *Norma Budaya & Aturan Premis:* Tekanan keluarga kolektif, rasa sungkan (*passive-aggressive*), dan klausul tertulis kontrak/sandiwara.
 
 ---
 
@@ -60,18 +66,20 @@ Mulai sesi dengan satu pertanyaan klarifikasi:
 
 ### Mode B: Project Baru
 - Jalankan **7 Langkah Menentukan Kerangka dari Premis**, petakan ke 8 tahap format dasar penulis, susun Siklus Coba-Gagal, dan rencanakan Planting 2 kali.
-- Siapkan direktori `story/<Judul>/` dari template: `canon.md`, `outline.md`, `ledger.md`, `feedback.md`.
+- Siapkan direktori `story/<Judul>/` dari template: `canon.md`, `state.md`, `outline.md`, `ledger.md`, `feedback.md`.
 - Lakukan stress test (10 Uji Logika + 10 Tanda Bahaya + 3 peran).
 - Minta persetujuan user sebelum mengunci outline (`TERKUNCI v1.0`).
 - Tulis Bab 1 saja setelah outline disetujui.
 
 ### Mode C: Lanjutkan Cerita
-- Baca `canon.md`, `outline.md`, `ledger.md`, dan 1-2 bab terakhir.
-- Sajikan **posisi cerita 5 baris**, minta konfirmasi user, lalu tulis satu bab (600-900 kata).
-- Perbarui `ledger.md` setelah bab ditulis.
+- Baca `story/<Judul>/state.md`, `canon.md`, `outline.md`, `ledger.md`, dan 1-2 bab terakhir.
+- Tampilkan **Pre-Flight Continuity Gate (5 Poin)**: Waktu & Jangkar, Status Hubungan Sah vs Terlarang, Inventaris Benda Fisik, Asimetri Pengetahuan, dan Kunci Milestone. Minta konfirmasi user, lalu tulis satu bab (600-900 kata).
+- Ekstrak *Factual State Diff*, lalu perbarui `state.md` dan `ledger.md`.
+- Jalankan audit silang `python3 scripts/audit-continuity.py "story/<Judul>"`.
 
-### Mode D: Revisi & Evaluasi Alur Cerita
-- Jika diminta menilai alur cerita, jalankan Diagnosis Alur (Uji 5 Slot, 8 Kerangka, Uji 100% Siklus, Planting 2x, 10 Uji Logika, dan 10 Tanda Bahaya).
+### Mode D: Revisi, Evaluasi, & Remediasi Beruntun
+- Jika diminta memeriksa menyeluruh per judul, ikuti **Standar Audit 5 Tahap Berurutan & Remediasi Beruntun R1–R5** (`engine/12-audit-remediation.md`): buat Matriks Diagnostik Cacat, isolasi jangkauan bab terdampak, perbaiki dari Canon -> Outline -> State/Ledger -> Teks Bab -> Verifikasi Regresi.
+- Saat merevisi bab, jalankan **Sistem Revisi 4 Lapis Terfokus (*4-Pass Revision*)** (`engine/09-revision.md`) dengan **Rasio Edit Profesional 74/18/8** (*Deletion Test* & *Reversion Test*): (1) *Dialogue & Subtext Pass* (*Uji Tutup-Nama*, anti-dialog eksposisi narator, Matriks Sapaan & Kata Ganti Kontekstual), (2) *Physical Scale & Knowledge Continuity Pass* (kemurnian POV 1, ukuran benda vs wadah, anti-telepati *"Kok dia tahu info itu?"*), (3) *Indonesian Natural Prose Pass* (0 em dash, 3 mode emosi manusia & batas *over-embodied* maks 1–2/bab, batas bau maks 1–2/bab, 5 pola sintaksis AI, variasi posisi dialog di paragraf, minimal 2 indera lokal, dan verifikasi `scripts/analyze-prose.py`), serta (4) *Tension Wave & Pacing Pass*.
 - Lakukan revisi lokal tanpa merombak bagian yang sudah solid, dan cek ulang kontinuitas timeline serta kepemilikan informasi karakter.
 
 ### Mode E: Analisis Riset & Referensi
@@ -84,6 +92,8 @@ Mulai sesi dengan satu pertanyaan klarifikasi:
 Setiap kali menyelesaikan penulisan sebuah bab:
 1. Simpan naskah ke `story/<Judul>/chapters/bab-NN.md`.
 2. Kirimkan teks bab lengkap kepada user.
-3. Sertakan **catatan kontinuitas 5-8 baris** (waktu, lokasi, fakta baru, barang bawaan, setup/planting & payoff).
-4. Berikan **skor rubrik 8 kriteria** (1-5 per kriteria; lulus jika total >= 34/40 dan tidak ada nilai di bawah 4).
-5. Laporkan penyimpangan outline secara jujur.
+3. Sertakan **catatan kontinuitas 5-8 baris & Factual Diff** (waktu, lokasi, fakta baru, barang bawaan, status hubungan, milestone terkunci).
+4. Sinkronkan `state.md` dan `ledger.md`.
+5. Jalankan audit `python3 scripts/audit-continuity.py "story/<Judul>"`.
+6. Berikan **skor rubrik 8 kriteria** (1-5 per kriteria; lulus jika total >= 34/40 dan tidak ada nilai di bawah 4).
+7. Laporkan penyimpangan outline secara jujur.

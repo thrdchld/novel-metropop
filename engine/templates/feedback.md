@@ -6,6 +6,14 @@ Catat feedback user, keputusan, dan tindakan. Jangan mengubah canon tanpa perset
 |---|---|---|---|---|---|
 | ... | ... | ... | gaya/logika/preferensi | ... | ... |
 
+## Pelacak Kebiasaan / Isu Berulang Proyek (*Persistent Writing Issues Tracker*)
+
+> Gunakan tabel ini untuk mencatat kebiasaan berulang (*tic* kata/gerakan tubuh), ketidakkonsistenan nada, atau masalah struktural yang muncul di $\ge 2$ bab agar bisa dipantau sampai tuntas.
+
+| ID | Isu / Pola Berulang yang Ditemukan | Bukti & Kemunculan (Bab) | Prioritas | Tindakan Perbaikan | Status (`Open` / `Resolved`) |
+|---|---|---|---|---|---|
+| `ISS-01` | ... | Bab ... | High / Med / Low | ... | Open |
+
 ## Catatan
 
 - Feedback yang berulang dua kali harus dipromosikan ke `engine/learnings/editor-feedback.md`.

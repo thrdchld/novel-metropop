@@ -158,10 +158,11 @@ Outline per bab harus cukup jelas sebagai acuan menulis tanpa perlu panduan tamb
 - **Hari/jam/lokasi:** ...
 - **POV:** ...
 - **Posisi Kerangka & Siklus:** (misal: Babak 2 - Siklus Coba-Gagal 2: Cara & Hambatan / Titik Tengah)
+- **Skor Ketegangan (1–10) & Pergeseran Emosi:** (misal: Ketegangan 6/10; Masuk: panik -> Keluar: lega sesaat tapi waswas)
 - **Tujuan adegan:** ...
 - **Komplikasi:** ...
 - **Beat:** 1) ... 2) ... 3) ... 4) ...
-- **Perubahan:** apa yang berbeda di akhir bab.
+- **Perubahan (`Berhasil, tapi...` / `Gagal, dan malah...`):** apa yang berbeda di akhir bab (hindari kemenangan mulus tanpa buntut di pertengahan buku).
 - **Siapa tahu apa:** siapa menyaksikan, fakta baru, siapa belum tahu.
 - **Setup/Planting yang ditanam:** (tandai Tanaman 1 atau Tanaman 2 jika bagian dari solusi akhir)
 - **Payoff yang dibayar:** ...
@@ -171,7 +172,7 @@ Outline per bab harus cukup jelas sebagai acuan menulis tanpa perlu panduan tamb
 - **Jalan keluar paling mudah ditutup:** kenapa tokoh tidak memilih jalan termudah di bab ini.
 - **Pertanyaan pembaca yang dijawab:** ...
 - **Yang TIDAK terjadi:** ...
-- **Target kata:** ±750 (titik balik ±900; maksimal 900).
+- **Target kata:** ±750 (titik balik ±900; maksimal 900; darurat maks. 1.200 kata).
 ```
 
 Kolom opsional (isi hanya jika lolos Tes Pas): `Subplot/flashback`, `Jenis adegan`, `Ikonik`.
@@ -184,10 +185,16 @@ Kolom opsional (isi hanya jika lolos Tes Pas): `Subplot/flashback`, `Jenis adega
 - **Flashback (Opsional):** Dipicu benda/kata/tempat konkret, beri penanda waktu jelas, kembali ke masa kini dengan perubahan pemahaman, dicatat di Ledger A2.
 - **Scene Ikonik (Opsional, 0–5):** Mudah diceritakan ulang dalam satu kalimat, berakar pada karakter dan tema, wajib punya setup.
 - **Teknik Naratif (1–2 per bab):**
-  - *Wajib:* In medias res (Bab 1), Hook akhir bab, Chekhov's gun / Planting 2x.
+  - *Wajib:* In medias res (Bab 1: pilih **Tipe 1 Direct Action** linier atau **Tipe 2 Flash-Forward Hook Framing**; lihat `06-chapter.md`), Hook akhir bab, Chekhov's gun / Planting 2x.
   - *Sering:* Show don't tell, Action beats, Dramatic irony, Pacing naik-turun.
   - *Sesekali:* Foreshadowing, Motif, Stream of consciousness (maks 1 paragraf saat panik), Red herring adil, Plot twist fair play, Allusion budaya Indonesia.
   - *Dilarang:* Deus ex machina (kebetulan boleh memperburuk keadaan, dilarang menyelamatkan tokoh).
+
+### Ketentuan Outline untuk Pembuka Tipe 2 (Flash-Forward Hook Framing)
+Jika outline menggunakan **Tipe 2**, perhatikan penandaan khusus pada kolom outline:
+1. **Bab 1 & 2:** Tandai kolom posisi dengan `[Flash-Forward: Puncak Krisis / Anomali]` (mengambil momen genting dari Midpoint atau Titik Rendah).
+2. **Bab 3:** Tandai dengan `[Rewind: X Waktu Sebelumnya]` dan **wajib dibuka dengan In Medias Res Tipe 1** pada garis waktu awal (tanpa bangun tidur/eksposisi).
+3. **Bab Midpoint/Krisis (misal Bab 15–16 atau Bab 19–20):** Tandai dengan `[Loop Closure: Revisit Adegan Pembuka]`. Di sini alur waktu lampau bertemu kembali dengan Bab 1–2, ditulis dengan subteks, perspektif, dan muatan emosi yang sudah matang (bukan salin-tempel).
 
 ---
 

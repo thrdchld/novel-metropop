@@ -25,15 +25,15 @@ Baca `AGENTS.md` di root repo, lalu `engine/README.md` dan `engine/00-workflow.m
 - Simpan bab ke `story/<Judul>/chapters/bab-NN.md`.
 - Setelah bab: catatan kontinuitas, skor rubrik 8 kriteria (lulus ≥34/40 tanpa nilai <4),
   penyimpangan outline.
-- Perbarui `ledger.md`; jangan mengubah canon/outline diam-diam.
+- Perbarui `state.md` dan `ledger.md`; jalankan `python3 scripts/audit-continuity.py`; jangan mengubah canon/outline diam-diam.
 - Jika feedback berulang, perbarui `engine/learnings/` dan file panduan terkait.
 
 ## Mode
 
 - **Ide:** gunakan Resep 9 Langkah & Uji 5 Slot; beri 3 opsi premis (judul, logline 1 kalimat, kerangka utama + pendamping, tema, tokoh, 5 slot kelayakan, planting solusi, humor).
-- **Project baru:** 7 langkah pilih kerangka → canon (5 slot + planting 2x) → outline (siklus coba-gagal 6 komponen + min 6/8 titik balik) → stress test (10 uji logika + 10 tanda bahaya) → lock → Bab 1.
-- **Lanjut:** baca canon/outline/ledger/bab terakhir → posisi 5 baris → konfirmasi → bab baru.
-- **Revisi & Evaluasi Alur:** diagnosis alur (Uji 5 Slot, Uji 100% Siklus, Planting 2x, 10 Uji Logika, 10 Tanda Bahaya) → klasifikasikan feedback → revisi lokal → update canon/ledger → catat pelajaran.
+- **Project baru:** 7 langkah pilih kerangka → canon (5 slot + planting 2x) & state awal → outline (siklus coba-gagal 6 komponen + min 6/8 titik balik) → stress test (10 uji logika makro + 7 uji logika mikro dunia nyata + 10 tanda bahaya) → lock → Bab 1.
+- **Lanjut:** baca canon/state/outline/ledger/bab terakhir → Pre-Flight Continuity Gate (5 poin) → konfirmasi → bab baru (lulus 7 uji logika mikro) → sinkronisasi state.md & ledger.md.
+- **Revisi & Evaluasi Alur:** diagnosis alur (Uji 5 Slot, Uji 100% Siklus, Planting 2x, 10 Uji Logika Makro, 7 Uji Logika Mikro Dunia Nyata, 10 Tanda Bahaya) → klasifikasikan feedback → revisi lokal → update canon/ledger → catat pelajaran.
 - **Riset:** ekstrak prinsip dari PDF/teks/URL, jangan menyalin karya berhak cipta.
 
 Detail ada di `engine/`.
