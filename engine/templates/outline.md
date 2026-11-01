@@ -1,9 +1,9 @@
-# Outline — <Judul>
+# Outline: <Judul>
 
 **Status:** DRAFT v0.1
 **Tanggal lock:** -
-**Jumlah bab:** <30–40>
-**Target kata:** ±750/bab (rentang wajib 600–900 kata)
+**Jumlah bab:** <30-40>
+**Target kata:** ±750/bab (rentang wajib 600-900 kata)
 **Kerangka Utama & Pendamping:** <...>
 **Jumlah Titik Balik:** <minimal 6 untuk 30 bab / minimal 8 untuk 40 bab>
 **Tipe Pembuka In Medias Res:** <Tipe 1: Direct Action Linier | Tipe 2: Flash-Forward Hook Framing (Loop Closure di Bab ...)>
@@ -45,21 +45,21 @@
 
 ## Rincian per Bab
 
-### Bab 1 — <Judul 2–5 kata>
+### Bab 1: <Judul 2-5 kata>
 
 - **Hari/jam/lokasi:** ...
 - **POV:** ...
 - **Posisi Kerangka & Siklus:** ...
-- **Skor Ketegangan (1–10) & Pergeseran Emosi:** (misal: Ketegangan 6/10; Masuk: ... -> Keluar: ...)
+- **Skor Ketegangan (1-10) & Pergeseran Emosi:** (misal: Ketegangan 6/10; Masuk: ... -> Keluar: ...)
 - **Tujuan adegan:** ...
 - **Komplikasi:** ...
-- **Beat:** 1) ... 2) ... 3) ... 4) ...
+- **Beat adegan:** 1) ... 2) ... 3) ... 4) ...
 - **Perubahan (`Berhasil, tapi...` / `Gagal, dan malah...`):** ...
-- **Siapa tahu apa:** ...
+- **Siapa tahu apa (Asimetri Pengetahuan):** ...
 - **Setup/Planting yang ditanam:** ...
 - **Payoff yang dibayar:** ...
 - **Teknik naratif:** in medias res; dramatic irony; action beats
-- **Hook:** ...
+- **Hook kalimat terakhir:** ...
 - **Kenapa masuk akal:** ...
 - **Jalan keluar paling mudah ditutup:** ...
 - **Pertanyaan pembaca yang dijawab:** ...
@@ -69,24 +69,17 @@
 - **Ikonik (opsional):** ...
 - **Target kata:** ±750
 
-> Ulangi blok `### Bab N — <Judul>` sampai seluruh jumlah bab terisi lengkap.
+> Ulangi blok `### Bab N: <Judul>` sampai seluruh jumlah bab terisi lengkap.
 
-## Stress Test (10 Uji Logika & 10 Tanda Bahaya)
+## Gerbang Verifikasi Kesiapan Naskah: 7 Lapisan Uji Kelayakan Outline
 
-- [ ] 5 Slot Kelayakan Premis terisi kejadian spesifik.
-- [ ] Jumlah titik balik memenuhi batas minimal (≥6 untuk 30 bab, ≥8 untuk 40 bab).
-- [ ] Uji 1 (Konsekuensi nyata & terukur) lolos.
-- [ ] Uji 2 (Tenggat waktu dari pihak luar) lolos.
-- [ ] Uji 3 (Minimal 3 jalan pintas tertutup alasan tertulis) lolos.
-- [ ] Uji 4 (Semua siklus coba-gagal lolos Uji 100%) lolos.
-- [ ] Uji 5 (Taruhan naik / pilihan menyempit tiap siklus) lolos.
-- [ ] Uji 6 (Keputusan penting diambil aktif oleh tokoh) lolos.
-- [ ] Uji 7 (Bahan solusi akhir ditanam minimal 2 kali di Babak 1–2) lolos.
-- [ ] Uji 8 (Harga akhir sebanding / akhir tidak sempurna) lolos.
-- [ ] Uji 9 (Kalender, lokasi, dan matriks siapa-tahu-apa konsisten) lolos.
-- [ ] Uji 10 (Faktor budaya Indonesia nyata dan membumi) lolos.
-- [ ] Bebas dari 10 Tanda Bahaya (*Red Flags*) dan bebas *deus ex machina*.
-- [ ] Simulasi 3 peran selesai & user menyetujui.
+- [ ] **Lapisan 1 (Kelengkapan 18 Kolom):** Seluruh 18 kolom terisi untuk semua bab tanpa `?` atau `TBD`, min 6-8 titik balik, tipe in medias res terdefinisi.
+- [ ] **Lapisan 2 (Backward Dependency Tracing):** Syarat kemenangan di klimaks Babak 3 terlacak sampai ke perolehan fisik sah di Babak 2 dan Babak 1; zero deus ex machina.
+- [ ] **Lapisan 3 (World Building Stress-Test):** Lolos uji kepolisian/hukum Indonesia (UU ITE, SOP LP), jam sibuk kota/mobilitas, dan matematika uang riil.
+- [ ] **Lapisan 4 (Adversarial 'Why Not Do X?' Test):** Penutupan jalan pintas termudah didukung fakta fisik/hukum/ancaman nyata, bukan cuma rasa malu/sungkan.
+- [ ] **Lapisan 5 (10 Uji Logika Alur Cerita & 7 Logika Mikro):** Konsekuensi terukur, tenggat luar, uji 100% siklus, taruhan naik, keputusan aktif tokoh, planting 2x, anti-redundansi dialog, dimensi wadah benda konsisten.
+- [ ] **Lapisan 6 (Penyaringan 10 Tanda Bahaya):** Masalah tidak bisa selesai dengan 1 obrolan jujur; tokoh tidak bertindak bodoh demi alur; siklus coba-gagal dinamis; akhir tidak sempurna (ada harga nyata).
+- [ ] **Lapisan 7 (Simulasi Tiga Peran & Lock):** Pembaca Curiga, Antagonis Cerdas, dan Protagonis Logis tidak menemukan celah; user setuju; status ditandai **TERKUNCI v1.0**.
 
 ## Catatan Setup / Planting & Payoff
 

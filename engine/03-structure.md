@@ -1,4 +1,4 @@
-# 03 — Struktur, Kerangka Plot, dan Outline
+# 03: Struktur, Kerangka Plot, dan Outline
 
 > **Acuan Utama:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`.
 > **Prinsip Pas:** subplot, flashback, dan scene ikonik bersifat opsional (boleh nol). Angka yang disebut adalah batas atas, bukan target.
@@ -149,42 +149,82 @@ Saat merancang struktur dari premis, rujuk pola teruji di `../Kerangka Plot yang
 
 ---
 
-## 7. Kolom Wajib Outline per Bab
+## 7. Prosedur 6 Tahap Pembuatan Outline yang Rapi (SOP Desain Outline)
 
-Outline per bab harus cukup jelas sebagai acuan menulis tanpa perlu panduan tambahan di luar outline. Semua kolom wajib terisi:
+Pembuatan outline novel MetroPop wajib mengikuti alur 6 tahap berurutan berikut agar arsitektur cerita terkunci kokoh sebelum masuk penulisan prosa:
 
-```markdown
-### Bab N — Judul (2–5 kata)
-- **Hari/jam/lokasi:** ...
-- **POV:** ...
-- **Posisi Kerangka & Siklus:** (misal: Babak 2 - Siklus Coba-Gagal 2: Cara & Hambatan / Titik Tengah)
-- **Skor Ketegangan (1–10) & Pergeseran Emosi:** (misal: Ketegangan 6/10; Masuk: panik -> Keluar: lega sesaat tapi waswas)
-- **Tujuan adegan:** ...
-- **Komplikasi:** ...
-- **Beat:** 1) ... 2) ... 3) ... 4) ...
-- **Perubahan (`Berhasil, tapi...` / `Gagal, dan malah...`):** apa yang berbeda di akhir bab (hindari kemenangan mulus tanpa buntut di pertengahan buku).
-- **Siapa tahu apa:** siapa menyaksikan, fakta baru, siapa belum tahu.
-- **Setup/Planting yang ditanam:** (tandai Tanaman 1 atau Tanaman 2 jika bagian dari solusi akhir)
-- **Payoff yang dibayar:** ...
-- **Teknik naratif:** ...
-- **Hook:** ...
-- **Kenapa masuk akal:** satu kalimat bukti logika.
-- **Jalan keluar paling mudah ditutup:** kenapa tokoh tidak memilih jalan termudah di bab ini.
-- **Pertanyaan pembaca yang dijawab:** ...
-- **Yang TIDAK terjadi:** ...
-- **Target kata:** ±750 (titik balik ±900; maksimal 900; darurat maks. 1.200 kata).
-```
+### Tahap 1: Pemilihan Kerangka Plot & Skala Bab
+1. Pilih **Kerangka Utama** dari 8 kerangka terbukti menggunakan Tabel Keputusan di `engine/02-premise.md`.
+2. Tentukan target panjang: **30 bab** (±22.500 kata, min 6 titik balik) atau **40 bab** (±30.000 kata, min 8 titik balik).
+3. Tentukan tipe pembuka: **Tipe 1 (Direct Action Linier)** atau **Tipe 2 (Flash-Forward Hook Framing)**. Jika memilih Tipe 2, tentukan sejak awal di bab mana adegan *Loop Closure* akan disatukan kembali di titik tengah.
 
-Kolom opsional (isi hanya jika lolos Tes Pas): `Subplot/flashback`, `Jenis adegan`, `Ikonik`.
+### Tahap 2: Kunci Resolusi & Pelacakan Jejak Mundur (*Backward Dependency Tracing*)
+1. Jangan merancang Bab 1 sebelum Babak 3 (Puncak dan Resolusi) jelas. Tentukan adegan klimaks: apa syarat kemenangan tokoh (bukti dokumen, saksi, barang fisik, uang pelunasan).
+2. Lakukan pelacakan mundur (*backward tracing*):
+   - Syarat kemenangan didapat di bab berapa?
+   - Siapa yang memberikan petunjuk awal itu di Babak 2?
+   - Benda/informasi tersebut pertama kali diperkenalkan di Babak 1 pada bab berapa?
+   Jika satu syarat klimaks tidak memiliki akar fisik di Babak 1-2, outline ditolak.
+
+### Tahap 3: Perancangan Siklus Coba-Gagal (*Try-Fail Cycles*) Babak 2
+1. Petakan **3-6 siklus coba-gagal** untuk menggerakkan bagian tengah (Babak 2).
+2. Setiap siklus wajib memiliki **6 komponen wajib** (Tujuan, Alasan & Cara, Hambatan, Hasil, Akibat, dan Momen Canggung).
+3. Pastikan setiap tujuan siklus lolos **Uji 100%** (jika berhasil penuh, masalah inti memang selesai; jika tidak selesai, itu hanya *filler* dan wajib diganti).
+4. Pastikan pola hasil adegan bervariasi (`Berhasil, tapi...` atau `Gagal, dan malah...`).
+
+### Tahap 4: Desain Benih Solusi (*Planting Solusi 2 Kali*)
+1. Daftarkan elemen kunci solusi (orang, benda, kebiasaan, informasi).
+2. Tanam **Tanaman 1 (Sepele)** di Babak 1 (Bab 1-5).
+3. Tanam **Tanaman 2 (Hiasan/Komedi)** di Babak 2 Awal (Bab 6-15) sebelum titik terendah.
+4. Pastikan tidak ada solusi akhir yang muncul tiba-tiba (*anti-deus ex machina*).
+
+### Tahap 5: Pengisian 18 Kolom Wajib per Bab secara Granular
+1. Isi rincian setiap bab dari Bab 1 sampai Bab akhir tanpa kecuali.
+2. Dilarang membuat bab yang hanya berupa ringkasan 1-2 kalimat. Setiap bab wajib memiliki 18 kolom lengkap (waktu, lokasi, POV, ketegangan, beat aksi, siapa tahu apa, hook, jalan keluar tertutup).
+
+### Tahap 6: Eksekusi Gerbang Verifikasi Kesiapan Naskah (*Production-Ready Gate*)
+1. Uji outline menggunakan **7 Lapisan Uji Kelayakan Outline** (lihat Bagian 10).
+2. Tutup semua lubang logika dan red flags yang terdeteksi.
+3. Presentasikan ke user, dapatkan persetujuan, dan tandai outline **TERKUNCI v1.0**.
 
 ---
 
-## 8. Subplot, Flashback, Scene Ikonik, dan Teknik Naratif
+## 8. Standar 18 Kolom Wajib Outline per Bab (Granularitas Produksi)
 
-- **Subplot (Opsional, 0–3):** Plot utama (A) 60–100%, Romansa (B) ≤25%, Keluarga/sosial (C) ≤20%. Jangan membuka subplot baru setelah titik tengah kecuali sudah ditanam di Babak 1.
+Outline per bab harus cukup detail dan mandiri sebagai acuan menulis, sehingga saat menulis Bab 1 hingga bab akhir, AI/penulis tidak perlu lagi menebak atau mengarang fakta baru. Semua 18 kolom wajib terisi:
+
+```markdown
+### Bab N: Judul (2-5 kata)
+- **Hari/jam/lokasi:** Hari [X], [Nama Hari], [Jam persis], [Lokasi spesifik].
+- **POV:** Orang Pertama Murni ("Aku" / [Nama Tokoh]).
+- **Posisi Kerangka & Siklus:** [Babak & Beat Kerangka Utama] | [Siklus Coba-Gagal X: Komponen].
+- **Skor Ketegangan (1-10) & Pergeseran Emosi:** Ketegangan [X]/10; Masuk: [Emosi Awal] -> Keluar: [Emosi Akhir].
+- **Tujuan adegan:** Apa target fisik konkret tokoh di bab ini.
+- **Komplikasi:** Hambatan tak terduga yang merusak rencana tokoh.
+- **Beat adegan:** 1) ... 2) ... 3) ... 4) ...
+- **Perubahan (`Berhasil, tapi...` / `Gagal, dan malah...`):** Hasil akhir adegan dan buntut masalah barunya.
+- **Siapa tahu apa (Asimetri Pengetahuan):** Siapa menyaksikan, data mikro baru yang diperoleh sah, siapa belum tahu.
+- **Setup/Planting yang ditanam:** Detail benda/info/kebiasaan yang ditanam (tandai Tanaman 1 atau 2 jika bagian solusi akhir).
+- **Payoff yang dibayar:** Benih masa lalu yang dipanen/dibuktikan di bab ini.
+- **Teknik naratif:** (1-2 teknik: in medias res, dramatic irony, action beats, pacing naik-turun).
+- **Hook kalimat terakhir:** Pertanyaan/ketegangan menggantung yang memancing pembaca membuka bab berikutnya.
+- **Kenapa masuk akal:** Satu kalimat bukti rantai logika kausalitas.
+- **Jalan keluar paling mudah ditutup:** Alasan fisik/hukum/sosial konkret kenapa jalan pintas gampang tidak bisa diambil.
+- **Pertanyaan pembaca yang dijawab:** Penjelasan misteri/informasi yang dibuka untuk pembaca.
+- **Yang TIDAK terjadi:** Batasan tegas peristiwa yang dilarang terjadi di bab ini (mencegah eskalasi terlalu cepat).
+- **Target kata:** Standar ±750 kata (titik balik ±900 kata; maksimal 900 kata; darurat maks. 1.200 kata).
+```
+
+*Kolom opsional (isi hanya jika lolos Tes Pas):* `Subplot/flashback`, `Jenis adegan`, `Ikonik`.
+
+---
+
+## 9. Subplot, Flashback, Scene Ikonik, dan Ketentuan In Medias Res
+
+- **Subplot (Opsional, 0-3):** Plot utama (A) 60-100%, Romansa (B) ≤25%, Keluarga/sosial (C) ≤20%. Jangan membuka subplot baru setelah titik tengah kecuali sudah ditanam di Babak 1.
 - **Flashback (Opsional):** Dipicu benda/kata/tempat konkret, beri penanda waktu jelas, kembali ke masa kini dengan perubahan pemahaman, dicatat di Ledger A2.
-- **Scene Ikonik (Opsional, 0–5):** Mudah diceritakan ulang dalam satu kalimat, berakar pada karakter dan tema, wajib punya setup.
-- **Teknik Naratif (1–2 per bab):**
+- **Scene Ikonik (Opsional, 0-5):** Mudah diceritakan ulang dalam satu kalimat, berakar pada karakter dan tema, wajib punya setup.
+- **Teknik Naratif (1-2 per bab):**
   - *Wajib:* In medias res (Bab 1: pilih **Tipe 1 Direct Action** linier atau **Tipe 2 Flash-Forward Hook Framing**; lihat `06-chapter.md`), Hook akhir bab, Chekhov's gun / Planting 2x.
   - *Sering:* Show don't tell, Action beats, Dramatic irony, Pacing naik-turun.
   - *Sesekali:* Foreshadowing, Motif, Stream of consciousness (maks 1 paragraf saat panik), Red herring adil, Plot twist fair play, Allusion budaya Indonesia.
@@ -194,13 +234,73 @@ Kolom opsional (isi hanya jika lolos Tes Pas): `Subplot/flashback`, `Jenis adega
 Jika outline menggunakan **Tipe 2**, perhatikan penandaan khusus pada kolom outline:
 1. **Bab 1 & 2:** Tandai kolom posisi dengan `[Flash-Forward: Puncak Krisis / Anomali]` (mengambil momen genting dari Midpoint atau Titik Rendah).
 2. **Bab 3:** Tandai dengan `[Rewind: X Waktu Sebelumnya]` dan **wajib dibuka dengan In Medias Res Tipe 1** pada garis waktu awal (tanpa bangun tidur/eksposisi).
-3. **Bab Midpoint/Krisis (misal Bab 15–16 atau Bab 19–20):** Tandai dengan `[Loop Closure: Revisit Adegan Pembuka]`. Di sini alur waktu lampau bertemu kembali dengan Bab 1–2, ditulis dengan subteks, perspektif, dan muatan emosi yang sudah matang (bukan salin-tempel).
+3. **Bab Midpoint/Krisis (misal Bab 15-16 atau Bab 19-20):** Tandai dengan `[Loop Closure: Revisit Adegan Pembuka]`. Di sini alur waktu lampau bertemu kembali dengan Bab 1-2, ditulis dengan subteks, perspektif, dan muatan emosi yang sudah matang (bukan salin-tempel).
 
 ---
 
-## 9. Anti-Monoton, Outline Lock, & Protokol Krisis
+## 10. Gerbang Verifikasi Kesiapan Naskah: 7 Lapisan Uji Kelayakan Outline (*Outline Production-Ready Gate*)
 
-- Jangan memakai pola adegan atau jenis hook yang sama dua bab berturut-turut (maksimal 3 kali per 10 bab).
-- Sebelum mengunci outline (**TERKUNCI v1.0**), jalankan **10 Uji Logika & 10 Tanda Bahaya** serta **Empat Teknik Preventif Ketat (Anti-Cacat Sejak Desain)** di `08-quality.md` (termasuk *Backward Dependency Tracing* dari klimaks).
-- Setelah terkunci, perubahan hanya boleh dilakukan lewat `templates/change-request.md`.
-- Jika di tengah penulisan bab (misal Bab 20) ditemukan ketidakmungkinan logika cerita, **dilarang langsung merombak seluruh naskah dari awal**. Jalankan **Protokol Triase & Mitigasi Krisis Logika (Blast Radius Mitigation & 4 Teknik Bedah Alur)** di `08-quality.md` dan `12-audit-remediation.md` untuk mengisolasi kerusakan dan mengalihkan rute tanpa merusak bab yang sudah ditulis.
+Sebelum outline diserahkan kepada user untuk disetujui dan dikunci (**TERKUNCI v1.0**), outline **WAJIB lolos 7 Lapisan Uji Kelayakan** berikut. Jika ada satu lapisan yang gagal, outline **BELUM BOLEH DIGUNAKAN UNTUK MENULIS**:
+
+```mermaid
+flowchart TD
+    L1["Lapisan 1: Kelengkapan 18 Kolom (100% Granular)"] --> L2["Lapisan 2: Pelacakan Mundur Kausalitas (Backward Tracing)"]
+    L2 --> L3["Lapisan 3: Kelayakan Dunia Nyata (Hukum, Geografi, Uang)"]
+    L3 --> L4["Lapisan 4: Uji Penutupan Jalan Mudah (Why Not Do X?)"]
+    L4 --> L5["Lapisan 5: 10 Uji Logika Makro & 7 Logika Mikro"]
+    L5 --> L6["Lapisan 6: Penyaringan 10 Tanda Bahaya (Red Flags)"]
+    L6 --> L7["Lapisan 7: Simulasi Tiga Peran & Ratifikasi Penguncian"]
+    L7 --> LOCK["OUTLINE TERKUNCI v1.0 (PRODUCTION-READY)"]
+```
+
+### Lapisan 1: Kelengkapan Kolom & Kepadatan Bahan (100% Granular)
+- [ ] Seluruh bab (Bab 1 s.d. 30/40) memiliki **18 kolom wajib terisi lengkap tanpa tanda tanya `?` atau `TBD`**.
+- [ ] Jumlah titik balik memenuhi syarat minimal (≥6 titik balik untuk 30 bab, ≥8 titik balik untuk 40 bab).
+- [ ] Bab 1 terdefinisi jelas tipe pembukanya (Tipe 1 Direct Action Linier atau Tipe 2 Flash-Forward dengan titik Loop Closure terjadwal).
+
+### Lapisan 2: Pelacakan Mundur Kausalitas (*Backward Dependency Tracing*)
+- [ ] Seluruh aset kemenangan di klimaks Babak 3 (bukti fisik, saksi, dokumen, uang pelunasan) memiliki jejak perolehan sah di Babak 2 dan benih awal di Babak 1.
+- [ ] Tidak ada tokoh penyelamat, bukti ajaib, atau kebetulan penyelamat yang muncul tiba-tiba di Babak 3.
+
+### Lapisan 3: Kelayakan Dunia Nyata & World Building (*World Building Stress-Test*)
+- [ ] Prosedur hukum Indonesia nyata (SOP Laporan Polisi resmi, UU ITE, rahasia perbankan mutlak tanpa retasan akun pribadi ajaib oleh tim IT swasta).
+- [ ] Realitas transportasi & jam sibuk (jarak tempuh, jam macet 07.00-09.30 dan 16.30-19.30, SOP parkir gedung).
+- [ ] Konsistensi hitungan uang (pembagian DP, sisa pelunasan, pembayaran utang, dan saldo riil).
+
+### Lapisan 4: Penutupan Jalan Paling Mudah (*Adversarial 'Why Not Do X?' Test*)
+- [ ] Pada setiap bab krisis, alasan mengapa tokoh tidak memilih jalan termudah (jujur langsung, lapor bos, lapor keluarga) diuji secara kritis.
+- [ ] Alasan penutupan jalan mudah **wajib berupa fakta fisik, hukum tertulis, atau ancaman nyata**, bukan sekadar rasa gengsi atau sungkan tanpa risiko.
+
+### Lapisan 5: 10 Uji Logika Alur Cerita & 7 Logika Mikro
+- [ ] Memenuhi 10 Uji Logika Makro (`engine/08-quality.md` Bagian 2): Konsekuensi Nyata, Tenggat Luar, Jalan Pintas Tertutup, Uji 100%, Taruhan Naik, Keputusan Aktif Tokoh, Planting 2 Kali, Harga Sebanding, Kalender & Matriks Pengetahuan, Budaya Indonesia.
+- [ ] Memenuhi 7 Uji Logika Mikro (`engine/08-quality.md` Bagian 2B): Anti-Redundansi Dialog, Prosedur Nyata Indonesia, Matematika Uang Konsisten, Logika Fisik Dimensi Benda/Wadah, Jalur Informasi Eksplisit, Motivasi Antagonis Logis, Realitas Iklim Lokal.
+
+### Lapisan 6: Penyaringan 10 Tanda Bahaya (*Red Flags Filter*)
+- [ ] Bersih dari 10 Tanda Bahaya (`engine/08-quality.md` Bagian 3): Masalah tidak bisa selesai hanya dengan 1 obrolan jujur; tokoh tidak dipaksa bertindak bodoh demi alur; siklus coba-gagal tidak monoton; akhir cerita memiliki harga nyata yang dibayar.
+
+### Lapisan 7: Simulasi Tiga Peran & Ratifikasi Penguncian (*Outline Lock*)
+- [ ] Lolos simulasi 3 peran (`engine/08-quality.md` Bagian 4): Pembaca Awam Curiga, Antagonis Cerdas, dan Protagonis Logis.
+- [ ] Ringkasan outline dan lubang logika yang sudah ditutup dipresentasikan kepada user.
+- [ ] User menyetujui, dan status outline diubah menjadi **TERKUNCI v1.0**.
+
+---
+
+## 11. Penguncian Outline (TERKUNCI v1.0), Garansi Anti-Ubah Bab 1, & Protokol Krisis
+
+### Garansi Anti-Ubah Mulai dari Bab 1
+Setelah outline lolos 7 Lapisan Uji Kelayakan dan diberi label **TERKUNCI v1.0**, sistem memberikan garansi stabilitas alur:
+1. **Penulisan Bab 1 Berjalan Tanpa Ragu:** Penulis/AI menulis Bab 1 langsung dari spesifikasi kolom yang terkunci. Tidak ada lagi kebingungan arah cerita atau revisi struktural di awal.
+2. **Karantina Ide Spontan:** Ide-ide baru, dialog lucu tambahan, atau sentuhan minor yang muncul saat menulis prosa bab ditampung di `idea-list.md` tanpa mengubah arsitektur outline terkunci.
+3. **Protokol Perubahan Formal:** Outline yang sudah terkunci **DILARANG diubah diam-diam**. Perubahan alur hanya boleh dilakukan jika user secara eksplisit meminta perubahan melalui formulir `engine/templates/change-request.md`.
+
+### Mitigasi Krisis Logika Tengah Cerita (*In-Flight Crisis Mitigation*)
+Jika di tengah penulisan bab (misalnya saat menulis Bab 20) tiba-tiba ditemukan jalan buntu atau fakta baru yang membuat rencana semula terasa mustahil:
+- **DILARANG MEROMBAK NASKAH DARI AWAL:** Jangan pernah menghapus Bab 1 sampai Bab 19!
+- **Terapkan Karantina Radius Ledakan (*Blast Radius Containment*):** Kunci bab-bab steril yang sudah ditulis (Bab 1 s.d. N-k dilarang diubah).
+- **Gunakan 4 Teknik Bedah Alur (`engine/08-quality.md` Bagian 4B & `engine/12-audit-remediation.md`):**
+  1. *Pengalihan Rute Kausal:* Manfaatkan aset/tokoh/benda yang sudah ada di bab sebelumnya sebagai jembatan alternatif.
+  2. *Memeluk Kemustahilan Menjadi Komplikasi:* Jadikan kegagalan rencana tersebut sebagai kepanikan nyata tokoh di bab berjalan.
+  3. *Jahitan Bedah Mikro:* Lakukan revisi lokal rasio 74/18/8 pada bab terdekat tanpa merembet ke bab-bab awal.
+  4. *Pertukaran Beban Pembuktian:* Buat pihak lawan yang membocorkan rahasianya sendiri karena panik atau sombong.
+- **Sinkronisasi Maju (*Forward Cascading Sync*):** Sesuaikan hanya sisa bab di outline ke depan (Bab N+1 s.d. selesai) dan mintakan konfirmasi *Change Request* kepada user.
+
