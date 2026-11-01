@@ -107,7 +107,7 @@ Saat mengaudit outline atau membedah naskah novel yang bermasalah, periksa 10 ta
 
 ## 4. Prosedur Stress Test Outline (Sebelum Lock)
 
-Sebelum mengunci outline (**TERKUNCI v1.0**):
+Sebelum mengunci outline (**TERKUNCI v1.0**), jalankan pengujian ketat agar tidak terjadi kebuntuan logika saat penulisan bab di tengah cerita:
 1. Uji kelayakan premis dengan **5 Slot Wajib** dan hitung jumlah titik balik (minimal 6 untuk 30 bab, 8 untuk 40 bab).
 2. Jawab **10 Uji Logika** di atas dengan merujuk nomor bab secara spesifik.
 3. Periksa semua **10 Tanda Bahaya** dan pastikan tidak ada satu pun yang bocor.
@@ -115,7 +115,64 @@ Sebelum mengunci outline (**TERKUNCI v1.0**):
    - *Pembaca awam yang curiga* (mencari celah "kok nggak gini aja?");
    - *Antagonis yang cerdas* (mencari cara paling cepat menjatuhkan/membongkar protagonis);
    - *Protagonis yang berpikir logis* (mencari jalan keluar termudah tanpa drama).
-5. Presentasikan lubang yang ditemukan beserta cara menutupnya kepada user.
+5. Jalankan **Empat Teknik Preventif Ketat (Anti-Cacat Logika Sejak Desain)** di bagian 4A.
+6. Presentasikan lubang yang ditemukan beserta cara menutupnya kepada user.
+
+---
+
+## 4A. Empat Teknik Preventif Ketat di Tahap Outline (Anti-Cacat Sejak Desain)
+
+Alasan mengapa kesalahan logika sering baru disadari saat menulis bab tengah (misal Bab 20) adalah karena outline sering dibaca secara **statis per bab terpisah**, bukan disimulasikan sebagai **mesin dinamis sebab-akibat**. Sebelum outline dikunci, jalankan 4 teknik preventif ini:
+
+1. **Uji Jejak Mundur dari Klimaks (*Backward Dependency Tracing*):**
+   - Mulai dari adegan puncak/klimaks (Babak 3): daftarkan semua syarat kemenangan tokoh (bukti dokumen, saksi kunci, benda, pengakuan, uang pelunasan).
+   - Tarik garis mundur: *"Bukti ini didapat dari mana?"* -> mundur ke Babak 2 -> mundur ke Babak 1.
+   - Jika ada satu syarat klimaks yang tidak memiliki mata rantai fisik dan saluran perolehan yang jelas sejak Babak 1-2, **outline wajib ditolak sebelum lock**.
+2. **Uji Kelayakan Fisik, Geografis, & Hukum Nyata (*World Building Stress-Test*):**
+   - Uji setiap beat rencana dengan 3 hukum nyata (`11-worldbuilding.md`):
+     - *Hukum Kepolisian & Bank:* Apakah bukti itu sah di mata hukum Indonesia? (Dilarang ada retasan mutasi bank pribadi oleh tim IT kantor).
+     - *Hukum Spasial & Jam Sibuk:* Apakah tokoh bisa sampai di lokasi pada jam itu di tengah kemacetan kota?
+     - *Hukum Matematika Uang:* Apakah perputaran uang (DP, utang, pelunasan) konsisten matematis?
+3. **Uji Serangan Pilihan Paling Mudah (*Adversarial 'Why Not Do X?' Test*):**
+   - Untuk setiap masalah di tiap bab, tanyakan: *"Kenapa tokoh tidak langsung lapor polisi, kirim chat WA jujur, atau minta tolong teman kantor?"*
+   - Alasan penutupan jalan mudah **wajib berupa fakta fisik, hukum, atau ancaman nyata**, bukan sekadar alasan emosional buatan penulis (*"karena dia malu"* atau *"karena dia takut"* tidak cukup jika taruhannya besar).
+4. **Grafik Aliran Pengetahuan & Bukti Sejak Outline (*Pre-Outline Knowledge Graph*):**
+   - Petakan dalam satu tabel ringkas sebelum menulis Bab 1: rahasia apa yang ada, siapa yang tahu sejak awal, kapan berpindah tangan, dan siapa yang dilarang tahu sampai titik balik tertentu.
+
+---
+
+## 4B. Protokol Triase & Mitigasi Krisis Logika Tengah Cerita (Blast Radius Mitigation)
+
+Jika saat proses penulisan bab tengah (misal di Bab 20) tiba-tiba ditemukan bahwa rencana adegan **secara logika mustahil terjadi**, jangan panik dan jangan langsung menghapus cerita dari awal. Jalankan protokol mitigasi darurat ini:
+
+### Langkah 1: Triase Diagnostik (Membedakan Cacat Mati vs Cacat Rute)
+Tentukan apakah krisis ini mematikan cerita atau hanya masalah rute:
+- **Premis Cacat Mati (*Lethal Premise Collapse*):** Hanya terjadi jika premis dasarnya sendiri melanggar logika internal yang tidak bisa diperbaiki sama sekali (misal: novel sandiwara pacar sewaan, tapi sejak Bab 1 keluarga besar ternyata sudah memegang KTP dan biodata asli tokoh sehingga sandiwara batal secara logika). Jika lolos Uji 5 Slot di awal, kemungkinan ini di bawah 5%.
+- **Cacat Rute (*Routing Defect* — 95% Kasus):** Premis dan tujuan tokoh tetap solid, tetapi **cara atau alat** yang direncanakan di outline ternyata mustahil secara fisik/hukum di Bab 20. Ini **100% bisa diselamatkan tanpa menulis ulang dari awal**.
+
+### Langkah 2: Karantina Radius Ledakan (*Blast Radius Containment*)
+- Cari **Titik Simpul Asumsi (*Pivotal Node*)**: Di bab berapa asumsi yang keliru itu pertama kali disebut?
+- Contoh: Di Bab 20 butuh bukti rekaman CCTV, tetapi di Bab 15 satpam sempat berkata CCTV area itu rusak.
+- **Karantina Ketat:** Radius ledakan hanya dari Bab 15 sampai Bab 20. **Bab 1 sampai Bab 14 dinyatakan STERIL dan DILARANG DIUBAH.**
+
+### Langkah 3: Empat Teknik Bedah Alur Tanpa Tulis Ulang dari Awal (*4 Surgical Rerouting Techniques*)
+Gunakan salah satu dari 4 teknik bedah ini untuk menyelesaikan krisis di Bab 20:
+
+1. **Teknik 1 — Pengalihan Rute Kausal (*Causal Re-routing / The Detour*):**
+   - Jika Cara X mustahil, ganti dengan Cara Y yang memanfaatkan benda, kebiasaan, atau tokoh kecil yang **sudah ada di bab-bab sebelumnya** (*leveraging existing assets*).
+   - *Contoh:* CCTV rusak, tetapi ada foto pemandangan yang diambil oleh pengunjung kafe di sebelah lokasi yang tidak sengaja merekam mobil pelaku.
+2. **Teknik 2 — Memeluk Kemustahilan Menjadi Komplikasi (*Lean into the Impossibility*):**
+   - Alih-alih memaksakan rencana awal berhasil, buat tokoh **sadar di dalam cerita bahwa rencananya mustahil**!
+   - Tokoh mencoba, menemui jalan buntu, dan kegagalan itulah yang menjadi bahan bakar dramatik Bab 20 (`Gagal, dan malah...`). Kepanikan akibat rencana yang buntu justru membuat cerita jauh lebih realistis, menegangkan, dan manusiawi.
+3. **Teknik 3 — Jahitan Bedah Mikro (*Micro-Suture*):**
+   - Lakukan revisi bedah lokal pada 1–2 paragraf di bab terdekat (misal Bab 18 atau 19) memakai rasio edit profesional 74/18/8. Sisipkan satu detail baru (seperti pesan chat yang tertinggal atau kartu nama di dompet) untuk menjadi jembatan logis bagi Bab 20.
+4. **Teknik 4 — Pertukaran Beban Pembuktian (*Burden Shift*):**
+   - Jika protagonis secara fisik/hukum mustahil membongkar bukti tersebut, alihkan beban tersebut ke pihak antagonis atau pihak ketiga: buat antagonis membocorkannya sendiri karena panik, sombong, atau terdesak oleh pihak lain.
+
+### Langkah 4: Sinkronisasi Maju (*Forward Cascading Sync*)
+- Setelah solusi Bab 20 terkunci logis, sesuaikan outline Bab 21 sampai tamat.
+- Perbarui `state.md` dan `ledger.md`.
+- Jalankan verifikasi otomatis `python3 scripts/audit-continuity.py`. Cerita kembali melaju mulus tanpa merusak karya yang sudah ditulis.
 
 ### Simulasi Pengalaman Baca (*Persona-Bound Reader-Sim*) & Simulasi Tokoh (*Character-Sim*)
 

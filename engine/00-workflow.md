@@ -171,6 +171,7 @@ Jalankan prosedur di `08-quality.md`:
 1. **10 Uji Logika Alur Cerita** (termasuk Uji 100% pada tiap siklus coba-gagal, tenggat luar, dan planting 2x) dengan merujuk nomor bab.
 2. **Pemeriksaan 10 Tanda Bahaya (*Red Flags*)**.
 3. **Simulasi Tiga Peran:** pembaca awam yang curiga, antagonis yang cerdas, dan protagonis yang berpikir logis.
+4. **Empat Teknik Preventif Ketat (Bagian 4A):** *Backward Dependency Tracing* dari klimaks, *World Building Stress-Test* (hukum/jarak/uang nyata), *Adversarial 'Why Not Do X?' Test*, dan *Pre-Outline Knowledge Graph*.
 
 Tutup semua lubang sebelum meminta persetujuan.
 

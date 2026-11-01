@@ -3,6 +3,22 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v2.8 — 2026-11-01
+
+- **Perubahan:** Menetapkan **Protokol Uji Ketahanan Ekstrem Outline & Mitigasi Krisis Logika Tengah Cerita (*Outline Stress-Testing & In-Flight Crisis Mitigation*)** untuk mengeliminasi cacat logika saat penulisan bab tengah (seperti Bab 20) tanpa merombak naskah dari awal:
+  1. **Empat Teknik Preventif Ketat di Tahap Outline (`engine/08-quality.md` Bagian 4A):**
+     - *Backward Dependency Tracing:* Pelacakan jejak mundur semua syarat kemenangan klimaks Babak 3 hingga ke Babak 1 untuk memastikan tidak ada bukti/tokoh penolong ajaib.
+     - *World Building Stress-Test:* Pengujian hukum kepolisian/perbankan RI, jarak/jam sibuk transportasi, dan matematika uang pada setiap babak.
+     - *Adversarial 'Why Not Do X?' Test:* Penutupan jalan keluar termudah wajib berupa fakta fisik/hukum nyata, bukan sekadar alasan emosional buatan penulis.
+     - *Pre-Outline Knowledge Graph:* Pemetaan alur asimetri rahasia dan fakta sejak draf outline.
+  2. **Protokol Triase & Mitigasi Krisis Logika Tengah Cerita (`engine/08-quality.md` Bagian 4B & `engine/12-audit-remediation.md`):**
+     - *Triase Diagnostik:* Membedakan *Lethal Premise Collapse* (<5%) vs *Routing Defect* (95% kasus kebuntuan).
+     - *Karantina Radius Ledakan (Blast Radius Containment):* Mengunci bab-bab steril sebelum titik simpul asumsi salah (Bab 1 s.d. N-k dilarang diubah).
+     - *Empat Teknik Bedah Alur Tanpa Tulis Ulang dari Awal (4 Surgical Rerouting Techniques):* (1) Pengalihan Rute Kausal (memanfaatkan aset cerita yang sudah ada), (2) Memeluk Kemustahilan Jadi Komplikasi (tokoh sadar rencananya buntu dan kepanikan itu menjadi plot motorik bab), (3) Jahitan Bedah Mikro (74/18/8 pada bab terdekat), dan (4) Pertukaran Beban Pembuktian (antagonis membocorkannya sendiri karena sombong/panik).
+     - *Forward Cascading Sync:* Sinkronisasi maju ke outline sisa tanpa regresi.
+  3. **Pembaruan Dokumen Engine:** Memperbarui `engine/08-quality.md`, `engine/03-structure.md`, `engine/00-workflow.md`, `engine/12-audit-remediation.md`, dan changelog.
+- **File:** `engine/08-quality.md`, `engine/03-structure.md`, `engine/00-workflow.md`, `engine/12-audit-remediation.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v2.7 — 2026-11-01
 
 - **Perubahan:** Menetapkan **Standar Audit 5 Tahap & Alur Remediasi Beruntun (*Cascading Remediation*) Anti-Regresi** per judul novel MetroPop:

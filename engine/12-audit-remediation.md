@@ -173,8 +173,9 @@ Untuk menjamin perbaikan **tepat sasaran dan tidak merusak langkah sebelumnya**,
 
 ### Langkah R2 — Perbaiki Arsitektur Outline (Tingkat 2)
 1. Perbarui `outline.md` hanya pada bab-bab yang terpengaruh oleh perubahan Canon.
-2. Pastikan titik balik, siklus coba-gagal baru (lolos Uji 100%), dan *planting 2x* berada di posisi bab yang tepat.
-3. Kunci kembali outline sebagai acuan menulis adegan.
+2. Gunakan salah satu dari **4 Teknik Bedah Alur (*4 Surgical Rerouting Techniques*)** di `08-quality.md`: (1) Pengalihan Rute Kausal, (2) Memeluk Kemustahilan Jadi Komplikasi, (3) Jahitan Bedah Mikro, atau (4) Pertukaran Beban Pembuktian, agar alur diselamatkan secara elegan tanpa merombak bab awal.
+3. Pastikan titik balik, siklus coba-gagal baru (lolos Uji 100%), dan *planting 2x* berada di posisi bab yang tepat.
+4. Kunci kembali outline sebagai acuan menulis adegan.
 
 ---
 

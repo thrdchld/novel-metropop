@@ -198,8 +198,9 @@ Jika outline menggunakan **Tipe 2**, perhatikan penandaan khusus pada kolom outl
 
 ---
 
-## 9. Anti-Monoton & Outline Lock
+## 9. Anti-Monoton, Outline Lock, & Protokol Krisis
 
 - Jangan memakai pola adegan atau jenis hook yang sama dua bab berturut-turut (maksimal 3 kali per 10 bab).
-- Sebelum mengunci outline (**TERKUNCI v1.0**), jalankan **10 Uji Logika & Tanda Bahaya** di `08-quality.md`.
+- Sebelum mengunci outline (**TERKUNCI v1.0**), jalankan **10 Uji Logika & 10 Tanda Bahaya** serta **Empat Teknik Preventif Ketat (Anti-Cacat Sejak Desain)** di `08-quality.md` (termasuk *Backward Dependency Tracing* dari klimaks).
 - Setelah terkunci, perubahan hanya boleh dilakukan lewat `templates/change-request.md`.
+- Jika di tengah penulisan bab (misal Bab 20) ditemukan ketidakmungkinan logika cerita, **dilarang langsung merombak seluruh naskah dari awal**. Jalankan **Protokol Triase & Mitigasi Krisis Logika (Blast Radius Mitigation & 4 Teknik Bedah Alur)** di `08-quality.md` dan `12-audit-remediation.md` untuk mengisolasi kerusakan dan mengalihkan rute tanpa merusak bab yang sudah ditulis.
