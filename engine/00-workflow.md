@@ -121,7 +121,7 @@ Gunakan template di `templates/`. Jangan mengarang format baru.
 
 Canon wajib memuat:
 
-- judul, logline 1 kalimat, blurb 3–5 kalimat;
+- judul, logline 1 kalimat, blurb ringkas gaya MetroPop (3-4 paragraf pendek, anti-over-explaining, no spoiler Babak 2);
 - **Uji 5 Slot Kelayakan Premis** dan **Kerangka Plot (Utama + Pendamping)**;
 - tema dan pertanyaan dramatik;
 - janji ke pembaca;

@@ -15,11 +15,13 @@
 
 ### Sinopsis Utama (Blurb Platform)
 
-Ayu Anindya, sarjana Manajemen Bisnis ber-IPK 3,85 yang terpaksa narik ojol demi bayar utang keluarga, nggak pernah menyangka orderan nasi kotak ke Menara Astra bakal mengubah nasibnya. Dalam hitungan menit, Rian, bos muda yang panik menghindari perjodohan keluarga, langsung menyewanya lima belas juta sebulan untuk jadi pacar pura-pura.
+Hari itu, niat Ayu cuma satu: mengantar pesanan makanan ke gedung perkantoran Sudirman, lalu lanjut narik ojol keliling Jakarta.
 
-Tugas Ayu kelihatan simpel: pakai masker kain, hapal skenario hubungan, dan jaga jarak aman. Namun, saat kehangatan keluarga Rian mulai meruntuhkan tembok gengsi mereka berdua, mantan pacar Rian justru berhasil melacak identitas asli Ayu dari nomor pelat motor matic yang terparkir di basement hotel.
+Sialnya, nasib malah membawanya terjebak di tengah pesta pernikahan keluarga konglomerat. Dalam kondisi panik, seorang bos muda bernama Rian mendadak menggandeng tangannya dan mengenalkannya ke semua orang sebagai pacar baru.
 
-Bisakah Ayu mempertahankan kehormatan keluarganya ketika sandiwara profesional ini mendadak berubah jadi rasa yang beneran?
+Demi bayaran yang bisa menyelamatkan keuangan keluarganya, Ayu nekat memperpanjang sandiwara itu. Dia pikir tugasnya bakal gampang: tinggal pasang senyum manis di depan keluarga besar Rian, lalu bawa pulang uangnya.
+
+Kenyataannya? Hidup Ayu justru makin runyam. Masalah berdatangan dari segala penjuru, mulai dari keluarga Rian yang hobi menyelidik, tatapan curiga orang-orang berduit, sampai kehidupan aslinya sebagai driver ojol yang terancam berantakan. Dan yang paling gawat, si bos kaku itu pelan-pelan mulai bikin Ayu lupa kalau semua ini cuma akting belaka.
 
 ---
 

@@ -3,6 +3,19 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.3 - 2026-11-02
+
+- **Perubahan:** Menetapkan **Standar Blurb MetroPop Anti-Over-Explaining & Formula Trailer Ringkas (Engine v3.3)**:
+  1. *Demarkasi Blurb vs Ringkasan Teknis Outline:* Menegaskan fungsi blurb sebagai alat pemasaran fiksi (*trailer film*) yang menggoda dan memancing rasa penasaran pembaca. Dilarang keras merinci klausul kontrak teknis, daftar aturan bernomor 1-2-3, atau nominal angka berlebihan layaknya lembar perjanjian kerja.
+  2. *Formula 4 Paragraf Pendek MetroPop (Gaya Gramedia GPU / Almira Bastari):*
+     - Paragraf 1: Situasi awal sederhana dan membumi (niat keseharian tokoh).
+     - Paragraf 2: Insiden pemicu absurd yang menjebak tokoh ke situasi tak terduga.
+     - Paragraf 3: Ekspektasi vs realita ("pikirnya gampang, ternyata masalah berdatangan dari segala penjuru").
+     - Paragraf 4: Hook dilema emosi dan rahasia yang menggantung.
+  3. *Aturan Mutlak Zero-Spoiler Babak 2:* Blurb hanya berhenti di 20-25% awal cerita. Dilarang membocorkan cara rahasia terbongkar (seperti nomor pelat di basement) atau dalang di balik layar.
+  4. *Pembaruan Naskah & Template:* Memperbarui blurb novel *Narik Ojol Cinta Pun Nongol* di `story/Narik Ojol Cinta Pun Nongol/canon.md` dan `outline.md`, serta memperbarui panduan blurb di `engine/templates/blurb.md`, `engine/templates/canon.md`, dan `engine/00-workflow.md`.
+- **File:** `story/Narik Ojol Cinta Pun Nongol/canon.md`, `story/Narik Ojol Cinta Pun Nongol/outline.md`, `engine/templates/blurb.md`, `engine/templates/canon.md`, `engine/00-workflow.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.2 - 2026-11-02
 
 - **Perubahan:** Membangun **Sistem Universe Registry Terpadu, Roster Karakter Anti-Duplikasi, & Protokol Cameo 3 Tingkat (Engine v3.2)**:

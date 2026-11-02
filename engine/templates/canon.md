@@ -20,7 +20,7 @@
 ## Premis & Kerangka Plot
 
 - **Logline (1 kalimat):** [Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata].
-- **Blurb:** 3–5 kalimat.
+- **Blurb:** 3-4 paragraf pendek (gaya MetroPop: situasi awal sederhana -> terjebak situasi absurd -> ekspektasi vs realita runyam -> dilema menggantung; tanpa spoiler Babak 2/klimaks dan tanpa rincian pasal teknis).
 - **Tema & Pertanyaan Dramatik:** ...
 - **Janji ke pembaca:** ...
 - **Kerangka Utama:** <Tiga Babak / Save the Cat / Story Circle / Seven-Point / Fichtean Curve / Struktur Romance / Kishōtenketsu / Arc Bersarang>
