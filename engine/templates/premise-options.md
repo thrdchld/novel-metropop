@@ -1,7 +1,7 @@
 # 3 Opsi Premis MetroPop
 
 > Disusun menggunakan **3 Pilar Arsitektur Premis** (`panduan-pengembangan-premis-cerita.md` dan `engine/02-premise.md`) serta **8 Kerangka Plot Terbukti** (`Kerangka Plot yang Terbukti untuk Web Novel.md`).
-> Sebelum menyusun opsi ini, AI wajib memeriksa `story/premise-bank.md` untuk menghindari trope dan premis yang pernah ditolak.
+> Sebelum menyusun opsi ini, AI wajib memeriksa `story/universe-registry.md` untuk menghindari trope, profesi, karakter, dan premis yang pernah ditolak atau sudah ada.
 
 ---
 
@@ -30,7 +30,7 @@
   5. *Perubahan Akhir & Harga Nyata (Akhir Tidak Sempurna):* ...
 - **Benih Solusi (Planting 2 Kali):** [Planting 1 di Babak 1] dan [Planting 2 di Babak 2 awal].
 - **Sumber Humor / Ironi Sentral:** 3 contoh situasi canggung / jenaka konkret.
-- **Kenapa Berbeda (Novelty):** 3 hal konkret yang membedakannya dari premis yang ada di `story/premise-bank.md`.
+- **Kenapa Berbeda (Novelty):** 3 hal konkret yang membedakannya dari novel dan premis di `story/universe-registry.md`.
 
 ---
 
@@ -92,10 +92,10 @@
 
 ---
 
-## Rekomendasi Editorial & Rencana Pencatatan Bank Premis
+## Rekomendasi Editorial & Rencana Pencatatan Universe Registry
 
 Opsi [Nomor] paling direkomendasikan karena [alasan kekuatan dramatis dan kesegaran ironi].
 Setelah user memilih atau memberikan tanggapan:
-- Opsi terpilih akan ditandai `DITERIMA / AKTIF` di `story/premise-bank.md`.
+- Opsi terpilih akan ditandai `DITERIMA / AKTIF` di `story/universe-registry.md`.
 - Opsi yang disukai namun ditunda akan disimpan di `CADANGAN / BACKLOG`.
 - Opsi/trope yang tidak disukai akan dicatat di `DITOLAK / JANGAN DITAWARKAN LAGI` agar tidak pernah ditawarkan lagi.

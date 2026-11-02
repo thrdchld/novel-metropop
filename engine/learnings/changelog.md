@@ -3,6 +3,24 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.2 - 2026-11-02
+
+- **Perubahan:** Membangun **Sistem Universe Registry Terpadu, Roster Karakter Anti-Duplikasi, & Protokol Cameo 3 Tingkat (Engine v3.2)**:
+  1. *Penyatuan Bank Premis & Pendaftar Semesta (`story/universe-registry.md` & `engine/templates/universe-registry.md`):* Menghapus file `premise-bank.md` yang terpisah dan menyatukan seluruh bank aset portofolio semesta ke dalam satu dokumen hidup yang memuat 6 komponen terstruktur:
+     - Bagian 1: Indeks Proyek & Metrik Semesta (Master Story Index: ID Proyek, ID Premis, Judul, Status, Jumlah Bab, Total Kata, Latar Utama, Tahun Cerita).
+     - Bagian 2: Bank Premis & Siklus Hidup Ide (Premis Aktif, Cadangan/Backlog, Ditolak, dan Daftar Hitam Trope).
+     - Bagian 3: Roster Karakter Semesta & Aturan Anti-Duplikasi Nama, Watak, dan Profesi Tokoh Lintas Cerita.
+     - Bagian 4: Katalog Entitas Dunia Bersama (Gedung, Lokasi Usaha, Agensi, dan Kantor Hukum Fiktif yang sah dipakai ulang).
+     - Bagian 5: Protokol Semesta Bersama & 3 Tingkat Cameo (Dialog, Kilas Balik, Fisik).
+     - Bagian 6: Matriks Kebaruan Mutlak (Novelty Matrix Check).
+  2. *Protokol Cameo 3 Tingkat:*
+     - Tingkat 1: Rujukan Percakapan / Informasi (*Off-Screen Mention / Rumor*) tanpa kehadiran fisik tokoh lama.
+     - Tingkat 2: Rujukan Kilas Balik (*Flashback / Shared History*) sebagai latar belakang / memori lampau.
+     - Tingkat 3: Kehadiran Fisik Singkat (*Live Physical Cameo*) berdurasi 1-2 dialog sopan santun, murni sebagai *world flavor*, dan **DILARANG KERAS menjadi penyelamat / deus ex machina**.
+  3. *Aturan Isolasi Konteks (Smart-Reading):* Universe Registry wajib dibaca pada Mode A (Ide) dan Mode B (Proyek Baru), namun DILARANG dibaca pada Mode C (Menulis Bab) guna mencegah polusi jendela konteks penulisan bab.
+  4. *Penyelarasan Seluruh Komponen Repositori:* Memperbarui `scripts/audit-continuity.py`, `story/README.md`, `engine/00-workflow.md`, `engine/02-premise.md`, `engine/07-continuity.md`, `engine/11-worldbuilding.md`, `engine/templates/premise-options.md`, `engine/README.md`, `README.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `CLAUDE_SKILL.md`, `CHATGPT_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`.
+- **File:** `story/universe-registry.md`, `engine/templates/universe-registry.md`, `scripts/audit-continuity.py`, `story/README.md`, `engine/00-workflow.md`, `engine/02-premise.md`, `engine/07-continuity.md`, `engine/11-worldbuilding.md`, `engine/templates/premise-options.md`, `engine/README.md`, `README.md`, `AGENTS.md`, `GEMINI.md`, `GEMINI_SKILL.md`, `CLAUDE_SKILL.md`, `CHATGPT_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.1 — 2026-11-02
 
 - **Perubahan:** Menetapkan **Prinsip Eksperimentasi Naratif Berbasis Pola Terbukti (*Informed & Hybrid Plot Experimentation*)** dan mengintegrasikan katalog referensi diperluas dari pembaruan `Kerangka Plot yang Terbukti untuk Web Novel.md`:

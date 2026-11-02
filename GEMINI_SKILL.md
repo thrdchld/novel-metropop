@@ -56,10 +56,11 @@ Wajib dipatuhi pada setiap generasi teks tanpa kompromi:
 10. **Batasan Konten 13+:**
     - Tanpa adegan seksual vulgar, tanpa kekerasan grafis, tanpa umpatan kotor kasar (umpatan wajar sehari-hari seperti *sial, astaga, buset* diperbolehkan).
     - Nama perusahaan, gedung komersial, hotel, dan tokoh publik harus fiktif (nama wilayah geografis seperti Kuningan, Tebet, Sudirman boleh nyata).
-11. **Bank Premis & Anti-Penawaran Ulang (Zero Re-pitch Rule):**
-    - AI wajib membaca `story/premise-bank.md` sebelum menjalankan brainstorming Mode A.
-    - Dilarang keras menawarkan kembali ide/premis yang sudah ditolak atau premis baru yang menggunakan trope yang tercantum dalam *Daftar Hitam Trope*!
-    - Hasil formulasi ide (3 opsi lengkap dengan ID `PRM-XXX`) wajib dicatat ke bank premis, dan statusnya diperbarui (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, `DITOLAK / JANGAN DITAWARKAN LAGI`) setelah user memutuskan.
+11. **Universe Registry, Anti-Duplikasi, & Protokol Cameo (Zero Re-pitch Rule):**
+    - AI wajib membaca `story/universe-registry.md` sebelum menjalankan brainstorming Mode A atau merancang proyek Mode B.
+    - Dilarang keras menawarkan kembali ide/premis yang sudah ditolak, menduplikasi kombinasi nama/profesi/watak tokoh lama, atau menggunakan trope yang tercantum dalam *Daftar Hitam Trope*!
+    - Terapkan **Protokol Semesta Bersama & 3 Tingkat Cameo** (Tingkat 1 Dialog/Kabar Angin, Tingkat 2 Kilas Balik/Sejarah Bersama, Tingkat 3 Kehadiran Fisik Singkat sebagai pemanis latar tanpa *deus ex machina*).
+    - Hasil formulasi ide (3 opsi lengkap dengan ID `PRM-XXX`) wajib diverifikasi terhadap Matriks Kebaruan Mutlak dan dicatat statusnya (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, `DITOLAK / JANGAN DITAWARKAN LAGI`).
 
 ---
 

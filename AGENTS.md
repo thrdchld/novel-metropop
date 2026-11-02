@@ -16,7 +16,7 @@ bawah. Jangan mulai menulis prosa sebelum user memilih mode dan menyetujui renca
 5. `panduan-pengembangan-premis-cerita.md` — **acuan utama arsitektur premis fiksi (3 pilar: mencari, menilai, mengembangkan premis, M.I.C.E., 3P Sanderson, dan formula sintaksis)**.
 6. `Kerangka Plot yang Terbukti untuk Web Novel.md` — **acuan utama 8 kerangka plot terbukti, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita**.
 7. Folder `old-documents-unneeded/` — dokumen versi sebelumnya; hanya sebagai arsip referensi tambahan.
-8. Periksa isi `story/`. Baca `premise-bank.md`. Jika ada cerita, baca `canon.md`, `state.md`, `outline.md`, `ledger.md`,
+8. Periksa isi `story/`. Baca `universe-registry.md`. Jika ada cerita, baca `canon.md`, `state.md`, `outline.md`, `ledger.md`,
    dan bab terakhir yang sudah ditulis.
 
 Folder `engine/` adalah paket markdown. Tidak ada kode yang perlu dijalankan; baca
@@ -73,11 +73,12 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 
 ## 3. Mode Kerja
 
-### A. Ide / Premis Baru (Premise Bank & Lifecycle)
+### A. Ide / Premis Baru (Universe Registry & Lifecycle)
 
-- **Wajib Baca Bank Premis Dulu:** Baca `story/premise-bank.md`, `engine/01-genre.md`, `engine/02-premise.md`, `panduan-pengembangan-premis-cerita.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
-- **Aturan Mutlak Anti-Penawaran Ulang:** Periksa premis aktif, backlog, dan premis yang ditolak. DILARANG KERAS menawarkan kembali premis yang sudah ditolak atau premis baru yang memuat pola/trope yang tercantum dalam *Daftar Hitam Trope*!
+- **Wajib Baca Universe Registry Dulu:** Baca `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md`, `panduan-pengembangan-premis-cerita.md`, dan `Kerangka Plot yang Terbukti untuk Web Novel.md`.
+- **Aturan Mutlak Anti-Penawaran Ulang & Anti-Duplikasi:** Periksa premis aktif, backlog, premis yang ditolak, serta Roster Karakter & Entitas Semesta. DILARANG KERAS menawarkan kembali premis yang sudah ditolak, menduplikasi nama/watak/profesi tokoh lama, maupun menyodorkan premis baru yang memuat pola/trope yang tercantum dalam *Daftar Hitam Trope*!
 - Gunakan **3 Pilar Arsitektur Premis** (Mencari lewat observasi/SCAMPER/What-If, Menilai lewat Uji 5 Slot & Matriks Diagnostik 5 Parameter, Mengembangkan lewat 3P Sanderson & 3 Formula Sintaksis).
+- Hubungkan dengan **Protokol Semesta Bersama & 3 Tingkat Cameo** (Tingkat 1 Rujukan Percakapan/Kabar Angin, Tingkat 2 Kilas Balik/Sejarah Bersama, Tingkat 3 Kehadiran Fisik Singkat sebagai pemanis latar tanpa deus ex machina).
 - Beri **3 opsi** dengan ID urut (`PRM-XXX`) sesuai format `engine/templates/premise-options.md`:
   - formula sintaksis (Basic, Character-Driven, 3-Kalimat Bell);
   - M.I.C.E. dominan & kerangka plot utama + pendamping (dari 8 kerangka terbukti atau struktur hibrida/bentuk khusus terinspirasi dari pola teruji);
@@ -86,13 +87,13 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
   - 3 tingkat taruhan (Personal, Public, Ultimate Stakes);
   - uji 5 slot kelayakan lengkap;
   - benih solusi (*planting* 2 kali) dan sumber humor konkret;
-  - novelty pembeda konkret dari premis di bank.
+  - novelty pembeda konkret dari novel dan premis di Universe Registry.
 - Jangan menulis bab. Tunggu keputusan user.
 - Setelah user merespons:
-  - Opsi terpilih diperbarui statusnya menjadi `DITERIMA / AKTIF` di `story/premise-bank.md`.
+  - Opsi terpilih diperbarui statusnya menjadi `DITERIMA / AKTIF` di `story/universe-registry.md`.
   - Opsi simpanan disukai dicatat sebagai `CADANGAN / BACKLOG`.
   - Opsi yang ditolak dicatat sebagai `DITOLAK / JANGAN DITAWARKAN LAGI` beserta kutipan kritik user dan isolasi trope ke Daftar Hitam Trope.
-- Jika user memberi premis sendiri, jangan mengubah keputusan user; lengkapi slot yang kosong, uji dengan Matriks Diagnostik 5 Parameter, dan daftarkan ke bank premis.
+- Jika user memberi premis sendiri, jangan mengubah keputusan user; lengkapi slot yang kosong, uji dengan Matriks Diagnostik 5 Parameter, dan daftarkan ke Universe Registry.
 
 ### B. Project Baru
 

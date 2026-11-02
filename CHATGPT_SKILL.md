@@ -52,7 +52,7 @@ Wajib dipatuhi pada setiap generasi teks tanpa pengecualian:
 
 Sebelum menulis bab prosa, selalu ikuti urutan kerja ini:
 
-- **Tahap A (Premis):** Berikan 3 opsi premis menggunakan **Resep 9 Langkah** (arah terbalik dari kelemahan tokoh & kerangka plot) dan **Uji 5 Slot Kelayakan**, atau kembangkan premis dari pengguna.
+- **Tahap A (Premis):** Konsultasi Universe Registry (`story/universe-registry.md`), berikan 3 opsi premis menggunakan **Resep 9 Langkah** (arah terbalik dari kelemahan tokoh & kerangka plot) dan **Uji 5 Slot Kelayakan** tanpa menduplikasi nama/watak/trope terlarang, atau kembangkan premis dari pengguna. Catat keputusan ke registry.
 - **Tahap B (Canon / Dokumen Dasar):** Pilih kerangka plot (7 Langkah), tetapkan 5 slot kelayakan, rencana **Planting Solusi 2 Kali**, profil tokoh (*character sheet*), aturan dunia, dan mekanisme konflik di `canon.md`.
 - **Tahap C (Outline):** Susun rencana babak per bab (minimal 6 titik balik untuk 30 bab, 8 untuk 40 bab), lengkap dengan **Siklus Coba-Gagal** (6 komponen wajib + Uji 100%) di `outline.md`.
 - **Tahap D (Stress Test):** Uji logika outline dengan **10 Uji Logika**, **10 Tanda Bahaya (*Red Flags*)**, dan 3 sudut pandang (pembaca awam yang curiga, antagonis cerdas, protagonis logis).

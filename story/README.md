@@ -17,7 +17,7 @@ flashback, dan scene ikonik bersifat opsional (boleh nol jika cerita sudah padat
 
 ```text
 story/
-├── premise-bank.md       # inventaris premis (bank ide, status aktif/backlog/ditolak, blacklist trope)
+├── universe-registry.md  # pendaftar semesta terpadu (portofolio, bank premis, roster tokoh, entitas dunia, protokol cameo 3 tingkat)
 └── <Judul>/
     ├── canon.md          # sumber kebenaran: premis (5 slot), kerangka plot, planting 2x, cast, aturan, ending
     ├── outline.md        # peta 30–40 bab (min 6–8 titik balik) + siklus coba-gagal + kolom wajib

@@ -179,29 +179,30 @@ Gunakan matriks ini untuk membedah kelemahan premis sebelum menulis outline:
 
 ---
 
-## 6. Pilar 5: Protokol Bank Premis & Siklus Hidup Premis (Premise Bank)
+## 6. Pilar 5: Protokol Universe Registry & Siklus Hidup Premis (Universe Registry)
 
-Bank Premis adalah sistem database hidup yang mencatat seluruh riwayat gagasan, evaluasi, dan penyaringan preferensi pengguna.
+Universe Registry adalah dokumen pendaftar semesta terpadu yang mencatat seluruh portofolio novel, siklus hidup premis, roster tokoh semesta, entitas dunia bersama, dan protokol cameo lintas cerita.
 
 ### A. Lokasi File Dokumen
-- Template Master: `engine/templates/premise-bank.md`
-- Dokumen Proyek Aktif: `story/premise-bank.md`
+- Template Master: `engine/templates/universe-registry.md`
+- Dokumen Proyek Aktif: `story/universe-registry.md`
 
-### B. Aturan Mutlak Konsultasi Bank Premis (Wajib Pra-Brainstorming)
-Sebelum AI merumuskan atau mempresentasikan 3 opsi premis pada **Mode A**, AI **WAJIB membaca `story/premise-bank.md`**.
+### B. Aturan Mutlak Konsultasi Universe Registry (Wajib Pra-Brainstorming)
+Sebelum AI merumuskan atau mempresentasikan 3 opsi premis pada **Mode A**, AI **WAJIB membaca `story/universe-registry.md`**.
 AI wajib memeriksa:
 1. Premis apa saja yang sudah berstatus `DITERIMA / AKTIF`.
 2. Ide apa saja yang tersimpan di `CADANGAN / BACKLOG`.
 3. Premis dan kritik apa yang tercatat di `DITOLAK / JANGAN DITAWARKAN LAGI`.
-4. Daftar pola/formula terlarang di **Bagian 5: Daftar Hitam Trope & Anti-Pattern User**.
+4. Daftar pola/formula terlarang di **Bagian 2.D: Daftar Hitam Trope & Anti-Pattern User**.
+5. Roster karakter semesta dan entitas dunia bersama guna menjamin kebaruan mutlak (profesi baru, luka batin baru, arena baru).
 
 ### C. Aturan Anti-Penawaran Ulang (Zero Re-pitch Rule)
 > **LARANGAN KERAS:** AI DILARANG menawarkan kembali premis yang sudah ditolak oleh user, maupun premis baru yang menggunakan trope/kiasan yang tercantum dalam Daftar Hitam Trope! Pelanggaran aturan ini merupakan cacat kepatuhan berat.
 
 ### D. Siklus Transisi Status Premis
 Setiap entri premis memiliki ID unik dengan format urut `PRM-XXX` (contoh: `PRM-001`, `PRM-002`, dst.):
-1. **Usulan Sesi (Brainstorming):** AI merumuskan 3 opsi lengkap dengan ID unik berikutnya, lalu mencatatnya ke Bank Premis.
-2. **Pilihan User (`DITERIMA / AKTIF`):** Opsi yang disetujui user diperbarui statusnya menjadi `DITERIMA / AKTIF` dan menjadi dasar pembentukan folder cerita `story/<Judul>/`.
+1. **Usulan Sesi (Brainstorming):** AI merumuskan 3 opsi lengkap dengan ID unik berikutnya, lalu memverifikasinya terhadap Matriks Kebaruan Mutlak.
+2. **Pilihan User (`DITERIMA / AKTIF`):** Opsi yang disetujui user diperbarui statusnya menjadi `DITERIMA / AKTIF` di `story/universe-registry.md` dan menjadi dasar pembentukan folder cerita `story/<Judul>/`.
 3. **Ide Simpanan (`CADANGAN / BACKLOG`):** Opsi yang dinilai bagus dan disukai user namun tidak dipilih untuk proyek saat ini dipindahkan ke kategori `CADANGAN / BACKLOG`.
 4. **Penolakan User (`DITOLAK / JANGAN DITAWARKAN LAGI`):** Opsi yang ditolak user dipindahkan ke kategori `DITOLAK / JANGAN DITAWARKAN LAGI`. AI wajib mencatat:
    - Alasan penolakan / kutipan kritik spesifik user.

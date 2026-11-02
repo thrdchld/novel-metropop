@@ -181,3 +181,13 @@ Sebelum mengunci outline dan mulai menulis bab, uji dunia cerita dengan 7 pertan
 7. **Uji Pelanggaran Aturan Premis:** Apakah aturan main sandiwara/kontrak memiliki sanksi nyata yang ditakuti kedua belah pihak?
 
 Jika seluruh uji lolos, dunia cerita dinyatakan **KOKOH, HIDUP, DAN SIAP DITULIS**.
+
+---
+
+## 8. Integrasi Entitas Dunia Bersama (Shared World Entities)
+
+Semua lokasi fiktif, gedung perkantoran, tempat usaha, agensi, dan firma hukum yang pernah dibangun pada novel sebelumnya dihimpun secara terpusat dalam `story/universe-registry.md` (Bagian 4: Katalog Entitas Dunia Bersama).
+
+- **Penggunaan Ulang yang Sah:** Proyek novel baru diizinkan menggunakan ulang entitas dunia ini (seperti Menara Astra, Toko Kue Ibu Sumi Tebet, BuzzMedia Digital, atau Firma Hukum Darmawan) sebagai latar selingan, rujukan percakapan, atau vendor pendukung.
+- **Konsistensi Realitas:** Lokasi dan bidang usaha entitas bersama harus konsisten dengan fakta yang telah dibentuk di novel terdahulu.
+- **Pencegahan Ketergantungan:** Entitas bersama hanya menjadi pelengkap dunia (*flavor*), bukan poros utama konflik baru yang membuat cerita baru kehilangan kemandirian tematiknya.

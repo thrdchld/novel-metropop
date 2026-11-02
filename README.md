@@ -170,7 +170,7 @@ Kerangka Plot yang Terbukti untuk Web Novel.md # Acuan utama 8 kerangka plot ter
 
 ## 6. Mode Kerja Agen
 
-- **Mode A: Ide / Premis Baru** - Konsultasi Bank Premis (`story/premise-bank.md`), anti-penawaran ulang ide ditolak, 3 opsi premis (3 Pilar Premis, M.I.C.E., 3 Tingkat Taruhan, Uji 5 Slot).
+- **Mode A: Ide / Premis Baru** - Konsultasi Universe Registry (`story/universe-registry.md`), anti-penawaran ulang ide ditolak, roster tokoh & semesta bersama, 3 opsi premis (3 Pilar Premis, M.I.C.E., 3 Tingkat Taruhan, Uji 5 Slot).
 - **Mode B: Project Baru** - Alur A-G lengkap: premis -> canon & world building -> outline -> stress test -> lock -> Bab 1.
 - **Mode C: Lanjutkan Cerita** - Pre-Flight Continuity Gate (5 poin) -> tulis 1 bab (600-900 kata) -> sync state.md + ledger.md -> verifikasi linter.
 - **Mode D: Revisi, Evaluasi, & Remediasi Beruntun** - Standar Audit 5 Tahap & Remediasi Beruntun R1-R5 (`engine/12-audit-remediation.md`) tanpa merusak bab sebelumnya.

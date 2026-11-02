@@ -41,7 +41,7 @@ Sebelum menulis bab cerita, kamu wajib melalui tahapan terstruktur berikut:
 
 | Tahap | Yang Dikerjakan | Hasil / Syarat Lolos |
 |---|---|---|
-| **A. Premis** | Berikan 3 opsi premis (Resep 9 Langkah & Uji 5 Slot) atau kembangkan premis dari pengguna. | Pengguna memilih satu opsi. |
+| **A. Premis** | Konsultasi Universe Registry (`story/universe-registry.md`), berikan 3 opsi premis (Resep 9 Langkah & Uji 5 Slot) atau kembangkan premis dari pengguna tanpa menduplikasi nama/watak/trope terlarang. | Pengguna memilih satu opsi & dicatat di registry. |
 | **B. Dokumen Dasar (Canon)** | Pilih Kerangka Plot (7 Langkah), isi 5 slot premis, Planting Solusi 2x, karakter, dan aturan dunia. | Disimpan di `canon.md`. |
 | **C. Outline** | Susun peta babak (30–40 bab, min 6–8 titik balik) dengan Siklus Coba-Gagal (6 komponen) per bab. | Disimpan di `outline.md`. |
 | **D. Stress Test** | Uji draf outline dengan **10 Uji Logika**, **10 Tanda Bahaya**, dan 3 simulasi peran. | Semua celah logika tertutup. |

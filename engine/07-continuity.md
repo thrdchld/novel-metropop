@@ -138,3 +138,21 @@ Jika percakapan dipadatkan (*compacted*) atau dimulai pada sesi baru:
 2. AI **WAJIB** membaca `story/<Judul>/state.md` terlebih dahulu untuk memulihkan potret kondisi terkini.
 3. AI membaca bab terakhir yang ditulis di `chapters/bab-NN.md`.
 4. AI menampilkan blok *Pre-Flight Continuity Gate* untuk bab yang akan ditulis.
+
+---
+
+## 6. Protokol Semesta Bersama & 3 Tingkat Cameo (Shared Universe)
+
+Dalam semesta MetroPop, berbagai cerita berbagi latar kota yang sama (Jakarta dan sekitarnya) yang dikelola terpusat di `story/universe-registry.md`. Agar semesta terasa hidup tanpa saling mengorbankan independensi cerita, cameo tokoh lintas novel diatur dalam 3 tingkatan ketat:
+
+1. **Tingkat 1: Rujukan Percakapan / Informasi (*Off-Screen Mention / Rumor*)**
+   - Tokoh di novel baru membaca tren media sosial, memesan konsumsi rapat dari usaha tokoh lama (misal: Toko Kue Ibu Sumi Tebet), atau mendengar kabar angin tentang korporat lama. Tokoh lama tidak hadir secara fisik.
+2. **Tingkat 2: Rujukan Kilas Balik (*Flashback / Shared History*)**
+   - Tokoh baru mengingat masa lalu singkat bersama tokoh lama (misal: pernah satu kampus di FEB, atau pernah magang di Menara Astra sebelum Rian menjabat VP). Hanya muncul sebagai memori atau latar belakang ringan.
+3. **Tingkat 3: Kehadiran Fisik Singkat (*Live Physical Cameo*)**
+   - Tokoh lama muncul sepintas dalam satu adegan (misal: berpapasan di lobi lift Menara Astra, memesan kopi di kafe sebelah, atau Bang Bobi yang kebetulan mengantar paket).
+   - **HUKUM MUTLAK CAMEO FISIK:**
+     - Cameo fisik murni berfungsi sebagai pemanis latar (*world flavor*).
+     - **DILARANG KERAS menjadi penyelamat / *deus ex machina*** yang memecahkan krisis tokoh baru.
+     - Durasi interaksi maksimal 1-2 pertukaran dialog sopan khas orang berpapasan di ruang publik tanpa mencuri fokus protagonis.
+4. **Isolasi Konteks Penulisan:** Dokumen semesta `story/universe-registry.md` hanya dibaca pada Mode A (Ide) dan Mode B (Setup Proyek), dan **DILARANG** dibaca pada Mode C (Menulis Bab) agar tidak mencemari jendela konteks penulisan bab aktif.

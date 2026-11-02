@@ -34,7 +34,7 @@ opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 | `SKILL.md` | Ringkasan skill untuk tool yang mendukung skill. |
 | `00-workflow.md` | Alur sesi, pertanyaan, mode kerja, dan definition of done. |
 | `01-genre.md` | Definisi MetroPop, janji pembaca, tone, batasan konten. |
-| `02-premise.md` | 3 pilar premis (mencari, menilai, mengembangkan), M.I.C.E., 3 tingkat taruhan, 3 formula sintaksis, uji 5 slot, Bank Premis (`story/premise-bank.md`), dan aturan anti-penawaran ulang ide ditolak. |
+| `02-premise.md` | 3 pilar premis (mencari, menilai, mengembangkan), M.I.C.E., 3 tingkat taruhan, 3 formula sintaksis, uji 5 slot, Universe Registry (`story/universe-registry.md`), dan aturan anti-penawaran ulang ide ditolak. |
 | `03-structure.md` | 8 kerangka plot terbukti, pemetaan 8 tahap, siklus coba-gagal, planting 2x, 30–40 bab, kolom outline. |
 | `04-character.md` | Character sheet, tells, dialog, cast, arc. |
 | `05-style.md` | Gaya bahasa, POV, dialog, format, before/after. |

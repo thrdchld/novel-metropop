@@ -17,6 +17,6 @@
 5. **Format Bab:** Judul `## Bab N: Judul` (2–5 kata), Bab 1 wajib in medias res, diakhiri hook kuat di kalimat terakhir.
 6. **Mekanisme Kontinuitas & Gerbang Pra-Tulis:** Wajib membaca `story/<Judul>/` (`state.md`, `canon.md`, `outline.md`, `ledger.md`) dan menampilkan blok *Pre-Flight Continuity Gate* (5 poin) sebelum menulis bab, menyinkronkan `state.md` + `ledger.md` pasca-tulis, serta menjalankan `python3 scripts/audit-continuity.py`.
 7. **Evolusi Engine:** Jika user memberi kritik atau preferensi baru, AI wajib mencatatnya di `engine/learnings/editor-feedback.md` dan memperbarui file panduan terkait di `engine/`.
-8. **Bank Premis & Anti-Penawaran Ulang:** Wajib membaca `story/premise-bank.md` sebelum Mode A. Dilarang keras menawarkan kembali premis yang sudah ditolak atau premis baru yang menggunakan trope yang tercantum dalam *Daftar Hitam Trope*! Opsi yang disetujui, dicadangkan, atau ditolak wajib dicatat status dan alasannya ke bank premis.
+8. **Universe Registry, Anti-Duplikasi, & Protokol Cameo:** Wajib membaca `story/universe-registry.md` sebelum Mode A dan B. Dilarang keras menawarkan kembali premis yang sudah ditolak, menduplikasi kombinasi nama/watak/profesi tokoh lama, atau menggunakan trope dalam *Daftar Hitam Trope*. Integrasikan semesta bersama lewat Protokol Cameo 3 Tingkat (Dialog, Kilas Balik, Fisik tanpa deus ex machina).
 
 Untuk panduan lengkap mencakup alur kerja A–G, arketipe karakter, tabel anti-AI slop, dan rubrik kualitas 8 kriteria, baca seluruh isi [GEMINI_SKILL.md](GEMINI_SKILL.md).
