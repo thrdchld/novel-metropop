@@ -32,7 +32,7 @@
 
 ## 2. Delapan Kerangka Plot yang Terbukti
 
-Hanya gunakan 8 kerangka ini (jangan membuat kerangka eksperimental):
+Gunakan 8 kerangka plot terbukti ini sebagai fondasi dan kompas inspirasi. Penulis dan AI bebas bereksperimen menggabungkan atau memodifikasi pola (struktur hibrida & bentuk naratif khusus) dengan mengambil inspirasi dari karya-karya teruji, asalkan tetap lolos Uji 5 Slot Kelayakan Premis dan 10 Uji Logika Alur Cerita:
 
 ### Kerangka 1–4: Fondasi
 1. **Struktur Tiga Babak (Freytag, Syd Field):**
@@ -146,6 +146,27 @@ Saat merancang struktur dari premis, rujuk pola teruji di `../Kerangka Plot yang
 | *Harry Potter 1* | Misteri | *Red herring* bermotif nyata; solusi memakai aturan yang sudah diajarkan ke pembaca |
 | *The Curious Incident...* | Misteri Keseharian | Penyelidikan kecil di lingkungan rumah membuka rahasia keluarga yang besar |
 | *Critical Eleven* | Struktur Romance | Dibuka di tengah krisis; sudut pandang bergantian tanpa perlu tokoh jahat |
+
+---
+
+## 6B. Eksperimentasi Naratif & Bentuk Khusus (Informed Experimentation)
+
+Penulis dan AI tidak dibatasi oleh kerangka kaku. Eksperimen plot yang terinspirasi dari karya teruji sangat dianjurkan melalui teknik berikut:
+
+1. **Bentuk Buku Harian / Diary (*Bridget Jones's Diary*, *Marmut Merah Jambu*):**
+   - Format catatan harian menjaga tempo komedi alami dan membuat perkembangan emosi tokoh terlihat jelas dari entri ke entri.
+2. **Dua Garis Waktu Paralel (*The Hundred-Year-Old Man*, *Critical Eleven*, *The Time Traveler's Wife*):**
+   - Garis waktu masa lalu (bagaimana mereka bertemu atau asal luka batin) berjalan bergantian dengan garis waktu krisis masa kini, dan keduanya menyatu di titik balik penting tanpa membebani cerita dengan tokoh baru.
+3. **Sudut Pandang Bergantian / Dual POV (*Critical Eleven*, *One Day*, *The Hating Game*):**
+   - Bergantian antara Tokoh A dan Tokoh B untuk memperlihatkan dua sisi prasangka/konflik secara manusiawi tanpa butuh tokoh penjahat karikatur.
+4. **Bentuk Epistolari / Pesan / Surat (*Daddy-Long-Legs*, *The Perks of Being a Wallflower*, *Flowers for Algernon*):**
+   - Menghadirkan keintiman monolog batin yang kuat lewat pesan chat atau surat.
+5. **Dua Proyek Paralel (*The Rosie Project*):**
+   - Tokoh menjalankan proyek formal di permukaan (pekerjaan / target kaku), sementara proyek sampingan yang tidak ia rencanakan justru yang meruntuhkan keegoisannya dan mengubah karakternya.
+6. **Hibridisasi Kerangka (Struktur Campuran):**
+   - Bebas memadukan dua kerangka yang saling melengkapi (misal: *Struktur Romance* untuk garis cinta + *Fichtean Curve* untuk eskalasi krisis kantor; atau *Story Circle* untuk transformasi diri + *Seven-Point Structure* untuk penyelidikan rahasia).
+
+*Syarat Eksperimen Sah:* Tetap berjangkar pada kausalitas logis, lolos Uji 5 Slot Kelayakan Premis, dan memenuhi 10 Uji Logika Alur Cerita.
 
 ---
 

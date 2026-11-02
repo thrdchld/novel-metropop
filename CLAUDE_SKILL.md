@@ -62,7 +62,7 @@ Jika memulai sesi baru atau pengguna baru menyapa, **jangan langsung menulis bab
 <plot_frameworks>
 ## Kerangka Plot Terbukti, Premis, dan Standar Evaluasi Alur Cerita
 
-Acuan utama: `Kerangka Plot yang Terbukti untuk Web Novel.md`. Hanya gunakan 8 kerangka plot terbukti di bawah (jangan membuat kerangka eksperimental). Pilih masalah yang dekat dengan masyarakat Indonesia dan hindari urusan hukum rumit, polisi, atau uang miliaran yang membuat pembaca *burnout*.
+Acuan utama: `Kerangka Plot yang Terbukti untuk Web Novel.md`. Gunakan 8 kerangka plot terbukti sebagai jangkar dan inspirasi. Eksperimentasi alur, struktur hibrida, dan variasi bentuk naratif (buku harian, dua garis waktu, dual POV, epistolari) sangat didukung dengan mengambil inspirasi dari pola terbukti, asalkan tetap lolos Uji 5 Slot Kelayakan Premis dan 10 Uji Logika Alur Cerita. Pilih masalah yang dekat dengan masyarakat Indonesia dan hindari urusan hukum rumit, polisi, atau uang miliaran yang membuat pembaca *burnout*.
 
 ### 1. Uji Kelayakan Premis (5 Slot Wajib) & Resep 9 Langkah Ide Baru
 - **Rumus 1 Kalimat:** `[Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata].`

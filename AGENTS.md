@@ -80,7 +80,7 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 - Gunakan **3 Pilar Arsitektur Premis** (Mencari lewat observasi/SCAMPER/What-If, Menilai lewat Uji 5 Slot & Matriks Diagnostik 5 Parameter, Mengembangkan lewat 3P Sanderson & 3 Formula Sintaksis).
 - Beri **3 opsi** dengan ID urut (`PRM-XXX`) sesuai format `engine/templates/premise-options.md`:
   - formula sintaksis (Basic, Character-Driven, 3-Kalimat Bell);
-  - M.I.C.E. dominan & kerangka plot utama + pendamping (dari 8 kerangka terbukti);
+  - M.I.C.E. dominan & kerangka plot utama + pendamping (dari 8 kerangka terbukti atau struktur hibrida/bentuk khusus terinspirasi dari pola teruji);
   - tokoh inti singkat dengan kelemahan aktif (*flaw* sebagai mesin plot);
   - konvergensi outer vs inner plot;
   - 3 tingkat taruhan (Personal, Public, Ultimate Stakes);
@@ -189,6 +189,7 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 - **Tanpa em dash (`—`):** Dilarang keras memakai em dash (`—`) di seluruh narasi maupun dialog novel.
 - **Tanpa quote/epigraph di atas bab:** Jangan menaruh quote atau epigraph sebelum teks bab.
 - **Bebas dari AI slop dan bahasa baku kaku:** Wajib menggunakan bahasa percakapan sehari-hari orang Indonesia yang membumi, natural, dan segar; dilarang memakai frasa puitis artifisial buatan mesin.
+- **Eksperimentasi Berbasis Pola Terbukti:** Eksperimen alur, struktur hibrida, dan variasi bentuk naratif (buku harian, dua garis waktu, dual POV, epistolari) didukung penuh dengan mengambil inspirasi dari karya teruji, asalkan tetap lolos Uji 5 Slot dan Uji Logika Alur Cerita.
 - **Wajib periksa kontinuitas sebelum menulis:** Wajib membaca `story/<Judul>/state.md`, `canon.md`, `outline.md`, dan `ledger.md` serta menampilkan Gerbang Pra-Tulis Kontinuitas sebelum menulis bab berikutnya.
 - Istilah asing/kerja dijelaskan sekali secara inline.
 - Setiap bab standar 600–900 kata (titik balik target 900; boleh dilonggarkan hingga maksimal 1.200 kata hanya jika benar-benar urgent agar tidak memotong kejadian penting), satu POV, satu adegan/beat, berakhir hook.

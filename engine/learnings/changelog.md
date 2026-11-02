@@ -3,6 +3,22 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.1 — 2026-11-02
+
+- **Perubahan:** Menetapkan **Prinsip Eksperimentasi Naratif Berbasis Pola Terbukti (*Informed & Hybrid Plot Experimentation*)** dan mengintegrasikan katalog referensi diperluas dari pembaruan `Kerangka Plot yang Terbukti untuk Web Novel.md`:
+  1. *Pembebasan Dogma Anti-Eksperimen:* Menghapus larangan kaku "jangan membuat kerangka eksperimental", menggantinya dengan prinsip kebebasan berkreasi. Penulis dan AI didukung penuh mengeksplorasi struktur hibrida (memadukan 2 kerangka, misal *Romance + Fichtean Curve*) dan variasi bentuk naratif khusus yang terinspirasi dari pola karya teruji.
+  2. *Panduan Bentuk Naratif Khusus (`engine/03-structure.md` Bagian 6B):*
+     - Format Buku Harian / Diary (*Bridget Jones's Diary*, *Marmut Merah Jambu*).
+     - Dua Garis Waktu Paralel (*The Hundred-Year-Old Man*, *Critical Eleven*, *The Time Traveler's Wife*).
+     - Sudut Pandang Bergantian / Dual POV (*Critical Eleven*, *One Day*, *The Hating Game*).
+     - Bentuk Epistolari / Pesan / Surat (*Daddy-Long-Legs*, *The Perks of Being a Wallflower*, *Flowers for Algernon*).
+     - Dua Proyek Paralel (*The Rosie Project*).
+     - Struktur Hibrida Campuran.
+  3. *Koreksi & Presisi Faktual Studi Kasus:* Mengoreksi fakta cerita *The Rosie Project* (Phil adalah ayah kandung Rosie; Gene sempat dicurigai; Don kaku menjadi mesin komedi & perubahan), *The Devil Wears Prada* (Andrea keluar di pekan mode Paris), *A Christmas Carol*, dan *Critical Eleven*.
+  4. *Integrasi Katalog Referensi Luas (`engine/sources.md`):* Menambahkan kurasi puluhan novel Indonesia dan dunia ke dalam 7 kelompok pola naratif.
+  5. *Penyelarasan Seluruh Skill & Protokol:* Memperbarui `Kerangka Plot yang Terbukti untuk Web Novel.md`, `engine/01-genre.md`, `engine/02-premise.md`, `engine/03-structure.md`, `engine/sources.md`, `AGENTS.md`, `GEMINI_SKILL.md`, `CLAUDE_SKILL.md`, `CHATGPT_SKILL.md`, dan workspace skill Antigravity CLI.
+- **File:** `Kerangka Plot yang Terbukti untuk Web Novel.md`, `engine/01-genre.md`, `engine/02-premise.md`, `engine/03-structure.md`, `engine/sources.md`, `AGENTS.md`, `GEMINI_SKILL.md`, `CLAUDE_SKILL.md`, `CHATGPT_SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.0 — 2026-11-01
 
 - **Perubahan:** Membangun **Sistem Bank Premis (Premise Bank & Registry) & Arsitektur Siklus Hidup Premis Lengkap (Engine v3.0)**:

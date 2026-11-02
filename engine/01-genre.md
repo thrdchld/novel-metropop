@@ -42,7 +42,7 @@ Pembaca web novel bertahan membaca dari Bab 1 sampai tamat karena 5 jalur kenikm
 1. **Premis satu kalimat yang memuat ironi dan tenggat nyata** (lihat `02-premise.md`).
 2. **Dunia keseharian yang spesifik:** sebut pekerjaan/sekolah/kampus, tempat, rutinitas, aplikasi chat, makanan, jalur transportasi (KRL, ojol, TransJakarta), dan benda khas (kubikel, *drawer* camilan, ponsel retak).
 3. **Protagonis punya kelemahan aktif sebagai mesin plot** (lihat `04-character.md`).
-4. **Satu plot utama dengan salah satu dari 8 Kerangka Plot Terbukti**; subplot opsional 0–3 sesuai **Prinsip Pas** (lihat `03-structure.md`).
+4. **Satu plot utama berakar pada 8 Kerangka Plot Terbukti**, dengan kebebasan **eksperimentasi naratif dan struktur hibrida** (seperti perpaduan romansa dan krisis Fichtean, dua garis waktu, sudut pandang ganda, atau format buku harian) terinspirasi dari karya teruji; subplot opsional 0-3 sesuai **Prinsip Pas** (lihat `03-structure.md`).
 5. **Satu bab, satu adegan utama, satu perubahan, berakhir hook** (lihat `06-chapter.md`).
 6. **Dialog renyah dan mencerminkan tingkat tutur asli Indonesia** (lihat `05-style.md`).
 7. **Monolog batin yang hidup, spontan, sedikit sarkastik, dan *self-deprecating*** (lihat `05-style.md`).

@@ -2,7 +2,7 @@
 
 Oct 25, 2026 · @dong
 
-Delapan kerangka di bawah sudah lama dipakai penulis dan terbukti bekerja di audiens, jadi tidak ada yang eksperimental. Kerangka dipilih karena layak untuk web novel MetroPop 30-40 bab, dan dipakai juga untuk menguji apakah sebuah premis benar-benar bisa jadi cerita.
+Delapan kerangka di bawah sudah lama dipakai penulis dan terbukti bekerja di audiens, menjadi fondasi terpercaya untuk web novel MetroPop 30-40 bab. Dokumen ini juga memfasilitasi eksperimentasi naratif dan struktur hibrida yang terinspirasi dari pola-pola yang sudah terbukti, guna menguji apakah sebuah premis benar-benar bisa jadi cerita yang segar, dinamis, dan solid.
 
 ## Cara Memakai Dokumen Ini (untuk AI)
 
@@ -12,13 +12,13 @@ Dokumen ini dipakai AI untuk tiga tugas: memilih kerangka plot dari sebuah premi
 
 1. **Menilai premis.** Apakah premis cukup untuk 30-40 bab, dan kerangka mana yang paling cocok.
 2. **Mengembangkan premis pengguna.** Mengubahnya menjadi outline per bab yang bebas plot hole.
-3. **Mencari premis baru.** Dari kerangka dan bahan kehidupan sehari-hari, tanpa mengarang kerangka baru.
+3. **Mencari premis baru.** Dari kerangka dan bahan kehidupan sehari-hari, serta merancang variasi struktur naratif.
 
 **Aturan kerja:**
 
-- Hanya pakai kerangka yang ada di dokumen ini. Jangan membuat kerangka eksperimental.
+- Gunakan kerangka terbukti ini sebagai fondasi dan inspirasi. Eksperimentasi alur, struktur hibrida, dan variasi bentuk naratif (buku harian, surat/epistolari, sudut pandang ganda, dua garis waktu) sangat didukung dengan mengambil inspirasi dari pola terbukti, asalkan tetap lolos uji logika dan 5 slot kelayakan.
 - Keputusan pengguna tidak diubah. AI hanya melengkapi slot kosong dan memperbaiki logika.
-- Saat melengkapi slot kosong atau memperbaiki celah logika, jangan bolak-balik menanyakan konfirmasi detail; ambil keputusan paling logis dan tulis alasannya satu kalimat (persetujuan pengguna hanya diminta pada gerbang tahap utama: memilih premis dan mengunci outline).
+- Jangan menanyakan konfirmasi. Ambil keputusan paling logis dan tulis alasannya satu kalimat.
 - Kalau premis gagal uji, perbaiki premisnya dulu. Jangan memaksa kerangka menutupi premis yang lemah.
 - Pilih masalah yang dekat dengan masyarakat Indonesia dan mudah dijelaskan. Hindari urusan hukum dan uang besar yang membuat pembaca burnout.
 - Outline per bab harus cukup jelas sebagai acuan menulis. Tidak perlu panduan tambahan di luar outline.
@@ -312,10 +312,10 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 - **Kerangka:** Story Circle yang dipadatkan jadi tiga "siklus" (masa lalu, masa kini, masa depan), dengan tenggat fajar Natal.
 - **Keinginan dan kebutuhan:** ingin dibiarkan sendirian dan menimbun uang. Butuh koneksi dan belas kasih.
 - **Taruhan dan penghalang:** ia akan meninggal tanpa ada yang berduka, dan ia menolak berubah sampai melihat akibatnya dengan mata sendiri.
-- **Planting dan payoff:** Marley menjelaskan aturan di awal (tiga roh, satu per malam). Bob Cratchit sudah muncul sebagai pegawai yang kedinginan sebelum roh pertama datang, sehingga keluarganya menjadi bukti konkret di bagian akhir.
+- **Planting dan payoff:** Marley menjelaskan aturan di awal (tiga roh akan datang). Bob Cratchit sudah muncul sebagai pegawai yang kedinginan sebelum roh pertama datang, sehingga keluarganya menjadi bukti konkret di bagian akhir.
 - **Pelajaran untuk premis:** perubahan karakter butuh bukti akibat yang dilihat tokoh, bukan ceramah.
 
-#### Laskar Pelangi (Andrea Hirata, 2005)
+#### Laskar Pelangi (Andrea Hirata)
 
 - **Intinya:** sekolah Muhammadiyah di Belitung akan ditutup kalau muridnya kurang dari sepuluh.
 - **Kerangka:** pembuka dengan tenggat (hari pertama sekolah), lalu episodik tentang anak-anak itu selama bertahun-tahun, dengan satu tema yang berulang yaitu hak untuk belajar.
@@ -378,7 +378,7 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 - **Kerangka:** dua keinginan bertabrakan dalam story circle selama sekitar sebelas bulan. Tuntutan bos naik bertahap, dan hubungan dengan keluarga, pacar, dan sahabat menipis.
 - **Keinginan dan kebutuhan:** ingin kariernya terbuka (bertahan setahun). Butuh memilih hidup dan hubungan yang ia hargai.
 - **Taruhan dan penghalang:** keluar sebelum setahun berarti kehilangan peluang. Titik terendah: di Paris, kabar bahwa sahabatnya mengalami kecelakaan parah membuatnya harus memilih.
-- **Akhir tidak sempurna:** ia keluar di tengah acara kantor, kehilangan peluang kerja di dunia editorial, dan hidupnya berlanjut lewat menulis cerita pendek yang kemudian diterbitkan.
+- **Akhir tidak sempurna:** ia keluar di tengah pekan mode di Paris, kehilangan peluang kerja di dunia editorial, dan hidupnya berlanjut lewat menulis cerita pendek yang kemudian diterbitkan.
 - **Pelajaran untuk premis:** harga di akhir nyata (peluang hilang), tetapi tokoh tetap bisa melanjutkan hidup lewat jalan lain.
 
 #### The Rosie Project (Graeme Simsion, 2013)
@@ -387,7 +387,7 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 - **Kerangka:** Story Circle dengan dua proyek paralel. Proyek yang ia inginkan berjalan di permukaan, sementara proyek sampingan yang justru mengubahnya.
 - **Keinginan dan kebutuhan:** ingin istri yang lolos kuesioner. Butuh mengakui perasaannya dan menerima hal yang tidak bisa dijadwalkan.
 - **Taruhan dan penghalang:** hubungan dengan Rosie. Penghalangnya caranya yang sangat sistematis, yang tidak berlaku pada manusia.
-- **Planting dan payoff:** Gene, teman sekaligus rekan kerjanya, hadir sejak awal dan ikut dalam pesta yang jadi kunci pencarian. Di akhir terungkap Gene adalah ayah kandung Rosie. Kekakuan Don juga sudah ditunjukkan sebagai bahan komedi dari bab-bab awal.
+- **Planting dan payoff:** Gene, teman sekaligus rekan kerjanya, hadir sejak awal dan ikut dalam pesta yang jadi kunci pencarian. Gene sempat dicurigai sebagai ayah kandung Rosie, tetapi dugaan itu keliru: di akhir terungkap ayah kandungnya adalah Phil, pria yang selama ini ia kira bukan ayahnya. Kekakuan Don juga sudah ditunjukkan sebagai bahan komedi dari bab-bab awal.
 - **Pelajaran untuk premis:** kelemahan tokoh bisa menjadi sumber komedi sekaligus sumber perubahan. Proyek sampingan yang tidak ia rencanakan menjadi yang mengubahnya.
 
 #### Eleanor Oliphant Is Completely Fine (Gail Honeyman, 2017)
@@ -433,7 +433,7 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 - **Kerangka:** misteri keseharian yang berubah menjadi perjalanan. Penyelidikan kecil membuka rahasia keluarga yang jauh lebih besar.
 - **Keinginan dan kebutuhan:** ingin menemukan pelakunya. Butuh kebenaran tentang keluarganya.
 - **Taruhan dan penghalang:** hubungan dengan ayah dan rasa aman. Ayahnya melarangnya terus menyelidiki.
-- **Planting dan payoff:** catatan penyelidikannya menyimpan petunjuk yang di akhir menunjuk ke surat-surat yang disembunyikan.
+- **Planting dan payoff:** larangan keras sang ayah untuk meneruskan penyelidikan sudah muncul sejak awal sebagai petunjuk. Surat-surat ibunya yang disembunyikan sang ayah di kotak kemeja membongkar kebohongan soal ibunya, dan dari situ terungkap bahwa ayahnya sendiri yang membunuh anjing itu.
 - **Pelajaran untuk premis:** misteri kecil bisa membuka kebenaran besar tanpa kriminalitas rumit. Penyelidikan sehari-hari sudah cukup sebagai mesin cerita.
 
 ### Kelompok F: Romance Modern Indonesia
@@ -441,10 +441,10 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 #### Critical Eleven (Ika Natassa, 2015)
 
 - **Intinya:** Ale dan Anya bertemu di penerbangan Jakarta-Sydney. Lima tahun kemudian, satu tragedi besar membuat mereka mempertanyakan pilihan masing-masing.
-- **Kerangka:** Struktur Romance dengan sudut pandang bergantian (Ale dan Anya) dan dua garis waktu (pertemuan dan masa kini). Cerita dibuka di tengah krisis, lalu kilas balik pertemuan menjadi penyeimbang.
+- **Kerangka:** Struktur Romance dengan sudut pandang bergantian (Ale dan Anya) dan dua garis waktu (pertemuan dan masa kini). Dua garis waktu berjalan bergantian: pertemuan di pesawat dan pernikahan mereka lima tahun kemudian.
 - **Keinginan dan kebutuhan:** ingin mempertahankan pernikahan. Butuh saling mendengar dan menghadapi duka dengan cara yang berbeda.
 - **Taruhan dan penghalang:** pernikahan mereka. Masing-masing menanggung dukanya dengan cara yang menjauhkan satu sama lain.
-- **Pelajaran untuk premis:** untuk MetroPop, kerangka romance bisa dibuka di tengah krisis dan sudut pandang bergantian membuat pembaca memahami dua sisi tanpa perlu penjahat. Judul dan motif (sebelas menit penerbangan) menyatukan awal dan akhir.
+- **Pelajaran untuk premis:** untuk MetroPop, dua garis waktu (awal hubungan dan masa kini) membuat pembaca melihat bagaimana pilihan lama membentuk krisis sekarang, dan sudut pandang bergantian memperlihatkan dua sisi tanpa perlu penjahat.
 
 ### Peta Kasus ke Kerangka
 
@@ -452,7 +452,7 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 | --- | --- | --- | --- |
 | Around the World in Eighty Days | Fichtean Curve | Tenggat luar, solusi dari fakta dunia | Perjalanan atau taruhan dengan waktu |
 | A Christmas Carol | Story Circle | Perubahan lewat bukti akibat | Tokoh keras kepala yang harus berubah |
-| Laskar Pelangi | Kishōtenketsu / episodik | Tenggat di bab 1, lalu tema berulang | Komunitas dan perjuangan bersama |
+| Laskar Pelangi | Episodik dengan tenggat pembuka | Tenggat di bab 1, lalu tema berulang | Komunitas dan perjuangan bersama |
 | Pride and Prejudice | Struktur Romance | Salah paham dengan sumber masuk akal | Hubungan yang terhalang prasangka |
 | Emma | Tiga Babak | Kelemahan tokoh jadi mesin plot | Tokoh yang selalu merasa benar |
 | Jane Eyre | Tiga Babak | Rahasia lewat gejala kecil | Rahasia yang menahan |
@@ -475,6 +475,24 @@ Bagian ini menggantikan contoh buatan sendiri. Tiap kasus diambil dari novel yan
 - **Akhir yang tidak sempurna.** Peluang yang hilang (The Devil Wears Prada), murid yang berhenti sekolah (Laskar Pelangi), dan pernikahan yang diuji (Critical Eleven) memberi bobot pada akhir.
 - **Tokoh sebagai cermin.** Raymond bagi Eleanor, Keenan bagi Kugy, dan Mr. Knightley bagi Emma menunjukkan sisi yang tidak dilihat tokoh utama.
 - **Bentuk sebagai variasi.** Buku harian, dua garis waktu, dan sudut pandang bergantian menjaga ritme tanpa mengganti kerangka dasar.
+
+### Judul Lain untuk Referensi Tambahan
+
+Hanya judul, tanpa dibedah, dikelompokkan dengan pola yang sama seperti studi kasus di atas.
+
+**Tenggat, taruhan, komunitas:** *Charlotte's Web* (E. B. White); *The Guernsey Literary and Potato Peel Pie Society* (Mary Ann Shaffer & Annie Barrows); *Little Women* (Louisa May Alcott); *Anne of Green Gables* (L. M. Montgomery); *Sang Pemimpi* (Andrea Hirata); *Negeri 5 Menara* (A. Fuadi); *5 cm* (Donny Dhirgantoro); *Orang-Orang Biasa* (Andrea Hirata).
+
+**Salah paham dan rahasia:** *Persuasion*, *Sense and Sensibility*, *Northanger Abbey* (Jane Austen); *Rebecca* (Daphne du Maurier); *Where'd You Go, Bernadette* (Maria Semple); *Salah Asuhan* (Abdoel Moeis); *Tenggelamnya Kapal Van der Wijck* (Hamka).
+
+**Perubahan diri dan kehidupan urban:** *David Copperfield* (Charles Dickens); *The Secret Garden* (Frances Hodgson Burnett); *Pollyanna* (Eleanor H. Porter); *Confessions of a Shopaholic* (Sophie Kinsella); *The Alchemist* (Paulo Coelho); *Convenience Store Woman* (Sayaka Murata); *Kitchen* (Banana Yoshimoto); *A Man Called Ove* (Fredrik Backman); *The Midnight Library* (Matt Haig); *The Unlikely Pilgrimage of Harold Fry* (Rachel Joyce); *Hector and the Search for Happiness* (François Lelord); *Imperfect: Karier, Cinta & Timbangan* (Meira Anastasia).
+
+**Rantai peristiwa dan komedi:** *Three Men in a Boat* (Jerome K. Jerome); *The Hitchhiker's Guide to the Galaxy* (Douglas Adams); *Good Omens* (Terry Pratchett & Neil Gaiman); *A Series of Unfortunate Events* (Lemony Snicket); *The Princess Bride* (William Goldman); *Bridget Jones: The Edge of Reason* (Helen Fielding); *Marmut Merah Jambu* (Raditya Dika).
+
+**Misteri dan planting:** *Holes* (Louis Sachar); *Harry Potter and the Prisoner of Azkaban* (J. K. Rowling); *And Then There Were None*, *The Murder of Roger Ackroyd* (Agatha Christie); *The Hound of the Baskervilles* (Arthur Conan Doyle); *The Westing Game* (Ellen Raskin); *Where the Crawdads Sing* (Delia Owens); *The Thursday Murder Club* (Richard Osman); *Big Little Lies* (Liane Moriarty); *Gadis Kretek* (Ratih Kumala); *Aroma Karsa* (Dee Lestari).
+
+**Romance modern:** *Crazy Rich Asians* (Kevin Kwan); *Me Before You* (Jojo Moyes); *One Day* (David Nicholls); *The Hating Game* (Sally Thorne); *Love, Rosie* dan *P.S. I Love You* (Cecelia Ahern); *Normal People* (Sally Rooney); *The Kiss Quotient* (Helen Hoang); *Beach Read* (Emily Henry); *Divortiare*, *A Very Yuppy Wedding*, *Antologi Rasa*, *The Architecture of Love* (Ika Natassa); *Refrain* (Winna Efendi); *Dilan: Dia Adalah Dilanku Tahun 1990* (Pidi Baiq); *Ayat-Ayat Cinta* (Habiburrahman El Shirazy).
+
+**Bentuk naratif khusus (surat, diari, dua garis waktu):** *Daddy-Long-Legs* (Jean Webster); *The Perks of Being a Wallflower* (Stephen Chbosky); *Flowers for Algernon* (Daniel Keyes); *The Time Traveler's Wife* (Audrey Niffenegger).
 
 ## Menghasilkan Ide dari Kerangka
 

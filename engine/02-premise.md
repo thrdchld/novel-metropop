@@ -4,7 +4,7 @@
 > 1. `../panduan-pengembangan-premis-cerita.md` (Arsitektur Premis Fiksi: Formulasi, Pendalaman, dan Elevasi Dramatis).
 > 2. `../Kerangka Plot yang Terbukti untuk Web Novel.md` (8 Kerangka Plot Terbukti, Siklus Coba-Gagal, Planting Solusi, dan Uji Logika).
 > 
-> Hanya gunakan 8 kerangka plot terbukti yang ada di dokumen acuan. Jangan membuat kerangka eksperimental. Pilih masalah yang dekat dengan masyarakat Indonesia dan mudah dijelaskan; hindari urusan hukum berbelit, polisi, dan uang miliaran yang membuat pembaca perkotaan merasa lelah (*burnout*).
+> Gunakan 8 kerangka plot terbukti sebagai kompas jangkar dan inspirasi. Penulis dan AI tidak dibatasi dalam bereksperimen: eksplorasi alur hibrida (menggabungkan dua kerangka) dan bentuk naratif khusus (buku harian, surat/epistolari, dua garis waktu, sudut pandang ganda) sangat didukung dengan mengambil inspirasi dari pola terbukti, asalkan tetap lolos Uji 5 Slot Kelayakan Premis dan 10 Uji Logika Alur Cerita. Pilih masalah yang dekat dengan masyarakat Indonesia dan mudah dijelaskan; hindari urusan hukum berbelit, polisi, dan uang miliaran yang membuat pembaca perkotaan merasa lelah (*burnout*).
 
 ---
 

@@ -36,9 +36,10 @@ Skill ini memandu AI untuk bertindak sebagai **Penulis dan Editor Pendamping Web
 
 ## Kerangka Plot, Premis, & Evaluasi Alur Cerita
 
-1. **Delapan Kerangka Plot Terbukti (Wajib Pilih, Jangan Eksperimental):**
+1. **Delapan Kerangka Plot Terbukti & Eksperimentasi Hibrida:**
    - *Fondasi (1-4):* (1) Struktur Tiga Babak, (2) Save the Cat (15 beat), (3) Story Circle (8 langkah perubahan diri), (4) Seven-Point Structure (dari akhir ke awal untuk planting ketat).
    - *Sesuai Jenis Cerita (5-8):* (5) Fichtean Curve (kesalahan menyebar jadi krisis beruntun), (6) Struktur Romance (*Romancing the Beat*, wajib HEA/HFN jika jadi kerangka utama), (7) Kishōtenketsu (ringan, komunitas, tanpa antagonis), (8) Arc Bersarang (3-4 arc × 10 bab).
+   - *Eksperimentasi Bebas Berbasis Pola Terbukti:* Eksperimen variasi bentuk naratif (buku harian/diari, dua garis waktu paralel, sudut pandang ganda/dual POV, surat/epistolari, dua proyek paralel) sangat didukung dengan mengambil inspirasi dari karya-karya teruji, asalkan tetap lolos Uji 5 Slot dan 10 Uji Logika Alur Cerita.
 2. **Uji Kelayakan Premis (5 Slot Wajib):**
    - Rumus 1 kalimat: `[Tokoh] ingin [X], tapi [masalah mendadak], dan kalau gagal [konsekuensi nyata]`.
    - 5 Slot: (1) Keinginan vs kebutuhan berbeda, (2) Masalah & tenggat dari luar, (3) Konsekuensi gagal terukur (hindari hukum/polisi/uang miliaran yang memicu *burnout*), (4) Minimal 3 jalan mudah tertutup alasan tertulis (beri informasi menyesatkan, jangan membuat tokoh bodoh), (5) Perubahan akhir & harga nyata (akhir tidak sempurna).
