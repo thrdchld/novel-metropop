@@ -10,7 +10,7 @@
 - **Judul:** Kurir Barang Mantan
 - **Genre:** Web Novel / MetroPop Indonesia / Urban Romantic Comedy
 - **Target Pembaca:** 13+ / 18 - 35 tahun (Penggemar Dinamika Perkotaan & Romansa Realistis)
-- **Panjang:** 30 Bab (standar 600 - 900 kata per bab, target ±750 kata; kelonggaran darurat maks. 1.200 kata hanya untuk bab klimaks krusial)
+- **Panjang:** 36 Bab (standar 600 - 900 kata per bab, target ±750 kata; kelonggaran darurat maks. 1.200 kata hanya untuk bab klimaks krusial)
 - **POV:** Orang Pertama Murni ("Aku" / Dita Maheswari), kala lampau, santai, ceplas-ceplos tapi tajam batinnya (DILARANG melompat ke POV orang ketiga)
 - **Negara & Kota:** Indonesia · Jakarta (Kuningan, Tebet, SCBD Sudirman, Senopati, Palmerah)
 - **Tahun Kejadian & Era:** 2026 (Era smartphone, QRIS, e-commerce, timbangan digital, CCTV cloud, buzzer medsos)

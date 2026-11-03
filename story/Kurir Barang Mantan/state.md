@@ -8,6 +8,7 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
+- **Jumlah Total Bab:** 36 Bab (Outline Terkunci v1.0)
 - **Bab Terakhir Selesai:** Belum ada (Masuk Bab 1)
 - **Bab Berikutnya yang Akan Ditulis:** Bab 1: Jangan Baper Pas Ngantar
 - **Titik Waktu Cerita Terkini:** Hari 1 (Senin pagi), Pukul 09.30 WIB
@@ -24,30 +25,39 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 
 | Hari Cerita | Kalender & Jam | Kejadian Kunci di Cerita | Status Rujukan Relatif yang Sah |
 |---|---|---|---|
-| **Hari 1** | Senin, 09.30–17.00 | Pembuka: Pengantaran kardus di Palmerah. Sore: Adrian datang ke ruko Tebet menyewa paket VIP koper mantan. Timbangan digital: 14,350 kg. | Disebut "Hari Pertama" / "Senin awal" |
-| **Hari 2** | Selasa, 10.00–14.00 | Eko antar koper ke apartemen Senopati. Diterima asisten Claudia dengan tanda terima segel utuh. | Disebut "Selasa kemarin" (dari Hari 3) |
-| **Hari 3** | Rabu, 08.00–16.00 | Video viral Claudia meledak di medsos. Surat somasi resmi 14 hari tiba di ruko Beres Mantan. Dita labrak Adrian ke SCBD. | Disebut "Hari Somasi Dimulai" (Tenggat H-14) |
-| **Hari 4** | Kamis, 09.00–18.00 | Dita dan Adrian mulai bersekutu. Cek rekaman CCTV apartemen Senopati (Siklus 1). | Tenggat H-13 |
-| **Hari 6** | Sabtu, 11.00–19.00 | Pelacakan asisten Claudia. Momen makan bakso gerobak, Dita & Adrian saling membuka luka masa lalu. | Tenggat H-11 |
-| **Hari 8** | Senin, 09.00–17.00 | Adrian perlihatkan foto sertifikat permata warisan ibunya (nomor ukiran laser `GIA-8921-PL`). Cek selisih gramatur timbangan. | Tenggat H-9 |
-| **Hari 10** | Rabu, 13.00–21.00 | Temuan kartu member pegadaian Senopati di laci kantor Adrian. Midpoint: Bukti awal Claudia menggadaikan cincin. | Tenggat H-7 |
-| **Hari 12** | Jumat, 10.00–22.00 | Serangan buzzer Claudia. Akun masa lalu Dita dibongkar. Klien Beres Mantan membatalkan pesanan. | Tenggat H-5 |
-| **Hari 13** | Sabtu, 08.00–20.00 | Titik terendah (All Hope Is Lost): Pegadaian tolak buka data tanpa Claudia. Polisi panggil Dita. | Tenggat H-2 |
-| **Hari 14** | Minggu / Senin, 09.00–16.00 | Klimaks: Pencocokan nomor seri laser di depan saksi dan keluarga. Claudia kicep. Somasi dicabut damai. | **Hari Terakhir Somasi / Resolusi** |
+| **Hari 1** | Senin, 09.30 - 17.00 | Pembuka: Pengantaran kardus di Palmerah (Bab 1). Sore: Adrian datang ke ruko Tebet membawa koper seserahan lamaran keluarga besar batal nikah (Bab 2). Timbangan digital: 14,350 kg. | Disebut "Hari Pertama" / "Senin awal" |
+| **Hari 2** | Selasa, 05.30 - 16.00 | Subuh: Eko menangis karena gitar akustik mantan (Bab 3). Siang: Koper diantar ke Senopati via Siska (Bab 4). Sore: Eko sebar brosur pink di Kuningan (Bab 5). | Disebut "Selasa kemarin" (dari Hari 3) |
+| **Hari 3** | Rabu, 07.30 - 14.00 | Video viral Claudia meledak (Bab 6). Surat somasi resmi 14 hari tiba di ruko (Bab 7). Dita melabrak Adrian ke lobi SCBD (Bab 8). | **Hari Somasi Dimulai (Tenggat H-14)** |
+| **Hari 4** | Kamis, 08.30 - 01.30 (dini hari) | Pagi: Bedah timbangan 14,350 kg dan hitungan 320 gram (Bab 9). Dini hari: Mi rebus jam satu malam di balkon ruko, obrolan masa lalu batal nikah (Bab 10). | Tenggat H-13 |
+| **Hari 5** | Jumat, 11.00 - 13.00 | Penyelidikan lobi Senopati; manajemen menolak buka CCTV apartemen (Bab 11). | Tenggat H-12 |
+| **Hari 6** | Sabtu, 14.00 - 21.00 | Siang: Eko salah alamat kemeja ke kantor SCBD (Bab 12). Malam: Menemui Siska di kosan Slipi; petunjuk pegadaian Senopati didapat (Bab 13). | Tenggat H-11 |
+| **Hari 7** | Minggu, 16.00 - 18.00 | Insiden kotak beludru imitasi di dasar helm di pangkalan servis Tebet (Bab 14). | Tenggat H-10 |
+| **Hari 8** | Senin, 12.30 - 14.00 | Pengintaian Senayan City; dilabrak Tante Mona di depan eskalator mal (Bab 15). | Tenggat H-9 |
+| **Hari 9** | Selasa, 10.00 - 17.30 | Pagi: Intimidasi pangkalan sebelah (Bab 16). Sore: Hujan badai banjir Kuningan, motor mogok, momen batin berdua di kolong jembatan (Bab 17). | Tenggat H-8 |
+| **Hari 10** | Rabu, 09.00 - 11.00 | **Midpoint Bukti:** Foto monitor transaksi pegadaian Senopati Rp65 juta berhasil didapat (Bab 18). | Tenggat H-7 |
+| **Hari 11** | Kamis, 03.00 - 14.30 | Subuh: Serangan buzzer siber jam tiga pagi (Bab 19). Siang: Pertemuan tertutup SCBD; Tante Mona tawarkan uang damai busuk (Bab 20). | Tenggat H-6 |
+| **Hari 12** | Jumat, 17.00 - 18.30 | Dilema keluarga Adrian di kedai kopi; surat panggilan resmi Polres tiba (Bab 21). | Tenggat H-5 |
+| **Hari 13** | Sabtu, 21.00 - 23.00 | Operasi mata-mata pangkalan Palmerah; Eko rekam bukti aliran dana Tante Mona (Bab 22). | Tenggat H-4 |
+| **Hari 14** | Senin, 10.00 - 21.30 | Klarifikasi Polres tolak foto HP (Bab 23). Penyusupan gagal gerai pegadaian (Bab 24). Pertengkaran halte Senopati (Bab 25). Ruko disegel pemilik tanah (Bab 26). | Tenggat H-1 (Sehari jelang tenggat) |
+| **Hari 15** | Selasa, 02.00 - 13.00 | Dini hari: Tangisan loteng hujan / All Hope Is Lost (Bab 27). Subuh: Kopi wejangan Pak Tejo (Bab 28). Pagi: Sertifikat laser almarhum ibu (Bab 29). Balapan macet ke Polres (Bab 30-32). Timbangan dan laser hantam Claudia (Bab 33). Somasi dicabut resmi (Bab 34). | **Hari Batas Akhir Somasi / Kemenangan Hukum** |
+| **Hari 16** | Rabu, 13.00 - 16.00 | Pengecatan ruko, tumpengan damai pangkalan, perobekan piagam sinis (Bab 35). | Masa Pemulihan |
+| **Hari 17** | Kamis, 16.30 - 18.00 | Adrian bawa kotak 250 gram ke balkon ruko; pesanan masa depan tanpa retur (Bab 36). | Resolusi Epilog |
 
 ---
 
 ## III. Status Hubungan Sah Antar-Tokoh (Relational State Machine)
 
-| Pasangan Tokoh | Bab 1–5 | Bab 6–10 | Bab 11–20 | Bab 21–25 | Bab 26–30 |
+| Pasangan Tokoh | Bab 1 - 8 | Bab 9 - 16 | Bab 17 - 26 | Bab 27 - 34 | Bab 35 - 36 |
 |---|---|---|---|---|---|
-| **Dita & Adrian** | `Klien & Kurir Curiga` / `Musuh Awal` | `Sekutu Terpaksa` | `Rekan Seperjuangan & Mulai Nyaman` | `Saling Percaya di Titik Terendah` | `Kekasih Nyata & Rekan Hidup Setara` |
-| **Adrian & Claudia** | `Mantan Tunangan Bermasalah` | `Musuh Somasi` | `Kolega Sengketa Hukum` | `Sengketa Terbuka` | `Putus Resmi & Saling Lepas Permanen` |
-| **Dita & Eko** | `Bos & Kurir Setia Kawan` | `Bos & Kurir Setia Kawan` | `Rekan Satu Tim Solid` | `Rekan Satu Tim Solid` | `Sahabat & Manajer Lapangan` |
+| **Dita & Adrian** | `Klien & Kurir Curiga` / `Musuh Awal` | `Sekutu Penyelidik` | `Rekan Seperjuangan & Tumbuh Rasa` (Retak sementara di Bab 25) | `Saling Menguatkan di Titik Terendah & Bersekutu Mutlak` | `Kekasih Nyata & Rekan Hidup Setara` |
+| **Adrian & Claudia** | `Mantan Tunangan Batal Nikah` | `Musuh Somasi Hukum` | `Sengketa Terbuka & Rekayasa Jahat` | `Konfrontasi Meja Penyidik` | `Putus Resmi & Saling Lepas Permanen` |
+| **Dita & Eko** | `Bos & Kurir Setia Kawan` | `Bos & Kurir Setia Kawan` | `Rekan Satu Tim Solid` | `Rekan Seperjuangan Tak Terpisahkan` | `Sahabat & Manajer Lapangan Beres Mantan` |
+| **Dita & Pak Tejo** | `Penyewa Ruko & Pemilik Bijak` | `Mentor & Penasihat Realistis` | `Pelindung Markas & Penjaga Brankas` | `Penyelamat Semangat di Titik Nadir` | `Keluarga Angkat & Mitra Ruko Permanen` |
 
 > **PERINGATAN AUDIT HUBUNGAN:**
-> - Di Bab 1–6: DILARANG menyebut Dita dan Adrian sebagai "pasangan", "kekasih", atau "pacar". Panggilan wajib formal (`Pak/Mas` dan `Mbak/Saya`).
-> - Kata ganti *aku-kamu* antara Dita dan Adrian baru sah digunakan mulai Bab 11 ke atas setelah kesepakatan penyelidikan bersama di luar kantor.
+> - Di Bab 1 - 8: DILARANG menyebut Dita dan Adrian sebagai "pasangan", "kekasih", atau "pacar". Panggilan wajib formal (`Pak/Mas` dan `Mbak/Saya`).
+> - Kata ganti *aku-kamu* antara Dita dan Adrian baru sah digunakan mulai Bab 10 ke atas setelah momen mi rebus larut malam di balkon.
+> - Sentuhan fisik romantis terlarang sebelum Bab 17 (refleks jaket hujan) dan Bab 29 (pegangan tangan rekonsiliasi).
 
 ---
 
@@ -55,10 +65,11 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 
 | Benda / Aset | Lokasi Awal (Bab 1) | Lokasi Terkini | Pembawa / Penanggung Jawab | Fakta Validasi Fisik |
 |---|---|---|---|---|
-| **Koper Hitam Eksklusif Claudia** | Apartemen Adrian (SCBD) | Apartemen Senopati (Bab 2) | Diserahkan Eko, diterima asisten Claudia | Berat koper tercatat 14,350 kg dengan segel lakban merah Beres Mantan. |
-| **Kotak Cincin Beludru Biru** | Tidak ada di koper sejak awal | Pegadaian Swasta Senopati | Dikuasai pihak pegadaian | Berisi cincin berlian warisan keluarga Adrian berukir laser `GIA-8921-PL`. |
+| **Koper Hitam Seserahan Claudia** | Apartemen Adrian (SCBD) | Apartemen Senopati (Bab 4) | Diserahkan Eko, diterima Siska | Berat koper tercatat 14,350 kg dengan segel lakban merah Beres Mantan. Berisi bahan kebaya, tas pesta, dan kain brokat. |
+| **Kotak Cincin Beludru Biru** | Tidak ada di koper sejak awal | Pegadaian Swasta Senopati | Dikuasai pihak pegadaian | Berisi cincin berlian warisan keluarga Adrian berukir laser `GIA-8921-PL`. Bobot padat 320 gram. |
 | **Timbangan Digital Gantung Beres Mantan** | Kantor Ruko Tebet | Kantor Ruko Tebet | Dita Maheswari | Timbangan presisi kalibrasi miligram dengan memori data digital. |
-| **Lembar Manifes Tanda Terima VIP** | Ruko Tebet | Ruko Tebet & Map Dita | Dita Maheswari | Ditandatangani asisten Claudia dengan catatan segel utuh. |
+| **Buku Manifes Fisik & Lembar Tanda Terima VIP** | Ruko Tebet | Ruko Tebet / Brankas Pak Tejo | Dita Maheswari | Ditandatangani Siska dengan foto segel utuh berlatar jam lobi apartemen. |
+| **Sertifikat Permata GIA Almarhum Ibu** | Brankas Rumah Keluarga Adrian | Dibawa Adrian (Bab 29) | Adrian Pratama | Mencatat nomor seri ukiran mikro laser `GIA-8921-PL`. |
 
 ---
 
@@ -69,10 +80,13 @@ Tabel pengunci adegan penting agar tidak terjadi pengulangan kejadian "pertama k
 | Milestone Kejadian | Bab Kejadian Pertama | Status Kunci | Aturan Larangan di Bab Selanjutnya |
 |---|---|---|---|
 | **Pertemuan Pertama Dita & Adrian** | Bab 2 | **TERKUNCI** | Dilarang diperkenalkan ulang di bab-bab berikutnya. |
-| **Somasi Hukum Tiba di Meja Dita** | Bab 3 | **TERKUNCI** | Tidak boleh ada somasi baru; fokus menghitung mundur 14 hari. |
-| **Pertama Kali Dita & Adrian Bicara dari Hati ke Hati** | Bab 9 | **TERKUNCI** | Kisah mantan Dita (Riko) dan mantan Adrian (Claudia) diceritakan di sini. |
-| **Pertama Kali Masuk Rumah / Tempat Pribadi** | Bab 14 | **TERKUNCI** | Adrian pertama kali makan di warung tenda dekat ruko Dita. |
-| **Sentuhan Fisik / Pegangan Tangan Pertama** | Bab 24 | **TERKUNCI** | Hanya boleh terjadi di titik terendah saat Adrian menguatkan Dita. |
+| **Somasi Hukum Tiba di Meja Dita** | Bab 7 | **TERKUNCI** | Tidak boleh ada somasi baru; fokus menghitung mundur 14 hari. |
+| **Pertama Kali Bicara dari Hati ke Hati Soal Luka Batal Nikah** | Bab 10 | **TERKUNCI** | Tragedi Riko (mantan Dita) dan Claudia (mantan Adrian) dibuka di balkon ruko jam 1 malam. |
+| **Insiden Hujan Badai & Kedekatan Fisik Pertama** | Bab 17 | **TERKUNCI** | Menyelimutkan jaket hujan di kolong jembatan Kuningan. |
+| **Temuan Bukti Transaksi Pegadaian Senopati Rp65 Juta** | Bab 18 | **TERKUNCI** | Midpoint: Titik pergeseran dari pasif bertahan menjadi aktif menyerang. |
+| **Krisis All Hope Is Lost / Ruko Disegel & Tangisan Loteng** | Bab 26 - 27 | **TERKUNCI** | Dita menyerah tuntas; titik balik batin terdalam. |
+| **Penyerahan Sertifikat Laser Almarhum Ibu** | Bab 29 | **TERKUNCI** | Senjata pamungkas forensik sebelum sidang penyidik. |
+| **Pencabutan Somasi & Video Klarifikasi Claudia** | Bab 34 | **TERKUNCI** | Kasus hukum selesai tuntas; dilarang diungkit kembali sebagai konflik baru. |
 
 ---
 
@@ -80,27 +94,32 @@ Tabel pengunci adegan penting agar tidak terjadi pengulangan kejadian "pertama k
 
 Melacak kepemilikan informasi agar tidak terjadi "telepati narator":
 
-- **Fakta: Claudia terlilit utang arisan dan gaya hidup Rp150 juta**
-  - Tahu: Claudia (sejak awal), Tante Mona (Bab 10).
-  - Belum Tahu di Bab 1–14: Dita dan Adrian (hanya curiga gaya hidup Claudia boros).
-  - Baru Terbongkar ke Dita & Adrian: Bab 16 (melalui bukti konfirmasi transaksi pegadaian).
+- **Fakta: Koper berisi barang seserahan lamaran keluarga besar batal nikah (bukan kumpul kebo)**
+  - Tahu: Adrian dan keluarganya (sejak Bab 2), Dita (sejak Bab 2 saat memeriksa manifes).
+  - Pembaca tahu sejak awal: Menjaga kultur Indonesia dan kelayakan rating 13+.
+
+- **Fakta: Claudia terlilit utang arisan dan gaya hidup sosialita**
+  - Tahu: Claudia (sejak awal), Tante Mona (sejak awal).
+  - Belum Tahu di Bab 1 - 12: Dita dan Adrian (hanya heran mengapa Claudia menuntut uang tunai ganti rugi begitu agresif).
+  - Terbuka ke Dita & Adrian: Bab 13 (asisten Siska) dan Bab 18 (pegadaian).
 
 - **Fakta: Cincin sudah digadaikan Claudia 3 hari sebelum serah terima koper**
-  - Tahu: Claudia dan pihak penaksir pegadaian.
-  - Belum Tahu di Bab 1–15: Dita, Adrian, dan Eko.
-  - Baru Terbongkar ke Dita & Adrian: Bab 17.
+  - Tahu: Claudia dan pihak penaksir pegadaian swasta Senopati.
+  - Belum Tahu di Bab 1 - 17: Dita, Adrian, dan Eko.
+  - Baru Terbongkar ke Dita & Adrian: Bab 18.
 
-- **Fakta: Koper ditimbang dan difoto segelnya sebelum dibawa Eko**
-  - Tahu: Dita dan Eko (sejak Bab 1–2).
-  - Tahu: Adrian (sejak Bab 8 saat Dita memperlihatkan bukti logistik).
-  - Tidak Disadari Claudia: Claudia mengira kurir motor tidak punya catatan digital resmi.
+- **Fakta: Koper ditimbang dan difoto segelnya sebelum dibawa Eko (14,350 kg)**
+  - Tahu: Dita dan Eko (sejak Bab 2).
+  - Tahu: Adrian (sejak Bab 9 saat Dita membedah buku manifes logistik).
+  - Tidak Disadari Claudia: Claudia mengira kurir motor tidak memiliki catatan digital yang bisa dipertanggungjawabkan di ranah forensik.
 
 ---
 
 ## VII. Indikator Fakta Keras (Hard Facts Assertions)
 
-- Nama Agensi: **Beres Mantan** (jasa kurir logistik patah hati pihak ketiga).
-- Lokasi Kantor Beres Mantan: Ruko lantai dua di kawasan Tebet / perbatasan Kuningan.
-- Kendaraan Operasional: Dua motor matik milik Dita dan Eko yang dilengkapi boks kargo belakang berlapis busa peredam guncangan.
-- Tarif Standar Beres Mantan: Paket Biasa (kardus buku/baju) Rp150 ribu, Paket VIP (koper/perhiasan dengan asuransi & segel) Rp500 ribu.
-- Nilai Cincin Warisan: Ditaksir sekitar Rp120 juta (emas putih bertatahkan berlian solitaire 1,2 karat dengan ukiran laser `GIA-8921-PL`).
+- Nama Agensi: **Beres Mantan** (jasa kurir logistik pengembalian barang mantan pihak ketiga berizin usaha perorangan).
+- Lokasi Kantor Beres Mantan: Ruko sewa dua lantai milik Pak Tejo di kawasan Tebet, perbatasan Kuningan, Jakarta Selatan.
+- Tim Inti Beres Mantan: Dita Maheswari (pendiri & admin), Eko (kurir lapangan utama & eks mekanik balap liar), Pak Tejo (mentor pemilik ruko).
+- Kendaraan Operasional: Sepeda motor matik kargo boks belakang berlapis busa peredam getaran.
+- Tarif Standar Beres Mantan: Paket Biasa (kardus buku/baju) Rp150 ribu, Paket VIP (koper/barang berharga bersegel asuransi) Rp500 ribu.
+- Nilai Cincin Warisan: Ditaksir sekitar Rp120 juta (emas putih bertatahkan berlian solitaire 1,2 karat dengan ukiran mikro laser `GIA-8921-PL`).
