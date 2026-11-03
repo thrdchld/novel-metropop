@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Kurir Barang Mantan | `PERSIAPAN` | 0 | 0 | Jakarta (Sudirman, SCBD, Kuningan, Senopati) | 2026 | - |
+| `NOV-002` | `PRM-002` | Kurir Barang Mantan | `TAMAT` | 36 | 26.625 | Jakarta (Sudirman, SCBD, Kuningan, Senopati, Tebet) | 2026 | 2026-11-03 |
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### PRM-002: Kurir Barang Mantan
 - **Proyek Terkait:** `NOV-002` (Folder: `story/Kurir Barang Mantan/`)
-- **Status:** `DITERIMA / AKTIF` (Tahap perancangan dokumen dasar canon dan outline)
+- **Status:** `DITERIMA / AKTIF` (Selesai 36 Bab Tamat, Naskah Lengkap & Lulus Audit Kontinuitas 100%)
 - **Tanggal Disetujui:** 2026-11-03
 - **Formula Sintaksis:**
   - *Basic Logline:* Dita Maheswari, pendiri jasa kurir pengembalian barang mantan pacar tanpa tatap muka, harus melacak keberadaan cincin tunangan berharga ratusan juta yang dituduh dicuri sebelum mantan tunangan sang klien memenjarakannya.
