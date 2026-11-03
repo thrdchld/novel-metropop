@@ -4,17 +4,17 @@ Kepanikan di kantor SCBD belum sempat kami tangani ketika bencana operasional la
 
 Sabtu siang pukul dua, ponselku berdering histeris di saku celana saat aku dan Bagas baru saja memarkir motor di dekat halte Senayan. Suara Restu di seberang telepon terdengar melengking tinggi diiringi suara sesenggukan tangis yang nyaris membuat gendang telingaku pecah.
 
-"Mbak Ditaaa! Tolongin gue, Mbak! Gue mau mati aja rasanya!"
+"Mbak Ditaaa! Tolongin gue, Mbak! Mau nyebur ke kali Ciliwung aja rasanya gue sekarang!"
 
 Aku menjauhkan ponsel sejengkal dari telinga. "Tarik napas dulu, Restu! Ada apa lagi sih?!"
 
-"Gue salah tempel resi pengantaran, Mbak!" ratap Restu dengan suara gemetar hebat. "Kardus pesanan paket biasa kode BLK-084... yang isinya kemeja batik pesanan Bu Ratna buat selingkuhannya di Slipi... salah gue tempel resi kilat dokumen tender kantor Mas Bagas di SCBD! Paket kemeja batik itu sekarang sudah diantar kurir cadangan dan tergeletak di meja sekretaris direktur utama kantor Mas Bagas!"
+"Gue salah tempel stiker resi pengantaran, Mbak!" ratap Restu dengan suara gemetar hebat diselingi sedotan ingus keras. "Kardus pesanan paket biasa kode BLK-084... yang isinya kemeja batik pesanan Bu Ratna buat selingkuhannya di Slipi... malah ketuker stiker resi kilat dokumen tender kantor Mas Bagas di SCBD! Paket kemeja batik sutra motif naga itu sekarang sudah diantar kurir cadangan dan tergeletak manis di meja sekretaris direktur utama kantor Mas Bagas!"
 
 Mendengar nama kantornya disebut, Bagas yang berdiri di sampingku langsung tersentak kaget. Matanya membelalak lebar menatap layar ponselku.
 
 "Apa?!" seru Bagas menyambar ponsel dari tanganku. "Restu! Itu meja Direktur Utama saya, Pak Hartawan! Kalau kardus kemeja batik perselingkuhan itu dibuka sekretaris beliau di depan dewan komisaris, saya bisa langsung dipecat tanpa pesangon detik ini juga!"
 
-"Gue khilaf, Mas Bagas! Mata gue buram gara-gara semalam begadang diserbu netizen TikTok!" raung Restu dari seberang telepon. "Kardusnya baru ditaruh di meja sekretaris lobi lantai delapan belas sepuluh menit lalu! Tolongin gue, Mas!"
+"Gue khilaf, Mas Bagas! Mata gue sepet banget semalam gara-gara diserbu akun bot netizen TikTok!" raung Restu dari seberang telepon. "Kardusnya baru ditaruh di meja sekretaris lobi lantai delapan belas sepuluh menit lalu! Mas Bagas, tolongin, Mas! Jangan kutuk gue jadi ban motor bekas!"
 
 Bagas mematikan panggilan dengan napas memburu. Wajah pria SCBD yang biasanya selalu menjaga etiket santun itu mendadak berubah tegang persis komandan perang di garis depan.
 

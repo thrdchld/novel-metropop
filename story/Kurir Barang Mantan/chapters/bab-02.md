@@ -1,6 +1,6 @@
 ## Bab 2: Tamu Rapi Bawa Masalah
 
-Senin sore di kawasan Tebet selalu berbau sangit asap knalpot dan gorengan basah. Di lantai dua ruko Bolu Ketan, kipas angin dindingku berderit malas menatap tumpukan kardus kosong. Aku sedang sibuk mencatat inventaris lakban segel ketika suara derit sepatu pantofel mahal terdengar menaiki anak tangga kayu.
+Senin sore di kawasan Tebet selalu berbau sangit asap knalpot, minyak gorengan tempe dari warteg seberang, dan debu jalanan yang menempel tipis di kaca nako. Di lantai dua ruko Bolu Ketan, kipas angin dinding tua berderit malas dengan suara logam berdecit, beradu dengan tumpukan kardus cokelat dan timbangan gantung besi. Aku sedang sibuk mencatat inventaris lakban segel ketika suara derit sepatu pantofel kulit mengilap terdengar menaiki anak tangga kayu ruko tua.
 
 Sosok pria yang muncul di ambang pintu membuat kantorku mendadak terasa sempit. Pria itu bertubuh jangkung, mengenakan kemeja katun abu-abu licin berpotongan pas badan tanpa dasi, dan celana bahan gelap yang licin tanpa kerutan. Rambutnya disisir belah samping rapi khas pekerja korporat segitiga emas, dengan jam tangan perak melingkar di pergelangan tangan kiri. Wajahnya tampan, tapi raut mukanya luar biasa tegang, persis orang yang baru saja menelan pil pahit berukuran jumbo.
 
@@ -24,11 +24,11 @@ Pria necis itu seketika terperangah. Mulutnya yang tadi tampak siap memberi cera
 
 Bagas membuka map kulit hitamnya, menyodorkan selembar surat kesepakatan keluarga yang dibubuhi meterai. Jemarinya tampak sedikit gemetar saat meletakkan kertas itu di mejaku.
 
-"Saya baru saja membatalkan pernikahan saya," kata Bagas dengan nada datar yang dipaksakan tenang. "Dua minggu lagi harusnya kami akad, tapi ada ketidakjujuran prinsipil yang tidak bisa saya toleransi dari pihak Clarissa. Masalahnya, keluarga besar saya menuntut seluruh hantaran seserahan lamaran dan cincin berlian warisan almarhumah ibu saya ditarik kembali hari ini juga."
+"Saya baru saja membatalkan pernikahan saya," kata Bagas dengan nada datar yang dipaksakan tenang. "Dua minggu lagi harusnya kami akad, tapi ada ketidakjujuran prinsipil yang tidak bisa saya toleransi dari pihak mantan tunangan saya, seorang perempuan bernama Clarissa Maharani. Masalahnya, keluarga besar saya menuntut seluruh hantaran seserahan lamaran dan cincin berlian warisan almarhumah ibu saya ditarik kembali hari ini juga."
 
 Aku menyimak tanpa menyela. Cincin pusaka keluarga. Ini kategori barang berisiko tinggi. "Kenapa nggak Mas ambil sendiri ke apartemennya?"
 
-Bagas tersenyum getir, sorot matanya menyiratkan kepenatan luar biasa. "Clarissa menolak bertemu saya. Tadi pagi dia mengirim pesan WhatsApp bahwa seluruh seserahan dan kotak cincin ibu saya sudah dimasukkan ke koper hitam besar dan digembok di penthouse-nya. Dia bilang, koper itu akan diserahkan lewat asisten pribadinya di lobi Apartemen Royal Senopati besok siang. Kalau saya berani datang sendiri ke sana, dia mengancam akan membuat keributan di lobi mal Senopati depan teman-teman arisannya."
+Bagas tersenyum getir, sorot matanya menyiratkan kepenatan luar biasa. "Mantan tunangan saya itu menolak bertemu saya langsung. Tadi pagi Clarissa mengirim pesan WhatsApp bahwa seluruh seserahan dan kotak cincin ibu saya sudah dimasukkan ke koper hitam besar dan digembok di penthouse-nya. Dia bilang, koper itu akan diserahkan lewat asisten pribadinya di lobi Apartemen Royal Senopati besok siang. Kalau saya berani datang sendiri ke sana, dia mengancam akan membuat keributan di lobi mal Senopati depan teman-teman arisannya."
 
 "Dan keluarga Mas menuntut barang itu kembali sebelum besok lusa?" tebakku.
 

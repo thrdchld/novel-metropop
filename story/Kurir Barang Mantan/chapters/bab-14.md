@@ -46,4 +46,6 @@ Melihat kepanikan Bagas yang begitu polos dan malu, amarah dan kecurigaanku mend
 
 Tepat saat tawa kami mulai mereda, suara derit rem mobil mewah terdengar berhenti mendadak di depan trotoar ruko.
 
+"Itu mobil Tante Debby..." bisik Bagas kaku di sampingku, tawanya seketika membeku lenyap tak berbekas.
+
 Sebuah mobil Toyota Alphard putih berkaca gelap terparkir angkuh di pinggir jalan Tebet. Kaca jendela belakang perlahan turun, memperlihatkan sosok Tante Debby yang duduk anggun dengan rambut sasak kaku dan kalung mutiara mencolok. Dari balik kacamata hitamnya, tatapan mata wanita paruh baya itu menatapku dan Bagas dengan senyuman dingin yang sarat ancaman mematikan.

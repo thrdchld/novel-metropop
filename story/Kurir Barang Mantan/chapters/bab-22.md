@@ -8,13 +8,13 @@ Aku duduk di bangku kayu warung kopi pangkalan seberang ruko mengenakan jaket ku
 
 "Restu udah masuk sepuluh menit lalu, Dit," bisik Pakde Broto tanpa mengalihkan pandangannya dari bidak catur kuda hitamnya. "Tenang saja. Anak itu mantan jagoan balap liar Cipinang. Kalau cuma urusan nyusup ke kandang musuh, insting jalanannya lebih tajam daripada kucing garong."
 
-Rencana nekat malam ini murni gagasan Restu. Salah seorang kawan lamanya dari pangkalan balap liar Cipinang, namanya Kipli, bekerja sampingan sebagai kurir logistik logistik logistik galon dan makanan di ruko agensi buzzer tersebut. Restu memanfaatkan celah pesanan sepuluh porsi nasi goreng gila dan kopi saset untuk menyusup masuk ke ruang server operator media sosial lantai dua.
+Rencana nekat malam ini murni gagasan Restu. Salah seorang kawan lamanya dari pangkalan balap liar Cipinang, namanya Kipli, bekerja sampingan sebagai kurir air galon dan katering makanan di ruko agensi buzzer tersebut. Restu memanfaatkan celah pesanan sepuluh porsi nasi goreng gila dan kopi saset untuk menyusup masuk ke ruang server operator media sosial lantai dua.
 
 Tujuannya cuma satu: membongkar siapa yang mentransfer dana operasional kampanye hitam fitnah terhadap Bolu Ketan.
 
-Di lantai dua ruko seberang, melalui celah tirai kaca yang sedikit tersingkap, aku melihat sosok Restu melangkah mondar-mandir menaruh bungkus makanan di meja operator.
+Di lantai dua ruko seberang, melalui celah tirai kaca yang sedikit tersingkap, aku melihat sosok Restu melangkah mondar-mandir mengenakan topi katering lusuh. Sambil menaruh bungkusan nasi goreng gila di meja operator buzzer, pemuda kurus itu melontarkan banyolan jalanan yang membuat para operator tertawa lengah.
 
-Di bawah meja kasir operator utama, Restu tampak pura-pura merogoh saku celananya, lalu berlutut di samping meja admin server dengan dalih mencari stopkontak charger ponselnya yang mati.
+Dengan lagak santai persis di pangkalan sendiri, Restu pura-pura merogoh saku celananya, lalu berlutut di samping meja server utama dengan dalih mencari colokan kabel charger ponselnya yang mati.
 
 Dua menit berselang yang terasa persis dua abad, ponsel pintarku di atas meja warung kopi bergetar pelan menerima sebuah pesan gambar resolusi tinggi lewat aplikasi Telegram dari nomor Restu.
 

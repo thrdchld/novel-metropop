@@ -6,7 +6,7 @@ Aku dan Bagas berdiri di balik pilar marmer dekat butik kosmetik internasional, 
 
 Di meja itu, Clarissa Maharani duduk anggun mengenakan kacamata hitam bermerek dan gaun terusan sutra putih. Di sekelilingnya, empat orang perempuan sosialita sesama anggota arisan berlian tampak tertawa riang sambil memamerkan kotak belanjaan mewah masing-masing. Di atas meja restoran, sebuah tas tangan Hermes mini warna merah muda yang baru saja dibeli Clarissa teronggok berkilau di bawah lampu kristal.
 
-"Uang pinjaman pegadaian enam puluh lima juta itu sebagian dipakai beli tas itu," bisik Bagas dingin di samping telingaku. Rahang pria itu mengeras menatap mantan tunangannya yang tampak sama sekali tidak merasa bersalah setelah menghancurkan nama baik orang lain.
+"Nay benar, Clarissa nekat bawa kotak perhiasan almarhumah Ibu saya ke pegadaian Senopati demi nutup utang arisannya... tapi di depan teman-temannya dia masih pamer tas Hermes mini seolah hidupnya tanpa dosa," bisik Bagas dingin di samping telingaku. Rahang pria itu mengeras menatap mantan tunangannya yang tampak sama sekali tidak merasa bersalah setelah memfitnah orang lain.
 
 "Kita samperin sekarang?" bisikku melirik ponsel yang siap merekam.
 
@@ -22,7 +22,7 @@ Tante Debby berdiri di depan pintu butik perhiasan emas dengan kedua tangan berk
 
 "Dasar keponakan kurang ajar!" jerit Tante Debby histeris, suaranya menggelegar memenuhi atrium mal hingga alunan musik jazz seketika tenggelam. Puluhan pengunjung mal dan satpam berseragam safari kontan menghentikan langkah, memutar badan menonton keributan gratis di siang bolong.
 
-Tante Debby melangkah maju dengan tumit sepatu hak tingginya yang berketuk keras di lantai marmer, lalu menunjuk wajahku dengan telunjuk berhias cincin berlian raksasa. "Pantas saja kamu tega membatalkan pernikahan terhormat dengan Clarissa dan mencuri cincin pusaka almarhumah ibumu sendiri! Ternyata uangnya kamu pakai buat membiayai perempuan kurir murahan berjaket rompi gembel ini?!"
+Tante Debby melangkah maju dengan tumit sepatu hak tingginya yang berketuk keras di lantai marmer, lalu menunjuk wajahku dengan telunjuk berhias cincin berlian raksasa. "Pantas saja kamu tega membatalkan pernikahan terhormat dengan keponakan saya, Clarissa, dan mencuri cincin pusaka almarhumah ibumu sendiri! Ternyata uangnya kamu pakai buat membiayai perempuan kurir murahan berjaket rompi gembel ini?!"
 
 Darahku seketika mendidih sampai ke ubun-ubun kepala. Langkahku maju setengah jengkal, siap membalas makian wanita sosialita itu dengan seluruh kosa kata jalanan Tebet.
 

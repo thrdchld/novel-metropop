@@ -8,7 +8,9 @@ Jalan protokol Sudirman dan Rasuna Said Kuningan pagi ini dikabarkan lumpuh tota
 
 "Makanya kita nggak akan lewat jalur mobil," sahutku tegas sambil mengikat tali rompi kanvas hitam Bolu Ketan di dadaku.
 
-Darmawan, S.H., pengacara muda berkacamata rekan kuliah Bagas yang berbadan tegap, melangkah masuk ke bengkel menenteng tas kerja kulit hitam dan toga advokat bertanda Peradi resmi. "Draf surat pembelaan eksepsi awal dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu, Dita. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Bagas."
+"Dita, kenalkan, ini Darmawan, S.H., rekan kampus saya yang akan mendampingi kita sebagai kuasa hukum resmi," ucap Bagas saat seorang pengacara muda berkacamata dan berbadan tegap melangkah masuk ke teras bengkel menenteng tas kerja kulit hitam.
+
+Darmawan tersenyum ramah lalu mengangguk hormat ke arahku dan Pakde Broto. "Selamat pagi, Dita. Draf pembelaan dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Bagas."
 
 "Pembagian tugas jalanan mulai sekarang," perintahku membagi salinan berkas menjadi dua tas terpisah.
 

@@ -58,7 +58,7 @@ Pria itu terdiam sejenak, menghela napas panjang. "Saya butuh paket VIP darurat 
 
 ## Bab 2: Tamu Rapi Bawa Masalah
 
-Senin sore di kawasan Tebet selalu berbau sangit asap knalpot dan gorengan basah. Di lantai dua ruko Bolu Ketan, kipas angin dindingku berderit malas menatap tumpukan kardus kosong. Aku sedang sibuk mencatat inventaris lakban segel ketika suara derit sepatu pantofel mahal terdengar menaiki anak tangga kayu.
+Senin sore di kawasan Tebet selalu berbau sangit asap knalpot, minyak gorengan tempe dari warteg seberang, dan debu jalanan yang menempel tipis di kaca nako. Di lantai dua ruko Bolu Ketan, kipas angin dinding tua berderit malas dengan suara logam berdecit, beradu dengan tumpukan kardus cokelat dan timbangan gantung besi. Aku sedang sibuk mencatat inventaris lakban segel ketika suara derit sepatu pantofel kulit mengilap terdengar menaiki anak tangga kayu ruko tua.
 
 Sosok pria yang muncul di ambang pintu membuat kantorku mendadak terasa sempit. Pria itu bertubuh jangkung, mengenakan kemeja katun abu-abu licin berpotongan pas badan tanpa dasi, dan celana bahan gelap yang licin tanpa kerutan. Rambutnya disisir belah samping rapi khas pekerja korporat segitiga emas, dengan jam tangan perak melingkar di pergelangan tangan kiri. Wajahnya tampan, tapi raut mukanya luar biasa tegang, persis orang yang baru saja menelan pil pahit berukuran jumbo.
 
@@ -82,11 +82,11 @@ Pria necis itu seketika terperangah. Mulutnya yang tadi tampak siap memberi cera
 
 Bagas membuka map kulit hitamnya, menyodorkan selembar surat kesepakatan keluarga yang dibubuhi meterai. Jemarinya tampak sedikit gemetar saat meletakkan kertas itu di mejaku.
 
-"Saya baru saja membatalkan pernikahan saya," kata Bagas dengan nada datar yang dipaksakan tenang. "Dua minggu lagi harusnya kami akad, tapi ada ketidakjujuran prinsipil yang tidak bisa saya toleransi dari pihak Clarissa. Masalahnya, keluarga besar saya menuntut seluruh hantaran seserahan lamaran dan cincin berlian warisan almarhumah ibu saya ditarik kembali hari ini juga."
+"Saya baru saja membatalkan pernikahan saya," kata Bagas dengan nada datar yang dipaksakan tenang. "Dua minggu lagi harusnya kami akad, tapi ada ketidakjujuran prinsipil yang tidak bisa saya toleransi dari pihak mantan tunangan saya, seorang perempuan bernama Clarissa Maharani. Masalahnya, keluarga besar saya menuntut seluruh hantaran seserahan lamaran dan cincin berlian warisan almarhumah ibu saya ditarik kembali hari ini juga."
 
 Aku menyimak tanpa menyela. Cincin pusaka keluarga. Ini kategori barang berisiko tinggi. "Kenapa nggak Mas ambil sendiri ke apartemennya?"
 
-Bagas tersenyum getir, sorot matanya menyiratkan kepenatan luar biasa. "Clarissa menolak bertemu saya. Tadi pagi dia mengirim pesan WhatsApp bahwa seluruh seserahan dan kotak cincin ibu saya sudah dimasukkan ke koper hitam besar dan digembok di penthouse-nya. Dia bilang, koper itu akan diserahkan lewat asisten pribadinya di lobi Apartemen Royal Senopati besok siang. Kalau saya berani datang sendiri ke sana, dia mengancam akan membuat keributan di lobi mal Senopati depan teman-teman arisannya."
+Bagas tersenyum getir, sorot matanya menyiratkan kepenatan luar biasa. "Mantan tunangan saya itu menolak bertemu saya langsung. Tadi pagi Clarissa mengirim pesan WhatsApp bahwa seluruh seserahan dan kotak cincin ibu saya sudah dimasukkan ke koper hitam besar dan digembok di penthouse-nya. Dia bilang, koper itu akan diserahkan lewat asisten pribadinya di lobi Apartemen Royal Senopati besok siang. Kalau saya berani datang sendiri ke sana, dia mengancam akan membuat keributan di lobi mal Senopati depan teman-teman arisannya."
 
 "Dan keluarga Mas menuntut barang itu kembali sebelum besok lusa?" tebakku.
 
@@ -149,6 +149,12 @@ Aku melirik jam dinding di atas meja: pukul delapan lewat lima belas menit. Mata
 ## Bab 4: Menjemput Koper di Senopati
 
 Lobi Apartemen Royal Senopati beraroma wewangian melati mewah dan hembusan pendingin udara sentral yang langsung membekukan keringat di pelipisku. Lantai marmer putih bercorak abu-abu mengilap sempurna, memantulkan bayangan rompi kanvas hitam bertuliskan Bolu Ketan yang kukenakan bersama Restu.
+
+Restu sempat berhenti mendadak di ambang pintu kaca, menatap lantai marmer lobi yang begitu licin dan bening persis cermin raksasa. Pemuda itu buru-buru menggesekkan ujung sepatu ketsnya yang berdebu aspal Tebet ke keset beludru depan pintu, tampak cemas sol karetnya meninggalkan jejak kotor di gedung elit itu.
+
+"Buset, Mbak Dita," bisik Restu dengan mata mengerjap kagum sambil menelan ludah gugup. "Lantainya kinclong amat, lalat mau mendarat aja kayaknya kepeleset nih. Nggak bakal disuruh lepas sepatu kan kita?"
+
+"Jalan biasa aja, jangan norak," bisikku menyenggol lengannya.
 
 Tepat pukul sebelas lewat dua puluh menit, pintu lift khusus penghuni berdenting halus. Seorang perempuan muda bertubuh mungil melangkah keluar menyeret sebuah koper kargo hitam berukuran dua puluh delapan inci. Koper berbahan polikarbonat mengilap itu beroda empat, dengan pegangan teleskopik perak dan gembok kombinasi tiga angka di samping resletingnya.
 
@@ -314,7 +320,7 @@ Pakde Broto melangkah masuk ke ruangan lantai dua membawa segelas teh manis hang
 
 "Dita, dengar omongan orang tua," ucap Pakde Broto dengan suara berat yang meneduhkan. "Air keruh jangan diaduk pakai tangan kosong, nanti lumpurnya makin naik ke permukaan. Orang kota yang panik biasanya punya dua reaksi: menyerang membabi buta kayak mantan tunangannya itu, atau tiarap cari selamat kayak tamumu kemarin."
 
-"Tapi Bagas nggak angkat telepon saya, Pakde!" sahutku geram. "Jangan-jangan Bagas sama Clarissa sengaja sekongkol buat ngorbanin kurir kecil kayak kita biar aib keluarga mereka tertutup!"
+"Tapi Bagas nggak angkat telepon saya, Pakde!" sahutku geram. "Jangan-jangan Bagas sama mantan tunangannya, si Clarissa itu, sengaja sekongkol buat ngorbanin kurir kecil kayak kita biar aib keluarga mereka tertutup!"
 
 Pakde Broto menggeleng pelan. "Kemarin Pakde lihat sorot mata anak muda itu pas kamu timbang koper di bawah. Orang yang punya niat maling nggak bakal punya sorot mata sehampa itu pas menatap bekas cincin di jarinya. Dia bukan penipu, Dita. Dia cuma orang yang terjepit di antara gengsi keluarga besarnya."
 
@@ -334,9 +340,9 @@ Restu langsung berdiri tegap persis prajurit upacara. "Siap, Mbak Dita!"
 
 ## Bab 8: Labrakan Siang Bolong
 
-Menara perkantoran Pacific Century SCBD berdiri angkuh di bawah terik matahari tengah hari Jakarta. Dinding kacanya yang berkilau kebiruan memantulkan deretan mobil sedan mewah yang mengantre di lobi depan. Di tengah kerumunan karyawan berpenampilan necis dengan lanyard ID card berayun di dada, penampilanku dengan rompi kanvas hitam Bolu Ketan dan celana jins belel jelas tampak seperti noda aspal di atas taplak sutra.
+Menara perkantoran Pacific Century SCBD berdiri angkuh di bawah terik matahari tengah hari Jakarta. Dinding kaca birunya memantulkan deretan sedan mewah yang mengantre di lobi drop-off. Setelah menembus sengatan debu knalpot jalanan Gatot Subroto dari Tebet, rompi kanvas hitam Bolu Ketanku yang berdebu tipis dan celana jins belel jelas tampak mencolok persis noda aspal di atas taplak sutra.
 
-Aku melangkah mantap menembus pintu putar kaca lobi. Pendingin udara sentral langsung menyergap kulitku, tapi suhu dingin gedung elit ini sama sekali tidak mampu menurunkan suhu kemarahan yang mendidih di dadaku.
+Aku melangkah mantap menembus pintu putar kaca lobi. Udara dingin dari AC sentral langsung menyergap kulitku, berpadu dengan wangi diffuser mewah beraroma jeruk sitrus dan amber yang mahal. Lantai marmer Italia yang putih mengilap memantulkan derap ketukan sepatu hak tinggi para karyawan berdasi yang melintas anggun. Suasana tenang dan steril gedung konglomerat ini sama sekali tidak mampu mendinginkan darahku yang mendidih sejak subuh.
 
 "Mbak! Mau ke mana?!"
 
@@ -362,9 +368,9 @@ Mata Bagas seketika membulat saat melihatku berdiri di tengah kepungan satpam de
 
 "Mbak Dita?!" seru Bagas kaget, langkahnya terhenti kaku.
 
-"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Bagas sambil berlari menengahi satpam. Pria itu menyapu pandangan ke sekeliling lobi yang mulai dipadati penonton kepo. "Semuanya aman, salah paham staf biasa. Ayo, Mas Bagas, Mbak, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas turun!"
+"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Bagas sambil berlari menengahi satpam. Pria itu menoleh menatapku dengan sopan namun terengah-engah cemas. "Mbak Dita pemilik kurir itu, kan? Kenalkan, saya Ferdi, arsitek proyek rekan divisi Bagas. Tenang dulu, Mbak! Semuanya aman, Pak Darto, ini urusan koordinasi vendor interior! Ayo, Mas Bagas, Mbak Dita, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas dan wartawan turun!"
 
-Pria muda itu, yang belakangan kukenal bernama Ferdi, mendorong kami berdua memasuki pintu besi tangga darurat yang sepi dan kedap suara.
+Ferdi mendorong kami berdua memasuki pintu besi tangga darurat yang sepi dan kedap suara.
 
 Begitu pintu besi tertutup rapat, aku langsung melangkah maju menyentakkan map merah ke dada Bagas. Kertas somasi Henry Sitompul berhamburan keluar menempel di kemeja licinnya.
 
@@ -516,7 +522,7 @@ Pak Heru meletakkan surat permohonan kami ke atas meja dengan gerakan malas tanp
 
 Heru tersenyum tipis, senyuman dingin khas pengelola gedung elit yang sudah terbiasa menghadapi drama rumah tangga orang kaya. "Justru karena menyangkut perkara hukum, kami harus sangat berhati-hati, Pak Bagas. Dan perlu saya informasikan, kemarin sore perwakilan keluarga Ibu Clarissa, yaitu Ibu Debora, sudah datang langsung ke kantor ini membawa kuasa hukum beliau."
 
-Mendengar nama Tante Debby disebut, rahang Bagas seketika mengeras kaku.
+"Ibu Debora itu adik kandung almarhumah ibu Clarissa, biasa dipanggil Tante Debby," bisik Bagas pelan di sampingku dengan rahang mengeras kaku. "Dia yang selama ini jadi otak di balik semua gaya hidup sosialita Clarissa."
 
 "Ibu Debora secara resmi telah mencabut kartu akses tamu VIP atas nama Saudara Baskara Danuputra," lanjut Heru tanpa beban. "Pihak keluarga melarang keras manajemen memberikan data, rekaman visual, maupun informasi apa pun kepada pihak luar tanpa izin kantor hukum Sitompul dan Rekan. Jadi, mohon maaf, urusan Bapak di gedung ini sudah selesai."
 
@@ -558,17 +564,17 @@ Kepanikan di kantor SCBD belum sempat kami tangani ketika bencana operasional la
 
 Sabtu siang pukul dua, ponselku berdering histeris di saku celana saat aku dan Bagas baru saja memarkir motor di dekat halte Senayan. Suara Restu di seberang telepon terdengar melengking tinggi diiringi suara sesenggukan tangis yang nyaris membuat gendang telingaku pecah.
 
-"Mbak Ditaaa! Tolongin gue, Mbak! Gue mau mati aja rasanya!"
+"Mbak Ditaaa! Tolongin gue, Mbak! Mau nyebur ke kali Ciliwung aja rasanya gue sekarang!"
 
 Aku menjauhkan ponsel sejengkal dari telinga. "Tarik napas dulu, Restu! Ada apa lagi sih?!"
 
-"Gue salah tempel resi pengantaran, Mbak!" ratap Restu dengan suara gemetar hebat. "Kardus pesanan paket biasa kode BLK-084... yang isinya kemeja batik pesanan Bu Ratna buat selingkuhannya di Slipi... salah gue tempel resi kilat dokumen tender kantor Mas Bagas di SCBD! Paket kemeja batik itu sekarang sudah diantar kurir cadangan dan tergeletak di meja sekretaris direktur utama kantor Mas Bagas!"
+"Gue salah tempel stiker resi pengantaran, Mbak!" ratap Restu dengan suara gemetar hebat diselingi sedotan ingus keras. "Kardus pesanan paket biasa kode BLK-084... yang isinya kemeja batik pesanan Bu Ratna buat selingkuhannya di Slipi... malah ketuker stiker resi kilat dokumen tender kantor Mas Bagas di SCBD! Paket kemeja batik sutra motif naga itu sekarang sudah diantar kurir cadangan dan tergeletak manis di meja sekretaris direktur utama kantor Mas Bagas!"
 
 Mendengar nama kantornya disebut, Bagas yang berdiri di sampingku langsung tersentak kaget. Matanya membelalak lebar menatap layar ponselku.
 
 "Apa?!" seru Bagas menyambar ponsel dari tanganku. "Restu! Itu meja Direktur Utama saya, Pak Hartawan! Kalau kardus kemeja batik perselingkuhan itu dibuka sekretaris beliau di depan dewan komisaris, saya bisa langsung dipecat tanpa pesangon detik ini juga!"
 
-"Gue khilaf, Mas Bagas! Mata gue buram gara-gara semalam begadang diserbu netizen TikTok!" raung Restu dari seberang telepon. "Kardusnya baru ditaruh di meja sekretaris lobi lantai delapan belas sepuluh menit lalu! Tolongin gue, Mas!"
+"Gue khilaf, Mas Bagas! Mata gue sepet banget semalam gara-gara diserbu akun bot netizen TikTok!" raung Restu dari seberang telepon. "Kardusnya baru ditaruh di meja sekretaris lobi lantai delapan belas sepuluh menit lalu! Mas Bagas, tolongin, Mas! Jangan kutuk gue jadi ban motor bekas!"
 
 Bagas mematikan panggilan dengan napas memburu. Wajah pria SCBD yang biasanya selalu menjaga etiket santun itu mendadak berubah tegang persis komandan perang di garis depan.
 
@@ -701,6 +707,8 @@ Melihat kepanikan Bagas yang begitu polos dan malu, amarah dan kecurigaanku mend
 
 Tepat saat tawa kami mulai mereda, suara derit rem mobil mewah terdengar berhenti mendadak di depan trotoar ruko.
 
+"Itu mobil Tante Debby..." bisik Bagas kaku di sampingku, tawanya seketika membeku lenyap tak berbekas.
+
 Sebuah mobil Toyota Alphard putih berkaca gelap terparkir angkuh di pinggir jalan Tebet. Kaca jendela belakang perlahan turun, memperlihatkan sosok Tante Debby yang duduk anggun dengan rambut sasak kaku dan kalung mutiara mencolok. Dari balik kacamata hitamnya, tatapan mata wanita paruh baya itu menatapku dan Bagas dengan senyuman dingin yang sarat ancaman mematikan.
 
 ---
@@ -713,7 +721,7 @@ Aku dan Bagas berdiri di balik pilar marmer dekat butik kosmetik internasional, 
 
 Di meja itu, Clarissa Maharani duduk anggun mengenakan kacamata hitam bermerek dan gaun terusan sutra putih. Di sekelilingnya, empat orang perempuan sosialita sesama anggota arisan berlian tampak tertawa riang sambil memamerkan kotak belanjaan mewah masing-masing. Di atas meja restoran, sebuah tas tangan Hermes mini warna merah muda yang baru saja dibeli Clarissa teronggok berkilau di bawah lampu kristal.
 
-"Uang pinjaman pegadaian enam puluh lima juta itu sebagian dipakai beli tas itu," bisik Bagas dingin di samping telingaku. Rahang pria itu mengeras menatap mantan tunangannya yang tampak sama sekali tidak merasa bersalah setelah menghancurkan nama baik orang lain.
+"Nay benar, Clarissa nekat bawa kotak perhiasan almarhumah Ibu saya ke pegadaian Senopati demi nutup utang arisannya... tapi di depan teman-temannya dia masih pamer tas Hermes mini seolah hidupnya tanpa dosa," bisik Bagas dingin di samping telingaku. Rahang pria itu mengeras menatap mantan tunangannya yang tampak sama sekali tidak merasa bersalah setelah memfitnah orang lain.
 
 "Kita samperin sekarang?" bisikku melirik ponsel yang siap merekam.
 
@@ -729,7 +737,7 @@ Tante Debby berdiri di depan pintu butik perhiasan emas dengan kedua tangan berk
 
 "Dasar keponakan kurang ajar!" jerit Tante Debby histeris, suaranya menggelegar memenuhi atrium mal hingga alunan musik jazz seketika tenggelam. Puluhan pengunjung mal dan satpam berseragam safari kontan menghentikan langkah, memutar badan menonton keributan gratis di siang bolong.
 
-Tante Debby melangkah maju dengan tumit sepatu hak tingginya yang berketuk keras di lantai marmer, lalu menunjuk wajahku dengan telunjuk berhias cincin berlian raksasa. "Pantas saja kamu tega membatalkan pernikahan terhormat dengan Clarissa dan mencuri cincin pusaka almarhumah ibumu sendiri! Ternyata uangnya kamu pakai buat membiayai perempuan kurir murahan berjaket rompi gembel ini?!"
+Tante Debby melangkah maju dengan tumit sepatu hak tingginya yang berketuk keras di lantai marmer, lalu menunjuk wajahku dengan telunjuk berhias cincin berlian raksasa. "Pantas saja kamu tega membatalkan pernikahan terhormat dengan keponakan saya, Clarissa, dan mencuri cincin pusaka almarhumah ibumu sendiri! Ternyata uangnya kamu pakai buat membiayai perempuan kurir murahan berjaket rompi gembel ini?!"
 
 Darahku seketika mendidih sampai ke ubun-ubun kepala. Langkahku maju setengah jengkal, siap membalas makian wanita sosialita itu dengan seluruh kosa kata jalanan Tebet.
 
@@ -974,7 +982,7 @@ Bagas menoleh menatap ujung gang dengan rahang mengeras kaku dan kilatan amarah 
 
 ## Bab 20: Tante Debby Masuk Panggung
 
-Kamis siang pukul setengah dua, ruang rapat lantai delapan belas Menara Pacific Century SCBD beraroma wewangian parfum mawar menyengat yang bercampur dengan ketegangan beku. Tirai vertikal jendela kaca tertutup rapat, menghalangi pemandangan gedung-gedung pencakar langit Sudirman di luar sana.
+Kamis siang pukul setengah dua, ruang rapat eksekutif lantai delapan belas Menara Pacific Century SCBD diselimuti hembusan pendingin udara sentral yang sedingin es. Berbeda dengan hawa gerah Tebet yang dipenuhi deru knalpot dan aroma minyak gorengan, ruangan kedap suara ini beraroma wewangian mawar menyengat berbaur dengan kulit kursi impor yang mahal. Tirai vertikal jendela tertutup rapat, menghalangi silau matahari di atas pencakar langit Sudirman.
 
 Aku duduk di samping Bagas di ujung meja rapat marmer berbentuk oval. Di seberang meja kami, Tante Debora duduk menyilangkan kaki dengan anggun di atas kursi kulit putar. Di pangkuannya teronggok tas tangan kulit buaya Hermes berwarna hijau zamrud. Di sampingnya, Advokat Henry Sitompul, S.H. duduk membuka map berkas bertanda tangan resmi sambil memainkan pena emas bermerek Montblanc.
 
@@ -993,7 +1001,7 @@ Tante Debby tersenyum manis, senyuman berbisa yang menatapku persis menatap peng
 
 "Dua puluh juta itu uang yang sangat banyak buat agensi motor kecil seperti kantormu, Dita," ucap Tante Debby dengan nada suara mendayu-dayu yang meremehkan. "Kamu bisa pakai uang itu buat bayar sewa ruko di Tebet dan ganti rugi klien-klienmu yang kabur. Tinggal tanda tangan di atas meterai, Clarissa akan buat video klarifikasi bahwa kasus ini cuma salah paham pengantaran biasa. Kamu selamat dari penjara, Baskara selamat dari pemecatan kantor direksi, dan nama keluarga kami tetap bersih."
 
-Aku menatap lembaran draf itu dengan tangan mengepal kencang di bawah meja. "Menandatangani surat ini artinya saya mengakui kalau kurir saya lalai dan mencuri cincin itu di jalan, Tante."
+Aku menatap lembaran draf itu dengan tangan mengepal kencang di bawah meja. "Menandatangani surat ini artinya saya mengakui kalau kurir saya lalai dan mencuri cincin itu di jalan, Bu Debora."
 
 "Lalu kamu mau apa?!" potong Tante Debby, nada suaranya seketika berubah tajam dan dingin. Matanya melotot menusuk wajahku. "Mau sok jadi pahlawan kebenaran di depan hakim pengadilan?! Kamu itu cuma kurir motor lulusan kampung, Dita! Kamu pikir polisi dan jaksa bakal percaya ocehan kurir gembel dibanding nama keluarga kami dan kantor hukum Henry Sitompul?! Sekali tanda tanganku melayang ke berkas laporan pidana, kamu bakal membusuk di sel tahanan Pondok Bambu!"
 
@@ -1089,13 +1097,13 @@ Aku duduk di bangku kayu warung kopi pangkalan seberang ruko mengenakan jaket ku
 
 "Restu udah masuk sepuluh menit lalu, Dit," bisik Pakde Broto tanpa mengalihkan pandangannya dari bidak catur kuda hitamnya. "Tenang saja. Anak itu mantan jagoan balap liar Cipinang. Kalau cuma urusan nyusup ke kandang musuh, insting jalanannya lebih tajam daripada kucing garong."
 
-Rencana nekat malam ini murni gagasan Restu. Salah seorang kawan lamanya dari pangkalan balap liar Cipinang, namanya Kipli, bekerja sampingan sebagai kurir logistik logistik logistik galon dan makanan di ruko agensi buzzer tersebut. Restu memanfaatkan celah pesanan sepuluh porsi nasi goreng gila dan kopi saset untuk menyusup masuk ke ruang server operator media sosial lantai dua.
+Rencana nekat malam ini murni gagasan Restu. Salah seorang kawan lamanya dari pangkalan balap liar Cipinang, namanya Kipli, bekerja sampingan sebagai kurir air galon dan katering makanan di ruko agensi buzzer tersebut. Restu memanfaatkan celah pesanan sepuluh porsi nasi goreng gila dan kopi saset untuk menyusup masuk ke ruang server operator media sosial lantai dua.
 
 Tujuannya cuma satu: membongkar siapa yang mentransfer dana operasional kampanye hitam fitnah terhadap Bolu Ketan.
 
-Di lantai dua ruko seberang, melalui celah tirai kaca yang sedikit tersingkap, aku melihat sosok Restu melangkah mondar-mandir menaruh bungkus makanan di meja operator.
+Di lantai dua ruko seberang, melalui celah tirai kaca yang sedikit tersingkap, aku melihat sosok Restu melangkah mondar-mandir mengenakan topi katering lusuh. Sambil menaruh bungkusan nasi goreng gila di meja operator buzzer, pemuda kurus itu melontarkan banyolan jalanan yang membuat para operator tertawa lengah.
 
-Di bawah meja kasir operator utama, Restu tampak pura-pura merogoh saku celananya, lalu berlutut di samping meja admin server dengan dalih mencari stopkontak charger ponselnya yang mati.
+Dengan lagak santai persis di pangkalan sendiri, Restu pura-pura merogoh saku celananya, lalu berlutut di samping meja server utama dengan dalih mencari colokan kabel charger ponselnya yang mati.
 
 Dua menit berselang yang terasa persis dua abad, ponsel pintarku di atas meja warung kopi bergetar pelan menerima sebuah pesan gambar resolusi tinggi lewat aplikasi Telegram dari nomor Restu.
 
@@ -1486,7 +1494,9 @@ Jalan protokol Sudirman dan Rasuna Said Kuningan pagi ini dikabarkan lumpuh tota
 
 "Makanya kita nggak akan lewat jalur mobil," sahutku tegas sambil mengikat tali rompi kanvas hitam Bolu Ketan di dadaku.
 
-Darmawan, S.H., pengacara muda berkacamata rekan kuliah Bagas yang berbadan tegap, melangkah masuk ke bengkel menenteng tas kerja kulit hitam dan toga advokat bertanda Peradi resmi. "Draf surat pembelaan eksepsi awal dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu, Dita. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Bagas."
+"Dita, kenalkan, ini Darmawan, S.H., rekan kampus saya yang akan mendampingi kita sebagai kuasa hukum resmi," ucap Bagas saat seorang pengacara muda berkacamata dan berbadan tegap melangkah masuk ke teras bengkel menenteng tas kerja kulit hitam.
+
+Darmawan tersenyum ramah lalu mengangguk hormat ke arahku dan Pakde Broto. "Selamat pagi, Dita. Draf pembelaan dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Bagas."
 
 "Pembagian tugas jalanan mulai sekarang," perintahku membagi salinan berkas menjadi dua tas terpisah.
 

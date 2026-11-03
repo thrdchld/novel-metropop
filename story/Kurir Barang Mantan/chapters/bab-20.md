@@ -1,6 +1,6 @@
 ## Bab 20: Tante Debby Masuk Panggung
 
-Kamis siang pukul setengah dua, ruang rapat lantai delapan belas Menara Pacific Century SCBD beraroma wewangian parfum mawar menyengat yang bercampur dengan ketegangan beku. Tirai vertikal jendela kaca tertutup rapat, menghalangi pemandangan gedung-gedung pencakar langit Sudirman di luar sana.
+Kamis siang pukul setengah dua, ruang rapat eksekutif lantai delapan belas Menara Pacific Century SCBD diselimuti hembusan pendingin udara sentral yang sedingin es. Berbeda dengan hawa gerah Tebet yang dipenuhi deru knalpot dan aroma minyak gorengan, ruangan kedap suara ini beraroma wewangian mawar menyengat berbaur dengan kulit kursi impor yang mahal. Tirai vertikal jendela tertutup rapat, menghalangi silau matahari di atas pencakar langit Sudirman.
 
 Aku duduk di samping Bagas di ujung meja rapat marmer berbentuk oval. Di seberang meja kami, Tante Debora duduk menyilangkan kaki dengan anggun di atas kursi kulit putar. Di pangkuannya teronggok tas tangan kulit buaya Hermes berwarna hijau zamrud. Di sampingnya, Advokat Henry Sitompul, S.H. duduk membuka map berkas bertanda tangan resmi sambil memainkan pena emas bermerek Montblanc.
 
@@ -19,7 +19,7 @@ Tante Debby tersenyum manis, senyuman berbisa yang menatapku persis menatap peng
 
 "Dua puluh juta itu uang yang sangat banyak buat agensi motor kecil seperti kantormu, Dita," ucap Tante Debby dengan nada suara mendayu-dayu yang meremehkan. "Kamu bisa pakai uang itu buat bayar sewa ruko di Tebet dan ganti rugi klien-klienmu yang kabur. Tinggal tanda tangan di atas meterai, Clarissa akan buat video klarifikasi bahwa kasus ini cuma salah paham pengantaran biasa. Kamu selamat dari penjara, Baskara selamat dari pemecatan kantor direksi, dan nama keluarga kami tetap bersih."
 
-Aku menatap lembaran draf itu dengan tangan mengepal kencang di bawah meja. "Menandatangani surat ini artinya saya mengakui kalau kurir saya lalai dan mencuri cincin itu di jalan, Tante."
+Aku menatap lembaran draf itu dengan tangan mengepal kencang di bawah meja. "Menandatangani surat ini artinya saya mengakui kalau kurir saya lalai dan mencuri cincin itu di jalan, Bu Debora."
 
 "Lalu kamu mau apa?!" potong Tante Debby, nada suaranya seketika berubah tajam dan dingin. Matanya melotot menusuk wajahku. "Mau sok jadi pahlawan kebenaran di depan hakim pengadilan?! Kamu itu cuma kurir motor lulusan kampung, Dita! Kamu pikir polisi dan jaksa bakal percaya ocehan kurir gembel dibanding nama keluarga kami dan kantor hukum Henry Sitompul?! Sekali tanda tanganku melayang ke berkas laporan pidana, kamu bakal membusuk di sel tahanan Pondok Bambu!"
 

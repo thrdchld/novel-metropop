@@ -2,6 +2,12 @@
 
 Lobi Apartemen Royal Senopati beraroma wewangian melati mewah dan hembusan pendingin udara sentral yang langsung membekukan keringat di pelipisku. Lantai marmer putih bercorak abu-abu mengilap sempurna, memantulkan bayangan rompi kanvas hitam bertuliskan Bolu Ketan yang kukenakan bersama Restu.
 
+Restu sempat berhenti mendadak di ambang pintu kaca, menatap lantai marmer lobi yang begitu licin dan bening persis cermin raksasa. Pemuda itu buru-buru menggesekkan ujung sepatu ketsnya yang berdebu aspal Tebet ke keset beludru depan pintu, tampak cemas sol karetnya meninggalkan jejak kotor di gedung elit itu.
+
+"Buset, Mbak Dita," bisik Restu dengan mata mengerjap kagum sambil menelan ludah gugup. "Lantainya kinclong amat, lalat mau mendarat aja kayaknya kepeleset nih. Nggak bakal disuruh lepas sepatu kan kita?"
+
+"Jalan biasa aja, jangan norak," bisikku menyenggol lengannya.
+
 Tepat pukul sebelas lewat dua puluh menit, pintu lift khusus penghuni berdenting halus. Seorang perempuan muda bertubuh mungil melangkah keluar menyeret sebuah koper kargo hitam berukuran dua puluh delapan inci. Koper berbahan polikarbonat mengilap itu beroda empat, dengan pegangan teleskopik perak dan gembok kombinasi tiga angka di samping resletingnya.
 
 Perempuan itu mengenakan setelan blazer linen krem yang pas badan, tapi wajahnya tampak pucat dan matanya melirik gelisah ke arah meja resepsionis lobi.

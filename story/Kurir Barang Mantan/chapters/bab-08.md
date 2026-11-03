@@ -1,8 +1,8 @@
 ## Bab 8: Labrakan Siang Bolong
 
-Menara perkantoran Pacific Century SCBD berdiri angkuh di bawah terik matahari tengah hari Jakarta. Dinding kacanya yang berkilau kebiruan memantulkan deretan mobil sedan mewah yang mengantre di lobi depan. Di tengah kerumunan karyawan berpenampilan necis dengan lanyard ID card berayun di dada, penampilanku dengan rompi kanvas hitam Bolu Ketan dan celana jins belel jelas tampak seperti noda aspal di atas taplak sutra.
+Menara perkantoran Pacific Century SCBD berdiri angkuh di bawah terik matahari tengah hari Jakarta. Dinding kaca birunya memantulkan deretan sedan mewah yang mengantre di lobi drop-off. Setelah menembus sengatan debu knalpot jalanan Gatot Subroto dari Tebet, rompi kanvas hitam Bolu Ketanku yang berdebu tipis dan celana jins belel jelas tampak mencolok persis noda aspal di atas taplak sutra.
 
-Aku melangkah mantap menembus pintu putar kaca lobi. Pendingin udara sentral langsung menyergap kulitku, tapi suhu dingin gedung elit ini sama sekali tidak mampu menurunkan suhu kemarahan yang mendidih di dadaku.
+Aku melangkah mantap menembus pintu putar kaca lobi. Udara dingin dari AC sentral langsung menyergap kulitku, berpadu dengan wangi diffuser mewah beraroma jeruk sitrus dan amber yang mahal. Lantai marmer Italia yang putih mengilap memantulkan derap ketukan sepatu hak tinggi para karyawan berdasi yang melintas anggun. Suasana tenang dan steril gedung konglomerat ini sama sekali tidak mampu mendinginkan darahku yang mendidih sejak subuh.
 
 "Mbak! Mau ke mana?!"
 
@@ -28,9 +28,9 @@ Mata Bagas seketika membulat saat melihatku berdiri di tengah kepungan satpam de
 
 "Mbak Dita?!" seru Bagas kaget, langkahnya terhenti kaku.
 
-"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Bagas sambil berlari menengahi satpam. Pria itu menyapu pandangan ke sekeliling lobi yang mulai dipadati penonton kepo. "Semuanya aman, salah paham staf biasa. Ayo, Mas Bagas, Mbak, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas turun!"
+"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Bagas sambil berlari menengahi satpam. Pria itu menoleh menatapku dengan sopan namun terengah-engah cemas. "Mbak Dita pemilik kurir itu, kan? Kenalkan, saya Ferdi, arsitek proyek rekan divisi Bagas. Tenang dulu, Mbak! Semuanya aman, Pak Darto, ini urusan koordinasi vendor interior! Ayo, Mas Bagas, Mbak Dita, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas dan wartawan turun!"
 
-Pria muda itu, yang belakangan kukenal bernama Ferdi, mendorong kami berdua memasuki pintu besi tangga darurat yang sepi dan kedap suara.
+Ferdi mendorong kami berdua memasuki pintu besi tangga darurat yang sepi dan kedap suara.
 
 Begitu pintu besi tertutup rapat, aku langsung melangkah maju menyentakkan map merah ke dada Bagas. Kertas somasi Henry Sitompul berhamburan keluar menempel di kemeja licinnya.
 

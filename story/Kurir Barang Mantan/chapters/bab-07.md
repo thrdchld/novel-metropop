@@ -23,7 +23,7 @@ Pakde Broto melangkah masuk ke ruangan lantai dua membawa segelas teh manis hang
 
 "Dita, dengar omongan orang tua," ucap Pakde Broto dengan suara berat yang meneduhkan. "Air keruh jangan diaduk pakai tangan kosong, nanti lumpurnya makin naik ke permukaan. Orang kota yang panik biasanya punya dua reaksi: menyerang membabi buta kayak mantan tunangannya itu, atau tiarap cari selamat kayak tamumu kemarin."
 
-"Tapi Bagas nggak angkat telepon saya, Pakde!" sahutku geram. "Jangan-jangan Bagas sama Clarissa sengaja sekongkol buat ngorbanin kurir kecil kayak kita biar aib keluarga mereka tertutup!"
+"Tapi Bagas nggak angkat telepon saya, Pakde!" sahutku geram. "Jangan-jangan Bagas sama mantan tunangannya, si Clarissa itu, sengaja sekongkol buat ngorbanin kurir kecil kayak kita biar aib keluarga mereka tertutup!"
 
 Pakde Broto menggeleng pelan. "Kemarin Pakde lihat sorot mata anak muda itu pas kamu timbang koper di bawah. Orang yang punya niat maling nggak bakal punya sorot mata sehampa itu pas menatap bekas cincin di jarinya. Dia bukan penipu, Dita. Dia cuma orang yang terjepit di antara gengsi keluarga besarnya."
 

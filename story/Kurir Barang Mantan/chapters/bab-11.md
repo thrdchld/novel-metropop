@@ -16,7 +16,7 @@ Pak Heru meletakkan surat permohonan kami ke atas meja dengan gerakan malas tanp
 
 Heru tersenyum tipis, senyuman dingin khas pengelola gedung elit yang sudah terbiasa menghadapi drama rumah tangga orang kaya. "Justru karena menyangkut perkara hukum, kami harus sangat berhati-hati, Pak Bagas. Dan perlu saya informasikan, kemarin sore perwakilan keluarga Ibu Clarissa, yaitu Ibu Debora, sudah datang langsung ke kantor ini membawa kuasa hukum beliau."
 
-Mendengar nama Tante Debby disebut, rahang Bagas seketika mengeras kaku.
+"Ibu Debora itu adik kandung almarhumah ibu Clarissa, biasa dipanggil Tante Debby," bisik Bagas pelan di sampingku dengan rahang mengeras kaku. "Dia yang selama ini jadi otak di balik semua gaya hidup sosialita Clarissa."
 
 "Ibu Debora secara resmi telah mencabut kartu akses tamu VIP atas nama Saudara Baskara Danuputra," lanjut Heru tanpa beban. "Pihak keluarga melarang keras manajemen memberikan data, rekaman visual, maupun informasi apa pun kepada pihak luar tanpa izin kantor hukum Sitompul dan Rekan. Jadi, mohon maaf, urusan Bapak di gedung ini sudah selesai."
 
