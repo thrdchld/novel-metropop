@@ -69,8 +69,8 @@
   - *Mekanisme koping & pertahanan diri:* <positif vs anomali fungsional: hyper-independence / people-pleaser / rasionalisasi / perisai sarkasme>
   - *Gaya kelekatan (Attachment style):* <Secure / Dismissive-Avoidant / Anxious / Fearful>
   - *Lubang kerentanan & titik buta:* <area akal sehat runtuh saat mencari validasi/kasih sayang>
-  - *Kecenderungan disorder / eksentrisitas:* <OCD simetri, ADHD/fidgeting, Social anxiety/masking, HSP sensori, Alexithymia, atau Neurotipikal>
-  - *Target magnet pembaca:* <Magnet 1 Relate Cermin Diri ("Kok sama kayak gue!") vs Magnet 2 Eksentrik ("Kok ada orang kayak gitu?!")>
+  - *Kecenderungan disorder / eksentrisitas:* <NPD Overt/Covert, BPD, Agresi Pasif, Machiavellianism, OCD, ADHD, Social Anxiety, HSP, Alexithymia, atau Neurotipikal>
+  - *Target magnet pembaca:* <Magnet 1: Relate Cermin Diri ("Kok sama kayak gue!") / Magnet 2: Eksentrik / Scene Stealer Lovable / Scene Stealer Hateable ("Bikin emosi tapi nagih")>
 - **Kelemahan fatal (mesin plot):** ...
 - **Ketakutan terbesar:** ...
 - **Ingin vs butuh:** ...

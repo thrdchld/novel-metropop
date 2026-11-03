@@ -279,9 +279,10 @@ Menyuntikkan kebiasaan psikologis dan eksentrisitas perilaku yang spesifik ke da
   > *"Eh, masa sih dia bisa-bisanya tetap senyum pas dihina begitu? Penasaran gue maunya apa!"*
 - Efeknya: Memicu rasa penasaran kepo (*curiosity hook*). Pembaca terus membuka bab berikutnya karena penasaran ingin melihat apa lagi tingkah laku, keputusan gila, atau kebiasaan aneh yang akan dilakukan tokoh tersebut.
 
-#### Fenomena Karakter Pencuri Panggung (*Scene Stealer*)
-- Dalam banyak web novel populer, pembaca sering kali bertahan membaca bukan semata-mata karena penasaran pada plot utama, melainkan karena **terpesona pada tokoh tertentu (bahkan tokoh pendamping/second lead)** yang memiliki lapisan psikologis dan kebiasaan hidup yang sangat berwarna.
-- Tokoh sampingan (rekan kubikel kantor, paman julid, sahabat pangkalan, atau atasan eksentrik) yang memiliki kebiasaan psikologis konkret akan mencuri perhatian pembaca di setiap adegan ia muncul.
+#### Fenomena Karakter Pencuri Panggung (*Scene Stealer: Lovable vs Hateable*)
+Dalam banyak web novel populer, pembaca sering kali bertahan membaca bukan semata-mata karena alur utama, melainkan karena **terpikat secara emosional pada tokoh tertentu (bahkan tokoh pendamping atau antagonis sampingan)** yang mencuri perhatian di setiap adegan:
+1. **Scene Stealer Lovable (Dicintai & Dirindukan):** Sahabat kubikel yang kocak, kawan pangkalan yang setia, atau tetangga kos ceplas-ceplos. Pembaca terhibur, tertawa, dan merasa hangat setiap kali tokoh ini hadir di adegan.
+2. **Scene Stealer Hateable (Dibenci tapi Bikin Nagih / Love-to-Hate):** Tante julid elitis, rekan kerja bermuka dua, atasan narsistik (NPD), atau mantan pacar manipulatif. Pembaca membenci setengah mati, darah tinggi, dan melampiaskan emosi di kolom komentar (*"Duh pengin gue bejek-bejek nih orang!", "Kurang ajar banget omongannya!", "Kapan sih dia kena karmanya?!"*). Keberadaan tokoh hateable yang ditulis tajam membuat pembaca mati penasaran membuka bab selanjutnya demi melihat momen saat tokoh ini akhirnya dipermalukan atau terbongkar kedoknya!
 
 ---
 
@@ -294,5 +295,153 @@ Menyuntikkan kebiasaan psikologis dan eksentrisitas perilaku yang spesifik ke da
 | **Menghadapi Kritik / Konflik** | Mendengarkan argumen, membalas poin per poin. | **Trauma Otoritas / Fawn:** Tubuh kaku seketika, refleks mengangguk dan mengalah meski tahu dirinya benar. | *"Nyesek bacanya, pengin meluk si tokoh biar berani ngelawan."* |
 | **Memulai Proyek / Tugas Penting** | Membuat rencana kerja teratur, dicicil bertahap. | **ADHD / Executive Dysfunction:** Menunda sampai menit terakhir, panik luar biasa, lalu menyelesaikannya dalam satu tarikan napas semalam suntuk. | *"Kok gue banget pas ngerjain tugas kuliah/laporan kantor?!"* |
 | **Menerima Bantuan Tanpa Syarat** | Mengucapkan terima kasih dengan lega dan terbantu. | **Hyper-Independence:** Menolak keras, curiga ada motif tersembunyi, atau memilih lembur 16 jam daripada berutang budi. | *"Buset, keras kepala banget tapi gue paham kenapa dia kayak gitu."* |
+
+---
+
+## 8. Katalog Referensi Gangguan Psikologis, Kondisi Mental Pengalaman Hidup, & Scene Stealer
+
+Gunakan katalog ini sebagai bank referensi untuk melahirkan tokoh yang berwarna, memiliki logika berpikir yang meyakinkan (*believable*), dan memiliki kebiasaan mikro yang khas:
+
+### 8.1 Katalog Gangguan Kepribadian & Kecenderungan Klinis Fungsional
+
+Setiap entri memuat pola pikir batin, gestur fisik, pola keputusan, dan peran dramatiknya:
+
+#### 1. NPD (Narcissistic Personality Disorder - Tipe Terang / Overt Narcissist)
+- **Pola Pikir Batin:** *"Dunia ini berputar di sekeliling gue. Kalau ada keberhasilan, itu murni kehebatan gue. Kalau ada kegagalan, itu karena orang lain nggak becus."*
+- **Kebiasaan Mikro & Gestur:**
+  - Menyela pembicaraan orang lain secara halus untuk mengarahkan topik kembali ke prestasinya.
+  - Memamerkan merek barang, almamater, atau koneksi orang penting secara sambil lalu (*name-dropping*).
+  - Tatapan mata mendadak dingin dan membuang muka saat orang lain menerima pujian di depannya.
+- **Pola Keputusan Khas:** Mengambil kredit hasil kerja bawahannya; segera mencari kambing hitam saat ada audit bermasalah; tidak pernah meminta maaf secara tulus.
+- **Tipe Peran:** **Hateable Scene Stealer Mutlak** (atasan korporat, tante sosialita, mantan pacar kaya).
+
+#### 2. Covert Narcissism (Narsistik Terselubung / The Perpetual Martyr)
+- **Pola Pikir Batin:** *"Gue ini orang paling tulus, paling berkorban, dan paling menderita di dunia ini, tapi semua orang egois dan nggak tahu terima kasih."*
+- **Kebiasaan Mikro & Gestur:**
+  - Mendesah panjang di ruang keluarga atau kantor agar orang lain bertanya, *"Kamu kenapa?"*
+  - Menolak bantuan sambil tersenyum pedih, *"Nggak usah repot-repot, biar aku aja yang capek, udah biasa kok."*
+  - Mengunggah status media sosial bernada tersakiti (*vaguebooking*) untuk memancing simpati publik.
+- **Pola Keputusan Khas:** Menggunakan rasa bersalah orang lain sebagai alat kendali emosi (*guilt-tripping*); menyabotase kebahagiaan anak/pasangan dengan alasan *"Ibu/aku cuma mau kamu aman"*.
+- **Tipe Peran:** **Hateable Scene Stealer Emosional** (ibu mertua toksik, sahabat bermuka dua).
+
+#### 3. BPD (Borderline Tendencies / Splitting & Takut Ditinggalkan)
+- **Pola Pikir Batin:** *"Hari ini lo malaikat terbaik pelindung gue, tapi besok lo monster terjahat yang sengaja mau ngebuang gue."*
+- **Kebiasaan Mikro & Gestur:**
+  - Mengirim rentetan puluhan pesan WhatsApp jika pesannya tidak dibalas dalam lima belas menit.
+  - Pergeseran ekspresi wajah dari memuja penuh binar menjadi dingin membeku dalam hitungan detik.
+  - Menggigit bibir dalam atau mencengkeram lengan baju saat merasa diabaikan.
+- **Pola Keputusan Khas:** Melakukan tes kesetiaan ekstrem pada pasangan; sengaja menciptakan drama pertengkaran besar hanya untuk melihat apakah pasangannya akan mengejar atau meninggalkannya.
+- **Tipe Peran:** **Generator Konflik Dramatik Tinggi** (mantan pacar posesif, love interest dengan trauma abandonment).
+
+#### 4. Agresi Pasif (Passive-Aggressive Personality)
+- **Pola Pikir Batin:** *"Gue nggak bakal ngamuk terang-terangan di depan lo, tapi gue bakal pastiin rencana lo berantakan tanpa lo bisa nuduh gue."*
+- **Kebiasaan Mikro & Gestur:**
+  - Tersenyum sangat manis tetapi sorot matanya tajam menusuk.
+  - Melontarkan pujian beracun (*backhanded compliments*), misal: *"Baju lo bagus banget ya, berani banget pakai warna ngejreng begitu padahal kulit lo gelap."*
+  - Mengangguk setuju di rapat, tetapi sengaja "lupa" meneruskan berkas penting ke pihak terkait.
+- **Pola Keputusan Khas:** Memberikan aksi bungkam (*silent treatment*) berhari-hari; menunda pekerjaan tim sampai menit terakhir demi mempermalukan musuhnya.
+- **Tipe Peran:** **Hateable Scene Stealer Klasik** (rekan kubikel kantor, saudara ipar julid).
+
+#### 5. Machiavellianism (Karakter Pragmatis Dingin & Transaksional)
+- **Pola Pikir Batin:** *"Semua manusia punya harga dan punya titik lemah yang bisa ditekan. Hubungan adalah transaksi keuntungan."*
+- **Kebiasaan Mikro & Gestur:**
+  - Nada bicara selalu terkontrol, santai, dan tidak pernah meninggi walau sedang mengancam.
+  - Memperhatikan reaksi wajah orang lain sebelum berbicara; mencatat detail rahasia orang di buku catatan kecil.
+  - Jarang tertawa lepas; senyumnya hanya berupa tarikan tipis di sudut bibir.
+- **Pola Keputusan Khas:** Memotong jalur kompromi; mengorbankan sekutu tanpa beban moral jika hal itu menyelamatkan posisinya; memanfaatkan celah hukum dan kontrak.
+- **Tipe Peran:** **Antagonis Korporat Berkelas / Bos Otoriter**.
+
+#### 6. Paranoia Fungsional & Persecutory Tendencies
+- **Pola Pikir Batin:** *"Semua orang cuma pura-pura baik. Mereka lagi nunggu gue lengah buat nusuk dari belakang."*
+- **Kebiasaan Mikro & Gestur:**
+  - Memilih tempat duduk di sudut restoran yang membelakangi dinding agar bisa melihat seluruh pintu masuk.
+  - Selalu menutup layar ponsel atau laptop saat ada orang melintas dalam jarak dua meter.
+  - Mencurigai hadiah makanan atau minuman dari rekan kerja; sering membuangnya diam-diam.
+- **Pola Keputusan Khas:** Menolak delegasi tugas; mengunci folder komputer dengan enkripsi berlapis; memutus hubungan pertemanan secara tiba-tiba karena dugaan konspirasi yang belum terbukti.
+- **Tipe Peran:** **Lovable Eccentric** (staf IT jenius penyendiri) atau **Hateable Boss** (atasan paranoid).
+
+#### 7. Histrionic Tendencies (Haus Panggung & Pemujaan Perhatian)
+- **Pola Pikir Batin:** *"Kalau gue nggak jadi pusat perhatian di ruangan ini, gue merasa nggak dihargai dan nggak hidup."*
+- **Kebiasaan Mikro & Gestur:**
+  - Sengaja mengeraskan tawa atau suara di tempat umum agar orang di meja sebelah menoleh.
+  - Mendramatisir kejadian sepele menjadi krisis hidup-mati (*"Aduh, tadi mobilku hampir ketabrak truk tronton!"* padahal hanya papasan biasa).
+  - Pakaian, aksesoris, dan riasan selalu paling mencolok dibanding orang lain di acara formal.
+- **Pola Keputusan Khas:** Membocorkan gosip rahasia di tengah pesta demi memancing decak kagum orang; mendadak berpura-pura pingsan saat perhatian orang beralih ke pihak lain.
+- **Tipe Peran:** **Hateable / Comic Scene Stealer** (sosialita heboh, sepupu drama).
+
+#### 8. Anhedonia & Functional Depressive Burnout
+- **Pola Pikir Batin:** *"Semua target kerjaan beres, rekening terisi, tapi kenapa rasanya hampa dan abu-abu?"*
+- **Kebiasaan Mikro & Gestur:**
+  - Nada bicara monoton tanpa intonasi emosi; tatapan mata menerawang jauh ke luar jendela.
+  - Makan makanan enak tapi terasa seperti mengunyah kertas; hanya makan demi fungsi bertahan hidup.
+  - Duduk melamun di ruang kerja gelap berjam-jam setelah jam kantor selesai tanpa menyalakan lampu.
+- **Pola Keputusan Khas:** Mengabaikan peluang emas kenaikan pangkat; menolak menghadiri perayaan kesuksesan bersama tim; memilih menyepi di tempat sepi.
+- **Tipe Peran:** **Karakter Kompleks yang Memikat Rasa Iba Pembaca** (love interest sukses tapi hampa).
+
+---
+
+### 8.2 Katalog Kondisi Mental Berakar Pengalaman Hidup (Experience-Driven Mental States)
+
+Pengalaman hidup nyata di masa lalu membentuk cetak biru mental yang menentukan bagaimana karakter berpikir dan bertindak:
+
+#### 1. Trauma Kemiskinan Ekstrem (*Poverty Trauma / Scarcity Mindset*)
+- **Akar Pengalaman:** Pernah kelaparan, diusir pemilik kontrakan, atau dipermalukan penagih utang saat kecil.
+- **Pola Pikir Batin:** *"Uang di dompet ini bisa lenyap kapan saja. Gue nggak boleh buang uang atau merasa aman."*
+- **Kebiasaan Mikro & Gestur:**
+  - Mengumpulkan kantong kresek bekas dan botol plastik di balik pintu dapur karena merasa suatu saat akan berguna.
+  - Merasa bersalah dan gelisah luar biasa setelah mengeluarkan uang untuk kesenangan kecil (seperti membeli kopi Rp40.000).
+  - Saat membaca buku menu restoran, matanya selalu membaca angka harga di kolom kanan terlebih dahulu sebelum melihat nama makanannya di kolom kiri.
+- **Pola Keputusan Khas:** Tetap bekerja dan narik ojol meski badan sedang demam tinggi; menolak cuti kerja; mengutamakan tabungan tunai di atas kesehatan diri.
+
+#### 2. Sindrom Anak Sulung Pemikul Beban (*Parentification / Eldest Daughter Syndrome*)
+- **Akar Pengalaman:** Dipaksa menjadi penopang ekonomi atau pengasuh adik-adik sejak usia dini karena ayah/ibu tiada atau tidak berfungsi.
+- **Pola Pikir Batin:** *"Semua orang bergantung pada pundak gue. Kalau gue tumbang atau egois, keluarga gue hancur."*
+- **Kebiasaan Mikro & Gestur:**
+  - Menolak mengambil porsi lauk enak sebelum memastikan adik dan orang tuanya makan kenyang.
+  - Mengingat seluruh tanggal jatuh tempo tagihan listrik, sewa kontrakan, dan BPJS di luar kepala.
+  - Gelisah saat duduk diam tanpa bekerja; merasa bersalah jika tidur siang lebih dari lima belas menit.
+- **Pola Keputusan Khas:** Menolak tawaran beasiswa luar kota demi mengurus adik; merelakan tabungan pernikahan demi membayar utang pengobatan keluarga.
+
+#### 3. Sindrom Anak Emas (*Golden Child*) vs Kambing Hitam (*The Scapegoat*)
+- **Golden Child:**
+  - *Akar:* Selalu dipuji, dimanjakan, dan dianggap lambang kesuksesan keluarga.
+  - *Pola Pikir:* *"Gue harus selalu terlihat sempurna dan nggak boleh gagal di mata orang lain."*
+  - *Kebiasaan:* Panik saat mendapat revisi kerjaan dari atasan; sangat defensif terhadap kritik; menghalalkan segala cara agar namanya tetap harum.
+- **The Scapegoat (Kambing Hitam):**
+  - *Akar:* Selalu disalahkan atas setiap kemalangan keluarga; dianggap biang onar.
+  - *Pola Pikir:* *"Dari dulu gue emang selalu dianggap sampah, jadi buat apa gue repot-repot membuktikan diri ke orang lain?"*
+  - *Kebiasaan:* Menanggapi tuduhan dengan senyum sinis; kebal terhadap bentakan; mandiri dan tahan banting menghadapi kesengsaraan fisik.
+
+#### 4. Trauma Pengkhianatan Mendalam (*Betrayal Trauma / Hyper-Guarded*)
+- **Akar Pengalaman:** Dikhianati oleh pasangan hidup atau rekan bisnis yang membawa lari modal bersama.
+- **Pola Pikir Batin:** *"Orang yang berdiri paling dekat dengan lo adalah orang yang memegang pisau paling tajam."*
+- **Kebiasaan Mikro & Gestur:**
+  - Tidak pernah membiarkan orang lain meminjam laptop atau ponsel pribadinya tanpa pengawasan ketat.
+  - Selalu merekam percakapan penting atau menyimpan tangkapan layar (*screenshot*) bukti kesepakatan.
+  - Tidak pernah mengenalkan teman dari lingkaran kantor ke lingkaran pertemanan lamanya.
+- **Pola Keputusan Khas:** Memutuskan hubungan secara sepihak dan permanen (*cut-off*) saat mendapati kebohongan kecil, tanpa memberi kesempatan kedua.
+
+#### 5. Sindrom Anak Sangat Terlindungi (*The Fragile Sheltered Child*)
+- **Akar Pengalaman:** Dibesarkan dalam keluarga sangat berkecukupan dan harmonis; tidak pernah melihat pertengkaran orang tua atau kekejaman uang.
+- **Pola Pikir Batin:** *"Semua orang pada dasarnya baik kalau kita bersikap sopan dan tulus pada mereka."*
+- **Kebiasaan Mikro & Gestur:**
+  - Tatapan mata polos tanpa kecurigaan; mudah meminjamkan barang mahal kepada orang yang baru dikenal di kantor.
+  - Menangis tersedu-sedu dan terkejut luar biasa saat dibentak satpam atau atasan untuk pertama kali dalam hidupnya.
+- **Pola Keputusan Khas:** Menandatangani berkas kontrak tanpa membaca klausul denda; merasa orang tuanya telah menipunya karena tidak mengajarkan betapa curangnya dunia nyata perkotaan.
+
+---
+
+### 8.3 Playbook Merancang Scene Stealer Hateable Berkelas
+
+Karakter yang dibenci pembaca (*hateable*) sama pentingnya dengan karakter yang dicintai, karena mereka adalah **mesin penghasil emosi dan keterikatan membaca paling kuat**.
+
+Untuk merancang tokoh *hateable* yang mencuri panggung tanpa menjadi antagonis kartun:
+1. **Berikan Pembenaran Logika Moral Menurut Sudut Pandangnya:**
+   - Tokoh narsistik atau tante julid tidak pernah merasa dirinya jahat. Di kepalanya, ia merasa sedang *"melindungi martabat keluarga Pratama dari orang kampung penipu"*. Logika yang ia yakini benar membuat serangannya terasa menusuk dan realistis.
+2. **Bungkus Serangan dalam Etiket Sosial Perkotaan:**
+   - Jangan membuat tokoh hateable memaki dengan kata-kata kasar vulgar. Buat dia merendahkan martabat tokoh utama melalui senyuman sopan, tata krama elitis, sindiran halus soal merek pakaian, atau aturan formal kantor. Ini membuat pembaca merasa gemas dan emosi tertahan.
+3. **Rancang Janji Kepuasan Pembalasan (*The Comeuppance Payoff*):**
+   - Keberadaan tokoh hateable adalah janji tak tertulis kepada pembaca bahwa suatu saat nanti tokoh ini akan menerima akibatnya. Pembaca rela begadang membaca 20 bab hanya demi menantikan satu momen adegan di mana kesombongannya diruntuhkan, wajahnya pucat pasi, dan ia terdiam membeku di hadapan publik!
+
 
 

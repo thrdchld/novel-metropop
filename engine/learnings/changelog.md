@@ -3,6 +3,29 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.6 - 2026-11-03
+
+- **Perubahan:** Membangun **Katalog Komprehensif Disorder, Pengalaman Hidup, & Scene Stealer Hateable vs Lovable (Engine v3.6)**:
+  1. *Scene Stealer Dual-Pole (`engine/04-character.md` Bagian 7.6):* Menegaskan bahwa karakter pencuri panggung mencakup tokoh yang dicintai (*lovable*) dan tokoh yang sangat dibenci (*hateable* seperti atasan narsistik, tante julid, mertua toksik). Tokoh hateable memicu luapan emosi pembaca di kolom komentar dan rasa penasaran kuat menunggu kejatuhannya (*the comeuppance*).
+  2. *Katalog Lengkap Gangguan Kepribadian Perkotaan (`engine/04-character.md` Bagian 8.1):* Menyusun bank referensi gangguan psikologis fungsional lengkap dengan pola pikir batin, gestur mikro, dan pola keputusan:
+     - NPD Overt (Narsistik Terang: haus pemujaan, melempar kesalahan ke orang lain).
+     - Covert Narcissism (Narsistik Terselubung / The Perpetual Martyr: memanipulasi lewat rasa bersalah).
+     - BPD Tendencies (Splitting hitam-putih & ketakutan ekstrem ditinggalkan).
+     - Passive-Aggressive (Pujian beracun & silent treatment).
+     - Machiavellianism (Pragmatis dingin, transaksional, tanpa rasa bersalah).
+     - Paranoia Fungsional (Selalu memindai konspirasi & duduk menghadap pintu).
+     - Histrionic Tendencies (Mendramatisir hal sepele demi panggung perhatian).
+     - Anhedonia & Depressive Burnout (Sukses karier tapi hampa rasa).
+  3. *Katalog Kondisi Mental Pengalaman Hidup (`engine/04-character.md` Bagian 8.2):* Memetakan bagaimana luka masa lalu membentuk logika dan tindakan tokoh:
+     - Trauma Kemiskinan (*Poverty Trauma / Scarcity Mindset*: baca menu dari harga kanan).
+     - Sindrom Anak Sulung Pemikul Beban (*Parentification*: menolak daging sebelum adik makan).
+     - Golden Child vs The Scapegoat (Panik saat dikritik vs kebal bentakan).
+     - Trauma Pengkhianatan (*Betrayal Trauma*: cut-off permanen saat mencium kebohongan).
+     - Sindrom Anak Sangat Terlindungi (*Fragile Sheltered Child*: lugu lalu kaget dunia nyata).
+  4. *Playbook Scene Stealer Hateable Berkelas (`engine/04-character.md` Bagian 8.3):* 3 pilar: pembenaran moral menurut kacamata tokoh, serangan dibungkus etiket sosial perkotaan, dan janji kepuasan pembalasan di klimaks.
+  5. *Penyelarasan Template:* Memperbarui `engine/templates/character-sheet.md`, `engine/templates/canon.md`, dan `engine/README.md`.
+- **File:** `engine/04-character.md`, `engine/templates/character-sheet.md`, `engine/templates/canon.md`, `engine/README.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.5 - 2026-11-03
 
 - **Perubahan:** Menambahkan **Spektrum Neurodivergensi, Eksentrisitas Perilaku, & Dua Efek Magnetik Pembaca (Engine v3.5)**:
