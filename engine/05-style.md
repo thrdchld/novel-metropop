@@ -93,6 +93,9 @@ Model AI memiliki insting bawaan (*helpfulness training*) untuk selalu merangkum
 5. **Jebakan Gerakan Tubuh Klise (*Stock-Tells Trap*):**
    - *Penyakit AI:* Saat diminta *Show, Don't Tell*, AI memborong gerakan klise yang seragam di setiap bab: *mengepalkan tangan, menghela napas berat, rahang mengeras, menggigit bibir*.
    - *Aturan wajib:* Gunakan perilaku spesifik yang hanya dimiliki tokoh tersebut sesuai profesi/kebiasaannya (misal: memilin karet gelang pembungkus nota, menghitung kembalian di luar kepala saat gugup, mengelap layar ponsel yang retak dengan ujung jaket).
+6. **Diagnosa Klinis & Khotbah Psikologi (*Clinical Jargon & Psychology Preaching*):**
+   - *Penyakit AI:* AI suka memberi label medis atau analisa kejiwaan langsung di teks prosa: *"Ayu mengidap fatherless complex akibat kepergian ayahnya"* atau *"Ini adalah bentuk pertahanan diri hyper-independence karena luka masa kecil."*
+   - *Aturan wajib:* **Dilarang memakai istilah diagnosa medis atau teori psikologi di prosa narasi maupun dialog.** Tunjukkan luka masa lalu, trauma pola asuh (*parenting*), dan mekanisme pertahanan diri tersebut secara tersirat (*implicit behavior*) lewat: (1) tindakan pada benda konkret dan reaksi somatik, (2) subteks dialog (sarkasme, ngeles, atau mendadak kaku saat topik sensitif disentuh), dan (3) keputusan spontan yang diambil tokoh saat tertekan (*Show, Don't Diagnose*).
 
 #### Prinsip Ekonomi Dua Fungsi (*Dual-Purpose Economy*)
 Setiap elemen dalam bab wajib melakukan **minimal dua fungsi sekaligus**:

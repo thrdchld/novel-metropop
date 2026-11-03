@@ -3,6 +3,20 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.4 - 2026-11-03
+
+- **Perubahan:** Membangun **Sistem Arsitektur Psikologi Karakter, Luka Formatif, & Mesin Keputusan Nyata (Engine v3.4)**:
+  1. *Teori Kausalitas Naratif (Plot is Character in Action under Pressure):* Menetapkan bahwa alur cerita fiksi berakar pada pengambilan keputusan tokoh di bawah tekanan yang dipengaruhi cetak biru psikologis (*mental blueprint*), luka masa lalu (*origin wound*), dan pola asuh (*parenting*).
+  2. *Percabangan Respon Adaptif (Divergent Coping Adaptation):* Menghubungkan satu stimulus pengalaman dengan dua kutub reaksi yang bertolak belakang:
+     - Trauma orang tua kasar -> Meniru agresi vs Menolak total anti-kekerasan.
+     - Pola asuh terlalu baik/melindungi (*sheltered*) -> Empati berjangkar vs Kaget melihat dunia kerja keras lalu berubah sinis.
+     - Ketiadaan figur ayah/ibu (*fatherless/motherless*) -> Lubang kerentanan emosional (*emotional hunger void*) yang menumpulkan logika cerdas hingga rela terjebak dalam hubungan toksik demi setetes perhatian.
+  3. *Spektrum Adaptasi Mental:* Koping positif (resiliensi, radar empati, kemandirian) vs anomali fungsional (hyper-independence, hyper-vigilance, chronic people-pleaser, impostor syndrome).
+  4. *Mekanisme Pertahanan Diri Bawah Sadar (Defense Mechanisms):* Menguraikan pola rasionalisasi logika dingin, perisai sarkasme/humor, penghindaran lewat kerja fisik (*workaholism*), proyeksi, dan disonansi kognitif saat tokoh tertekan.
+  5. *Hukum Emas Penyajian Implisit (Show, Don't Diagnose):* Larangan mutlak memakai istilah medis/psikiatri di prosa novel; wajib dihadirkan 100% tersirat melalui reaksi somatik pada benda, subteks dialog, dan keputusan spontan berisiko tinggi.
+  6. *Pembaruan Template & Pedoman:* Memperbarui `engine/04-character.md` (menambahkan Bagian 7 dan memperbarui character sheet wajib), `engine/05-style.md` (larangan khotbah diagnosa medis), `engine/templates/character-sheet.md`, `engine/templates/canon.md`, dan `engine/README.md`.
+- **File:** `engine/04-character.md`, `engine/05-style.md`, `engine/templates/character-sheet.md`, `engine/templates/canon.md`, `engine/README.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.3 - 2026-11-02
 
 - **Perubahan:** Menetapkan **Standar Blurb MetroPop Anti-Over-Explaining & Formula Trailer Ringkas (Engine v3.3)**:

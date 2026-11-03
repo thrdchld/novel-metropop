@@ -17,20 +17,26 @@
 Setiap tokoh inti dan tokoh berulang di `canon.md` wajib memiliki:
 
 ```markdown
-### Nama — Peran
+### Nama: Peran
 - **Identitas:** nama lengkap, panggilan, usia, pekerjaan/aktivitas, tempat tinggal, latar singkat.
 - **Penampilan khas (maks 3):** gaya pakaian, benda yang selalu dibawa, ciri fisik sederhana.
 - **Tells fisik/kebiasaan (3–5):** gerakan kecil berulang saat gugup/berpikir/bohong.
 - **Pola bicara:** kalimat andalan, panjang kalimat, kata favorit, cara menyapa tokoh lain.
-- **Benda khas:** benda konkret yang melekat pada tokoh (bisa menjadi bahan *planting*).
-- **Tell emosi:** cara menunjukkan malu, marah, bahagia, atau takut lewat tindakan fisik (*show, don't tell*).
-- **Kelemahan fatal (mesin plot):** kelemahan yang memicu dan memperkeruh konflik.
-- **Ketakutan terbesar:** apa yang paling ia hindari.
-- **Ingin vs butuh:** keinginan permukaan vs kebutuhan batin.
-- **Kebohongan yang diyakini:** asumsi keliru yang dipegang tokoh sejak awal.
-- **Tidak akan pernah:** batas moral/karakter agar tokoh tidak keluar karakter (*out of character*).
-- **Rahasia dan motif:** apa yang ia sembunyikan dan kenapa ia bertindak.
-- **Arc perubahan:** dari kondisi awal ... menjadi ... (beserta harga yang dibayar).
+- **Benda khas:** benda konkret yang melekat pada tokoh (bisa menjadi bahan planting).
+- **Tell emosi:** cara menunjukkan malu, marah, bahagia, atau takut lewat tindakan fisik (show, don't tell).
+- **Cetak Biru Psikologi & Pengalaman Formatif:**
+  - *Akar Pengalaman / Luka Asal (Origin Wound / The Ghost):* peristiwa masa lalu atau pola asuh (parenting) yang membentuk cara pandangnya.
+  - *Adaptasi Psikologis & Mekanisme Koping:* respon koping khas (positif maupun anomali fungsional: hyper-independence, rasionalisasi dingin, perisai sarkasme, atau fear of abandonment).
+  - *Gaya Kelekatan Emosional (Attachment Style):* Secure, Dismissive-Avoidant, Anxious-Preoccupied, atau Fearful-Avoidant.
+  - *Lubang Kerentanan & Titik Buta (Vulnerability Hole & Blind Spot):* celah emosi di mana akal sehatnya runtuh karena haus perhatian/validasi, serta cacat sikap yang tidak ia sadari sendiri.
+- **Dalam Cerita:**
+  - *Kelemahan fatal (mesin plot):* kelemahan yang memicu dan memperkeruh konflik.
+  - *Ketakutan terbesar:* apa yang paling ia hindari.
+  - *Ingin vs butuh:* keinginan permukaan vs kebutuhan batin.
+  - *Kebohongan yang diyakini (The Lie):* asumsi keliru yang dipegang tokoh sejak awal.
+  - *Tidak akan pernah:* batas moral/karakter agar tokoh tidak keluar karakter (out of character).
+  - *Rahasia dan motif:* apa yang ia sembunyikan dan kenapa ia bertindak.
+  - *Arc perubahan:* dari kondisi awal ... menjadi ... (beserta harga yang dibayar).
 - **Contoh dialog 3 baris:** contoh kalimat yang menunjukkan suara khasnya.
 ```
 
@@ -146,3 +152,87 @@ Perkembangan karakter wajib dipetakan ke dalam 5 titik struktur cerita:
    - Pertumbuhan karakter tidak pernah gratis. Ada harga nyata yang harus dibayar tokoh saat memilih bertumbuh (Ayu kehilangan pesanan katering dan merelakan tabungannya, Rian merelakan perjodohan bisnis keluarga demi cinta sejati).
 3. **Batas Moral Terkunci (*The 'Never Ever' Boundary*):**
    - Tokoh dilarang melanggar batas moral yang tercatat di *character-sheet.md* (*"Tidak Akan Pernah"*), bahkan saat berada di titik terendah. Ayu tidak akan pernah mencuri atau menerima suap; Rian tidak akan pernah menyakiti fisik perempuan atau membiarkan keluarganya terancam.
+
+---
+
+## 7. Arsitektur Psikologi Karakter, Luka Formatif, & Mesin Pengambilan Keputusan Nyata
+
+Sebuah cerita pada hakikatnya adalah **perjalanan mengikuti tokoh dalam mengambil keputusan di bawah tekanan beserta konsekuensi nyata yang menyertainya** (*Plot is character in action under pressure*). Manusia tidak mengambil keputusan di ruang hampa yang rasional murni; keputusan hidup manusia selalu dipengaruhi oleh cetak biru psikologis, luka masa lalu, dan pola pengasuhan (*parenting*).
+
+```
+[Pengalaman Masa Lalu / Pola Asuh] 
+       ↓ 
+[Luka Asal (Origin Wound) & Cetak Biru Psikologis] 
+       ↓ 
+[Mekanisme Pertahanan Bawah Sadar saat Tertekan] 
+       ↓ 
+[Pengambilan Keputusan Nyata di Momen Genting] 
+       ↓ 
+[Konsekuensi Plot Kausalitas & Pertumbuhan Karakter]
+```
+
+### 7.1 Percabangan Respon Pola Asuh (*Parenting*) & Pengalaman Formatif
+
+Satu stimulus pengalaman atau luka yang sama tidak pernah menghasilkan manusia yang seragam. Jiwa manusia memiliki **daya adaptasi bercabang (*Divergent Coping Adaptation*)** di mana satu luka dapat melahirkan dua kutub kepribadian yang bertolak belakang:
+
+1. **Trauma Ayah/Orang Tua Kasar (*Abusive Parenting*):**
+   - **Kutub A (Identifikasi Agresor):** Anak meniru kekerasan orang tuanya saat dewasa karena alam bawah sadarnya meyakini bahwa hanya orang keras dan mendominasi yang aman dari penindasan.
+   - **Kutub B (Formasi Reaksi / Menolak Total):** Anak bersumpah tidak akan pernah menjadi seperti ayahnya. Ia tumbuh menjadi pribadi yang sangat anti-kekerasan, alergi mendengar nada bicara tinggi, dan cenderung mengalah secara ekstrem demi menjaga perdamaian.
+2. **Pola Asuh Terlalu Baik & Melindungi (*Sheltered Good Parenting*):**
+   - **Kutub A (Empati Berjangkar / Grounded Empathy):** Anak tumbuh sehat, penuh kasih sayang, mampu memaklumi ketidaksempurnaan manusia, dan memiliki toleransi sosial yang tinggi.
+   - **Kutub B (Sinis & Menolak Realitas):** Anak dididik dalam gelembung keluarga yang serba baik sehingga tidak siap menghadapi dunia kerja perkotaan yang keras dan manipulatif. Saat dikhianati atau disenggol politik kantor, ia kaget, merasa orang tuanya "menipu" karena mendidiknya terlalu lugu, lalu berubah menjadi pribadi yang pahit, sinis, dan sulit percaya pada orang lain.
+3. **Ketiadaan Figur Ayah/Ibu (*Fatherless / Motherless Wound*):**
+   - Menghasilkan **lubang kerentanan emosional (*Emotional Hunger Void*)**. Seorang tokoh yang sangat cerdas, mandiri, dan berpendidikan tinggi sekalipun bisa mendadak kehilangan akal sehat dan pertimbangan logisnya saat berhadapan dengan orang yang memanipulasi kebutuhan figur ayah/ibu tersebut.
+   - Tokoh bisa terjebak dalam hubungan toksik atau rela diperalat hanya karena rasa haus tak berkesudahan akan validasi, perhatian, dan perlindungan yang tidak pernah ia dapatkan di masa kecil.
+
+---
+
+### 7.2 Spektrum Psikologis: Resiliensi Positif vs Anomali Fungsional
+
+Pengaruh psikologis masa lalu tidak selalu berujung pada kerusakan (*disorder*), melainkan spektrum adaptasi manusia untuk bertahan hidup di kota besar:
+
+#### A. Adaptasi Koping Positif (*Psychological Strengths*)
+- **Resiliensi Baja:** Terbiasa hidup terjepit membuat tokoh tidak mudah panik saat menghadapi krisis mendadak di jalanan atau kantor.
+- **Radar Empati Tajam:** Tokoh yang pernah dipermalukan memiliki kepekaan instingtif untuk melindungi rekan kerja atau orang lain yang sedang dipojokkan.
+- **Kemandirian Berdaya:** Mampu mencari jalan keluar praktis tanpa merepotkan orang lain.
+
+#### B. Anomali & Ketidaknormalan Mental Fungsional (*Functional Neuroses*)
+Bukan penyakit kejiwaan ekstrem seperti di rumah sakit jiwa, melainkan kebiasaan batin yang menyiksa diri sendiri namun tampak "normal" dari luar:
+- **Kemandirian Berlebihan (*Hyper-Independence*):** Alergi menerima bantuan karena menganggap berutang budi adalah jalan menuju penindasan atau kehilangan kendali.
+- **Kewaspadaan Berlebih (*Hyper-Vigilance*):** Otak selalu memindai motif tersembunyi di balik kebaikan orang lain; sulit merasa aman walau situasi sudah tenang.
+- **Sindrom Penyenang Orang (*Chronic People-Pleaser / Fawn Response*):** Refleks mengatakan "iya" dan mengorbankan waktu/uang sendiri karena rasa takut mendalam akan penolakan atau kemarahan figur otoritas.
+- **Sindrom Penipu (*Impostor Syndrome*):** Meskipun meraih prestasi cumlaude atau jabatan tinggi, batinnya selalu diliputi ketakutan bahwa keberhasilannya hanyalah kebetulan dan sewaktu-waktu kedok ketidakmampuannya akan terbongkar.
+
+---
+
+### 7.3 Mekanisme Pertahanan Diri Bawah Sadar (*Psychological Defense Mechanisms*)
+
+Ketika ego, harga diri, atau rahasia tokoh terancam di tengah adegan cerita, alam bawah sadar tokoh secara otomatis mengaktifkan mekanisme pertahanan:
+
+1. **Rasionalisasi Logika Dingin:** Mengubah rasa sakit hati, penolakan, atau rasa cinta yang menakutkan menjadi hitungan matematika dan istilah bisnis (misal: *"Gue menolak uang ini bukan karena gengsi, tapi karena analisis risiko reputasi warung"*).
+2. **Perisai Sarkasme & Humor (*Humor as Armor*):** Melempar lelucon sarkas atau menertawakan kemalangan sendiri tepat di saat situasi mulai menyentuh titik emosional yang rapuh, agar lawan bicara tidak bisa melihat luka aslinya.
+3. **Penghindaran Fisik Lewat Kesibukan (*Workaholism / Avoidance*):** Membenamkan diri dalam kerja fisik non-stop (mengebut narik ojol, lembur merapikan berkas) agar otak tidak memiliki celah waktu untuk memproses kesepian atau duka.
+4. **Proyeksi Emosi:** Menuduh orang lain memiliki motif licik atau gengsi tinggi, padahal sebenarnya ketakutan itulah yang sedang bergejolak di dalam dadanya sendiri.
+5. **Disonansi Kognitif (*Cognitive Dissonance*):** Terjebak dalam rasa bersalah akut ketika tindakan sandiwara yang ia jalani berbenturan langsung dengan nilai moral kejujuran yang diwariskan orang tuanya.
+
+---
+
+### 7.4 Hukum Emas Penyajian Implisit (Show, Don't Diagnose)
+
+> **ATURAN MUTLAK GAYA BAHASA:** DILARANG KERAS mencantumkan istilah medis psikologis, label diagnosa klinis, atau ceramah psikiatri di dalam narasi maupun dialog novel (misal: DILARANG menulis *"Ayu mengidap fatherless complex"* atau *"Rian memiliki kecenderungan hyper-independence akibat trauma masa kecil"*).
+
+Psikologi karakter **hanya sah dihadirkan secara tersirat (*implicit behavior*)** melalui 3 saluran mikroskopis:
+
+1. **Reaksi Somatik & Bahasa Tubuh Spontan:**
+   - Menegakkan punggung secara kaku saat figur otoritas melangkah masuk ruangan.
+   - Refleks menarik tangan atau mundur setengah langkah ketika seseorang berusaha menyentuh pundaknya secara hangat.
+   - Mengelus benda warisan (arloji bapak, gelang kain, setang motor) saat rasa cemas memuncak.
+2. **Subteks Dialog & Pertahanan Bicara:**
+   - Membalas pujian tulus dengan kalimat lelucon mencela diri (*self-deprecating banter*).
+   - Mendadak beralih memakai bahasa formal (*Saya-Bapak*) saat lawan bicara mulai menanyakan kehidupan pribadinya.
+   - Menghindari kontak mata saat berbicara soal harapan masa depan.
+3. **Pola Pengambilan Keputusan Nyata:**
+   - Memilih berjalan kaki menerobos hujan daripada menerima tumpangan mobil mewah yang dianggap merendahkan harga dirinya.
+   - Mengabaikan peringatan sahabat demi membela pasangan toksik yang memberikan sedikit remah perhatian.
+   - Menyerahkan seluruh tabungan darurat demi menjaga nama baik keluarga di hadapan tetangga.
+
