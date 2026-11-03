@@ -9,7 +9,7 @@
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
 - **Bab Terakhir Selesai:** Belum ada (Masuk Bab 1)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 1: Paket di Pintu Palmerah
+- **Bab Berikutnya yang Akan Ditulis:** Bab 1: Jangan Baper Pas Ngantar
 - **Titik Waktu Cerita Terkini:** Hari 1 (Senin pagi), Pukul 09.30 WIB
 - **Lokasi Terkini Tokoh Utama:** Depan pagar rumah kos Palmerah, Jakarta Barat
 - **Cuaca / Suasana Fisik:** Pagi terik berdebu, suara bising knalpot jalan raya

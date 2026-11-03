@@ -54,7 +54,7 @@
 
 ## Rincian Per Bab (Bab 1–30)
 
-### Bab 1: Paket di Pintu Palmerah
+### Bab 1: Jangan Baper Pas Ngantar
 - **Waktu & Lokasi:** Senin pagi (09.30 WIB), depan gerbang rumah kos Palmerah, Jakarta Barat.
 - **POV:** Orang Pertama (Dita Maheswari).
 - **Posisi Kerangka:** Hook / Dunia Awal.
@@ -71,7 +71,7 @@
 - **Setup/Planting:** Penggunaan timbangan digital gantung dan lakban segel merah Beres Mantan.
 - **Hook Akhir:** Sebuah panggilan masuk dari nomor kantor kawasan SCBD meminta paket pengantaran VIP darurat bernilai puluhan juta rupiah.
 
-### Bab 2: Tamu Necis di Ruko Tebet
+### Bab 2: Tamu Rapi Bawa Masalah
 - **Waktu & Lokasi:** Senin sore (16.00 WIB), kantor ruko Beres Mantan lantai dua, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Inciting Incident Awal / Pertemuan Tokoh Utama.
@@ -88,7 +88,7 @@
 - **Setup/Planting (Planting 1):** Angka berat koper 14,350 kg dicatat di buku manifes fisik dan difoto di ponsel Dita.
 - **Hook Akhir:** Saat Adrian melangkah keluar, Dita sempat melihat pria itu menatap kosong cincin polos di jari manisnya sendiri sebelum buru-buru memasukkannya ke saku celana.
 
-### Bab 3: Pengantaran ke Senopati
+### Bab 3: Mengantar Gengsi ke Senopati
 - **Waktu & Lokasi:** Selasa siang (11.30 WIB), lobi Apartemen Royal Senopati, Jakarta Selatan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Setup Menuju Krisis.
@@ -104,7 +104,7 @@
 - **Asimetri Pengetahuan:** Siska tahu Claudia sedang mencari celah untuk menuntut Adrian; Dita menganggap urusan pengantaran sudah selesai tuntas.
 - **Hook Akhir:** Dita merobek salinan bukti jalan dan mengantongi lembar arsip, yakin harinya akan tenang sampai ponselnya berdenting keras tengah malam.
 
-### Bab 4: Notifikasi Badai Viral
+### Bab 4: Viral Gara-Gara Cincin
 - **Waktu & Lokasi:** Rabu pagi (07.30 WIB), meja kerja ruko Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Plot Turn 1 (Pemicu Masalah Utama).
@@ -120,7 +120,7 @@
 - **Asimetri Pengetahuan:** Publik mengira Beres Mantan merusak koper; Dita tahu segel diserahkan utuh; Claudia sengaja memotong video sebelum memperlihatkan segel lakban bawah.
 - **Hook Akhir:** Suara motor kurir ekspedisi hukum berhenti di depan pintu ruko, mengantarkan sepucuk amplop cokelat tebal dengan stempel kilat khusus.
 
-### Bab 5: Surat Berkepala Hukum
+### Bab 5: Surat Somasi Bikin Puyeng
 - **Waktu & Lokasi:** Rabu siang (11.00 WIB), ruko Beres Mantan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Eskalasi Pemicu / Batas Waktu Ditetapkan.
@@ -136,7 +136,7 @@
 - **Asimetri Pengetahuan:** Pengacara Claudia mengira Dita akan langsung ketakutan dan meminta damai dengan uang tebusan.
 - **Hook Akhir:** Dita menyambar jaket windbreaker dan helmnya, meluncur membelah kemacetan Kuningan menuju gedung perkantoran mewah tempat Adrian bekerja.
 
-### Bab 6: Labrakan di Lobi SCBD
+### Bab 6: Nglabrak Bos SCBD
 - **Waktu & Lokasi:** Rabu siang (13.30 WIB), lobi lantai dasar gedung korporat SCBD Sudirman.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Konfrontasi Awal Dua Tokoh Utama.
@@ -152,7 +152,7 @@
 - **Asimetri Pengetahuan:** Dita mengira Adrian dalang persekongkolan; Adrian baru tahu bahwa Claudia melayangkan somasi pidana ke agensi kurir.
 - **Hook Akhir:** Adrian meletakkan cangkir kopinya dan berbisik lirih: "Mbak Dita... cincin warisan almarhum Ibu saya itu sebenarnya tidak pernah ada di dalam koper."
 
-### Bab 7: Kenyataan di Meja Kopi
+### Bab 7: Ternyata Sama-Sama Korban
 - **Waktu & Lokasi:** Rabu sore (15.00 WIB), kedai kopi sudut SCBD.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Pinch 1 Awal (Pembentukan Aliansi Darurat).
@@ -168,7 +168,7 @@
 - **Asimetri Pengetahuan:** Dita dan Adrian kini satu kubu; Claudia belum tahu bahwa mantan tunangannya dan kurir yang difitnahnya telah bersatu.
 - **Hook Akhir:** Adrian mengulurkan tangannya untuk berjabat tangan resmi, tetapi Dita hanya menatap tangan itu dingin dan melipat map somasinya rapat-rapat.
 
-### Bab 8: Manifes dan Sertifikat Permata
+### Bab 8: Timbangan Nggak Pernah Bohong
 - **Waktu & Lokasi:** Kamis pagi (09.00 WIB), kantor ruko Beres Mantan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Penyelidikan Awal (Planting 2).
@@ -184,7 +184,7 @@
 - **Setup/Planting (Planting 2):** Kode laser mikro `GIA-8921-PL` dan nomor registrasi batu permata dicatat di papan tulis ruko.
 - **Hook Akhir:** Eko berteriak dari lantai bawah bahwa ada kiriman paket bunga layu bertuliskan pesan intimidasi di pagar ruko.
 
-### Bab 9: Bakso Pinggir Jalan & Luka Masa Lalu
+### Bab 9: Mangkuk Bakso dan Luka Lama
 - **Waktu & Lokasi:** Jumat siang (12.30 WIB), warung bakso tenda Lapangan Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Pergeseran Karakter & Pembukaan Luka Batin.
@@ -200,7 +200,7 @@
 - **Asimetri Pengetahuan:** Adrian kini memahami alasan di balik sifat keras Dita; Dita mulai merasa bersalah pernah melabrak Adrian dengan kasar.
 - **Hook Akhir:** Ponsel Adrian bergetar: pesan singkat dari asisten Claudia yang meminta bertemu secara rahasia di kedai kopi Slipi malam ini.
 
-### Bab 10: Jebakan di Lobi Senopati
+### Bab 10: Diusir Satpam Gedung Mewah
 - **Waktu & Lokasi:** Sabtu sore (16.00 WIB), lobi Apartemen Royal Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Siklus 1 Awal (Coba-Gagal).
@@ -216,7 +216,7 @@
 - **Asimetri Pengetahuan:** Claudia merasa di atas angin; Dita menyadari ada keretakan antara Claudia dan asisten pribadinya.
 - **Hook Akhir:** Di dekat pintu keluar parkir basement, Siska menyelipkan selembar kartu nama toko perhiasan ke saku jaket Dita sebelum kabur terburu-buru.
 
-### Bab 11: Rekaman CCTV yang Terpotong
+### Bab 11: Rekaman CCTV Nggak Masuk Akal
 - **Waktu & Lokasi:** Minggu pagi (10.00 WIB), ruang pengelola gedung apartemen Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Siklus 1 Lanjut.
@@ -232,7 +232,7 @@
 - **Asimetri Pengetahuan:** Pengacara Claudia tahu alasan itu mengada-ada, tetapi cukup untuk membuat polisi ragu jika kasus dilaporkan.
 - **Hook Akhir:** Pengacara Claudia tersenyum dingin dan mengingatkan: "Sisa waktu somasi kalian tinggal sembilan hari lagi. Siapkan uang seratus dua puluh juta, atau pakai baju tahanan oranye."
 
-### Bab 12: Selisih Tiga Ratus Dua Puluh Gram
+### Bab 12: Hitungan Matematika Tukang Paket
 - **Waktu & Lokasi:** Senin siang (13.00 WIB), kantor Beres Mantan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Resolusi Siklus 1 & Persiapan Siklus 2.
@@ -248,7 +248,7 @@
 - **Asimetri Pengetahuan:** Dita dan Adrian kini memegang bukti ilmiah gramatur; Claudia tidak menduga kurir motor memiliki catatan sepresisi itu.
 - **Hook Akhir:** Eko masuk terburu-buru membawa kabar bahwa asisten Claudia (Siska) bersedia bicara malam ini di warung kopi kawasan Slipi.
 
-### Bab 13: Menelusuri Sang Asisten
+### Bab 13: Cari Bocoran di Kosan Slipi
 - **Waktu & Lokasi:** Selasa malam (19.30 WIB), kedai kopi kecil di Slipi, Jakarta Barat.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Siklus 2 (Coba-Gagal).
@@ -264,7 +264,7 @@
 - **Asimetri Pengetahuan:** Dita dan Adrian kini tahu lokasi fisik di mana cincin itu kemungkinan berada; Claudia mengira Siska masih setia tutup mulut.
 - **Hook Akhir:** Saat mereka hendak keluar dari kedai kopi, hujan deras khas Jakarta mengguyur tanpa ampun, memutus aliran listrik di sepanjang jalan Slipi.
 
-### Bab 14: Koper Cadangan dan Gerimis Senopati
+### Bab 14: Kehujanan di Bawah Satu Payung
 - **Waktu & Lokasi:** Selasa malam (21.30 WIB), halte bis teduh di perbatasan Kuningan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Momen Bonding Emosional Mendalam.
@@ -280,7 +280,7 @@
 - **Asimetri Pengetahuan:** Dita menyadari perasaannya mulai berubah; Adrian mulai mengagumi ketegaran Dita lebih dari sekadar rekan sekutu.
 - **Hook Akhir:** Adrian merogoh dompet kartunya untuk membayar teh hangat di warung sebelah dan mendadak teringat sesuatu tentang akun kartu anggota belanja Claudia.
 
-### Bab 15: Kartu Member di Laci Kantor
+### Bab 15: Kartu Rahasia di Laci Meja
 - **Waktu & Lokasi:** Rabu pagi (09.00 WIB), ruang kerja divisi pengadaan SCBD.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Midpoint Bagian 1 (Titik Tengah).
@@ -296,7 +296,7 @@
 - **Asimetri Pengetahuan:** Claudia tidak menyadari dompet kartu cadangannya tertinggal di kantor Adrian.
 - **Hook Akhir:** Sebuah notifikasi email masuk di layar tablet: pengingat jatuh tempo pembayaran bunga gadai barang atas nama Claudia tertanggal hari ini.
 
-### Bab 16: Notifikasi Email yang Bocor
+### Bab 16: Ketahuan Belang di Bukti Gadai
 - **Waktu & Lokasi:** Rabu siang (12.30 WIB), kantor Beres Mantan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Midpoint Bagian 2 (Bukti Kunci Terbongkar).
@@ -312,7 +312,7 @@
 - **Asimetri Pengetahuan:** Dita dan Adrian kini tahu pasti ke mana cincin itu pergi; Claudia masih mengira sandiwaranya aman.
 - **Hook Akhir:** Dita mengepalkan tinjunya: "Besok siang, kita temui Claudia langsung dengan bukti ini. Sandiwara dia harus selesai sekarang."
 
-### Bab 17: Konfrontasi Rahasia di Kafe
+### Bab 17: Kena Skakmat di Kedai Kopi
 - **Waktu & Lokasi:** Kamis sore (16.00 WIB), kafe privat di Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Eskalasi Babak 2B.
@@ -328,7 +328,7 @@
 - **Asimetri Pengetahuan:** Claudia menyadari posisinya terancam dan langsung mengambil langkah ekstrem untuk mematikan kredibilitas Dita di mata publik.
 - **Hook Akhir:** Saat Dita dan Adrian melangkah keluar kafe, ponsel Dita mendadak berdering tanpa henti dari puluhan nomor tak dikenal.
 
-### Bab 18: Amarah Sang Sosialita
+### Bab 18: Buzzer Mulai Main Kasar
 - **Waktu & Lokasi:** Jumat pagi (08.30 WIB), ruko Beres Mantan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Pinch 2 Awal (Serangan Agensi Buzzer).
@@ -344,7 +344,7 @@
 - **Asimetri Pengetahuan:** Publik termakan fitnah buzzer; Dita tahu semua ini serangan balik terencana Claudia untuk merusak kredibilitas saksi.
 - **Hook Akhir:** Kaca jendela depan kantor ruko dilempari kantong plastik berisi cat merah bertuliskan kata "PENCURI".
 
-### Bab 19: Teror Bintang Satu & Akun Palsu
+### Bab 19: Diserang Teror Bintang Satu
 - **Waktu & Lokasi:** Jumat siang (14.00 WIB), teras ruko Beres Mantan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Eskalasi Tekanan Publik.
@@ -361,7 +361,7 @@
 - **Asimetri Pengetahuan:** Adrian melihat betapa dalamnya luka Dita yang terbiasa memikul beban hidup tanpa bantuan siapa pun.
 - **Hook Akhir:** Eko berlari menaiki tangga ruko sambil memegang bahunya yang lebam setelah dihadang orang tak dikenal di jalan raya Tebet.
 
-### Bab 20: Pangkalan yang Pasang Badan
+### Bab 20: Anak Pangkalan Pasang Badan
 - **Waktu & Lokasi:** Sabtu pagi (09.00 WIB), depan ruko Beres Mantan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Dukungan Komunitas & Keteguhan Sikap.
@@ -377,7 +377,7 @@
 - **Asimetri Pengetahuan:** Preman sewaan mengira mereka berhasil melenyapkan bukti di ponsel Eko; Dita masih memegang cadangan digital aslinya.
 - **Hook Akhir:** Adrian tiba di ruko membawa surat resmi dari kuasa hukumnya yang menyatakan bahwa hari Senin besok mereka harus mendatangi gerai pegadaian secara legal.
 
-### Bab 21: Pintu Besi Pegadaian
+### Bab 21: Mentok di Meja Teller
 - **Waktu & Lokasi:** Senin siang (11.00 WIB), gerai Sentra Gadai Premium Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Siklus 4 Awal (Coba-Gagal Terakhir).
@@ -393,7 +393,7 @@
 - **Asimetri Pengetahuan:** Dita dan Adrian tahu cincin itu ada di dalam brankas berjarak sepuluh meter dari mereka, tetapi terhalang dinding legalitas hukum yang tidak bisa ditembus sembarangan.
 - **Hook Akhir:** Sebuah panggilan masuk dari nomor telepon kabel dengan kode area Jakarta Selatan: panggilan resmi dari Unit Reskrim Polres Metro Jakarta Selatan.
 
-### Bab 22: Panggilan Klarifikasi Polisi
+### Bab 22: Seharian Nunggu di Kantor Polisi
 - **Waktu & Lokasi:** Selasa pagi (10.00 WIB), ruang mediasi Unit Reskrim Polres Jakarta Selatan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Pinch 2 Puncak (Tekanan Somasi Habis).
@@ -409,7 +409,7 @@
 - **Asimetri Pengetahuan:** Pengacara Claudia yakin Dita tidak akan mampu menembus brankas pegadaian tanpa surat sita pengadilan yang butuh waktu berminggu-minggu.
 - **Hook Akhir:** Dita melangkah keluar kantor polisi dengan lutut lemas, sementara gerimis Jakarta mulai turun membasahi bahunya yang gemetar.
 
-### Bab 23: Titik Terendah di Loteng Ruko
+### Bab 23: Nangis Sendirian di Loteng
 - **Waktu & Lokasi:** Selasa malam (21.00 WIB), loteng lantai dua ruko Beres Mantan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** All Hope Is Lost (Titik Terendah / Krisis Menyerah).
@@ -427,7 +427,7 @@
 - **Setup/Planting:** Adrian meraba liontin kalung perak almarhum ibunya yang selalu ia bawa di kantong kemeja dalamnya.
 - **Hook Akhir:** Adrian menatap sertifikat permata di meja: "Dita... nomor seri laser di lingkar cincin itu bukan cuma terdaftar di pegadaian. Ada satu instansi resmi yang punya wewenang langsung membukanya."
 
-### Bab 24: Kunci di Sertifikat Permata
+### Bab 24: Titik Terang dari Surat Warisan
 - **Waktu & Lokasi:** Rabu pagi (07.00 WIB), ruko Beres Mantan.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Plot Turn 2 (Titik Balik Bangkit).
@@ -443,7 +443,7 @@
 - **Asimetri Pengetahuan:** Adrian mengingat kenalan lama keluarganya di bidang hukum korporat.
 - **Hook Akhir:** Adrian menekan tombol panggilan ke nomor kontak firma hukum terkemuka di Menara Astra Sudirman.
 
-### Bab 25: Bantuan dari Menara Astra
+### Bab 25: Minta Nasihat di Menara Astra
 - **Waktu & Lokasi:** Rabu pagi (09.30 WIB), lobi kantor advokat Firma Hukum Darmawan & Rekan, Menara Astra Sudirman.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Penguatan Amunisi Hukum (Cameo Semesta Tingkat 1).
@@ -459,7 +459,7 @@
 - **Asimetri Pengetahuan:** Claudia tidak menduga Adrian berhasil menggerakkan firma hukum sekelas Darmawan & Rekan untuk membela seorang kurir ruko.
 - **Hook Akhir:** Dita memasang helmnya kencang-kencang, membonceng Adrian menembus jalur busway dan kemacetan Senopati dengan waktu tersisa dua jam.
 
-### Bab 26: Penyergapan Bukti di Senopati
+### Bab 26: Tertangkap Basah di Senopati
 - **Waktu & Lokasi:** Rabu siang (11.45 WIB), gerai Sentra Gadai Premium Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Payoff Benih Solusi & Penguncian Bukti Fisik.
@@ -476,7 +476,7 @@
 - **Asimetri Pengetahuan:** Claudia mengira jam 12 siang ini Dita sudah resmi menjadi tersangka di kantor polisi; ia belum tahu cincinnya sudah disita penyidik sebagai bukti kejahatan pemalsuan laporan.
 - **Hook Akhir:** Adrian mendapat kabar bahwa Claudia dan keluarga besarnya sedang berkumpul makan siang mewah di restoran hotel Senopati untuk merayakan "kemenangan" somasinya.
 
-### Bab 27: Konfrontasi Puncak di Hadapan Keluarga
+### Bab 27: Bongkar Rahasia di Meja Makan
 - **Waktu & Lokasi:** Rabu siang (13.30 WIB), ruang privat restoran bintang lima Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Klimaks Cerita (Puncak Konfrontasi).
@@ -493,7 +493,7 @@
 - **Asimetri Pengetahuan:** Topeng sosialita Claudia runtuh seutuhnya di depan seluruh keluarga dan kerabatnya.
 - **Hook Akhir:** Adrian menggeser draf surat damai dan pencabutan somasi ke hadapan Claudia: "Tanda tangani ini sekarang, atau mobil tahanan polres yang jemput kamu di lobi hotel."
 
-### Bab 28: Tanda Tangan Pencabutan Somasi
+### Bab 28: Kicep di Depan Keluarga
 - **Waktu & Lokasi:** Rabu sore (16.00 WIB), teras luar restoran Senopati.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Penyelesaian Hukum & Pelepasan Masa Lalu.
@@ -509,7 +509,7 @@
 - **Asimetri Pengetahuan:** Adrian telah sepenuhnya lepas dari jeratan rasa bersalah masa lalunya; Dita menatap Adrian dengan kekaguman yang tulus.
 - **Hook Akhir:** Dita menepuk jok belakang motornya: "Ayo, Mas. Urusan hukum udah beres, sekarang giliran kita beresin ruko."
 
-### Bab 29: Menata Ulang Ruko Patah Hati
+### Bab 29: Cat Merah dan Lembaran Baru
 - **Waktu & Lokasi:** Kamis siang (12.00 WIB), kantor ruko Beres Mantan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Harga Nyata yang Dibayar & Pemulihan Hidup.
@@ -526,7 +526,7 @@
 - **Asimetri Pengetahuan:** Dita tidak lagi memandang cinta sebagai transaksi bahaya; ia siap membuka hati untuk orang yang tepat.
 - **Hook Akhir:** Suara bel pintu ruko berbunyi pelan; bukan motor kurir barang mantan, melainkan langkah kaki teratur yang sangat Dita kenal.
 
-### Bab 30: Kiriman Terakhir Tanpa Alamat Retur
+### Bab 30: Paket Spesial Tanpa Retur
 - **Waktu & Lokasi:** Jumat sore (17.00 WIB), teras ruko lantai dua Beres Mantan, menghadap senja langit Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Resolusi Akhir & Penyatuan Setara.
