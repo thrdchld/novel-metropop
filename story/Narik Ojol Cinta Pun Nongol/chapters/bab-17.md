@@ -6,7 +6,7 @@ Aku tidak mau Ibu melihat atau mendengar langsung keributan apa pun yang bakal d
 
 Pukul setengah dua belas siang, saat aku sedang mengelap kaca etalase kue basah yang tinggal menyisakan beberapa potong kue talam dan lemper, deru mesin mobil Eropa terdengar di mulut gang. Beberapa anak kecil yang sedang bermain sepeda menepi kaget ketika seorang perempuan berblazer krem mahal, rok span ketat, dan kacamata hitam besar melangkah masuk ke gang sempit sambil mengibaskan tangan di depan hidungnya.
 
-Ketukan sepatu hak runcing Vina berhenti tepat di depan meja kayu etalase warung kueku. Dia menurunkan kacamata hitamnya sedikit, menatap spanduk kecil *Kue Basah Bu Sumi* dengan senyum miring penuh penghinaan.
+Ketukan sepatu hak runcing Vina berhenti tepat di depan meja kayu etalase warung kueku. Dia menurunkan kacamata hitamnya sedikit, menatap spanduk kecil Kue Basah Bu Sumi dengan senyum miring penuh penghinaan.
 
 "Ya ampun... jadi di gang pengap kayak gini tempat tinggal perempuan yang dikasih gelang pusaka sama Oma Ratna?" sindir Vina dengan suara nyaring.
 

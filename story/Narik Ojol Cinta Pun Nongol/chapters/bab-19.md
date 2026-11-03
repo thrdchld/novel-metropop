@@ -20,7 +20,7 @@ Ibu Hartini menutup mulutnya kaget, sementara Indah membelalak tak percaya. Di s
 
 Aku menarik napas panjang, lalu berdiri di samping Rian. Dengan gerakan tenang, kedua tanganku terangkat melepas pengait masker kain dari telingaku dan melipatnya rapi.
 
-Tanpa selembar kain pun yang menutupi wajahku lagi, aku melangkah maju setengah tapak, lalu meletakkan kotak beludru berisi gelang emas pusaka Oma Ratna di atas meja kaca, berdampingan dengan kartu identitas mitra ojolku dan map berisi salinan ijazah sarjana Manajemen Bisnis berpredikat *cumlaude* yang kubawa di dalam tas jinjingku.
+Tanpa selembar kain pun yang menutupi wajahku lagi, aku melangkah maju setengah tapak, lalu meletakkan kotak beludru berisi gelang emas pusaka Oma Ratna di atas meja kaca, berdampingan dengan kartu identitas mitra ojolku dan map berisi salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude yang kubawa di dalam tas jinjingku.
 
 "Nama lengkap saya Ayu Anindya, Oma, Ibu," ucapku tenang, menundukkan kepala penuh hormat. "Hari Minggu lalu waktu saya datang ke sini pakai masker, sebenarnya saya nggak lagi sakit flu, Oma. Saya pakai masker ke mana-mana gara-gara saya takut ada kenalan keluarga atau staf kantor Mas Rian yang mengenali kalau saya ini tukang ojol yang biasa mangkal di depan gedung kantor. Dua tahun lalu, setelah lulus kuliah dengan IPK 3,85, Bapak saya meninggal dunia dan meninggalkan utang biaya rumah sakit yang cukup besar. Buat melunasi utang Bapak dan bantu Ibu saya jualan kue basah di Tebet, saya memang kerja narik ojol setiap hari."
 

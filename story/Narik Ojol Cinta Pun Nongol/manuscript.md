@@ -1,5 +1,8 @@
 # Narik Ojol Cinta Pun Nongol
 
+
+---
+
 ## Bab 1: Sarjana Berjaket Hijau
 
 "Mbak, kalau kerja yang bener dong! Ini makanan buat bos saya!"
@@ -145,6 +148,7 @@ Rian berdehem pelan, buru-buru mengalihkan pandangannya sesaat untuk menyembunyi
 Aku tersenyum tipis melihat bos muda yang tadinya galak itu mendadak salah tingkah. Namun, begitu kami melangkah keluar dari butik menuju lorong besar lantai bawah dan suara alunan biola dari balik pintu ganda ballroom mulai terdengar, jantungku mendadak berdegup dua kali lebih kencang.
 
 Rian menghentikan langkahnya tepat di depan pintu kayu raksasa berlapis emas, lalu mengulurkan lengannya kepadaku. "Tarik napas, Ayu. Begitu pintu ini dibuka, Tante Henny dan seluruh keluarga besar saya sudah menunggu di meja depan."
+
 ---
 
 ## Bab 4: Pantulan Bunga Pembawa Bencana
@@ -197,11 +201,12 @@ Namun, lemparan itu terlalu bertenaga. Buket mawar putih berikat pita satin pera
 
 Refleks tukang ojolku langsung bekerja otomatis. Tanpa sadar, kedua tanganku terangkat menangkap benda yang melayang ke arah mukaku.
 
-*Hap.*
+Hap.
 
 Tangkai buket mawar putih itu mendarat sempurna di dalam dekapanku.
 
 Musik orkestra berhenti seketika, digantikan keheningan sepersekian detik sebelum lampu sorot utama ballroom berputar tajam dan mengunci tepat di atas kepalaku dan Rian.
+
 ---
 
 ## Bab 5: Di Atas Panggung Keluarga
@@ -249,6 +254,7 @@ Lima belas menit kemudian, ketika acara makan malam resmi dimulai dan perhatian 
 Begitu pintu ganda ballroom tertutup di belakang punggung kami, langkahku langsung terhenti di koridor sepi. Aku mengangkat pergelangan tanganku yang melingkar gelang emas pusaka itu tepat di depan wajah Rian.
 
 "Mas Rian, ini gawat," ucapku dengan suara tertahan. "Kita harus beresin masalah gelang ini sekarang juga."
+
 ---
 
 ## Bab 6: Terperangkap Janji Sandiwara
@@ -310,6 +316,7 @@ Rian tersenyum lega, lalu memasukkan kembali gelang emas Oma Ratna ke dalam kant
 Saat motorku berhenti tepat di depan palang otomatis jalur keluar basement, Pak Darto menempelkan kartu akses VIP milik Rian ke mesin pemindai. Lampu kamera sensor di tiang palang berkedip putih satu kali. Layar monitor pos langsung merekam nomor pelat B 4892 TBT milikku bersamaan dengan data kartu VIP Rian sebelum palang besi itu terangkat naik.
 
 Aku melambaikan tangan singkat ke arah Rian, lalu memutar gas motorku menembus udara malam Sudirman. Saat itu, aku sama sekali belum tahu kalau satu kedipan kamera parkir barusan bakal jadi pintu masuk buat masalah yang jauh lebih besar.
+
 ---
 
 ## Bab 7: Penyamaran Bermasker
@@ -352,7 +359,7 @@ Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja ta
 
 Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut kebawa di belakang kertas katalog. IPK 3,85, predikat cumlaude dari Fakultas Ekonomi dan Bisnis? Jadi waktu kamu ngomong ke Tante Henny di ballroom Jumat lalu itu beneran?"
 
-Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. *Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!*
+Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!
 
 "Aduh, maaf Mas, tadi di rumah aku buru-buru karena dipanggil Ibu dan pakai map bekas, makanya ikut kebawa," ucapku agak salah tingkah sambil menarik dan menyimpan kembali lembar ijazah itu ke dalam map. "Tapi soal jurusanku ya memang beneran, Mas. Memangnya muka aku kelihatan kayak tukang ngibul?"
 
@@ -365,6 +372,7 @@ Aku membaca setiap poinnya dengan teliti sebelum tanda tangan di atas meterai. B
 "Kamis siang nanti divisiku ada rapat evaluasi bulanan, jadi aku sekalian pesan tiga puluh kotak kue basah Ibu kamu buat konsumsi rapat," kata Rian. Dia mengetuk catatan kecil di tangannya. "Terus besok sore kita ketemu di kafe daerah Senopati buat nyamain cerita sebelum Tante Henny mulai curiga. Tapi sore ini, beresin dulu urusan mendesak kamu di rumah."
 
 Aku menatap bukti transfer tujuh setengah juta rupiah di layar ponselku dengan dada bergetar hangat. Sore ini juga, penagih utang yang selama dua tahun terakhir bikin Ibu susah tidur bakal kuhadapi dengan kepala tegak.
+
 ---
 
 ## Bab 8: Gebrakan Dapur Tebet
@@ -381,7 +389,7 @@ Pak Harun menghentikan gerakan tangannya yang sedang mengipas-ngipas buku tagiha
 
 Dari arah warung kopi ujung gang, Bang Bobi yang melihat motor besar Pak Harun berhenti di depan rumahku langsung berjalan cepat menghampiri teras. Dia berdiri tegak di dekat pagar kayu, mengawasi gerak-gerik penagih utang itu tanpa berkedip.
 
-Aku membuka aplikasi *m-banking* di ponselku, menekan deretan angka nominal lima juta rupiah ke nomor rekening koperasi milik Pak Harun, lalu memutar layar ponselku tepat di depan mukanya.
+Aku membuka aplikasi m-banking di ponselku, menekan deretan angka nominal lima juta rupiah ke nomor rekening koperasi milik Pak Harun, lalu memutar layar ponselku tepat di depan mukanya.
 
 "Sudah masuk ya, Pak. Tolong cek ponsel Bapak sekarang dan langsung potong saldo pokok utang rumah sakit almarhum Bapak saya di buku catatan itu, terus tanda tangan kuitansi lunas sebagiannya di sini." Aku menggeser selembar kuitansi kosong dan pulpen ke atas kaca etalase.
 
@@ -407,7 +415,7 @@ Ibu menutup mulutnya dengan kedua tangan. Matanya langsung berkaca-kaca menatap 
 
 Jujur, melihat senyum bangga di wajah Ibu sore itu bikin semua rasa pegal di punggungku lenyap tak berbekas. Biarlah di luar sana aku harus memakai masker kain dan berakting di depan keluarga Rian. Selama dapur kecil di Tebet ini kembali mengepul tenang dan tak ada lagi penagih utang yang berani membentak Ibu, aku sanggup menjalani kesepakatan tiga bulan ini.
 
-Namun, saat aku masuk ke kamar untuk mengganti baju dan melihat lembar contekan biodata keluarga Rian yang harus kuhafalkan untuk pertemuan di Senopati besok sore, senyumku perlahan meredup. Di baris paling bawah kertas itu, tertulis jelas nama *Vina Rosalinda* dengan garis bawah tebal yang dibuat langsung oleh tangan Rian.
+Namun, saat aku masuk ke kamar untuk mengganti baju dan melihat lembar contekan biodata keluarga Rian yang harus kuhafalkan untuk pertemuan di Senopati besok sore, senyumku perlahan meredup. Di baris paling bawah kertas itu, tertulis jelas nama Vina Rosalinda dengan garis bawah tebal yang dibuat langsung oleh tangan Rian.
 
 ---
 
@@ -451,9 +459,10 @@ Dia sedang menatapku lekat-lekat tanpa berkedip.
 
 "Kalau aja staf analis di kantorku punya mata setajam kamu, Yu, aku nggak perlu pusing nolak berkas vendor iklan titipan kayak BuzzMedia Digital punya Reza Mahendra, sepupunya Vina ini. Coba kamu lihat format kode tagihan mereka di sudut atas ini, pakai kode INV/BMD-JKT dan akhiran VIP, tapi harga paket kampanyenya digelembungin hampir dua kali lipat." Rian memperlihatkan satu berkas penawaran vendor iklan di tabletnya yang baru saja dia tolak.
 
-Aku melirik sekilas kode tagihan berkepala *INV/BMD-JKT* dengan akhiran *VIP* di layar tablet Rian itu dan memperbaiki letak masker kainku. "Itu mah hitungan dasar pedagang kue pasar, Mas Rian. Kalau harga digelembungin nggak wajar gitu, dari kodenya aja udah kelihatan polanya."
+Aku melirik sekilas kode tagihan berkepala INV/BMD-JKT dengan akhiran VIP di layar tablet Rian itu dan memperbaiki letak masker kainku. "Itu mah hitungan dasar pedagang kue pasar, Mas Rian. Kalau harga digelembungin nggak wajar gitu, dari kodenya aja udah kelihatan polanya."
 
 Rian tersenyum tipis, melipat kertas tisu tulisanku dengan rapi lalu menyimpannya ke dalam saku kemejanya. Tatapan matanya sore itu begitu hangat, menyisakan debar aneh yang sama sekali tidak tertulis di kertas perjanjian kami.
+
 ---
 
 ## Bab 10: Sisi Lain Sang Driver Ojol
@@ -503,6 +512,7 @@ Bang Bobi menjabat tangan Rian singkat dengan genggaman tak kalah kuat. "Bobi. T
 Aku buru-buru menengahi sebelum adu tatap dua laki-laki di bawah guyuran hujan ini makin panjang. Setelah berpamitan singkat pada Rian dan berjalan masuk ke gang bersama Bang Bobi, aku sempat menoleh ke belakang dari balik bahu.
 
 Di bawah guyuran hujan deras dan pendar lampu merah rem mobil, Rian ternyata masih berdiri di luar pintu SUV-nya, menatap punggungku dan Bang Bobi dengan sorot mata kelam yang bikin jantungku berdebar tak karuan. Aku mengira urusanku dengan Rian minggu ini baru akan berlanjut hari Minggu nanti di rumah Oma Ratna, tanpa tahu bahwa besok pagi adik bungsunya bakal menyeretku dan Rian ke tempat yang paling tidak terduga.
+
 ---
 
 ## Bab 11: Bos Necis Masuk Pasar
@@ -571,7 +581,7 @@ Damar mendengus sinis, sengaja mengeraskan suaranya agar dua manajer di dekatnya
 
 Telingaku langsung panas mendengarnya menghina warung Ibu, tetapi aku menjaga tanganku tetap tenang merapikan pita kotak kue.
 
-"Standar kebersihan kami bisa dicek langsung kok, Mas," sahutku lugas namun sopan. "Semua kue lumpur, talam pandan, dan lemper ayam ini baru diangkat dari kukusan jam sembilan pagi tadi tanpa bahan pengawet, dikemas pakai kotak *food grade* bersegel, dan harganya empat puluh persen lebih hemat dibanding pastri hotel yang biasanya cuma dipanasin ulang dari stok beku kemarin."
+"Standar kebersihan kami bisa dicek langsung kok, Mas," sahutku lugas namun sopan. "Semua kue lumpur, talam pandan, dan lemper ayam ini baru diangkat dari kukusan jam sembilan pagi tadi tanpa bahan pengawet, dikemas pakai kotak food grade bersegel, dan harganya empat puluh persen lebih hemat dibanding pastri hotel yang biasanya cuma dipanasin ulang dari stok beku kemarin."
 
 Dua manajer senior yang duduk di dekat meja langsung manggut-manggut setuju. Salah satu manajer perempuan bahkan membuka satu kotak sampel dan mencicipi kue lumpur kentang buatan Ibu. "Eh, tapi ini beneran enak banget lho, Damar. Masih hangat dan kentangnya terasa asli, nggak bikin enek kayak roti keju minggu lalu. Malah pas banget buat teman ngopi siang-siang begini."
 
@@ -621,7 +631,7 @@ Vina memutar tubuhnya dengan kasar dan melangkah keluar dari ruangan Rian. Saat 
 
 Aku hanya menunduk diam dan menepuk tas selempang di pinggangku, menahan sabar agar tidak membalas. Di kepalaku sih pengin banget rasanya kubalas satu kalimat biar dia kicep kayak Tante Henny. Masalahnya, kalau suaraku dikenali di sini, penyamaranku tamat detik ini juga. Namun, saat Vina berdiri menunggu lift eksekutif di ujung koridor yang sepi, dia langsung menempelkan ponsel ke telinganya. Karena koridor lantai dua puluh empat itu cukup lengang di jam rapat, suaranya yang melengking terdengar jelas sampai ke tempatku berdiri.
 
-"Halo, Bang Dion? Gue bayar dua kali lipat hari ini juga," desis Vina di telepon dengan nada penuh emosi. "Pakai kenalan orang dalam lo di bagian parkir gedung sama hotel. Cek semua data *tap* kartu parkir VIP punya Rian Pratama hari Jumat sore minggu lalu. Gue mau tahu cewek itu datang naik apa!"
+"Halo, Bang Dion? Gue bayar dua kali lipat hari ini juga," desis Vina di telepon dengan nada penuh emosi. "Pakai kenalan orang dalam lo di bagian parkir gedung sama hotel. Cek semua data tap kartu parkir VIP punya Rian Pratama hari Jumat sore minggu lalu. Gue mau tahu cewek itu datang naik apa!"
 
 Pintu lift terbuka, dan Vina melangkah masuk dengan senyum sinis sebelum pintu lift itu tertutup rapat.
 
@@ -642,6 +652,7 @@ Rian meletakkan gagang telepon dengan gerakan berat, lalu menatapku lurus-lurus.
 "Keluarga Vina punya saham di pengelola parkir kawasan ini, Yu," kata Rian tegang. "Lima menit sebelum Vina naik ke lantai ini, orang suruhannya ternyata udah lebih dulu nanyain satpam parkiran hari Jumat lalu dan minta cetakan data palang keluar kartu VIP aku... termasuk nomor pelat motor kamu yang dicatat Pak Darto sore itu."
 
 Jujur, lututku langsung lemas mendengarnya. Kalau mereka sudah mengantongi nomor pelat B 4892 TBT milikku, melacak alamat rumahku di Tebet hanya tinggal hitungan hari.
+
 ---
 
 ## Bab 14: Mi Ayam Pinggir Jalan
@@ -725,6 +736,7 @@ Di kursi seberang, Rian menatapku dalam diam. Sorot matanya ikut menyiratkan beb
 Semakin hangat keluarga ini menerimaku sebagai bagian dari mereka, semakin tajam rasa bersalah mengiris ulu hatiku. Aku datang ke rumah ini membawa kontrak kerja bernilai empat puluh lima juta rupiah di balik masker kain, sementara mereka menyambutku dengan doa untuk almarhum Bapakku.
 
 Saat kami akhirnya berpamitan pulang pukul sembilan malam dan masuk kembali ke dalam mobil Rian, jujur aku hampir nggak sanggup bicara sepatah kata pun saking malunya pada diriku sendiri.
+
 ---
 
 ## Bab 16: Percikan Kecemburuan
@@ -743,13 +755,13 @@ Bang Bobi lagi. Sahabat ojolku itu masih mengenakan jaket kulit hitam pelindung 
 
 "Gue tungguin lu dari jam delapan tadi, Yu. Gue mau ngomong penting," bisik Bang Bobi serius seraya menoleh ke kanan-kiri. "Tadi siang pas lu lagi pergi, ada cowok asing pakai jaket kulit sama topi hitam mondar-mandir di gang sini. Dia sempat motret pelat motor lu yang parkir di samping teras, terus motret spanduk kue Ibu lu di depan!"
 
-Jantungku langsung mencelos. Di spanduk *Kue Basah Bu Sumi* itu terpampang jelas nomor WhatsApp pribadiku untuk pemesanan pelanggan, tepat di sebelah motor matik B 4892 TBT milikku yang biasa kuparkir di teras! "Serius, Bang? Terus orangnya ke mana?"
+Jantungku langsung mencelos. Di spanduk Kue Basah Bu Sumi itu terpampang jelas nomor WhatsApp pribadiku untuk pemesanan pelanggan, tepat di sebelah motor matik B 4892 TBT milikku yang biasa kuparkir di teras! "Serius, Bang? Terus orangnya ke mana?"
 
 "Pas gue samperin mau gue tanyain maksudnya apa, orangnya langsung buru-buru kabur naik motor gede," jawab Bang Bobi geram.
 
 Belum sempat aku menanggapi kalimat Bang Bobi, pintu kemudi SUV hitam di belakangku mendadak ditutup keras.
 
-*Brak!*
+Brak!
 
 Aku dan Bang Bobi menoleh bersamaan. Rian melangkah cepat menghampiri kami dengan tatapan tajam yang menyorot lurus ke arah tangan Bang Bobi yang masih bertengger di bahuku.
 
@@ -773,9 +785,10 @@ Napasku tercekat di kerongkongan. Kata-kata Rian menggantung di udara malam yang
 
 Namun, sebelum aku sempat mengeluarkan satu patah kata pun, ponsel di dalam tas selempangku mendadak bergetar nyaring.
 
-Aku merogoh ponselku dengan tangan agak gemetar, lalu memperlihatkan layarnya kepada Rian yang langsung mendekat di sampingku. Sebuah pesan WhatsApp dari nomor tak dikenal baru saja masuk, melampirkan foto motor matikku yang terparkir di depan spanduk kecil bertuliskan *Kue Basah Bu Sumi - Tebet* lengkap dengan sebaris kalimat di bawahnya:
+Aku merogoh ponselku dengan tangan agak gemetar, lalu memperlihatkan layarnya kepada Rian yang langsung mendekat di sampingku. Sebuah pesan WhatsApp dari nomor tak dikenal baru saja masuk, melampirkan foto motor matikku yang terparkir di depan spanduk kecil bertuliskan Kue Basah Bu Sumi - Tebet lengkap dengan sebaris kalimat di bawahnya:
 
-**Nomor Tak Dikenal:** *Gampang banget dapet nomor WA lo dari spanduk bakul kue di depan kontrakan lo. Ternyata calon cucu mantu kebanggaan Oma Ratna cuma tukang ojol sama anak penjual kue gang sempit. Besok siang gue mampir borong kue di warung nyokap lo ya, Mbak Ojol.*
+Nomor Tak Dikenal: Gampang banget dapet nomor WA lo dari spanduk bakul kue di depan kontrakan lo. Ternyata calon cucu mantu kebanggaan Oma Ratna cuma tukang ojol sama anak penjual kue gang sempit. Besok siang gue mampir borong kue di warung nyokap lo ya, Mbak Ojol.
+
 ---
 
 ## Bab 17: Teror Pertama Vina
@@ -786,7 +799,7 @@ Aku tidak mau Ibu melihat atau mendengar langsung keributan apa pun yang bakal d
 
 Pukul setengah dua belas siang, saat aku sedang mengelap kaca etalase kue basah yang tinggal menyisakan beberapa potong kue talam dan lemper, deru mesin mobil Eropa terdengar di mulut gang. Beberapa anak kecil yang sedang bermain sepeda menepi kaget ketika seorang perempuan berblazer krem mahal, rok span ketat, dan kacamata hitam besar melangkah masuk ke gang sempit sambil mengibaskan tangan di depan hidungnya.
 
-Ketukan sepatu hak runcing Vina berhenti tepat di depan meja kayu etalase warung kueku. Dia menurunkan kacamata hitamnya sedikit, menatap spanduk kecil *Kue Basah Bu Sumi* dengan senyum miring penuh penghinaan.
+Ketukan sepatu hak runcing Vina berhenti tepat di depan meja kayu etalase warung kueku. Dia menurunkan kacamata hitamnya sedikit, menatap spanduk kecil Kue Basah Bu Sumi dengan senyum miring penuh penghinaan.
 
 "Ya ampun... jadi di gang pengap kayak gini tempat tinggal perempuan yang dikasih gelang pusaka sama Oma Ratna?" sindir Vina dengan suara nyaring.
 
@@ -815,6 +828,7 @@ Aku menarik napas panjang, merapikan lembaran foto di atas etalase lalu memasukk
 Wajah Vina memerah padam karena gagal membuatku bertekuk lutut. "Oke! Kita lihat saja seberapa kuat muka tembok lo waktu Oma Ratna dan seluruh Jakarta tahu siapa lo sebenarnya!"
 
 Vina memutar tubuhnya dengan kasar dan melangkah cepat meninggalkan gang. Begitu bayangannya hilang di tikungan jalan raya, jujur lututku yang sejak tadi kutahan tegak akhirnya goyah juga. Tanpa membuang waktu sedetik pun, aku meraih ponsel dari saku dan menekan nomor Rian.
+
 ---
 
 ## Bab 18: Pengakuan dan Langkah Pasti
@@ -856,6 +870,7 @@ Jantungku berdegup kencang. Jujur, aku takut banget membayangkan harus melepas m
 Perlahan, tangan Rian bergerak melintasi permukaan meja kayu, menggenggam jemariku yang dingin dengan genggaman hangat yang menyalurkan keberanian.
 
 "Jangan takut, Ayu," ucap Rian tulus. "Besok sore, kamu nggak perlu pakai masker lagi. Berdiri saja di samping aku sebagai Ayu Anindya yang sebenarnya."
+
 ---
 
 ## Bab 19: Kejujuran di Hadapan Oma
@@ -880,7 +895,7 @@ Ibu Hartini menutup mulutnya kaget, sementara Indah membelalak tak percaya. Di s
 
 Aku menarik napas panjang, lalu berdiri di samping Rian. Dengan gerakan tenang, kedua tanganku terangkat melepas pengait masker kain dari telingaku dan melipatnya rapi.
 
-Tanpa selembar kain pun yang menutupi wajahku lagi, aku melangkah maju setengah tapak, lalu meletakkan kotak beludru berisi gelang emas pusaka Oma Ratna di atas meja kaca, berdampingan dengan kartu identitas mitra ojolku dan map berisi salinan ijazah sarjana Manajemen Bisnis berpredikat *cumlaude* yang kubawa di dalam tas jinjingku.
+Tanpa selembar kain pun yang menutupi wajahku lagi, aku melangkah maju setengah tapak, lalu meletakkan kotak beludru berisi gelang emas pusaka Oma Ratna di atas meja kaca, berdampingan dengan kartu identitas mitra ojolku dan map berisi salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude yang kubawa di dalam tas jinjingku.
 
 "Nama lengkap saya Ayu Anindya, Oma, Ibu," ucapku tenang, menundukkan kepala penuh hormat. "Hari Minggu lalu waktu saya datang ke sini pakai masker, sebenarnya saya nggak lagi sakit flu, Oma. Saya pakai masker ke mana-mana gara-gara saya takut ada kenalan keluarga atau staf kantor Mas Rian yang mengenali kalau saya ini tukang ojol yang biasa mangkal di depan gedung kantor. Dua tahun lalu, setelah lulus kuliah dengan IPK 3,85, Bapak saya meninggal dunia dan meninggalkan utang biaya rumah sakit yang cukup besar. Buat melunasi utang Bapak dan bantu Ibu saya jualan kue basah di Tebet, saya memang kerja narik ojol setiap hari."
 
@@ -907,13 +922,14 @@ Oma Ratna kembali membuka kotak beludru di meja dan menggenggamkan gelang emas i
 Namun, tepat saat aku mengembuskan napas lega di pelukan Ibu Hartini, wajah Indah yang sedang memegang ponsel di sofa mendadak berubah pucat pasi.
 
 "Kak Rian... Mbak Ayu..." suara Indah bergetar hebat seraya memutar layar ponselnya ke arah kami. "Vina baru saja nyebarin video Mbak Ayu pakai jaket ojol di akun gosip nasional, terus di kolom komentarnya ribuan akun bodong lagi ngajak orang-orang ngasih bintang satu ke warung kue Ibu Mbak Ayu sekarang!"
+
 ---
 
 ## Bab 20: Badai Malam di Gang Tebet
 
 Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa seperti merangkak di atas bara api. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
 
-"Matikan saja dulu ponsel kamu, Yu. Biar nomornya nggak diserbu *bot* terus," pinta Rian tegas sambil memutar kemudi membelok ke jalan raya Tebet. Tangannya sempat meraih jemariku yang gemetar dan menggenggamnya erat. "Pak Darmawan sama tim IT kantor udah aku hubungi barusan. Malam ini mereka langsung mulai nyari jejak digital siapa yang nyebar video itu."
+"Matikan saja dulu ponsel kamu, Yu. Biar nomornya nggak diserbu bot terus," pinta Rian tegas sambil memutar kemudi membelok ke jalan raya Tebet. Tangannya sempat meraih jemariku yang gemetar dan menggenggamnya erat. "Pak Darmawan sama tim IT kantor udah aku hubungi barusan. Malam ini mereka langsung mulai nyari jejak digital siapa yang nyebar video itu."
 
 "Aku nggak peduli soal akun medsosku, Mas. Masalahnya aku takut ada orang iseng yang nekat datang ke rumah terus bikin Ibu ketakutan," ucapku dengan suara bergetar. Tadi sebelum berangkat dari rumah Oma, dua ketua arisan langganan kami baru saja mengirim pesan pembatalan pesanan kue gara-gara termakan isu kue tidak higienis di video viral tersebut.
 
@@ -955,7 +971,7 @@ Aku mengangguk. Ternyata Ibu sudah mengintip dari jendela.
 
 Aku kembali ke mulut gang. Rian masih bersandar di pintu SUV-nya, persis seperti janjinya, dan menegakkan badan begitu melihatku.
 
-"Besok pagi jam delapan, aku jemput kamu di sini, Yu," kata Rian mantap. "Tim IT dan Pak Darmawan sudah menemukan satu petunjuk awal dari tangkapan layar instruksi *buzzer* yang bocor. Besok pagi di ruang rapat lantai dua puluh empat, kita balikkan keadaan."
+"Besok pagi jam delapan, aku jemput kamu di sini, Yu," kata Rian mantap. "Tim IT dan Pak Darmawan sudah menemukan satu petunjuk awal dari tangkapan layar instruksi buzzer yang bocor. Besok pagi di ruang rapat lantai dua puluh empat, kita balikkan keadaan."
 
 ---
 
@@ -965,27 +981,27 @@ Layar komputer besar di ruang rapat darurat lantai dua puluh empat Menara Astra 
 
 Di dalam video itu, potongan foto hasil intaian saat aku mengenakan jaket ojol di depan teras kontrakan Tebet disandingkan dengan fotoku saat memakai gaun biru dongker di pesta Hotel Grand Hyatt. Narasi teks di atasnya ditulis dengan kalimat fitnah keji yang menuduhku sebagai sindikat pacar sewaan penipu yang memeras pejabat perusahaan besar dan menjual kue pasar tidak higienis.
 
-Dampak nyatanya langsung menghantam pagi ini. Aplikasi mitra ojolku dibekukan sementara oleh sistem pusat gara-gara laporan massal dari ratusan akun bodong dalam semalam. Lebih parah lagi, halaman lokasi *Kue Basah Bu Sumi* di aplikasi peta digital dibombardir ratusan ulasan bintang satu palsu yang menuduh kue buatan Ibu menyebabkan keracunan, hingga dua pelanggan arisan di Tebet membatalkan pesanan sejak semalam.
+Dampak nyatanya langsung menghantam pagi ini. Aplikasi mitra ojolku dibekukan sementara oleh sistem pusat gara-gara laporan massal dari ratusan akun bodong dalam semalam. Lebih parah lagi, halaman lokasi Kue Basah Bu Sumi di aplikasi peta digital dibombardir ratusan ulasan bintang satu palsu yang menuduh kue buatan Ibu menyebabkan keracunan, hingga dua pelanggan arisan di Tebet membatalkan pesanan sejak semalam.
 
 "Untung Bang Bobi sama anak-anak pangkalan ojol Tebet udah pasang badan jagain teras rumah sejak semalam, jadi Ibuku nggak sampai didatangi orang iseng," kataku. Tanganku memutar-mutar cangkir kopi dingin di atas meja. Meski suaraku kujaga tenang, jujur aku marah banget melihat usaha kue yang dirintis Ibu puluhan tahun diserang secara licik.
 
 Di sebelahku, Rian berdiri dengan wajah tegang dan membetulkan posisi jam tangannya. Di hadapan kami, Pak Darmawan selaku kepala tim legal kantor bersama dua orang tim IT dan audit digital Menara Astra sedang membedah jejak penyebaran video tersebut.
 
-"Serangan ini jelas digerakkan pakai jasa *buzzer* berbayar, Pak Rian," lapor staf IT seraya menampilkan grafik waktu unggahan di layar proyektor. "Ratusan ulasan bintang satu di halaman warung *Kue Basah Bu Sumi* sama ribuan komentar seragam di akun gosip itu ditembakkan serentak pada jam lima kurang sepuluh sore."
+"Serangan ini jelas digerakkan pakai jasa buzzer berbayar, Pak Rian," lapor staf IT seraya menampilkan grafik waktu unggahan di layar proyektor. "Ratusan ulasan bintang satu di halaman warung Kue Basah Bu Sumi sama ribuan komentar seragam di akun gosip itu ditembakkan serentak pada jam lima kurang sepuluh sore."
 
 "Bisa dilacak agensi mana yang ngerjain dan siapa yang bayar?" tanya Rian tajam.
 
 "Pengunggah utamanya pakai akun bodong, Pak. Masalahnya, salah satu admin lapangan mereka sempat teledor nge-post tangkapan layar instruksi kerjaan di grup terbuka sebelum buru-buru dihapus tiga menit kemudian," jelas staf IT tersebut lalu memperbesar satu gambar tangkapan layar yang agak buram di layar monitor.
 
-Aku mencondongkan tubuh ke depan meja, menyipitkan mata memperhatikan sudut kanan atas gambar tangkapan layar instruksi tersebut. Di sana, terdapat sebaris kode tagihan berbunyi: *INV/BMD-JKT/X/0892-VIP*.
+Aku mencondongkan tubuh ke depan meja, menyipitkan mata memperhatikan sudut kanan atas gambar tangkapan layar instruksi tersebut. Di sana, terdapat sebaris kode tagihan berbunyi: INV/BMD-JKT/X/0892-VIP.
 
 Gerakan tanganku yang sedang memutar cangkir kopi langsung berhenti mendadak. Ingatanku seketika melompat pada berkas penawaran vendor iklan milik sepupu Vina yang pernah ditunjukkan Rian di tabletnya waktu kami mengobrol di kafe Senopati minggu lalu.
 
-"Tunggu sebentar, Mas," potongku cepat dan menunjuk deretan huruf di sudut gambar itu. "Kode tagihan *INV/BMD-JKT* pakai akhiran *VIP* ini... bukannya persis sama berkas vendor iklan punya sepupu Vina yang Mas Rian tolak minggu lalu?!"
+"Tunggu sebentar, Mas," potongku cepat dan menunjuk deretan huruf di sudut gambar itu. "Kode tagihan INV/BMD-JKT pakai akhiran VIP ini... bukannya persis sama berkas vendor iklan punya sepupu Vina yang Mas Rian tolak minggu lalu?!"
 
 Rian langsung menoleh ke arahku, matanya menyala tajam. "Bener! BuzzMedia Digital punya Reza Mahendra!"
 
-"Saya cek di sistem arsip sekarang, Pak!" seru staf IT. Jari-jarinya mengetik cepat di laptopnya, mencocokkan kode berkas vendor di arsip kantor. "Bener, Pak Rian! BuzzMedia Digital yang didaftarin Reza Mahendra ini pakai format penomoran tagihan yang persis sama dengan tangkapan layar instruksi *buzzer* yang bocor tadi!"
+"Saya cek di sistem arsip sekarang, Pak!" seru staf IT. Jari-jarinya mengetik cepat di laptopnya, mencocokkan kode berkas vendor di arsip kantor. "Bener, Pak Rian! BuzzMedia Digital yang didaftarin Reza Mahendra ini pakai format penomoran tagihan yang persis sama dengan tangkapan layar instruksi buzzer yang bocor tadi!"
 
 Pak Darmawan segera membuka berkas akta perusahaan vendor tersebut dari map legal kantor. "Direktur utamanya Reza Mahendra, sepupu kandung Vina Rosalinda. Karena perusahaannya terdaftar sebagai calon vendor di sini, kita punya alamat kantor dan nomor pribadinya."
 
@@ -997,13 +1013,13 @@ Kurang dari satu jam kemudian, pintu ruang rapat terbuka. Reza Mahendra melangka
 
 "Siang, Bang Rian! Wah, nggak nyangka dipanggil secepat ini buat verifikasi akhir tender BuzzMedia Digital," sapa Reza ramah lalu duduk di kursi seberang meja rapat.
 
-Namun, senyum di wajah Reza langsung luntur. Tak ada satu pun orang di ruangan itu yang membalas sapaannya. Tanpa basa-basi, Pak Darmawan menggeser lembar cetakan tangkapan layar berkode *INV/BMD-JKT/X/0892-VIP* beserta draf laporan kepolisian ke hadapan Reza.
+Namun, senyum di wajah Reza langsung luntur. Tak ada satu pun orang di ruangan itu yang membalas sapaannya. Tanpa basa-basi, Pak Darmawan menggeser lembar cetakan tangkapan layar berkode INV/BMD-JKT/X/0892-VIP beserta draf laporan kepolisian ke hadapan Reza.
 
 "Kami tidak memanggil Anda untuk kontrak iklan, Saudara Reza, melainkan untuk konfirmasi barang bukti pidana pencemaran nama baik dan perusakan usaha UMKM," ucap Pak Darmawan dingin.
 
 Wajah Reza seketika memucat seperti kertas. Keringat dingin langsung muncul di pelipisnya saat matanya membaca kode tagihan di sudut tangkapan layar tersebut. "I-ini maksudnya apa ya, Pak? Bang Rian, gue nggak ngerti..."
 
-"Nggak usah pura-pura bodoh di depan aku, Za," potong Rian tajam, menatapnya lurus tanpa berkedip. "Kode tagihan di tangkapan layar instruksi *buzzer* yang nyerang Ayu dan usaha kue ibunya kemarin sore itu persis sama dengan format penawaran resmi BuzzMedia Digital yang kamu masukin ke divisiku minggu lalu. Kalau dalam lima menit kamu nggak jujur siapa yang pesan dan bayar paket serangan itu, detik ini juga perusahaan kamu masuk daftar hitam seluruh grup bisnis kami dan nama kamu langsung terdaftar sebagai tersangka utama di kepolisian."
+"Nggak usah pura-pura bodoh di depan aku, Za," potong Rian tajam, menatapnya lurus tanpa berkedip. "Kode tagihan di tangkapan layar instruksi buzzer yang nyerang Ayu dan usaha kue ibunya kemarin sore itu persis sama dengan format penawaran resmi BuzzMedia Digital yang kamu masukin ke divisiku minggu lalu. Kalau dalam lima menit kamu nggak jujur siapa yang pesan dan bayar paket serangan itu, detik ini juga perusahaan kamu masuk daftar hitam seluruh grup bisnis kami dan nama kamu langsung terdaftar sebagai tersangka utama di kepolisian."
 
 Aku menatap Reza yang tangannya mulai gemetar hebat di atas meja. "Pilihannya cuma dua, Mas Reza. Mau pasang badan masuk penjara sendirian buat nutupin ulah sepupu Mas, atau serahkan bukti pemesan aslinya sekarang sebagai saksi yang bekerja sama?"
 
@@ -1011,11 +1027,12 @@ Napas Reza memburu panik. Bayangan perusahaannya bangkrut dan diseret ke sel pol
 
 "Oke, oke! Jangan laporin gue, Bang Rian! Gue ngaku!" seru Reza dengan suara bergetar sambil merogoh ponsel dan map kerjanya. "Sumpah, gue cuma disuruh Vina! Kemarin siang Vina nelepon gue marah-marah. Dia yang kirim foto-foto Mbak Ayu sama link lokasi warung kue di Tebet, terus minta paket serangan kilat sore itu juga!"
 
-Di bawah pengawasan Pak Darmawan, Reza langsung menandatangani surat pernyataan resmi, menyerahkan faktur asli berkode *INV/BMD-JKT/X/0892-VIP*, sekaligus mencetak bukti mutasi transfer *m-banking* sebesar tiga puluh lima juta rupiah yang dikirim langsung dari rekening pribadi Vina Rosalinda ke rekeningnya.
+Di bawah pengawasan Pak Darmawan, Reza langsung menandatangani surat pernyataan resmi, menyerahkan faktur asli berkode INV/BMD-JKT/X/0892-VIP, sekaligus mencetak bukti mutasi transfer m-banking sebesar tiga puluh lima juta rupiah yang dikirim langsung dari rekening pribadi Vina Rosalinda ke rekeningnya.
 
 Rian menutup map berkas pengakuan tertulis Reza dan bukti transfer itu dengan tegas di atas meja.
 
 "Pak Darmawan, daftarkan laporan resmi pencemaran nama baik dan UU ITE ini ke polisi hari ini juga," perintah Rian dingin. "Dan minta bagian humas siapkan ruang konferensi pers di lantai tiga besok pagi jam sembilan. Aku mau Vina dan semua media tahu akibatnya kalau berani ngusik keluargaku dan merendahkan perempuan yang aku pilih."
+
 ---
 
 ## Bab 22: Pembalasan Telak
@@ -1038,7 +1055,7 @@ Aku menarik napas tenang dan menepuk tas selempang kecilku sebelum melangkah ke 
 
 "Selamat pagi teman-teman media. Nama saya Ayu Anindya," ucapku jernih dan tenang. "Benar kalau orang di dalam foto lobi kantor dan resepsi Hotel Grand Hyatt itu adalah Mas Rian dan saya. Dan benar juga kalau sehari-hari saya bekerja narik ojol serta membantu ibu saya, Bu Sumi, jualan kue basah di Tebet."
 
-Aku menekan tombol *pointer* di tanganku. Layar LED raksasa di belakang panggung langsung menampilkan foto salinan ijazah sarjana Manajemen Bisnis berpredikat *cumlaude* milikku berdampingan dengan foto spanduk sederhana *Kue Basah Bu Sumi*.
+Aku menekan tombol pointer di tanganku. Layar LED raksasa di belakang panggung langsung menampilkan foto salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude milikku berdampingan dengan foto spanduk sederhana Kue Basah Bu Sumi.
 
 "Dua tahun lalu ayah saya meninggal dunia gara-gara lonjakan darah tinggi yang memicu serangan jantung dan meninggalkan tanggungan utang biaya rumah sakit," lanjutku tanpa suara bergetar. "Buat saya dan ibu saya, pakai jaket ojol di jalanan Jakarta atau bangun jam tiga subuh buat ngukus kue demi melunasi utang secara halal itu sama sekali bukan aib. Yang memalukan itu justru kalau punya banyak uang tapi dipakai buat memfitnah dan mematikan usaha kecil orang lain."
 
@@ -1050,7 +1067,7 @@ Pengacara di samping Vina sempat menarik lengan blazernya agar diam. Namun, Vina
 
 Aku menatap lurus ke arah Vina dengan tenang. "Terima kasih sudah menanyakan buktinya secara langsung, Mbak Vina."
 
-Aku menekan tombol *pointer* sekali lagi. Layar raksasa di belakangku berganti menampilkan rincian bukti lengkap: tangkapan layar instruksi *buzzer* berkode tagihan *INV/BMD-JKT/X/0892-VIP*, surat pernyataan bermeterai yang ditandatangani Reza Mahendra, hingga bukti transfer bank sebesar tiga puluh lima juta rupiah. Aku menoleh mempersilakan Pak Darmawan di mikrofon samping untuk membacakan temuan hukumnya.
+Aku menekan tombol pointer sekali lagi. Layar raksasa di belakangku berganti menampilkan rincian bukti lengkap: tangkapan layar instruksi buzzer berkode tagihan INV/BMD-JKT/X/0892-VIP, surat pernyataan bermeterai yang ditandatangani Reza Mahendra, hingga bukti transfer bank sebesar tiga puluh lima juta rupiah. Aku menoleh mempersilakan Pak Darmawan di mikrofon samping untuk membacakan temuan hukumnya.
 
 "Berdasarkan pengakuan resmi tertulis dari Saudara Reza Mahendra selaku pemilik agensi BuzzMedia Digital yang telah menyerahkan barang bukti kepada tim hukum kami kemarin sore," papar Pak Darmawan tegas, "seluruh penyebaran video fitnah dan ratusan ulasan palsu yang menyerang warung kue Bu Sumi dipesan serta dibayar lunas sebesar tiga puluh lima juta rupiah dari rekening pribadi Vina Rosalinda."
 
@@ -1067,11 +1084,12 @@ Vina gelagapan menutup wajahnya dengan tas kulit, berusaha mundur menerobos keru
 Di kursi barisan depan, Oma Ratna dan Ibu Hartini bertepuk tangan dengan senyum bangga. Rian menoleh dan menggenggam tanganku erat di balik podium.
 
 "Semua urusan hukum di gedung ini udah beres, Yu," bisik Rian hangat di dekat telingaku. "Tapi sebelum kita bicara berdua nanti malam, sore ini izinkan aku datang resmi ke rumah kamu di Tebet. Aku mau menghadap Ibu kamu tanpa sembunyi-sembunyi di mulut gang lagi."
+
 ---
 
 ## Bab 23: Tamu Kehormatan di Dapur Ibu
 
-Kamis sore pukul empat, suasana di sepanjang gang kontrakanku di Tebet terasa jauh lebih semarak dibanding dua hari lalu. Sejak siaran langsung konferensi pers kami tayang di berbagai portal berita siang tadi, halaman lokasi *Kue Basah Bu Sumi* di aplikasi peta kembali dipenuhi ribuan ulasan bintang lima dari warganet yang bersimpati. Bahkan sejak pukul dua siang, warga sekitar dan pelanggan baru terus berdatangan membeli kue sampai stok di etalase ludes tak bersisa.
+Kamis sore pukul empat, suasana di sepanjang gang kontrakanku di Tebet terasa jauh lebih semarak dibanding dua hari lalu. Sejak siaran langsung konferensi pers kami tayang di berbagai portal berita siang tadi, halaman lokasi Kue Basah Bu Sumi di aplikasi peta kembali dipenuhi ribuan ulasan bintang lima dari warganet yang bersimpati. Bahkan sejak pukul dua siang, warga sekitar dan pelanggan baru terus berdatangan membeli kue sampai stok di etalase ludes tak bersisa.
 
 Namun, pemandangan yang paling membuat tetangga kanan-kiri berbisik kagum sore itu bukanlah larisnya kue di etalase, melainkan sosok pria berkemeja putih lengan panjang yang berjalan kaki di sampingku menyusuri gang sempit sambil menenteng dua kantong besar berisi buah segar dan kopi susu.
 
@@ -1148,5 +1166,3 @@ Rian tertawa lepas, tawa paling ringan dan bahagia yang pernah kudengar darinya 
 "Aku bayar pakai seluruh waktu dan hidupku buat nemenin kamu ngitung adonan kue tiap subuh, Mbak Sarjana," bisik Rian hangat.
 
 Di bawah langit malam Jakarta yang akhirnya cerah sehabis hujan, aku menyandarkan kepalaku dengan tenang di bahu Rian. Siapa sangka, orderan dua puluh nasi kotak ke lobi Menara Astra siang itu ternyata benar-benar mengantarkanku pada perjalanan cinta yang tak lagi mengenal kata pura-pura.
----
-

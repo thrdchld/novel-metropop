@@ -20,7 +20,7 @@ Baca `AGENTS.md` di root repo, lalu `engine/README.md` dan `engine/00-workflow.m
 - Prinsip Pas: teknik/subplot/flashback/scene ikonik opsional, boleh nol.
 - Satu bab per respons; batch hanya jika diminta.
 - Setiap bab 600–900 kata, satu POV, satu adegan/beat, berakhir hook.
-- Format: `## Bab N: Judul`, judul 2–5 kata, tanpa em dash (`—`), tanpa quote pembuka, bahasa percakapan alami perkotaan Indonesia, chat `**Nama:** *isi*`, email/surat miring, tanpa emoji.
+- Format: `## Bab N: Judul`, judul 2–5 kata, tanpa em dash (`—`), tanpa quote pembuka, teks polos tanpa simbol tebal/miring/markup (chat `Nama: Isi pesan`, email/surat polos, istilah asing polos), bahasa percakapan alami perkotaan Indonesia, tanpa emoji.
 - Bab 1 in medias res.
 - Simpan bab ke `story/<Judul>/chapters/bab-NN.md`.
 - Setelah bab: catatan kontinuitas, skor rubrik 8 kriteria (lulus ≥34/40 tanpa nilai <4),

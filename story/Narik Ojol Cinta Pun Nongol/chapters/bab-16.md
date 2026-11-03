@@ -14,13 +14,13 @@ Bang Bobi lagi. Sahabat ojolku itu masih mengenakan jaket kulit hitam pelindung 
 
 "Gue tungguin lu dari jam delapan tadi, Yu. Gue mau ngomong penting," bisik Bang Bobi serius seraya menoleh ke kanan-kiri. "Tadi siang pas lu lagi pergi, ada cowok asing pakai jaket kulit sama topi hitam mondar-mandir di gang sini. Dia sempat motret pelat motor lu yang parkir di samping teras, terus motret spanduk kue Ibu lu di depan!"
 
-Jantungku langsung mencelos. Di spanduk *Kue Basah Bu Sumi* itu terpampang jelas nomor WhatsApp pribadiku untuk pemesanan pelanggan, tepat di sebelah motor matik B 4892 TBT milikku yang biasa kuparkir di teras! "Serius, Bang? Terus orangnya ke mana?"
+Jantungku langsung mencelos. Di spanduk Kue Basah Bu Sumi itu terpampang jelas nomor WhatsApp pribadiku untuk pemesanan pelanggan, tepat di sebelah motor matik B 4892 TBT milikku yang biasa kuparkir di teras! "Serius, Bang? Terus orangnya ke mana?"
 
 "Pas gue samperin mau gue tanyain maksudnya apa, orangnya langsung buru-buru kabur naik motor gede," jawab Bang Bobi geram.
 
 Belum sempat aku menanggapi kalimat Bang Bobi, pintu kemudi SUV hitam di belakangku mendadak ditutup keras.
 
-*Brak!*
+Brak!
 
 Aku dan Bang Bobi menoleh bersamaan. Rian melangkah cepat menghampiri kami dengan tatapan tajam yang menyorot lurus ke arah tangan Bang Bobi yang masih bertengger di bahuku.
 
@@ -44,6 +44,6 @@ Napasku tercekat di kerongkongan. Kata-kata Rian menggantung di udara malam yang
 
 Namun, sebelum aku sempat mengeluarkan satu patah kata pun, ponsel di dalam tas selempangku mendadak bergetar nyaring.
 
-Aku merogoh ponselku dengan tangan agak gemetar, lalu memperlihatkan layarnya kepada Rian yang langsung mendekat di sampingku. Sebuah pesan WhatsApp dari nomor tak dikenal baru saja masuk, melampirkan foto motor matikku yang terparkir di depan spanduk kecil bertuliskan *Kue Basah Bu Sumi - Tebet* lengkap dengan sebaris kalimat di bawahnya:
+Aku merogoh ponselku dengan tangan agak gemetar, lalu memperlihatkan layarnya kepada Rian yang langsung mendekat di sampingku. Sebuah pesan WhatsApp dari nomor tak dikenal baru saja masuk, melampirkan foto motor matikku yang terparkir di depan spanduk kecil bertuliskan Kue Basah Bu Sumi - Tebet lengkap dengan sebaris kalimat di bawahnya:
 
-**Nomor Tak Dikenal:** *Gampang banget dapet nomor WA lo dari spanduk bakul kue di depan kontrakan lo. Ternyata calon cucu mantu kebanggaan Oma Ratna cuma tukang ojol sama anak penjual kue gang sempit. Besok siang gue mampir borong kue di warung nyokap lo ya, Mbak Ojol.*
+Nomor Tak Dikenal: Gampang banget dapet nomor WA lo dari spanduk bakul kue di depan kontrakan lo. Ternyata calon cucu mantu kebanggaan Oma Ratna cuma tukang ojol sama anak penjual kue gang sempit. Besok siang gue mampir borong kue di warung nyokap lo ya, Mbak Ojol.

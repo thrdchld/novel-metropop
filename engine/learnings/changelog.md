@@ -3,6 +3,17 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.7 - 2026-11-03
+
+- **Perubahan:** Menetapkan **Aturan Teks Polos Naskah Cerita (Zero Formatting Markup - Plain Text Rule) (Engine v3.7)**:
+  1. *Naskah Bab 100% Teks Polos:* Dilarang keras memakai simbol formatting markdown (tanda bintang ganda untuk tebal `**teks**`, tanda bintang tunggal untuk miring `*teks*`, coret `~~teks~~`, maupun kutipan backtick) pada seluruh naskah prosa cerita di folder `story/`. Teks naskah wajib berupa *plain text* polos agar rapi dan tidak memunculkan karakter simbol mentah saat disalin ke platform web novel (seperti KBM App, Fizzo, Wattpad, Noveltoon) maupun saat dibaca di mobile reader.
+  2. *Format Chat Polos:* Pesan percakapan ponsel ditulis polos tanpa tanda bintang: `Nama: Isi pesan`.
+  3. *Format Surat / Dokumen Polos:* Surat, email, atau dokumen resmi ditulis sebagai paragraf biasa tanpa blok miring atau tanda bintang.
+  4. *Istilah Asing, Toko, & Kode Polos:* Istilah serapan asing/teknis (misal: m-banking, buzzer, cumlaude), nama toko (Kue Basah Bu Sumi), dan kode faktur ditulis polos tanpa cetak miring.
+  5. *Efek Suara & Monolog Batin Polos:* Ditulis polos tanpa tanda bintang (misal: Brak!, Hap., bukan \*Brak!\* atau \*Hap.\*).
+  6. *Pembersihan & Kompilasi Ulang:* Mengeliminasi seluruh 26 baris simbol format pada Bab 1–24 di `story/Narik Ojol Cinta Pun Nongol/chapters/` dan meregenerasi naskah kompilasi utuh `manuscript.md`.
+- **File:** `engine/05-style.md`, `engine/06-chapter.md`, `engine/09-revision.md`, `AGENTS.md`, `GEMINI.md`, `engine/SKILL.md`, `.agent/skills/metropop-novel/SKILL.md`, `.agents/skills/metropop-novel/SKILL.md`, `GEMINI_SKILL.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.6 - 2026-11-03
 
 - **Perubahan:** Membangun **Katalog Komprehensif Disorder, Pengalaman Hidup, & Scene Stealer Hateable vs Lovable (Engine v3.6)**:

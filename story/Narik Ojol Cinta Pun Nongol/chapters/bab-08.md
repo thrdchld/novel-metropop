@@ -12,7 +12,7 @@ Pak Harun menghentikan gerakan tangannya yang sedang mengipas-ngipas buku tagiha
 
 Dari arah warung kopi ujung gang, Bang Bobi yang melihat motor besar Pak Harun berhenti di depan rumahku langsung berjalan cepat menghampiri teras. Dia berdiri tegak di dekat pagar kayu, mengawasi gerak-gerik penagih utang itu tanpa berkedip.
 
-Aku membuka aplikasi *m-banking* di ponselku, menekan deretan angka nominal lima juta rupiah ke nomor rekening koperasi milik Pak Harun, lalu memutar layar ponselku tepat di depan mukanya.
+Aku membuka aplikasi m-banking di ponselku, menekan deretan angka nominal lima juta rupiah ke nomor rekening koperasi milik Pak Harun, lalu memutar layar ponselku tepat di depan mukanya.
 
 "Sudah masuk ya, Pak. Tolong cek ponsel Bapak sekarang dan langsung potong saldo pokok utang rumah sakit almarhum Bapak saya di buku catatan itu, terus tanda tangan kuitansi lunas sebagiannya di sini." Aku menggeser selembar kuitansi kosong dan pulpen ke atas kaca etalase.
 
@@ -38,4 +38,4 @@ Ibu menutup mulutnya dengan kedua tangan. Matanya langsung berkaca-kaca menatap 
 
 Jujur, melihat senyum bangga di wajah Ibu sore itu bikin semua rasa pegal di punggungku lenyap tak berbekas. Biarlah di luar sana aku harus memakai masker kain dan berakting di depan keluarga Rian. Selama dapur kecil di Tebet ini kembali mengepul tenang dan tak ada lagi penagih utang yang berani membentak Ibu, aku sanggup menjalani kesepakatan tiga bulan ini.
 
-Namun, saat aku masuk ke kamar untuk mengganti baju dan melihat lembar contekan biodata keluarga Rian yang harus kuhafalkan untuk pertemuan di Senopati besok sore, senyumku perlahan meredup. Di baris paling bawah kertas itu, tertulis jelas nama *Vina Rosalinda* dengan garis bawah tebal yang dibuat langsung oleh tangan Rian.
+Namun, saat aku masuk ke kamar untuk mengganti baju dan melihat lembar contekan biodata keluarga Rian yang harus kuhafalkan untuk pertemuan di Senopati besok sore, senyumku perlahan meredup. Di baris paling bawah kertas itu, tertulis jelas nama Vina Rosalinda dengan garis bawah tebal yang dibuat langsung oleh tangan Rian.

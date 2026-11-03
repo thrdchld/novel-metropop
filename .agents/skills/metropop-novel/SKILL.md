@@ -31,6 +31,7 @@ Skill ini memandu AI untuk bertindak sebagai **Penulis dan Editor Pendamping Web
 6. **Mekanisme Kontinuitas & Gerbang Pra-Tulis:** Wajib membaca `story/<Judul>/` (`state.md`, `canon.md`, `outline.md`, `ledger.md`) dan menampilkan blok **Pre-Flight Continuity Gate (5 poin)** sebelum menulis bab baru, menyinkronkan `state.md` + `ledger.md` pasca-tulis, serta menjalankan audit skrip `python3 scripts/audit-continuity.py`.
 7. **Evolusi Engine:** Jika ada kritik atau preferensi berulang dari user, AI wajib mencatatnya di `engine/learnings/editor-feedback.md` dan memperbarui file engine terkait.
 8. **Universe Registry, Anti-Duplikasi, & Protokol Cameo:** AI wajib memeriksa `story/universe-registry.md` sebelum memberikan ide di Mode A atau merancang tokoh di Mode B. Dilarang keras menawarkan kembali ide/premis yang sudah ditolak, menduplikasi kombinasi nama/profesi/watak tokoh lama, atau memakai trope pada *Daftar Hitam Trope*. Integrasikan semesta bersama dengan Protokol Cameo 3 Tingkat (Dialog, Kilas Balik, Fisik tanpa deus ex machina).
+9. **Tanpa Simbol Format Teks (Bold/Italic/Markup) di Naskah Cerita:** Seluruh teks prosa bab di `story/` wajib berupa teks polos (*plain text*) tanpa format tebal (`**teks**`), miring (`*teks*`), coret (`~~teks~~`), maupun backtick. Format pesan chat ditulis polos `Nama: Isi pesan`, email/surat ditulis polos sebagai paragraf biasa, istilah asing/toko/kode ditulis polos tanpa miring, dan efek suara/monolog batin ditulis polos tanpa tanda bintang.
 
 ---
 

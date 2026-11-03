@@ -61,6 +61,12 @@ Wajib dipatuhi pada setiap generasi teks tanpa kompromi:
     - Dilarang keras menawarkan kembali ide/premis yang sudah ditolak, menduplikasi kombinasi nama/profesi/watak tokoh lama, atau menggunakan trope yang tercantum dalam *Daftar Hitam Trope*!
     - Terapkan **Protokol Semesta Bersama & 3 Tingkat Cameo** (Tingkat 1 Dialog/Kabar Angin, Tingkat 2 Kilas Balik/Sejarah Bersama, Tingkat 3 Kehadiran Fisik Singkat sebagai pemanis latar tanpa *deus ex machina*).
     - Hasil formulasi ide (3 opsi lengkap dengan ID `PRM-XXX`) wajib diverifikasi terhadap Matriks Kebaruan Mutlak dan dicatat statusnya (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, `DITOLAK / JANGAN DITAWARKAN LAGI`).
+12. **Tanpa Simbol Format Teks (Bold/Italic/Markup) di Naskah Cerita:**
+    - Seluruh teks prosa cerita bab di `story/` wajib berupa teks polos (*plain text*) tanpa simbol tanda bintang tebal (`**teks**`), miring (`*teks*`), coret (`~~teks~~`), maupun backtick.
+    - Format pesan chat ditulis polos: `Nama: Isi pesan`.
+    - Format email/surat/dokumen ditulis polos sebagai paragraf biasa tanpa miring.
+    - Istilah asing/kerja/toko/kode ditulis polos tanpa miring (misal: m-banking, buzzer, cumlaude, Kue Basah Bu Sumi).
+    - Efek suara dan monolog batin ditulis polos tanpa tanda bintang (misal: Brak!, Hap.).
 
 ---
 

@@ -48,7 +48,7 @@ Namun, lemparan itu terlalu bertenaga. Buket mawar putih berikat pita satin pera
 
 Refleks tukang ojolku langsung bekerja otomatis. Tanpa sadar, kedua tanganku terangkat menangkap benda yang melayang ke arah mukaku.
 
-*Hap.*
+Hap.
 
 Tangkai buket mawar putih itu mendarat sempurna di dalam dekapanku.
 

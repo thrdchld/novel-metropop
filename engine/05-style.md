@@ -51,9 +51,12 @@ Kontras sapaan wajib dijaga sesuai lawan bicara:
 - **Judul Bab:** `## Bab N: Judul` (2–5 kata).
 - **DILARANG Memasang Quote / Epigraph di Atas Bab:** Bab langsung dimulai dengan kalimat pertama cerita (tanpa kutipan/quote pembuka).
 - **DILARANG KERAS Memakai Em Dash (`—`):** Dilarang menggunakan karakter em dash (`—`) di seluruh narasi maupun dialog novel. Gunakan koma, titik, tanda hubung biasa (`-`), atau susun kalimat secara alami.
-- **Format Chat:** `**Nama:** *Isi pesan*` (atau `Nama : Isi pesan` jika konsisten).
-- **Format Nomor Tak Dikenal:** `**Nomor tak dikenal:** *Isi pesan*` (wajib ada jalur logis dari mana pengirim mendapat nomor tersebut).
-- **Email / Surat / Dokumen Resmi:** Ditulis miring atau dalam blok kutipan (`> *isi teks*`).
+- **DILARANG Memakai Format Tebal/Miring/Markup (Plain Text Rule):** Seluruh naskah cerita bab wajib berupa teks polos (*plain text*) tanpa simbol tanda bintang untuk menebalkan (`**teks**`), memiringkan (`*teks*`), mencoret (`~~teks~~`), atau backtick (`` `teks` ``). Hal ini untuk memastikan naskah bersih saat disalin atau dibaca di platform web novel (seperti Wattpad, KBM App, Fizzo, Noveltoon) tanpa memunculkan karakter tanda bintang mentah yang mengganggu kenyamanan membaca.
+- **Format Chat:** Ditulis polos tanpa tanda bintang: `Nama: Isi pesan`.
+- **Format Nomor Tak Dikenal:** Ditulis polos: `Nomor Tak Dikenal: Isi pesan` (wajib ada jalur logis dari mana pengirim mendapat nomor tersebut).
+- **Email / Surat / Dokumen Resmi:** Ditulis polos sebagai paragraf tersendiri tanpa miring dan tanpa tanda bintang.
+- **Istilah Asing / Teknis & Nama Toko:** Ditulis polos dalam huruf biasa (misal: m-banking, cumlaude, buzzer, Kue Basah Bu Sumi).
+- **Efek Suara & Monolog Batin:** Ditulis polos tanpa tanda bintang (misal: Brak!, Hap., bukan *Brak!* atau *Hap.*).
 
 ---
 

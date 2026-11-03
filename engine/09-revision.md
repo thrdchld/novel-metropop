@@ -20,7 +20,7 @@ Saat user meminta revisi atau analisis naskah/cerita:
 | **Logika / Plot / Alur** | "Janggal", "alasan kurang to the point", "kenapa nggak jujur aja?" | Uji dengan **10 Uji Logika & 10 Tanda Bahaya**, buat Permintaan Perubahan, update canon/outline/ledger |
 | **Preferensi Baru** | "Aku mau tone lebih getir", "hapus quote di atas bab" | Catat di `learnings/editor-feedback.md`, update file engine terkait, terapkan konsisten |
 | **Fakta Canon** | "Umurnya 27, bukan 28" | Update canon dan ledger, cari semua kemunculan di bab lain |
-| **Format & Panjang Kata** | Bab di bawah 600 kata, heading salah, chat tidak miring | Perbaiki mekanis dan perluas adegan hingga 600–900 kata |
+| **Format & Panjang Kata** | Bab di bawah 600 kata, heading salah, ada tanda bintang/tebal/miring di naskah | Perbaiki mekanis, bersihkan ke teks polos, dan sesuaikan panjang kata ke 600–900 kata |
 
 ---
 

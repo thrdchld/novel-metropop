@@ -2,7 +2,7 @@
 
 Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa seperti merangkak di atas bara api. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
 
-"Matikan saja dulu ponsel kamu, Yu. Biar nomornya nggak diserbu *bot* terus," pinta Rian tegas sambil memutar kemudi membelok ke jalan raya Tebet. Tangannya sempat meraih jemariku yang gemetar dan menggenggamnya erat. "Pak Darmawan sama tim IT kantor udah aku hubungi barusan. Malam ini mereka langsung mulai nyari jejak digital siapa yang nyebar video itu."
+"Matikan saja dulu ponsel kamu, Yu. Biar nomornya nggak diserbu bot terus," pinta Rian tegas sambil memutar kemudi membelok ke jalan raya Tebet. Tangannya sempat meraih jemariku yang gemetar dan menggenggamnya erat. "Pak Darmawan sama tim IT kantor udah aku hubungi barusan. Malam ini mereka langsung mulai nyari jejak digital siapa yang nyebar video itu."
 
 "Aku nggak peduli soal akun medsosku, Mas. Masalahnya aku takut ada orang iseng yang nekat datang ke rumah terus bikin Ibu ketakutan," ucapku dengan suara bergetar. Tadi sebelum berangkat dari rumah Oma, dua ketua arisan langganan kami baru saja mengirim pesan pembatalan pesanan kue gara-gara termakan isu kue tidak higienis di video viral tersebut.
 
@@ -44,4 +44,4 @@ Aku mengangguk. Ternyata Ibu sudah mengintip dari jendela.
 
 Aku kembali ke mulut gang. Rian masih bersandar di pintu SUV-nya, persis seperti janjinya, dan menegakkan badan begitu melihatku.
 
-"Besok pagi jam delapan, aku jemput kamu di sini, Yu," kata Rian mantap. "Tim IT dan Pak Darmawan sudah menemukan satu petunjuk awal dari tangkapan layar instruksi *buzzer* yang bocor. Besok pagi di ruang rapat lantai dua puluh empat, kita balikkan keadaan."
+"Besok pagi jam delapan, aku jemput kamu di sini, Yu," kata Rian mantap. "Tim IT dan Pak Darmawan sudah menemukan satu petunjuk awal dari tangkapan layar instruksi buzzer yang bocor. Besok pagi di ruang rapat lantai dua puluh empat, kita balikkan keadaan."

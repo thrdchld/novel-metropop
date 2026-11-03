@@ -38,6 +38,6 @@ Dia sedang menatapku lekat-lekat tanpa berkedip.
 
 "Kalau aja staf analis di kantorku punya mata setajam kamu, Yu, aku nggak perlu pusing nolak berkas vendor iklan titipan kayak BuzzMedia Digital punya Reza Mahendra, sepupunya Vina ini. Coba kamu lihat format kode tagihan mereka di sudut atas ini, pakai kode INV/BMD-JKT dan akhiran VIP, tapi harga paket kampanyenya digelembungin hampir dua kali lipat." Rian memperlihatkan satu berkas penawaran vendor iklan di tabletnya yang baru saja dia tolak.
 
-Aku melirik sekilas kode tagihan berkepala *INV/BMD-JKT* dengan akhiran *VIP* di layar tablet Rian itu dan memperbaiki letak masker kainku. "Itu mah hitungan dasar pedagang kue pasar, Mas Rian. Kalau harga digelembungin nggak wajar gitu, dari kodenya aja udah kelihatan polanya."
+Aku melirik sekilas kode tagihan berkepala INV/BMD-JKT dengan akhiran VIP di layar tablet Rian itu dan memperbaiki letak masker kainku. "Itu mah hitungan dasar pedagang kue pasar, Mas Rian. Kalau harga digelembungin nggak wajar gitu, dari kodenya aja udah kelihatan polanya."
 
 Rian tersenyum tipis, melipat kertas tisu tulisanku dengan rapi lalu menyimpannya ke dalam saku kemejanya. Tatapan matanya sore itu begitu hangat, menyisakan debar aneh yang sama sekali tidak tertulis di kertas perjanjian kami.

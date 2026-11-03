@@ -38,7 +38,7 @@ Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja ta
 
 Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut kebawa di belakang kertas katalog. IPK 3,85, predikat cumlaude dari Fakultas Ekonomi dan Bisnis? Jadi waktu kamu ngomong ke Tante Henny di ballroom Jumat lalu itu beneran?"
 
-Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. *Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!*
+Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!
 
 "Aduh, maaf Mas, tadi di rumah aku buru-buru karena dipanggil Ibu dan pakai map bekas, makanya ikut kebawa," ucapku agak salah tingkah sambil menarik dan menyimpan kembali lembar ijazah itu ke dalam map. "Tapi soal jurusanku ya memang beneran, Mas. Memangnya muka aku kelihatan kayak tukang ngibul?"
 

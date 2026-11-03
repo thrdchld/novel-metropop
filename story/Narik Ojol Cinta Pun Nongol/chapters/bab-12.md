@@ -18,7 +18,7 @@ Damar mendengus sinis, sengaja mengeraskan suaranya agar dua manajer di dekatnya
 
 Telingaku langsung panas mendengarnya menghina warung Ibu, tetapi aku menjaga tanganku tetap tenang merapikan pita kotak kue.
 
-"Standar kebersihan kami bisa dicek langsung kok, Mas," sahutku lugas namun sopan. "Semua kue lumpur, talam pandan, dan lemper ayam ini baru diangkat dari kukusan jam sembilan pagi tadi tanpa bahan pengawet, dikemas pakai kotak *food grade* bersegel, dan harganya empat puluh persen lebih hemat dibanding pastri hotel yang biasanya cuma dipanasin ulang dari stok beku kemarin."
+"Standar kebersihan kami bisa dicek langsung kok, Mas," sahutku lugas namun sopan. "Semua kue lumpur, talam pandan, dan lemper ayam ini baru diangkat dari kukusan jam sembilan pagi tadi tanpa bahan pengawet, dikemas pakai kotak food grade bersegel, dan harganya empat puluh persen lebih hemat dibanding pastri hotel yang biasanya cuma dipanasin ulang dari stok beku kemarin."
 
 Dua manajer senior yang duduk di dekat meja langsung manggut-manggut setuju. Salah satu manajer perempuan bahkan membuka satu kotak sampel dan mencicipi kue lumpur kentang buatan Ibu. "Eh, tapi ini beneran enak banget lho, Damar. Masih hangat dan kentangnya terasa asli, nggak bikin enek kayak roti keju minggu lalu. Malah pas banget buat teman ngopi siang-siang begini."
 

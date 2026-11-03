@@ -18,7 +18,7 @@ Aku menarik napas tenang dan menepuk tas selempang kecilku sebelum melangkah ke 
 
 "Selamat pagi teman-teman media. Nama saya Ayu Anindya," ucapku jernih dan tenang. "Benar kalau orang di dalam foto lobi kantor dan resepsi Hotel Grand Hyatt itu adalah Mas Rian dan saya. Dan benar juga kalau sehari-hari saya bekerja narik ojol serta membantu ibu saya, Bu Sumi, jualan kue basah di Tebet."
 
-Aku menekan tombol *pointer* di tanganku. Layar LED raksasa di belakang panggung langsung menampilkan foto salinan ijazah sarjana Manajemen Bisnis berpredikat *cumlaude* milikku berdampingan dengan foto spanduk sederhana *Kue Basah Bu Sumi*.
+Aku menekan tombol pointer di tanganku. Layar LED raksasa di belakang panggung langsung menampilkan foto salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude milikku berdampingan dengan foto spanduk sederhana Kue Basah Bu Sumi.
 
 "Dua tahun lalu ayah saya meninggal dunia gara-gara lonjakan darah tinggi yang memicu serangan jantung dan meninggalkan tanggungan utang biaya rumah sakit," lanjutku tanpa suara bergetar. "Buat saya dan ibu saya, pakai jaket ojol di jalanan Jakarta atau bangun jam tiga subuh buat ngukus kue demi melunasi utang secara halal itu sama sekali bukan aib. Yang memalukan itu justru kalau punya banyak uang tapi dipakai buat memfitnah dan mematikan usaha kecil orang lain."
 
@@ -30,7 +30,7 @@ Pengacara di samping Vina sempat menarik lengan blazernya agar diam. Namun, Vina
 
 Aku menatap lurus ke arah Vina dengan tenang. "Terima kasih sudah menanyakan buktinya secara langsung, Mbak Vina."
 
-Aku menekan tombol *pointer* sekali lagi. Layar raksasa di belakangku berganti menampilkan rincian bukti lengkap: tangkapan layar instruksi *buzzer* berkode tagihan *INV/BMD-JKT/X/0892-VIP*, surat pernyataan bermeterai yang ditandatangani Reza Mahendra, hingga bukti transfer bank sebesar tiga puluh lima juta rupiah. Aku menoleh mempersilakan Pak Darmawan di mikrofon samping untuk membacakan temuan hukumnya.
+Aku menekan tombol pointer sekali lagi. Layar raksasa di belakangku berganti menampilkan rincian bukti lengkap: tangkapan layar instruksi buzzer berkode tagihan INV/BMD-JKT/X/0892-VIP, surat pernyataan bermeterai yang ditandatangani Reza Mahendra, hingga bukti transfer bank sebesar tiga puluh lima juta rupiah. Aku menoleh mempersilakan Pak Darmawan di mikrofon samping untuk membacakan temuan hukumnya.
 
 "Berdasarkan pengakuan resmi tertulis dari Saudara Reza Mahendra selaku pemilik agensi BuzzMedia Digital yang telah menyerahkan barang bukti kepada tim hukum kami kemarin sore," papar Pak Darmawan tegas, "seluruh penyebaran video fitnah dan ratusan ulasan palsu yang menyerang warung kue Bu Sumi dipesan serta dibayar lunas sebesar tiga puluh lima juta rupiah dari rekening pribadi Vina Rosalinda."
 

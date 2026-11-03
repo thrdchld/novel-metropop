@@ -189,13 +189,14 @@ Jangan bertanya lebih dari satu pertanyaan pembuka. Tunggu jawaban user.
 - Tanpa emoji, tanpa umpatan kasar, tanpa merek/tokoh publik nyata.
 - **Tanpa em dash (`—`):** Dilarang keras memakai em dash (`—`) di seluruh narasi maupun dialog novel.
 - **Tanpa quote/epigraph di atas bab:** Jangan menaruh quote atau epigraph sebelum teks bab.
+- **Tanpa simbol format teks (bold/italic/markup):** Seluruh naskah prosa bab di `story/` wajib berupa teks polos (*plain text*) tanpa simbol tanda bintang untuk menebalkan (`**teks**`), memiringkan (`*teks*`), mencoret (`~~teks~~`), maupun kutipan kode backtick. Format chat ditulis polos `Nama: Isi pesan`, email/surat ditulis polos, istilah asing/toko/kode ditulis polos tanpa miring, dan efek suara/monolog batin ditulis polos tanpa tanda bintang.
 - **Bebas dari AI slop dan bahasa baku kaku:** Wajib menggunakan bahasa percakapan sehari-hari orang Indonesia yang membumi, natural, dan segar; dilarang memakai frasa puitis artifisial buatan mesin.
 - **Eksperimentasi Berbasis Pola Terbukti:** Eksperimen alur, struktur hibrida, dan variasi bentuk naratif (buku harian, dua garis waktu, dual POV, epistolari) didukung penuh dengan mengambil inspirasi dari karya teruji, asalkan tetap lolos Uji 5 Slot dan Uji Logika Alur Cerita.
 - **Wajib periksa kontinuitas sebelum menulis:** Wajib membaca `story/<Judul>/state.md`, `canon.md`, `outline.md`, dan `ledger.md` serta menampilkan Gerbang Pra-Tulis Kontinuitas sebelum menulis bab berikutnya.
-- Istilah asing/kerja dijelaskan sekali secara inline.
+- Istilah asing/kerja dijelaskan sekali secara inline dan ditulis polos (tanpa huruf miring).
 - Setiap bab standar 600–900 kata (titik balik target 900; boleh dilonggarkan hingga maksimal 1.200 kata hanya jika benar-benar urgent agar tidak memotong kejadian penting), satu POV, satu adegan/beat, berakhir hook.
 - Format judul: `## Bab N: Judul`; judul 2–5 kata.
-- Chat: `**Nama:** *isi pesan*`; email/surat ditulis miring.
+- Chat: `Nama: Isi pesan` (polos tanpa tanda bintang); email/surat/dokumen ditulis polos sebagai paragraf biasa.
 - Bab 1 wajib in medias res (pilih **Tipe 1: Direct Action Linier** atau **Tipe 2: Flash-Forward Hook Framing** dengan rewind Bab 3 dan loop closure di midpoint; lihat `engine/06-chapter.md`).
 
 ## 5. Loop Setelah Menulis Bab

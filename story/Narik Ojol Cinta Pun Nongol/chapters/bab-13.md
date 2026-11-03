@@ -26,7 +26,7 @@ Vina memutar tubuhnya dengan kasar dan melangkah keluar dari ruangan Rian. Saat 
 
 Aku hanya menunduk diam dan menepuk tas selempang di pinggangku, menahan sabar agar tidak membalas. Di kepalaku sih pengin banget rasanya kubalas satu kalimat biar dia kicep kayak Tante Henny. Masalahnya, kalau suaraku dikenali di sini, penyamaranku tamat detik ini juga. Namun, saat Vina berdiri menunggu lift eksekutif di ujung koridor yang sepi, dia langsung menempelkan ponsel ke telinganya. Karena koridor lantai dua puluh empat itu cukup lengang di jam rapat, suaranya yang melengking terdengar jelas sampai ke tempatku berdiri.
 
-"Halo, Bang Dion? Gue bayar dua kali lipat hari ini juga," desis Vina di telepon dengan nada penuh emosi. "Pakai kenalan orang dalam lo di bagian parkir gedung sama hotel. Cek semua data *tap* kartu parkir VIP punya Rian Pratama hari Jumat sore minggu lalu. Gue mau tahu cewek itu datang naik apa!"
+"Halo, Bang Dion? Gue bayar dua kali lipat hari ini juga," desis Vina di telepon dengan nada penuh emosi. "Pakai kenalan orang dalam lo di bagian parkir gedung sama hotel. Cek semua data tap kartu parkir VIP punya Rian Pratama hari Jumat sore minggu lalu. Gue mau tahu cewek itu datang naik apa!"
 
 Pintu lift terbuka, dan Vina melangkah masuk dengan senyum sinis sebelum pintu lift itu tertutup rapat.
 
