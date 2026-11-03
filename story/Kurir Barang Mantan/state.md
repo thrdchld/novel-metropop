@@ -51,7 +51,7 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 |---|---|---|---|---|---|
 | **Dita & Adrian** | `Klien & Kurir Curiga` / `Musuh Awal` | `Sekutu Penyelidik` | `Rekan Seperjuangan & Tumbuh Rasa` (Retak sementara di Bab 25) | `Saling Menguatkan di Titik Terendah & Bersekutu Mutlak` | `Kekasih Nyata & Rekan Hidup Setara` |
 | **Adrian & Claudia** | `Mantan Tunangan Batal Nikah` | `Musuh Somasi Hukum` | `Sengketa Terbuka & Rekayasa Jahat` | `Konfrontasi Meja Penyidik` | `Putus Resmi & Saling Lepas Permanen` |
-| **Dita & Eko** | `Bos & Kurir Setia Kawan` | `Bos & Kurir Setia Kawan` | `Rekan Satu Tim Solid` | `Rekan Seperjuangan Tak Terpisahkan` | `Sahabat & Manajer Lapangan Beres Mantan` |
+| **Dita & Eko** | `Bos & Kurir Setia Kawan` | `Bos & Kurir Setia Kawan` | `Rekan Satu Tim Solid` | `Rekan Seperjuangan Tak Terpisahkan` | `Sahabat & Manajer Lapangan Bolu Ketan` |
 | **Dita & Pak Tejo** | `Penyewa Ruko & Pemilik Bijak` | `Mentor & Penasihat Realistis` | `Pelindung Markas & Penjaga Brankas` | `Penyelamat Semangat di Titik Nadir` | `Keluarga Angkat & Mitra Ruko Permanen` |
 
 > **PERINGATAN AUDIT HUBUNGAN:**
@@ -65,9 +65,9 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 
 | Benda / Aset | Lokasi Awal (Bab 1) | Lokasi Terkini | Pembawa / Penanggung Jawab | Fakta Validasi Fisik |
 |---|---|---|---|---|
-| **Koper Hitam Seserahan Claudia** | Apartemen Adrian (SCBD) | Apartemen Senopati (Bab 4) | Diserahkan Eko, diterima Siska | Berat koper tercatat 14,350 kg dengan segel lakban merah Beres Mantan. Berisi bahan kebaya, tas pesta, dan kain brokat. |
+| **Koper Hitam Seserahan Claudia** | Apartemen Adrian (SCBD) | Apartemen Senopati (Bab 4) | Diserahkan Eko, diterima Siska | Berat koper tercatat 14,350 kg dengan segel lakban merah Bolu Ketan. Berisi bahan kebaya, tas pesta, dan kain brokat. |
 | **Kotak Cincin Beludru Biru** | Tidak ada di koper sejak awal | Pegadaian Swasta Senopati | Dikuasai pihak pegadaian | Berisi cincin berlian warisan keluarga Adrian berukir laser `GIA-8921-PL`. Bobot padat 320 gram. |
-| **Timbangan Digital Gantung Beres Mantan** | Kantor Ruko Tebet | Kantor Ruko Tebet | Dita Maheswari | Timbangan presisi kalibrasi miligram dengan memori data digital. |
+| **Timbangan Digital Gantung Bolu Ketan** | Kantor Ruko Tebet | Kantor Ruko Tebet | Dita Maheswari | Timbangan presisi kalibrasi miligram dengan memori data digital. |
 | **Buku Manifes Fisik & Lembar Tanda Terima VIP** | Ruko Tebet | Ruko Tebet / Brankas Pak Tejo | Dita Maheswari | Ditandatangani Siska dengan foto segel utuh berlatar jam lobi apartemen. |
 | **Sertifikat Permata GIA Almarhum Ibu** | Brankas Rumah Keluarga Adrian | Dibawa Adrian (Bab 29) | Adrian Pratama | Mencatat nomor seri ukiran mikro laser `GIA-8921-PL`. |
 
@@ -117,9 +117,10 @@ Melacak kepemilikan informasi agar tidak terjadi "telepati narator":
 
 ## VII. Indikator Fakta Keras (Hard Facts Assertions)
 
-- Nama Agensi: **Beres Mantan** (jasa kurir logistik pengembalian barang mantan pihak ketiga berizin usaha perorangan).
-- Lokasi Kantor Beres Mantan: Ruko sewa dua lantai milik Pak Tejo di kawasan Tebet, perbatasan Kuningan, Jakarta Selatan.
-- Tim Inti Beres Mantan: Dita Maheswari (pendiri & admin), Eko (kurir lapangan utama & eks mekanik balap liar), Pak Tejo (mentor pemilik ruko).
+- Nama Agensi: **Bolu Ketan** (legal: CV Bolu Ketan Mandiri; kepanjangan: Bantu Orang Lepas Urusan Ketemu Mantan).
+- Running Gag Resmi: Sering dikira toko kue basah arisan, dikritik singkatannya terlalu maksa, dan Dita sangat muak mendengar komentar tersebut.
+- Lokasi Kantor Bolu Ketan: Ruko sewa dua lantai milik Pak Tejo di kawasan Tebet, perbatasan Kuningan, Jakarta Selatan.
+- Tim Inti Bolu Ketan: Dita Maheswari (pendiri & admin), Eko (kurir lapangan utama & eks mekanik balap liar), Pak Tejo (mentor pemilik ruko).
 - Kendaraan Operasional: Sepeda motor matik kargo boks belakang berlapis busa peredam getaran.
-- Tarif Standar Beres Mantan: Paket Biasa (kardus buku/baju) Rp150 ribu, Paket VIP (koper/barang berharga bersegel asuransi) Rp500 ribu.
+- Tarif Standar Bolu Ketan: Paket Biasa (kardus buku/baju) Rp150 ribu, Paket VIP (koper/barang berharga bersegel asuransi) Rp500 ribu.
 - Nilai Cincin Warisan: Ditaksir sekitar Rp120 juta (emas putih bertatahkan berlian solitaire 1,2 karat dengan ukiran mikro laser `GIA-8921-PL`).

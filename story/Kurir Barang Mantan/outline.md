@@ -15,7 +15,7 @@
 ## Premis & Peta Kerangka
 
 - **Logline:** Dita Maheswari, pendiri rintisan kurir pengembalian barang mantan pacar tanpa tatap muka yang sinis pada cinta, terancam dipenjara saat seorang sosialita menuduh agensinya mencuri cincin tunangan ratusan juta, memaksanya bersekutu dengan mantan tunangan sang sosialita untuk membongkar kebohongan dalam tenggat somasi 14 hari.
-- **Pertanyaan Dramatik:** Bisakah Dita dan Adrian membuktikan rekayasa cincin palsu Claudia sebelum tenggat somasi 14 hari memenjarakan Dita dan menghancurkan Beres Mantan?
+- **Pertanyaan Dramatik:** Bisakah Dita dan Adrian membuktikan rekayasa cincin palsu Claudia sebelum tenggat somasi 14 hari memenjarakan Dita dan menghancurkan Bolu Ketan?
 - **Tenggat Luar:** 14 hari kalender masa berlaku surat somasi hukum sebelum pelimpahan berkas perkara pidana ke penyidikan kepolisian.
 - **Hook / Dunia Awal (0-10%):** Bab 1-3
 - **Plot Turn 1 / Pemicu Masalah (10-20%):** Bab 4-7 (Video viral, surat somasi tiba, labrakan kantor SCBD)
@@ -35,7 +35,7 @@
 
 | Babak / Bagian | Bab | Jumlah | Fungsi Dramatik |
 |---|---|---:|---|
-| **Babak 1 (Dunia Awal & Pemicu Somasi)** | 1-8 | 8 | Bisnis Beres Mantan, pesanan koper seserahan Adrian, pengantaran Senopati, video viral, somasi 14 hari, aliansi darurat. |
+| **Babak 1 (Dunia Awal & Pemicu Somasi)** | 1-8 | 8 | Bisnis Bolu Ketan, pesanan koper seserahan Adrian, pengantaran Senopati, video viral, somasi 14 hari, aliansi darurat. |
 | **Babak 2A (Penyelidikan Awal & Dinamika Partner)** | 9-16 | 8 | Bedah timbangan 14,350 kg, mi rebus balkon, CCTV apartemen, drama kurir Eko, asisten Claudia, salah paham mertua di mal. |
 | **Titik Tengah (Midpoint)** | 17-18 | 2 | Badai banjir kolong jembatan, kerapuhan batin berdua, temuan riwayat pegadaian swasta Senopati Rp65 juta. |
 | **Babak 2B (Tekanan Memuncak & Titik Terendah)** | 19-27 | 9 | Teror buzzer medsos, intimidasi Tante Mona, interogasi Polres, penyusupan pegadaian, ruko disegel, Dita menyerah di loteng. |
@@ -62,29 +62,31 @@
 - **Posisi Kerangka:** Hook / Dunia Awal.
 - **Skor Ketegangan & Emosi:** 4/10 | Masuk: Fokus kerja profesional -> Keluar: Lega tapi makin sinis pada drama romansa.
 - **Tujuan Adegan:** Dita mengantarkan kardus berisi tumpukan surat dan pakaian mantan pacar kepada seorang pemuda yang patah hati.
-- **Komplikasi:** Klien penerima menangis histeris di pagar kos dan mencoba menitipkan surat balasan panjang yang melanggar SOP agensi Beres Mantan.
+- **Komplikasi:** Klien penerima menangis histeris di pagar kos dan mencoba menitipkan surat balasan panjang yang melanggar SOP agensi Bolu Ketan.
 - **Beat Adegan:**
-  1. Dita memarkir motor matik kargo Beres Mantan dan menurunkan kardus bersegel rapi.
+  1. Dita memarkir motor matik kargo Bolu Ketan dan menurunkan kardus bersegel rapi.
   2. Pemuda kos keluar dengan mata sembap dan mencoba mengajak Dita berdebat soal alasan putusnya.
   3. Dita memotong perdebatan dengan etos logistik: timbangan pas, tanda tangan digital, dan tidak menerima titipan curhat.
   4. Dita kembali ke motor, menegaskan filosofi hidupnya: cinta adalah komplikasi yang tidak efisien.
 - **Hasil:** `Berhasil, tapi...` Pengantaran tuntas dibayar lunas via QRIS, tapi Dita mendapati jadwal pesanan di ruko Tebet masih sepi untuk menutup sewa bulan depan.
 - **Asimetri Pengetahuan:** Pembaca tahu Dita mengelola agensi unik berizin resmi, tapi belum tahu luka masa lalunya yang batal nikah.
-- **Setup/Planting:** Penggunaan timbangan digital gantung dan lakban segel merah Beres Mantan.
+- **Setup/Planting:** Penggunaan timbangan digital gantung dan lakban segel merah Bolu Ketan.
 - **Hook Akhir:** Sebuah panggilan masuk dari nomor kantor kawasan SCBD meminta paket pengantaran VIP darurat bernilai puluhan juta rupiah.
 
 ### Bab 2: Tamu Rapi Bawa Masalah
-- **Waktu & Lokasi:** Senin sore (16.00 WIB), kantor ruko Beres Mantan lantai dua, Tebet.
+- **Waktu & Lokasi:** Senin sore (16.00 WIB), kantor ruko Bolu Ketan lantai dua, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Inciting Incident Awal / Pertemuan Tokoh Utama.
 - **Skor Ketegangan & Emosi:** 5/10 | Masuk: Siaga bisnis -> Keluar: Tergiur tarif VIP tapi curiga pada kerapian sang tamu.
 - **Tujuan Adegan:** Melayani calon klien baru yang datang langsung membawa koper hitam eksklusif.
 - **Komplikasi:** Pria necis berjas katun halus (Adrian) tampak sangat tertekan, gugup, dan bersikeras agar koper seserahan lamaran keluarga besar akibat batal nikah diantar tanpa ia harus bertemu mantan tunangannya.
 - **Beat Adegan:**
-  1. Adrian melangkah masuk ke ruko Dita yang dipenuhi tumpukan kardus barang mantan.
-  2. Adrian menjelaskan ia baru membatalkan pernikahannya dan ingin mengembalikan seluruh barang seserahan lamaran pemberian keluarga Claudia.
-  3. Dita menerapkan SOP ketat: memeriksa berat koper di timbangan digital (tercatat persis 14,350 kg) dan menyegelnya dengan lakban merah bertanda tangan.
-  4. Adrian membayar biaya paket VIP sebesar Rp500 ribu tunai dan meminta koper diantar besok siang ke apartemen Senopati.
+  1. Adrian melangkah ragu masuk ke ruko Dita sambil menatap plang nama: ia mengira ini ruko pesanan kue basah atau bolu ketan hitam untuk arisan ibu-ibu.
+  2. Adrian menanyakan apakah benar ini jasa logistik; Dita dengan nada datar menjelaskan kepanjangan Bolu Ketan: Bantu Orang Lepas Urusan Ketemu Mantan.
+  3. Adrian mencibir spontan bahwa singkatannya terlalu maksa dan menanyakan huruf TAN diambil dari mana; Dita yang sudah muak setengah mati langsung meledak menyemprot Adrian: "Iya, gue tahu singkatannya maksa! Sekarang Mas mau debat fonetik bahasa Indonesia atau mau beresin koper Mas yang bikin sial itu?!"
+  4. Adrian tertegun kicep, lalu menjelaskan ia baru batal nikah dan ingin mengembalikan koper hantaran seserahan keluarga besar Claudia tanpa tatap muka.
+  5. Dita menerapkan SOP ketat: memeriksa berat koper di timbangan digital (tercatat persis 14,350 kg) dan menyegelnya dengan lakban merah bertanda tangan.
+  6. Adrian membayar biaya paket VIP sebesar Rp500 ribu tunai dan meminta koper diantar besok siang ke apartemen Senopati.
 - **Hasil:** `Berhasil, tapi...` Dita mendapatkan pemasukan kas segar, tapi Dita melihat Adrian meninggalkan map tanpa memeriksa kembali isi dalam koper karena terlalu enggan melihat kenangan masa lalunya.
 - **Asimetri Pengetahuan:** Dita dan Adrian tahu koper disegel utuh dengan berat 14,350 kg; keduanya tidak tahu bahwa Claudia sudah merencanakan skenario penjebakan.
 - **Setup/Planting (Planting 1):** Angka berat koper 14,350 kg dicatat di buku manifes fisik dan difoto di ponsel Dita.
@@ -128,16 +130,16 @@
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Ekspansi Komedi & Operasional Jalanan.
 - **Skor Ketegangan & Emosi:** 3/10 | Masuk: Pusing mikir omzet -> Keluar: Malu tapi tertawa sendiri.
-- **Tujuan Adegan:** Menambah pelanggan baru untuk menutup kas operasional ruko Beres Mantan.
+- **Tujuan Adegan:** Menambah pelanggan baru untuk menutup kas operasional ruko Bolu Ketan.
 - **Komplikasi:** Eko berinisiatif mencetak ratusan brosur warna merah muda mencolok bergambar hati retak dan menyebarkannya ke pengendara mobil yang terjebak macet.
 - **Beat Adegan:**
   1. Dita memergoki Eko membagikan brosur di jalur lambat Rasuna Said dengan gaya ala sales mobil mewah.
   2. Beberapa pengendara tertawa geli, ada yang memotret brosur kocak itu dan mengunggahnya ke status WhatsApp.
   3. Dita menegur Eko soal izin edar, tapi seorang ibu-ibu dari dalam mobil sedan kaca gelap langsung memanggil Dita untuk konsultasi kilat barang mantan suaminya.
-  4. Bisnis Beres Mantan tampak mulai mendapat angin segar di kalangan masyarakat kota yang butuh kepraktisan emosional.
-- **Hasil:** `Berhasil, tapi...` Mendapat dua pesanan pengantaran kardus baju biasa, tapi nama Beres Mantan mulai terpantau oleh jejaring media sosial perkotaan.
+  4. Bisnis Bolu Ketan tampak mulai mendapat angin segar di kalangan masyarakat kota yang butuh kepraktisan emosional.
+- **Hasil:** `Berhasil, tapi...` Mendapat dua pesanan pengantaran kardus baju biasa, tapi nama Bolu Ketan mulai terpantau oleh jejaring media sosial perkotaan.
 - **Asimetri Pengetahuan:** Dita mengira popularitas lokal ini pertanda berkah rezeki; belum sadar badai fitnah sedang dimasak di Senopati.
-- **Hook Akhir:** Saat Dita meneguk es teh manis di warung pinggir jalan, notifikasi ponsel Eko berbunyi bertubi-tubi: akun Beres Mantan ditandai di video trending Twitter.
+- **Hook Akhir:** Saat Dita meneguk es teh manis di warung pinggir jalan, notifikasi ponsel Eko berbunyi bertubi-tubi: akun Bolu Ketan ditandai di video trending Twitter.
 
 ### Bab 6: Viral Gara-Gara Cincin
 - **Waktu & Lokasi:** Rabu pagi (07.30 WIB), meja kerja ruko Tebet.
@@ -148,9 +150,9 @@
 - **Komplikasi:** Video seorang wanita cantik menangis histeris di samping koper hitam terbuka ditonton lebih dari 500 ribu kali; ia menuduh kurir mencuri cincin lamaran berlian Rp120 juta.
 - **Beat Adegan:**
   1. Eko berlari panik ke lantai dua ruko menyodorkan layar ponselnya.
-  2. Dita menonton video akun @claudia_style yang memperlihatkan lakban segel merah Beres Mantan yang sudah sobek compang-camping.
+  2. Dita menonton video akun @claudia_style yang memperlihatkan lakban segel merah Bolu Ketan yang sudah sobek compang-camping.
   3. Claudia mengklaim koper dibuka di depan saksi dan kotak cincin warisan keluarga raib, menuduh kurir motor sebagai sindikat penggelapan perhiasan.
-  4. Kolom komentar dibanjiri hujatan warganet yang menyerukan pemboikotan Beres Mantan dan desakan lapor polisi.
+  4. Kolom komentar dibanjiri hujatan warganet yang menyerukan pemboikotan Bolu Ketan dan desakan lapor polisi.
 - **Hasil:** `Gagal telak!`: Reputasi rintisan Dita hancur dalam semalam, telepon kantor berdering non-stop dari orang iseng dan klien yang membatalkan pesanan.
 - **Asimetri Pengetahuan:** Claudia merekayasa koper terbuka di kamarnya; Dita tahu koper diserahkan dalam kondisi segel utuh di lobi.
 - **Hook Akhir:** Pintu ruko diketuk keras oleh kurir pos kilat bermotor yang menyodorkan amplop cokelat tebal berlogo firma hukum elit Jakarta.
@@ -188,7 +190,7 @@
 - **Hook Akhir:** Dita melipat surat somasi: "Kalau lo nggak mau kita berdua masuk bui bareng, mulai besok lo kerja buat gue untuk buktiin Claudia bohong."
 
 ### Bab 9: Timbangan Nggak Pernah Bohong
-- **Waktu & Lokasi:** Kamis pagi (08.30 WIB), meja kerja Beres Mantan, Tebet.
+- **Waktu & Lokasi:** Kamis pagi (08.30 WIB), meja kerja Bolu Ketan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Penguatan Aliansi & Investigasi Ilmiah Awal.
 - **Skor Ketegangan & Emosi:** 5/10 | Masuk: Serius analitis -> Keluar: Menemukan celah pertama bukti fisik.
@@ -229,7 +231,7 @@
 - **Tujuan Adegan:** Meminta rekaman CCTV lobi saat Eko menyerahkan koper kepada asisten Claudia.
 - **Komplikasi:** Kepala sekuriti apartemen bersikap arogan, menyatakan CCTV hanya boleh dibuka atas surat perintah pengadilan atau permintaan penghuni VIP.
 - **Beat Adegan:**
-  1. Dita dan Adrian mendatangi ruang manajemen apartemen dengan lembar tanda terima resmi Beres Mantan.
+  1. Dita dan Adrian mendatangi ruang manajemen apartemen dengan lembar tanda terima resmi Bolu Ketan.
   2. Kepala sekuriti mencibir agensi kurir Dita dan menolak memutar rekaman tanpa izin resmi dari unit Claudia.
   3. Adrian mencoba menggunakan statusnya sebagai mantan tunangan penghuni, tapi manajemen menegaskan kartu aksesnya sudah dicabut oleh Claudia.
   4. Terjadi adu mulut panas hingga satpam mengancam memanggil polisi pangkalan jika mereka tidak segera meninggalkan lobi.
@@ -242,14 +244,14 @@
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Ekspansi Komplikasi Operasional & Dunia Kurir.
 - **Skor Ketegangan & Emosi:** 5/10 | Masuk: Panik bercampur emosi -> Keluar: Tertolong oleh kecerdikan bersama.
-- **Tujuan Adegan:** Menyelamatkan krisis pengantaran harian Beres Mantan yang kacau saat Dita sibuk mengurus kasus koper.
+- **Tujuan Adegan:** Menyelamatkan krisis pengantaran harian Bolu Ketan yang kacau saat Dita sibuk mengurus kasus koper.
 - **Komplikasi:** Eko yang kelelahan salah menempel resi: paket kemeja batik pesanan seorang istri untuk selingkuhannya malah terkirim ke meja kerja bos besar di kantor Adrian.
 - **Beat Adegan:**
   1. Dita mendapat telepon histeris dari Eko yang gemetar di lobi menara kantor SCBD.
   2. Dita dan Adrian buru-buru meluncur ke kantor SCBD sebelum paket kemeja tersebut dibuka oleh sekretaris direksi.
   3. Adrian memanfaatkan akses pintu darurat staf untuk menukar kembali kardus paket sebelum insiden memalukan itu meledak di kantor.
   4. Dita melihat bagaimana Adrian yang biasanya kaku bisa bergerak taktis dan melindunginya dari amukan petugas kebersihan kantor.
-- **Hasil:** `Berhasil, tapi...` Paket selamat dan rahasia klien aman, tetapi Dita menyadari bahwa Beres Mantan tidak bisa terus beroperasi pincang di bawah bayang-bayang somasi.
+- **Hasil:** `Berhasil, tapi...` Paket selamat dan rahasia klien aman, tetapi Dita menyadari bahwa Bolu Ketan tidak bisa terus beroperasi pincang di bawah bayang-bayang somasi.
 - **Asimetri Pengetahuan:** Rekan kantor Adrian mulai berbisik-bisik melihat kedekatan Adrian dengan wanita berjaket kurir logistik.
 - **Hook Akhir:** Saat mereka kembali ke motor di parkiran basement, ponsel Adrian bergetar menerima pesan teks rahasia dari nomor tak dikenal: "Kalau mau tahu soal cincin, temui gue di kosan Slipi malam ini."
 
@@ -308,7 +310,7 @@
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Tekanan Lingkungan & Loyalitas Tim Jalanan.
 - **Skor Ketegangan & Emosi:** 5/10 | Masuk: Waspada -> Keluar: Solidaritas jalanan terbangun kuat.
-- **Tujuan Adegan:** Mengamankan rute pengantaran Beres Mantan dari gangguan intimidasi oknum pangkalan sekitar.
+- **Tujuan Adegan:** Mengamankan rute pengantaran Bolu Ketan dari gangguan intimidasi oknum pangkalan sekitar.
 - **Komplikasi:** Pangkalan kurir liar sebelah ruko disusupi oknum provokator bayaran yang menyebarkan desas-desus bahwa ruko Dita sarang penadah barang curian.
 - **Beat Adegan:**
   1. Ban motor kargo Eko ditemukan kempes ditusuk paku payung di depan gerbang ruko.
@@ -350,7 +352,7 @@
   2. Staf kasir pegadaian mengonfirmasi bahwa cincin berlian mata tunggal memang digadaikan dengan nilai taksiran pinjaman Rp65 juta tunai.
   3. Dita memotret layar monitor kasir yang menampilkan tanggal, jam, dan foto Claudia saat menandatangani nota gadai.
   4. Petugas keamanan menyadari ada pemotretan tanpa izin dan langsung mengusir Dita dan Adrian keluar dari gerai.
-- **Hasil:** `Berhasil separuh`: Bukti digital dan foto monitor di tangan, membuktikan secara mutlak bahwa cincin tidak pernah ada di dalam koper saat diserahkan ke kurir Beres Mantan!
+- **Hasil:** `Berhasil separuh`: Bukti digital dan foto monitor di tangan, membuktikan secara mutlak bahwa cincin tidak pernah ada di dalam koper saat diserahkan ke kurir Bolu Ketan!
 - **Asimetri Pengetahuan:** Dita dan Adrian kini memegang bukti telak kebohongan Claudia; Claudia belum tahu rahasia pegadaiannya telah terbongkar.
 - **Setup/Planting:** Angka transaksi Rp65 juta dan nama gerai pegadaian Senopati tercatat rapi di ponsel Dita.
 - **Hook Akhir:** Saat mereka melangkah keluar gerai, sebuah unggahan baru di akun gosip selebriti mendadak viral: video editan pertengkaran Dita di Senayan City diputarbalikkan menjadi fitnah baru.
@@ -364,11 +366,11 @@
 - **Komplikasi:** Puluhan akun bot dan buzzer bayaran menyebarkan foto-foto masa lalu Dita yang gagal nikah, menjulukinya sebagai kurir penipu spesialis pengincar barang mewah mantan klien.
 - **Beat Adegan:**
   1. Dita terbangun oleh dering notifikasi ponsel tanpa henti yang membuat baterainya panas mendidih.
-  2. Akun media sosial Beres Mantan dibanjiri bintang satu di Google Maps dengan ulasan palsu massal.
+  2. Akun media sosial Bolu Ketan dibanjiri bintang satu di Google Maps dengan ulasan palsu massal.
   3. Mantan pacar Dita, Riko, mengirim pesan WhatsApp mencemooh nasib Dita yang dianggap kena karma karena menolak jalan damai.
   4. Dita gemetar menahan tangis membaca ujaran kebencian anonim yang menyerang fisik dan martabat keluarganya di kampung.
   5. Telepon dari Adrian masuk tepat pukul setengah empat subuh, suara Adrian tenang menenangkan Dita dan berjanji akan menjemputnya sekarang juga.
-- **Hasil:** `Gagal menahan serangan siber`: Agensi Beres Mantan lumpuh total secara online, tetapi ikatan emosional Dita dan Adrian justru semakin rekat.
+- **Hasil:** `Gagal menahan serangan siber`: Agensi Bolu Ketan lumpuh total secara online, tetapi ikatan emosional Dita dan Adrian justru semakin rekat.
 - **Asimetri Pengetahuan:** Claudia menyewa agensi buzzer digital dengan sisa uang pinjaman pegadaian untuk menenggelamkan bukti Dita sebelum hari ke-14.
 - **Hook Akhir:** Kaca jendela kamar kos Dita di lantai bawah dilempari kerikil kecil dari arah gang sempit.
 
@@ -381,7 +383,7 @@
 - **Komplikasi:** Tante Mona hadir membawa pengacara arogan, menawarkan penyelesaian damai asalkan Dita dan Adrian tutup mulut soal pegadaian.
 - **Beat Adegan:**
   1. Tante Mona duduk menyilangkan kaki dengan tas bermerek di pangkuan, menatap Dita seperti menatap serangga pengganggu.
-  2. Pengacara keluarga menawarkan uang ganti rugi Rp20 juta untuk Beres Mantan asalkan Dita menandatangani surat pengakuan lalai operasional.
+  2. Pengacara keluarga menawarkan uang ganti rugi Rp20 juta untuk Bolu Ketan asalkan Dita menandatangani surat pengakuan lalai operasional.
   3. Dita menolak mentah-mentah tawaran uang tutup mulut tersebut karena menandatangani berarti menghancurkan integritas hidupnya selamanya.
   4. Tante Mona mengancam akan menghancurkan karier Adrian di kantor interior dan memastikan nama Dita masuk daftar hitam kepolisian.
   5. Adrian berdiri membela Dita, merobek draf surat damai di depan muka Tante Mona.
@@ -399,7 +401,7 @@
 - **Beat Adegan:**
   1. Adrian terduduk lesu di kursi plastik kedai kopi, mendengarkan bentakan ayahnya di speaker ponsel.
   2. Keluarga Adrian menawarkan jalan pintas: menebus cincin di pegadaian dengan uang pribadi keluarga, lalu menutup kasus ini secara diam-diam tanpa ada pengakuan salah dari Claudia.
-  3. Dita menyadari bahwa jika opsi itu diambil, nama Beres Mantan akan selamanya tercatat di internet sebagai kurir bermasalah yang lolos karena uang damai.
+  3. Dita menyadari bahwa jika opsi itu diambil, nama Bolu Ketan akan selamanya tercatat di internet sebagai kurir bermasalah yang lolos karena uang damai.
   4. Adrian bingung memilih antara menyelamatkan martabat keluarganya atau memperjuangkan keadilan nama baik Dita.
 - **Hasil:** `Berhasil menahan diri dari kompromi busuk, tapi...` Hubungan keduanya menegang akibat benturan kelas sosial dan tekanan keluarga besar.
 - **Asimetri Pengetahuan:** Dita merasa Adrian mulai goyah dan takut Adrian akan meninggalkannya seperti mantan tunangannya dulu.
@@ -410,7 +412,7 @@
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Ekspansi Penyelidikan Lapangan & Keterlibatan Eko-Pak Tejo.
 - **Skor Ketegangan & Emosi:** 7/10 | Masuk: Tegang menyusup -> Keluar: Mengantongi bukti transfer dana gelap.
-- **Tujuan Adegan:** Membongkar siapa yang membayar buzzer media sosial untuk menyerang Beres Mantan.
+- **Tujuan Adegan:** Membongkar siapa yang membayar buzzer media sosial untuk menyerang Bolu Ketan.
 - **Komplikasi:** Eko memanfaatkan koneksi lamanya dengan anak-anak balap liar yang kini bekerja sampingan sebagai kurir di ruko agensi buzzer.
 - **Beat Adegan:**
   1. Dita memakai topi dan jaket kurir polos, duduk bersama Pak Tejo di warung kopi seberang ruko buzzer.
@@ -418,7 +420,7 @@
   3. Eko pura-pura meminjam kabel charger di meja admin dan memotret manifes kampanye hitam yang mencantumkan nama pemesan: Tante Mona.
   4. Pak Tejo mengalihkan perhatian satpam komplek ruko dengan obrolan catur dan rokok kretek saat Eko keluar membawa data.
 - **Hasil:** `Berhasil gemilang`: Bukti pembayaran buzzer dari rekening Tante Mona berhasil didokumentasikan Eko di ponselnya!
-- **Asimetri Pengetahuan:** Tim Beres Mantan kini punya bukti konspirasi pencemaran nama baik; kubu Claudia belum menyadari kebocoran ini.
+- **Asimetri Pengetahuan:** Tim Bolu Ketan kini punya bukti konspirasi pencemaran nama baik; kubu Claudia belum menyadari kebocoran ini.
 - **Hook Akhir:** Saat Eko melompat naik ke boncengan motor Dita, dua orang pria berbadan tegap keluar dari ruko buzzer sambil berteriak menunjuk motor mereka.
 
 ### Bab 23: Panggilan Klarifikasi Polres
@@ -463,7 +465,7 @@
 - **Komplikasi:** Adrian mengeluarkan gelang emas rantai peninggalan almarhum ibunya yang baru saja ditebusnya menggunakan sisa tabungan terakhirnya untuk biaya jaminan.
 - **Beat Adegan:**
   1. Dita mendesak Adrian membuka sakunya di tengah kerumunan antrean halte busway yang padat.
-  2. Dita salah paham, mengira Adrian diam-diam bernegosiasi menebus barang Claudia di belakang punggungnya demi mengorbankan Beres Mantan.
+  2. Dita salah paham, mengira Adrian diam-diam bernegosiasi menebus barang Claudia di belakang punggungnya demi mengorbankan Bolu Ketan.
   3. Terjadi adu mulut sengit di bawah jembatan penyeberangan orang; trauma pengkhianatan masa lalu Dita meledak keluar tanpa kendali.
   4. Dita menuduh Adrian sama saja seperti Riko: pria pengecut berdasi yang pada akhirnya akan selalu mengorbankan perempuan demi menyelamatkan nama keluarga elitnya.
   5. Adrian terpukul oleh tuduhan kejam itu; matanya memerah menahan sakit hati karena seluruh pengorbanannya dianggap sebagai kepalsuan belaka.
@@ -472,19 +474,19 @@
 - **Hook Akhir:** Dita menaiki bus Transjakarta dengan air mata mengalir deras, menyadari bahwa ia telah menghancurkan satu-satunya orang yang tulus berdiri di sisinya.
 
 ### Bab 26: Surat Peringatan Ketiga
-- **Waktu & Lokasi:** Senin malam (20.30 WIB), depan ruko Beres Mantan, Tebet.
+- **Waktu & Lokasi:** Senin malam (20.30 WIB), depan ruko Bolu Ketan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Eskalasi Bencana Nyata / Isolasi Total.
 - **Skor Ketegangan & Emosi:** 9/10 | Masuk: Hampa putus asa -> Keluar: Kehilangan markas perjuangan.
 - **Tujuan Adegan:** Kembali ke kantor untuk mengemas barang-barang penting sebelum polisi datang besok pagi.
-- **Komplikasi:** Pintu rolling door ruko Beres Mantan telah ditempeli stiker segel merah penertiban lingkungan dan rantai gembok besar dari pemilik tanah.
+- **Komplikasi:** Pintu rolling door ruko Bolu Ketan telah ditempeli stiker segel merah penertiban lingkungan dan rantai gembok besar dari pemilik tanah.
 - **Beat Adegan:**
   1. Dita tiba di ruko dan mendapati Eko sedang duduk lesu di undakan tangga bersama kardus-kardus inventaris kantor.
   2. Pemilik tanah ruko memutus kontrak sewa secara sepihak akibat desakan warga yang resah oleh teror buzzer dan ancaman preman bayaran.
   3. Pak Tejo sudah berusaha menengahi dengan pemilik tanah, namun ancaman hukum dari pengacara Claudia membuat pemilik ruko ketakutan terseret kasus pidana.
-  4. Seluruh kas operasional Beres Mantan ludes; Dita tidak punya uang lagi untuk membayar ganti rugi atau menyewa pengacara tandingan.
+  4. Seluruh kas operasional Bolu Ketan ludes; Dita tidak punya uang lagi untuk membayar ganti rugi atau menyewa pengacara tandingan.
   5. Eko menawarkan sepeda motornya untuk dijual demi menolong Dita, namun Dita menolak keras menyeret anak buahnya ke jurang kemiskinan.
-- **Hasil:** `Titik kehancuran bisnis`: Agensi Beres Mantan resmi terusir ke jalanan; tidak ada kantor, tidak ada uang, dan tidak ada sekutu tersisa.
+- **Hasil:** `Titik kehancuran bisnis`: Agensi Bolu Ketan resmi terusir ke jalanan; tidak ada kantor, tidak ada uang, dan tidak ada sekutu tersisa.
 - **Asimetri Pengetahuan:** Dita mengira perjuangannya telah berakhir secara tragis di trotoar Tebet.
 - **Hook Akhir:** Hujan deras kembali mengguyur kota Jakarta; Dita membawa sebuah kardus arsip menaiki tangga sempit menuju loteng ruko Pak Tejo yang bocor.
 
@@ -518,7 +520,7 @@
   3. Pak Tejo menegaskan bahwa luka masa lalu diciptakan bukan untuk membuat manusia membangun penjara sinisme, melainkan kompas untuk memilih orang yang tepat.
   4. Pak Tejo menyerahkan sebuah amplop kecil berisi uang tabungan pensiunnya sebesar Rp5 juta: "Bukan buat bayar ganti rugi Claudia, Dit. Tapi buat ongkos lo tegak berdiri di depan meja penyidik nanti."
   5. Air mata Dita menetes ke cangkir kopinya, bukan lagi tangisan putus asa, melainkan rasa syukur mendalam atas ketulusan seorang mentor.
-- **Hasil:** `Mental protagonis bangkit`: Dita menolak menyerah tanpa perlawanan terhormat; ia berjanji akan membela martabat Beres Mantan sampai titik darah penghabisan.
+- **Hasil:** `Mental protagonis bangkit`: Dita menolak menyerah tanpa perlawanan terhormat; ia berjanji akan membela martabat Bolu Ketan sampai titik darah penghabisan.
 - **Asimetri Pengetahuan:** Pak Tejo tahu bahwa Adrian sudah menunggu di bawah sejak pukul empat subuh.
 - **Hook Akhir:** Saat Dita melangkah menuruni tangga ruko, sosok Adrian berdiri di depan pintu pagar dengan pakaian kusut dan sebuah map merah di tangannya.
 
@@ -545,14 +547,14 @@
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Konsolidasi Pasukan / All-In Attack.
 - **Skor Ketegangan & Emosi:** 8/10 | Masuk: Detik-detik kritis -> Keluar: Pasukan siap tempur.
-- **Tujuan Adegan:** Menyiapkan strategi penyerahan bukti hukum dan membagi peran tim kecil Beres Mantan.
+- **Tujuan Adegan:** Menyiapkan strategi penyerahan bukti hukum dan membagi peran tim kecil Bolu Ketan.
 - **Komplikasi:** Jalanan protokol Sudirman-Kuningan dikabarkan macet total akibat kecelakaan truk kontainer di jembatan Semanggi.
 - **Beat Adegan:**
   1. Dita menggelar peta jalanan tikus Jakarta di atas kap mesin motor kargo Eko.
   2. Eko bertugas membawa salinan bukti digital dan manifes timbangan lewat jalur tikus perkampungan untuk menghindari kemacetan.
-  3. Pak Tejo bersama rekan sesama pemilik ruko meluncur ke kantor kecamatan untuk membawa surat rekomendasi izin usaha resmi Beres Mantan.
+  3. Pak Tejo bersama rekan sesama pemilik ruko meluncur ke kantor kecamatan untuk membawa surat rekomendasi izin usaha resmi Bolu Ketan.
   4. Adrian menghubungi kantor hukum rekanan kuliahnya yang bersedia menjadi kuasa hukum pendamping di Polres tanpa bayaran demi keadilan etika profesi.
-  5. Dita mengenakan kembali rompi kurir Beres Mantan dengan kepala tegak: "Hari ini kita buktiin bahwa orang jujur nggak gampang diinjak-injak di kota ini."
+  5. Dita mengenakan kembali rompi kurir Bolu Ketan dengan kepala tegak: "Hari ini kita buktiin bahwa orang jujur nggak gampang diinjak-injak di kota ini."
 - **Hasil:** `Strategi siap eksekusi`: Seluruh elemen tim bergerak serentak menembus kemacetan ibukota menuju kantor kepolisian.
 - **Asimetri Pengetahuan:** Tante Mona dan Claudia sudah duduk santai di ruang penyidik Polres menanti penetapan status tersangka Dita.
 - **Hook Akhir:** Suara raungan knalpot motor Eko membelah kesunyian gang Tebet: "Gaspol, Mbak Dita! Pantang rem sebelum keadilan lunas!"
@@ -599,12 +601,12 @@
 - **Tujuan Adegan:** Mematahkan seluruh dakwaan penggelapan cincin melalui hantaman bukti ilmiah dan hukum.
 - **Komplikasi:** Pengacara Claudia masih mencoba berkilah bahwa selisih berat timbangan hanyalah kesalahan teknis timbangan murah kurir motor.
 - **Beat Adegan:**
-  1. Dita meletakkan buku manifes fisik asli Beres Mantan di meja penyidik: menunjukkan berat koper saat diserahkan Adrian persis 14,350 kg dengan segel lakban merah bernomor seri.
+  1. Dita meletakkan buku manifes fisik asli Bolu Ketan di meja penyidik: menunjukkan berat koper saat diserahkan Adrian persis 14,350 kg dengan segel lakban merah bernomor seri.
   2. Dita mengeluarkan timbangan digital bersertifikat metrologi resmi: membuktikan bahwa kotak cincin beludru berbobot 320 gram tidak pernah masuk ke dalam koper sejak dari ruko.
   3. Adrian mengeluarkan kartu pamungkas: meletakkan sertifikat permata GIA almarhum ibunya dengan nomor seri laser mikro `GIA-8921-PL`.
   4. Darmawan menyodorkan lembar konfirmasi database resmi gerai Gadai Swasta Mulia Senopati yang mencatat nomor seri laser yang sama persis atas nama penerima dana Claudia senilai Rp65 juta!
   5. Penyidik menatap Claudia dengan sorot mata tajam; wajah Claudia berubah pucat seputih kertas dan tangannya gemetar hebat di atas meja.
-- **Hasil:** `Kemenangan mutlak 100%!`: Penyidik menyatakan bukti forensik nomor seri laser dan manifes timbangan sah menggugurkan seluruh tuduhan penggelapan terhadap Beres Mantan!
+- **Hasil:** `Kemenangan mutlak 100%!`: Penyidik menyatakan bukti forensik nomor seri laser dan manifes timbangan sah menggugurkan seluruh tuduhan penggelapan terhadap Bolu Ketan!
 - **Asimetri Pengetahuan:** Seluruh ruangan kini tahu Claudia telah menggadaikan cincin keluarga demi menutupi utang arisan dan membuat laporan palsu untuk memeras mantan tunangannya.
 - **Hook Akhir:** Penyidik mengetuk meja dengan bolpoinnya: "Saudari Claudia, membuat laporan palsu dan fitnah pencemaran nama baik memiliki ancaman pidana empat tahun penjara. Mau diselesaikan sekarang atau kita buatkan LP baru?"
 
@@ -616,21 +618,21 @@
 - **Tujuan Adegan:** Memastikan surat pencabutan somasi ditandatangani bermeterai dan video klarifikasi diunggah ke publik.
 - **Komplikasi:** Tante Mona masih berusaha berdalih agar masalah ini diselesaikan secara kekeluargaan tanpa perlu video klarifikasi medsos yang memalukan gengsi keluarganya.
 - **Beat Adegan:**
-  1. Di depan penyidik dan pengacara, Claudia menandatangani surat resmi pencabutan somasi dan pengakuan bahwa agensi Beres Mantan bersih dari segala tuduhan.
+  1. Di depan penyidik dan pengacara, Claudia menandatangani surat resmi pencabutan somasi dan pengakuan bahwa agensi Bolu Ketan bersih dari segala tuduhan.
   2. Adrian menolak tegas tawaran damai tertutup Tante Mona: ia menuntut video klarifikasi publik tanpa potongan sebagai syarat mutlak agar Claudia tidak dilaporkan balik ke ranah pidana fitnah (Pasal 310/311 KUHP).
-  3. Claudia merekam video klarifikasi berdurasi satu menit di teras Polres, mengakui kesalahannya dan meminta maaf secara terbuka kepada Dita Maheswari dan Beres Mantan.
+  3. Claudia merekam video klarifikasi berdurasi satu menit di teras Polres, mengakui kesalahannya dan meminta maaf secara terbuka kepada Dita Maheswari dan Bolu Ketan.
   4. Claudia mencoba memegang tangan Adrian memohon maaf demi masa lalu mereka; Adrian dengan tenang dan dingin menarik tangannya, menegaskan bahwa kisah mereka telah selesai selamanya.
   5. Tante Mona menyeret Claudia pergi dengan langkah tergesa-gesa menembus kerumunan wartawan kriminal yang mulai berdatangan di gerbang Polres.
-- **Hasil:** `Keadilan tegak sempurna`: Surat pencabutan somasi sah di tangan, video klarifikasi mulai viral membersihkan nama baik Beres Mantan di seluruh Indonesia.
+- **Hasil:** `Keadilan tegak sempurna`: Surat pencabutan somasi sah di tangan, video klarifikasi mulai viral membersihkan nama baik Bolu Ketan di seluruh Indonesia.
 - **Asimetri Pengetahuan:** Adrian sepenuhnya bebas dari jeratan rasa bersalah masa lalunya; Dita menatap Adrian dengan rasa hormat dan cinta yang tak lagi ia sangkal.
 - **Hook Akhir:** Dita melipat surat pencabutan somasi itu rapi-rapi, menoleh ke arah Adrian sambil tersenyum lebar: "Mas Adrian, utang rasa bersalah lo udah lunas. Sekarang giliran kita urus ruko kita yang disegel."
 
 ### Bab 35: Cat Merah dan Lembaran Baru
-- **Waktu & Lokasi:** Rabu siang (13.00 WIB), teras ruko Beres Mantan, Tebet.
+- **Waktu & Lokasi:** Rabu siang (13.00 WIB), teras ruko Bolu Ketan, Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Harga Nyata yang Dibayar & Pemulihan Kehidupan (Falling Action).
 - **Skor Ketegangan & Emosi:** 3/10 | Masuk: Lelah fisik -> Keluar: Harapan bersemi dan kebersamaan hangat.
-- **Tujuan Adegan:** Membuka kembali kantor ruko Beres Mantan dan merayakan kemenangan bersama warga sekitar.
+- **Tujuan Adegan:** Membuka kembali kantor ruko Bolu Ketan dan merayakan kemenangan bersama warga sekitar.
 - **Komplikasi:** Menghadapi harga nyata yang tetap harus dibayar: saldo kas ruko menipis drastis, stiker segel meninggalkan noda lem kotor di rolling door, dan beberapa klien lama masih ragu untuk kembali.
 - **Beat Adegan:**
   1. Dita, Adrian, Eko, dan Pak Tejo bahu-membahu mengecat ulang dinding teras ruko dengan warna abu-abu bersih, menutupi bekas noda lem dan coretan teror.
@@ -638,17 +640,17 @@
   3. Adrian menggunakan uang penggantian materiil dari keluarga Claudia untuk membayar sewa ruko Pak Tejo lunas enam bulan ke depan dan memberikan bonus sepeda motor baru untuk operasional Eko.
   4. Pak Tejo menggelar tumpeng nasi kuning sederhana di atas meja timbangan logistik, memimpin doa syukur bersama seluruh warga dan anak pangkalan.
   5. Dita naik ke lantai dua sendirian, membuka laci meja kerjanya, mengambil piagam sinisme buatan tangannya yang bertuliskan "Cinta Cuma Transaksi Bodoh", lalu merobeknya menjadi dua tanpa ragu.
-- **Hasil:** `Pemulihan bermartabat`: Bisnis Beres Mantan kembali beroperasi dengan reputasi yang jauh lebih kokoh dan hati Dita kini sembuh merdeka dari trauma masa lalu.
+- **Hasil:** `Pemulihan bermartabat`: Bisnis Bolu Ketan kembali beroperasi dengan reputasi yang jauh lebih kokoh dan hati Dita kini sembuh merdeka dari trauma masa lalu.
 - **Asimetri Pengetahuan:** Dita tidak lagi memandang komitmen sebagai kelemahan; ia siap membuka lembaran hidup baru bersama orang yang terbukti setia di masa krisis.
 - **Hook Akhir:** Saat Dita membersihkan debu di meja kasir, lonceng pintu ruko berdenting merdu menyambut langkah kaki seseorang yang datang tanpa membawa barang mantan.
 
 ### Bab 36: Paket Spesial Tanpa Retur
-- **Waktu & Lokasi:** Kamis sore (16.30 WIB), balkon lantai dua ruko Beres Mantan, menghadap senja langit Tebet.
+- **Waktu & Lokasi:** Kamis sore (16.30 WIB), balkon lantai dua ruko Bolu Ketan, menghadap senja langit Tebet.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Resolusi Akhir & Komitmen Cinta Setara.
 - **Skor Ketegangan & Emosi:** 2/10 | Masuk: Tenang berdebar manis -> Keluar: Bahagia utuh tanpa keraguan.
 - **Tujuan Adegan:** Menutup seluruh perjalanan luka batin Dita dan Adrian dengan hubungan yang jujur, setara, dan matang.
-- **Komplikasi:** Adrian datang mengenakan kemeja santai berwarna biru langit sambil membawa sebuah kotak kardus kecil bersegel lakban merah khas Beres Mantan.
+- **Komplikasi:** Adrian datang mengenakan kemeja santai berwarna biru langit sambil membawa sebuah kotak kardus kecil bersegel lakban merah khas Bolu Ketan.
 - **Beat Adegan:**
   1. Adrian melangkah santai menaiki tangga balkon ruko tempat mereka dulu makan mi rebus berdua saat badai somasi.
   2. Adrian meletakkan kotak kardus kecil itu di atas timbangan digital meja Dita: angka timbangan menyala menunjukkan tepat 250 gram.
@@ -665,11 +667,11 @@
 
 | Titik Balik | Bab | Peristiwa Kunci & Keputusan Tokoh | Perubahan Arah Cerita |
 |---|---|---|---|
-| **1. Hook / Status Quo** | Bab 1-3 | Dita menjalankan Beres Mantan dengan sinis, Eko kurir melankolis, pesanan kardus biasa. | Pembaca mengenal aturan dunia, etos kerja timbangan, dan luka batin tokoh utama. |
+| **1. Hook / Status Quo** | Bab 1-3 | Dita menjalankan Bolu Ketan dengan sinis, Eko kurir melankolis, pesanan kardus biasa. | Pembaca mengenal aturan dunia, etos kerja timbangan, dan luka batin tokoh utama. |
 | **2. Plot Turn 1** | Bab 6-8 | Video viral tuduhan cincin Rp120 juta hilang; somasi 14 hari tiba; Dita melabrak Adrian di SCBD. | Cerita berubah dari komedi rintisan logistik menjadi thriller somasi hukum berkejaran waktu (*ticking clock*). |
 | **3. Pinch 1** | Bab 9-10 | Bukti awal manifes 14,350 kg dibedah; obrolan intim mi rebus dini hari di balkon ruko. | Dita dan Adrian resmi menjadi sekutu; benteng sinisme mulai retak. |
 | **4. Midpoint** | Bab 17-18 | Banjir badai kolong jembatan; kerentanan emosi; temuan mutlak jejak pegadaian Senopati Rp65 juta. | Titik balik perburuan: dari sekadar membela diri pasif menjadi aktif memburu dan mengepung kebohongan Claudia. |
-| **5. Pinch 2** | Bab 19-21 | Teror buzzer siber, Tante Mona menawarkan uang damai busuk, somasi dilimpahkan ke Polres. | Taruhan naik ke tingkat tertinggi: ancaman penjara nyata dan reputasi Beres Mantan di ujung tanduk. |
+| **5. Pinch 2** | Bab 19-21 | Teror buzzer siber, Tante Mona menawarkan uang damai busuk, somasi dilimpahkan ke Polres. | Taruhan naik ke tingkat tertinggi: ancaman penjara nyata dan reputasi Bolu Ketan di ujung tanduk. |
 | **6. All Hope Is Lost** | Bab 26-27 | Aliansi retak di halte Senopati, ruko disegel pemilik tanah, Dita menangis sendirian di loteng hujan. | Titik nadir total: ego kemandirian palsu Dita mati; ia menyadari ia tidak bisa berjuang sendirian. |
 | **7. Plot Turn 2** | Bab 28-30 | Wejangan Pak Tejo, sertifikat laser mikroskopis cincin ibu peninggalan Adrian, konsolidasi tim tempur. | Titik bangkit pamungkas: penemuan senjata pembuktian forensik yang sempurna untuk menyerbu Polres. |
 | **8. Resolution** | Bab 34-36 | Kemenangan di meja penyidik, somasi dicabut, video permintaan maaf Claudia, ruko pulih, paket masa depan. | Penutupan busur karakter: Dita merdeka dari trauma, Adrian mandiri dari keluarga manipulatif, cinta baru bersemi setara. |
@@ -687,4 +689,4 @@
 7. **Uji Kerapian Dunia Nyata (Realitas Indonesia & Budaya MetroPop):** Apakah tidak ada kumpul kebo dan prosedur hukum sesuai KUHP? **YA.** Koper berisi barang seserahan lamaran keluarga akibat batal nikah; prosedur hukum menggunakan somasi advokat, klarifikasi penyelidikan, dan gelar perkara Harda Polres.
 8. **Uji Keseimbangan Karakter Pendukung:** Apakah Eko dan Pak Tejo memiliki fungsi nyata bukan sekadar tempelan? **YA.** Eko mengamankan bukti buzzer dan motor cadangan; Pak Tejo menyediakan brankas, nasihat hidup, dan menyelamatkan markas ruko.
 9. **Uji Gelombang Ketegangan (Tension Curve):** Apakah ritme tensi naik-turun seimbang? **YA.** Babak 1 (4-7) -> Babak 2A (5-7) -> Midpoint (7-8) -> Babak 2B (6-10) -> All Hope Is Lost (10) -> Babak 3 (7-10-2).
-10. **Uji Harga Nyata yang Dibayar:** Apakah ending meninggalkan luka atau pengorbanan nyata? **YA.** Beres Mantan kehilangan sebagian klien penakut, Adrian kehilangan kenyamanan privilege keluarga elitnya, dan keduanya harus bekerja keras merangkak membangun usaha dari bawah.
+10. **Uji Harga Nyata yang Dibayar:** Apakah ending meninggalkan luka atau pengorbanan nyata? **YA.** Bolu Ketan kehilangan sebagian klien penakut, Adrian kehilangan kenyamanan privilege keluarga elitnya, dan keduanya harus bekerja keras merangkak membangun usaha dari bawah.

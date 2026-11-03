@@ -49,7 +49,7 @@
 - **Formula Sintaksis:**
   - *Basic Logline:* Dita Maheswari, pendiri jasa kurir pengembalian barang mantan pacar tanpa tatap muka, harus melacak keberadaan cincin tunangan berharga ratusan juta yang dituduh dicuri sebelum mantan tunangan sang klien memenjarakannya.
   - *Character-Driven:* Ketika agensi rintisan pengembalian barang mantannya dituduh menggelapkan perhiasan mewah, seorang wanita independen yang sinis terhadap cinta dipaksa bekerja sama dengan pria patah hati korban fitnah sang mantan, guna membongkar manipulasi dalam tenggat somasi 14 hari.
-  - *3-Kalimat Bell:* Dita Maheswari mengelola agensi unik bernama Beres Mantan: jasa logistik perkotaan yang bertugas mengantar dan menukar kembali barang-barang kenangan pasca-putus cinta tanpa perlu pertemuan fisik yang canggung. Bisnisnya terancam hancur ketika seorang klien sosialita menuduhnya mencuri cincin pertunangan senilai ratusan juta dari dalam kotak pengembalian barang milik mantan tunangannya, Adrian. Bersama Adrian yang ternyata juga korban penipuan sang sosialita, Dita harus menyusuri jejak transaksi barang tersebut di sekeliling Jakarta sebelum surat somasi kepolisian resmi ditandatangani.
+  - *3-Kalimat Bell:* Dita Maheswari mengelola agensi unik bernama Bolu Ketan: jasa logistik perkotaan yang bertugas mengantar dan menukar kembali barang-barang kenangan pasca-putus cinta tanpa perlu pertemuan fisik yang canggung. Bisnisnya terancam hancur ketika seorang klien sosialita menuduhnya mencuri cincin pertunangan senilai ratusan juta dari dalam kotak pengembalian barang milik mantan tunangannya, Adrian. Bersama Adrian yang ternyata juga korban penipuan sang sosialita, Dita harus menyusuri jejak transaksi barang tersebut di sekeliling Jakarta sebelum surat somasi kepolisian resmi ditandatangani.
 - **M.I.C.E. Dominan & Kerangka:** Event + Character | Kerangka Utama: **Seven-Point Structure** (Pendamping: **Save the Cat** + **Enemies-to-Allies**)
 - **3 Tingkat Taruhan:**
   - *Personal Stakes:* Dita dilaporkan ke polisi atas tuduhan penggelapan barang mewah; Adrian divonis bersalah oleh keluarga besarnya karena dianggap ceroboh.
@@ -98,10 +98,10 @@
 | Sumiati | Ibu / Bu Sumi | `NOV-001` | Keluarga | Pengrajin Kue Basah Pasar Tradisional Tebet | Pekerja keras, lembut, menjaga nama baik keluarga | `Boleh (Tingkat 1)` |
 | Darmawan | Pak Darmawan | `NOV-001` | Profesional | Kuasa Hukum / Pengacara Korporat Menara Astra | Tepat prosedur, dingin, taat hukum RI | `Boleh (Tingkat 1-3)` |
 | Reza Mahendra | Reza | `NOV-001` | Antagonis Sampingan | Pemilik Agensi Pemasaran Digital BuzzMedia | Licik, oportunis, penakut saat diancam pidana ITE | `Boleh (Tingkat 1-2)` |
-| Dita Maheswari | Dita | `NOV-002` | Protagonis | Pendiri Agensi Beres Mantan (Breakup Concierge) | Hyper-independent, sinis cinta, trauma pengkhianatan (*Betrayal Trauma*) | `Boleh (Tingkat 1-3)` |
+| Dita Maheswari | Dita | `NOV-002` | Protagonis | Pendiri Agensi Bolu Ketan (Breakup Concierge) | Hyper-independent, sinis cinta, trauma pengkhianatan (*Betrayal Trauma*) | `Boleh (Tingkat 1-3)` |
 | Adrian Prasetya | Adrian / Mas Adrian | `NOV-002` | Love Interest | Manajer Pengadaan Interior SCBD | Terlalu polos percaya orang (*Fragile Sheltered Child*), kaku emosi, guilt-ridden | `Boleh (Tingkat 1-3)` |
 | Claudia | Claudia | `NOV-002` | Antagonis | Mantan tunangan Adrian, sosialita medsos | Manipulatif, *Overt Narcissist*, gali lubang tutup lubang gaya hidup | `Boleh (Tingkat 1-2)` |
-| Eko | Eko / Mas Eko | `NOV-002` | Sekutu | Kurir lapangan Beres Mantan (eks mekanik balap) | Ceplas-ceplos, setia kawan, melankolis empati tinggi pada orang patah hati | `Boleh (Tingkat 1-3)` |
+| Eko | Eko / Mas Eko | `NOV-002` | Sekutu | Kurir lapangan Bolu Ketan (eks mekanik balap) | Ceplas-ceplos, setia kawan, melankolis empati tinggi pada orang patah hati | `Boleh (Tingkat 1-3)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.
@@ -120,13 +120,13 @@
 - **Pangkalan Ojol Lapangan Ros Tebet:** Pangkalan ojek online yang solid dan saling menjaga anggotanya dari preman atau debt collector.
 - **Toko Roti & Kafe Kampus Indah:** Kafe roti anak muda di kawasan kampus yang proposal keuangannya pernah dirapikan oleh Ayu.
 - **Kediaman Oma Ratna (Kebayoran Baru):** Rumah tua bergaya kolonial yang asri dengan taman luas di Jakarta Selatan.
-- **Kantor Rintisan Beres Mantan (Kuningan / Tebet):** Ruko lantai dua merangkap gudang penyimpanan inventaris koper barang mantan pacar milik Dita.
+- **Kantor Rintisan Bolu Ketan (Kuningan / Tebet):** Ruko lantai dua merangkap gudang penyimpanan inventaris koper barang mantan pacar milik Dita.
 - **Galeri Interior SCBD:** Gedung perkantoran pengadaan furnitur dan tata ruang tempat Adrian bekerja.
 
 ### B. Perusahaan, Agensi, & Entitas Bisnis
 - **BuzzMedia Digital:** Agensi pemasaran dan periklanan digital di kawasan Jakarta Selatan milik Reza Mahendra yang pernah terlibat kasus kampanye hitam online (kode faktur: `INV/BMD-JKT`).
 - **Firma Hukum Darmawan & Rekan:** Kantor advokat hukum perdata dan pidana korporat yang menangani sengketa bisnis dan UU ITE.
-- **Beres Mantan Logistics:** Layanan kurir perkotaan pihak ketiga khusus pengembalian barang pribadi pasca-putus hubungan asmara.
+- **Bolu Ketan Logistics:** Layanan kurir perkotaan pihak ketiga khusus pengembalian barang pribadi pasca-putus hubungan asmara.
 
 ---
 
