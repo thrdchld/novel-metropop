@@ -3,6 +3,24 @@
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
 
+## v3.5 - 2026-11-03
+
+- **Perubahan:** Menambahkan **Spektrum Neurodivergensi, Eksentrisitas Perilaku, & Dua Efek Magnetik Pembaca (Engine v3.5)**:
+  1. *Katalog Eksentrisitas & Neurodivergensi Fungsional (`engine/04-character.md` Bagian 7.5):* Memetakan kontras kebiasaan mikro orang normal vs kecenderungan disorder dalam kehidupan perkotaan:
+     - OCD / OCPD (dorongan simetri, rapikan map sejajar meja, periksa kunci setang 3x).
+     - ADHD & Disfungsi Eksekutif (asosiasi melompat, meja kerja berantakan tapi tahu letak barang, stimming/fidgeting).
+     - Social Anxiety & Topeng Baterai Sosial (masking ramah di depan umum vs lemas kehabisan baterai sosial di kamar, ruminasi malam hari).
+     - HSP (Highly Sensitive Person) & Sensory Overload (wajib earphone di transportasi umum, peka mendeteksi perubahan raut wajah).
+     - Alexithymia & Somatisasi (kebutaan rasa batin; stres mewujud dalam GERD/migrain daripada menangis).
+     - Keterikatan Sentimental Benda (*Affective Hoarding* tiket/struk usang).
+  2. *Dua Efek Magnetik Pembaca (`engine/04-character.md` Bagian 7.6):*
+     - Magnet 1: Resonansi Cermin Diri (*"Kok sama persis kayak gue?!"*) yang membangun empati tanpa syarat dan validasi pembaca.
+     - Magnet 2: Daya Tarik Eksentrik & Kepo Moral (*"Kok ada ya orang kayak gitu?!"*) yang memicu rasa penasaran kepo untuk terus membalik bab.
+  3. *Prinsip Karakter Pencuri Panggung (Scene Stealer):* Memastikan tokoh sampingan/pendukung memiliki lapisan psikologis dan kebiasaan eksentrik yang mampu memikat pembaca secara mandiri.
+  4. *Matriks Perbandingan Respon Situasi Nyata (`engine/04-character.md` Bagian 7.7):* Panduan konkret adegan sehari-hari (meja berantakan, pujian, kritik, tugas, bantuan).
+  5. *Penyelarasan Template:* Memperbarui `engine/templates/character-sheet.md`, `engine/templates/canon.md`, dan `engine/README.md`.
+- **File:** `engine/04-character.md`, `engine/templates/character-sheet.md`, `engine/templates/canon.md`, `engine/README.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
+
 ## v3.4 - 2026-11-03
 
 - **Perubahan:** Membangun **Sistem Arsitektur Psikologi Karakter, Luka Formatif, & Mesin Keputusan Nyata (Engine v3.4)**:

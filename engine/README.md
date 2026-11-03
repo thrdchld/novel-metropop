@@ -36,7 +36,7 @@ opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
 | `01-genre.md` | Definisi MetroPop, janji pembaca, tone, batasan konten. |
 | `02-premise.md` | 3 pilar premis (mencari, menilai, mengembangkan), M.I.C.E., 3 tingkat taruhan, 3 formula sintaksis, uji 5 slot, Universe Registry (`story/universe-registry.md`), dan aturan anti-penawaran ulang ide ditolak. |
 | `03-structure.md` | 8 kerangka plot terbukti, pemetaan 8 tahap, siklus coba-gagal, planting 2x, 30–40 bab, kolom outline. |
-| `04-character.md` | Psikologi karakter, luka asal (origin wound), pola asuh (parenting), koping positif vs anomali, mekanisme pertahanan, character sheet, tells, matriks sapaan, arc. |
+| `04-character.md` | Psikologi karakter, luka asal (origin wound), pola asuh, koping, neurodivergensi (OCD/ADHD/HSP), 2 magnet pembaca, defense mechanism, character sheet, tells, sapaan, arc. |
 | `05-style.md` | Gaya bahasa, POV, dialog, format, before/after. |
 | `06-chapter.md` | Struktur bab 600–900 kata, hook, checklist. |
 | `07-continuity.md` | Canon, ledger A–G, timeline, pengetahuan, setup/payoff. |

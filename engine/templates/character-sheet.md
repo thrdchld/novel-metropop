@@ -23,7 +23,9 @@
   - *Anomali Fungsional (Hyper-independence / People-pleaser / Hyper-vigilance / Impostor syndrome):* ...
 - **Gaya Kelekatan Emosional (Attachment Style):** Secure / Dismissive-Avoidant / Anxious-Preoccupied / Fearful-Avoidant.
 - **Lubang Kerentanan & Titik Buta (Vulnerability Hole & Blind Spot):** Situasi di mana akal sehatnya runtuh karena haus validasi/kasih sayang, dan cacat diri yang tidak ia sadari.
+- **Kecenderungan Disorder / Eksentrisitas Fungsional:** <OCD/simetri, ADHD/fidgeting, Social anxiety/masking, HSP/sensori, Alexithymia/somatisasi, atau Neurotipikal>.
 - **Mekanisme Pertahanan saat Tertekan (Defense Mechanisms):** Rasionalisasi logika dingin / humor dan sarkasme / workaholism / proyeksi.
+- **Target Respon Magnet Pembaca:** <Magnet 1 Relate Cermin Diri ("Kok sama kayak gue!") ATAU Magnet 2 Eksentrik ("Kok ada ya orang kayak gitu?!")>.
 
 ## Manifestasi Perilaku Tersirat (Show, Don't Diagnose)
 

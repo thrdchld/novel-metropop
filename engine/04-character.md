@@ -236,3 +236,63 @@ Psikologi karakter **hanya sah dihadirkan secara tersirat (*implicit behavior*)*
    - Mengabaikan peringatan sahabat demi membela pasangan toksik yang memberikan sedikit remah perhatian.
    - Menyerahkan seluruh tabungan darurat demi menjaga nama baik keluarga di hadapan tetangga.
 
+---
+
+### 7.5 Spektrum Kebiasaan Neurotipikal vs Neurodivergensi & Eksentrisitas Fungsional
+
+Perbedaan karakter yang hidup dengan karakter kartun terletak pada **kebiasaan mikro (*micro-habits*)**. Orang neurotipikal (normal) cenderung membiarkan hal-hal kecil yang kurang pas selama tidak mengganggu, namun manusia dengan kecenderungan neurodivergen atau neurosis fungsional memiliki dorongan internal yang tak tertahankan:
+
+1. **Kecenderungan OCD / OCPD (Obsessive-Compulsive Tendencies):**
+   - *Perilaku Normal:* Melihat sendok makan miring di meja atau berkas kertas tidak rata, orang normal membiarkannya saja karena lapar atau sibuk.
+   - *Manifestasi Tokoh:* Tangannya gatal dan gelisah jika tumpukan map belum sejajar dengan sudut meja; merapikan botol sambal di warung tenda agar label mereknya menghadap ke depan; atau memeriksa kunci setang motor tiga kali bolak-balik sampai mendengar bunyi klik tertentu sebelum bisa melangkah tenang.
+2. **Kecenderungan ADHD & Disfungsi Eksekutif (*Executive Dysfunction*):**
+   - *Perilaku Normal:* Mampu mencatat jadwal di ponsel dan mengerjakannya berurutan secara teratur.
+   - *Manifestasi Tokoh:* Asosiasi pikiran melompat-lompat cepat; sangat bersemangat di awal ide baru tapi tersiksa setengah mati saat harus mengurus dokumen administrasi; meja kerja tampak seperti kapal pecah berantakan namun ia tahu persis letak nota terselip; kebiasaan gerak fisik bawah sadar (*stimming / fidgeting*) seperti memutar cincin, mengetuk bolpoin berirama, atau menggoyang kaki saat duduk.
+3. **Kecemasan Sosial & Topeng Baterai Sosial (*Social Anxiety & Masking*):**
+   - *Manifestasi Tokoh:* Di depan klien atau panggung tampil sangat luwes, ramah, dan mempesona (*high-functioning masking*). Namun begitu pintu lift atau pintu kamar kos tertutup, badannya langsung ambruk lemas kehabisan baterai energi sosial (*social burnout*). Sebelum tidur malam, pikirannya memutar ulang percakapan tadi siang secara obsesif: *"Tadi ucapan gue kedengeran aneh nggak ya? Dia mikir apa ya pas gue ketawa tadi?"*
+4. **HSP (*Highly Sensitive Person*) & Kepekaan Indera Ekstrem (*Sensory Overload*):**
+   - *Manifestasi Tokoh:* Sangat cepat lelah oleh lampu neon supermarket yang terlalu silau, bau parfum menyengat di dalam lift, atau suara kunyahan orang di sebelah meja; wajib memasang earphone di KRL demi meredam dengungan kota agar tidak pusing; namun memiliki kepekaan tajam menangkap getaran cemas atau perubahan raut wajah orang lain yang luput dari pandangan orang biasa.
+5. **Kebutaan Emosi Batin & Somatisasi (*Alexithymia*):**
+   - *Manifestasi Tokoh:* Bingung jika ditanya apa yang sedang ia rasakan. Saat sedih atau tertekan, ia tidak menangis, melainkan asam lambungnya naik (*GERD*), migrain hebat, atau otot lehernya kaku. Ia bisa sangat tenang dan dingin saat tertimpa musibah besar, namun mendadak runtuh menangis hanya gara-gara gelas kopi yang tumpah di celana.
+6. **Keterikatan Sentimental Benda (*Affective Hoarding*):**
+   - *Manifestasi Tokoh:* Tidak sanggup membuang sobekan tiket bioskop kusam, botol parfum kosong, atau kardus sepatu bekas karena alam bawah sadarnya meletakkan rasa aman dan memori bersama orang terkasih pada benda-benda fisik tersebut.
+
+---
+
+### 7.6 Dua Efek Magnetik Pembaca (The Two Reader Response Magnets)
+
+Menyuntikkan kebiasaan psikologis dan eksentrisitas perilaku yang spesifik ke dalam karakter bukan sekadar hiasan teknis, melainkan pencipta **dua magnet keterikatan pembaca yang paling kuat**:
+
+#### Magnet 1: Resonansi Cermin Diri ("Kok Sama Kayak Gue?!")
+- Terjadi ketika pembaca melihat kebiasaan rahasia atau rasa cemasnya sendiri terpantul pada tokoh.
+- *Respon Batin Pembaca:*
+  > *"Eh, kok sama persis kayak gue?!"*
+  > *"Ih, kirain cuma gue doang di dunia ini yang suka ngecek gembok tiga kali!"*
+  > *"Iya sih, kalau gue di posisi dia, gue juga pasti bakal gengsi nolak kayak gitu."*
+- Efeknya: Membangun ikatan empati tanpa syarat (*unconditional empathy*). Pembaca merasa tervalidasi, merasa dipahami oleh penulis, dan akan membela keputusan tokoh tersebut sampai akhir cerita.
+
+#### Magnet 2: Daya Tarik Eksentrik & Kepo Moral ("Kok Ada Ya Orang Kayak Gitu?!")
+- Terjadi ketika perilaku tokoh sangat unik, ekstrem, atau di luar kebiasaan orang umum, namun tetap logis menurut latar belakang psikologisnya.
+- *Respon Batin Pembaca:*
+  > *"Ih, kok ada ya orang yang tahan hidup se-kaku ini?!"*
+  > *"Beneran nih dia berani ngelakuin hal senekat itu?"*
+  > *"Eh, masa sih dia bisa-bisanya tetap senyum pas dihina begitu? Penasaran gue maunya apa!"*
+- Efeknya: Memicu rasa penasaran kepo (*curiosity hook*). Pembaca terus membuka bab berikutnya karena penasaran ingin melihat apa lagi tingkah laku, keputusan gila, atau kebiasaan aneh yang akan dilakukan tokoh tersebut.
+
+#### Fenomena Karakter Pencuri Panggung (*Scene Stealer*)
+- Dalam banyak web novel populer, pembaca sering kali bertahan membaca bukan semata-mata karena penasaran pada plot utama, melainkan karena **terpesona pada tokoh tertentu (bahkan tokoh pendamping/second lead)** yang memiliki lapisan psikologis dan kebiasaan hidup yang sangat berwarna.
+- Tokoh sampingan (rekan kubikel kantor, paman julid, sahabat pangkalan, atau atasan eksentrik) yang memiliki kebiasaan psikologis konkret akan mencuri perhatian pembaca di setiap adegan ia muncul.
+
+---
+
+### 7.7 Matriks Perbandingan Situasi Nyata: Normal vs Kecenderungan Disorder
+
+| Situasi Keseharian | Respon Orang Normal / Neurotipikal | Respon Tokoh dengan Kecenderungan Disorder / Neurosis | Efek Minat Pembaca |
+|---|---|---|---|
+| **Peralatan Meja Berantakan** | Membiarkan selama tidak mengganggu makan/bekerja. | **OCD / Simetri:** Menjajarkan sendok, merapikan map sejajar sudut meja sebelum bisa bicara. | *"Ih rapi banget, persis kayak bos gue kalau lagi stres!"* |
+| **Diberi Pujian Tulus di Depan Umum** | Tersenyum senang dan mengucapkan terima kasih. | **Impostor Syndrome / Defensif:** Mengalihkan pujian dengan lelucon mencela diri atau merasa sedang disindir. | *"Relate banget, paling nggak bisa kalau dipuji terang-terangan."* |
+| **Menghadapi Kritik / Konflik** | Mendengarkan argumen, membalas poin per poin. | **Trauma Otoritas / Fawn:** Tubuh kaku seketika, refleks mengangguk dan mengalah meski tahu dirinya benar. | *"Nyesek bacanya, pengin meluk si tokoh biar berani ngelawan."* |
+| **Memulai Proyek / Tugas Penting** | Membuat rencana kerja teratur, dicicil bertahap. | **ADHD / Executive Dysfunction:** Menunda sampai menit terakhir, panik luar biasa, lalu menyelesaikannya dalam satu tarikan napas semalam suntuk. | *"Kok gue banget pas ngerjain tugas kuliah/laporan kantor?!"* |
+| **Menerima Bantuan Tanpa Syarat** | Mengucapkan terima kasih dengan lega dan terbantu. | **Hyper-Independence:** Menolak keras, curiga ada motif tersembunyi, atau memilih lembur 16 jam daripada berutang budi. | *"Buset, keras kepala banget tapi gue paham kenapa dia kayak gitu."* |
+
+
