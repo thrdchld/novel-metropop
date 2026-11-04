@@ -24,7 +24,7 @@ Di samping tangga, Restu tampak bangga menyetel karburator dan memasang kampas r
 
 "Mesin tua ini udah teruji nembus banjir Kuningan sama sarang buzzer, Mbak Dita!" seru Restu menepuk jok motornya dengan seringai lebar. "Tinggal ganti oli gardan, siap tancap gas lagi jemput koper mantan se-Jakarta!"
 
-Bagas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Bagas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
+Bagas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Bagas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Hubungannya dengan sang ayah mulai mencair dan saling menghormati meski butuh waktu untuk benar-benar akrab kembali. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
 
 Dari seberang jalan, Mbak Yeyen melangkah menyeberang membawa sebuah nampan anyaman bambu besar berisi tumpeng nasi kuning lengkap dengan suwiran ayam goreng, sambal goreng ati, dan irisan telur dadar tipis. Nampan tumpeng itu diletakkannya tepat di atas meja timbangan logistik Bolu Ketan.
 

@@ -10,7 +10,7 @@ Dua menit kemudian, pintu besi berderit membuka pelan. Mas Aris melangkah keluar
 
 Mas Aris seketika melompat kaget, matanya melotot panik menyapu lorong gang yang sepi. "Mas Bagas?! Mbak Dita?! Ngapain kalian nekat ke sini lagi?! Manajer cabang dan kepala keamanan lagi siaga satu gara-gara aksi kalian kemarin malam!"
 
-"Mas Aris, tolong kami," ucapku memegang lengan jaketnya dengan tatapan memohon yang mendalam. "Polisi menolak bukti foto layar ponsel dari kami. Besok siang jam dua belas tepat status saya resmi dinaikkan jadi Tersangka pidana kalau kami nggak punya surat tanda terima fisik asli bermeterai dari kantor pegadaian ini!"
+"Mas Aris, tolong kami," ucapku memegang lengan jaketnya dengan tatapan memohon yang mendalam. "Polisi menolak bukti foto layar ponsel dari kami. Besok siang penyidik bakal gelar perkara buat naikin kasus ini ke tahap penyidikan dan netapin status saya jadi Tersangka kalau kami nggak punya surat tanda terima fisik asli bermeterai dari kantor pegadaian ini!"
 
 Mas Aris mengusap wajahnya yang basah oleh peluh dengan napas tersengal-sengal frustrasi. "Mbak Dita, kalian nggak tahu siapa lawan kalian! Tadi pagi Tante Debby dan pengacara Sitompul datang langsung ke ruangan manajer cabang kami, Pak Hendra! Mereka nyerahin uang pelicin amplop tebal puluhan juta rupiah biar Pak Hendra mengunci rapat semua berkas polis nomor GSM-2026-089 sampai tenggat somasi selesai!"
 

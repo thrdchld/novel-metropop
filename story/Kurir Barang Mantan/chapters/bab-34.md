@@ -2,7 +2,7 @@
 
 Siang pukul setengah dua belas, lobi utama Gedung Satreskrim Polres Metro Jakarta Selatan dipenuhi sorot kilatan lampu kamera wartawan kriminal dan bisik-bisik heboh pengunjung kantor polisi.
 
-Di atas meja marmer lobi, sebuah surat kesepakatan damai berkop resmi kepolisian terhampar di hadapan kami. Di atas kertas bermeterai sepuluh ribu rupiah itu, jemari Clarissa Maharani yang gemetar hebat menandatangani lembar pencabutan Laporan Polisi Nomor LP/B/1842/XI/2026/SPKT/Polres Jaksel.
+Di atas meja marmer lobi, naskah kesepakatan perdamaian para pihak bermeterai sepuluh ribu rupiah dan surat permohonan pencabutan laporan terhampar di hadapan kami. Di samping dokumen administrasi kepolisian yang disiapkan penyidik, jemari Clarissa Maharani yang gemetar hebat menandatangani lembar pencabutan Laporan Polisi Nomor LP/B/1842/XI/2026/SPKT/Polres Jaksel.
 
 Surat itu menyatakan secara sah dan mengikat bahwa laporan dugaan penggelapan terhadap Dita Maheswari dan CV Bolu Ketan Mandiri murni gugur tanpa syarat, serta memulihkan nama baik agensi Bolu Ketan sebagai pihak yang bersih dari segala pelanggaran hukum.
 
@@ -10,7 +10,7 @@ Tante Debby berdiri di samping Clarissa dengan wajah kuyu dan mata yang sembap, 
 
 Bagas melangkah maju satu langkah, menatap Tante Debby dengan tatapan mata yang begitu dingin, tenang, dan tanpa kompromi.
 
-"Waktu Tante menyewa buzzer tiga puluh juta rupiah dan menyebarkan foto masa lalu Dita jam tiga subuh kemarin," ucap Bagas dengan suara bariton yang menusuk ulu hati, "apakah Tante pernah memikirkan masa depan Dita yang hancur? Tidak ada damai tertutup, Tante Debora. Video klarifikasi permintaan maaf publik tanpa potongan adalah syarat mutlak yang tidak bisa ditawar, atau saya perintahkan Darmawan mendaftarkan laporan balik Pasal 220 KUHP ke meja SPKT detik ini juga!"
+"Waktu Tante menyewa buzzer tiga puluh juta rupiah dan menyebarkan foto masa lalu Dita jam tiga subuh kemarin," ucap Bagas dengan suara bariton yang menusuk ulu hati, "apakah Tante pernah memikirkan masa depan Dita yang hancur? Tidak ada damai tertutup, Tante Debora. Video klarifikasi permintaan maaf publik tanpa potongan adalah syarat mutlak yang tidak bisa ditawar, atau saya perintahkan Darmawan mendaftarkan laporan balik pengaduan palsu Pasal 361 dan Pasal 437 KUHP ke meja SPKT detik ini juga!"
 
 Mendengar ancaman penjara nyata itu, nyali Tante Debby seketika ciut tuntas. Wanita sosialita bersasak kaku itu menundukkan kepalanya dalam-dalam, tak berani membantah sepatah kata pun.
 
@@ -35,13 +35,15 @@ Tepat saat mobil Alphard itu menghilang di tikungan jalan Wijaya, ponsel di saku
 
 Bagas menekan tombol jawab, lalu menyalakan pengeras suara di hadapanku.
 
-Suara sang ayah di seberang sana tidak lagi terdengar menggelegar marah persis kemarin sore, melainkan suara berat pria sepuh yang sarat keharuan dan rasa bangga yang mendalam:
-"Baskara... Ipda Bambang baru saja menelepon Ayah dan menceritakan seluruh pembuktian forensik sertifikat ibumu di meja penyidik. Ayah bangga padamu, Nak. Kamu membuktikan bahwa kamu anak laki-laki sejati yang berani membela kehormatan ibumu dan membela orang yang benar. Ayah mencabut seluruh ancaman pencoretan warisan kemarin. Dan tolong sampaikan permohonan maaf Ayah yang sebesar-besarnya kepada Nak Dita atas kesombongan keluarga kita."
+Suara sang ayah di seberang sana tidak lagi terdengar menggelegar marah persis kemarin sore, melainkan suara berat pria sepuh yang sarat keharuan meski masih menyisakan nada kaku khas pria berjarak:
+"Baskara... Ipda Bambang baru saja menelepon Ayah dan menceritakan seluruh pembuktian forensik sertifikat ibumu di meja penyidik. Ayah... Ayah akui kamu membuktikan keberanianmu membela kehormatan ibumu dan orang yang benar. Ayah mencabut ancaman pencoretan warisan kemarin. Dan tolong sampaikan permohonan maaf Ayah kepada Nak Dita atas prasangka keluarga kita."
 
-Bagas menghela napas panjang yang begitu lega, sebuah senyuman kebahagiaan merekah sempurna di wajah tampannya. "Terima kasih, Ayah. Salam buat keluarga di rumah."
+Bagas menghela napas panjang, tersenyum getir namun tenang. Ia tahu hubungan bertahun-tahun yang kaku dengan sang ayah tidak akan pulih sekejap mata hanya lewat satu panggilan telepon, tetapi pengakuan jujur itu adalah retakan pertama pada dinding keangkuhan keluarga yang selama ini menyesakkan dadanya.
 
-Bagas mematikan panggilan, lalu menoleh menatapku dengan mata cokelat gelapnya yang berbinar hangat di bawah sinar matahari Jakarta. Seluruh beban rasa bersalah dan tekanan keluarga yang membelenggunya selama bertahun-tahun kini telah luruh seutuhnya.
+"Terima kasih, Ayah," sahut Bagas santun. "Baskara hargai kata-kata Ayah. Nanti malam Baskara pulang sebentar untuk pamit baik-baik."
 
-Aku melipat surat resmi bermeterai pencabutan somasi itu rapi-rapi, memasukkannya ke dalam saku rompi Bolu Ketan-ku, lalu menatap Bagas sambil tersenyum lebar.
+Bagas mematikan panggilan, lalu menoleh menatapku dengan mata cokelat gelapnya yang berbinar tenang di bawah sinar matahari Jakarta. Beban rasa bersalah yang membelenggunya kini telah terangkat, membuka jalan baru yang lebih jujur.
+
+Aku melipat salinan surat kesepakatan damai dan permohonan pencabutan laporan bermeterai itu rapi-rapi, memasukkannya ke dalam saku rompi Bolu Ketan-ku, lalu menatap Bagas sambil tersenyum lebar.
 
 "Urusan hukum dan mantan lo resmi lunas, Mas Bagas," kataku dengan mata berbinar cerah. "Sekarang giliran kita buka gembok rantai ruko kita di Tebet!"

@@ -18,7 +18,7 @@ Restu sigap bangkit berdiri, memakai sarung tangan kain putih persis petugas lab
 "Tiga potong gaun brokat pesta bahan sutra: satu koma delapan ratus lima puluh kilogram."
 "Satu tas tangan kulit wanita merek Chanel hitam: satu koma empat ratus tiga puluh kilogram."
 "Sepasang sepatu hak tinggi kristal Jimmy Choo dalam kotak: satu koma enam ratus lima puluh kilogram."
-"Perlengkapan kosmetik dan botol parfum segel: dua koma seratus sepuluh kilogram."
+"Perlengkapan kosmetik dan botol parfum segel: dua koma seratus dua puluh lima kilogram."
 "Koper kosong polikarbonat hitam ukuran dua puluh delapan inci beserta gembok kombinasi: lima koma seratus tujuh puluh kilogram."
 
 Bagas menekan tombol enter pada papan ketik laptopnya. Rumus penjumlahan otomatis menghitung total seluruh bobot fisik benda yang terhampar di meja.

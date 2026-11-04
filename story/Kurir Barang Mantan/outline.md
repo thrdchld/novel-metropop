@@ -166,7 +166,7 @@
 - **Posisi Kerangka:** Eskalasi Somasi Hukum (Ticking Clock Aktif).
 - **Skor Ketegangan & Emosi:** 7/10 | Masuk: Panik membaca surat -> Keluar: Tekad membara untuk melawan.
 - **Tujuan Adegan:** Membaca dan memahami konsekuensi hukum dari amplop cokelat yang baru tiba.
-- **Komplikasi:** Surat somasi resmi dari kantor advokat rekanan keluarga Clarissa memberi batas waktu 14 hari kalender untuk mengembalikan cincin Rp120 juta atau menghadapi laporan pidana penggelapan (Pasal 372 KUHP).
+- **Komplikasi:** Surat somasi resmi dari kantor advokat rekanan keluarga Clarissa memberi batas waktu 14 hari kalender untuk mengembalikan cincin Rp120 juta atau menghadapi laporan pidana penggelapan (Pasal 486 KUHP Baru UU No. 1 Tahun 2023).
 - **Beat Adegan:**
   1. Dita membaca surat somasi bermeterai sepuluh ribu dengan tangan gemetar dingin.
   2. Pakde Broto naik ke lantai dua membawakan teh manis hangat, menasihati Dita agar tidak langsung patah arang sebelum mencari dalangnya.

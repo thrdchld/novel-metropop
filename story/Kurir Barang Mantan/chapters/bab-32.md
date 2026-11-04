@@ -32,7 +32,7 @@ Tepat pukul sembilan lewat lima puluh delapan menit, Ipda Bambang mendudukkan di
 
 Tok! Tok! Tok!
 
-"Sesi mediasi klarifikasi terakhir Laporan Polisi Nomor 1842 perihal dugaan tindak pidana Pasal 486 KUHP tentang penggelapan resmi saya buka," ucap Ipda Bambang dengan tatapan mata elang yang menyapu kedua belah pihak secara bergantian. "Tenggat waktu somasi dan mediasi awal jatuh tempo hari ini. Sesuai prosedur KUHAP, jika tidak ada kesepakatan damai atau bukti baru yang mengugurkan sangkaan, penyidik akan menggelar perkara untuk menetapkan status Tersangka hari ini juga."
+"Sesi mediasi klarifikasi terakhir Laporan Polisi Nomor 1842 perihal dugaan tindak pidana Pasal 486 KUHP tentang penggelapan resmi saya buka," ucap Ipda Bambang dengan tatapan mata elang yang menyapu kedua belah pihak secara bergantian. "Tenggat waktu somasi dan mediasi awal jatuh tempo hari ini. Sesuai prosedur hukum acara pidana, jika tidak ada bukti baru yang menggugurkan laporan, perkara ini akan langsung kami gelar untuk ditingkatkan ke tahap penyidikan guna menetapkan pihak yang bertanggung jawab."
 
 Ipda Bambang menoleh menatapku lurus-lurus. "Saudari Dita Maheswari, apakah pihak Terlapor membawa bukti otentik baru yang memenuhi standar laboratorium forensik kepolisian?"
 

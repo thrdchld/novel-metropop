@@ -12,7 +12,7 @@ Aku duduk bersimpuh di atas lantai kayu yang dingin dan berderit, memeluk kedua 
 
 Di atas meja kayu lapuk kecil di hadapanku, tergeletak surat panggilan klarifikasi Unit Harda Polres Jaksel dan salinan surat somasi Henry Sitompul yang ujung kertasnya sudah melengkung basah.
 
-Sepuluh jam lagi. Pukul dua belas siang nanti, tenggat waktu mediasi resmi habis. Dan namaku, Dita Maheswari, akan resmi ditetapkan sebagai Tersangka tindak pidana penggelapan cincin berlian warisan keluarga Danuputra.
+Sepuluh jam lagi. Menjelang batas akhir somasi dan mediasi kepolisian, gelar perkara penyidik akan menentukan nasibku: apakah bukti kami diakui, atau namaku, Dita Maheswari, berisiko resmi ditetapkan sebagai Tersangka tindak pidana penggelapan cincin berlian warisan keluarga Danuputra.
 
 Aku menoleh menatap pecahan cermin rias retak yang tersandar di dinding papan loteng. Di pantulan bayangan gelap yang disinari kilatan petir dari celah atap, aku melihat sosok perempuan muda dengan mata bengkak, rambut kusut berantakan, dan wajah kuyu yang hancur tak bersisa.
 
@@ -34,7 +34,7 @@ Seluruh ego kemandirian palsu yang kubanggakan selama dua tahun runtuh rata deng
 
 Petir menyambar dahsyat di atas atap seng, menerangi baskom plastik yang mulai meluap menumpahkan air hujan ke lantai kayu.
 
-Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan menyerahkan diri ke meja Ipda Bambang Sutrisno dan menandatangani berita acara pemeriksaan sebagai tersangka tunggal, agar nama baik Bagas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
+Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan mendatangi meja Ipda Bambang Sutrisno dan pasrah menghadapi pemeriksaan penyidik sebagai pihak yang bertanggung jawab, agar nama baik Bagas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
 
 Biar aku sendiri yang menelan pil pahit ini sampai tuntas di balik jeruji besi tahanan.
 

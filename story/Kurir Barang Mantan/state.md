@@ -12,7 +12,7 @@
 - **Status Cerita:** SELESAI / TAMAT (36 Bab Lengkap)
 - **Bab Terakhir Selesai:** Bab 36: Paket Spesial Tanpa Retur
 - **Bab Berikutnya yang Akan Ditulis:** Selesai (Naskah 36 Bab Utuh)
-- **Titik Waktu Cerita Terkini:** Hari 17 (Kamis sore), Pukul 17.30 WIB
+- **Titik Waktu Cerita Terkini:** Hari 18 (Kamis sore), Pukul 17.30 WIB
 - **Lokasi Terkini Tokoh Utama:** Balkon Ruko Lantai Dua Bolu Ketan, Tebet, Jakarta Selatan
 - **Cuaca / Suasana Fisik:** Sore teduh berangin sejuk, langit oranye keemasan, aroma melati kering
 - **POV Aktif:** Dita Maheswari (POV 1 "Aku")
@@ -36,13 +36,14 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 | **Hari 8** | Senin, 12.30 - 14.00 | Pengintaian Senayan City; dilabrak Tante Debby di depan eskalator mal (Bab 15). | Tenggat H-9 |
 | **Hari 9** | Selasa, 10.00 - 19.00 | Pagi: Intimidasi pangkalan sebelah (Bab 16). Sore: Hujan badai Kuningan (Bab 17). Malam (18.30): **Midpoint Bukti:** Verifikasi transaksi pegadaian Senopati Rp65 juta didapat (Bab 18). | Tenggat H-8 |
 | **Hari 10** | Rabu, 09.00 - 14.00 | Dampak boikot dan penurunan kas operasional ruko Bolu Ketan pasca-temuan pegadaian. | Tenggat H-7 |
-| **Hari 11** | Kamis, 03.00 - 14.30 | Subuh: Serangan buzzer siber jam tiga pagi (Bab 19). Siang: Pertemuan tertutup SCBD; Tante Debby tawarkan uang damai busuk (Bab 20). | Tenggat H-6 |
-| **Hari 12** | Jumat, 17.00 - 18.30 | Dilema keluarga Bagas di kedai kopi; surat panggilan resmi Polres tiba (Bab 21). | Tenggat H-5 |
-| **Hari 13** | Sabtu, 21.00 - 23.00 | Operasi mata-mata pangkalan Palmerah; Restu rekam bukti aliran dana Tante Debby (Bab 22). | Tenggat H-4 |
-| **Hari 14** | Senin, 10.00 - 21.30 | Klarifikasi Polres tolak foto HP (Bab 23). Penyusupan gagal gerai pegadaian (Bab 24). Pertengkaran halte Senopati (Bab 25). Ruko disegel pemilik tanah (Bab 26). | Tenggat H-1 (Sehari jelang tenggat) |
-| **Hari 15** | Selasa, 02.00 - 11.30 | Dini hari: Tangisan loteng hujan / All Hope Is Lost (Bab 27). Subuh: Kopi wejangan Pakde Broto (Bab 28). Pagi: Sertifikat laser almarhum ibu dan legalisasi database (Bab 29). Pukul 10.00: Mediasi & Gelar Perkara di Polres Jaksel (Bab 30-33). Somasi dicabut resmi (Bab 34). | **Hari Batas Akhir Somasi / Kemenangan Hukum** |
-| **Hari 16** | Rabu, 13.00 - 16.00 | Pengecatan ruko, tumpengan damai pangkalan, perobekan piagam sinis (Bab 35). | Masa Pemulihan |
-| **Hari 17** | Kamis, 16.30 - 18.00 | Bagas bawa kotak 250 gram ke balkon ruko; pesanan masa depan tanpa retur (Bab 36). | Resolusi Epilog |
+| **Hari 11** | Kamis, 03.00 - 14.30 | Subuh: Serangan buzzer siber jam tiga pagi (Bab 19). Siang: Pertemuan tertutup SCBD; Tante Debby tawarkan uang damai busuk (Bab 20). | Hari ke-9 Somasi (Tenggat H-5) |
+| **Hari 12** | Jumat, 17.00 - 18.30 | Dilema keluarga Bagas di kedai kopi; surat panggilan resmi Polres tiba (Bab 21). | Hari ke-10 Somasi (Tenggat H-4) |
+| **Hari 13** | Sabtu, 21.00 - 23.00 | Operasi mata-mata pangkalan Palmerah; Restu rekam bukti aliran dana Tante Debby (Bab 22). | Hari ke-11 Somasi (Tenggat H-3) |
+| **Hari 14** | Minggu, 10.00 - 18.00 | Konsolidasi berkas fisik di ruko Tebet; penyusunan manifes menjelang panggilan kepolisian. | Hari ke-12 Somasi (Tenggat H-2) |
+| **Hari 15** | Senin, 10.00 - 21.30 | Klarifikasi Polres tolak foto HP (Bab 23). Penyusupan gagal gerai pegadaian (Bab 24). Pertengkaran halte Senopati (Bab 25). Ruko disegel pemilik tanah (Bab 26). | Hari ke-13 Somasi (Tenggat H-1 / Sehari Jelang Jatuh Tempo) |
+| **Hari 16** | Selasa, 02.00 - 11.30 | Dini hari: Tangisan loteng hujan / All Hope Is Lost (Bab 27). Subuh: Kopi wejangan Pakde Broto (Bab 28). Pagi: Sertifikat laser almarhum ibu dan legalisasi database (Bab 29). Pukul 10.00: Mediasi & Gelar Perkara di Polres Jaksel (Bab 30-33). Somasi dicabut resmi (Bab 34). | **Hari ke-14 Somasi (Jatuh Tempo Batas Akhir Somasi / Kemenangan Hukum)** |
+| **Hari 17** | Rabu, 13.00 - 16.00 | Pengecatan ruko, tumpengan damai pangkalan, perobekan piagam sinis (Bab 35). | Masa Pemulihan |
+| **Hari 18** | Kamis, 16.30 - 18.00 | Bagas bawa kotak 250 gram ke balkon ruko; pesanan masa depan tanpa retur (Bab 36). | Resolusi Epilog |
 
 ---
 

@@ -413,7 +413,7 @@ Restu sigap bangkit berdiri, memakai sarung tangan kain putih persis petugas lab
 "Tiga potong gaun brokat pesta bahan sutra: satu koma delapan ratus lima puluh kilogram."
 "Satu tas tangan kulit wanita merek Chanel hitam: satu koma empat ratus tiga puluh kilogram."
 "Sepasang sepatu hak tinggi kristal Jimmy Choo dalam kotak: satu koma enam ratus lima puluh kilogram."
-"Perlengkapan kosmetik dan botol parfum segel: dua koma seratus sepuluh kilogram."
+"Perlengkapan kosmetik dan botol parfum segel: dua koma seratus dua puluh lima kilogram."
 "Koper kosong polikarbonat hitam ukuran dua puluh delapan inci beserta gembok kombinasi: lima koma seratus tujuh puluh kilogram."
 
 Bagas menekan tombol enter pada papan ketik laptopnya. Rumus penjumlahan otomatis menghitung total seluruh bobot fisik benda yang terhampar di meja.
@@ -1192,9 +1192,9 @@ Aku terbelalak kaget. "Tapi Pak, itu data asli dari komputer kasir mereka!"
 
 Henry Sitompul tersenyum lebar penuh kemenangan, sementara Tante Debby di ujung ruangan tersenyum sinis mengejek.
 
-Ipda Bambang melirik jam dinding ruang penyidikan yang menunjukkan pukul sebelas lewat dua puluh menit. "Penyidik memberikan waktu mediasi terakhir satu kali dua puluh empat jam sampai besok siang pukul dua belas tepat. Jika Saudari Dita tidak bisa menyodorkan dokumen fisik asli bermeterai dari kantor pegadaian tersebut, status perkara ini resmi kami tingkatkan ke tahap Penyidikan dan Saudari akan dipanggil kembali sebagai Tersangka."
+Ipda Bambang melirik jam dinding ruang penyidikan yang menunjukkan pukul sebelas lewat dua puluh menit. "Penyidik memberikan waktu satu kali dua puluh empat jam sampai besok siang pukul dua belas untuk melengkapi bukti sanggahan sebelum tenggat klarifikasi ditutup. Jika pihak Terlapor tidak bisa menyodorkan dokumen fisik asli bermeterai dari kantor pegadaian tersebut, penyidik akan merekomendasikan perkara ini dinaikkan ke tahap penyidikan yang berujung penetapan status tersangka bagi Terlapor."
 
-Tersangka. Kata itu menghantam kepalaku persis palu godam raksasa.
+Tersangka. Risiko penetapan status hukum itu menghantam kepalaku persis palu godam raksasa.
 
 Saat aku dan Bagas melangkah gontai keluar dari lobi Gedung Satreskrim Polres Jaksel, ponsel pintarku mendadak berdering histeris. Nama Restu berkedip di layar.
 
@@ -1217,7 +1217,7 @@ Dua menit kemudian, pintu besi berderit membuka pelan. Mas Aris melangkah keluar
 
 Mas Aris seketika melompat kaget, matanya melotot panik menyapu lorong gang yang sepi. "Mas Bagas?! Mbak Dita?! Ngapain kalian nekat ke sini lagi?! Manajer cabang dan kepala keamanan lagi siaga satu gara-gara aksi kalian kemarin malam!"
 
-"Mas Aris, tolong kami," ucapku memegang lengan jaketnya dengan tatapan memohon yang mendalam. "Polisi menolak bukti foto layar ponsel dari kami. Besok siang jam dua belas tepat status saya resmi dinaikkan jadi Tersangka pidana kalau kami nggak punya surat tanda terima fisik asli bermeterai dari kantor pegadaian ini!"
+"Mas Aris, tolong kami," ucapku memegang lengan jaketnya dengan tatapan memohon yang mendalam. "Polisi menolak bukti foto layar ponsel dari kami. Besok siang penyidik bakal gelar perkara buat naikin kasus ini ke tahap penyidikan dan netapin status saya jadi Tersangka kalau kami nggak punya surat tanda terima fisik asli bermeterai dari kantor pegadaian ini!"
 
 Mas Aris mengusap wajahnya yang basah oleh peluh dengan napas tersengal-sengal frustrasi. "Mbak Dita, kalian nggak tahu siapa lawan kalian! Tadi pagi Tante Debby dan pengacara Sitompul datang langsung ke ruangan manajer cabang kami, Pak Hendra! Mereka nyerahin uang pelicin amplop tebal puluhan juta rupiah biar Pak Hendra mengunci rapat semua berkas polis nomor GSM-2026-089 sampai tenggat somasi selesai!"
 
@@ -1321,7 +1321,7 @@ Pakde Broto melangkah keluar dari teras warung kelontongnya yang gelap membawa p
 
 Aku memandangi tumpukan kardus dan timbangan gantungku di trotoar jalan dengan dada yang terasa dihantam palu godam raksasa.
 
-Dua tahun perjuanganku merangkak membangun usaha ini dari nol... hancur lebur dalam satu malam di atas genangan air selokan Tebet. Kas operasional kantorku habis tak bersisa, reputasi bisnisku dicap sebagai maling oleh jutaan orang di media sosial, dan besok siang pukul dua belas statusku resmi ditetapkan sebagai Tersangka pidana di Polres Jaksel.
+Dua tahun perjuanganku merangkak membangun usaha ini dari nol... hancur lebur dalam satu malam di atas genangan air selokan Tebet. Kas operasional kantorku habis tak bersisa, reputasi bisnisku dicap sebagai maling oleh jutaan orang di media sosial, dan besok siang gelar perkara di Polres berisiko kuat menetapkan statusku sebagai Tersangka pidana penggelapan.
 
 "Mbak Dita..." Restu merogoh saku jaketnya yang basah, menyodorkan sebuah amplop cokelat kecil berisi selembar BPKB motor bebek kesayangannya ke tanganku. "Ini BPKB motor gue, Mbak. Besok pagi kita gadaikan ke pangkalan finance di Kampung Melayu. Duitnya buat sewa pengacara atau buat sewa tempat baru. Asal Mbak Dita jangan menyerah begini..."
 
@@ -1353,7 +1353,7 @@ Aku duduk bersimpuh di atas lantai kayu yang dingin dan berderit, memeluk kedua 
 
 Di atas meja kayu lapuk kecil di hadapanku, tergeletak surat panggilan klarifikasi Unit Harda Polres Jaksel dan salinan surat somasi Henry Sitompul yang ujung kertasnya sudah melengkung basah.
 
-Sepuluh jam lagi. Pukul dua belas siang nanti, tenggat waktu mediasi resmi habis. Dan namaku, Dita Maheswari, akan resmi ditetapkan sebagai Tersangka tindak pidana penggelapan cincin berlian warisan keluarga Danuputra.
+Sepuluh jam lagi. Menjelang batas akhir somasi dan mediasi kepolisian, gelar perkara penyidik akan menentukan nasibku: apakah bukti kami diakui, atau namaku, Dita Maheswari, berisiko resmi ditetapkan sebagai Tersangka tindak pidana penggelapan cincin berlian warisan keluarga Danuputra.
 
 Aku menoleh menatap pecahan cermin rias retak yang tersandar di dinding papan loteng. Di pantulan bayangan gelap yang disinari kilatan petir dari celah atap, aku melihat sosok perempuan muda dengan mata bengkak, rambut kusut berantakan, dan wajah kuyu yang hancur tak bersisa.
 
@@ -1375,7 +1375,7 @@ Seluruh ego kemandirian palsu yang kubanggakan selama dua tahun runtuh rata deng
 
 Petir menyambar dahsyat di atas atap seng, menerangi baskom plastik yang mulai meluap menumpahkan air hujan ke lantai kayu.
 
-Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan menyerahkan diri ke meja Ipda Bambang Sutrisno dan menandatangani berita acara pemeriksaan sebagai tersangka tunggal, agar nama baik Bagas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
+Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan mendatangi meja Ipda Bambang Sutrisno dan pasrah menghadapi pemeriksaan penyidik sebagai pihak yang bertanggung jawab, agar nama baik Bagas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
 
 Biar aku sendiri yang menelan pil pahit ini sampai tuntas di balik jeruji besi tahanan.
 
@@ -1602,7 +1602,7 @@ Tepat pukul sembilan lewat lima puluh delapan menit, Ipda Bambang mendudukkan di
 
 Tok! Tok! Tok!
 
-"Sesi mediasi klarifikasi terakhir Laporan Polisi Nomor 1842 perihal dugaan tindak pidana Pasal 486 KUHP tentang penggelapan resmi saya buka," ucap Ipda Bambang dengan tatapan mata elang yang menyapu kedua belah pihak secara bergantian. "Tenggat waktu somasi dan mediasi awal jatuh tempo hari ini. Sesuai prosedur KUHAP, jika tidak ada kesepakatan damai atau bukti baru yang mengugurkan sangkaan, penyidik akan menggelar perkara untuk menetapkan status Tersangka hari ini juga."
+"Sesi mediasi klarifikasi terakhir Laporan Polisi Nomor 1842 perihal dugaan tindak pidana Pasal 486 KUHP tentang penggelapan resmi saya buka," ucap Ipda Bambang dengan tatapan mata elang yang menyapu kedua belah pihak secara bergantian. "Tenggat waktu somasi dan mediasi awal jatuh tempo hari ini. Sesuai prosedur hukum acara pidana, jika tidak ada bukti baru yang menggugurkan laporan, perkara ini akan langsung kami gelar untuk ditingkatkan ke tahap penyidikan guna menetapkan pihak yang bertanggung jawab."
 
 Ipda Bambang menoleh menatapku lurus-lurus. "Saudari Dita Maheswari, apakah pihak Terlapor membawa bukti otentik baru yang memenuhi standar laboratorium forensik kepolisian?"
 
@@ -1662,7 +1662,7 @@ Isak tangis histeris seketika meledak dari mulut Clarissa. Perempuan sosialita i
 
 Siang pukul setengah dua belas, lobi utama Gedung Satreskrim Polres Metro Jakarta Selatan dipenuhi sorot kilatan lampu kamera wartawan kriminal dan bisik-bisik heboh pengunjung kantor polisi.
 
-Di atas meja marmer lobi, sebuah surat kesepakatan damai berkop resmi kepolisian terhampar di hadapan kami. Di atas kertas bermeterai sepuluh ribu rupiah itu, jemari Clarissa Maharani yang gemetar hebat menandatangani lembar pencabutan Laporan Polisi Nomor LP/B/1842/XI/2026/SPKT/Polres Jaksel.
+Di atas meja marmer lobi, naskah kesepakatan perdamaian para pihak bermeterai sepuluh ribu rupiah dan surat permohonan pencabutan laporan terhampar di hadapan kami. Di samping dokumen administrasi kepolisian yang disiapkan penyidik, jemari Clarissa Maharani yang gemetar hebat menandatangani lembar pencabutan Laporan Polisi Nomor LP/B/1842/XI/2026/SPKT/Polres Jaksel.
 
 Surat itu menyatakan secara sah dan mengikat bahwa laporan dugaan penggelapan terhadap Dita Maheswari dan CV Bolu Ketan Mandiri murni gugur tanpa syarat, serta memulihkan nama baik agensi Bolu Ketan sebagai pihak yang bersih dari segala pelanggaran hukum.
 
@@ -1670,7 +1670,7 @@ Tante Debby berdiri di samping Clarissa dengan wajah kuyu dan mata yang sembap, 
 
 Bagas melangkah maju satu langkah, menatap Tante Debby dengan tatapan mata yang begitu dingin, tenang, dan tanpa kompromi.
 
-"Waktu Tante menyewa buzzer tiga puluh juta rupiah dan menyebarkan foto masa lalu Dita jam tiga subuh kemarin," ucap Bagas dengan suara bariton yang menusuk ulu hati, "apakah Tante pernah memikirkan masa depan Dita yang hancur? Tidak ada damai tertutup, Tante Debora. Video klarifikasi permintaan maaf publik tanpa potongan adalah syarat mutlak yang tidak bisa ditawar, atau saya perintahkan Darmawan mendaftarkan laporan balik Pasal 220 KUHP ke meja SPKT detik ini juga!"
+"Waktu Tante menyewa buzzer tiga puluh juta rupiah dan menyebarkan foto masa lalu Dita jam tiga subuh kemarin," ucap Bagas dengan suara bariton yang menusuk ulu hati, "apakah Tante pernah memikirkan masa depan Dita yang hancur? Tidak ada damai tertutup, Tante Debora. Video klarifikasi permintaan maaf publik tanpa potongan adalah syarat mutlak yang tidak bisa ditawar, atau saya perintahkan Darmawan mendaftarkan laporan balik pengaduan palsu Pasal 361 dan Pasal 437 KUHP ke meja SPKT detik ini juga!"
 
 Mendengar ancaman penjara nyata itu, nyali Tante Debby seketika ciut tuntas. Wanita sosialita bersasak kaku itu menundukkan kepalanya dalam-dalam, tak berani membantah sepatah kata pun.
 
@@ -1695,14 +1695,16 @@ Tepat saat mobil Alphard itu menghilang di tikungan jalan Wijaya, ponsel di saku
 
 Bagas menekan tombol jawab, lalu menyalakan pengeras suara di hadapanku.
 
-Suara sang ayah di seberang sana tidak lagi terdengar menggelegar marah persis kemarin sore, melainkan suara berat pria sepuh yang sarat keharuan dan rasa bangga yang mendalam:
-"Baskara... Ipda Bambang baru saja menelepon Ayah dan menceritakan seluruh pembuktian forensik sertifikat ibumu di meja penyidik. Ayah bangga padamu, Nak. Kamu membuktikan bahwa kamu anak laki-laki sejati yang berani membela kehormatan ibumu dan membela orang yang benar. Ayah mencabut seluruh ancaman pencoretan warisan kemarin. Dan tolong sampaikan permohonan maaf Ayah yang sebesar-besarnya kepada Nak Dita atas kesombongan keluarga kita."
+Suara sang ayah di seberang sana tidak lagi terdengar menggelegar marah persis kemarin sore, melainkan suara berat pria sepuh yang sarat keharuan meski masih menyisakan nada kaku khas pria berjarak:
+"Baskara... Ipda Bambang baru saja menelepon Ayah dan menceritakan seluruh pembuktian forensik sertifikat ibumu di meja penyidik. Ayah... Ayah akui kamu membuktikan keberanianmu membela kehormatan ibumu dan orang yang benar. Ayah mencabut ancaman pencoretan warisan kemarin. Dan tolong sampaikan permohonan maaf Ayah kepada Nak Dita atas prasangka keluarga kita."
 
-Bagas menghela napas panjang yang begitu lega, sebuah senyuman kebahagiaan merekah sempurna di wajah tampannya. "Terima kasih, Ayah. Salam buat keluarga di rumah."
+Bagas menghela napas panjang, tersenyum getir namun tenang. Ia tahu hubungan bertahun-tahun yang kaku dengan sang ayah tidak akan pulih sekejap mata hanya lewat satu panggilan telepon, tetapi pengakuan jujur itu adalah retakan pertama pada dinding keangkuhan keluarga yang selama ini menyesakkan dadanya.
 
-Bagas mematikan panggilan, lalu menoleh menatapku dengan mata cokelat gelapnya yang berbinar hangat di bawah sinar matahari Jakarta. Seluruh beban rasa bersalah dan tekanan keluarga yang membelenggunya selama bertahun-tahun kini telah luruh seutuhnya.
+"Terima kasih, Ayah," sahut Bagas santun. "Baskara hargai kata-kata Ayah. Nanti malam Baskara pulang sebentar untuk pamit baik-baik."
 
-Aku melipat surat resmi bermeterai pencabutan somasi itu rapi-rapi, memasukkannya ke dalam saku rompi Bolu Ketan-ku, lalu menatap Bagas sambil tersenyum lebar.
+Bagas mematikan panggilan, lalu menoleh menatapku dengan mata cokelat gelapnya yang berbinar tenang di bawah sinar matahari Jakarta. Beban rasa bersalah yang membelenggunya kini telah terangkat, membuka jalan baru yang lebih jujur.
+
+Aku melipat salinan surat kesepakatan damai dan permohonan pencabutan laporan bermeterai itu rapi-rapi, memasukkannya ke dalam saku rompi Bolu Ketan-ku, lalu menatap Bagas sambil tersenyum lebar.
 
 "Urusan hukum dan mantan lo resmi lunas, Mas Bagas," kataku dengan mata berbinar cerah. "Sekarang giliran kita buka gembok rantai ruko kita di Tebet!"
 
@@ -1734,7 +1736,7 @@ Di samping tangga, Restu tampak bangga menyetel karburator dan memasang kampas r
 
 "Mesin tua ini udah teruji nembus banjir Kuningan sama sarang buzzer, Mbak Dita!" seru Restu menepuk jok motornya dengan seringai lebar. "Tinggal ganti oli gardan, siap tancap gas lagi jemput koper mantan se-Jakarta!"
 
-Bagas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Bagas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
+Bagas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Bagas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Hubungannya dengan sang ayah mulai mencair dan saling menghormati meski butuh waktu untuk benar-benar akrab kembali. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
 
 Dari seberang jalan, Mbak Yeyen melangkah menyeberang membawa sebuah nampan anyaman bambu besar berisi tumpeng nasi kuning lengkap dengan suwiran ayam goreng, sambal goreng ati, dan irisan telur dadar tipis. Nampan tumpeng itu diletakkannya tepat di atas meja timbangan logistik Bolu Ketan.
 

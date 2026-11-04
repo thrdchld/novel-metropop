@@ -38,9 +38,9 @@ Aku terbelalak kaget. "Tapi Pak, itu data asli dari komputer kasir mereka!"
 
 Henry Sitompul tersenyum lebar penuh kemenangan, sementara Tante Debby di ujung ruangan tersenyum sinis mengejek.
 
-Ipda Bambang melirik jam dinding ruang penyidikan yang menunjukkan pukul sebelas lewat dua puluh menit. "Penyidik memberikan waktu mediasi terakhir satu kali dua puluh empat jam sampai besok siang pukul dua belas tepat. Jika Saudari Dita tidak bisa menyodorkan dokumen fisik asli bermeterai dari kantor pegadaian tersebut, status perkara ini resmi kami tingkatkan ke tahap Penyidikan dan Saudari akan dipanggil kembali sebagai Tersangka."
+Ipda Bambang melirik jam dinding ruang penyidikan yang menunjukkan pukul sebelas lewat dua puluh menit. "Penyidik memberikan waktu satu kali dua puluh empat jam sampai besok siang pukul dua belas untuk melengkapi bukti sanggahan sebelum tenggat klarifikasi ditutup. Jika pihak Terlapor tidak bisa menyodorkan dokumen fisik asli bermeterai dari kantor pegadaian tersebut, penyidik akan merekomendasikan perkara ini dinaikkan ke tahap penyidikan yang berujung penetapan status tersangka bagi Terlapor."
 
-Tersangka. Kata itu menghantam kepalaku persis palu godam raksasa.
+Tersangka. Risiko penetapan status hukum itu menghantam kepalaku persis palu godam raksasa.
 
 Saat aku dan Bagas melangkah gontai keluar dari lobi Gedung Satreskrim Polres Jaksel, ponsel pintarku mendadak berdering histeris. Nama Restu berkedip di layar.
 

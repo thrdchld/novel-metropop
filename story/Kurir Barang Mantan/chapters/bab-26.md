@@ -20,7 +20,7 @@ Pakde Broto melangkah keluar dari teras warung kelontongnya yang gelap membawa p
 
 Aku memandangi tumpukan kardus dan timbangan gantungku di trotoar jalan dengan dada yang terasa dihantam palu godam raksasa.
 
-Dua tahun perjuanganku merangkak membangun usaha ini dari nol... hancur lebur dalam satu malam di atas genangan air selokan Tebet. Kas operasional kantorku habis tak bersisa, reputasi bisnisku dicap sebagai maling oleh jutaan orang di media sosial, dan besok siang pukul dua belas statusku resmi ditetapkan sebagai Tersangka pidana di Polres Jaksel.
+Dua tahun perjuanganku merangkak membangun usaha ini dari nol... hancur lebur dalam satu malam di atas genangan air selokan Tebet. Kas operasional kantorku habis tak bersisa, reputasi bisnisku dicap sebagai maling oleh jutaan orang di media sosial, dan besok siang gelar perkara di Polres berisiko kuat menetapkan statusku sebagai Tersangka pidana penggelapan.
 
 "Mbak Dita..." Restu merogoh saku jaketnya yang basah, menyodorkan sebuah amplop cokelat kecil berisi selembar BPKB motor bebek kesayangannya ke tanganku. "Ini BPKB motor gue, Mbak. Besok pagi kita gadaikan ke pangkalan finance di Kampung Melayu. Duitnya buat sewa pengacara atau buat sewa tempat baru. Asal Mbak Dita jangan menyerah begini..."
 
