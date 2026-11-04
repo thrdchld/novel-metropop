@@ -12,7 +12,7 @@ Neneng Rohayati mengintip dari balik celah pintu. Wajah asisten pribadi Clarissa
 
 Kami berdua menyelinap masuk ke ruangan pengap itu. Bagas duduk di atas bangku plastik kecil di sudut ruangan, sementara aku berdiri menyandarkan punggung ke kusen pintu yang lembap.
 
-Nay berlutut di lantai semen beralas karpet plastik, air matanya seketika tumpah membasahi celana kulot tidurnya. "Pak Bagas, sumpah demi Allah, saya nggak ikut-ikutan fitnah itu! Kemarin sore Tante Debby datang ke kosan ini, ngancam bakal nuntut saya ganti rugi lima puluh juta rupiah sesuai klausul kontrak kerja kalau saya berani buka mulut ke polisi!"
+Nay berlutut di lantai semen beralas karpet plastik, air matanya seketika tumpah membasahi celana kulot tidurnya. "Pak Bagas, sumpah demi Allah, saya nggak ikut-ikutan fitnah itu! Selama enam bulan kerja sama Ibu Clarissa, saya sudah kenyang dimaki-maki dan dilempar gantungan baju tiap kali penagih arisan nelepon. Gaji saya dua bulan terakhir bahkan ditahan. Kemarin sore Tante Debby datang ke kosan ini, ngancam bakal nuntut saya lima puluh juta rupiah dan nuduh saya sekongkol kalau berani buka mulut ke polisi!"
 
 "Tarik napas dulu, Nay," ucap Bagas lembut dengan nada suara yang tenang menenangkan. "Saya tahu kamu cuma pekerja yang digaji bulanan. Saya tidak akan menuntut kamu sepeser pun. Tapi saya butuh kejujuran kamu soal koper hitam di lobi Senopati kemarin."
 
@@ -32,7 +32,7 @@ Jantungku berdegup kencang persis genderang perang. Petunjuk emas yang kami buru
 
 Nay meraba kolong kasur busanya, mengeluarkan sebuah tas kerja kanvas lusuh. Dari dalam dompet kartunya, ia menyodorkan selembar kartu plastik hitam bertuliskan: Gadai Swasta Mulia VIP Member Card atas nama Clarissa Maharani.
 
-"Kartu anggota loyalti ini ketinggalan di saku blazer Ibu Clarissa pas saya cuci di laundry," bisik Nay menyodorkan kartu itu ke tangan Bagas. "Nomor polis transaksi hari Sabtu itu terhubung sama akun loyalti ini, Pak."
+"Kartu anggota loyalti ini saya temukan di saku blazer Ibu Clarissa waktu saya antar ke laundry," bisik Nay menyodorkan kartu itu ke tangan Bagas dengan tangan gemetar. "Saya sengaja simpan kartu ini di dompet, Pak. Waktu Tante Debby mulai ngancam mau bikin laporan polisi, saya takut mereka bakal numbalin saya jadi kambing hitam. Kartu ini pegangan nyawa saya biar saya punya bukti kalau Ibu Clarissa sendiri yang bawa barang itu ke Senopati."
 
 Tepat saat Bagas menerima kartu plastik itu, suara deru knalpot motor berputar dua kali di depan gang sempit kosan. Dari jendela kaca nako yang sedikit terbuka di atas pintu, sorot lampu motor tampak menyapu dinding kamar petak kami.
 

@@ -16,9 +16,9 @@ Sebuah kantong beludru merah pudar berukuran kecil diletakkannya di atas telapak
 
 Bukan cincin berlian solitaire. Di dalam kantong beludru itu terbaring seutas gelang emas rantai bermotif bunga melati tua peninggalan almarhumah ibunya.
 
-"Ini gelang emas almarhumah Ibu saya yang dulu sempat digadaikan keluarga untuk biaya kuliah arsitektur saya," jelas Bagas pelan dengan suara tercekat di tenggorokan. "Saya tadi menebusnya menggunakan sisa tabungan terakhir saya sebesar lima belas juta rupiah. Gelang ini mau saya jadikan jaminan ke kantor hukum rekanan kampus saya, Darmawan, biar dia mau jadi kuasa hukum pro-bono mendampingi kamu di Polres besok siang!"
+"Ini gelang emas peninggalan almarhumah Ibu saya yang dulu digadaikan keluarga waktu biaya kuliah arsitektur saya macet," jelas Bagas pelan dengan suara tercekat di tenggorokan. "Saya tadi mencairkan sisa tabungan terakhir saya sebesar lima belas juta rupiah buat membayar biaya operasional perkara dan jasa audit forensik digital independen lewat rekan kampus saya, Darmawan. Pihak loket pegadaian tadi sekalian menyerahkan gelang Ibu saya yang cicilannya sudah lunas bulan lalu. Saya menyimpannya di saku bukan untuk main rahasia di belakang kamu, Dita!"
 
-Aku tertegun memandangi gelang emas itu, tapi otakku yang sudah diracuni trauma masa lalu menolak mencerna ketulusan kata-katanya. Di kepalaku, bayangan pengkhianatan Riko dua tahun lalu mendadak berputar liar persis film horor. Dulu Riko juga selalu beralasan mengamankan aset ibunya sebelum akhirnya membuangku demi perempuan berduit.
+Aku tertegun memandangi kantong perhiasan itu, tapi kepalaku yang dihantam tekanan berhari-hari mendadak dibakar trauma masa lalu. Di mataku yang buram oleh amarah, kantong perhiasan di tangan Bagas terasa persis seperti kesepakatan gelap di balik punggungku. Dua tahun lalu, Riko juga selalu beralasan mengurus aset keluarga sebelum akhirnya membuangku demi perempuan berduit.
 
 "Bohong!" sergahku dengan air mata amarah yang mendadak merebak di pelupuk mata. "Lo menebus gelang ini buat nyelamatin aset keluarga lo sendiri! Di ruang penyidik tadi, bokap lo nyuruh lo bayar uang damai dan ngorbanin Bolu Ketan! Lo pura-pura belain gue di depan, tapi di belakang lo udah siap barter nama baik gue biar nama keluarga Danuputra lo tetap bersih!"
 

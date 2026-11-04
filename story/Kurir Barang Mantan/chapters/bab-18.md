@@ -12,11 +12,13 @@ Mas Aris mendongak menatap Bagas, lalu matanya melirik cemas ke arah dua satpam 
 
 "Mas Bagas... tolong jangan bicara keras-keras," bisik Aris dengan suara tertahan. "Ferdi sudah telepon saya tadi sore. Tapi urusan data nasabah gadai ini menyangkut kode etik perbankan dan rahasia privasi perusahaan swasta. Kalau manajer cabang tahu saya membocorkan data nasabah VIP, saya bisa dipecat malam ini juga!"
 
-"Mas Aris, ini bukan soal kepo gosip pribadi," potongku tegas sambil menempelkan surat somasi Sitompul ke kaca konter kasir. "Nama saya Dita Maheswari. Agensi kurir saya difitnah mencuri cincin berlian seratus dua puluh juta milik almarhumah ibu Mas Bagas oleh nasabah VIP Mas yang namanya Clarissa Maharani! Kami cuma butuh verifikasi tanggal transaksi gadai cincin itu!"
+"Mas Aris, ini menyangkut perkara pidana serius," potongku tegas sambil menempelkan surat somasi dan surat panggilan klarifikasi Polres ke kaca konter. "Saya Dita Maheswari, pemilik Bolu Ketan yang difitnah menggelapkan cincin warisan peninggalan almarhumah ibu Mas Bagas oleh nasabah Mas, Clarissa Maharani."
 
-Mendengar nama Clarissa disebut, raut wajah Mas Aris mendadak berubah masam. Ada kilatan kejengkelan yang kentara di balik lensa kacamatanya.
+Bagas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh KUHP tentang penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
 
-"Clarissa Maharani..." gumam Mas Aris menggeleng-gelengkan kepala dengan nada dongkol. "Perempuan itu kemarin Sabtu datang ke sini dengan gaya luar biasa arogan. Dia membentak saya di depan nasabah lain gara-gara nilai taksiran pinjaman cincinnya saya tawar dari delapan puluh juta jadi enam puluh lima juta rupiah."
+Mendengar pasal penadahan dan nama Clarissa disebut, raut wajah Mas Aris mendadak berubah tegang. Ada kilatan kejengkelan sekaligus kekhawatiran yang kentara di balik lensa kacamatanya.
+
+"Clarissa Maharani..." gumam Mas Aris dengan napas tertahan. "Perempuan itu hari Sabtu kemarin datang ke sini dengan gaya luar biasa arogan. Dia mendesak pencairan kilat tanpa mau menunggu verifikasi asal-usul barang. Nilai taksirannya saya tawar dari delapan puluh juta jadi enam puluh lima juta rupiah karena dia tidak bawa sertifikat aslinya."
 
 Mata Bagas seketika membulat lebar menatap kaca konter. "Berarti benar Clarissa menggadaikan cincin almarhumah Ibu saya di sini?!"
 

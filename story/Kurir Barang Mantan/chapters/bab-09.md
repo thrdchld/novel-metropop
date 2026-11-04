@@ -29,13 +29,11 @@ Ruangan kantor lantai dua mendadak senyap. Angin pagi dari jendela balkon berhem
 
 "Selisihnya cuma lima gram..." bisik Bagas dengan mata terbelalak menatap layar komputernya. "Empat belas koma tiga ratus lima puluh kilogram berat kotor di lobi Senopati, dikurangi total isi koper empat belas koma tiga ratus empat puluh lima kilogram. Selisih lima gram itu wajar akibat debu jalanan dan kelembapan udara Jakarta."
 
-Aku melangkah maju, meletakkan sebuah kotak beludru perhiasan kosong berukuran delapan kali delapan sentimeter di atas piringan timbangan meja.
+Aku melangkah maju, menatap Bagas dengan pandangan menuntut. "Bagas, waktu koper diserahkan, Clarissa bilang kotak cincin itu kotak apa?"
 
-Layar digital timbangan seketika melonjak naik: tiga ratus dua puluh gram.
+"Itu bukan kotak beludru biasa dari toko emas modern, Mbak Dita," sahut Bagas cepat, matanya menyala teringat detail penting. "Itu kotak pusaka warisan kakek buyut saya peninggalan era kolonial. Rangkanya terbuat dari kuningan cor padat berlapis beludru marun tua, dengan pelat engsel timbal peredam benturan. Di buku inventaris keluarga besar kami, berat kosong kotak pusaka itu saja tercatat tiga ratus lima belas gram. Ditambah cincin emas putih solitaire satu koma dua karat, berat padatnya persis tiga ratus dua puluh gram."
 
-"Ini kotak perhiasan beludru standar toko emas dengan bantalan busa padat dan rangka kayu tipis," jelasku tenang tapi menusuk telak. "Kotak beludru kosong saja beratnya delapan puluh gram. Jika di dalamnya ada cincin emas putih bertatahkan berlian satu koma dua karat milik almarhumah ibu Mas, berat total kotaknya minimal tiga ratus dua puluh gram."
-
-Aku mengetuk piringan timbangan dengan ujung jariku. "Kalau kotak cincin itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di sistem kami seharusnya minimal empat belas koma enam ratus tujuh puluh kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
+Aku mengetuk piringan timbangan dengan ujung jariku, tersenyum tajam. "Tepat sekali! Kotak kuningan padat seberat tiga ratus dua puluh gram itu mustahil menguap jadi udara! Kalau kotak pusaka itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di manifes kami seharusnya minimal empat belas koma enam ratus tujuh puluh kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
 
 Bagas tertegun mematung. Matanya menatap timbangan digital dan catatan manifes di mejaku dengan tatapan takjub bercampur rasa kagum yang luar biasa.
 

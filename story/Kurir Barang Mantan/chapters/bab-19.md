@@ -20,7 +20,11 @@ Ting.
 Sebuah pesan WhatsApp masuk dari nomor lama yang sangat kuhafal: Riko Pratama.
 Makanya Dit, kalau jadi perempuan itu yang penurut. Dulu lo sok mandiri nolak uang damai pembatalan nikah dari keluarga gue, sekarang malah viral jadi maling cincin sosialita. Karma emang nggak pernah salah alamat.
 
-Tangisku seketika pecah tanpa suara di atas bantal kusamku. Aku memeluk kedua lututku di sudut kasur, merasa seluruh dunia sedang bersekongkol menenggelamkanku ke dasar lumpur.
+Tangisku seketika pecah tanpa suara di atas bantal kusamku. Di layar ponsel, tiga notifikasi pesan dari nomor pelanggan bisnis Bolu Ketan masuk beruntun. Klien pengembalian gaun pengantin di Kelapa Gading membatalkan orderan secara sepihak; klien paket kardus buku di Bintaro menuntut pengembalian uang muka karena takut barangnya dicuri.
+
+Total kehilangan pemasukan satu juta dua ratus ribu rupiah dalam tempo satu jam. Uang itu adalah anggaran kas untuk membayar uang makan mingguan Restu dan cicilan bensin operasional motor kargo kami. Jika kas Bolu Ketan lumpuh total, bukan cuma namaku yang tercoreng di penjara, tapi dapur hidup Restu dan uang sewa Pakde Broto bakal terancam gulung tikar.
+
+Aku memeluk kedua lututku di sudut kasur, merasa seluruh dunia sedang bersekongkol menenggelamkanku ke dasar lumpur.
 
 Tepat saat dadaku sesak menahan isak, ponselku kembali berdering. Bukan notifikasi bot, melainkan panggilan suara dari Bagas.
 

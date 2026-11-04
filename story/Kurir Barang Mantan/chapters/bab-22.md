@@ -20,20 +20,20 @@ Dua menit berselang yang terasa persis dua abad, ponsel pintarku di atas meja wa
 
 Aku menyambar ponsel dengan napas tertahan.
 
-Gambar itu menampilkan foto layar komputer kasir administrasi keuangan kampanye siber PT Digital Citra Nusantara:
+Gambar itu menampilkan foto selembar formulir penagihan dan layar monitor internal admin kampanye siber PT Digital Citra Nusantara:
 Kode Proyek: PROMO-BLACK-092.
 Target Kampanye: Pemilik Usaha Bolu Ketan (Dita Maheswari).
-Paket Layanan: Serbuan 5.000 Akun Bot Twitter/TikTok, Ulasan Bintang Satu Google Maps, dan amplifikasi akun gosip selebriti.
-Total Nilai Kontrak: Rp30.000.000 (tiga puluh juta rupiah) lunas ditransfer melalui mutasi rekening BCA.
-Nama Pemesan / Pengirim Dana: PT Debora Jaya Abadi (Rekening Bisnis Atas Nama Debora Simanjuntak alias Tante Debby!).
+Paket Layanan: Serbuan 5.000 Akun Bot, Ulasan Bintang Satu Google Maps, dan amplifikasi akun gosip.
+Nilai Penagihan: Rp30.000.000 (tiga puluh juta rupiah).
+Pihak Klien Pemesan: PT Debora Jaya Abadi (atas nama Debora Simanjuntak alias Tante Debby!).
 
-Bukti mutasi transfer perbankan resmi!
+Petunjuk konkret aliran dana!
 
-Bukan Clarissa yang membayar pasukan siber penghancur hidupku, melainkan Tante Debby menggunakan rekening perusahaan pribadinya!
+Bukan Clarissa yang membayar pasukan siber perusak reputasiku, melainkan Tante Debby menggunakan perusahaan pribadinya!
 
-"Dapat, Pakde!" bisikku dengan mata berbinar terang menatap layar ponsel. "Bukti transfer dana kampanye hitam tiga puluh juta rupiah dari rekening Tante Debby!"
+"Dapat petunjuknya, Pakde!" bisikku cepat menatap layar ponsel. "Formulir kontrak kerja kampanye hitam tiga puluh juta rupiah dipesan langsung oleh Tante Debby!"
 
-Pakde Broto tersenyum tipis, menggerakkan bidak bentengnya mematikan raja lawan di papan catur. "Sekakmat. Kebohongan yang ditutupi pakai uang selalu meninggalkan jejak bau kertas bank, Dita."
+Pakde Broto menatap foto itu dari balik kacamatanya, lalu menghela napas menenangkan. "Ini petunjuk awal yang sangat berharga, Dit. Tapi ingat, ini baru foto layar sepihak dari dalam kantor gelap. Di mata hukum, ini belum jadi bukti sah sebelum ada mutasi rekening perbankan yang dilegalisasi penyidik."
 
 Namun tepat saat kelegaan membuncah di dadaku, suara teriakan gaduh mendadak terdengar dari lobi lantai satu ruko agensi seberang jalan.
 

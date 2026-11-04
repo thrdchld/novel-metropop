@@ -2,9 +2,9 @@
 
 Pukul setengah delapan pagi, teras bengkel motor pangkalan Tebet mendadak berubah menjadi markas komando tempur dadakan. Bau kopi jahe Mbak Yeyen berbaur dengan deru knalpot motor dan gemeretak kertas berkas hukum yang digelar di atas kap boks kargo motor Restu.
 
-Jalan protokol Sudirman dan Rasuna Said Kuningan pagi ini dikabarkan lumpuh total macet parah akibat sebuah truk tronton bermuatan kontainer terguling melintang di jembatan layang Semanggi. Waktu mediasi di Polres Jaksel tinggal tersisa empat jam, dan kemacetan gila ibukota bisa menjadi musuh paling mematikan jika kami salah perhitungan.
+Jalan protokol Sudirman dan Rasuna Said Kuningan pagi ini dikabarkan lumpuh total macet parah akibat sebuah truk tronton bermuatan kontainer terguling melintang di jembatan layang Semanggi. Waktu mediasi dan gelar perkara di Polres Jaksel tinggal tersisa dua setengah jam menuju pukul sepuluh pagi, dan kemacetan gila ibukota bisa menjadi musuh paling mematikan jika kami salah perhitungan.
 
-"Jalur protokol Semanggi merah pekat di Google Maps, Mbak Dita!" seru Restu menunjuk layar ponselnya yang menampilkan garis merah gelap dari Pancoran sampai Slipi. "Kalau kita lewat jalur utama, jam dua belas siang kita masih bakal kejebak di kolong flyover Kuningan!"
+"Jalur protokol Semanggi merah pekat di Google Maps, Mbak Dita!" seru Restu menunjuk layar ponselnya yang menampilkan garis merah gelap dari Pancoran sampai Slipi. "Kalau kita lewat jalur utama, jam sepuluh pagi kita masih bakal kejebak di kolong flyover Kuningan!"
 
 "Makanya kita nggak akan lewat jalur mobil," sahutku tegas sambil mengikat tali rompi kanvas hitam Bolu Ketan di dadaku.
 

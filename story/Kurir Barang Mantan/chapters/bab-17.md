@@ -43,4 +43,4 @@ Jantungku berdegup kencang di balik jaket tebal Bagas. Di bawah kolong jembatan 
 Tepat saat itu, ponsel Bagas yang dibungkus kantong kresek di saku celananya bergetar kencang.
 
 Bagas merogoh ponselnya, membuka pesan suara darurat dari Ferdi di kantor SCBD:
-Gas! Berhasil! Gue berhasil membobol arsip data loyalti akun lama Clarissa yang tersinkron di sistem kantor! Nomor kontak personal kepala penaksir Gadai Swasta Mulia Senopati namanya Mas Aris! Loket nasabah VIP buka sampai jam tujuh malam khusus hari ini!
+Gas! Berhasil! Gue nemu history browser laptop kantor lo yang dulu sering dipakai Clarissa waktu urus vendor nikahan! Akun Google lamanya masih nyantol dan ada email janji temu taksiran perhiasan di Gadai Swasta Mulia Senopati! Penaksirnya Mas Aris Munandar, kawan futsal kita! Loket nasabah VIP buka sampai jam tujuh malam khusus hari ini!
