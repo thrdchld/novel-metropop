@@ -28,11 +28,11 @@ Sepuluh menit kemudian, Restu kembali ke ruko membawa dua cangkir kaleng kopi ja
 
 "Koper Senopati jam berapa kita jemput, Mbak?" tanya Restu sambil menyeruput kopinya.
 
-"Pukul sebelas siang kita harus sudah merapat di lobi Apartemen Royal Senopati," jelasku tegas sambil menyalakan layar laptop inventaris. "Nama kliennya Mas Bagas Danuputra. Koper dijemput dari perwakilan mantan tunangannya, namanya Clarissa Maharani. Isinya seserahan hantaran lamaran keluarga besar dan perhiasan pusaka."
+"Pukul sebelas siang kita harus sudah merapat di lobi Apartemen Royal Senopati," jelasku tegas sambil menyalakan layar laptop inventaris. "Nama kliennya Mas Baskara Danuputra, panggilannya Mas Ibas. Koper dijemput dari perwakilan mantan tunangannya, namanya Clarissa Maharani. Isinya seserahan hantaran lamaran keluarga besar dan perhiasan pusaka."
 
 Mendengar kata perhiasan pusaka, mata Restu kontan membulat lebar. "Waduh, barang mahal dong, Mbak? Nggak ngeri kita bawa pakai motor matik?"
 
-"Makanya SOP nomor satu wajib jalan," tegasku sambil menunjuk timbangan gantung digital yang tergantung di balok plafon. "Begitu koper diserahkan di lobi, timbang di depan asistennya. Catat berat kotor sampai tiga digit di belakang koma. Lakban segel merah bernomor seri langsung ditempel melintang di lubang kunci dan celah ritsleting. Mas Bagas bakal nunggu di ruko ini jam dua siang buat buka segelnya bareng kita."
+"Makanya SOP nomor satu wajib jalan," tegasku sambil menunjuk timbangan gantung digital yang tergantung di balok plafon. "Begitu koper diserahkan di lobi, timbang di depan asistennya. Catat berat kotor sampai tiga digit di belakang koma. Lakban segel merah bernomor seri langsung ditempel melintang di lubang kunci dan celah ritsleting. Mas Ibas bakal nunggu di ruko ini jam dua siang buat buka segelnya bareng kita."
 
 Restu mengangguk mantap, menepuk dada kurusnya dengan percaya diri. "Beres, Mbak Dita! Timbangan tera metrologi kita kan baru dikalibrasi bulan lalu sama dinas. Akurasinya sampai lima gram, semut nempel juga kebaca!"
 

@@ -12,7 +12,7 @@ Mbak Sandra menatap rompi kurirku dari ujung helm sampai ujung sepatu ketsku den
 
 "Saya bukan mau antar paket, Mbak," sahutku datar, menatap tepat ke bola matanya. "Saya mau ketemu Baskara Danuputra dari Divisi Pengadaan Interior lantai delapan belas."
 
-"Pak Bagas sedang rapat penting dengan konsorsium perhotelan," tolak Sandra ketus, kedua tangannya terlipat di dada. "Dan kalaupun beliau luang, staf kantor kami tidak menerima tamu jalanan tanpa konfirmasi janji temu resmi. Silakan tinggalkan suratnya di lobi basement!"
+"Pak Ibas sedang rapat penting dengan konsorsium perhotelan," tolak Sandra ketus, kedua tangannya terlipat di dada. "Dan kalaupun beliau luang, staf kantor kami tidak menerima tamu jalanan tanpa konfirmasi janji temu resmi. Silakan tinggalkan suratnya di lobi basement!"
 
 Kesabaranku yang tipis sejak subuh seketika putus tuntas.
 
@@ -22,31 +22,31 @@ Beberapa eksekutif berjas yang sedang mengantre di depan kedai kopi lobi kontan 
 
 "Mbak, jaga sopan santun ya! Sekuriti, tolong seret perempuan ini keluar!" perintah Sandra histeris.
 
-Tepat saat tangan satpam hendak mencengkeram lenganku, pintu lift eksekutif di samping konter berdenting halus. Tiga orang pria berjas melangkah keluar, dan salah satunya adalah Bagas. Di samping Bagas, seorang pria muda berkacamata dengan rambut ikal santai tampak memegang map biru.
+Tepat saat tangan satpam hendak mencengkeram lenganku, pintu lift eksekutif di samping konter berdenting halus. Tiga orang pria berjas melangkah keluar, dan salah satunya adalah Ibas. Di samping Ibas, seorang pria muda berkacamata dengan rambut ikal santai tampak memegang map biru.
 
-Mata Bagas seketika membulat saat melihatku berdiri di tengah kepungan satpam dengan map merah di tangan.
+Mata Ibas seketika membulat saat melihatku berdiri di tengah kepungan satpam dengan map merah di tangan.
 
-"Mbak Dita?!" seru Bagas kaget, langkahnya terhenti kaku.
+"Mbak Dita?!" seru Ibas kaget, langkahnya terhenti kaku.
 
-"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Bagas sambil berlari menengahi satpam. Pria itu menoleh menatapku dengan sopan namun terengah-engah cemas. "Mbak Dita pemilik kurir itu, kan? Kenalkan, saya Ferdi, arsitek proyek rekan divisi Bagas. Tenang dulu, Mbak! Semuanya aman, Pak Darto, ini urusan koordinasi vendor interior! Ayo, Mas Bagas, Mbak Dita, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas dan wartawan turun!"
+"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Ibas sambil berlari menengahi satpam. Pria itu menoleh menatapku dengan sopan namun terengah-engah cemas. "Mbak Dita pemilik kurir itu, kan? Kenalkan, saya Ferdi, arsitek proyek rekan divisi Ibas. Tenang dulu, Mbak! Semuanya aman, Pak Darto, ini urusan koordinasi vendor interior! Ayo, Mas Ibas, Mbak Dita, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas dan wartawan turun!"
 
 Ferdi mendorong kami berdua memasuki pintu besi tangga darurat yang sepi dan kedap suara.
 
-Begitu pintu besi tertutup rapat, aku langsung melangkah maju menyentakkan map merah ke dada Bagas. Kertas somasi Henry Sitompul berhamburan keluar menempel di kemeja licinnya.
+Begitu pintu besi tertutup rapat, aku langsung melangkah maju menyentakkan map merah ke dada Ibas. Kertas somasi Henry Sitompul berhamburan keluar menempel di kemeja licinnya.
 
 "Baca itu, Mas!" bentakku dengan napas terengah-engah menahan murka. "Empat belas hari! Mantan tunangan Mas ngelayangin somasi pidana dan bikin video viral nuduh Bolu Ketan sindikat maling cincin seratus dua puluh juta! Dan Mas enak-enakan ngumpet di gedung ber-AC ini sambil matiin nomor telepon?!"
 
-Bagas menyambar lembaran somasi itu dengan tangan gemetar. Wajahnya yang semula rapi mendadak hancur berantakan. Bukannya membantah atau membela diri, Bagas justru merogoh saku celananya dan menyodorkan layar ponsel pribadinya ke hadapanku.
+Ibas menyambar lembaran somasi itu dengan tangan gemetar. Wajahnya yang semula rapi mendadak hancur berantakan. Bukannya membantah atau membela diri, Ibas justru merogoh saku celananya dan menyodorkan layar ponsel pribadinya ke hadapanku.
 
-Di layar ponsel Bagas, sebuah pesan teks panjang dari kontak bertuliskan 'Ayah' terpampang jelas:
+Di layar ponsel Ibas, sebuah pesan teks panjang dari kontak bertuliskan 'Ayah' terpampang jelas:
 Baskara! Segera selesaikan aib koper dengan Clarissa dan kurir itu sebelum media mencium kasus ini! Kalau sampai nama klan Danuputra tercemar di berita kriminal kepolisian, jangan pernah injakkan kakimu di rumah keluarga besar lagi!
 
-"Saya tidak bersembunyi, Mbak Dita," ucap Bagas parau, suaranya sarat keputusasaan yang tulus. "Ponsel saya disita komisaris kantor tadi pagi karena lobi gedung ini sempat diteror panggilan telepon dari pengacara Clarissa. Saya bersumpah demi almarhumah Ibu saya, saya tidak pernah berniat menjebak Mbak Dita!"
+"Saya tidak bersembunyi, Mbak Dita," ucap Ibas parau, suaranya sarat keputusasaan yang tulus. "Ponsel saya disita komisaris kantor tadi pagi karena lobi gedung ini sempat diteror panggilan telepon dari pengacara Clarissa. Saya bersumpah demi almarhumah Ibu saya, saya tidak pernah berniat menjebak Mbak Dita!"
 
-Bagas menatapku dengan mata memerah menahan pedih. "Saya sendiri yang memotong lakban merah Bolu Ketan di ruko Mbak kemarin. Segelnya utuh tanpa goresan. Saya tahu pasti kurir Mbak tidak mencuri cincin itu. Clarissa yang berbohong!"
+Ibas menatapku dengan mata memerah menahan pedih. "Saya sendiri yang memotong lakban merah Bolu Ketan di ruko Mbak kemarin. Segelnya utuh tanpa goresan. Saya tahu pasti kurir Mbak tidak mencuri cincin itu. Clarissa yang berbohong!"
 
 Ferdi mengusap dagunya, menatap kami bergantian dengan kening berkerut. "Berarti koper itu memang sudah kosong sejak dari apartemen Senopati. Clarissa sengaja mengumpankan Bolu Ketan buat jadi tameng kambing hitam."
 
-Aku menghela napas panjang, kemarahanku perlahan surut berganti menjadi kalkulasi dingin. Bagas bukan dalang kriminal; dia sama terjepitnya denganku di bawah ancaman kehancuran reputasi.
+Aku menghela napas panjang, kemarahanku perlahan surut berganti menjadi kalkulasi dingin. Ibas bukan dalang kriminal; dia sama terjepitnya denganku di bawah ancaman kehancuran reputasi.
 
 "Kalau Mas memang nggak mau kita berdua masuk penjara bareng," kataku dingin sambil memungut kembali surat somasi di lantai, "mulai besok pagi lo harus ikut aturan main gue. Kita bongkar kebohongan Clarissa pakai data fisik sebelum empat belas hari ini bikin hidup kita tamat."

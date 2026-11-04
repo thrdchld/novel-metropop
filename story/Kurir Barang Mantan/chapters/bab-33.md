@@ -8,21 +8,21 @@ Darmawan meletakkan buku manifes fisik asli Bolu Ketan dan sebuah timbangan gant
 
 Aku melangkah maju berbicara dengan suara tenang namun menusuk telak. "Bukti pertama: data penimbangan bruto di lobi Apartemen Royal Senopati pada hari Selasa tanggal 3 November pukul 11.35 WIB. Timbangan gantung ini memiliki sertifikasi tera legal berakurasi lima gram dari Direktorat Metrologi Kementerian Perdagangan Republik Indonesia. Koper yang diserahkan asisten Clarissa terkunci rapat dan tercatat berbobot persis empat belas koma tiga ratus lima puluh kilogram dengan segel lakban merah BLK-SP-09."
 
-Aku menyodorkan lembar tabel forensik bobot barang. "Ketika koper dibuka di hadapan saksi pemilik barang, Mas Bagas, total berat seluruh isi koper seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat peninggalan keluarga Danuputra yang menyimpan cincin tersebut tercatat memiliki berat tiga ratus dua puluh gram. Secara hukum fisika metrologi, jika kotak kuningan pusaka itu ada di dalam koper saat diserahkan di lobi, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak cincin itu terbukti secara matematis tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen!"
+Aku menyodorkan lembar tabel forensik bobot barang. "Ketika koper dibuka di hadapan saksi pemilik barang, Mas Ibas, total berat seluruh isi koper seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat peninggalan keluarga Danuputra yang menyimpan cincin tersebut tercatat memiliki berat tiga ratus dua puluh gram. Secara hukum fisika metrologi, jika kotak kuningan pusaka itu ada di dalam koper saat diserahkan di lobi, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak cincin itu terbukti secara matematis tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen!"
 
 Advokat Henry Sitompul buru-buru menyela dengan ketukan meja keras. "Interupsi! Timbangan kurir motor jalanan tidak bisa dijadikan dasar mutlak di depan penyidik! Klien kami tetap pada keterangannya bahwa cincin itu ada di dalam koper!"
 
-"Tahan, Saudara Henry!" potong Bagas dengan suara bariton yang menggelegar dingin, membuat Henry seketika terbungkam kaku.
+"Tahan, Saudara Henry!" potong Ibas dengan suara bariton yang menggelegar dingin, membuat Henry seketika terbungkam kaku.
 
-Bagas membuka map kulit merah marun di tangannya. Dari dalamnya, Bagas mengeluarkan sertifikat perhiasan tebal berlapis mika hologram resmi berstandar internasional: GIA Diamond Dossier Certificate.
+Ibas membuka map kulit merah marun di tangannya. Dari dalamnya, Ibas mengeluarkan sertifikat perhiasan tebal berlapis mika hologram resmi berstandar internasional: GIA Diamond Dossier Certificate.
 
-Sertifikat asli batu permata itu diletakkan Bagas tepat di depan hidung Ipda Bambang Sutrisno.
+Sertifikat asli batu permata itu diletakkan Ibas tepat di depan hidung Ipda Bambang Sutrisno.
 
-"Ini sertifikat asli permata peninggalan almarhumah Ibu saya dari Gemological Institute of America," ucap Bagas dengan tatapan mata yang menyala tajam menatap Clarissa. "Cincin warisan keluarga Danuputra memiliki ukiran mikro laser mikroskopis pada lingkar dalam pinggang batu berliannya dengan kode unik: GIA-8921-PL. Nomor seri mikron ini terdaftar resmi secara internasional dan mustahil dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
+"Ini sertifikat asli permata peninggalan almarhumah Ibu saya dari Gemological Institute of America," ucap Ibas dengan tatapan mata yang menyala tajam menatap Clarissa. "Cincin warisan keluarga Danuputra memiliki ukiran mikro laser mikroskopis pada lingkar dalam pinggang batu berliannya dengan kode unik: GIA-8921-PL. Nomor seri mikron ini terdaftar resmi secara internasional dan mustahil dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
 
 Darmawan langsung menumpahkan kartu pamungkas kami: selembar salinan cetak database log sistem internal Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089.
 
-"Dan ini salinan resmi dokumen elektronik yang telah dilegalisasi dan sah menurut Pasal 235 KUHAP yang baru!" seru Darmawan menyodorkan lembaran itu ke meja penyidik. "Pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB... tiga hari sebelum koper diserahkan ke kurir Bolu Ketan... Saudari Clarissa Maharani mendatangi loket kasir Gadai Swasta Mulia Senopati membawa cincin berlian almarhumah Ibu Bagas, lalu menandatangani polis gadai nomor GSM-2026-089 untuk mencairkan uang tunai enam puluh lima juta rupiah! Di lembar database ini tertera jelas hasil verifikasi penaksir resmi: cincin yang digadaikan Clarissa memiliki ukiran mikro laser yang sama persis: GIA-8921-PL!"
+"Dan ini salinan resmi dokumen elektronik yang telah dilegalisasi dan sah menurut Pasal 235 KUHAP yang baru!" seru Darmawan menyodorkan lembaran itu ke meja penyidik. "Pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB... tiga hari sebelum koper diserahkan ke kurir Bolu Ketan... Saudari Clarissa Maharani mendatangi loket kasir Gadai Swasta Mulia Senopati membawa cincin berlian almarhumah Ibu Ibas, lalu menandatangani polis gadai nomor GSM-2026-089 untuk mencairkan uang tunai enam puluh lima juta rupiah! Di lembar database ini tertera jelas hasil verifikasi penaksir resmi: cincin yang digadaikan Clarissa memiliki ukiran mikro laser yang sama persis: GIA-8921-PL!"
 
 Brak!
 

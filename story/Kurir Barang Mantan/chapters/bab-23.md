@@ -2,7 +2,7 @@
 
 Ruang Unit Harta dan Benda (Harda) Satreskrim Polres Metro Jakarta Selatan di lantai dua beraroma kertas arsip perkara tua, kepulan asap rokok dari ruang konseling belakang, dan hembusan pendingin udara sentral yang menderu dingin.
 
-Senin pagi pukul sepuluh tepat, aku duduk di kursi plastik biru di depan meja kayu lapuk milik Inspektur Dua Polisi Bambang Sutrisno. Di samping kananku, Bagas duduk mendampingiku dengan setelan kemeja katun rapi, membawa map tebal berisi berkas pembelaan kami.
+Senin pagi pukul sepuluh tepat, aku duduk di kursi plastik biru di depan meja kayu lapuk milik Inspektur Dua Polisi Bambang Sutrisno. Di samping kananku, Ibas duduk mendampingiku dengan setelan kemeja katun rapi, membawa map tebal berisi berkas pembelaan kami.
 
 Di seberang meja kami, Advokat Henry Sitompul, S.H. duduk menyilangkan kaki dengan senyuman percaya diri yang angkuh. Di sampingnya, Clarissa Maharani duduk mengenakan kacamata hitam besar dan masker medis putih, tampak memasang pose wanita terzalimi yang rapuh.
 
@@ -24,7 +24,7 @@ Henry Sitompul seketika tertawa meremehkan, mengetuk meja dengan pulpen emasnya.
 
 Di layar ponselku, foto hasil jepretan layar komputer kasir Gadai Swasta Mulia Senopati terpampang jelas: menampilkan foto Clarissa menandatangani polis gadai nomor GSM-2026-089 senilai enam puluh lima juta rupiah pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB.
 
-"Ini buktinya, Pak Penyidik!" seruku lantang menunjuk foto layar itu. "Tiga hari sebelum koper diserahkan ke kurir saya, Clarissa sendiri yang menggadaikan cincin almarhumah ibu Mas Bagas di pegadaian Senopati demi menutup utang arisannya!"
+"Ini buktinya, Pak Penyidik!" seruku lantang menunjuk foto layar itu. "Tiga hari sebelum koper diserahkan ke kurir saya, Clarissa sendiri yang menggadaikan cincin almarhumah ibu Mas Ibas di pegadaian Senopati demi menutup utang arisannya!"
 
 Wajah Clarissa seketika memucat di balik maskernya. Jemarinya mencengkeram tali tasnya dengan panik.
 
@@ -42,7 +42,7 @@ Ipda Bambang melirik jam dinding ruang penyidikan yang menunjukkan pukul sebelas
 
 Tersangka. Risiko penetapan status hukum itu menghantam kepalaku persis palu godam raksasa.
 
-Saat aku dan Bagas melangkah gontai keluar dari lobi Gedung Satreskrim Polres Jaksel, ponsel pintarku mendadak berdering histeris. Nama Restu berkedip di layar.
+Saat aku dan Ibas melangkah gontai keluar dari lobi Gedung Satreskrim Polres Jaksel, ponsel pintarku mendadak berdering histeris. Nama Restu berkedip di layar.
 
 Aku menekan tombol jawab dengan tangan lemas. "Halo, Tu..."
 

@@ -27,7 +27,7 @@ Belum sempat aku mengatur napas, ponsel kantorku di lantai dua berdering gila-gi
 
 Pakde Broto melangkah masuk dari warung kelontongnya membawa segelas teh manis hangat. Wajah pria tua itu tenang, tapi sorot matanya sarat kecemasan. "Minum dulu, Dita. Orang kalau lagi mau dijatuhkan, hembusan angin sepoi pun bisa dipelintir jadi badai topan. Jangan panik dulu sebelum tahu duduk perkaranya."
 
-Aku meneguk teh hangat itu dengan tangan yang bergetar menahan amarah yang mendidih di dada. Otakku berputar cepat. Timbangan bruto di lobi Senopati tercatat persis 14,350 kg. Lakban segel BLK-SP-09 dipotong sendiri oleh Bagas di ruko ini. Segala bukti fisik ada di pihakku, tapi di mata peradilan media sosial yang picik, kurir motor jalanan akan selalu dianggap bersalah di hadapan tangisan perempuan kaya berwajah cantik.
+Aku meneguk teh hangat itu dengan tangan yang bergetar menahan amarah yang mendidih di dada. Otakku berputar cepat. Timbangan bruto di lobi Senopati tercatat persis 14,350 kg. Lakban segel BLK-SP-09 dipotong sendiri oleh Ibas di ruko ini. Segala bukti fisik ada di pihakku, tapi di mata peradilan media sosial yang picik, kurir motor jalanan akan selalu dianggap bersalah di hadapan tangisan perempuan kaya berwajah cantik.
 
 Tepat saat itu, suara deru knalpot motor pos kilat berhenti mendadak di depan pagar ruko. Seorang pria berseragam oranye melangkah masuk membawa buku ekspedisi tanda terima.
 

@@ -76,31 +76,31 @@ Napas berat otomatis berhembus dari hidungku. Bolpoin hitam di tanganku terhempa
 
 Pria necis itu seketika terperangah. Mulutnya yang tadi tampak siap memberi ceramah linguistik langsung terkatup rapat. Dia berdeham pelan, merapikan kerah kemejanya yang sebenarnya sudah sangat rapi, lalu buru-buru duduk tegak.
 
-"Maaf," ucapnya kaku. "Nama saya Baskara Danuputra. Panggil saja Bagas."
+"Maaf," ucapnya kaku. "Nama saya Baskara Danuputra. Panggil saja Ibas."
 
-"Dita Maheswari," sahutku singkat sambil menarik buku catatan pesanan VIP. "Jadi, ada masalah apa dengan koper di Senopati tadi, Mas Bagas?"
+"Dita Maheswari," sahutku singkat sambil menarik buku catatan pesanan VIP. "Jadi, ada masalah apa dengan koper di Senopati tadi, Mas Ibas?"
 
-Bagas membuka map kulit hitamnya, menyodorkan selembar surat kesepakatan keluarga yang dibubuhi meterai. Jemarinya tampak sedikit gemetar saat meletakkan kertas itu di mejaku.
+Ibas membuka map kulit hitamnya, menyodorkan selembar surat kesepakatan keluarga yang dibubuhi meterai. Jemarinya tampak sedikit gemetar saat meletakkan kertas itu di mejaku.
 
-"Saya baru saja membatalkan pernikahan saya," kata Bagas dengan nada datar yang dipaksakan tenang. "Dua minggu lagi harusnya kami akad, tapi ada ketidakjujuran prinsipil yang tidak bisa saya toleransi dari pihak mantan tunangan saya, seorang perempuan bernama Clarissa Maharani. Masalahnya, keluarga besar saya menuntut seluruh hantaran seserahan lamaran dan cincin berlian warisan almarhumah ibu saya ditarik kembali hari ini juga."
+"Saya baru saja membatalkan pernikahan saya," kata Ibas dengan nada datar yang dipaksakan tenang. "Dua minggu lagi harusnya kami akad, tapi ada ketidakjujuran prinsipil yang tidak bisa saya toleransi dari pihak mantan tunangan saya, seorang perempuan bernama Clarissa Maharani. Masalahnya, keluarga besar saya menuntut seluruh hantaran seserahan lamaran dan cincin berlian warisan almarhumah ibu saya ditarik kembali hari ini juga."
 
 Aku menyimak tanpa menyela. Cincin pusaka keluarga. Ini kategori barang berisiko tinggi. "Kenapa nggak Mas ambil sendiri ke apartemennya?"
 
-Bagas tersenyum getir, sorot matanya menyiratkan kepenatan luar biasa. "Mantan tunangan saya itu menolak bertemu saya langsung. Tadi pagi Clarissa mengirim pesan WhatsApp bahwa seluruh seserahan dan kotak cincin ibu saya sudah dimasukkan ke koper hitam besar dan digembok di penthouse-nya. Dia bilang, koper itu akan diserahkan lewat asisten pribadinya di lobi Apartemen Royal Senopati besok siang. Kalau saya berani datang sendiri ke sana, dia mengancam akan membuat keributan di lobi mal Senopati depan teman-teman arisannya."
+Ibas tersenyum getir, sorot matanya menyiratkan kepenatan luar biasa. "Mantan tunangan saya itu menolak bertemu saya langsung. Tadi pagi Clarissa mengirim pesan WhatsApp bahwa seluruh seserahan dan kotak cincin ibu saya sudah dimasukkan ke koper hitam besar dan digembok di penthouse-nya. Dia bilang, koper itu akan diserahkan lewat asisten pribadinya di lobi Apartemen Royal Senopati besok siang. Kalau saya berani datang sendiri ke sana, dia mengancam akan membuat keributan di lobi mal Senopati depan teman-teman arisannya."
 
 "Dan keluarga Mas menuntut barang itu kembali sebelum besok lusa?" tebakku.
 
-Bagas mengangguk pelan. "Ayah saya orang yang sangat menjaga kehormatan nama klan Danuputra. Beliau tidak mau tahu urusan patah hati saya; yang beliau tahu, cincin peninggalan almarhumah Ibu harus kembali utuh ke brankas keluarga sebelum rapat keluarga besar hari Rabu malam."
+Ibas mengangguk pelan. "Ayah saya orang yang sangat menjaga kehormatan nama klan Danuputra. Beliau tidak mau tahu urusan patah hati saya; yang beliau tahu, cincin peninggalan almarhumah Ibu harus kembali utuh ke brankas keluarga sebelum rapat keluarga besar hari Rabu malam."
 
 Aku mengangguk paham. Pola drama kelas atas yang lumrah di Jakarta: gengsi keluarga lebih mahal daripada kebahagiaan anak.
 
 "Bisa kami tangani," kataku lugas. "Paket VIP Penjemputan Khusus tarifnya lima ratus ribu rupiah tunai. Kami kirim kurir motor berboks kargo khusus besok pukul sebelas siang. Prosedur kami ketat: koper ditimbang di lobi Senopati di depan asisten mantan Mas menggunakan timbangan gantung digital bersertifikat tera metrologi resmi. Setelah itu, celah ritsleting dan lubang kunci kami segel dengan lakban merah bernomor seri khusus yang difoto di tempat. Koper langsung dibawa ke sini tanpa mampir."
 
-Bagas mengeluarkan dompet kulitnya dan meletakkan lima lembar uang seratus ribuan baru di atas mejaku. "Saya setuju. Besok siang saya tunggu koper itu di ruko ini. Saya ingin membukanya sendiri di depan Mbak Dita."
+Ibas mengeluarkan dompet kulitnya dan meletakkan lima lembar uang seratus ribuan baru di atas mejaku. "Saya setuju. Besok siang saya tunggu koper itu di ruko ini. Saya ingin membukanya sendiri di depan Mbak Dita."
 
 "Sepakat," kataku menuliskan kuitansi tanda terima resmi.
 
-Bagas bangkit dari kursi plastik, mengancingkan satu kancing kemejanya. Sebelum melangkah menuruni tangga, pandangannya sempat terpaku menatap jari manis tangan kirinya sendiri. Di sana tampak bekas lingkar putih tipis pada kulitnya yang memerah, tanda cincin pertunangan yang baru saja dilepas paksa. Dia menghela napas panjang dan berat, lalu berbalik pergi meninggalkan aroma parfum kayu cendana yang mahal di kantorku.
+Ibas bangkit dari kursi plastik, mengancingkan satu kancing kemejanya. Sebelum melangkah menuruni tangga, pandangannya sempat terpaku menatap jari manis tangan kirinya sendiri. Di sana tampak bekas lingkar putih tipis pada kulitnya yang memerah, tanda cincin pertunangan yang baru saja dilepas paksa. Dia menghela napas panjang dan berat, lalu berbalik pergi meninggalkan aroma parfum kayu cendana yang mahal di kantorku.
 
 ---
 
@@ -134,11 +134,11 @@ Sepuluh menit kemudian, Restu kembali ke ruko membawa dua cangkir kaleng kopi ja
 
 "Koper Senopati jam berapa kita jemput, Mbak?" tanya Restu sambil menyeruput kopinya.
 
-"Pukul sebelas siang kita harus sudah merapat di lobi Apartemen Royal Senopati," jelasku tegas sambil menyalakan layar laptop inventaris. "Nama kliennya Mas Bagas Danuputra. Koper dijemput dari perwakilan mantan tunangannya, namanya Clarissa Maharani. Isinya seserahan hantaran lamaran keluarga besar dan perhiasan pusaka."
+"Pukul sebelas siang kita harus sudah merapat di lobi Apartemen Royal Senopati," jelasku tegas sambil menyalakan layar laptop inventaris. "Nama kliennya Mas Baskara Danuputra, panggilannya Mas Ibas. Koper dijemput dari perwakilan mantan tunangannya, namanya Clarissa Maharani. Isinya seserahan hantaran lamaran keluarga besar dan perhiasan pusaka."
 
 Mendengar kata perhiasan pusaka, mata Restu kontan membulat lebar. "Waduh, barang mahal dong, Mbak? Nggak ngeri kita bawa pakai motor matik?"
 
-"Makanya SOP nomor satu wajib jalan," tegasku sambil menunjuk timbangan gantung digital yang tergantung di balok plafon. "Begitu koper diserahkan di lobi, timbang di depan asistennya. Catat berat kotor sampai tiga digit di belakang koma. Lakban segel merah bernomor seri langsung ditempel melintang di lubang kunci dan celah ritsleting. Mas Bagas bakal nunggu di ruko ini jam dua siang buat buka segelnya bareng kita."
+"Makanya SOP nomor satu wajib jalan," tegasku sambil menunjuk timbangan gantung digital yang tergantung di balok plafon. "Begitu koper diserahkan di lobi, timbang di depan asistennya. Catat berat kotor sampai tiga digit di belakang koma. Lakban segel merah bernomor seri langsung ditempel melintang di lubang kunci dan celah ritsleting. Mas Ibas bakal nunggu di ruko ini jam dua siang buat buka segelnya bareng kita."
 
 Restu mengangguk mantap, menepuk dada kurusnya dengan percaya diri. "Beres, Mbak Dita! Timbangan tera metrologi kita kan baru dikalibrasi bulan lalu sama dinas. Akurasinya sampai lima gram, semut nempel juga kebaca!"
 
@@ -162,11 +162,11 @@ Perempuan itu mengenakan setelan blazer linen krem yang pas badan, tapi wajahnya
 
 "Mbak Dita dari kurir Bolu Ketan, ya?" tanyanya dengan suara pelan setengah berbisik.
 
-"Benar. Saya Dita, ini Restu. Kami diperintahkan Mas Bagas Danuputra untuk mengambil koper seserahan," sahutku formal sambil menunjukkan surat kuasa digital di layar ponsel. "Dengan Mbak Clarissa?"
+"Benar. Saya Dita, ini Restu. Kami diperintahkan Pak Baskara Danuputra untuk mengambil koper seserahan," sahutku formal sambil menunjukkan surat kuasa digital di layar ponsel. "Dengan Mbak Clarissa?"
 
 Perempuan itu menggeleng cepat. "Bukan. Saya Neneng, panggil saja Nay. Saya asisten pribadi Ibu Clarissa. Ibu Clarissa sedang ada jadwal pemotretan di luar, jadi saya yang ditugaskan menyerahkan koper ini."
 
-Nay menyodorkan pegangan koper ke arahku dengan gerakan tergesa-gesa. "Semua barang seserahan, kain kebaya, tas, dan kotak perhiasan keluarga Pak Bagas sudah dimasukkan rapi di dalam koper oleh Ibu Clarissa tadi pagi. Tolong tanda tangani tanda terima ini sekarang ya, Mbak, saya harus buru-buru balik ke atas."
+Nay menyodorkan pegangan koper ke arahku dengan gerakan tergesa-gesa. "Semua barang seserahan, kain kebaya, tas, dan kotak perhiasan keluarga Pak Ibas sudah dimasukkan rapi di dalam koper oleh Ibu Clarissa tadi pagi. Tolong tanda tangani tanda terima ini sekarang ya, Mbak, saya harus buru-buru balik ke atas."
 
 Restu sudah bersiap menarik pegangan koper, tapi tanganku langsung terangkat menahan lengannya.
 
@@ -196,63 +196,63 @@ Restu mengangkat koper besar itu menuju motor kargo kami di luar lobi. "Aneh ban
 
 Aku menatap foto koper bersegel di ponselku dengan kening berkerut. Firasatku mengatakan ada yang tidak beres di lantai atas apartemen itu, tapi tugas logistik kami di Senopati telah tuntas sesuai prosedur.
 
-"Yang penting timbangan dan nomor segel kita sah di atas kertas, Tu," sahutku menaiki jok motor. "Ayo balik ke Tebet. Mas Bagas pasti sudah menunggu di ruko."
+"Yang penting timbangan dan nomor segel kita sah di atas kertas, Tu," sahutku menaiki jok motor. "Ayo balik ke Tebet. Mas Ibas pasti sudah menunggu di ruko."
 
 ---
 
 ## Bab 5: Kotak Cincin yang Raib
 
-Bagas sudah duduk di kursi plastik kantorku saat aku dan Restu tiba di lantai dua ruko Tebet tepat pukul setengah dua siang. Di atas meja kerjaku, secangkir teh tawar hangat buatan Pakde Broto sudah mendingin tanpa disentuh sama sekali. Kemeja katun abu-abu yang dikenakan pria SCBD itu tampak kusut di bagian siku, tanda ia sudah menunggu dengan gelisah selama berjam-jam.
+Ibas sudah duduk di kursi plastik kantorku saat aku dan Restu tiba di lantai dua ruko Tebet tepat pukul setengah dua siang. Di atas meja kerjaku, secangkir teh tawar hangat buatan Pakde Broto sudah mendingin tanpa disentuh sama sekali. Kemeja katun abu-abu yang dikenakan pria SCBD itu tampak kusut di bagian siku, tanda ia sudah menunggu dengan gelisah selama berjam-jam.
 
-Begitu Restu meletakkan koper hitam besar itu di atas karpet lantai kantor, Bagas langsung berdiri tegak. Matanya menatap koper itu dengan sorot campur aduk antara kelegaan dan kepedihan yang mendalam.
+Begitu Restu meletakkan koper hitam besar itu di atas karpet lantai kantor, Ibas langsung berdiri tegak. Matanya menatap koper itu dengan sorot campur aduk antara kelegaan dan kepedihan yang mendalam.
 
-"Kopernya utuh, Mas Bagas," kataku sambil menyeka peluh di dahi. "Ditimbang di lobi Senopati tadi persis empat belas koma tiga ratus lima puluh kilogram. Lakban segel merah Bolu Ketan dengan nomor seri BLK-SP-09 terpasang melintang di lubang kunci dan ritsleting."
+"Kopernya utuh, Mas Ibas," kataku sambil menyeka peluh di dahi. "Ditimbang di lobi Senopati tadi persis empat belas koma tiga ratus lima puluh kilogram. Lakban segel merah Bolu Ketan dengan nomor seri BLK-SP-09 terpasang melintang di lubang kunci dan ritsleting."
 
-Bagas berlutut di samping koper, memeriksa lakban segel merah itu dengan seksama. Dia meraba tepian lakban yang melekat sempurna tanpa ada bekas sobekan atau tempelan ulang. "Segelnya masih utuh sempurna. Terima kasih, Mbak Dita."
+Ibas berlutut di samping koper, memeriksa lakban segel merah itu dengan seksama. Dia meraba tepian lakban yang melekat sempurna tanpa ada bekas sobekan atau tempelan ulang. "Segelnya masih utuh sempurna. Terima kasih, Mbak Dita."
 
 "SOP unboxing kami mewajibkan pembukaan segel dilakukan oleh pemilik barang dengan dokumentasi video kantor," jelasku sambil mengarahkan kamera ponsel ke arah koper. "Silakan dibuka, Mas."
 
-Bagas mengambil gunting kecil yang kusodorkan. Dengan satu gerakan tegas, ia memotong lakban merah bernomor seri tersebut. Tangannya memutar tiga angka kombinasi pada gembok koper: 8-9-2. Suara klik tajam berbunyi nyaring di ruangan kecil itu.
+Ibas mengambil gunting kecil yang kusodorkan. Dengan satu gerakan tegas, ia memotong lakban merah bernomor seri tersebut. Tangannya memutar tiga angka kombinasi pada gembok koper: 8-9-2. Suara klik tajam berbunyi nyaring di ruangan kecil itu.
 
-Dua kepala ritsleting ditarik membuka. Bagas mengangkat tutup koper polikarbonat itu perlahan-lahan.
+Dua kepala ritsleting ditarik membuka. Ibas mengangkat tutup koper polikarbonat itu perlahan-lahan.
 
 Aroma wangi parfum mahal khas perempuan seketika menguar memenuhi udara ruko. Di dalam koper, tumpukan barang hantaran seserahan tersusun rapi: dua lembar kain songket Palembang bersulam emas, tiga potong gaun brokat pesta, sebuah tas tangan kulit bermerek asal Prancis, dan sepasang sepatu hak tinggi bertabur kristal swarovski. Semuanya masih terbungkus plastik mika transparan.
 
-Bagas menyisir tumpukan barang itu dengan napas tertahan. Jemarinya meraba ke sudut-sudut koper, lalu beralih membuka kantong ritsleting kecil berbahan beludru abu-abu di bagian dinding dalam koper.
+Ibas menyisir tumpukan barang itu dengan napas tertahan. Jemarinya meraba ke sudut-sudut koper, lalu beralih membuka kantong ritsleting kecil berbahan beludru abu-abu di bagian dinding dalam koper.
 
-Gerakan tangan Bagas mendadak membeku. Wajahnya yang semula tegang berubah pasi seputih kertas HVS.
+Gerakan tangan Ibas mendadak membeku. Wajahnya yang semula tegang berubah pasi seputih kertas HVS.
 
-"Nggak ada..." bisik Bagas parau.
+"Nggak ada..." bisik Ibas parau.
 
 Aku melangkah mendekat ke meja. "Apanya yang nggak ada, Mas?"
 
-Bagas membalikkan kantong beludru itu keluar: kantong itu kosong melompong tanpa isi apa pun. "Kotak beludru biru tua... cincin berlian warisan almarhumah Ibu saya. Clarissa bersumpah di chat tadi pagi bahwa dia memasukkan kotaknya di kantong dalam ini!"
+Ibas membalikkan kantong beludru itu keluar: kantong itu kosong melompong tanpa isi apa pun. "Kotak beludru biru tua... cincin berlian warisan almarhumah Ibu saya. Clarissa bersumpah di chat tadi pagi bahwa dia memasukkan kotaknya di kantong dalam ini!"
 
 Ruangan kantor lantai dua mendadak sunyi senyap, hanya menyisakan suara derit baling-baling kipas angin. Restu yang berdiri di samping pintu langsung terbelalak kaget.
 
-Bagas membongkar seluruh isi koper ke atas karpet dengan panik. Kain songket, gaun brokat, dan kotak sepatu dibukanya satu per satu dengan tangan gemetar hebat. Nihil. Tidak ada kotak perhiasan kecil di antara tumpukan barang seserahan itu.
+Ibas membongkar seluruh isi koper ke atas karpet dengan panik. Kain songket, gaun brokat, dan kotak sepatu dibukanya satu per satu dengan tangan gemetar hebat. Nihil. Tidak ada kotak perhiasan kecil di antara tumpukan barang seserahan itu.
 
-Bagas terduduk di lantai, napasnya memburu cepat. Pandangannya perlahan terangkat menatapku, sorot matanya yang semula ramah kini berubah tajam dan penuh kecurigaan yang menusuk.
+Ibas terduduk di lantai, napasnya memburu cepat. Pandangannya perlahan terangkat menatapku, sorot matanya yang semula ramah kini berubah tajam dan penuh kecurigaan yang menusuk.
 
-"Mbak Dita..." suara Bagas bergetar dingin. "Koper ini dibawa naik motor dari Senopati ke Tebet selama empat puluh menit. Apa kurir Mbak sempat berhenti di jalan?"
+"Mbak Dita..." suara Ibas bergetar dingin. "Koper ini dibawa naik motor dari Senopati ke Tebet selama empat puluh menit. Apa kurir Mbak sempat berhenti di jalan?"
 
-"Jaga omongan Mas Bagas!" potongku cepat dengan nada setajam pisau dapur. "Mas sendiri yang tadi memeriksa lakban segel merah nomor BLK-SP-09 dengan mata kepala sendiri sebelum Mas potong pakai gunting! Lakban itu segel tamper-evident; kalau sempat dibuka di jalan, tulisan VOID bakal muncul otomatis di permukaan dan nggak bisa ditempel ulang!"
+"Jaga omongan Mas Ibas!" potongku cepat dengan nada setajam pisau dapur. "Mas sendiri yang tadi memeriksa lakban segel merah nomor BLK-SP-09 dengan mata kepala sendiri sebelum Mas potong pakai gunting! Lakban itu segel tamper-evident; kalau sempat dibuka di jalan, tulisan VOID bakal muncul otomatis di permukaan dan nggak bisa ditempel ulang!"
 
-"Tapi cincin itu bernilai seratus dua puluh juta rupiah, Mbak!" bentak Bagas frustrasi, suaranya meninggi memenuhi ruko. "Itu cincin nikah almarhumah Ibu saya! Emas putih bertatahkan berlian satu koma dua karat warisan keluarga turun-temurun! Ayah saya bisa kena serangan jantung kalau cincin ini hilang!"
+"Tapi cincin itu bernilai seratus dua puluh juta rupiah, Mbak!" bentak Ibas frustrasi, suaranya meninggi memenuhi ruko. "Itu cincin nikah almarhumah Ibu saya! Emas putih bertatahkan berlian satu koma dua karat warisan keluarga turun-temurun! Ayah saya bisa kena serangan jantung kalau cincin ini hilang!"
 
 "Kalau Mas mau bukti, telepon Clarissa sekarang juga di depan saya! Buka speakernya!" tantangku tanpa gentar.
 
-Dengan tangan gemetar, Bagas menyambar ponselnya dan menekan tombol panggilan ke nomor Clarissa. Suara nada sambung terdengar tiga kali sebelum sebuah suara perempuan muda yang manja terdengar menjawab malas.
+Dengan tangan gemetar, Ibas menyambar ponselnya dan menekan tombol panggilan ke nomor Clarissa. Suara nada sambung terdengar tiga kali sebelum sebuah suara perempuan muda yang manja terdengar menjawab malas.
 
-"Halo, Bagas? Mau apa lagi sih kamu telepon-telepon? Koper kamu sudah kuoper ke kurir sewaan kamu kan?"
+"Halo, Ibas? Mau apa lagi sih kamu telepon-telepon? Koper kamu sudah kuoper ke kurir sewaan kamu kan?"
 
-"Clarissa, cincin berlian almarhumah Ibu saya mana?!" seru Bagas menahan amarah yang membakar dadanya. "Koper ini baru saya buka di depan kurirnya! Kantong dalamnya kosong!"
+"Clarissa, cincin berlian almarhumah Ibu saya mana?!" seru Ibas menahan amarah yang membakar dadanya. "Koper ini baru saya buka di depan kurirnya! Kantong dalamnya kosong!"
 
-Suara Clarissa di seberang telepon mendadak berubah histeris dan melengking tinggi. "Apa kamu bilang?! Jangan gila ya, Bagas! Kotak beludru biru itu kumasukkan sendiri di depan mata asistenku tadi pagi! Kalau cincin itu sekarang nggak ada, berarti kurir motor murah sewaan kamu yang maling cincin itu di jalan! Jangan berani-berani kamu fitnah aku ya!"
+Suara Clarissa di seberang telepon mendadak berubah histeris dan melengking tinggi. "Apa kamu bilang?! Jangan gila ya, Ibas! Kotak beludru biru itu kumasukkan sendiri di depan mata asistenku tadi pagi! Kalau cincin itu sekarang nggak ada, berarti kurir motor murah sewaan kamu yang maling cincin itu di jalan! Jangan berani-berani kamu fitnah aku ya!"
 
 Klik. Panggilan suara dimatikan sepihak dari seberang sana.
 
-Bagas menatap layar ponselnya yang padam dengan tatapan nanar tak berdaya, sementara aku berdiri mematung di samping timbangan gantungku, menyadari bahwa badai besar baru saja menghantam atap Bolu Ketan.
+Ibas menatap layar ponselnya yang padam dengan tatapan nanar tak berdaya, sementara aku berdiri mematung di samping timbangan gantungku, menyadari bahwa badai besar baru saja menghantam atap Bolu Ketan.
 
 ---
 
@@ -285,7 +285,7 @@ Belum sempat aku mengatur napas, ponsel kantorku di lantai dua berdering gila-gi
 
 Pakde Broto melangkah masuk dari warung kelontongnya membawa segelas teh manis hangat. Wajah pria tua itu tenang, tapi sorot matanya sarat kecemasan. "Minum dulu, Dita. Orang kalau lagi mau dijatuhkan, hembusan angin sepoi pun bisa dipelintir jadi badai topan. Jangan panik dulu sebelum tahu duduk perkaranya."
 
-Aku meneguk teh hangat itu dengan tangan yang bergetar menahan amarah yang mendidih di dada. Otakku berputar cepat. Timbangan bruto di lobi Senopati tercatat persis 14,350 kg. Lakban segel BLK-SP-09 dipotong sendiri oleh Bagas di ruko ini. Segala bukti fisik ada di pihakku, tapi di mata peradilan media sosial yang picik, kurir motor jalanan akan selalu dianggap bersalah di hadapan tangisan perempuan kaya berwajah cantik.
+Aku meneguk teh hangat itu dengan tangan yang bergetar menahan amarah yang mendidih di dada. Otakku berputar cepat. Timbangan bruto di lobi Senopati tercatat persis 14,350 kg. Lakban segel BLK-SP-09 dipotong sendiri oleh Ibas di ruko ini. Segala bukti fisik ada di pihakku, tapi di mata peradilan media sosial yang picik, kurir motor jalanan akan selalu dianggap bersalah di hadapan tangisan perempuan kaya berwajah cantik.
 
 Tepat saat itu, suara deru knalpot motor pos kilat berhenti mendadak di depan pagar ruko. Seorang pria berseragam oranye melangkah masuk membawa buku ekspedisi tanda terima.
 
@@ -320,7 +320,7 @@ Pakde Broto melangkah masuk ke ruangan lantai dua membawa segelas teh manis hang
 
 "Dita, dengar omongan orang tua," ucap Pakde Broto dengan suara berat yang meneduhkan. "Air keruh jangan diaduk pakai tangan kosong, nanti lumpurnya makin naik ke permukaan. Orang kota yang panik biasanya punya dua reaksi: menyerang membabi buta kayak mantan tunangannya itu, atau tiarap cari selamat kayak tamumu kemarin."
 
-"Tapi Bagas nggak angkat telepon saya, Pakde!" sahutku geram. "Jangan-jangan Bagas sama mantan tunangannya, si Clarissa itu, sengaja sekongkol buat ngorbanin kurir kecil kayak kita biar aib keluarga mereka tertutup!"
+"Tapi Ibas nggak angkat telepon saya, Pakde!" sahutku geram. "Jangan-jangan Ibas sama mantan tunangannya, si Clarissa itu, sengaja sekongkol buat ngorbanin kurir kecil kayak kita biar aib keluarga mereka tertutup!"
 
 Pakde Broto menggeleng pelan. "Kemarin Pakde lihat sorot mata anak muda itu pas kamu timbang koper di bawah. Orang yang punya niat maling nggak bakal punya sorot mata sehampa itu pas menatap bekas cincin di jarinya. Dia bukan penipu, Dita. Dia cuma orang yang terjepit di antara gengsi keluarga besarnya."
 
@@ -352,7 +352,7 @@ Mbak Sandra menatap rompi kurirku dari ujung helm sampai ujung sepatu ketsku den
 
 "Saya bukan mau antar paket, Mbak," sahutku datar, menatap tepat ke bola matanya. "Saya mau ketemu Baskara Danuputra dari Divisi Pengadaan Interior lantai delapan belas."
 
-"Pak Bagas sedang rapat penting dengan konsorsium perhotelan," tolak Sandra ketus, kedua tangannya terlipat di dada. "Dan kalaupun beliau luang, staf kantor kami tidak menerima tamu jalanan tanpa konfirmasi janji temu resmi. Silakan tinggalkan suratnya di lobi basement!"
+"Pak Ibas sedang rapat penting dengan konsorsium perhotelan," tolak Sandra ketus, kedua tangannya terlipat di dada. "Dan kalaupun beliau luang, staf kantor kami tidak menerima tamu jalanan tanpa konfirmasi janji temu resmi. Silakan tinggalkan suratnya di lobi basement!"
 
 Kesabaranku yang tipis sejak subuh seketika putus tuntas.
 
@@ -362,32 +362,32 @@ Beberapa eksekutif berjas yang sedang mengantre di depan kedai kopi lobi kontan 
 
 "Mbak, jaga sopan santun ya! Sekuriti, tolong seret perempuan ini keluar!" perintah Sandra histeris.
 
-Tepat saat tangan satpam hendak mencengkeram lenganku, pintu lift eksekutif di samping konter berdenting halus. Tiga orang pria berjas melangkah keluar, dan salah satunya adalah Bagas. Di samping Bagas, seorang pria muda berkacamata dengan rambut ikal santai tampak memegang map biru.
+Tepat saat tangan satpam hendak mencengkeram lenganku, pintu lift eksekutif di samping konter berdenting halus. Tiga orang pria berjas melangkah keluar, dan salah satunya adalah Ibas. Di samping Ibas, seorang pria muda berkacamata dengan rambut ikal santai tampak memegang map biru.
 
-Mata Bagas seketika membulat saat melihatku berdiri di tengah kepungan satpam dengan map merah di tangan.
+Mata Ibas seketika membulat saat melihatku berdiri di tengah kepungan satpam dengan map merah di tangan.
 
-"Mbak Dita?!" seru Bagas kaget, langkahnya terhenti kaku.
+"Mbak Dita?!" seru Ibas kaget, langkahnya terhenti kaku.
 
-"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Bagas sambil berlari menengahi satpam. Pria itu menoleh menatapku dengan sopan namun terengah-engah cemas. "Mbak Dita pemilik kurir itu, kan? Kenalkan, saya Ferdi, arsitek proyek rekan divisi Bagas. Tenang dulu, Mbak! Semuanya aman, Pak Darto, ini urusan koordinasi vendor interior! Ayo, Mas Bagas, Mbak Dita, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas dan wartawan turun!"
+"Tahan, Pak Darto! Tahan!" seru pria muda berkacamata di samping Ibas sambil berlari menengahi satpam. Pria itu menoleh menatapku dengan sopan namun terengah-engah cemas. "Mbak Dita pemilik kurir itu, kan? Kenalkan, saya Ferdi, arsitek proyek rekan divisi Ibas. Tenang dulu, Mbak! Semuanya aman, Pak Darto, ini urusan koordinasi vendor interior! Ayo, Mas Ibas, Mbak Dita, kita bicara di tangga darurat lantai tiga sekarang sebelum orang humas dan wartawan turun!"
 
 Ferdi mendorong kami berdua memasuki pintu besi tangga darurat yang sepi dan kedap suara.
 
-Begitu pintu besi tertutup rapat, aku langsung melangkah maju menyentakkan map merah ke dada Bagas. Kertas somasi Henry Sitompul berhamburan keluar menempel di kemeja licinnya.
+Begitu pintu besi tertutup rapat, aku langsung melangkah maju menyentakkan map merah ke dada Ibas. Kertas somasi Henry Sitompul berhamburan keluar menempel di kemeja licinnya.
 
 "Baca itu, Mas!" bentakku dengan napas terengah-engah menahan murka. "Empat belas hari! Mantan tunangan Mas ngelayangin somasi pidana dan bikin video viral nuduh Bolu Ketan sindikat maling cincin seratus dua puluh juta! Dan Mas enak-enakan ngumpet di gedung ber-AC ini sambil matiin nomor telepon?!"
 
-Bagas menyambar lembaran somasi itu dengan tangan gemetar. Wajahnya yang semula rapi mendadak hancur berantakan. Bukannya membantah atau membela diri, Bagas justru merogoh saku celananya dan menyodorkan layar ponsel pribadinya ke hadapanku.
+Ibas menyambar lembaran somasi itu dengan tangan gemetar. Wajahnya yang semula rapi mendadak hancur berantakan. Bukannya membantah atau membela diri, Ibas justru merogoh saku celananya dan menyodorkan layar ponsel pribadinya ke hadapanku.
 
-Di layar ponsel Bagas, sebuah pesan teks panjang dari kontak bertuliskan 'Ayah' terpampang jelas:
+Di layar ponsel Ibas, sebuah pesan teks panjang dari kontak bertuliskan 'Ayah' terpampang jelas:
 Baskara! Segera selesaikan aib koper dengan Clarissa dan kurir itu sebelum media mencium kasus ini! Kalau sampai nama klan Danuputra tercemar di berita kriminal kepolisian, jangan pernah injakkan kakimu di rumah keluarga besar lagi!
 
-"Saya tidak bersembunyi, Mbak Dita," ucap Bagas parau, suaranya sarat keputusasaan yang tulus. "Ponsel saya disita komisaris kantor tadi pagi karena lobi gedung ini sempat diteror panggilan telepon dari pengacara Clarissa. Saya bersumpah demi almarhumah Ibu saya, saya tidak pernah berniat menjebak Mbak Dita!"
+"Saya tidak bersembunyi, Mbak Dita," ucap Ibas parau, suaranya sarat keputusasaan yang tulus. "Ponsel saya disita komisaris kantor tadi pagi karena lobi gedung ini sempat diteror panggilan telepon dari pengacara Clarissa. Saya bersumpah demi almarhumah Ibu saya, saya tidak pernah berniat menjebak Mbak Dita!"
 
-Bagas menatapku dengan mata memerah menahan pedih. "Saya sendiri yang memotong lakban merah Bolu Ketan di ruko Mbak kemarin. Segelnya utuh tanpa goresan. Saya tahu pasti kurir Mbak tidak mencuri cincin itu. Clarissa yang berbohong!"
+Ibas menatapku dengan mata memerah menahan pedih. "Saya sendiri yang memotong lakban merah Bolu Ketan di ruko Mbak kemarin. Segelnya utuh tanpa goresan. Saya tahu pasti kurir Mbak tidak mencuri cincin itu. Clarissa yang berbohong!"
 
 Ferdi mengusap dagunya, menatap kami bergantian dengan kening berkerut. "Berarti koper itu memang sudah kosong sejak dari apartemen Senopati. Clarissa sengaja mengumpankan Bolu Ketan buat jadi tameng kambing hitam."
 
-Aku menghela napas panjang, kemarahanku perlahan surut berganti menjadi kalkulasi dingin. Bagas bukan dalang kriminal; dia sama terjepitnya denganku di bawah ancaman kehancuran reputasi.
+Aku menghela napas panjang, kemarahanku perlahan surut berganti menjadi kalkulasi dingin. Ibas bukan dalang kriminal; dia sama terjepitnya denganku di bawah ancaman kehancuran reputasi.
 
 "Kalau Mas memang nggak mau kita berdua masuk penjara bareng," kataku dingin sambil memungut kembali surat somasi di lantai, "mulai besok pagi lo harus ikut aturan main gue. Kita bongkar kebohongan Clarissa pakai data fisik sebelum empat belas hari ini bikin hidup kita tamat."
 
@@ -395,15 +395,15 @@ Aku menghela napas panjang, kemarahanku perlahan surut berganti menjadi kalkulas
 
 ## Bab 9: Timbangan Nggak Pernah Bohong
 
-Pukul setengah sembilan pagi, ruko Bolu Ketan di Tebet dipenuhi aroma kopi hitam pekat dan hamparan kertas dokumen logistik. Bagas datang tepat waktu, kali ini tanpa kemeja kaku SCBD. Dia mengenakan kaos polo abu-abu polos dan celana jins gelap, membawa laptop kerja tipis serta salinan resmi daftar seserahan keluarga Danuputra yang berkop meterai.
+Pukul setengah sembilan pagi, ruko Bolu Ketan di Tebet dipenuhi aroma kopi hitam pekat dan hamparan kertas dokumen logistik. Ibas datang tepat waktu, kali ini tanpa kemeja kaku SCBD. Dia mengenakan kaos polo abu-abu polos dan celana jins gelap, membawa laptop kerja tipis serta salinan resmi daftar seserahan keluarga Danuputra yang berkop meterai.
 
 Di meja kerja kayu lapukku, sebuah timbangan meja digital bersertifikat tera metrologi resmi sudah menyala dengan pendar LED hijau yang stabil di angka nol koma nol gram. Di sampingnya, koper kargo hitam Clarissa teronggok dengan tutup terbuka lebar.
 
 Restu dan Pakde Broto duduk di kursi plastik samping rak, menyaksikan kami dengan wajah tegang persis juri pengadilan tindak pidana korupsi.
 
-"Kita mulai dari matematika dasar jalanan, Mas Bagas," kataku sambil membuka buku manifes logistik bersampul kulit hitam. "Di lobi Apartemen Royal Senopati hari Selasa pukul sebelas lewat tiga puluh lima menit, Restu menimbang koper ini menggunakan timbangan gantung digital bersertifikat tera dinas metrologi resmi. Timbangan bruto yang disaksikan dan ditandatangani oleh asisten Clarissa, Nay, tercatat persis empat belas koma tiga ratus lima puluh kilogram."
+"Kita mulai dari matematika dasar jalanan, Mas Ibas," kataku sambil membuka buku manifes logistik bersampul kulit hitam. "Di lobi Apartemen Royal Senopati hari Selasa pukul sebelas lewat tiga puluh lima menit, Restu menimbang koper ini menggunakan timbangan gantung digital bersertifikat tera dinas metrologi resmi. Timbangan bruto yang disaksikan dan ditandatangani oleh asisten Clarissa, Nay, tercatat persis empat belas koma tiga ratus lima puluh kilogram."
 
-Bagas mengangguk cepat, jemarinya mengetikkan angka tersebut di tabel lembar kerja laptopnya. "Empat belas koma tiga ratus lima puluh kilo. Angka itu juga yang tertera di surat jalan resmi."
+Ibas mengangguk cepat, jemarinya mengetikkan angka tersebut di tabel lembar kerja laptopnya. "Empat belas koma tiga ratus lima puluh kilo. Angka itu juga yang tertera di surat jalan resmi."
 
 "Sekarang, kita timbang seluruh isi koper ini satu per satu di timbangan meja presisi lima gram ini," perintahku tegas.
 
@@ -416,25 +416,25 @@ Restu sigap bangkit berdiri, memakai sarung tangan kain putih persis petugas lab
 "Perlengkapan kosmetik dan botol parfum segel: dua koma seratus dua puluh lima kilogram."
 "Koper kosong polikarbonat hitam ukuran dua puluh delapan inci beserta gembok kombinasi: lima koma seratus tujuh puluh kilogram."
 
-Bagas menekan tombol enter pada papan ketik laptopnya. Rumus penjumlahan otomatis menghitung total seluruh bobot fisik benda yang terhampar di meja.
+Ibas menekan tombol enter pada papan ketik laptopnya. Rumus penjumlahan otomatis menghitung total seluruh bobot fisik benda yang terhampar di meja.
 
-Angka total yang muncul di layar laptop Bagas adalah: empat belas koma tiga ratus empat puluh lima kilogram.
+Angka total yang muncul di layar laptop Ibas adalah: empat belas koma tiga ratus empat puluh lima kilogram.
 
 Ruangan kantor lantai dua mendadak senyap. Angin pagi dari jendela balkon berhembus pelan menerbangkan ujung kertas manifes.
 
-"Selisihnya cuma lima gram..." bisik Bagas dengan mata terbelalak menatap layar komputernya. "Empat belas koma tiga ratus lima puluh kilogram berat kotor di lobi Senopati, dikurangi total isi koper empat belas koma tiga ratus empat puluh lima kilogram. Selisih lima gram itu wajar akibat debu jalanan dan kelembapan udara Jakarta."
+"Selisihnya cuma lima gram..." bisik Ibas dengan mata terbelalak menatap layar komputernya. "Empat belas koma tiga ratus lima puluh kilogram berat kotor di lobi Senopati, dikurangi total isi koper empat belas koma tiga ratus empat puluh lima kilogram. Selisih lima gram itu wajar akibat debu jalanan dan kelembapan udara Jakarta."
 
-Aku melangkah maju, menatap Bagas dengan pandangan menuntut. "Bagas, waktu koper diserahkan, Clarissa bilang kotak cincin itu kotak apa?"
+Aku melangkah maju, menatap Ibas dengan pandangan menuntut. "Ibas, waktu koper diserahkan, Clarissa bilang kotak cincin itu kotak apa?"
 
-"Itu bukan kotak beludru biasa dari toko emas modern, Mbak Dita," sahut Bagas cepat, matanya menyala teringat detail penting. "Itu kotak pusaka warisan kakek buyut saya peninggalan era kolonial. Rangkanya terbuat dari kuningan cor padat berlapis beludru marun tua, dengan pelat engsel timbal peredam benturan. Di buku inventaris keluarga besar kami, berat kosong kotak pusaka itu saja tercatat tiga ratus lima belas gram. Ditambah cincin emas putih solitaire satu koma dua karat, berat padatnya persis tiga ratus dua puluh gram."
+"Itu bukan kotak beludru biasa dari toko emas modern, Mbak Dita," sahut Ibas cepat, matanya menyala teringat detail penting. "Itu kotak pusaka warisan kakek buyut saya peninggalan era kolonial. Rangkanya terbuat dari kuningan cor padat berlapis beludru marun tua, dengan pelat engsel timbal peredam benturan. Di buku inventaris keluarga besar kami, berat kosong kotak pusaka itu saja tercatat tiga ratus lima belas gram. Ditambah cincin emas putih solitaire satu koma dua karat, berat padatnya persis tiga ratus dua puluh gram."
 
 Aku mengetuk piringan timbangan dengan ujung jariku, tersenyum tajam. "Tepat sekali! Kotak kuningan padat seberat tiga ratus dua puluh gram itu mustahil menguap jadi udara! Kalau kotak pusaka itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di manifes kami seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
 
-Bagas tertegun mematung. Matanya menatap timbangan digital dan catatan manifes di mejaku dengan tatapan takjub bercampur rasa kagum yang luar biasa.
+Ibas tertegun mematung. Matanya menatap timbangan digital dan catatan manifes di mejaku dengan tatapan takjub bercampur rasa kagum yang luar biasa.
 
 "Timbangan nggak pernah bohong, Mas," sambungku dingin. "Clarissa bisa menyewa sepuluh pengacara kondang dan menangis di depan sejuta netizen TikTok, tapi hukum fisika dan satuan gramatur metrologi nggak bisa dia sogok pakai air mata palsu. Cincin ibu Mas memang tidak pernah dimasukkan ke dalam koper itu sejak detik pertama di Senopati!"
 
-Bagas menghela napas panjang, beban berat yang menghimpit dadanya selama tiga hari terakhir tampak luruh seketika. "Luar biasa... Mbak Dita, kamu brilian sekali."
+Ibas menghela napas panjang, beban berat yang menghimpit dadanya selama tiga hari terakhir tampak luruh seketika. "Luar biasa... Mbak Dita, kamu brilian sekali."
 
 "Gue cuma kurir motor yang nggak mau mati konyol di penjara," sahutku datar menyembunyikan getar bangga di dada. "Data hitungan ini kita fotokopi rangkap tiga. Satu kita pegang, satu disimpan di brankas Pakde Broto, satu kita siapkan buat polisi. Tapi ini baru bukti kalau Clarissa bohong. Sekarang pertanyaan terbesarnya: di mana Clarissa menyembunyikan cincin itu?"
 
@@ -442,17 +442,17 @@ Bagas menghela napas panjang, beban berat yang menghimpit dadanya selama tiga ha
 
 ## Bab 10: Mi Rebus Jam Satu Malam
 
-Malam di lantai dua ruko Tebet menjelma sunyi saat jarum jam dinding melintasi angka satu dini hari. Suara dengung baling-baling kipas angin berbaur dengan ketukan jemari Bagas di atas papan ketik laptop yang menyala temaram.
+Malam di lantai dua ruko Tebet menjelma sunyi saat jarum jam dinding melintasi angka satu dini hari. Suara dengung baling-baling kipas angin berbaur dengan ketukan jemari Ibas di atas papan ketik laptop yang menyala temaram.
 
 Delapan jam menyisir mutasi rekening bank lama, riwayat unggahan media sosial Clarissa dari tiga tahun lalu, dan daftar anggota arisan berlian sosialita Jaksel membuat mataku perih persis digosok cabai rawit. Di atas karpet lantai kantor, tumpukan berkas cetak berserakan mengelilingi kami berdua.
 
 Kruuuk.
 
-Suara gemuruh nyaring dari dalam perut Bagas seketika memecah keheningan ruangan. Pria SCBD yang biasanya selalu menjaga citra wibawa itu mendadak membeku, lalu wajahnya bersemu merah padam menatap lantai.
+Suara gemuruh nyaring dari dalam perut Ibas seketika memecah keheningan ruangan. Pria SCBD yang biasanya selalu menjaga citra wibawa itu mendadak membeku, lalu wajahnya bersemu merah padam menatap lantai.
 
 Aku menahan tawa yang nyaris meledak dari mulutku. "Perut lo lebih jujur daripada laporan keuangan arisan mantan lo, Mas."
 
-"Maaf," gumam Bagas salah tingkah, merapikan lengan kaos polonya yang sudah tergulung ke siku. "Sejak kemarin siang saya cuma minum kopi saset di lobi kantor."
+"Maaf," gumam Ibas salah tingkah, merapikan lengan kaos polonya yang sudah tergulung ke siku. "Sejak kemarin siang saya cuma minum kopi saset di lobi kantor."
 
 "Tunggu di sini. Jangan sentuh dokumen manifes," perintahku sambil bangkit menuju dapur sempit di sudut belakang ruko.
 
@@ -460,45 +460,45 @@ Sepuluh menit kemudian, aku kembali menaiki tangga balkon lantai dua membawa seb
 
 Aku meletakkan panci itu di atas meja kayu rotan balkon ruko, di samping dua gelas teh tawar hangat. "Makan, Mas. Nggak ada lobster atau wagyu di Tebet jam segini. Cuma ada mi instan tanggal tua."
 
-Bagas melangkah keluar ke balkon, menatap panci aluminium itu dengan kening berkerut ragu. "Kita... makan langsung dari pancinya?"
+Ibas melangkah keluar ke balkon, menatap panci aluminium itu dengan kening berkerut ragu. "Kita... makan langsung dari pancinya?"
 
 "Iya lah, hemat cucian piring," cibirku sambil menyodorkan sepasang sumpit. "Mau makan atau mau nunggu restoran Senopati buka jam sepuluh pagi besok?"
 
-Bagas akhirnya duduk di kursi rotan seberangku. Dengan gerakan yang awalnya canggung dan kaku, ia menjepit sejumput mi kuning berkuah kental itu ke mulutnya. Begitu rasa gurih pedas kuah kari menyentuh lidahnya, matanya terpejam sejenak. Tanpa berkata-kata lagi, pria eksekutif itu melahap isi panci dengan rakus persis kuli bangunan yang baru lepas kerja lembur.
+Ibas akhirnya duduk di kursi rotan seberangku. Dengan gerakan yang awalnya canggung dan kaku, ia menjepit sejumput mi kuning berkuah kental itu ke mulutnya. Begitu rasa gurih pedas kuah kari menyentuh lidahnya, matanya terpejam sejenak. Tanpa berkata-kata lagi, pria eksekutif itu melahap isi panci dengan rakus persis kuli bangunan yang baru lepas kerja lembur.
 
 Di bawah balkon kami, jalanan Tebet tampak lengang dan damai. Angin malam berhembus sejuk menerbangkan rambut pendekku yang kusut.
 
-"Clarissa selalu melarang saya makan mi instan," ucap Bagas tiba-tiba dengan suara pelan di sela kunyahannya. Matanya memandangi uap panas yang membubung dari panci. "Dia bilang makanan ini menurunkan kelas sosial keluarga Danuputra. Tiga tahun pacaran, hidup saya persis jadwal pameran seni: semua harus estetik, semua harus bermerek, dan semua harus mahal agar teman-teman arisannya memuji."
+"Clarissa selalu melarang saya makan mi instan," ucap Ibas tiba-tiba dengan suara pelan di sela kunyahannya. Matanya memandangi uap panas yang membubung dari panci. "Dia bilang makanan ini menurunkan kelas sosial keluarga Danuputra. Tiga tahun pacaran, hidup saya persis jadwal pameran seni: semua harus estetik, semua harus bermerek, dan semua harus mahal agar teman-teman arisannya memuji."
 
-Bagas tersenyum getir, menatap tangannya yang memegang sumpit. "Pernikahan kami kemarin dia rancang menelan biaya tiga miliar rupiah. Uang tabungan pribadi saya ludes terpotong penalti pembatalan ballroom hotel dan katering mewah. Dan sekarang, dia tega memfitnah orang lain hanya demi menutupi utangnya."
+Ibas tersenyum getir, menatap tangannya yang memegang sumpit. "Pernikahan kami kemarin dia rancang menelan biaya tiga miliar rupiah. Uang tabungan pribadi saya ludes terpotong penalti pembatalan ballroom hotel dan katering mewah. Dan sekarang, dia tega memfitnah orang lain hanya demi menutupi utangnya."
 
 Aku meneguk teh tawar hangatku pelan, merasakan kegetiran yang sama merayapi dadaku. "Dua tahun lalu, mantan gue namanya Riko. Pegawai bank BUMN yang selalu rapi pakai kemeja batik sutra. Tujuh hari sebelum akad nikah, waktu tenda di rumah ibu gue di kampung sudah terpasang setengah jalan, dia kirim chat singkat bilang nikahnya batal karena dijodohkan sama anak direktur perbankannya."
 
-Bagas menoleh menatapku, matanya menyiratkan keterkejutan yang tulus. "Ditinggal nikah H-7?"
+Ibas menoleh menatapku, matanya menyiratkan keterkejutan yang tulus. "Ditinggal nikah H-7?"
 
 "Iya. Duit tabungan gue habis buat bayar uang muka tenda sama katering yang hangus," sahutku tersenyum pahit menatap lampu jalanan yang temaram. "Makanya gue bikin Bolu Ketan. Gue muak liat orang yang menganggap cinta itu bisa dibatalkan seenaknya tanpa peduli kehancuran orang lain."
 
-Bagas terdiam lama. Tatapannya menatap wajahku lurus-lurus di bawah pendar lampu balkon, bukan lagi tatapan klien korporat yang menjaga jarak, melainkan tatapan pria yang melihat bayangan lukanya sendiri pada diri seorang perempuan tangguh.
+Ibas terdiam lama. Tatapannya menatap wajahku lurus-lurus di bawah pendar lampu balkon, bukan lagi tatapan klien korporat yang menjaga jarak, melainkan tatapan pria yang melihat bayangan lukanya sendiri pada diri seorang perempuan tangguh.
 
 Meeong.
 
-Suara kucing belang tiga yang melintas di pagar balkon mengagetkan Bagas. Tangannya refleks tersenggol cangkir teh tawar hingga berguling miring.
+Suara kucing belang tiga yang melintas di pagar balkon mengagetkan Ibas. Tangannya refleks tersenggol cangkir teh tawar hingga berguling miring.
 
 "Awas tumpah!" seruku sigap mengulurkan tangan menangkap cangkir.
 
-Di detik yang sama, tangan Bagas juga terulur ke bawah. Telapak tangannya yang lebar dan hangat mendarat tepat di atas punggung tanganku yang kasar.
+Di detik yang sama, tangan Ibas juga terulur ke bawah. Telapak tangannya yang lebar dan hangat mendarat tepat di atas punggung tanganku yang kasar.
 
-Waktu seketika membeku di balkon ruko Tebet. Gemuruh deru angin malam seolah lenyap, menyisakan suara detak jantungku yang mendadak berdegup kencang tak beraturan. Di bawah temaram lampu jalanan, mata cokelat gelap Bagas menatap tepat ke manik mataku dari jarak yang hanya terpaut sejengkal. Ada getaran listrik aneh yang menjalar cepat dari telapak tangannya ke sekujur tubuhku.
+Waktu seketika membeku di balkon ruko Tebet. Gemuruh deru angin malam seolah lenyap, menyisakan suara detak jantungku yang mendadak berdegup kencang tak beraturan. Di bawah temaram lampu jalanan, mata cokelat gelap Ibas menatap tepat ke manik mataku dari jarak yang hanya terpaut sejengkal. Ada getaran listrik aneh yang menjalar cepat dari telapak tangannya ke sekujur tubuhku.
 
 Aku buru-buru menarik tanganku mundur, membetulkan letak cangkir dengan gugup. "K-kucing liar emang suka ngagetin jam segini."
 
-Bagas berdeham pelan, wajahnya tampak salah tingkah saat ia buru-buru mengalihkan pandangan ke layar ponselnya yang tergeletak di meja.
+Ibas berdeham pelan, wajahnya tampak salah tingkah saat ia buru-buru mengalihkan pandangan ke layar ponselnya yang tergeletak di meja.
 
-Mendadak mata Bagas membelalak lebar. Tangannya menyambar ponselnya dengan gerakan cepat. "Mbak Dita, lihat ini!"
+Mendadak mata Ibas membelalak lebar. Tangannya menyambar ponselnya dengan gerakan cepat. "Mbak Dita, lihat ini!"
 
 "Apaan?" tanyaku mendekat, berusaha mengusir sisa debar canggung di dadaku.
 
-Bagas memperlihatkan layar email lama kantornya yang masih terhubung dengan sinkronisasi akun belanja Clarissa: "Tiga hari sebelum serah terima koper di Senopati... Clarissa menerima email verifikasi penerimaan dana pinjaman jaminan barang mewah dari Gadai Swasta Mulia cabang Senopati!"
+Ibas memperlihatkan layar email lama kantornya yang masih terhubung dengan sinkronisasi akun belanja Clarissa: "Tiga hari sebelum serah terima koper di Senopati... Clarissa menerima email verifikasi penerimaan dana pinjaman jaminan barang mewah dari Gadai Swasta Mulia cabang Senopati!"
 
 ---
 
@@ -506,7 +506,7 @@ Bagas memperlihatkan layar email lama kantornya yang masih terhubung dengan sink
 
 Jumat siang di kawasan Senopati selalu dipenuhi deretan mobil mewah yang mengantre menuju restoran bistro dan butik kecantikan. Di teras depan lobi Apartemen Royal Senopati, matahari pukul sebelas memanggang aspal marmer dengan terik yang menyengat.
 
-Aku dan Bagas melangkah mantap memasuki lobi berpendingin udara sentral itu. Kali ini Bagas mengenakan kemeja biru muda berlengan panjang yang rapi, membawa map kulit berisi tanda terima resmi Bolu Ketan dan kartu tanda pengenal kepemilikan unit keluarga.
+Aku dan Ibas melangkah mantap memasuki lobi berpendingin udara sentral itu. Kali ini Ibas mengenakan kemeja biru muda berlengan panjang yang rapi, membawa map kulit berisi tanda terima resmi Bolu Ketan dan kartu tanda pengenal kepemilikan unit keluarga.
 
 Tujuan kami jelas: meminta rekaman kamera pengawas lobi pada hari Selasa kemarin pukul 11.30 WIB untuk membuktikan kondisi fisik penyerahan koper oleh Nay.
 
@@ -514,13 +514,13 @@ Di ruang administrasi pengelola gedung lantai dasar, seorang pria tambun berusia
 
 Pak Heru meletakkan surat permohonan kami ke atas meja dengan gerakan malas tanpa membaca isinya sama sekali.
 
-"Tidak bisa, Pak Bagas," tolak Heru datar, suaranya terdengar kaku persis rekaman mesin penjawab. "Sesuai Standar Operasional Prosedur manajemen Apartemen Royal Senopati, seluruh rekaman CCTV di area lobi, koridor, dan lift adalah data privasi penghuni VIP. Rekaman hanya boleh dibuka jika ada surat penetapan resmi dari pengadilan negeri atau persetujuan tertulis dari pemilik unit yang bersangkutan."
+"Tidak bisa, Pak Ibas," tolak Heru datar, suaranya terdengar kaku persis rekaman mesin penjawab. "Sesuai Standar Operasional Prosedur manajemen Apartemen Royal Senopati, seluruh rekaman CCTV di area lobi, koridor, dan lift adalah data privasi penghuni VIP. Rekaman hanya boleh dibuka jika ada surat penetapan resmi dari pengadilan negeri atau persetujuan tertulis dari pemilik unit yang bersangkutan."
 
-"Pak Heru, saya mantan tunangan penghuni unit 18B dan saya yang membayar uang sewa unit itu selama satu tahun penuh!" sanggah Bagas tegas, suaranya meninggi menahan kejengkelan. "Koper yang diserahkan di lobi kemarin melibatkan tuduhan pidana pencurian yang menyeret nama saya dan kurir ini! Saya cuma butuh bukti video sepuluh menit saat asisten Clarissa menyerahkan koper itu!"
+"Pak Heru, saya mantan tunangan penghuni unit 18B dan saya yang membayar uang sewa unit itu selama satu tahun penuh!" sanggah Ibas tegas, suaranya meninggi menahan kejengkelan. "Koper yang diserahkan di lobi kemarin melibatkan tuduhan pidana pencurian yang menyeret nama saya dan kurir ini! Saya cuma butuh bukti video sepuluh menit saat asisten Clarissa menyerahkan koper itu!"
 
-Heru tersenyum tipis, senyuman dingin khas pengelola gedung elit yang sudah terbiasa menghadapi drama rumah tangga orang kaya. "Justru karena menyangkut perkara hukum, kami harus sangat berhati-hati, Pak Bagas. Dan perlu saya informasikan, kemarin sore perwakilan keluarga Ibu Clarissa, yaitu Ibu Debora, sudah datang langsung ke kantor ini membawa kuasa hukum beliau."
+Heru tersenyum tipis, senyuman dingin khas pengelola gedung elit yang sudah terbiasa menghadapi drama rumah tangga orang kaya. "Justru karena menyangkut perkara hukum, kami harus sangat berhati-hati, Pak Ibas. Dan perlu saya informasikan, kemarin sore perwakilan keluarga Ibu Clarissa, yaitu Ibu Debora, sudah datang langsung ke kantor ini membawa kuasa hukum beliau."
 
-"Ibu Debora itu adik kandung almarhumah ibu Clarissa, biasa dipanggil Tante Debby," bisik Bagas pelan di sampingku dengan rahang mengeras kaku. "Dia yang selama ini jadi otak di balik semua gaya hidup sosialita Clarissa."
+"Ibu Debora itu adik kandung almarhumah ibu Clarissa, biasa dipanggil Tante Debby," bisik Ibas pelan di sampingku dengan rahang mengeras kaku. "Dia yang selama ini jadi otak di balik semua gaya hidup sosialita Clarissa."
 
 "Ibu Debora secara resmi telah mencabut kartu akses tamu VIP atas nama Saudara Baskara Danuputra," lanjut Heru tanpa beban. "Pihak keluarga melarang keras manajemen memberikan data, rekaman visual, maupun informasi apa pun kepada pihak luar tanpa izin kantor hukum Sitompul dan Rekan. Jadi, mohon maaf, urusan Bapak di gedung ini sudah selesai."
 
@@ -528,17 +528,17 @@ Heru tersenyum tipis, senyuman dingin khas pengelola gedung elit yang sudah terb
 
 Muka Heru seketika memerah padam mendengar tuduhanku. Tangannya memencet tombol interkom di atas meja dengan kasar. "Sekuriti lobi, tolong amankan dua orang ini keluar dari area gedung sekarang juga! Mengganggu ketertiban umum!"
 
-Tiga petugas sekuriti bertubuh kekar bersafari hitam langsung menerobos masuk ke ruangan administrasi. Sebelum keributan fisik yang memalukan terjadi, Bagas menahan pundakku dan memberi isyarat agar kami mundur secara terhormat.
+Tiga petugas sekuriti bertubuh kekar bersafari hitam langsung menerobos masuk ke ruangan administrasi. Sebelum keributan fisik yang memalukan terjadi, Ibas menahan pundakku dan memberi isyarat agar kami mundur secara terhormat.
 
-"Kita keluar sekarang, Mbak Dita," bisik Bagas pelan namun tajam.
+"Kita keluar sekarang, Mbak Dita," bisik Ibas pelan namun tajam.
 
 Kami melangkah keluar dari lobi apartemen diiringi tatapan sinis resepsionis dan penjagaan ketat satpam sampai ke trotoar luar gerbang besi. Panas matahari Jakarta seketika menyengat kulit wajahku, membakar amarah yang tertahan di tenggorokan.
 
 "Percuma," gerutuku sambil menendang kerikil di trotoar jalan. "Tante Debby sudah mengunci semua pintu apartemen itu pakai uang dan koneksi hukum."
 
-Bagas tidak langsung menyahut. Matanya menyipit menatap pos sekuriti gerbang luar yang berjarak dua puluh meter dari tempat kami berdiri. Di sana, seorang satpam muda berwajah ramah sedang mencatat nomor pelat mobil masuk di buku mutasi.
+Ibas tidak langsung menyahut. Matanya menyipit menatap pos sekuriti gerbang luar yang berjarak dua puluh meter dari tempat kami berdiri. Di sana, seorang satpam muda berwajah ramah sedang mencatat nomor pelat mobil masuk di buku mutasi.
 
-"Mbak Dita perhatiin satpam muda di pos gerbang tadi?" tanya Bagas berbisik.
+"Mbak Dita perhatiin satpam muda di pos gerbang tadi?" tanya Ibas berbisik.
 
 Aku menoleh heran. "Kenapa emangnya?"
 
@@ -546,11 +546,11 @@ Aku menoleh heran. "Kenapa emangnya?"
 
 Mataku seketika berbinar terang. Di kota sebesar Jakarta, jejaring pangkalan dan ikatan kampung halaman sering kali jauh lebih sakti daripada surat penetapan pengadilan negeri.
 
-Sebelum aku sempat menimpali, sebuah mobil sedan Toyota Camry hitam berkaca gelap melintas sangat pelan di depan trotoar kami. Dari celah kaca depan yang sedikit terbuka, sebuah lensa kamera ponsel tampak membidik wajahku dan Bagas dari jarak dekat sebelum mobil itu mendadak tancap gas membelah jalanan Senopati.
+Sebelum aku sempat menimpali, sebuah mobil sedan Toyota Camry hitam berkaca gelap melintas sangat pelan di depan trotoar kami. Dari celah kaca depan yang sedikit terbuka, sebuah lensa kamera ponsel tampak membidik wajahku dan Ibas dari jarak dekat sebelum mobil itu mendadak tancap gas membelah jalanan Senopati.
 
-Ponsel di saku celana Bagas mendadak bergetar kencang. Nama Ferdi berkedip di layar.
+Ponsel di saku celana Ibas mendadak bergetar kencang. Nama Ferdi berkedip di layar.
 
-Bagas menekan tombol jawab. "Halo, Fer?"
+Ibas menekan tombol jawab. "Halo, Fer?"
 
 Suara Ferdi di seberang sana terdengar panik dan terengah-engah. "Gas! Lo di mana sekarang?! Gawat, Gas! Tante Debby sama pengacara Sitompul baru aja melabrak kantor kita di SCBD! Mereka bawa wartawan infotainment dan nuntut direksi memecat lo hari ini juga!"
 
@@ -560,96 +560,96 @@ Suara Ferdi di seberang sana terdengar panik dan terengah-engah. "Gas! Lo di man
 
 Kepanikan di kantor SCBD belum sempat kami tangani ketika bencana operasional lain mendadak meledak di markas Bolu Ketan.
 
-Sabtu siang pukul dua, ponselku berdering histeris di saku celana saat aku dan Bagas baru saja memarkir motor di dekat halte Senayan. Suara Restu di seberang telepon terdengar melengking tinggi diiringi suara sesenggukan tangis yang nyaris membuat gendang telingaku pecah.
+Sabtu siang pukul dua, ponselku berdering histeris di saku celana saat aku dan Ibas baru saja memarkir motor di dekat halte Senayan. Suara Restu di seberang telepon terdengar melengking tinggi diiringi suara sesenggukan tangis yang nyaris membuat gendang telingaku pecah.
 
 "Mbak Ditaaa! Tolongin gue, Mbak! Mau nyebur ke kali Ciliwung aja rasanya gue sekarang!"
 
 Aku menjauhkan ponsel sejengkal dari telinga. "Tarik napas dulu, Restu! Ada apa lagi sih?!"
 
-"Gue salah tempel stiker resi pengantaran, Mbak!" ratap Restu dengan suara gemetar hebat diselingi sedotan ingus keras. "Kardus pesanan paket biasa kode BLK-084... yang isinya kemeja batik pesanan Bu Ratna buat selingkuhannya di Slipi... malah ketuker stiker resi kilat dokumen tender kantor Mas Bagas di SCBD! Paket kemeja batik sutra motif naga itu sekarang sudah diantar kurir cadangan dan tergeletak manis di meja sekretaris direktur utama kantor Mas Bagas!"
+"Gue salah tempel stiker resi pengantaran, Mbak!" ratap Restu dengan suara gemetar hebat diselingi sedotan ingus keras. "Kardus pesanan paket biasa kode BLK-084... yang isinya kemeja batik pesanan Bu Ratna buat selingkuhannya di Slipi... malah ketuker stiker resi kilat dokumen tender kantor Mas Ibas di SCBD! Paket kemeja batik sutra motif naga itu sekarang sudah diantar kurir cadangan dan tergeletak manis di meja sekretaris direktur utama kantor Mas Ibas!"
 
-Mendengar nama kantornya disebut, Bagas yang berdiri di sampingku langsung tersentak kaget. Matanya membelalak lebar menatap layar ponselku.
+Mendengar nama kantornya disebut, Ibas yang berdiri di sampingku langsung tersentak kaget. Matanya membelalak lebar menatap layar ponselku.
 
-"Apa?!" seru Bagas menyambar ponsel dari tanganku. "Restu! Itu meja Direktur Utama saya, Pak Hartawan! Kalau kardus kemeja batik perselingkuhan itu dibuka sekretaris beliau di depan dewan komisaris, saya bisa langsung dipecat tanpa pesangon detik ini juga!"
+"Apa?!" seru Ibas menyambar ponsel dari tanganku. "Restu! Itu meja Direktur Utama saya, Pak Hartawan! Kalau kardus kemeja batik perselingkuhan itu dibuka sekretaris beliau di depan dewan komisaris, saya bisa langsung dipecat tanpa pesangon detik ini juga!"
 
-"Gue khilaf, Mas Bagas! Mata gue sepet banget semalam gara-gara diserbu akun bot netizen TikTok!" raung Restu dari seberang telepon. "Kardusnya baru ditaruh di meja sekretaris lobi lantai delapan belas sepuluh menit lalu! Mas Bagas, tolongin, Mas! Jangan kutuk gue jadi ban motor bekas!"
+"Gue khilaf, Mas Ibas! Mata gue sepet banget semalam gara-gara diserbu akun bot netizen TikTok!" raung Restu dari seberang telepon. "Kardusnya baru ditaruh di meja sekretaris lobi lantai delapan belas sepuluh menit lalu! Mas Ibas, tolongin, Mas! Jangan kutuk gue jadi ban motor bekas!"
 
-Bagas mematikan panggilan dengan napas memburu. Wajah pria SCBD yang biasanya selalu menjaga etiket santun itu mendadak berubah tegang persis komandan perang di garis depan.
+Ibas mematikan panggilan dengan napas memburu. Wajah pria SCBD yang biasanya selalu menjaga etiket santun itu mendadak berubah tegang persis komandan perang di garis depan.
 
-"Naik ke motor saya, Mbak Dita," perintah Bagas cepat sambil memasang helmnya. "Hari Sabtu staf kantor sepi, tapi sekretaris direksi masuk setengah hari buat beresin dokumen tender. Kita punya waktu kurang dari dua puluh menit sebelum kardus itu dibuka!"
+"Naik ke motor saya, Mbak Dita," perintah Ibas cepat sambil memasang helmnya. "Hari Sabtu staf kantor sepi, tapi sekretaris direksi masuk setengah hari buat beresin dokumen tender. Kita punya waktu kurang dari dua puluh menit sebelum kardus itu dibuka!"
 
-Dua belas menit kemudian, motor matik Bagas berhenti mendadak di area drop-off basement dua Menara Pacific Century. Tanpa membuang waktu sedetik pun, Bagas menarik tanganku menembus pintu darurat staf kebersihan yang tembus langsung ke lorong lift servis barang.
+Dua belas menit kemudian, motor matik Ibas berhenti mendadak di area drop-off basement dua Menara Pacific Century. Tanpa membuang waktu sedetik pun, Ibas menarik tanganku menembus pintu darurat staf kebersihan yang tembus langsung ke lorong lift servis barang.
 
-Bagas mengeluarkan kartu akses darurat master milik divisi arsitektur interior yang masih aktif di dompetnya. Pintu lift barang berdentang membuka di lantai delapan belas yang sunyi berkarpet tebal.
+Ibas mengeluarkan kartu akses darurat master milik divisi arsitektur interior yang masih aktif di dompetnya. Pintu lift barang berdentang membuka di lantai delapan belas yang sunyi berkarpet tebal.
 
 Dari balik partisi kaca buram lobi eksekutif, kami melihat seorang sekretaris paruh baya bersanggul rapi sedang sibuk mengetik di meja kerjanya. Tepat di sudut meja depan komputer sekretaris itu, sebuah kardus cokelat berlakban merah Bolu Ketan teronggok manis di samping gunting pembuka kertas.
 
-"Tunggu di sini," bisik Bagas menahan lenganku di balik pilar lorong darurat.
+"Tunggu di sini," bisik Ibas menahan lenganku di balik pilar lorong darurat.
 
-Bagas merogoh ponselnya, menekan panggilan kilat ke nomor Ferdi. "Fer, lo masih di kubikel divisi? Gue butuh pengalihan isu sekarang juga. Telepon meja sekretaris Pak Hartawan, bilang ada kebocoran pipa air darurat di ruang arsip dokumen tender lantai sembilan belas."
+Ibas merogoh ponselnya, menekan panggilan kilat ke nomor Ferdi. "Fer, lo masih di kubikel divisi? Gue butuh pengalihan isu sekarang juga. Telepon meja sekretaris Pak Hartawan, bilang ada kebocoran pipa air darurat di ruang arsip dokumen tender lantai sembilan belas."
 
 Dua puluh detik kemudian, telepon kabel di meja sekretaris bersanggul itu berdering nyaring. Perempuan itu mengangkat gagang telepon, mendengarkan dengan wajah panik, lalu buru-buru menyambar tas tangannya dan berlari setengah melompat menuju pintu lift koridor.
 
-"Sekarang!" bisik Bagas menyambar tanganku.
+"Sekarang!" bisik Ibas menyambar tanganku.
 
-Kami berdua melesat keluar dari balik pilar lobi eksekutif. Dengan gerakan secepat kilat, Bagas menyambar kardus cokelat kemeja batik terlarang itu dari meja sekretaris, menukarnya dengan map dokumen tender biru berlogo resmi yang sudah disiapkan Ferdi di laci samping.
+Kami berdua melesat keluar dari balik pilar lobi eksekutif. Dengan gerakan secepat kilat, Ibas menyambar kardus cokelat kemeja batik terlarang itu dari meja sekretaris, menukarnya dengan map dokumen tender biru berlogo resmi yang sudah disiapkan Ferdi di laci samping.
 
 Kami kembali menyelinap masuk ke pintu tangga darurat tepat saat pintu lift berdentang menandakan satpam kebersihan naik ke lantai atas.
 
-Di tangga darurat yang remang-remang, napas kami berdua terengah-engah memburu. Punggungku bersandar di dinding semen dingin, sementara Bagas memeluk kardus kemeja batik itu di dadanya dengan kemeja yang sudah basah oleh keringat dingin.
+Di tangga darurat yang remang-remang, napas kami berdua terengah-engah memburu. Punggungku bersandar di dinding semen dingin, sementara Ibas memeluk kardus kemeja batik itu di dadanya dengan kemeja yang sudah basah oleh keringat dingin.
 
 Kami saling tatap selama beberapa detik dalam keheningan lorong darurat, lalu mendadak tawa lepas yang tak tertahankan meledak bersamaan dari mulut kami berdua.
 
 "Gila..." gumamku terengah-engah sambil memegangi perutku yang kram menahan tawa. "Manajer pengadaan elit SCBD baru saja membobol meja bosnya sendiri demi menyelamatkan kemeja batik selingkuhan orang Slipi."
 
-Bagas tertawa renyah, tawa lepas pertamanya yang terdengar begitu renyah dan tulus sejak pertama kali melangkah masuk ke ruko Tebet. Lesung pipit tipis tampak di pipi kanannya, menghapus seluruh kesan kaku yang selama ini membelenggunya.
+Ibas tertawa renyah, tawa lepas pertamanya yang terdengar begitu renyah dan tulus sejak pertama kali melangkah masuk ke ruko Tebet. Lesung pipit tipis tampak di pipi kanannya, menghapus seluruh kesan kaku yang selama ini membelenggunya.
 
-"Kalau Ayah saya tahu saya merangkak di lantai lobi demi kardus kurir patah hati," kekeh Bagas sambil menyeka peluh di dahinya, "beliau pasti langsung mencoret nama saya dari silsilah klan Danuputra tanpa perlu nunggu putusan pengadilan."
+"Kalau Ayah saya tahu saya merangkak di lantai lobi demi kardus kurir patah hati," kekeh Ibas sambil menyeka peluh di dahinya, "beliau pasti langsung mencoret nama saya dari silsilah klan Danuputra tanpa perlu nunggu putusan pengadilan."
 
-Tawa kami mereda perlahan, menyisakan kehangatan aneh yang merayap di antara kami di tangga darurat itu. Di balik setelan mahalnya, Bagas membuktikan bahwa ia bukan pria manja yang lari dari tanggung jawab.
+Tawa kami mereda perlahan, menyisakan kehangatan aneh yang merayap di antara kami di tangga darurat itu. Di balik setelan mahalnya, Ibas membuktikan bahwa ia bukan pria manja yang lari dari tanggung jawab.
 
-Tepat saat itu, ponsel di saku celana Bagas berdenting pelan menerima sebuah pesan teks SMS dari nomor tidak dikenal:
-Pak Bagas, ini Nay. Tolong jangan bilang Ibu Clarissa atau Tante Debby. Saya tidak mau dipenjara seumur hidup karena penalti kerja. Kalau Bapak mau tahu ke mana cincin ibu Bapak digadaikan, temui saya sendirian di kosan gang sempit Slipi malam ini sebelum jam delapan.
+Tepat saat itu, ponsel di saku celana Ibas berdenting pelan menerima sebuah pesan teks SMS dari nomor tidak dikenal:
+Pak Ibas, ini Nay. Tolong jangan bilang Ibu Clarissa atau Tante Debby. Saya tidak mau dipenjara seumur hidup karena penalti kerja. Kalau Bapak mau tahu ke mana cincin ibu Bapak digadaikan, temui saya sendirian di kosan gang sempit Slipi malam ini sebelum jam delapan.
 
 ---
 
 ## Bab 13: Asisten yang Ketakutan
 
-Gang sempit di kawasan Slipi malam itu beraroma selokan mampet dan sisa minyak jelantah dari gerobak martabak telur di ujung jalan. Hujan gerimis yang baru reda menyisakan genangan air keruh di antara susunan conblock yang retak. Di sampingku, langkah pantofel Bagas berderit pelan menghindari cipratan becek saat kami menaiki tangga kayu curam menuju lantai dua sebuah rumah kos petak.
+Gang sempit di kawasan Slipi malam itu beraroma selokan mampet dan sisa minyak jelantah dari gerobak martabak telur di ujung jalan. Hujan gerimis yang baru reda menyisakan genangan air keruh di antara susunan conblock yang retak. Di sampingku, langkah pantofel Ibas berderit pelan menghindari cipratan becek saat kami menaiki tangga kayu curam menuju lantai dua sebuah rumah kos petak.
 
-Di depan pintu tripleks bernomor empat yang cat birunya mengelupas, aku mengetuk pelan tiga kali. "Mbak Nay? Ini Dita sama Mas Bagas."
+Di depan pintu tripleks bernomor empat yang cat birunya mengelupas, aku mengetuk pelan tiga kali. "Mbak Nay? Ini Dita sama Mas Ibas."
 
 Suara gesekan sandal jepit terdengar tergesa-gesa dari dalam. Kunci slot diputar dengan hati-hati, lalu pintu terbuka sedikit menampakkan celah sempit selebar telapak tangan.
 
 Neneng Rohayati mengintip dari balik celah pintu. Wajah asisten pribadi Clarissa itu sembap dan kuyu, matanya merah menyala persis orang yang menangis seharian tanpa henti. Di dalam kamarnya yang sempit berukuran tiga kali tiga meter, sebuah kipas angin dinding berderit malas menatap kasur busa tipis tanpa sprei.
 
-"Pak Bagas..." suara Nay gemetar tertahan, matanya melirik liar ke arah tangga seolah takut ada bayangan pembunuh bayaran yang mengekor. "Masuk cepat, Pak. Tolong jangan sampai tetangga kos lihat."
+"Pak Ibas..." suara Nay gemetar tertahan, matanya melirik liar ke arah tangga seolah takut ada bayangan pembunuh bayaran yang mengekor. "Masuk cepat, Pak. Tolong jangan sampai tetangga kos lihat."
 
-Kami berdua menyelinap masuk ke ruangan pengap itu. Bagas duduk di atas bangku plastik kecil di sudut ruangan, sementara aku berdiri menyandarkan punggung ke kusen pintu yang lembap.
+Kami berdua menyelinap masuk ke ruangan pengap itu. Ibas duduk di atas bangku plastik kecil di sudut ruangan, sementara aku berdiri menyandarkan punggung ke kusen pintu yang lembap.
 
-Nay berlutut di lantai semen beralas karpet plastik, air matanya seketika tumpah membasahi celana kulot tidurnya. "Pak Bagas, sumpah demi Allah, saya nggak ikut-ikutan fitnah itu! Selama enam bulan kerja sama Ibu Clarissa, saya sudah kenyang dimaki-maki dan dilempar gantungan baju tiap kali penagih arisan nelepon. Gaji saya dua bulan terakhir bahkan ditahan. Kemarin sore Tante Debby datang ke kosan ini, ngancam bakal nuntut saya lima puluh juta rupiah dan nuduh saya sekongkol kalau berani buka mulut ke polisi!"
+Nay berlutut di lantai semen beralas karpet plastik, air matanya seketika tumpah membasahi celana kulot tidurnya. "Pak Ibas, sumpah demi Allah, saya nggak ikut-ikutan fitnah itu! Selama enam bulan kerja sama Ibu Clarissa, saya sudah kenyang dimaki-maki dan dilempar gantungan baju tiap kali penagih arisan nelepon. Gaji saya dua bulan terakhir bahkan ditahan. Kemarin sore Tante Debby datang ke kosan ini, ngancam bakal nuntut saya lima puluh juta rupiah dan nuduh saya sekongkol kalau berani buka mulut ke polisi!"
 
-"Tarik napas dulu, Nay," ucap Bagas lembut dengan nada suara yang tenang menenangkan. "Saya tahu kamu cuma pekerja yang digaji bulanan. Saya tidak akan menuntut kamu sepeser pun. Tapi saya butuh kejujuran kamu soal koper hitam di lobi Senopati kemarin."
+"Tarik napas dulu, Nay," ucap Ibas lembut dengan nada suara yang tenang menenangkan. "Saya tahu kamu cuma pekerja yang digaji bulanan. Saya tidak akan menuntut kamu sepeser pun. Tapi saya butuh kejujuran kamu soal koper hitam di lobi Senopati kemarin."
 
 Aku melangkah maju setengah langkah, menatap Nay lurus-lurus dari hati ke hati. "Mbak Nay, kita berdua sama-sama anak rantau perempuan yang cari nafkah halal di Jakarta. Kalau Mbak diam saja karena takut penalti kontrak, yang bakal masuk penjara itu saya dan Restu. Mbak tega biarkan orang jujur dipenjara cuma buat nutupin kejahatan majikan Mbak?"
 
 Kata-kataku membuat pertahanan batin gadis perantau asal Sumedang itu runtuh seketika. Isak tangisnya pecah tanpa suara di balik kedua telapak tangannya.
 
-"Hari Selasa pagi itu... sebelum koper diserahkan ke kurir Mbak Dita di lobi..." bisik Nay dengan napas tersengal-sengal, "Ibu Clarissa manggil saya ke kamar tidur penthouse. Koper hitam itu sudah terkunci gembok kombinasi dari dalam kamar. Ibu Clarissa nyuruh saya langsung bawa turun koper itu dan serahkan ke kurir motor. Pas saya tanya mana kotak beludru cincin Pak Bagas, Ibu Clarissa malah ngebentak saya, bilang cincin itu urusan pribadi dia dan sudah aman."
+"Hari Selasa pagi itu... sebelum koper diserahkan ke kurir Mbak Dita di lobi..." bisik Nay dengan napas tersengal-sengal, "Ibu Clarissa manggil saya ke kamar tidur penthouse. Koper hitam itu sudah terkunci gembok kombinasi dari dalam kamar. Ibu Clarissa nyuruh saya langsung bawa turun koper itu dan serahkan ke kurir motor. Pas saya tanya mana kotak beludru cincin Pak Ibas, Ibu Clarissa malah ngebentak saya, bilang cincin itu urusan pribadi dia dan sudah aman."
 
-Mataku dan mata Bagas seketika bertatapan tajam di bawah temaram lampu neon sembilan watt. "Berarti sejak di kamar tidur penthouse, koper itu memang sudah kosong?"
+Mataku dan mata Ibas seketika bertatapan tajam di bawah temaram lampu neon sembilan watt. "Berarti sejak di kamar tidur penthouse, koper itu memang sudah kosong?"
 
 "Kosong, Mbak!" seru Nay bersumpah sambil memegang dadanya. "Kotak beludru cincin itu sama sekali nggak ada di dalam koper! Tiga hari sebelum koper dijemput... hari Sabtu siang... Ibu Clarissa panik berat karena ditelepon pengelola arisan berlian yang nagih uang seratus lima puluh juta. Ibu Clarissa nyuruh saya pesan taksi online ke gerai Gadai Swasta Mulia di Jalan Senopati. Saya disuruh nunggu di mobil, sementara Ibu Clarissa turun sendiri membawa kotak beludru biru tua itu ke dalam kantor pegadaian!"
 
 Jantungku berdegup kencang persis genderang perang. Petunjuk emas yang kami buru selama berhari-hari akhirnya terbuka telanjang di depan mata kami.
 
-"Ada bukti kalau Clarissa masuk ke pegadaian itu, Nay?" tanya Bagas cepat, suaranya sarat ketegangan.
+"Ada bukti kalau Clarissa masuk ke pegadaian itu, Nay?" tanya Ibas cepat, suaranya sarat ketegangan.
 
 Nay meraba kolong kasur busanya, mengeluarkan sebuah tas kerja kanvas lusuh. Dari dalam dompet kartunya, ia menyodorkan selembar kartu plastik hitam bertuliskan: Gadai Swasta Mulia VIP Member Card atas nama Clarissa Maharani.
 
-"Kartu anggota loyalti ini saya temukan di saku blazer Ibu Clarissa waktu saya antar ke laundry," bisik Nay menyodorkan kartu itu ke tangan Bagas dengan tangan gemetar. "Saya sengaja simpan kartu ini di dompet, Pak. Waktu Tante Debby mulai ngancam mau bikin laporan polisi, saya takut mereka bakal numbalin saya jadi kambing hitam. Kartu ini pegangan nyawa saya biar saya punya bukti kalau Ibu Clarissa sendiri yang bawa barang itu ke Senopati."
+"Kartu anggota loyalti ini saya temukan di saku blazer Ibu Clarissa waktu saya antar ke laundry," bisik Nay menyodorkan kartu itu ke tangan Ibas dengan tangan gemetar. "Saya sengaja simpan kartu ini di dompet, Pak. Waktu Tante Debby mulai ngancam mau bikin laporan polisi, saya takut mereka bakal numbalin saya jadi kambing hitam. Kartu ini pegangan nyawa saya biar saya punya bukti kalau Ibu Clarissa sendiri yang bawa barang itu ke Senopati."
 
-Tepat saat Bagas menerima kartu plastik itu, suara deru knalpot motor berputar dua kali di depan gang sempit kosan. Dari jendela kaca nako yang sedikit terbuka di atas pintu, sorot lampu motor tampak menyapu dinding kamar petak kami.
+Tepat saat Ibas menerima kartu plastik itu, suara deru knalpot motor berputar dua kali di depan gang sempit kosan. Dari jendela kaca nako yang sedikit terbuka di atas pintu, sorot lampu motor tampak menyapu dinding kamar petak kami.
 
 Aku melongokkan kepala sedikit ke balik tirai jendela. Di bawah lampu jalanan gang yang remang-remang, seorang pria berjaket ojek online hitam-hijau tampak berhenti di depan pagar kos, menatap lurus ke arah jendela kamar Nay sambil menempelkan ponsel di telinganya.
 
@@ -659,21 +659,21 @@ Aku melongokkan kepala sedikit ke balik tirai jendela. Di bawah lampu jalanan ga
 
 ## Bab 14: Cincin Tunangan di Dasar Helm
 
-Minggu sore di pangkalan bengkel motor Tebet berbau oli bekas dan gemeretak kompresor angin. Bagas Danuputra, manajer pengadaan interior yang biasanya hanya menyentuh cangkir keramik porselen di gedung SCBD, sore ini tampak berjongkok di atas ubin semen bengkel sambil memegang sikat kawat dan cairan pembersih rantai motor kargo Bolu Ketan.
+Minggu sore di pangkalan bengkel motor Tebet berbau oli bekas dan gemeretak kompresor angin. Baskara Danuputra, atau yang biasa kami panggil Ibas, manajer pengadaan interior yang biasanya hanya menyentuh cangkir keramik porselen di gedung SCBD, sore ini tampak berjongkok di atas ubin semen bengkel sambil memegang sikat kawat dan cairan pembersih rantai motor kargo Bolu Ketan.
 
-Kaos polo hitamnya terkena noda oli di bagian lengan, tapi pria itu sama sekali tidak mengeluh. Di sampingnya, Restu memandangi Bagas dengan pandangan takjub bercampur bangga.
+Kaos polo hitamnya terkena noda oli di bagian lengan, tapi pria itu sama sekali tidak mengeluh. Di sampingnya, Restu memandangi Ibas dengan pandangan takjub bercampur bangga.
 
-"Keren juga gaya lo nyetel rantai motor, Mas Bagas," puji Restu sambil mengelap bodi motor matik dengan kain lap basah. "Nggak nyangka anak kantoran SCBD bisa megang kunci pas nomor dua belas."
+"Keren juga gaya lo nyetel rantai motor, Mas Ibas," puji Restu sambil mengelap bodi motor matik dengan kain lap basah. "Nggak nyangka anak kantoran SCBD bisa megang kunci pas nomor dua belas."
 
-Bagas tersenyum tipis, menyeka peluh di dahinya dengan punggung tangan. "Waktu kuliah arsitektur dulu saya sering bongkar motor vespa tua bareng Ferdi, Tu. Kerja fisik begini bikin kepala saya jauh lebih waras daripada mikirin surat somasi pengacara."
+Ibas tersenyum tipis, menyeka peluh di dahinya dengan punggung tangan. "Waktu kuliah arsitektur dulu saya sering bongkar motor vespa tua bareng Ferdi, Tu. Kerja fisik begini bikin kepala saya jauh lebih waras daripada mikirin surat somasi pengacara."
 
 Aku melangkah keluar dari kantor lantai dua membawa helm kargo cadangan dan berkas kartu loyalti pegadaian Senopati yang kami dapatkan dari Nay semalam. Rencananya, besok pagi jam sembilan tepat kami akan mendatangi kantor Gadai Swasta Mulia untuk melacak nomor seri cincin itu.
 
-"Mas Bagas, helm cadangan lo di mana?" tanyaku sambil memeriksa rak helm di samping meja servis. "Biar sekalian gue semprot cairan disinfektan."
+"Mas Ibas, helm cadangan lo di mana?" tanyaku sambil memeriksa rak helm di samping meja servis. "Biar sekalian gue semprot cairan disinfektan."
 
-"Di atas meja servis dekat kompresor, Mbak," sahut Bagas tanpa menoleh, masih fokus mengencangkan baut roda belakang.
+"Di atas meja servis dekat kompresor, Mbak," sahut Ibas tanpa menoleh, masih fokus mengencangkan baut roda belakang.
 
-Aku melangkah ke meja servis kayu di sudut bengkel. Di sana tergeletak helm bogo hitam milik Bagas. Saat aku mengangkat helm itu dari meja, sesuatu yang berat dan terselip di dasar busa dalam helm mendadak tergelincir jatuh ke lantai ubin dengan bunyi ketuk keras.
+Aku melangkah ke meja servis kayu di sudut bengkel. Di sana tergeletak helm bogo hitam milik Ibas. Saat aku mengangkat helm itu dari meja, sesuatu yang berat dan terselip di dasar busa dalam helm mendadak tergelincir jatuh ke lantai ubin dengan bunyi ketuk keras.
 
 Sebuah kotak perhiasan kecil berbahan beludru merah menyala menggelinding di antara kakiku, tutupnya terbuka sedikit menampakkan kilau sebuah cincin perak bertatahkan permata bening yang berkilau di bawah lampu bengkel.
 
@@ -681,33 +681,33 @@ Suasana bengkel seketika membeku. Suara semprotan angin kompresor mendadak terhe
 
 Restu yang sedang memegang kain lap kontan membelalak lebar persis orang melihat penampakan kuntilanak di siang bolong. Mulut pemuda bertato itu menganga selebar gua hantu.
 
-"WADUH!" teriak Restu histeris, suaranya melengking memenuhi pangkalan. "MAS BAGAS! LO DIAM-DIAM MAU NGELAMAR MBAK DITA DI BENGKEL MOTOR TEBET?!"
+"WADUH!" teriak Restu histeris, suaranya melengking memenuhi pangkalan. "MAS IBAS! LO DIAM-DIAM MAU NGELAMAR MBAK DITA DI BENGKEL MOTOR TEBET?!"
 
-Mukaku seketika memanas membara persis disiram minyak goreng panas. Mataku melotot tajam menatap kotak beludru merah di lantai, lalu beralih menatap Bagas dengan kilatan curiga yang menusuk.
+Mukaku seketika memanas membara persis disiram minyak goreng panas. Mataku melotot tajam menatap kotak beludru merah di lantai, lalu beralih menatap Ibas dengan kilatan curiga yang menusuk.
 
 "Baskara Danuputra..." geramku dengan suara bergetar dingin. "Cincin Clarissa selama ini ada di helm lo?!"
 
-Bagas yang sedang memegang kunci pas seketika tersentak kaget. Matanya menatap kotak merah di lantai, lalu wajahnya berubah merah padam sepekat kepiting rebus yang baru diangkat dari kuali dandang. Pria SCBD itu melompat berdiri dengan panik sampai kunci pasnya terlepas berdentang di lantai semen.
+Ibas yang sedang memegang kunci pas seketika tersentak kaget. Matanya menatap kotak merah di lantai, lalu wajahnya berubah merah padam sepekat kepiting rebus yang baru diangkat dari kuali dandang. Pria SCBD itu melompat berdiri dengan panik sampai kunci pasnya terlepas berdentang di lantai semen.
 
-"Bukan! Demi Tuhan, bukan cincin Clarissa, Mbak Dita!" seru Bagas gelagapan, kedua tangannya terangkat ke udara persis tersangka yang tertangkap basah razia narkoba. "Itu cincin perak imitasi lima puluh ribuan yang saya beli di Pasar Senen kemarin lusa!"
+"Bukan! Demi Tuhan, bukan cincin Clarissa, Mbak Dita!" seru Ibas gelagapan, kedua tangannya terangkat ke udara persis tersangka yang tertangkap basah razia narkoba. "Itu cincin perak imitasi lima puluh ribuan yang saya beli di Pasar Senen kemarin lusa!"
 
 "Bohong lo!" semprotku melangkah mundur dengan tangan bersidekap di dada. "Ngapain manajer SCBD beli cincin pasar kaget terus disimpan di dasar helm?!"
 
-"Buat simulasi berat timbangan tiga ratus dua puluh gram kemarin, Mbak!" ratap Bagas dengan napas tersengal-sengal menahan malu luar biasa. "Kan Mbak Dita yang bilang kotak beludru isi cincin padat beratnya harus diuji secara riil! Saya beli kotaknya di Pasar Senen, terus saya lupa keluarin dari helm!"
+"Buat simulasi berat timbangan tiga ratus dua puluh gram kemarin, Mbak!" ratap Ibas dengan napas tersengal-sengal menahan malu luar biasa. "Kan Mbak Dita yang bilang kotak beludru isi cincin padat beratnya harus diuji secara riil! Saya beli kotaknya di Pasar Senen, terus saya lupa keluarin dari helm!"
 
 Pakde Broto yang sedang menyeruput kopi hitam di teras warung kelontong seketika terbahak-bahak sampai batuk-batuk kecil. Dari pangkalan ojek sebelah, Bang Gembul yang berbadan tambun ikut tertawa terpingkal-pingkal sambil memegangi perutnya.
 
-"Aduh, Mas Bagas, Mas Bagas!" kekeh Pakde Broto sambil menyeka air mata gelinya. "Mau ngelamar anak asuh Pakde kok ya modalnya cincin Pasar Senen di pangkalan oli. Minimal beli martabak manis dulu lah buat seserahan!"
+"Aduh, Mas Ibas, Mas Ibas!" kekeh Pakde Broto sambil menyeka air mata gelinya. "Mau ngelamar anak asuh Pakde kok ya modalnya cincin Pasar Senen di pangkalan oli. Minimal beli martabak manis dulu lah buat seserahan!"
 
-Restu tertawa terbahak-bahak sampai bergulingan di atas tumpukan ban bekas. "Muka Mas Bagas merah banget, Mbak Dita! Kalah merah sama lakban segel Bolu Ketan!"
+Restu tertawa terbahak-bahak sampai bergulingan di atas tumpukan ban bekas. "Muka Mas Ibas merah banget, Mbak Dita! Kalah merah sama lakban segel Bolu Ketan!"
 
-Melihat kepanikan Bagas yang begitu polos dan malu, amarah dan kecurigaanku mendadak luntur tak berbekas. Rasa geli yang tak tertahankan meledak di dadaku, membuatku akhirnya tertawa terbahak-bahak bersama seluruh anak pangkalan. Ketegangan kasus somasi yang menghimpit kami berhari-hari seolah menguap terbakar oleh tawa sore itu.
+Melihat kepanikan Ibas yang begitu polos dan malu, amarah dan kecurigaanku mendadak luntur tak berbekas. Rasa geli yang tak tertahankan meledak di dadaku, membuatku akhirnya tertawa terbahak-bahak bersama seluruh anak pangkalan. Ketegangan kasus somasi yang menghimpit kami berhari-hari seolah menguap terbakar oleh tawa sore itu.
 
 Tepat saat tawa kami mulai mereda, suara derit rem mobil mewah terdengar berhenti mendadak di depan trotoar ruko.
 
-"Itu mobil Tante Debby..." bisik Bagas kaku di sampingku, tawanya seketika membeku lenyap tak berbekas.
+"Itu mobil Tante Debby..." bisik Ibas kaku di sampingku, tawanya seketika membeku lenyap tak berbekas.
 
-Sebuah mobil Toyota Alphard putih berkaca gelap terparkir angkuh di pinggir jalan Tebet. Kaca jendela belakang perlahan turun, memperlihatkan sosok Tante Debby yang duduk anggun dengan rambut sasak kaku dan kalung mutiara mencolok. Dari balik kacamata hitamnya, tatapan mata wanita paruh baya itu menatapku dan Bagas dengan senyuman dingin yang sarat ancaman mematikan.
+Sebuah mobil Toyota Alphard putih berkaca gelap terparkir angkuh di pinggir jalan Tebet. Kaca jendela belakang perlahan turun, memperlihatkan sosok Tante Debby yang duduk anggun dengan rambut sasak kaku dan kalung mutiara mencolok. Dari balik kacamata hitamnya, tatapan mata wanita paruh baya itu menatapku dan Ibas dengan senyuman dingin yang sarat ancaman mematikan.
 
 ---
 
@@ -715,23 +715,23 @@ Sebuah mobil Toyota Alphard putih berkaca gelap terparkir angkuh di pinggir jala
 
 Pusat perbelanjaan Senayan City pada Senin siang dipenuhi aroma wangi kopi kafe elit dan derap langkah sepatu bermerek kaum berpunya ibu kota. Di atrium utama lantai dasar, suara gemericik air mancur buatan berbaur dengan alunan musik jazz lembut yang berputar dari pengeras suara langit-langit mal.
 
-Aku dan Bagas berdiri di balik pilar marmer dekat butik kosmetik internasional, mengamati sebuah meja bundar di area teras restoran bistro Eropa yang berjarak lima belas meter di depan kami.
+Aku dan Ibas berdiri di balik pilar marmer dekat butik kosmetik internasional, mengamati sebuah meja bundar di area teras restoran bistro Eropa yang berjarak lima belas meter di depan kami.
 
 Di meja itu, Clarissa Maharani duduk anggun mengenakan kacamata hitam bermerek dan gaun terusan sutra putih. Di sekelilingnya, empat orang perempuan sosialita sesama anggota arisan berlian tampak tertawa riang sambil memamerkan kotak belanjaan mewah masing-masing. Di atas meja restoran, sebuah tas tangan Hermes mini warna merah muda yang baru saja dibeli Clarissa teronggok berkilau di bawah lampu kristal.
 
-"Nay benar, Clarissa nekat bawa kotak perhiasan almarhumah Ibu saya ke pegadaian Senopati demi nutup utang arisannya... tapi di depan teman-temannya dia masih pamer tas Hermes mini seolah hidupnya tanpa dosa," bisik Bagas dingin di samping telingaku. Rahang pria itu mengeras menatap mantan tunangannya yang tampak sama sekali tidak merasa bersalah setelah memfitnah orang lain.
+"Nay benar, Clarissa nekat bawa kotak perhiasan almarhumah Ibu saya ke pegadaian Senopati demi nutup utang arisannya... tapi di depan teman-temannya dia masih pamer tas Hermes mini seolah hidupnya tanpa dosa," bisik Ibas dingin di samping telingaku. Rahang pria itu mengeras menatap mantan tunangannya yang tampak sama sekali tidak merasa bersalah setelah memfitnah orang lain.
 
 "Kita samperin sekarang?" bisikku melirik ponsel yang siap merekam.
 
-"Jangan di sini, terlalu banyak saksi rekan arisannya. Tunggu dia melangkah ke arah toilet lorong samping," sahut Bagas taktis.
+"Jangan di sini, terlalu banyak saksi rekan arisannya. Tunggu dia melangkah ke arah toilet lorong samping," sahut Ibas taktis.
 
-Baru saja Bagas menarik lenganku mundur ke balik bayangan pilar, sebuah suara melengking tinggi penuh racun mendadak meledak persis di belakang punggung kami:
+Baru saja Ibas menarik lenganku mundur ke balik bayangan pilar, sebuah suara melengking tinggi penuh racun mendadak meledak persis di belakang punggung kami:
 
 "BASKARA! BERANI-BERANINYA KAMU MUNCUL DI SINI?!"
 
 Kami berdua tersentak kaget dan serentak berbalik.
 
-Tante Debby berdiri di depan pintu butik perhiasan emas dengan kedua tangan berkacak pinggang. Rambut sasak tingginya tampak kaku persis sangkar burung, dengan tas tangan kulit buaya berayun di siku kanannya. Matanya yang tajam melotot menatap tangan Bagas yang masih menggenggam pergelangan tanganku untuk menghindar.
+Tante Debby berdiri di depan pintu butik perhiasan emas dengan kedua tangan berkacak pinggang. Rambut sasak tingginya tampak kaku persis sangkar burung, dengan tas tangan kulit buaya berayun di siku kanannya. Matanya yang tajam melotot menatap tangan Ibas yang masih menggenggam pergelangan tanganku untuk menghindar.
 
 "Dasar keponakan kurang ajar!" jerit Tante Debby histeris, suaranya menggelegar memenuhi atrium mal hingga alunan musik jazz seketika tenggelam. Puluhan pengunjung mal dan satpam berseragam safari kontan menghentikan langkah, memutar badan menonton keributan gratis di siang bolong.
 
@@ -739,27 +739,27 @@ Tante Debby melangkah maju dengan tumit sepatu hak tingginya yang berketuk keras
 
 Darahku seketika mendidih sampai ke ubun-ubun kepala. Langkahku maju setengah jengkal, siap membalas makian wanita sosialita itu dengan seluruh kosa kata jalanan Tebet.
 
-Namun sebelum suaraku sempat keluar, tubuh jangkung Bagas mendadak melangkah tegap ke depanku, memasang badannya persis dinding benteng kokoh yang memisahkan diriku dari telunjuk Tante Debby.
+Namun sebelum suaraku sempat keluar, tubuh jangkung Ibas mendadak melangkah tegap ke depanku, memasang badannya persis dinding benteng kokoh yang memisahkan diriku dari telunjuk Tante Debby.
 
-"Jaga mulut Tante Debora!" bentak Bagas dengan suara bariton yang begitu dalam, dingin, dan berwibawa, membuat Tante Debby seketika tersentak mundur selangkah. "Dita Maheswari adalah pemilik agensi resmi berizin yang difitnah secara keji oleh keponakan Tante! Jangan pernah berani menghina profesi orang yang bekerja jujur dengan keringatnya sendiri!"
+"Jaga mulut Tante Debora!" bentak Ibas dengan suara bariton yang begitu dalam, dingin, dan berwibawa, membuat Tante Debby seketika tersentak mundur selangkah. "Dita Maheswari adalah pemilik agensi resmi berizin yang difitnah secara keji oleh keponakan Tante! Jangan pernah berani menghina profesi orang yang bekerja jujur dengan keringatnya sendiri!"
 
-Clarissa yang mendengar keributan di depan eskalator kontan menoleh dari meja bistro. Wajah cantiknya seketika pucat pasi melihat Bagas dan Dita berdiri di hadapan tantenya. Tanpa membuang waktu sedetik pun, Clarissa menyambar tas tangan mahalnya dan buru-buru menyelinap kabur lewat pintu belakang dapur restoran.
+Clarissa yang mendengar keributan di depan eskalator kontan menoleh dari meja bistro. Wajah cantiknya seketika pucat pasi melihat Ibas dan Dita berdiri di hadapan tantenya. Tanpa membuang waktu sedetik pun, Clarissa menyambar tas tangan mahalnya dan buru-buru menyelinap kabur lewat pintu belakang dapur restoran.
 
 "Baskara! Kamu melawan orang tua demi perempuan jalanan ini?!" pekik Tante Debby geram, wajahnya memerah padam di bawah tatapan ratusan penonton mal yang mulai mengeluarkan kamera ponsel pintar mereka. "Surat somasi Henry Sitompul berlaku empat belas hari! Hari Rabu besok berkas laporan pidana kalian resmi kami daftarkan ke Polres Jakarta Selatan! Kita lihat siapa yang bakal mengemis di lantai sel tahanan!"
 
-"Silakan laporkan ke polisi sekarang juga, Tante!" balasku lantang dari balik pundak Bagas, membuat penonton mal berbisik heboh. "Biar sekalian seluruh Jakarta tahu keponakan Tante menggadaikan cincin mertua demi bayar utang gaya hidup palsunya!"
+"Silakan laporkan ke polisi sekarang juga, Tante!" balasku lantang dari balik pundak Ibas, membuat penonton mal berbisik heboh. "Biar sekalian seluruh Jakarta tahu keponakan Tante menggadaikan cincin mertua demi bayar utang gaya hidup palsunya!"
 
 Tante Debby membelalak kaget mendengar kata pegadaian disebut, wajahnya seketika pias persis orang tertangkap basah mencuri mangga.
 
-Tiga petugas sekuriti mal mulai berlari mendekat menembus kerumunan penonton. Sebelum situasi berubah menjadi baku hantam fisik yang memalukan, Bagas menyambar jemariku erat-erat.
+Tiga petugas sekuriti mal mulai berlari mendekat menembus kerumunan penonton. Sebelum situasi berubah menjadi baku hantam fisik yang memalukan, Ibas menyambar jemariku erat-erat.
 
-"Ayo lari, Dit!" bisik Bagas cepat.
+"Ayo lari, Dit!" bisik Ibas cepat.
 
-Bagas menarik tanganku menuruni eskalator yang sedang berjalan turun, melompati anak-anak tangga marmer dengan kecepatan kilat menuju lobi parkiran bawah tanah.
+Ibas menarik tanganku menuruni eskalator yang sedang berjalan turun, melompati anak-anak tangga marmer dengan kecepatan kilat menuju lobi parkiran bawah tanah.
 
-Di dalam lift parkiran basement yang berdenting menutup, napas kami berdua terengah-engah memburu. Punggungku bersandar di dinding cermin lift, sementara Bagas berdiri di sampingku dengan dada naik-turun.
+Di dalam lift parkiran basement yang berdenting menutup, napas kami berdua terengah-engah memburu. Punggungku bersandar di dinding cermin lift, sementara Ibas berdiri di sampingku dengan dada naik-turun.
 
-Tatapanku perlahan turun menatap tangan kanan Bagas. Jemari tangannya yang hangat masih menggenggam erat jemari tanganku tanpa ada niat untuk melepaskannya. Saat tatapan mata kami bertemu di pantulan cermin lift, Bagas tidak mengalihkan pandangannya. Untuk pertama kalinya, sorot matanya menatapku bukan lagi sebagai rekan kasus darurat, melainkan tatapan seorang pelindung yang siap mempertaruhkan seluruh hidupnya demi keselamatanku.
+Tatapanku perlahan turun menatap tangan kanan Ibas. Jemari tangannya yang hangat masih menggenggam erat jemari tanganku tanpa ada niat untuk melepaskannya. Saat tatapan mata kami bertemu di pantulan cermin lift, Ibas tidak mengalihkan pandangannya. Untuk pertama kalinya, sorot matanya menatapku bukan lagi sebagai rekan kasus darurat, melainkan tatapan seorang pelindung yang siap mempertaruhkan seluruh hidupnya demi keselamatanku.
 
 ---
 
@@ -819,47 +819,47 @@ Namun di atas kepala kami, langit Jakarta mendadak berubah gelap gulita tertutup
 
 Langit Jakarta menumpahkan kemarahannya tepat pukul empat sore. Air hujan turun bukan lagi dalam bentuk tetesan, melainkan lembaran air tebal yang diguyur dari langit kelabu diiringi raungan angin kencang yang menggoyangkan tiang-tiang lampu jalanan Rasuna Said Kuningan.
 
-Aku memacu motor matik kargoku menembus jarak pandang yang tinggal tersisa lima meter. Di jok belakang, Bagas duduk memeluk tas ransel kedap air berisi kartu anggota loyalti pegadaian Clarissa. Kemeja kerja birunya sudah basah kuyup terkena tampias air hujan yang menembus jas hujan ponco plastik murahanku.
+Aku memacu motor matik kargoku menembus jarak pandang yang tinggal tersisa lima meter. Di jok belakang, Ibas duduk memeluk tas ransel kedap air berisi kartu anggota loyalti pegadaian Clarissa. Kemeja kerja birunya sudah basah kuyup terkena tampias air hujan yang menembus jas hujan ponco plastik murahanku.
 
 Tujuan kami adalah gerai Gadai Swasta Mulia di Senopati sebelum loket operasionalnya ditutup pukul lima sore. Tapi Jakarta di musim hujan selalu punya cara kejam untuk menguji tekad manusia.
 
 Di depan jalur lambat kolong jembatan layang Kuningan, antrean kendaraan mendadak mandek total. Genangan air banjir berwarna cokelat keruh setinggi betis orang dewasa merendam jalanan membentuk danau dadakan.
 
-"Mbak Dita! Jangan diterobos!" teriak Bagas di telingaku menembus gemuruh suara hujan.
+"Mbak Dita! Jangan diterobos!" teriak Ibas di telingaku menembus gemuruh suara hujan.
 
 Terlambat. Roda depan motorku sudah terlanjur terperosok ke dalam kubangan air keruh. Air banjir menyergap lubang knalpot motor matikku. Mesin motor berbatuk dua kali, mengeluarkan suara mendesing pendek, lalu mati total di tengah genangan air banjir.
 
 "Sial!" umpatku panik menekan tombol starter elektrik berulang kali. Dinamo motor hanya berbunyi klik-klik lemah tanpa ada tanda-tanda kehidupan.
 
-"Turun, Dit! Kita dorong bareng!" seru Bagas cepat.
+"Turun, Dit! Kita dorong bareng!" seru Ibas cepat.
 
-Pria SCBD itu tanpa ragu melompat turun dari jok motor. Sepatu pantofel mahalnya seketika tenggelam di dalam air banjir yang kotor bercampur oli jalanan. Dengan kedua tangannya yang kekar, Bagas memegangi behel besi belakang motor kargoku, mendorong sekuat tenaga melawan arus genangan air banjir.
+Pria SCBD itu tanpa ragu melompat turun dari jok motor. Sepatu pantofel mahalnya seketika tenggelam di dalam air banjir yang kotor bercampur oli jalanan. Dengan kedua tangannya yang kekar, Ibas memegangi behel besi belakang motor kargoku, mendorong sekuat tenaga melawan arus genangan air banjir.
 
 Aku turun ke air dingin, menuntun stang motor menembus deru hujan badai menuju area kering di bawah kolong jembatan layang jalan tol.
 
 Di bawah kolong jembatan beton yang remang-remang itu, puluhan pengendara sepeda motor lain tampak berteduh dengan pakaian basah kuyup menggigil kedinginan. Bau knalpot panas bercampur uap air hujan memenuhi udara pengap kolong jembatan.
 
-Bagas menyandarkan motorku ke tiang beton penyangga jembatan layang, lalu membungkuk mengatur napasnya yang terengah-engah memburu. Kemeja kerjanya kotor berlepotan lumpur cokelat, rambut klimisnya lepek menempel di dahi, meruntuhkan seluruh wibawa manajer eksekutif yang biasanya selalu tampil sempurna di majalah bisnis interior.
+Ibas menyandarkan motorku ke tiang beton penyangga jembatan layang, lalu membungkuk mengatur napasnya yang terengah-engah memburu. Kemeja kerjanya kotor berlepotan lumpur cokelat, rambut klimisnya lepek menempel di dahi, meruntuhkan seluruh wibawa manajer eksekutif yang biasanya selalu tampil sempurna di majalah bisnis interior.
 
 Gigiku mulai gemeletuk hebat. Hawa dingin menusuk hingga ke sumsum tulangku, membuat bibirku membiru dan sekujur tubuhku gemetar tak terkendali.
 
-Melihat keadaanku, Bagas seketika tersentak. Tanpa berkata-kata, pria itu membuka resleting jaket bomber tahan air miliknya yang bagian dalamnya masih kering. Dengan gerakan yang sangat lembut dan hati-hati, Bagas menyelimutkan jaket tebal beraroma kayu cendana itu ke pundakku yang basah kuyup.
+Melihat keadaanku, Ibas seketika tersentak. Tanpa berkata-kata, pria itu membuka resleting jaket bomber tahan air miliknya yang bagian dalamnya masih kering. Dengan gerakan yang sangat lembut dan hati-hati, Ibas menyelimutkan jaket tebal beraroma kayu cendana itu ke pundakku yang basah kuyup.
 
-Kehangatan tubuh Bagas seketika merayap menyelimuti dadaku yang membeku.
+Kehangatan tubuh Ibas seketika merayap menyelimuti dadaku yang membeku.
 
-Aku menatap wajah Bagas yang basah oleh air hujan dengan mata berkaca-kaca menahan haru. "Mas Bagas... kenapa lo mau bersusah-payah sejauh ini? Sepatu lo rusak, kemeja lo kotor, karier lo dipertaruhkan di kantor... cuma demi belain kurir motor pinggir jalan kayak gue?"
+Aku menatap wajah Ibas yang basah oleh air hujan dengan mata berkaca-kaca menahan haru. "Mas Ibas... kenapa lo mau bersusah-payah sejauh ini? Sepatu lo rusak, kemeja lo kotor, karier lo dipertaruhkan di kantor... cuma demi belain kurir motor pinggir jalan kayak gue?"
 
-Bagas menatap manik mataku lekat-lekat di tengah gemuruh suara petir yang menyambar jembatan layang di atas kepala kami. Sorot matanya begitu dalam, tenang, dan jujur tanpa kepalsuan topeng status sosial.
+Ibas menatap manik mataku lekat-lekat di tengah gemuruh suara petir yang menyambar jembatan layang di atas kepala kami. Sorot matanya begitu dalam, tenang, dan jujur tanpa kepalsuan topeng status sosial.
 
-"Karena selama dua puluh delapan tahun hidup saya, Dit," ucap Bagas parau, suaranya terdengar begitu hangat menembus dinginnya badai, "semua orang di sekitar saya cuma peduli sama nama keluarga saya, jabatan saya di kantor, dan uang yang bisa saya hasilkan. Clarissa menuntut kemewahan, Ayah saya menuntut martabat klan Danuputra. Cuma kamu satu-satunya orang di kota ini yang mau berdiri di samping saya, berjuang bareng tanpa nuntut apa-apa."
+"Karena selama dua puluh delapan tahun hidup saya, Dit," ucap Ibas parau, suaranya terdengar begitu hangat menembus dinginnya badai, "semua orang di sekitar saya cuma peduli sama nama keluarga saya, jabatan saya di kantor, dan uang yang bisa saya hasilkan. Clarissa menuntut kemewahan, Ayah saya menuntut martabat klan Danuputra. Cuma kamu satu-satunya orang di kota ini yang mau berdiri di samping saya, berjuang bareng tanpa nuntut apa-apa."
 
-Bagas mengulurkan tangannya yang hangat, menyeka sisa tetesan air hujan di pipiku dengan ibu jarinya yang lembut. "Saya tidak peduli soal kemeja atau sepatu mahal ini, Dita. Tapi saya peduli sama kamu dan nama baik Bolu Ketan. Kita selesaikan masalah ini bersama-sama sampai tuntas."
+Ibas mengulurkan tangannya yang hangat, menyeka sisa tetesan air hujan di pipiku dengan ibu jarinya yang lembut. "Saya tidak peduli soal kemeja atau sepatu mahal ini, Dita. Tapi saya peduli sama kamu dan nama baik Bolu Ketan. Kita selesaikan masalah ini bersama-sama sampai tuntas."
 
-Jantungku berdegup kencang di balik jaket tebal Bagas. Di bawah kolong jembatan layang yang kumuh dan bising oleh deru badai Jakarta, benteng pertahanan sinisme anti-cinta yang kubangun selama dua tahun runtuh seutuhnya. Di hadapan pria berhati tulus ini, aku tahu pasti bahwa rasa yang tumbuh di dadaku bukan lagi sekadar urusan logika bisnis.
+Jantungku berdegup kencang di balik jaket tebal Ibas. Di bawah kolong jembatan layang yang kumuh dan bising oleh deru badai Jakarta, benteng pertahanan sinisme anti-cinta yang kubangun selama dua tahun runtuh seutuhnya. Di hadapan pria berhati tulus ini, aku tahu pasti bahwa rasa yang tumbuh di dadaku bukan lagi sekadar urusan logika bisnis.
 
-Tepat saat itu, ponsel Bagas yang dibungkus kantong kresek di saku celananya bergetar kencang.
+Tepat saat itu, ponsel Ibas yang dibungkus kantong kresek di saku celananya bergetar kencang.
 
-Bagas merogoh ponselnya, membuka pesan suara darurat dari Ferdi di kantor SCBD:
+Ibas merogoh ponselnya, membuka pesan suara darurat dari Ferdi di kantor SCBD:
 Gas! Berhasil! Gue nemu history browser laptop kantor lo yang dulu sering dipakai Clarissa waktu urus vendor nikahan! Akun Google lamanya masih nyantol dan ada email janji temu taksiran perhiasan di Gadai Swasta Mulia Senopati! Penaksirnya Mas Aris Munandar, kawan futsal kita! Loket nasabah VIP buka sampai jam tujuh malam khusus hari ini!
 
 ---
@@ -868,25 +868,25 @@ Gas! Berhasil! Gue nemu history browser laptop kantor lo yang dulu sering dipaka
 
 Pukul setengah tujuh malam, gerai Gadai Swasta Mulia di kawasan Senopati tampak berkilau mewah persis butik perhiasan di Monaco. Lampu kristal gantung memantulkan pendar keemasan di atas meja kaca etalase berpelitur marmer hitam. Ruangan berpendingin udara itu sunyi senyap, dijaga oleh dua petugas sekuriti bertubuh kekar bersafari gelap yang berdiri tegak di depan pintu kaca antipeluru.
 
-Aku dan Bagas melangkah masuk membawa map plastik berisi surat kuasa keluarga dan kartu anggota loyalti Clarissa yang diberikan Nay. Pakaian kami memang masih setengah basah akibat sisa hujan badai tadi sore, tapi sorot mata kami menyala penuh tekad pemburu yang mencium jejak mangsa.
+Aku dan Ibas melangkah masuk membawa map plastik berisi surat kuasa keluarga dan kartu anggota loyalti Clarissa yang diberikan Nay. Pakaian kami memang masih setengah basah akibat sisa hujan badai tadi sore, tapi sorot mata kami menyala penuh tekad pemburu yang mencium jejak mangsa.
 
 Di balik konter kasir kaca antipeluru, seorang pria muda berkacamata dengan kemeja batik sutra lengan panjang tampak sedang merapikan tumpukan map berkas polis jaminan nasabah. Papan namanya bertuliskan: Aris Munandar - Senior Appraiser & Cashier.
 
-Bagas melangkah maju mengetuk kaca konter pelan. "Selamat malam, Mas Aris. Saya Baskara Danuputra, rekan Ferdi dari SCBD."
+Ibas melangkah maju mengetuk kaca konter pelan. "Selamat malam, Mas Aris. Saya Baskara Danuputra, rekan Ferdi dari SCBD."
 
-Mas Aris mendongak menatap Bagas, lalu matanya melirik cemas ke arah dua satpam di dekat pintu masuk. Dia berdeham pelan, menekan tombol mikrofon interkom kaca konter.
+Mas Aris mendongak menatap Ibas, lalu matanya melirik cemas ke arah dua satpam di dekat pintu masuk. Dia berdeham pelan, menekan tombol mikrofon interkom kaca konter.
 
-"Mas Bagas... tolong jangan bicara keras-keras," bisik Aris dengan suara tertahan. "Ferdi sudah telepon saya tadi sore. Tapi urusan data nasabah gadai ini menyangkut kode etik perbankan dan rahasia privasi perusahaan swasta. Kalau manajer cabang tahu saya membocorkan data nasabah VIP, saya bisa dipecat malam ini juga!"
+"Mas Ibas... tolong jangan bicara keras-keras," bisik Aris dengan suara tertahan. "Ferdi sudah telepon saya tadi sore. Tapi urusan data nasabah gadai ini menyangkut kode etik perbankan dan rahasia privasi perusahaan swasta. Kalau manajer cabang tahu saya membocorkan data nasabah VIP, saya bisa dipecat malam ini juga!"
 
-"Mas Aris, ini menyangkut perkara pidana serius," potongku tegas sambil menempelkan surat somasi dan surat panggilan klarifikasi Polres ke kaca konter. "Saya Dita Maheswari, pemilik Bolu Ketan yang difitnah menggelapkan cincin warisan peninggalan almarhumah ibu Mas Bagas oleh nasabah Mas, Clarissa Maharani."
+"Mas Aris, ini menyangkut perkara pidana serius," potongku tegas sambil menempelkan surat somasi dan surat panggilan klarifikasi Polres ke kaca konter. "Saya Dita Maheswari, pemilik Bolu Ketan yang difitnah menggelapkan cincin warisan peninggalan almarhumah ibu Mas Ibas oleh nasabah Mas, Clarissa Maharani."
 
-Bagas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh dua KUHP tentang tindak pidana penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
+Ibas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh dua KUHP tentang tindak pidana penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
 
 Mendengar pasal penadahan dan nama Clarissa disebut, raut wajah Mas Aris mendadak berubah tegang. Ada kilatan kejengkelan sekaligus kekhawatiran yang kentara di balik lensa kacamatanya.
 
 "Clarissa Maharani..." gumam Mas Aris dengan napas tertahan. "Perempuan itu hari Sabtu kemarin datang ke sini dengan gaya luar biasa arogan. Dia mendesak pencairan kilat tanpa mau menunggu verifikasi asal-usul barang. Nilai taksirannya saya tawar dari delapan puluh juta jadi enam puluh lima juta rupiah karena dia tidak bawa sertifikat aslinya."
 
-Mata Bagas seketika membulat lebar menatap kaca konter. "Berarti benar Clarissa menggadaikan cincin almarhumah Ibu saya di sini?!"
+Mata Ibas seketika membulat lebar menatap kaca konter. "Berarti benar Clarissa menggadaikan cincin almarhumah Ibu saya di sini?!"
 
 Mas Aris melirik ke arah pintu lorong kantor manajer yang tertutup rapat, lalu menelan ludah dengan gelisah. Tangannya yang gemetar mengetikkan nomor identitas kartu loyalti Clarissa di papan ketik komputer kasirnya.
 
@@ -896,7 +896,7 @@ Dengan satu gerakan tangan yang cepat dan berani, Mas Aris memutar layar monitor
 
 "Lihat ini cepat, Mas! Jangan lama-lama!" bisik Aris panik.
 
-Mataku dan mata Bagas menyisir data digital yang tertera di layar monitor dengan kecepatan kilat:
+Mataku dan mata Ibas menyisir data digital yang tertera di layar monitor dengan kecepatan kilat:
 Nomor Polis: GSM-2026-089.
 Nama Nasabah: Clarissa Maharani (terlampir foto KTP dan tanda tangan digital).
 Waktu Transaksi Resmi: Sabtu, 31 Oktober 2026, Pukul 14.15 WIB.
@@ -915,9 +915,9 @@ Dengan gerakan secepat kilat, kamera ponsel pintarku membidik layar monitor komp
 
 Suara bentakan keras menggelegar dari pintu kantor belakang. Seorang pria berjas hitam dengan ID card manajer melangkah cepat keluar, disusul dua petugas sekuriti yang langsung mencabut tongkat pemukul dari pinggang mereka.
 
-"Mas Aris, terima kasih banyak!" seru Bagas menyambar map berkas kami.
+"Mas Aris, terima kasih banyak!" seru Ibas menyambar map berkas kami.
 
-Bagas menarik tanganku berlari kencang menerobos pintu kaca lobi pegadaian tepat saat satpam berusaha mencegat kami di pintu keluar. Kami melompat ke atas motor kargo yang mesinnya sudah menyala di trotoar jalan, lalu tancap gas membelah kemacetan malam Senopati dengan sorak kelegaan yang meledak di dada kami.
+Ibas menarik tanganku berlari kencang menerobos pintu kaca lobi pegadaian tepat saat satpam berusaha mencegat kami di pintu keluar. Kami melompat ke atas motor kargo yang mesinnya sudah menyala di trotoar jalan, lalu tancap gas membelah kemacetan malam Senopati dengan sorak kelegaan yang meledak di dada kami.
 
 Bukti pembunuhan karakter Clarissa kini telah terkunci rapat di dalam memoriku ponselku!
 
@@ -925,7 +925,7 @@ Namun saat motor kami berhenti di lampu merah perempatan Kuningan, ponselku berg
 
 Aku membuka tautan video yang dikirimkan Restu dengan napas tertahan.
 
-Di layar aplikasi Instagram, akun gosip selebriti terbesar ibu kota dengan pengikut belasan juta baru saja mengunggah potongan video editan saat Bagas membentak Tante Debby di Senayan City kemarin siang, lengkap dengan judul provokatif yang membakar:
+Di layar aplikasi Instagram, akun gosip selebriti terbesar ibu kota dengan pengikut belasan juta baru saja mengunggah potongan video editan saat Ibas membentak Tante Debby di Senayan City kemarin siang, lengkap dengan judul provokatif yang membakar:
 SKANDAL ARISAN SCBD! Manajer Eksekutif Terpandang Baskara Danuputra Batal Nikah Demi Selingkuh dengan Kurir Motor Patah Hati! Cincin Warisan Keluarga Diduga Dilarikan ke Trotoar Tebet!
 
 ---
@@ -958,29 +958,29 @@ Total kehilangan pemasukan satu juta dua ratus ribu rupiah dalam tempo satu jam.
 
 Aku memeluk kedua lututku di sudut kasur, merasa seluruh dunia sedang bersekongkol menenggelamkanku ke dasar lumpur.
 
-Tepat saat dadaku sesak menahan isak, ponselku kembali berdering. Bukan notifikasi bot, melainkan panggilan suara dari Bagas.
+Tepat saat dadaku sesak menahan isak, ponselku kembali berdering. Bukan notifikasi bot, melainkan panggilan suara dari Ibas.
 
 Dengan tangan yang gemetar dingin, aku menekan tombol hijau. "Halo..." suaraku tercekat parau.
 
-Suara bariton Bagas di seberang sana terdengar sangat tenang, tegas, dan meneduhkan. "Buka pintu gerbang depan kos kamu sekarang, Dita. Saya ada di luar."
+Suara bariton Ibas di seberang sana terdengar sangat tenang, tegas, dan meneduhkan. "Buka pintu gerbang depan kos kamu sekarang, Dita. Saya ada di luar."
 
 Aku tersentak kaget. Aku buru-buru menyeka air mata dengan lengan kaos, merapikan rambut, lalu menuruni tangga kosan menuju pintu pagar gang.
 
-Di bawah lampu jalanan gang Tebet yang temaram, Bagas berdiri menyandarkan punggungnya di tiang listrik. Di tangannya ada sebuah jaket tebal dan satu kantong plastik berisi dua cangkir teh manis hangat dari minimarket dua puluh empat jam. Matanya yang lelah menatapku dengan kehangatan yang tulus, tanpa ada sedikit pun tatapan jijik atau menghakimi.
+Di bawah lampu jalanan gang Tebet yang temaram, Ibas berdiri menyandarkan punggungnya di tiang listrik. Di tangannya ada sebuah jaket tebal dan satu kantong plastik berisi dua cangkir teh manis hangat dari minimarket dua puluh empat jam. Matanya yang lelah menatapku dengan kehangatan yang tulus, tanpa ada sedikit pun tatapan jijik atau menghakimi.
 
-Bagas menyodorkan teh hangat itu ke tanganku. "Jangan baca komentar akun-akun bayaran itu, Dit. Mereka cuma sekumpulan orang pengecut yang dibayar lima puluh ribu per postingan."
+Ibas menyodorkan teh hangat itu ke tanganku. "Jangan baca komentar akun-akun bayaran itu, Dit. Mereka cuma sekumpulan orang pengecut yang dibayar lima puluh ribu per postingan."
 
 "Tapi Riko... mantan gue ikut ngejek gue, Mas," bisikku getir menatap aspal jalanan. "Nama gue hancur. Ibu gue di kampung kalau tahu berita ini bisa pingsan kena serangan jantung."
 
-Bagas melangkah mendekat, kedua tangannya terangkat lembut memegang kedua pundakku. Matanya menatap lurus ke dalam mataku dengan keteguhan yang membakar. "Saya yang bawa koper itu ke kantor kamu, Dita. Dan saya bersumpah demi hidup saya, saya yang akan membersihkan nama kamu di depan publik dan keluarga kamu. Percaya sama saya."
+Ibas melangkah mendekat, kedua tangannya terangkat lembut memegang kedua pundakku. Matanya menatap lurus ke dalam mataku dengan keteguhan yang membakar. "Saya yang bawa koper itu ke kantor kamu, Dita. Dan saya bersumpah demi hidup saya, saya yang akan membersihkan nama kamu di depan publik dan keluarga kamu. Percaya sama saya."
 
 Prak!
 
 Sebuah lemparan kerikil tajam mendadak menghantam kaca jendela lantai bawah rumah kosku, menimbulkan bunyi retak kecil yang mengagetkan kami berdua. Dari ujung gang gelap, suara deru knalpot motor bebek terdengar melesat kabur membelah keheningan subuh.
 
-Bagas menoleh menatap ujung gang dengan rahang mengeras kaku dan kilatan amarah yang dingin.
+Ibas menoleh menatap ujung gang dengan rahang mengeras kaku dan kilatan amarah yang dingin.
 
-"Mereka sudah mulai main fisik," bisik Bagas tajam merengkuh tubuhku mundur ke balik pintu pagar. "Clarissa memakai jasa agensi buzzer siber di Palmerah untuk meneror kamu. Besok kita datangi kantor mereka, kita bongkar siapa yang mendanai racun ini."
+"Mereka sudah mulai main fisik," bisik Ibas tajam merengkuh tubuhku mundur ke balik pintu pagar. "Clarissa memakai jasa agensi buzzer siber di Palmerah untuk meneror kamu. Besok kita datangi kantor mereka, kita bongkar siapa yang mendanai racun ini."
 
 ---
 
@@ -988,13 +988,13 @@ Bagas menoleh menatap ujung gang dengan rahang mengeras kaku dan kilatan amarah 
 
 Kamis siang pukul setengah dua, ruang rapat eksekutif lantai delapan belas Menara Pacific Century SCBD diselimuti hembusan pendingin udara sentral yang sedingin es. Berbeda dengan hawa gerah Tebet yang dipenuhi deru knalpot dan aroma minyak gorengan, ruangan kedap suara ini beraroma wewangian mawar menyengat berbaur dengan kulit kursi impor yang mahal. Tirai vertikal jendela tertutup rapat, menghalangi silau matahari di atas pencakar langit Sudirman.
 
-Aku duduk di samping Bagas di ujung meja rapat marmer berbentuk oval. Di seberang meja kami, Tante Debora duduk menyilangkan kaki dengan anggun di atas kursi kulit putar. Di pangkuannya teronggok tas tangan kulit buaya Hermes berwarna hijau zamrud. Di sampingnya, Advokat Henry Sitompul, S.H. duduk membuka map berkas bertanda tangan resmi sambil memainkan pena emas bermerek Montblanc.
+Aku duduk di samping Ibas di ujung meja rapat marmer berbentuk oval. Di seberang meja kami, Tante Debora duduk menyilangkan kaki dengan anggun di atas kursi kulit putar. Di pangkuannya teronggok tas tangan kulit buaya Hermes berwarna hijau zamrud. Di sampingnya, Advokat Henry Sitompul, S.H. duduk membuka map berkas bertanda tangan resmi sambil memainkan pena emas bermerek Montblanc.
 
 Henry Sitompul membuka pertemuan itu dengan suara bariton yang tertata rapi khas pengacara korporat bertaring.
 
 "Selamat siang, Saudari Dita dan Saudara Baskara," ucap Henry meletakkan sebuah map putih di atas meja marmer. "Kami mengundang kalian ke forum tertutup ini demi menjaga nama baik keluarga besar Danuputra dan keluarga besar almarhum Ayahanda Clarissa. Surat somasi kami masih menyisakan waktu sembilan hari, tapi klien kami bermaksud menawarkan jalan keluar yang sangat bermartabat."
 
-Henry menyodorkan dua lembar draf surat perjanjian perdamaian berkop hukum resmi ke hadapanku dan Bagas. Di bagian bawahnya sudah tertempel meterai sepuluh ribu rupiah.
+Henry menyodorkan dua lembar draf surat perjanjian perdamaian berkop hukum resmi ke hadapanku dan Ibas. Di bagian bawahnya sudah tertempel meterai sepuluh ribu rupiah.
 
 Mataku menyisir poin-poin kesepakatan itu dengan kening berkerut dalam:
 Pihak Pertama (CV Bolu Ketan Mandiri) mengakui adanya kelalaian operasional pengawasan barang kargo dalam proses penjemputan paket VIP di Apartemen Royal Senopati. Pihak Kedua (Keluarga Clarissa Maharani) bersedia mencabut somasi hukum dan memberikan dana kompensasi pembinaan usaha sebesar Rp20.000.000 (dua puluh juta rupiah) tunai. Seluruh foto, rekaman, dan dokumen terkait transaksi pegadaian wajib dihapus dan dilarang disebarluaskan dengan klausul kerahasiaan denda pidana satu miliar rupiah.
@@ -1011,23 +1011,23 @@ Aku menatap lembaran draf itu dengan tangan mengepal kencang di bawah meja. "Men
 
 Sebelum aku sempat membalas makian wanita itu, sebuah suara debukan keras menggelegar menghantam meja marmer.
 
-Bagas bangkit berdiri dari kursinya. Tubuhnya yang jangkung menjulang menatap Tante Debby dan Henry Sitompul dengan sorot mata yang menyala penuh amarah yang telah lama terpendam.
+Ibas bangkit berdiri dari kursinya. Tubuhnya yang jangkung menjulang menatap Tante Debby dan Henry Sitompul dengan sorot mata yang menyala penuh amarah yang telah lama terpendam.
 
-Dengan kedua tangannya yang kokoh, Bagas menyambar dua lembar draf surat perjanjian damai itu. Sreeek! Sreeek!
+Dengan kedua tangannya yang kokoh, Ibas menyambar dua lembar draf surat perjanjian damai itu. Sreeek! Sreeek!
 
-Bagas merobek kertas berkop hukum bermeterai itu menjadi empat bagian di depan muka Tante Debby, lalu melemparkan serpihannya ke udara hingga berhamburan jatuh di atas tas buaya mahalnya.
+Ibas merobek kertas berkop hukum bermeterai itu menjadi empat bagian di depan muka Tante Debby, lalu melemparkan serpihannya ke udara hingga berhamburan jatuh di atas tas buaya mahalnya.
 
 Tante Debby seketika terperangah syok. Mulutnya menganga lebar persis ikan kehabisan air. Henry Sitompul membelalak kaget, pena emas di tangannya nyaris terlepas ke lantai.
 
 "Baskara! Kamu sudah gila?!" jerit Tante Debby histeris.
 
-"Saya tidak gila, Tante Debora," sahut Bagas dengan suara bariton yang bergetar menahan murka yang teramat dingin. "Tapi saya muak melihat kemunafikan keluarga Tante yang menutupi kejahatan Clarissa dengan menginjak martabat orang jujur! Clarissa menggadaikan cincin almarhumah Ibu saya di Senopati seharga enam puluh lima juta rupiah hari Sabtu lalu! Kami punya foto monitor transaksinya dan nomor polisnya!"
+"Saya tidak gila, Tante Debora," sahut Ibas dengan suara bariton yang bergetar menahan murka yang teramat dingin. "Tapi saya muak melihat kemunafikan keluarga Tante yang menutupi kejahatan Clarissa dengan menginjak martabat orang jujur! Clarissa menggadaikan cincin almarhumah Ibu saya di Senopati seharga enam puluh lima juta rupiah hari Sabtu lalu! Kami punya foto monitor transaksinya dan nomor polisnya!"
 
 Wajah Tante Debby seketika berubah pasi seputih kapur dinding, sementara Henry Sitompul terdiam kaku melirik kliennya dengan kening berkerut curiga.
 
-"Kami tidak butuh uang tutup mulut dua puluh juta rupiah dari keluarga Tante," lanjut Bagas sambil menarik tanganku melangkah menuju pintu keluar ruang rapat. "Simpan uang itu buat bayar pengacara kalian pas kita ketemu di depan meja penyidik kepolisian nanti!"
+"Kami tidak butuh uang tutup mulut dua puluh juta rupiah dari keluarga Tante," lanjut Ibas sambil menarik tanganku melangkah menuju pintu keluar ruang rapat. "Simpan uang itu buat bayar pengacara kalian pas kita ketemu di depan meja penyidik kepolisian nanti!"
 
-Bagas membuka pintu ruang rapat dengan satu bantingan tegas.
+Ibas membuka pintu ruang rapat dengan satu bantingan tegas.
 
 Tante Debby bangkit berdiri dengan napas tersengal-sengal, matanya menyala penuh dendam kesumat menatap punggung kami yang melangkah pergi di koridor SCBD.
 
@@ -1037,45 +1037,45 @@ Tante Debby bangkit berdiri dengan napas tersengal-sengal, matanya menyala penuh
 
 ## Bab 21: Dua Pilihan Sama-Sama Pahit
 
-Jumat sore di emperan kedai kopi trotoar Kuningan berbau sangit asap knalpot Transjakarta dan aroma kacang rebus pedagang keliling. Hawa gerah kota Jakarta yang mendidih seolah menambah pekatnya keheningan di meja plastik kecil tempat aku dan Bagas duduk berhadapan.
+Jumat sore di emperan kedai kopi trotoar Kuningan berbau sangit asap knalpot Transjakarta dan aroma kacang rebus pedagang keliling. Hawa gerah kota Jakarta yang mendidih seolah menambah pekatnya keheningan di meja plastik kecil tempat aku dan Ibas duduk berhadapan.
 
 Di hadapan kami, dua cangkir kopi hitam yang sudah dingin teronggok tanpa disentuh. Sisa waktu somasi Henry Sitompul tinggal menyisakan empat hari kalender lagi.
 
-Layar ponsel Bagas yang tergeletak di atas meja mendadak menyala terang, memunculkan panggilan masuk dengan nama kontak huruf kapital: AYAH.
+Layar ponsel Ibas yang tergeletak di atas meja mendadak menyala terang, memunculkan panggilan masuk dengan nama kontak huruf kapital: AYAH.
 
-Bagas menatap layar itu dengan tenggorokan tercekat, sebelum akhirnya menggeser tombol hijau dan menyalakan pengeras suara sesuai permintaanku.
+Ibas menatap layar itu dengan tenggorokan tercekat, sebelum akhirnya menggeser tombol hijau dan menyalakan pengeras suara sesuai permintaanku.
 
 Suara bariton menggelegar dari pria paruh baya di seberang sana seketika membelah kebisingan trotoar jalan raya:
 
 "Baskara! Kamu ini anak sulung macam apa?!" bentak Ir. H. Danuputra tanpa tedeng aling-aling. Suara sang ayah bergetar sarat murka yang meluap-luap. "Tante Debby baru saja menelepon Ayah sambil menangis! Kamu mempermalukan keluarga Clarissa di kantor SCBD dan merobek surat damai di depan pengacara mereka?!"
 
-Bagas menarik napas panjang, suaranya berusaha dijaga tetap santun namun tegas. "Ayah, Clarissa yang memfitnah kurir itu. Clarissa menggadaikan cincin almarhumah Ibu di Senopati demi bayar utang arisan pribadinya. Kami punya bukti foto sistem komputernya, Yah."
+Ibas menarik napas panjang, suaranya berusaha dijaga tetap santun namun tegas. "Ayah, Clarissa yang memfitnah kurir itu. Clarissa menggadaikan cincin almarhumah Ibu di Senopati demi bayar utang arisan pribadinya. Kami punya bukti foto sistem komputernya, Yah."
 
-"Ayah tidak peduli siapa yang menggadaikan cincin itu!" potong Danuputra dingin dan kejam, menusuk ulu hati Bagas tanpa ampun. "Yang Ayah pedulikan adalah nama klan Danuputra! Berita skandal kamu dan perempuan kurir itu sudah mulai masuk akun gosip selebriti! Rekan-rekan bisnis perhotelan Ayah mulai berbisik-bisik di lapangan golf!"
+"Ayah tidak peduli siapa yang menggadaikan cincin itu!" potong Danuputra dingin dan kejam, menusuk ulu hati Ibas tanpa ampun. "Yang Ayah pedulikan adalah nama klan Danuputra! Berita skandal kamu dan perempuan kurir itu sudah mulai masuk akun gosip selebriti! Rekan-rekan bisnis perhotelan Ayah mulai berbisik-bisik di lapangan golf!"
 
-Bagas memejamkan matanya rapat-rapat, jemarinya meremas tepi meja plastik hingga buku-buku jarinya memutih.
+Ibas memejamkan matanya rapat-rapat, jemarinya meremas tepi meja plastik hingga buku-buku jarinya memutih.
 
 "Dengar keputusan Ayah, Baskara," lanjut Danuputra dengan nada perintah mutlak yang tidak bisa dibantah. "Besok pagi Ayah akan transfer uang seratus dua puluh juta rupiah ke rekening pengacara Sitompul untuk menebus cincin ibumu dan menutup kasus ini secara kekeluargaan. Syaratnya cuma satu: kamu putus hubungan detik ini juga dengan perempuan kurir itu, dan biarkan agensinya menandatangani surat pengakuan lalai operasional. Kasus selesai, nama keluarga kita aman."
 
 Ruangan trotoar Kuningan mendadak terasa begitu sunyi bagi telingaku. Dadaku serasa dihantam godam raksasa.
 
-"Ayah... kalau Dita menandatangani surat itu," bisik Bagas parau, "agensi Bolu Ketan bakal ditutup dan Dita dicap sebagai penipu seumur hidupnya."
+"Ayah... kalau Dita menandatangani surat itu," bisik Ibas parau, "agensi Bolu Ketan bakal ditutup dan Dita dicap sebagai penipu seumur hidupnya."
 
 "Dia cuma orang asing dari kalangan bawah, Baskara!" semprot Danuputra tanpa belas kasihan. "Kamu mau mengorbankan kariermu, warisan keluargamu, dan nama besar almarhumah ibumu demi membela perempuan jalanan yang baru kamu kenal seminggu?! Kalau kamu tolak perintah Ayah ini, jangan pernah injakkan kakimu di rumah keluarga besar lagi! Kamu resmi Ayah coret dari hak waris klan Danuputra!"
 
 Klik. Panggilan dimatikan secara sepihak dari seberang sana.
 
-Keheningan yang mencekam turun di antara kami berdua. Bagas menundukkan kepalanya dalam-dalam, kedua telapak tangannya menutupi wajahnya yang hancur berantakan menahan beban tekanan keluarganya.
+Keheningan yang mencekam turun di antara kami berdua. Ibas menundukkan kepalanya dalam-dalam, kedua telapak tangannya menutupi wajahnya yang hancur berantakan menahan beban tekanan keluarganya.
 
-Aku menatap Bagas dengan senyuman pahit yang getir. Rasa perih dari luka masa lalu yang kukira sudah sembuh mendadak menjalar kembali ke sekujur tubuhku.
+Aku menatap Ibas dengan senyuman pahit yang getir. Rasa perih dari luka masa lalu yang kukira sudah sembuh mendadak menjalar kembali ke sekujur tubuhku.
 
 "Benar kan tebakan gue dari awal, Mas?" ucapku pelan dengan suara yang bergetar dingin.
 
-Bagas mendongak menatapku dengan mata memerah. "Maksud kamu apa, Dit?"
+Ibas mendongak menatapku dengan mata memerah. "Maksud kamu apa, Dit?"
 
-"Pada akhirnya, orang-orang berdasi kayak lo bakal selalu milih kenyamanan kelas sosial lo," cibirku getir menatap jalanan Rasuna Said yang padat. "Riko dulu juga ngomong persis kayak gini. Dia bilang dia cinta sama gue, tapi dia nggak sanggup kehilangan warisan dan fasilitas bapaknya. Lo sama aja kayak Riko, Mas Bagas. Lo bakal biarin gue dan Bolu Ketan jadi bangkai di selokan asalkan nama klan keluarga Danuputra lo tetap wangi."
+"Pada akhirnya, orang-orang berdasi kayak lo bakal selalu milih kenyamanan kelas sosial lo," cibirku getir menatap jalanan Rasuna Said yang padat. "Riko dulu juga ngomong persis kayak gini. Dia bilang dia cinta sama gue, tapi dia nggak sanggup kehilangan warisan dan fasilitas bapaknya. Lo sama aja kayak Riko, Mas Ibas. Lo bakal biarin gue dan Bolu Ketan jadi bangkai di selokan asalkan nama klan keluarga Danuputra lo tetap wangi."
 
-"Dita! Jangan bicara sembarangan!" seru Bagas tersentak bangkit dari kursinya, matanya berkaca-kaca menatapku dengan luka yang mendalam. "Saya sedang mempertaruhkan seluruh hidup saya, karier saya, dan silsilah keluarga saya demi membela kamu! Kalau saya cuma peduli uang warisan, saya sudah bayar uang damai itu dari hari pertama tanpa perlu mendorong motor mogok bareng kamu di tengah banjir!"
+"Dita! Jangan bicara sembarangan!" seru Ibas tersentak bangkit dari kursinya, matanya berkaca-kaca menatapku dengan luka yang mendalam. "Saya sedang mempertaruhkan seluruh hidup saya, karier saya, dan silsilah keluarga saya demi membela kamu! Kalau saya cuma peduli uang warisan, saya sudah bayar uang damai itu dari hari pertama tanpa perlu mendorong motor mogok bareng kamu di tengah banjir!"
 
 Napas kami berdua terengah-engah saling tatap di bawah temaram senja Jakarta.
 
@@ -1156,7 +1156,7 @@ Aku memutar selongsong gas motorku sekuat tenaga. Roda belakang motor kargo Bolu
 
 Ruang Unit Harta dan Benda (Harda) Satreskrim Polres Metro Jakarta Selatan di lantai dua beraroma kertas arsip perkara tua, kepulan asap rokok dari ruang konseling belakang, dan hembusan pendingin udara sentral yang menderu dingin.
 
-Senin pagi pukul sepuluh tepat, aku duduk di kursi plastik biru di depan meja kayu lapuk milik Inspektur Dua Polisi Bambang Sutrisno. Di samping kananku, Bagas duduk mendampingiku dengan setelan kemeja katun rapi, membawa map tebal berisi berkas pembelaan kami.
+Senin pagi pukul sepuluh tepat, aku duduk di kursi plastik biru di depan meja kayu lapuk milik Inspektur Dua Polisi Bambang Sutrisno. Di samping kananku, Ibas duduk mendampingiku dengan setelan kemeja katun rapi, membawa map tebal berisi berkas pembelaan kami.
 
 Di seberang meja kami, Advokat Henry Sitompul, S.H. duduk menyilangkan kaki dengan senyuman percaya diri yang angkuh. Di sampingnya, Clarissa Maharani duduk mengenakan kacamata hitam besar dan masker medis putih, tampak memasang pose wanita terzalimi yang rapuh.
 
@@ -1178,7 +1178,7 @@ Henry Sitompul seketika tertawa meremehkan, mengetuk meja dengan pulpen emasnya.
 
 Di layar ponselku, foto hasil jepretan layar komputer kasir Gadai Swasta Mulia Senopati terpampang jelas: menampilkan foto Clarissa menandatangani polis gadai nomor GSM-2026-089 senilai enam puluh lima juta rupiah pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB.
 
-"Ini buktinya, Pak Penyidik!" seruku lantang menunjuk foto layar itu. "Tiga hari sebelum koper diserahkan ke kurir saya, Clarissa sendiri yang menggadaikan cincin almarhumah ibu Mas Bagas di pegadaian Senopati demi menutup utang arisannya!"
+"Ini buktinya, Pak Penyidik!" seruku lantang menunjuk foto layar itu. "Tiga hari sebelum koper diserahkan ke kurir saya, Clarissa sendiri yang menggadaikan cincin almarhumah ibu Mas Ibas di pegadaian Senopati demi menutup utang arisannya!"
 
 Wajah Clarissa seketika memucat di balik maskernya. Jemarinya mencengkeram tali tasnya dengan panik.
 
@@ -1196,7 +1196,7 @@ Ipda Bambang melirik jam dinding ruang penyidikan yang menunjukkan pukul sebelas
 
 Tersangka. Risiko penetapan status hukum itu menghantam kepalaku persis palu godam raksasa.
 
-Saat aku dan Bagas melangkah gontai keluar dari lobi Gedung Satreskrim Polres Jaksel, ponsel pintarku mendadak berdering histeris. Nama Restu berkedip di layar.
+Saat aku dan Ibas melangkah gontai keluar dari lobi Gedung Satreskrim Polres Jaksel, ponsel pintarku mendadak berdering histeris. Nama Restu berkedip di layar.
 
 Aku menekan tombol jawab dengan tangan lemas. "Halo, Tu..."
 
@@ -1209,49 +1209,49 @@ Mbak Ditaaa! Ruko kita digerebek, Mbak! Pemilik tanah ruko sama petugas keamanan
 
 Matahari pukul dua siang memanggang aspal gang sempit di samping gerai Gadai Swasta Mulia Senopati dengan panas yang membuat kepala berdenyut perih. Waktu tenggat dua puluh empat jam dari Ipda Bambang Sutrisno terus berdetik tanpa ampun di kepalaku persis bom waktu yang siap meledak besok siang.
 
-Aku dan Bagas berdiri merapat ke dinding tembok pembatas gang, mengawasi pintu besi keluar darurat khusus staf gerai pegadaian swasta tersebut.
+Aku dan Ibas berdiri merapat ke dinding tembok pembatas gang, mengawasi pintu besi keluar darurat khusus staf gerai pegadaian swasta tersebut.
 
 Dua menit kemudian, pintu besi berderit membuka pelan. Mas Aris melangkah keluar mengenakan topi dan jaket kanvas lusuh, membawa bungkus nasi padang di tangannya.
 
-"Mas Aris!" bisik Bagas cepat menghampiri pria penaksir perhiasan itu.
+"Mas Aris!" bisik Ibas cepat menghampiri pria penaksir perhiasan itu.
 
-Mas Aris seketika melompat kaget, matanya melotot panik menyapu lorong gang yang sepi. "Mas Bagas?! Mbak Dita?! Ngapain kalian nekat ke sini lagi?! Manajer cabang dan kepala keamanan lagi siaga satu gara-gara aksi kalian kemarin malam!"
+Mas Aris seketika melompat kaget, matanya melotot panik menyapu lorong gang yang sepi. "Mas Ibas?! Mbak Dita?! Ngapain kalian nekat ke sini lagi?! Manajer cabang dan kepala keamanan lagi siaga satu gara-gara aksi kalian kemarin malam!"
 
 "Mas Aris, tolong kami," ucapku memegang lengan jaketnya dengan tatapan memohon yang mendalam. "Polisi menolak bukti foto layar ponsel dari kami. Besok siang penyidik bakal gelar perkara buat naikin kasus ini ke tahap penyidikan dan netapin status saya jadi Tersangka kalau kami nggak punya surat tanda terima fisik asli bermeterai dari kantor pegadaian ini!"
 
 Mas Aris mengusap wajahnya yang basah oleh peluh dengan napas tersengal-sengal frustrasi. "Mbak Dita, kalian nggak tahu siapa lawan kalian! Tadi pagi Tante Debby dan pengacara Sitompul datang langsung ke ruangan manajer cabang kami, Pak Hendra! Mereka nyerahin uang pelicin amplop tebal puluhan juta rupiah biar Pak Hendra mengunci rapat semua berkas polis nomor GSM-2026-089 sampai tenggat somasi selesai!"
 
-Rahang Bagas seketika mengeras kaku mendengar kebusukan itu. "Di mana berkas fisik aslinya disimpan sekarang, Aris?"
+Rahang Ibas seketika mengeras kaku mendengar kebusukan itu. "Di mana berkas fisik aslinya disimpan sekarang, Aris?"
 
 Mas Aris melirik ke arah pintu besi di belakangnya, lalu berbisik dengan suara tercekat di tenggorokan: "Di lemari besi arsip khusus lantai satu, tepat di bawah meja kerja Pak Hendra. Kuncinya dipegang sendiri sama Pak Hendra di gantungan dompetnya. Tanpa surat sita geledah resmi dari pengadilan negeri, mustahil staf biasa kayak saya bisa ngeluarin lembar polis asli itu!"
 
-"Biar saya bicara langsung sama Hendra," ucap Bagas tegas melangkah menuju pintu darurat. "Saya kenal beberapa dewan komisaris holding pegadaian ini di SCBD. Hendra tidak bisa disuap sembarangan jika menyangkut tindak pidana pemerasan."
+"Biar saya bicara langsung sama Hendra," ucap Ibas tegas melangkah menuju pintu darurat. "Saya kenal beberapa dewan komisaris holding pegadaian ini di SCBD. Hendra tidak bisa disuap sembarangan jika menyangkut tindak pidana pemerasan."
 
-Namun sebelum tangan Bagas sempat menyentuh gagang pintu besi, pintu itu mendadak terbuka lebar dari dalam dengan bantingan keras.
+Namun sebelum tangan Ibas sempat menyentuh gagang pintu besi, pintu itu mendadak terbuka lebar dari dalam dengan bantingan keras.
 
 Pak Hendra, manajer cabang bertubuh tambun berjas hitam rapi, berdiri di ambang pintu didampingi dua petugas sekuriti berbadan kekar yang memegang tongkat pemukul baja di pinggang mereka.
 
-"Mau bikin keributan apa lagi kalian di area bisnis kami?!" bentak Hendra dengan nada suara arogan yang menusuk telinga. Matanya menatap Bagas dan diriku dengan pandangan merendahkan. "Aris! Masuk ke dalam sekarang juga kalau kamu masih mau terima gaji bulan depan!"
+"Mau bikin keributan apa lagi kalian di area bisnis kami?!" bentak Hendra dengan nada suara arogan yang menusuk telinga. Matanya menatap Ibas dan diriku dengan pandangan merendahkan. "Aris! Masuk ke dalam sekarang juga kalau kamu masih mau terima gaji bulan depan!"
 
 Mas Aris menundukkan kepalanya dalam-dalam, menelan ludah ketakutan, lalu buru-buru menyelinap masuk melewati ketiak sekuriti.
 
-"Pak Hendra," kata Bagas melangkah maju menyodorkan surat panggilan Polres Jaksel dengan nada bicara yang berusaha ditekan tenang, "saya Baskara Danuputra dari holding arsitektur SCBD. Cincin yang digadaikan Clarissa adalah barang pusaka keluarga saya yang digelapkan secara pidana. Polisi membutuhkan konfirmasi surat fisik bermeterai dari pihak pegadaian untuk membuktikan kejahatan ini."
+"Pak Hendra," kata Ibas melangkah maju menyodorkan surat panggilan Polres Jaksel dengan nada bicara yang berusaha ditekan tenang, "saya Baskara Danuputra dari holding arsitektur SCBD. Cincin yang digadaikan Clarissa adalah barang pusaka keluarga saya yang digelapkan secara pidana. Polisi membutuhkan konfirmasi surat fisik bermeterai dari pihak pegadaian untuk membuktikan kejahatan ini."
 
-Hendra tersenyum sinis, menepis surat panggilan polisi di tangan Bagas dengan ujung jarinya persis menepis lalat pengganggu.
+Hendra tersenyum sinis, menepis surat panggilan polisi di tangan Ibas dengan ujung jarinya persis menepis lalat pengganggu.
 
-"Surat panggilan klarifikasi ini bukan surat penetapan sita geledah dari pengadilan negeri, Pak Bagas!" cibir Hendra dingin tanpa tedeng aling-aling. "Perusahaan kami terikat undang-undang kerahasiaan nasabah perbankan non-bank! Kami tidak punya kewajiban memberikan secuil dokumen pun kepada mantan tunangan yang gagal move on dan kurir motor jalanan yang bermasalah!"
+"Surat panggilan klarifikasi ini bukan surat penetapan sita geledah dari pengadilan negeri, Pak Ibas!" cibir Hendra dingin tanpa tedeng aling-aling. "Perusahaan kami terikat undang-undang kerahasiaan nasabah perbankan non-bank! Kami tidak punya kewajiban memberikan secuil dokumen pun kepada mantan tunangan yang gagal move on dan kurir motor jalanan yang bermasalah!"
 
 Hendra menoleh ke arah dua petugas sekuritinya dengan seringai kejam. "Usir dua orang ini dari area parkir Senopati sekarang juga! Kalau mereka berani menginjakkan kaki lagi di gang ini, pukul kakinya dan laporkan ke polsek terdekat atas tuduhan perbuatan tidak menyenangkan!"
 
-Dua sekuriti kekar itu melangkah maju mendorong dada Bagas dengan kasar hingga tubuh Bagas terdorong mundur menabrak tiang semen gang. Sebelum perkelahian fisik yang tak seimbang meledak di tengah gang, aku menarik jaket Bagas sekuat tenaga menyeretnya mundur keluar dari lorong gang menuju trotoar jalan raya.
+Dua sekuriti kekar itu melangkah maju mendorong dada Ibas dengan kasar hingga tubuh Ibas terdorong mundur menabrak tiang semen gang. Sebelum perkelahian fisik yang tak seimbang meledak di tengah gang, aku menarik jaket Ibas sekuat tenaga menyeretnya mundur keluar dari lorong gang menuju trotoar jalan raya.
 
 Pintu besi gerai pegadaian dibanting menutup keras di belakang kami, mengunci rapat seluruh harapan kami untuk mendapatkan bukti fisik bermeterai.
 
 Pintu penyelidikan tertutup total. Waktu kami tersisa kurang dari dua puluh dua jam sebelum jeruji besi sel tahanan mengurung hidupku.
 
-Di trotoar halte busway Senopati yang panas berdebu, Bagas berdiri membelakangiku dengan napas terengah-engah memburu. Tangannya merogoh saku celana bahannya dengan gerakan yang sangat mencurigakan.
+Di trotoar halte busway Senopati yang panas berdebu, Ibas berdiri membelakangiku dengan napas terengah-engah memburu. Tangannya merogoh saku celana bahannya dengan gerakan yang sangat mencurigakan.
 
-Melalui celah tangannya, aku sempat melihat sebuah benda kecil terbungkus kain beludru merah pudar yang buru-buru disembunyikan Bagas ke dasar kantong celananya. Gerakan tangannya begitu panik dan tergesa-gesa saat menyadari aku sedang memperhatikannya dari belakang.
+Melalui celah tangannya, aku sempat melihat sebuah benda kecil terbungkus kain beludru merah pudar yang buru-buru disembunyikan Ibas ke dasar kantong celananya. Gerakan tangannya begitu panik dan tergesa-gesa saat menyadari aku sedang memperhatikannya dari belakang.
 
 Kecurigaan baru yang membakar seketika meletup di dadaku, memicu kepedihan dan amarah yang telah lama kutahan.
 
@@ -1261,39 +1261,39 @@ Kecurigaan baru yang membakar seketika meletup di dadaku, memicu kepedihan dan a
 
 Sore itu di bawah kolong jembatan penyeberangan halte busway Senopati, gerimis tipis turun membasahi aspal yang berdebu. Suara deru mesin bus Transjakarta dan klakson kendaraan yang terjebak macet bersahut-sahutan di udara yang pengap.
 
-Aku berdiri menghadang langkah Bagas persis di depan pintu masuk halte. Kedua tanganku bersidekap di dada, mataku menatap tajam ke arah saku celana bahan pria SCBD itu.
+Aku berdiri menghadang langkah Ibas persis di depan pintu masuk halte. Kedua tanganku bersidekap di dada, mataku menatap tajam ke arah saku celana bahan pria SCBD itu.
 
 "Keluarkan barang yang lo sembunyikan di saku tadi, Mas," desakku dingin.
 
-Bagas tersentak, langkahnya terhenti kaku. Matanya melirik cemas ke arah kerumunan calon penumpang busway yang berdesakan di sekitar kami. "Dita, ini bukan tempat yang tepat buat bicara. Kita kembali ke Tebet dulu."
+Ibas tersentak, langkahnya terhenti kaku. Matanya melirik cemas ke arah kerumunan calon penumpang busway yang berdesakan di sekitar kami. "Dita, ini bukan tempat yang tepat buat bicara. Kita kembali ke Tebet dulu."
 
 "Gue bilang keluarin sekarang!" suaraku meninggi setengah oktaf, memotong kata-katanya tanpa ampun. "Lo keluar dari pintu belakang pegadaian tadi sambil nyelipin kotak perhiasan ke saku lo! Lo diam-diam negosiasi sama orang dalam pegadaian buat nebus barang Clarissa di belakang punggung gue, kan?!"
 
-Bagas menghela napas panjang, wajahnya tampak lelah dan terpukul oleh nada tuduhanku. Dengan tangan yang sedikit bergetar, ia merogoh saku celana bahannya.
+Ibas menghela napas panjang, wajahnya tampak lelah dan terpukul oleh nada tuduhanku. Dengan tangan yang sedikit bergetar, ia merogoh saku celana bahannya.
 
 Sebuah kantong beludru merah pudar berukuran kecil diletakkannya di atas telapak tangannya, lalu dibukanya perlahan.
 
 Bukan cincin berlian solitaire. Di dalam kantong beludru itu terbaring seutas gelang emas rantai bermotif bunga melati tua peninggalan almarhumah ibunya.
 
-"Ini gelang emas peninggalan almarhumah Ibu saya yang dulu digadaikan keluarga waktu biaya kuliah arsitektur saya macet," jelas Bagas pelan dengan suara tercekat di tenggorokan. "Saya tadi mencairkan sisa tabungan terakhir saya sebesar lima belas juta rupiah buat membayar biaya operasional perkara dan jasa audit forensik digital independen lewat rekan kampus saya, Darmawan. Pihak loket pegadaian tadi sekalian menyerahkan gelang Ibu saya yang cicilannya sudah lunas bulan lalu. Saya menyimpannya di saku bukan untuk main rahasia di belakang kamu, Dita!"
+"Ini gelang emas peninggalan almarhumah Ibu saya yang dulu digadaikan keluarga waktu biaya kuliah arsitektur saya macet," jelas Ibas pelan dengan suara tercekat di tenggorokan. "Saya tadi mencairkan sisa tabungan terakhir saya sebesar lima belas juta rupiah buat membayar biaya operasional perkara dan jasa audit forensik digital independen lewat rekan kampus saya, Darmawan. Pihak loket pegadaian tadi sekalian menyerahkan gelang Ibu saya yang cicilannya sudah lunas bulan lalu. Saya menyimpannya di saku bukan untuk main rahasia di belakang kamu, Dita!"
 
-Aku tertegun memandangi kantong perhiasan itu, tapi kepalaku yang dihantam tekanan berhari-hari mendadak dibakar trauma masa lalu. Di mataku yang buram oleh amarah, kantong perhiasan di tangan Bagas terasa persis seperti kesepakatan gelap di balik punggungku. Dua tahun lalu, Riko juga selalu beralasan mengurus aset keluarga sebelum akhirnya membuangku demi perempuan berduit.
+Aku tertegun memandangi kantong perhiasan itu, tapi kepalaku yang dihantam tekanan berhari-hari mendadak dibakar trauma masa lalu. Di mataku yang buram oleh amarah, kantong perhiasan di tangan Ibas terasa persis seperti kesepakatan gelap di balik punggungku. Dua tahun lalu, Riko juga selalu beralasan mengurus aset keluarga sebelum akhirnya membuangku demi perempuan berduit.
 
 "Bohong!" sergahku dengan air mata amarah yang mendadak merebak di pelupuk mata. "Lo menebus gelang ini buat nyelamatin aset keluarga lo sendiri! Di ruang penyidik tadi, bokap lo nyuruh lo bayar uang damai dan ngorbanin Bolu Ketan! Lo pura-pura belain gue di depan, tapi di belakang lo udah siap barter nama baik gue biar nama keluarga Danuputra lo tetap bersih!"
 
-Wajah Bagas seketika memucat pasi. Matanya menatapku dengan sorot luka yang begitu dalam dan hancur, persis orang yang baru saja ditikam dari belakang oleh orang yang paling ia percayai di dunia.
+Wajah Ibas seketika memucat pasi. Matanya menatapku dengan sorot luka yang begitu dalam dan hancur, persis orang yang baru saja ditikam dari belakang oleh orang yang paling ia percayai di dunia.
 
-"Dita..." suara Bagas bergetar parau, bibirnya bergetar menahan sakit hati yang luar biasa. "Setelah semua yang kita lewati berhari-hari ini... kamu masih menganggap saya pria pengecut yang tega mengorbankan kamu?"
+"Dita..." suara Ibas bergetar parau, bibirnya bergetar menahan sakit hati yang luar biasa. "Setelah semua yang kita lewati berhari-hari ini... kamu masih menganggap saya pria pengecut yang tega mengorbankan kamu?"
 
 "Iya!" jeritku kalap, seluruh duri pertahanan sinismeku meledak menusuk tanpa kendali. "Orang berdasi kayak lo nggak bakal pernah ngerti rasanya jadi orang jalanan! Lo punya uang, lo punya klan keluarga, lo punya pengacara mahal! Kalau gue masuk penjara, lo tinggal balik ke kantor SCBD lo yang dingin itu dan hidup nyaman seolah gue nggak pernah ada!"
 
-Kata-kata kasarku bagaikan belati es yang merobek habis sisa kesabaran Bagas.
+Kata-kata kasarku bagaikan belati es yang merobek habis sisa kesabaran Ibas.
 
 Pria itu terdiam mematung di bawah rintik gerimis. Tidak ada lagi bantahan, tidak ada lagi penjelasan. Tangannya perlahan menutup kembali kantong beludru merah pudar itu, lalu memasukkannya ke saku jaketnya.
 
-"Saya kira kamu berbeda dari Clarissa, Dita," ucap Bagas dengan suara yang begitu pelan, dingin, dan sarat keputusasaan yang sunyi. "Ternyata rasa curiga dan luka masa lalu kamu sudah membutakan mata hati kamu sendiri."
+"Saya kira kamu berbeda dari Clarissa, Dita," ucap Ibas dengan suara yang begitu pelan, dingin, dan sarat keputusasaan yang sunyi. "Ternyata rasa curiga dan luka masa lalu kamu sudah membutakan mata hati kamu sendiri."
 
-Bagas berbalik badan. Tanpa menoleh lagi sedetik pun, langkah kakinya melangkah menembus tirai gerimis Senopati, meninggalkanku sendirian di tengah kerumunan halte busway yang dingin.
+Ibas berbalik badan. Tanpa menoleh lagi sedetik pun, langkah kakinya melangkah menembus tirai gerimis Senopati, meninggalkanku sendirian di tengah kerumunan halte busway yang dingin.
 
 Pintu bus Transjakarta berdenting membuka di depanku. Aku melangkah masuk ke dalam bus yang penuh sesak dengan air mata yang tumpah deras membasahi pipiku. Di sela isak tangis yang kutahan di balik masker kainku, sebuah kepedihan baru yang jauh lebih menyiksa daripada ancaman somasi meremas jantungku: aku tahu pasti bahwa lidah kasarku baru saja menghancurkan satu-satunya pria yang tulus berdiri membelaku di kota yang kejam ini.
 
@@ -1365,17 +1365,17 @@ Isak tangis yang sejak sore kutahan sekuat tenaga di hadapan Restu dan Pakde Bro
 
 Aku membenci diriku sendiri. Aku membenci rasa trauma pengkhianatan dua tahun lalu yang kujadikan berhala dan benteng penjara berduri untuk menyakiti orang-orang yang peduli padaku. Aku teringat pesan ibuku dari kampung sebelum aku merantau ke ibu kota: manusia itu hidup bukan buat jadi batu karang yang memecah ombak, melainkan pohon bambu yang tahu kapan harus merunduk dan menerima uluran tangan orang lain. Tapi nasehat itu kubakar habis demi memuaskan ego kemandirian palsuku.
 
-Aku teringat tatapan mata Bagas di halte busway Senopati tadi sore. Sorot mata pria SCBD itu yang begitu terluka dan hancur saat aku menuduhnya pengecut yang tega mengorbankanku... padahal pria itu rela mencairkan tabungan terakhirnya demi membayar biaya operasional hukum independen untuk membelaku. Bagas mempertaruhkan kariernya di menara SCBD, mempertaruhkan silsilah keluarganya di depan ayahnya yang keras, bahkan merelakan sepatu mahalnya terendam air banjir kotor di kolong jembatan Kuningan hanya untuk berdiri di sampingku.
+Aku teringat tatapan mata Ibas di halte busway Senopati tadi sore. Sorot mata pria SCBD itu yang begitu terluka dan hancur saat aku menuduhnya pengecut yang tega mengorbankanku... padahal pria itu rela mencairkan tabungan terakhirnya demi membayar biaya operasional hukum independen untuk membelaku. Ibas mempertaruhkan kariernya di menara SCBD, mempertaruhkan silsilah keluarganya di depan ayahnya yang keras, bahkan merelakan sepatu mahalnya terendam air banjir kotor di kolong jembatan Kuningan hanya untuk berdiri di sampingku.
 
 Dan apa yang kulakukan sebagai balasannya? Aku membalas seluruh pengorbanan pria tulus itu dengan semburan racun rasa curiga dan kata-kata hinaan yang mematahkan hatinya sampai berkeping-keping.
 
-"Maafin gue, Mas Bagas..." tangisku tersedu-sedu menenggelamkan wajahku di lipatan tangan. "Maafin gue..."
+"Maafin gue, Mas Ibas..." tangisku tersedu-sedu menenggelamkan wajahku di lipatan tangan. "Maafin gue..."
 
 Seluruh ego kemandirian palsu yang kubanggakan selama dua tahun runtuh rata dengan tanah di lantai loteng Tebet malam itu. Aku menyadari betapa kerdil dan rapuhnya diriku. Aku menyadari bahwa manusia tidak pernah diciptakan untuk memikul seluruh beban luka hidupnya sendirian tanpa membutuhkan pertolongan orang lain.
 
 Petir menyambar dahsyat di atas atap seng, menerangi baskom plastik yang mulai meluap menumpahkan air hujan ke lantai kayu.
 
-Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan mendatangi meja Ipda Bambang Sutrisno dan pasrah menghadapi pemeriksaan penyidik sebagai pihak yang bertanggung jawab, agar nama baik Bagas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
+Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan mendatangi meja Ipda Bambang Sutrisno dan pasrah menghadapi pemeriksaan penyidik sebagai pihak yang bertanggung jawab, agar nama baik Ibas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
 
 Biar aku sendiri yang menelan pil pahit ini sampai tuntas di balik jeruji besi tahanan.
 
@@ -1443,40 +1443,40 @@ Melalui celah tirai kaca toko, di depan pintu pagar besi ruko yang masih terikat
 
 Pukul setengah tujuh pagi, warung pecel lele tenda di seberang stasiun Tebet baru saja menggelar tikar terpalnya. Aroma gurih sambal terasi ulek dan asap minyak panas berbaur dengan kepulan uap teh manis panas di atas meja kayu panjang kami.
 
-Aku dan Bagas duduk berdampingan di bangku kayu panjang yang sempit. Udara pagi masih terasa dingin menusuk kulit, tapi kehangatan yang merayap di antara kami terasa begitu pekat dan hidup.
+Aku dan Ibas duduk berdampingan di bangku kayu panjang yang sempit. Udara pagi masih terasa dingin menusuk kulit, tapi kehangatan yang merayap di antara kami terasa begitu pekat dan hidup.
 
-Aku menatap wajah Bagas yang tampak luar biasa pucat dengan lingkaran hitam tebal di bawah matanya. Pria SCBD itu jelas tidak tidur semenit pun semalaman.
+Aku menatap wajah Ibas yang tampak luar biasa pucat dengan lingkaran hitam tebal di bawah matanya. Pria SCBD itu jelas tidak tidur semenit pun semalaman.
 
-Dengan tangan yang sedikit gemetar, aku memberanikan diri mengulurkan tanganku di atas meja kayu, menggenggam jemari tangan kanan Bagas yang dingin.
+Dengan tangan yang sedikit gemetar, aku memberanikan diri mengulurkan tanganku di atas meja kayu, menggenggam jemari tangan kanan Ibas yang dingin.
 
-"Mas Bagas..." bisikku pelan, suaraku tercekat menahan rasa bersalah yang menghimpit dadaku berjam-jam. "Maafin gue. Maafin semua kata-kata kasar dan tuduhan kotor gue di halte busway kemarin sore. Gue... gue dibutakan sama rasa takut dan trauma masa lalu gue sendiri."
+"Mas Ibas..." bisikku pelan, suaraku tercekat menahan rasa bersalah yang menghimpit dadaku berjam-jam. "Maafin gue. Maafin semua kata-kata kasar dan tuduhan kotor gue di halte busway kemarin sore. Gue... gue dibutakan sama rasa takut dan trauma masa lalu gue sendiri."
 
-Bagas terdiam sejenak menatap genggaman tanganku, lalu perlahan membalas genggaman itu dengan jemarinya yang hangat dan kokoh. Sebuah senyuman lelah namun luar biasa teduh tersungging di bibirnya.
+Ibas terdiam sejenak menatap genggaman tanganku, lalu perlahan membalas genggaman itu dengan jemarinya yang hangat dan kokoh. Sebuah senyuman lelah namun luar biasa teduh tersungging di bibirnya.
 
-"Saya yang harusnya minta maaf, Dit," ucap Bagas lembut menatap manik mataku. "Saya terlalu kaku dan tidak mengerti betapa beratnya beban ketakutan yang kamu pikul sendirian selama ini. Tapi semalam di jalanan Jakarta, saya bersumpah saya tidak akan membiarkan kamu menghadapi polisi itu sendirian."
+"Saya yang harusnya minta maaf, Dit," ucap Ibas lembut menatap manik mataku. "Saya terlalu kaku dan tidak mengerti betapa beratnya beban ketakutan yang kamu pikul sendirian selama ini. Tapi semalam di jalanan Jakarta, saya bersumpah saya tidak akan membiarkan kamu menghadapi polisi itu sendirian."
 
-Bagas menarik map kulit merah marun tebal dari samping tas ranselnya, lalu meletakkannya di atas meja kayu di hadapanku.
+Ibas menarik map kulit merah marun tebal dari samping tas ranselnya, lalu meletakkannya di atas meja kayu di hadapanku.
 
-"Tadi malam jam dua subuh, saya menyelinap masuk ke rumah keluarga besar Ayah saya di Kebayoran Baru sebelum beliau bangun," bisik Bagas membuka ritsleting map kulit itu dengan napas tertahan. "Saya membongkar brankas pribadi almarhumah Ibu saya yang kuncinya diwariskan ke saya."
+"Tadi malam jam dua subuh, saya menyelinap masuk ke rumah keluarga besar Ayah saya di Kebayoran Baru sebelum beliau bangun," bisik Ibas membuka ritsleting map kulit itu dengan napas tertahan. "Saya membongkar brankas pribadi almarhumah Ibu saya yang kuncinya diwariskan ke saya."
 
-Dari dalam map kulit merah marun itu, Bagas mengeluarkan sebuah sertifikat perhiasan tebal berlapis mika hologram resmi bertaraf internasional: GIA Diamond Dossier Certificate.
+Dari dalam map kulit merah marun itu, Ibas mengeluarkan sebuah sertifikat perhiasan tebal berlapis mika hologram resmi bertaraf internasional: GIA Diamond Dossier Certificate.
 
 Mataku menyisir baris-baris data sertifikat batu permata internasional tersebut dengan debar jantung yang melonjak cepat:
 Lembaga Sertifikasi: Gemological Institute of America (GIA).
 Spesifikasi Batu: Berlian Solitaire Natural Round Brilliant 1,21 Karat, Warna F, Kejernihan VVS1.
 Identifikasi Khusus: Nomor Seri Ukiran Mikro Laser Mikroskopis pada Lingkar Pinggang Dalam Berlian: GIA-8921-PL.
 
-"Cincin warisan almarhumah Ibu saya memiliki ukiran nomor seri mikro laser mikroskopis di lingkar dalam batunya, Dita," jelas Bagas dengan mata berbinar menyala penuh keyakinan. "Ukuran hurufnya mikron, mustahil bisa dilihat mata telanjang tanpa mikroskop permata laboratorium forensik, dan mustahil bisa dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
+"Cincin warisan almarhumah Ibu saya memiliki ukiran nomor seri mikro laser mikroskopis di lingkar dalam batunya, Dita," jelas Ibas dengan mata berbinar menyala penuh keyakinan. "Ukuran hurufnya mikron, mustahil bisa dilihat mata telanjang tanpa mikroskop permata laboratorium forensik, dan mustahil bisa dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
 
-Bagas menyodorkan lembar dokumen kedua yang berstempel basah resmi di atas meja:
+Ibas menyodorkan lembar dokumen kedua yang berstempel basah resmi di atas meja:
 Sebuah salinan cetak resmi log transaksi sistem Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089 yang telah dilegalisasi!
 
 Di lembar database pegadaian itu, tepat di kolom catatan verifikasi fisik hari Sabtu tanggal 31 Oktober, tertulis dengan tinta cetak komputer yang sangat jelas:
 Deskripsi Fisik Barang Jaminan Nasabah Clarissa Maharani: Cincin emas putih berat 5,8 gram bertatahkan berlian solitaire 1,21 karat dengan ukiran mikro laser nomor seri GIA-8921-PL terverifikasi otentik pada lingkar dalam batu!
 
-Nomor seri fisik pada sertifikat almarhumah ibu Bagas cocok sempurna seratus persen dengan nomor seri barang gadaian Clarissa di sistem database Senopati!
+Nomor seri fisik pada sertifikat almarhumah ibu Ibas cocok sempurna seratus persen dengan nomor seri barang gadaian Clarissa di sistem database Senopati!
 
-"Subuh tadi jam lima, Darmawan melayangkan surat permohonan keterangan perkara berdasar surat panggilan Polres ke kantor pusat pegadaian," jelas Bagas dengan napas lega. "Menyadari gerainya terancam delik penadahan, divisi kepatuhan mereka akhirnya mengesahkan salinan cetak log sistem ini lengkap dengan stempel basah resmi untuk diserahkan ke meja penyidik. Bukti elektronik ini sah menurut Pasal 235 KUHAP dan membuktikan secara ilmiah bahwa cincin yang digadaikan Clarissa adalah cincin pusaka yang sama persis dengan yang dia tuduh dicuri oleh kurir Bolu Ketan!"
+"Subuh tadi jam lima, Darmawan melayangkan surat permohonan keterangan perkara berdasar surat panggilan Polres ke kantor pusat pegadaian," jelas Ibas dengan napas lega. "Menyadari gerainya terancam delik penadahan, divisi kepatuhan mereka akhirnya mengesahkan salinan cetak log sistem ini lengkap dengan stempel basah resmi untuk diserahkan ke meja penyidik. Bukti elektronik ini sah menurut Pasal 235 KUHAP dan membuktikan secara ilmiah bahwa cincin yang digadaikan Clarissa adalah cincin pusaka yang sama persis dengan yang dia tuduh dicuri oleh kurir Bolu Ketan!"
 
 Senjata pamungkas forensik kini telah lengkap berada di dalam genggaman tangan kami!
 
@@ -1484,7 +1484,7 @@ Aku melirik jam tangan digital di pergelangan tanganku: pukul tujuh lewat lima b
 
 Waktu mediasi dan gelar perkara di meja Ipda Bambang Sutrisno tersisa kurang dari dua jam empat puluh lima menit menuju pukul sepuluh pagi.
 
-Aku meremas sertifikat GIA itu di dadaku, menatap Bagas dengan senyuman lebar penuh keberanian yang menyala terang. "Mas Bagas, panggil Restu dan Pakde Broto sekarang. Kita kumpulkan pasukan, kita habisi kebohongan Clarissa di meja penyidik Polres Jaksel siang ini!"
+Aku meremas sertifikat GIA itu di dadaku, menatap Ibas dengan senyuman lebar penuh keberanian yang menyala terang. "Mas Ibas, panggil Restu dan Pakde Broto sekarang. Kita kumpulkan pasukan, kita habisi kebohongan Clarissa di meja penyidik Polres Jaksel siang ini!"
 
 ---
 
@@ -1498,9 +1498,9 @@ Jalan protokol Sudirman dan Rasuna Said Kuningan pagi ini dikabarkan lumpuh tota
 
 "Makanya kita nggak akan lewat jalur mobil," sahutku tegas sambil mengikat tali rompi kanvas hitam Bolu Ketan di dadaku.
 
-"Dita, kenalkan, ini Darmawan, S.H., rekan kampus saya yang akan mendampingi kita sebagai kuasa hukum resmi," ucap Bagas saat seorang pengacara muda berkacamata dan berbadan tegap melangkah masuk ke teras bengkel menenteng tas kerja kulit hitam.
+"Dita, kenalkan, ini Darmawan, S.H., rekan kampus saya yang akan mendampingi kita sebagai kuasa hukum resmi," ucap Ibas saat seorang pengacara muda berkacamata dan berbadan tegap melangkah masuk ke teras bengkel menenteng tas kerja kulit hitam.
 
-Darmawan tersenyum ramah lalu mengangguk hormat ke arahku dan Pakde Broto. "Selamat pagi, Dita. Draf pembelaan dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Bagas."
+Darmawan tersenyum ramah lalu mengangguk hormat ke arahku dan Pakde Broto. "Selamat pagi, Dita. Draf pembelaan dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Ibas."
 
 "Pembagian tugas jalanan mulai sekarang," perintahku membagi salinan berkas menjadi dua tas terpisah.
 
@@ -1516,15 +1516,15 @@ Restu menyeringai bangga, menepuk dada kurusnya dengan penuh percaya diri. "Bere
 
 Bang Gembul yang mengenakan jaket kulit pangkalan ojeknya mengangguk mantap di samping Pakde Broto. "Gue sama Pakde udah siapin mobil pikap kelontong, Dit. Surat rekomendasi izin usaha legal Bolu Ketan yang diteken Pak RT dan Pak RW buat membantah tuduhan penertiban lingkungan udah kita kantongi. Kita berangkat sekarang juga!"
 
-Mbak Yeyen menyeberang jalan dari wartegnya membawa sekantong kresek berisi lemper hangat dan pisang goreng, menyodorkannya ke tangan Darmawan dan Bagas. "Makan dulu di jalan, Mas-Mas pengacara! Jangan kasih kendor itu sosialita arisan palsu! Bikin malu nama perempuan Jakarta aja!"
+Mbak Yeyen menyeberang jalan dari wartegnya membawa sekantong kresek berisi lemper hangat dan pisang goreng, menyodorkannya ke tangan Darmawan dan Ibas. "Makan dulu di jalan, Mas-Mas pengacara! Jangan kasih kendor itu sosialita arisan palsu! Bikin malu nama perempuan Jakarta aja!"
 
-"Makasih banyak, Mbak Yeyen!" sahut Bagas tersenyum hangat.
+"Makasih banyak, Mbak Yeyen!" sahut Ibas tersenyum hangat.
 
-Bagas menaiki motor matik kargoku, menghidupkan mesin motor yang derunya terdengar halus dan bertenaga setelah semalam disetel karburatornya oleh Restu. Tas ransel kedap air berisi sertifikat asli GIA dan print-out database pegadaian terselempang erat di dadanya.
+Ibas menaiki motor matik kargoku, menghidupkan mesin motor yang derunya terdengar halus dan bertenaga setelah semalam disetel karburatornya oleh Restu. Tas ransel kedap air berisi sertifikat asli GIA dan print-out database pegadaian terselempang erat di dadanya.
 
-Bagas menoleh menatapku, mengulurkan helm bogo hitamnya dengan tatapan mata yang menyala penuh tekad baja. "Naik, Dita. Kita buktikan hari ini bahwa kejujuran orang jalanan tidak bisa dibeli dengan uang dan fitnah mereka."
+Ibas menoleh menatapku, mengulurkan helm bogo hitamnya dengan tatapan mata yang menyala penuh tekad baja. "Naik, Dita. Kita buktikan hari ini bahwa kejujuran orang jalanan tidak bisa dibeli dengan uang dan fitnah mereka."
 
-Aku menyambar helm itu, memasangnya rapat-rapat hingga terdengar bunyi klik pengunci di daguku. Kakiku melompat naik ke jok belakang motor kargo, kedua tanganku melingkar mantap memeluk pinggang Bagas.
+Aku menyambar helm itu, memasangnya rapat-rapat hingga terdengar bunyi klik pengunci di daguku. Kakiku melompat naik ke jok belakang motor kargo, kedua tanganku melingkar mantap memeluk pinggang Ibas.
 
 Dua tahun hidupku dipenuhi rasa takut, trauma, dan sinisme yang membuatku selalu ingin lari dari komitmen. Tapi pagi ini, di atas jok motor matik yang melaju membelah gang-gang sempit Tebet, aku tahu pasti bahwa aku tidak sedang melarikan diri. Aku sedang melaju kencang menyongsong keadilan bersama pria yang kucintai.
 
@@ -1536,33 +1536,33 @@ Di belakang kami, deru knalpot motor Restu melesat membelah jalan tikus perkampu
 
 Pukul delapan lewat lima belas menit pagi, warung tenda teh tarik di seberang gerbang utama Polres Metro Jakarta Selatan dipenuhi kepulan uap air panas dan aroma jahe bakar. Di luar tenda terpal kuning yang sedikit berlubang, lalu lintas Jalan Wijaya mulai memadat oleh deretan mobil patroli dan kendaraan warga yang mengurus perizinan.
 
-Aku, Bagas, Darmawan, S.H., dan Pakde Broto duduk mengelilingi meja kayu panjang yang dialasi taplak plastik kusam. Di atas meja kami, tiga cangkir teh tarik hangat bersanding dengan map-map berkas pembuktian yang sudah tersusun rapi menurut klaster hukum acara pidana.
+Aku, Ibas, Darmawan, S.H., dan Pakde Broto duduk mengelilingi meja kayu panjang yang dialasi taplak plastik kusam. Di atas meja kami, tiga cangkir teh tarik hangat bersanding dengan map-map berkas pembuktian yang sudah tersusun rapi menurut klaster hukum acara pidana.
 
 Suara deru knalpot motor bebek mendadak berhenti di depan warung tenda. Restu melompat turun dari motornya dengan napas terengah-engah memburu. Kaos oblong hitamnya basah kuyup oleh peluh, celana jinsnya berlepotan percikan lumpur dari jalan tikus perkampungan Manggarai, tapi di kedua tangannya, ia memeluk tas ransel dokumen dengan erat persis memeluk sekarung bongkahan emas.
 
 "Nyampe, Mbak Dita!" seru Restu menyeka keringat di dahinya dengan lengan baju, lalu mendudukkan diri di bangku kayu sambil meneguk segelas air putih dingin yang disodorkan Pakde Broto. "Alhamdulillah, lolos dari macet horor Semanggi! Berkas Klaster Satu dan Dua aman terkendali tanpa lecek selembar pun!"
 
-Darmawan, pengacara muda berkacamata rekan Bagas, langsung membuka tas kerja kulitnya dan menyusun berkas pembelaan kami menjadi tiga map tertutup:
+Darmawan, pengacara muda berkacamata rekan Ibas, langsung membuka tas kerja kulitnya dan menyusun berkas pembelaan kami menjadi tiga map tertutup:
 
 "Klaster Pertama," ucap Darmawan dengan suara tenang dan tertata rapi, "Buku Manifes Fisik Tera Timbangan Bruto 14,350 kilogram, foto dokumentasi segel merah BLK-SP-09 berlatar jam lobi Senopati, dan tabel analisis ilmiah selisih bobot tiga ratus dua puluh gram. Dokumen ini membuktikan secara metrologi bahwa kotak cincin tidak pernah diserahkan oleh asisten Clarissa."
 
 "Klaster Kedua," ucap Darmawan menyusun map kedua: "salinan formulir penagihan internal, draf kontrak proyek kampanye hitam, dan tanda terima pesanan tiga puluh juta rupiah atas nama PT Debora Jaya Abadi milik Tante Debby ke agensi buzzer siber Palmerah. Dokumen ini membuktikan adanya niat jahat rekayasa fitnah secara terorganisir."
 
-Darmawan meletakkan map ketiga yang berwarna merah marun tebal di bagian paling atas: "Dan Klaster Ketiga, senjata pamungkas kita: Sertifikat Asli GIA peninggalan almarhumah Ibu Bagas dengan nomor seri mikro laser GIA-8921-PL, ditambah print-out database resmi sistem Gadai Swasta Mulia Senopati yang mencatat nomor seri laser yang sama persis atas nama nasabah Clarissa Maharani senilai enam puluh lima juta rupiah."
+Darmawan meletakkan map ketiga yang berwarna merah marun tebal di bagian paling atas: "Dan Klaster Ketiga, senjata pamungkas kita: Sertifikat Asli GIA peninggalan almarhumah Ibu Ibas dengan nomor seri mikro laser GIA-8921-PL, ditambah print-out database resmi sistem Gadai Swasta Mulia Senopati yang mencatat nomor seri laser yang sama persis atas nama nasabah Clarissa Maharani senilai enam puluh lima juta rupiah."
 
 Pakde Broto meletakkan sebuah amplop cokelat tambahan di samping map Darmawan. "Ini surat rekomendasi izin usaha legal Bolu Ketan yang diteken langsung oleh Pak RT, Pak RW, dan tokoh masyarakat Tebet. Isinya menyatakan Bolu Ketan adalah badan usaha jasa terhormat yang bersih dari catatan kriminal."
 
 Aku menatap tumpukan berkas itu dengan dada yang berdegup kencang namun penuh keyakinan membaja. Semua senjata kebenaran telah berada di meja kami. Tidak ada celah kebohongan yang bisa lolos dari benteng pembuktian ilmiah ini.
 
-Di bawah meja warung tenda, Bagas mengulurkan tangannya yang hangat, menggenggam jemari tanganku erat-erat. Matanya yang teduh menatapku lekat-lekat, menyalurkan ketenangan batin yang menghalau seluruh sisa keraguan di hatiku.
+Di bawah meja warung tenda, Ibas mengulurkan tangannya yang hangat, menggenggam jemari tanganku erat-erat. Matanya yang teduh menatapku lekat-lekat, menyalurkan ketenangan batin yang menghalau seluruh sisa keraguan di hatiku.
 
-"Apapun manuver yang akan dilancarkan pengacara Clarissa di dalam nanti," bisik Bagas lembut dengan senyuman tulus, "kita hadapi bersama sampai keadilan berdiri tegak, Dita."
+"Apapun manuver yang akan dilancarkan pengacara Clarissa di dalam nanti," bisik Ibas lembut dengan senyuman tulus, "kita hadapi bersama sampai keadilan berdiri tegak, Dita."
 
-"Iya, Mas Bagas," sahutku tersenyum mantap membalas genggaman tangannya. "Kita selesaikan hari ini."
+"Iya, Mas Ibas," sahutku tersenyum mantap membalas genggaman tangannya. "Kita selesaikan hari ini."
 
 Jam dinding warung tenda berdentang keras menunjukkan pukul sembilan lewat empat puluh menit.
 
-Empat orang dari kami bangkit berdiri serentak. Darmawan mengenakan jas advokatnya yang rapi, Bagas memegang tas ransel dokumen dengan tegap, Restu mengancingkan rompi kurir Bolu Ketan-nya dengan bangga, dan aku melangkah dengan kepala terangkat tinggi menyeberang jalan raya menuju lobi utama Gedung Satreskrim Polres Jakarta Selatan.
+Empat orang dari kami bangkit berdiri serentak. Darmawan mengenakan jas advokatnya yang rapi, Ibas memegang tas ransel dokumen dengan tegap, Restu mengancingkan rompi kurir Bolu Ketan-nya dengan bangga, dan aku melangkah dengan kepala terangkat tinggi menyeberang jalan raya menuju lobi utama Gedung Satreskrim Polres Jakarta Selatan.
 
 Di pelataran parkir khusus VIP gedung kepolisian itu, dua buah mobil sedan mewah hitam berpelat nomor cantik milik kantor hukum Sitompul dan keluarga Clarissa sudah terparkir mentereng, menanti dimulainya pertempuran terakhir kami.
 
@@ -1596,7 +1596,7 @@ Pintu kayu ruang mediasi Unit Harda terbuka lebar. Inspektur Polisi Dua Bambang 
 
 Kami berdua belas melangkah masuk ke dalam ruangan berukuran enam kali enam meter itu. Di tengah ruangan, sebuah meja bundar besar dari kayu lapuk dikelilingi sepuluh kursi busa hitam. Di sudut dinding, sebuah kamera pengawas rekaman mediasi menyala dengan lampu indikator merah yang berkedip merekam setiap gerak-gerik kami.
 
-Aku dan Bagas duduk berdampingan di sisi kiri meja bundar didampingi Darmawan. Di seberang meja kami, Clarissa duduk tertunduk diapit oleh Tante Debby dan Henry Sitompul. Restu dan Pakde Broto duduk tenang di bangku tunggu belakang kami sebagai saksi fakta persidangan mediasi.
+Aku dan Ibas duduk berdampingan di sisi kiri meja bundar didampingi Darmawan. Di seberang meja kami, Clarissa duduk tertunduk diapit oleh Tante Debby dan Henry Sitompul. Restu dan Pakde Broto duduk tenang di bangku tunggu belakang kami sebagai saksi fakta persidangan mediasi.
 
 Tepat pukul sembilan lewat lima puluh delapan menit, Ipda Bambang mendudukkan dirinya di ujung kepala meja bundar. Pria reserse senior itu merapikan kacamata bacanya, lalu mengetuk meja dengan bolpoin dinasnya sebanyak tiga kali.
 
@@ -1606,7 +1606,7 @@ Tok! Tok! Tok!
 
 Ipda Bambang menoleh menatapku lurus-lurus. "Saudari Dita Maheswari, apakah pihak Terlapor membawa bukti otentik baru yang memenuhi standar laboratorium forensik kepolisian?"
 
-Aku menarik napas panjang, menatap Bagas yang mengangguk mantap di sampingku, lalu menatap lurus ke mata Clarissa yang mulai gemetar ketakutan di seberang meja.
+Aku menarik napas panjang, menatap Ibas yang mengangguk mantap di sampingku, lalu menatap lurus ke mata Clarissa yang mulai gemetar ketakutan di seberang meja.
 
 "Pihak Terlapor membawa bukti forensik lengkap, Pak Penyidik," sahutku tegas tanpa ada sedikit pun rasa gentar yang tersisa.
 
@@ -1622,21 +1622,21 @@ Darmawan meletakkan buku manifes fisik asli Bolu Ketan dan sebuah timbangan gant
 
 Aku melangkah maju berbicara dengan suara tenang namun menusuk telak. "Bukti pertama: data penimbangan bruto di lobi Apartemen Royal Senopati pada hari Selasa tanggal 3 November pukul 11.35 WIB. Timbangan gantung ini memiliki sertifikasi tera legal berakurasi lima gram dari Direktorat Metrologi Kementerian Perdagangan Republik Indonesia. Koper yang diserahkan asisten Clarissa terkunci rapat dan tercatat berbobot persis empat belas koma tiga ratus lima puluh kilogram dengan segel lakban merah BLK-SP-09."
 
-Aku menyodorkan lembar tabel forensik bobot barang. "Ketika koper dibuka di hadapan saksi pemilik barang, Mas Bagas, total berat seluruh isi koper seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat peninggalan keluarga Danuputra yang menyimpan cincin tersebut tercatat memiliki berat tiga ratus dua puluh gram. Secara hukum fisika metrologi, jika kotak kuningan pusaka itu ada di dalam koper saat diserahkan di lobi, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak cincin itu terbukti secara matematis tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen!"
+Aku menyodorkan lembar tabel forensik bobot barang. "Ketika koper dibuka di hadapan saksi pemilik barang, Mas Ibas, total berat seluruh isi koper seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat peninggalan keluarga Danuputra yang menyimpan cincin tersebut tercatat memiliki berat tiga ratus dua puluh gram. Secara hukum fisika metrologi, jika kotak kuningan pusaka itu ada di dalam koper saat diserahkan di lobi, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak cincin itu terbukti secara matematis tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen!"
 
 Advokat Henry Sitompul buru-buru menyela dengan ketukan meja keras. "Interupsi! Timbangan kurir motor jalanan tidak bisa dijadikan dasar mutlak di depan penyidik! Klien kami tetap pada keterangannya bahwa cincin itu ada di dalam koper!"
 
-"Tahan, Saudara Henry!" potong Bagas dengan suara bariton yang menggelegar dingin, membuat Henry seketika terbungkam kaku.
+"Tahan, Saudara Henry!" potong Ibas dengan suara bariton yang menggelegar dingin, membuat Henry seketika terbungkam kaku.
 
-Bagas membuka map kulit merah marun di tangannya. Dari dalamnya, Bagas mengeluarkan sertifikat perhiasan tebal berlapis mika hologram resmi berstandar internasional: GIA Diamond Dossier Certificate.
+Ibas membuka map kulit merah marun di tangannya. Dari dalamnya, Ibas mengeluarkan sertifikat perhiasan tebal berlapis mika hologram resmi berstandar internasional: GIA Diamond Dossier Certificate.
 
-Sertifikat asli batu permata itu diletakkan Bagas tepat di depan hidung Ipda Bambang Sutrisno.
+Sertifikat asli batu permata itu diletakkan Ibas tepat di depan hidung Ipda Bambang Sutrisno.
 
-"Ini sertifikat asli permata peninggalan almarhumah Ibu saya dari Gemological Institute of America," ucap Bagas dengan tatapan mata yang menyala tajam menatap Clarissa. "Cincin warisan keluarga Danuputra memiliki ukiran mikro laser mikroskopis pada lingkar dalam pinggang batu berliannya dengan kode unik: GIA-8921-PL. Nomor seri mikron ini terdaftar resmi secara internasional dan mustahil dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
+"Ini sertifikat asli permata peninggalan almarhumah Ibu saya dari Gemological Institute of America," ucap Ibas dengan tatapan mata yang menyala tajam menatap Clarissa. "Cincin warisan keluarga Danuputra memiliki ukiran mikro laser mikroskopis pada lingkar dalam pinggang batu berliannya dengan kode unik: GIA-8921-PL. Nomor seri mikron ini terdaftar resmi secara internasional dan mustahil dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
 
 Darmawan langsung menumpahkan kartu pamungkas kami: selembar salinan cetak database log sistem internal Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089.
 
-"Dan ini salinan resmi dokumen elektronik yang telah dilegalisasi dan sah menurut Pasal 235 KUHAP yang baru!" seru Darmawan menyodorkan lembaran itu ke meja penyidik. "Pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB... tiga hari sebelum koper diserahkan ke kurir Bolu Ketan... Saudari Clarissa Maharani mendatangi loket kasir Gadai Swasta Mulia Senopati membawa cincin berlian almarhumah Ibu Bagas, lalu menandatangani polis gadai nomor GSM-2026-089 untuk mencairkan uang tunai enam puluh lima juta rupiah! Di lembar database ini tertera jelas hasil verifikasi penaksir resmi: cincin yang digadaikan Clarissa memiliki ukiran mikro laser yang sama persis: GIA-8921-PL!"
+"Dan ini salinan resmi dokumen elektronik yang telah dilegalisasi dan sah menurut Pasal 235 KUHAP yang baru!" seru Darmawan menyodorkan lembaran itu ke meja penyidik. "Pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB... tiga hari sebelum koper diserahkan ke kurir Bolu Ketan... Saudari Clarissa Maharani mendatangi loket kasir Gadai Swasta Mulia Senopati membawa cincin berlian almarhumah Ibu Ibas, lalu menandatangani polis gadai nomor GSM-2026-089 untuk mencairkan uang tunai enam puluh lima juta rupiah! Di lembar database ini tertera jelas hasil verifikasi penaksir resmi: cincin yang digadaikan Clarissa memiliki ukiran mikro laser yang sama persis: GIA-8921-PL!"
 
 Brak!
 
@@ -1668,9 +1668,9 @@ Surat itu menyatakan secara sah dan mengikat bahwa laporan dugaan penggelapan te
 
 Tante Debby berdiri di samping Clarissa dengan wajah kuyu dan mata yang sembap, meremas tali tas buayanya dengan rasa malu yang teramat sangat. "Baskara... Dita... surat pencabutan sudah ditandatangani. Bisakah masalah ini diselesaikan secara kekeluargaan saja tanpa perlu video klarifikasi publik? Kasihan Clarissa, masa depannya bisa hancur kalau videonya tersebar di media sosial."
 
-Bagas melangkah maju satu langkah, menatap Tante Debby dengan tatapan mata yang begitu dingin, tenang, dan tanpa kompromi.
+Ibas melangkah maju satu langkah, menatap Tante Debby dengan tatapan mata yang begitu dingin, tenang, dan tanpa kompromi.
 
-"Waktu Tante menyewa buzzer tiga puluh juta rupiah dan menyebarkan foto masa lalu Dita jam tiga subuh kemarin," ucap Bagas dengan suara bariton yang menusuk ulu hati, "apakah Tante pernah memikirkan masa depan Dita yang hancur? Tidak ada damai tertutup, Tante Debora. Video klarifikasi permintaan maaf publik tanpa potongan adalah syarat mutlak yang tidak bisa ditawar, atau saya perintahkan Darmawan mendaftarkan laporan balik pengaduan palsu Pasal 361 dan Pasal 437 KUHP ke meja SPKT detik ini juga!"
+"Waktu Tante menyewa buzzer tiga puluh juta rupiah dan menyebarkan foto masa lalu Dita jam tiga subuh kemarin," ucap Ibas dengan suara bariton yang menusuk ulu hati, "apakah Tante pernah memikirkan masa depan Dita yang hancur? Tidak ada damai tertutup, Tante Debora. Video klarifikasi permintaan maaf publik tanpa potongan adalah syarat mutlak yang tidak bisa ditawar, atau saya perintahkan Darmawan mendaftarkan laporan balik pengaduan palsu Pasal 361 dan Pasal 437 KUHP ke meja SPKT detik ini juga!"
 
 Mendengar ancaman penjara nyata itu, nyali Tante Debby seketika ciut tuntas. Wanita sosialita bersasak kaku itu menundukkan kepalanya dalam-dalam, tak berani membantah sepatah kata pun.
 
@@ -1681,32 +1681,32 @@ Di hadapan kamera ponsel Darmawan yang menyala merekam, Clarissa berbicara denga
 
 Klik. Rekaman video klarifikasi satu menit itu resmi tersimpan di memori ponsel Darmawan dan langsung dikirimkan ke jaringan portal berita online.
 
-Clarissa menatap Bagas dengan mata berkaca-kaca, melangkah mendekat dan berusaha menyentuh lengan kemeja mantan tunangannya itu. "Bagas... maafin aku. Aku khilaf terlilit utang arisan... bisakah kita bicara berdua saja demi memori tiga tahun hubungan kita?"
+Clarissa menatap Ibas dengan mata berkaca-kaca, melangkah mendekat dan berusaha menyentuh lengan kemeja mantan tunangannya itu. "Ibas... maafin aku. Aku khilaf terlilit utang arisan... bisakah kita bicara berdua saja demi memori tiga tahun hubungan kita?"
 
-Bagas menarik lengannya mundur dengan gerakan tenang, santun, namun begitu dingin dan final. "Urusan kita sudah selesai selamanya, Clarissa. Terima kasih sudah menunjukkan siapa diri kamu yang sebenarnya sebelum pernikahan itu sempat terjadi. Semoga kamu lekas sembuh dari ambisi gaya hidup palsumu."
+Ibas menarik lengannya mundur dengan gerakan tenang, santun, namun begitu dingin dan final. "Urusan kita sudah selesai selamanya, Clarissa. Terima kasih sudah menunjukkan siapa diri kamu yang sebenarnya sebelum pernikahan itu sempat terjadi. Semoga kamu lekas sembuh dari ambisi gaya hidup palsumu."
 
-Tanpa menoleh lagi, Bagas berbalik badan menghampiriku.
+Tanpa menoleh lagi, Ibas berbalik badan menghampiriku.
 
 Tante Debby buru-buru menarik lengan keponakannya, menyeret Clarissa menembus kerumunan wartawan yang menghujani mereka dengan pertanyaan pedas, lalu melarikan diri ke dalam mobil Alphard putih mereka yang langsung melesat tancap gas meninggalkan halaman Polres.
 
 Keluarga sosialita yang selama berhari-hari menginjak-injak martabat kami akhirnya tumbang kicep di bawah telapak kaki kebenaran hukum.
 
-Tepat saat mobil Alphard itu menghilang di tikungan jalan Wijaya, ponsel di saku celana Bagas berdering nyaring. Panggilan masuk dari Ir. H. Danuputra.
+Tepat saat mobil Alphard itu menghilang di tikungan jalan Wijaya, ponsel di saku celana Ibas berdering nyaring. Panggilan masuk dari Ir. H. Danuputra.
 
-Bagas menekan tombol jawab, lalu menyalakan pengeras suara di hadapanku.
+Ibas menekan tombol jawab, lalu menyalakan pengeras suara di hadapanku.
 
 Suara sang ayah di seberang sana tidak lagi terdengar menggelegar marah persis kemarin sore, melainkan suara berat pria sepuh yang sarat keharuan meski masih menyisakan nada kaku khas pria berjarak:
 "Baskara... Ipda Bambang baru saja menelepon Ayah dan menceritakan seluruh pembuktian forensik sertifikat ibumu di meja penyidik. Ayah... Ayah akui kamu membuktikan keberanianmu membela kehormatan ibumu dan orang yang benar. Ayah mencabut ancaman pencoretan warisan kemarin. Dan tolong sampaikan permohonan maaf Ayah kepada Nak Dita atas prasangka keluarga kita."
 
-Bagas menghela napas panjang, tersenyum getir namun tenang. Ia tahu hubungan bertahun-tahun yang kaku dengan sang ayah tidak akan pulih sekejap mata hanya lewat satu panggilan telepon, tetapi pengakuan jujur itu adalah retakan pertama pada dinding keangkuhan keluarga yang selama ini menyesakkan dadanya.
+Ibas menghela napas panjang, tersenyum getir namun tenang. Ia tahu hubungan bertahun-tahun yang kaku dengan sang ayah tidak akan pulih sekejap mata hanya lewat satu panggilan telepon, tetapi pengakuan jujur itu adalah retakan pertama pada dinding keangkuhan keluarga yang selama ini menyesakkan dadanya.
 
-"Terima kasih, Ayah," sahut Bagas santun. "Baskara hargai kata-kata Ayah. Nanti malam Baskara pulang sebentar untuk pamit baik-baik."
+"Terima kasih, Ayah," sahut Ibas santun. "Baskara hargai kata-kata Ayah. Nanti malam Baskara pulang sebentar untuk pamit baik-baik."
 
-Bagas mematikan panggilan, lalu menoleh menatapku dengan mata cokelat gelapnya yang berbinar tenang di bawah sinar matahari Jakarta. Beban rasa bersalah yang membelenggunya kini telah terangkat, membuka jalan baru yang lebih jujur.
+Ibas mematikan panggilan, lalu menoleh menatapku dengan mata cokelat gelapnya yang berbinar tenang di bawah sinar matahari Jakarta. Beban rasa bersalah yang membelenggunya kini telah terangkat, membuka jalan baru yang lebih jujur.
 
-Aku melipat salinan surat kesepakatan damai dan permohonan pencabutan laporan bermeterai itu rapi-rapi, memasukkannya ke dalam saku rompi Bolu Ketan-ku, lalu menatap Bagas sambil tersenyum lebar.
+Aku melipat salinan surat kesepakatan damai dan permohonan pencabutan laporan bermeterai itu rapi-rapi, memasukkannya ke dalam saku rompi Bolu Ketan-ku, lalu menatap Ibas sambil tersenyum lebar.
 
-"Urusan hukum dan mantan lo resmi lunas, Mas Bagas," kataku dengan mata berbinar cerah. "Sekarang giliran kita buka gembok rantai ruko kita di Tebet!"
+"Urusan hukum dan mantan lo resmi lunas, Mas Ibas," kataku dengan mata berbinar cerah. "Sekarang giliran kita buka gembok rantai ruko kita di Tebet!"
 
 ---
 
@@ -1728,7 +1728,7 @@ Di sampingnya, Bang Gembul bersama tiga anak buah pangkalan ojek pengkolan yang 
 
 "Makanya jangan gampang disuap uang rokok lima ratus ribu lo, Bang!" ledek Restu menyiramkan tiner ke kaleng cat, disambut tawa renyah seluruh warga yang menonton.
 
-Di pelataran ruko, Bagas tampak mengenakan kaos oblong kelabu polos dan celana jins belel yang terkena cipratan cat putih di lututnya. Tidak ada lagi setelan necis manajer SCBD. Pria itu sibuk mengaduk ember cat tembok bersama Pakde Broto. Kemarin sore, surat kesepakatan damai di Polres menetapkan Clarissa wajib menanggung seluruh biaya ganti rugi perbaikan ruko dan mengunggah video permohonan maaf terbuka di media sosial.
+Di pelataran ruko, Ibas tampak mengenakan kaos oblong kelabu polos dan celana jins belel yang terkena cipratan cat putih di lututnya. Tidak ada lagi setelan necis manajer SCBD. Pria itu sibuk mengaduk ember cat tembok bersama Pakde Broto. Kemarin sore, surat kesepakatan damai di Polres menetapkan Clarissa wajib menanggung seluruh biaya ganti rugi perbaikan ruko dan mengunggah video permohonan maaf terbuka di media sosial.
 
 Urusan sewa dan modal usaha tetap kami bayar dari kas keringat kami sendiri. Kami tidak butuh belas kasihan siapa pun untuk kembali berdiri.
 
@@ -1736,7 +1736,7 @@ Di samping tangga, Restu tampak bangga menyetel karburator dan memasang kampas r
 
 "Mesin tua ini udah teruji nembus banjir Kuningan sama sarang buzzer, Mbak Dita!" seru Restu menepuk jok motornya dengan seringai lebar. "Tinggal ganti oli gardan, siap tancap gas lagi jemput koper mantan se-Jakarta!"
 
-Bagas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Bagas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Hubungannya dengan sang ayah mulai mencair dan saling menghormati meski butuh waktu untuk benar-benar akrab kembali. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
+Ibas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Ibas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Hubungannya dengan sang ayah mulai mencair dan saling menghormati meski butuh waktu untuk benar-benar akrab kembali. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
 
 Dari seberang jalan, Mbak Yeyen melangkah menyeberang membawa sebuah nampan anyaman bambu besar berisi tumpeng nasi kuning lengkap dengan suwiran ayam goreng, sambal goreng ati, dan irisan telur dadar tipis. Nampan tumpeng itu diletakkannya tepat di atas meja timbangan logistik Bolu Ketan.
 
@@ -1775,19 +1775,19 @@ Aku menoleh sambil tersenyum tipis.
 
 Baskara Danuputra berdiri di ambang pintu balkon mengenakan kemeja katun santai berwarna biru langit dengan lengan tergulung rapi ke siku dan celana chino krem yang pas badan. Wajahnya tampak segar, bersih, dan memancarkan ketenangan batin yang tulus tanpa beban kepalsuan status sosial SCBD.
 
-Di kedua tangannya, Bagas menenteng sebuah kotak kardus kecil berukuran dua puluh kali lima belas sentimeter. Kotak kardus cokelat itu terbalut rapi oleh lakban segel merah bertuliskan: Bolu Ketan Express.
+Di kedua tangannya, Ibas menenteng sebuah kotak kardus kecil berukuran dua puluh kali lima belas sentimeter. Kotak kardus cokelat itu terbalut rapi oleh lakban segel merah bertuliskan: Bolu Ketan Express.
 
-Bagas melangkah santai menghampiriku di meja kerja balkon. Dengan gerakan yang sangat hati-hati, ia meletakkan kotak kardus kecil itu di atas piringan timbangan digital mejaku.
+Ibas melangkah santai menghampiriku di meja kerja balkon. Dengan gerakan yang sangat hati-hati, ia meletakkan kotak kardus kecil itu di atas piringan timbangan digital mejaku.
 
 Layar digital LED timbangan seketika menyala, angkanya berkedip dua detik sebelum terkunci stabil pada angka: dua ratus lima puluh gram.
 
-Aku menyilangkan kedua tanganku di dada, menatap Bagas dengan senyuman menggoda yang menahan tawa. "Sore-sore datang bawa paket bersegel resmi Bolu Ketan... mau kirim barang mantan siapa lagi nih, Mas Bagas?"
+Aku menyilangkan kedua tanganku di dada, menatap Ibas dengan senyuman menggoda yang menahan tawa. "Sore-sore datang bawa paket bersegel resmi Bolu Ketan... mau kirim barang mantan siapa lagi nih, Mas Ibas?"
 
-Bagas tersenyum renyah, lesung pipit tipis tampak manis di pipi kanannya. "Sesuai prosedur operasional standar Bolu Ketan, Mbak Dita. Saya mau mendaftarkan paket pengantaran VIP hari ini."
+Ibas tersenyum renyah, lesung pipit tipis tampak manis di pipi kanannya. "Sesuai prosedur operasional standar Bolu Ketan, Mbak Dita. Saya mau mendaftarkan paket pengantaran VIP hari ini."
 
 Aku menarik buku manifes logistik berkulit hitam dan bolpoin resmi kantor, pura-pura memasang ekspresi datar ala petugas loket kelurahan. "Atas nama pengirim siapa, ditujukan ke alamat siapa, dan apa alasan pengembalian barangnya?"
 
-Bagas tidak langsung menjawab. Pria itu merogoh gunting kecil dari wadah alat tulis mejaku, lalu dengan satu gerakan lembut, ia memotong lakban segel merah pada kotak kardus kecil tersebut.
+Ibas tidak langsung menjawab. Pria itu merogoh gunting kecil dari wadah alat tulis mejaku, lalu dengan satu gerakan lembut, ia memotong lakban segel merah pada kotak kardus kecil tersebut.
 
 Tutup kardus dibuka perlahan di hadapanku.
 
@@ -1797,15 +1797,15 @@ Benda pertama adalah dua lembar tiket perjalanan kereta api eksekutif Taksaka re
 Benda kedua adalah sebuah miniatur motor matik kargo kecil beroda dua yang diukir tangan dari kayu jati halus, lengkap dengan logo mini Bolu Ketan di boks belakangnya.
 Dan benda ketiga adalah sepucuk surat bermeterai resmi yang ditulis tangan dengan tinta hitam rapi.
 
-Bagas mengambil surat bermeterai itu, lalu menyodorkannya tepat ke atas telapak tanganku yang terdiam mematung.
+Ibas mengambil surat bermeterai itu, lalu menyodorkannya tepat ke atas telapak tanganku yang terdiam mematung.
 
-"Ini bukan paket barang mantan, Dita," ucap Bagas dengan suara bariton yang begitu dalam, lembut, dan sarat getar ketulusan yang menggetarkan seluruh relung jiwaku.
+"Ini bukan paket barang mantan, Dita," ucap Ibas dengan suara bariton yang begitu dalam, lembut, dan sarat getar ketulusan yang menggetarkan seluruh relung jiwaku.
 
-Mata cokelat gelap Bagas menatap manik mataku lekat-lekat di bawah siraman cahaya keemasan senja Jakarta.
+Mata cokelat gelap Ibas menatap manik mataku lekat-lekat di bawah siraman cahaya keemasan senja Jakarta.
 
-"Selama ini Bolu Ketan bertugas mengembalikan masa lalu orang-orang yang terluka ke alamat asalnya," lanjut Bagas perlahan, tangannya terulur lembut menggenggam kedua jemari tanganku di atas meja timbangan. "Tapi sore ini, saya berdiri di sini bukan untuk mengembalikan masa lalu ke siapa pun lagi. Saya berdiri di sini untuk memesan masa depan bersama kamu, Dita Maheswari."
+"Selama ini Bolu Ketan bertugas mengembalikan masa lalu orang-orang yang terluka ke alamat asalnya," lanjut Ibas perlahan, tangannya terulur lembut menggenggam kedua jemari tanganku di atas meja timbangan. "Tapi sore ini, saya berdiri di sini bukan untuk mengembalikan masa lalu ke siapa pun lagi. Saya berdiri di sini untuk memesan masa depan bersama kamu, Dita Maheswari."
 
-Napas Bagas terdengar bergetar menahan luapan rasa bahagia yang mendalam. "Tiket kereta itu untuk mengantar saya menemui Ibu kamu di kampung, meminta izin secara terhormat untuk meminang anak perempuannya yang paling tangguh di dunia. Dan surat ini adalah kontrak kemitraan hidup seumur hidup: tanpa perantara, tanpa biaya kirim, dan tanpa alamat retur."
+Napas Ibas terdengar bergetar menahan luapan rasa bahagia yang mendalam. "Tiket kereta itu untuk mengantar saya menemui Ibu kamu di kampung, meminta izin secara terhormat untuk meminang anak perempuannya yang paling tangguh di dunia. Dan surat ini adalah kontrak kemitraan hidup seumur hidup: tanpa perantara, tanpa biaya kirim, dan tanpa alamat retur."
 
 Air mata haru seketika merebak hangat di pelupuk mataku. Dadaku membuncah oleh kebahagiaan luar biasa yang belum pernah kurasakan seumur hidupku. Seluruh rasa sakit ditinggal nikah dua tahun lalu, seluruh air mata di loteng hujan, dan seluruh perjuangan keras di jalanan ibukota seolah terbayar lunas sempurna di hadapan pria yang berdiri di depanku ini.
 
@@ -1813,9 +1813,9 @@ Aku mengambil stempel dinas Bolu Ketan di atas meja, mencelupkannya ke bantalan 
 
 Cap merah bertuliskan LUNAS tertera abadi di atas kertas itu.
 
-Aku menatap mata Bagas yang teduh dan merengkuh kedua tangannya dengan senyuman lepas yang telah lama hilang dari wajahku.
+Aku menatap mata Ibas yang teduh dan merengkuh kedua tangannya dengan senyuman lepas yang telah lama hilang dari wajahku.
 
-Aku menatap mata Bagas yang hangat di bawah pendar senja Jakarta, dan untuk pertama kalinya dalam hidupku, aku tahu pasti bahwa cinta ini tidak akan pernah butuh kurir pengembalian barang.
+Aku menatap mata Ibas yang hangat di bawah pendar senja Jakarta, dan untuk pertama kalinya dalam hidupku, aku tahu pasti bahwa cinta ini tidak akan pernah butuh kurir pengembalian barang.
 
 ---
 

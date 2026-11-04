@@ -16,7 +16,7 @@ Di sampingnya, Bang Gembul bersama tiga anak buah pangkalan ojek pengkolan yang 
 
 "Makanya jangan gampang disuap uang rokok lima ratus ribu lo, Bang!" ledek Restu menyiramkan tiner ke kaleng cat, disambut tawa renyah seluruh warga yang menonton.
 
-Di pelataran ruko, Bagas tampak mengenakan kaos oblong kelabu polos dan celana jins belel yang terkena cipratan cat putih di lututnya. Tidak ada lagi setelan necis manajer SCBD. Pria itu sibuk mengaduk ember cat tembok bersama Pakde Broto. Kemarin sore, surat kesepakatan damai di Polres menetapkan Clarissa wajib menanggung seluruh biaya ganti rugi perbaikan ruko dan mengunggah video permohonan maaf terbuka di media sosial.
+Di pelataran ruko, Ibas tampak mengenakan kaos oblong kelabu polos dan celana jins belel yang terkena cipratan cat putih di lututnya. Tidak ada lagi setelan necis manajer SCBD. Pria itu sibuk mengaduk ember cat tembok bersama Pakde Broto. Kemarin sore, surat kesepakatan damai di Polres menetapkan Clarissa wajib menanggung seluruh biaya ganti rugi perbaikan ruko dan mengunggah video permohonan maaf terbuka di media sosial.
 
 Urusan sewa dan modal usaha tetap kami bayar dari kas keringat kami sendiri. Kami tidak butuh belas kasihan siapa pun untuk kembali berdiri.
 
@@ -24,7 +24,7 @@ Di samping tangga, Restu tampak bangga menyetel karburator dan memasang kampas r
 
 "Mesin tua ini udah teruji nembus banjir Kuningan sama sarang buzzer, Mbak Dita!" seru Restu menepuk jok motornya dengan seringai lebar. "Tinggal ganti oli gardan, siap tancap gas lagi jemput koper mantan se-Jakarta!"
 
-Bagas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Bagas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Hubungannya dengan sang ayah mulai mencair dan saling menghormati meski butuh waktu untuk benar-benar akrab kembali. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
+Ibas menoleh menatapku sambil tersenyum tenang. Pagi tadi, Ibas resmi mengangkut kardus pakaiannya keluar dari rumah mewah ayahnya di Kebayoran Baru, memilih menyewa kamar studio sederhana di perbatasan Tebet demi merintis jalan hidupnya sendiri tanpa bayang-bayang klan keluarga. Hubungannya dengan sang ayah mulai mencair dan saling menghormati meski butuh waktu untuk benar-benar akrab kembali. Pria itu membuktikan kata-katanya: ia tidak datang sebagai juragan yang menyelamatkan kami dengan uang, melainkan kawan seperjuangan yang memilih berjuang bersama di atas aspal yang sama.
 
 Dari seberang jalan, Mbak Yeyen melangkah menyeberang membawa sebuah nampan anyaman bambu besar berisi tumpeng nasi kuning lengkap dengan suwiran ayam goreng, sambal goreng ati, dan irisan telur dadar tipis. Nampan tumpeng itu diletakkannya tepat di atas meja timbangan logistik Bolu Ketan.
 

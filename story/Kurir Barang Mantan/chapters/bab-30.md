@@ -8,9 +8,9 @@ Jalan protokol Sudirman dan Rasuna Said Kuningan pagi ini dikabarkan lumpuh tota
 
 "Makanya kita nggak akan lewat jalur mobil," sahutku tegas sambil mengikat tali rompi kanvas hitam Bolu Ketan di dadaku.
 
-"Dita, kenalkan, ini Darmawan, S.H., rekan kampus saya yang akan mendampingi kita sebagai kuasa hukum resmi," ucap Bagas saat seorang pengacara muda berkacamata dan berbadan tegap melangkah masuk ke teras bengkel menenteng tas kerja kulit hitam.
+"Dita, kenalkan, ini Darmawan, S.H., rekan kampus saya yang akan mendampingi kita sebagai kuasa hukum resmi," ucap Ibas saat seorang pengacara muda berkacamata dan berbadan tegap melangkah masuk ke teras bengkel menenteng tas kerja kulit hitam.
 
-Darmawan tersenyum ramah lalu mengangguk hormat ke arahku dan Pakde Broto. "Selamat pagi, Dita. Draf pembelaan dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Bagas."
+Darmawan tersenyum ramah lalu mengangguk hormat ke arahku dan Pakde Broto. "Selamat pagi, Dita. Draf pembelaan dan sanggahan bukti forensik sudah saya lengkapi meterai sepuluh ribu. Kita bawa tiga klaster bukti: Klaster Manifes Tera Timbangan, Klaster Mutasi Transfer Buzzer Tante Debby, dan Klaster Sertifikat Mikro Laser GIA peninggalan almarhumah Ibu Ibas."
 
 "Pembagian tugas jalanan mulai sekarang," perintahku membagi salinan berkas menjadi dua tas terpisah.
 
@@ -26,15 +26,15 @@ Restu menyeringai bangga, menepuk dada kurusnya dengan penuh percaya diri. "Bere
 
 Bang Gembul yang mengenakan jaket kulit pangkalan ojeknya mengangguk mantap di samping Pakde Broto. "Gue sama Pakde udah siapin mobil pikap kelontong, Dit. Surat rekomendasi izin usaha legal Bolu Ketan yang diteken Pak RT dan Pak RW buat membantah tuduhan penertiban lingkungan udah kita kantongi. Kita berangkat sekarang juga!"
 
-Mbak Yeyen menyeberang jalan dari wartegnya membawa sekantong kresek berisi lemper hangat dan pisang goreng, menyodorkannya ke tangan Darmawan dan Bagas. "Makan dulu di jalan, Mas-Mas pengacara! Jangan kasih kendor itu sosialita arisan palsu! Bikin malu nama perempuan Jakarta aja!"
+Mbak Yeyen menyeberang jalan dari wartegnya membawa sekantong kresek berisi lemper hangat dan pisang goreng, menyodorkannya ke tangan Darmawan dan Ibas. "Makan dulu di jalan, Mas-Mas pengacara! Jangan kasih kendor itu sosialita arisan palsu! Bikin malu nama perempuan Jakarta aja!"
 
-"Makasih banyak, Mbak Yeyen!" sahut Bagas tersenyum hangat.
+"Makasih banyak, Mbak Yeyen!" sahut Ibas tersenyum hangat.
 
-Bagas menaiki motor matik kargoku, menghidupkan mesin motor yang derunya terdengar halus dan bertenaga setelah semalam disetel karburatornya oleh Restu. Tas ransel kedap air berisi sertifikat asli GIA dan print-out database pegadaian terselempang erat di dadanya.
+Ibas menaiki motor matik kargoku, menghidupkan mesin motor yang derunya terdengar halus dan bertenaga setelah semalam disetel karburatornya oleh Restu. Tas ransel kedap air berisi sertifikat asli GIA dan print-out database pegadaian terselempang erat di dadanya.
 
-Bagas menoleh menatapku, mengulurkan helm bogo hitamnya dengan tatapan mata yang menyala penuh tekad baja. "Naik, Dita. Kita buktikan hari ini bahwa kejujuran orang jalanan tidak bisa dibeli dengan uang dan fitnah mereka."
+Ibas menoleh menatapku, mengulurkan helm bogo hitamnya dengan tatapan mata yang menyala penuh tekad baja. "Naik, Dita. Kita buktikan hari ini bahwa kejujuran orang jalanan tidak bisa dibeli dengan uang dan fitnah mereka."
 
-Aku menyambar helm itu, memasangnya rapat-rapat hingga terdengar bunyi klik pengunci di daguku. Kakiku melompat naik ke jok belakang motor kargo, kedua tanganku melingkar mantap memeluk pinggang Bagas.
+Aku menyambar helm itu, memasangnya rapat-rapat hingga terdengar bunyi klik pengunci di daguku. Kakiku melompat naik ke jok belakang motor kargo, kedua tanganku melingkar mantap memeluk pinggang Ibas.
 
 Dua tahun hidupku dipenuhi rasa takut, trauma, dan sinisme yang membuatku selalu ingin lari dari komitmen. Tapi pagi ini, di atas jok motor matik yang melaju membelah gang-gang sempit Tebet, aku tahu pasti bahwa aku tidak sedang melarikan diri. Aku sedang melaju kencang menyongsong keadilan bersama pria yang kucintai.
 

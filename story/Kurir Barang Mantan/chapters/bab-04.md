@@ -14,11 +14,11 @@ Perempuan itu mengenakan setelan blazer linen krem yang pas badan, tapi wajahnya
 
 "Mbak Dita dari kurir Bolu Ketan, ya?" tanyanya dengan suara pelan setengah berbisik.
 
-"Benar. Saya Dita, ini Restu. Kami diperintahkan Mas Bagas Danuputra untuk mengambil koper seserahan," sahutku formal sambil menunjukkan surat kuasa digital di layar ponsel. "Dengan Mbak Clarissa?"
+"Benar. Saya Dita, ini Restu. Kami diperintahkan Pak Baskara Danuputra untuk mengambil koper seserahan," sahutku formal sambil menunjukkan surat kuasa digital di layar ponsel. "Dengan Mbak Clarissa?"
 
 Perempuan itu menggeleng cepat. "Bukan. Saya Neneng, panggil saja Nay. Saya asisten pribadi Ibu Clarissa. Ibu Clarissa sedang ada jadwal pemotretan di luar, jadi saya yang ditugaskan menyerahkan koper ini."
 
-Nay menyodorkan pegangan koper ke arahku dengan gerakan tergesa-gesa. "Semua barang seserahan, kain kebaya, tas, dan kotak perhiasan keluarga Pak Bagas sudah dimasukkan rapi di dalam koper oleh Ibu Clarissa tadi pagi. Tolong tanda tangani tanda terima ini sekarang ya, Mbak, saya harus buru-buru balik ke atas."
+Nay menyodorkan pegangan koper ke arahku dengan gerakan tergesa-gesa. "Semua barang seserahan, kain kebaya, tas, dan kotak perhiasan keluarga Pak Ibas sudah dimasukkan rapi di dalam koper oleh Ibu Clarissa tadi pagi. Tolong tanda tangani tanda terima ini sekarang ya, Mbak, saya harus buru-buru balik ke atas."
 
 Restu sudah bersiap menarik pegangan koper, tapi tanganku langsung terangkat menahan lengannya.
 
@@ -48,4 +48,4 @@ Restu mengangkat koper besar itu menuju motor kargo kami di luar lobi. "Aneh ban
 
 Aku menatap foto koper bersegel di ponselku dengan kening berkerut. Firasatku mengatakan ada yang tidak beres di lantai atas apartemen itu, tapi tugas logistik kami di Senopati telah tuntas sesuai prosedur.
 
-"Yang penting timbangan dan nomor segel kita sah di atas kertas, Tu," sahutku menaiki jok motor. "Ayo balik ke Tebet. Mas Bagas pasti sudah menunggu di ruko."
+"Yang penting timbangan dan nomor segel kita sah di atas kertas, Tu," sahutku menaiki jok motor. "Ayo balik ke Tebet. Mas Ibas pasti sudah menunggu di ruko."

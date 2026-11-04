@@ -99,9 +99,9 @@
 | Darmawan | Pak Darmawan | `NOV-001` | Profesional | Kuasa Hukum / Pengacara Korporat Menara Astra | Tepat prosedur, dingin, taat hukum RI | `Boleh (Tingkat 1-3)` |
 | Reza Mahendra | Reza | `NOV-001` | Antagonis Sampingan | Pemilik Agensi Pemasaran Digital BuzzMedia | Licik, oportunis, penakut saat diancam pidana ITE | `Boleh (Tingkat 1-2)` |
 | Dita Maheswari | Dita | `NOV-002` | Protagonis | Pendiri Agensi Bolu Ketan (Breakup Concierge) | Hyper-independent, sinis cinta, trauma pengkhianatan (*Betrayal Trauma*) | `Boleh (Tingkat 1-3)` |
-| Adrian Prasetya | Adrian / Mas Adrian | `NOV-002` | Love Interest | Manajer Pengadaan Interior SCBD | Terlalu polos percaya orang (*Fragile Sheltered Child*), kaku emosi, guilt-ridden | `Boleh (Tingkat 1-3)` |
-| Claudia | Claudia | `NOV-002` | Antagonis | Mantan tunangan Adrian, sosialita medsos | Manipulatif, *Overt Narcissist*, gali lubang tutup lubang gaya hidup | `Boleh (Tingkat 1-2)` |
-| Eko | Eko / Mas Eko | `NOV-002` | Sekutu | Kurir lapangan Bolu Ketan (eks mekanik balap) | Ceplas-ceplos, setia kawan, melankolis empati tinggi pada orang patah hati | `Boleh (Tingkat 1-3)` |
+| Baskara Danuputra | Ibas / Mas Ibas | `NOV-002` | Love Interest | Manajer Pengadaan Interior SCBD | Lurus, kaku etiket, sangat menjaga martabat (*Fragile Sheltered Child & Guilt Complex*), rapuh menghadapi ekspektasi keluarga besar. | `Boleh (Tingkat 1-3)` |
+| Clarissa Maharani | Clarissa | `NOV-002` | Antagonis | Mantan tunangan Baskara, selebgram gaya hidup | Manipulatif, *Overt Narcissist*, terlilit utang arisan | `Boleh (Tingkat 1-2)` |
+| Restu | Restu | `NOV-002` | Sekutu | Kurir lapangan Bolu Ketan | Ceplas-ceplos, setia kawan, melankolis empati tinggi pada orang patah hati | `Boleh (Tingkat 1-3)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.

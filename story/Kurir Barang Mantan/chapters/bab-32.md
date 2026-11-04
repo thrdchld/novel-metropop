@@ -26,7 +26,7 @@ Pintu kayu ruang mediasi Unit Harda terbuka lebar. Inspektur Polisi Dua Bambang 
 
 Kami berdua belas melangkah masuk ke dalam ruangan berukuran enam kali enam meter itu. Di tengah ruangan, sebuah meja bundar besar dari kayu lapuk dikelilingi sepuluh kursi busa hitam. Di sudut dinding, sebuah kamera pengawas rekaman mediasi menyala dengan lampu indikator merah yang berkedip merekam setiap gerak-gerik kami.
 
-Aku dan Bagas duduk berdampingan di sisi kiri meja bundar didampingi Darmawan. Di seberang meja kami, Clarissa duduk tertunduk diapit oleh Tante Debby dan Henry Sitompul. Restu dan Pakde Broto duduk tenang di bangku tunggu belakang kami sebagai saksi fakta persidangan mediasi.
+Aku dan Ibas duduk berdampingan di sisi kiri meja bundar didampingi Darmawan. Di seberang meja kami, Clarissa duduk tertunduk diapit oleh Tante Debby dan Henry Sitompul. Restu dan Pakde Broto duduk tenang di bangku tunggu belakang kami sebagai saksi fakta persidangan mediasi.
 
 Tepat pukul sembilan lewat lima puluh delapan menit, Ipda Bambang mendudukkan dirinya di ujung kepala meja bundar. Pria reserse senior itu merapikan kacamata bacanya, lalu mengetuk meja dengan bolpoin dinasnya sebanyak tiga kali.
 
@@ -36,6 +36,6 @@ Tok! Tok! Tok!
 
 Ipda Bambang menoleh menatapku lurus-lurus. "Saudari Dita Maheswari, apakah pihak Terlapor membawa bukti otentik baru yang memenuhi standar laboratorium forensik kepolisian?"
 
-Aku menarik napas panjang, menatap Bagas yang mengangguk mantap di sampingku, lalu menatap lurus ke mata Clarissa yang mulai gemetar ketakutan di seberang meja.
+Aku menarik napas panjang, menatap Ibas yang mengangguk mantap di sampingku, lalu menatap lurus ke mata Clarissa yang mulai gemetar ketakutan di seberang meja.
 
 "Pihak Terlapor membawa bukti forensik lengkap, Pak Penyidik," sahutku tegas tanpa ada sedikit pun rasa gentar yang tersisa.

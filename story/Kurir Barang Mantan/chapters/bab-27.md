@@ -24,17 +24,17 @@ Isak tangis yang sejak sore kutahan sekuat tenaga di hadapan Restu dan Pakde Bro
 
 Aku membenci diriku sendiri. Aku membenci rasa trauma pengkhianatan dua tahun lalu yang kujadikan berhala dan benteng penjara berduri untuk menyakiti orang-orang yang peduli padaku. Aku teringat pesan ibuku dari kampung sebelum aku merantau ke ibu kota: manusia itu hidup bukan buat jadi batu karang yang memecah ombak, melainkan pohon bambu yang tahu kapan harus merunduk dan menerima uluran tangan orang lain. Tapi nasehat itu kubakar habis demi memuaskan ego kemandirian palsuku.
 
-Aku teringat tatapan mata Bagas di halte busway Senopati tadi sore. Sorot mata pria SCBD itu yang begitu terluka dan hancur saat aku menuduhnya pengecut yang tega mengorbankanku... padahal pria itu rela mencairkan tabungan terakhirnya demi membayar biaya operasional hukum independen untuk membelaku. Bagas mempertaruhkan kariernya di menara SCBD, mempertaruhkan silsilah keluarganya di depan ayahnya yang keras, bahkan merelakan sepatu mahalnya terendam air banjir kotor di kolong jembatan Kuningan hanya untuk berdiri di sampingku.
+Aku teringat tatapan mata Ibas di halte busway Senopati tadi sore. Sorot mata pria SCBD itu yang begitu terluka dan hancur saat aku menuduhnya pengecut yang tega mengorbankanku... padahal pria itu rela mencairkan tabungan terakhirnya demi membayar biaya operasional hukum independen untuk membelaku. Ibas mempertaruhkan kariernya di menara SCBD, mempertaruhkan silsilah keluarganya di depan ayahnya yang keras, bahkan merelakan sepatu mahalnya terendam air banjir kotor di kolong jembatan Kuningan hanya untuk berdiri di sampingku.
 
 Dan apa yang kulakukan sebagai balasannya? Aku membalas seluruh pengorbanan pria tulus itu dengan semburan racun rasa curiga dan kata-kata hinaan yang mematahkan hatinya sampai berkeping-keping.
 
-"Maafin gue, Mas Bagas..." tangisku tersedu-sedu menenggelamkan wajahku di lipatan tangan. "Maafin gue..."
+"Maafin gue, Mas Ibas..." tangisku tersedu-sedu menenggelamkan wajahku di lipatan tangan. "Maafin gue..."
 
 Seluruh ego kemandirian palsu yang kubanggakan selama dua tahun runtuh rata dengan tanah di lantai loteng Tebet malam itu. Aku menyadari betapa kerdil dan rapuhnya diriku. Aku menyadari bahwa manusia tidak pernah diciptakan untuk memikul seluruh beban luka hidupnya sendirian tanpa membutuhkan pertolongan orang lain.
 
 Petir menyambar dahsyat di atas atap seng, menerangi baskom plastik yang mulai meluap menumpahkan air hujan ke lantai kayu.
 
-Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan mendatangi meja Ipda Bambang Sutrisno dan pasrah menghadapi pemeriksaan penyidik sebagai pihak yang bertanggung jawab, agar nama baik Bagas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
+Aku meremas lembaran surat somasi basah itu di dadaku. Keputusanku sudah bulat. Besok pagi jam sepuluh, aku akan mendatangi kantor Polres Jaksel sendirian. Aku akan mendatangi meja Ipda Bambang Sutrisno dan pasrah menghadapi pemeriksaan penyidik sebagai pihak yang bertanggung jawab, agar nama baik Ibas dan klan keluarganya bersih, dan agar Restu serta Pakde Broto tidak lagi diteror oleh kekejaman keluarga Clarissa.
 
 Biar aku sendiri yang menelan pil pahit ini sampai tuntas di balik jeruji besi tahanan.
 

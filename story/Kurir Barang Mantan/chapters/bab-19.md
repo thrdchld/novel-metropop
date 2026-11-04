@@ -26,26 +26,26 @@ Total kehilangan pemasukan satu juta dua ratus ribu rupiah dalam tempo satu jam.
 
 Aku memeluk kedua lututku di sudut kasur, merasa seluruh dunia sedang bersekongkol menenggelamkanku ke dasar lumpur.
 
-Tepat saat dadaku sesak menahan isak, ponselku kembali berdering. Bukan notifikasi bot, melainkan panggilan suara dari Bagas.
+Tepat saat dadaku sesak menahan isak, ponselku kembali berdering. Bukan notifikasi bot, melainkan panggilan suara dari Ibas.
 
 Dengan tangan yang gemetar dingin, aku menekan tombol hijau. "Halo..." suaraku tercekat parau.
 
-Suara bariton Bagas di seberang sana terdengar sangat tenang, tegas, dan meneduhkan. "Buka pintu gerbang depan kos kamu sekarang, Dita. Saya ada di luar."
+Suara bariton Ibas di seberang sana terdengar sangat tenang, tegas, dan meneduhkan. "Buka pintu gerbang depan kos kamu sekarang, Dita. Saya ada di luar."
 
 Aku tersentak kaget. Aku buru-buru menyeka air mata dengan lengan kaos, merapikan rambut, lalu menuruni tangga kosan menuju pintu pagar gang.
 
-Di bawah lampu jalanan gang Tebet yang temaram, Bagas berdiri menyandarkan punggungnya di tiang listrik. Di tangannya ada sebuah jaket tebal dan satu kantong plastik berisi dua cangkir teh manis hangat dari minimarket dua puluh empat jam. Matanya yang lelah menatapku dengan kehangatan yang tulus, tanpa ada sedikit pun tatapan jijik atau menghakimi.
+Di bawah lampu jalanan gang Tebet yang temaram, Ibas berdiri menyandarkan punggungnya di tiang listrik. Di tangannya ada sebuah jaket tebal dan satu kantong plastik berisi dua cangkir teh manis hangat dari minimarket dua puluh empat jam. Matanya yang lelah menatapku dengan kehangatan yang tulus, tanpa ada sedikit pun tatapan jijik atau menghakimi.
 
-Bagas menyodorkan teh hangat itu ke tanganku. "Jangan baca komentar akun-akun bayaran itu, Dit. Mereka cuma sekumpulan orang pengecut yang dibayar lima puluh ribu per postingan."
+Ibas menyodorkan teh hangat itu ke tanganku. "Jangan baca komentar akun-akun bayaran itu, Dit. Mereka cuma sekumpulan orang pengecut yang dibayar lima puluh ribu per postingan."
 
 "Tapi Riko... mantan gue ikut ngejek gue, Mas," bisikku getir menatap aspal jalanan. "Nama gue hancur. Ibu gue di kampung kalau tahu berita ini bisa pingsan kena serangan jantung."
 
-Bagas melangkah mendekat, kedua tangannya terangkat lembut memegang kedua pundakku. Matanya menatap lurus ke dalam mataku dengan keteguhan yang membakar. "Saya yang bawa koper itu ke kantor kamu, Dita. Dan saya bersumpah demi hidup saya, saya yang akan membersihkan nama kamu di depan publik dan keluarga kamu. Percaya sama saya."
+Ibas melangkah mendekat, kedua tangannya terangkat lembut memegang kedua pundakku. Matanya menatap lurus ke dalam mataku dengan keteguhan yang membakar. "Saya yang bawa koper itu ke kantor kamu, Dita. Dan saya bersumpah demi hidup saya, saya yang akan membersihkan nama kamu di depan publik dan keluarga kamu. Percaya sama saya."
 
 Prak!
 
 Sebuah lemparan kerikil tajam mendadak menghantam kaca jendela lantai bawah rumah kosku, menimbulkan bunyi retak kecil yang mengagetkan kami berdua. Dari ujung gang gelap, suara deru knalpot motor bebek terdengar melesat kabur membelah keheningan subuh.
 
-Bagas menoleh menatap ujung gang dengan rahang mengeras kaku dan kilatan amarah yang dingin.
+Ibas menoleh menatap ujung gang dengan rahang mengeras kaku dan kilatan amarah yang dingin.
 
-"Mereka sudah mulai main fisik," bisik Bagas tajam merengkuh tubuhku mundur ke balik pintu pagar. "Clarissa memakai jasa agensi buzzer siber di Palmerah untuk meneror kamu. Besok kita datangi kantor mereka, kita bongkar siapa yang mendanai racun ini."
+"Mereka sudah mulai main fisik," bisik Ibas tajam merengkuh tubuhku mundur ke balik pintu pagar. "Clarissa memakai jasa agensi buzzer siber di Palmerah untuk meneror kamu. Besok kita datangi kantor mereka, kita bongkar siapa yang mendanai racun ini."
