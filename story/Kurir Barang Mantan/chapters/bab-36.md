@@ -50,4 +50,4 @@ Cap merah bertuliskan LUNAS tertera abadi di atas kertas itu.
 
 Aku menatap mata Bagas yang teduh dan merengkuh kedua tangannya dengan senyuman lepas yang telah lama hilang dari wajahku.
 
-Aku menempelkan stempel lunas di lembar tanda terima terakhir itu, menatap mata Bagas yang hangat di bawah pendar senja Jakarta, dan untuk pertama kalinya dalam hidupku, aku tahu pasti bahwa cinta ini tidak akan pernah butuh kurir pengembalian barang.
+Aku menatap mata Bagas yang hangat di bawah pendar senja Jakarta, dan untuk pertama kalinya dalam hidupku, aku tahu pasti bahwa cinta ini tidak akan pernah butuh kurir pengembalian barang.

@@ -5,7 +5,7 @@ Amplop cokelat tebal itu tergeletak kaku di atas meja kerjaku persis sepotong gr
 Tanganku yang dingin menyambar pisau pemotong kertas. Dengan satu sayatan cepat di bagian penutup amplop, dua lembar kertas folio tebal berbobot seratus gram meluncur keluar. Di lembar pertama, meterai tempel sepuluh ribu rupiah tertempel rapi di bawah tanda tangan tebal bertinta hitam atas nama Advokat Henry Sitompul, S.H.
 
 Mataku menyisir kalimat-kalimat hukum yang tertata kaku dan mengancam:
-SURAT SOMASI PERTAMA DAN TERAKHIR. Perihal: Dugaan Tindak Pidana Penggelapan (Pasal 372 KUHP) dan/atau Pencurian (Pasal 362 KUHP) atas satu buah cincin berlian solitaire satu koma dua karat bernilai taksiran Rp120.000.000 (seratus dua puluh juta rupiah). Memberikan tenggat waktu empat belas hari kalender kepada CV Bolu Ketan Mandiri terhitung sejak tanggal diterimanya surat ini untuk mengembalikan barang bukti atau membayar ganti rugi penuh, sebelum laporan polisi pidana resmi dilimpahkan ke meja penyidik.
+SURAT SOMASI PERTAMA DAN TERAKHIR. Perihal: Dugaan Tindak Pidana Penggelapan (Pasal 486 KUHP Baru UU No. 1 Tahun 2023) dan/atau Pencurian atas satu buah cincin berlian solitaire satu koma dua karat bernilai taksiran Rp120.000.000 (seratus dua puluh juta rupiah). Memberikan tenggat waktu empat belas hari kalender kepada CV Bolu Ketan Mandiri terhitung sejak tanggal diterimanya surat ini untuk mengembalikan barang bukti atau membayar ganti rugi penuh, sebelum laporan polisi pidana resmi dilimpahkan ke meja penyidik.
 
 Empat belas hari. Waktuku dihitung mundur sejak detik ini.
 

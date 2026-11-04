@@ -34,13 +34,13 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 | **Hari 6** | Sabtu, 14.00 - 21.00 | Siang: Restu salah alamat kemeja ke kantor SCBD (Bab 12). Malam: Menemui Nay di kosan Slipi; petunjuk pegadaian Senopati didapat (Bab 13). | Tenggat H-11 |
 | **Hari 7** | Minggu, 16.00 - 18.00 | Insiden kotak beludru imitasi di dasar helm di pangkalan servis Tebet (Bab 14). | Tenggat H-10 |
 | **Hari 8** | Senin, 12.30 - 14.00 | Pengintaian Senayan City; dilabrak Tante Debby di depan eskalator mal (Bab 15). | Tenggat H-9 |
-| **Hari 9** | Selasa, 10.00 - 17.30 | Pagi: Intimidasi pangkalan sebelah (Bab 16). Sore: Hujan badai banjir Kuningan, motor mogok, momen batin berdua di kolong jembatan (Bab 17). | Tenggat H-8 |
-| **Hari 10** | Rabu, 09.00 - 11.00 | **Midpoint Bukti:** Foto monitor transaksi pegadaian Senopati Rp65 juta berhasil didapat (Bab 18). | Tenggat H-7 |
+| **Hari 9** | Selasa, 10.00 - 19.00 | Pagi: Intimidasi pangkalan sebelah (Bab 16). Sore: Hujan badai Kuningan (Bab 17). Malam (18.30): **Midpoint Bukti:** Verifikasi transaksi pegadaian Senopati Rp65 juta didapat (Bab 18). | Tenggat H-8 |
+| **Hari 10** | Rabu, 09.00 - 14.00 | Dampak boikot dan penurunan kas operasional ruko Bolu Ketan pasca-temuan pegadaian. | Tenggat H-7 |
 | **Hari 11** | Kamis, 03.00 - 14.30 | Subuh: Serangan buzzer siber jam tiga pagi (Bab 19). Siang: Pertemuan tertutup SCBD; Tante Debby tawarkan uang damai busuk (Bab 20). | Tenggat H-6 |
 | **Hari 12** | Jumat, 17.00 - 18.30 | Dilema keluarga Bagas di kedai kopi; surat panggilan resmi Polres tiba (Bab 21). | Tenggat H-5 |
 | **Hari 13** | Sabtu, 21.00 - 23.00 | Operasi mata-mata pangkalan Palmerah; Restu rekam bukti aliran dana Tante Debby (Bab 22). | Tenggat H-4 |
 | **Hari 14** | Senin, 10.00 - 21.30 | Klarifikasi Polres tolak foto HP (Bab 23). Penyusupan gagal gerai pegadaian (Bab 24). Pertengkaran halte Senopati (Bab 25). Ruko disegel pemilik tanah (Bab 26). | Tenggat H-1 (Sehari jelang tenggat) |
-| **Hari 15** | Selasa, 02.00 - 13.00 | Dini hari: Tangisan loteng hujan / All Hope Is Lost (Bab 27). Subuh: Kopi wejangan Pakde Broto (Bab 28). Pagi: Sertifikat laser almarhum ibu (Bab 29). Balapan macet ke Polres (Bab 30-32). Timbangan dan laser hantam Clarissa (Bab 33). Somasi dicabut resmi (Bab 34). | **Hari Batas Akhir Somasi / Kemenangan Hukum** |
+| **Hari 15** | Selasa, 02.00 - 11.30 | Dini hari: Tangisan loteng hujan / All Hope Is Lost (Bab 27). Subuh: Kopi wejangan Pakde Broto (Bab 28). Pagi: Sertifikat laser almarhum ibu dan legalisasi database (Bab 29). Pukul 10.00: Mediasi & Gelar Perkara di Polres Jaksel (Bab 30-33). Somasi dicabut resmi (Bab 34). | **Hari Batas Akhir Somasi / Kemenangan Hukum** |
 | **Hari 16** | Rabu, 13.00 - 16.00 | Pengecatan ruko, tumpengan damai pangkalan, perobekan piagam sinis (Bab 35). | Masa Pemulihan |
 | **Hari 17** | Kamis, 16.30 - 18.00 | Bagas bawa kotak 250 gram ke balkon ruko; pesanan masa depan tanpa retur (Bab 36). | Resolusi Epilog |
 
@@ -67,7 +67,7 @@ Tabel kalender absolut 14 hari somasi untuk mencegah kekeliruan waktu relatif:
 | Benda / Aset | Lokasi Awal (Bab 1) | Lokasi Terkini | Pembawa / Penanggung Jawab | Fakta Validasi Fisik |
 |---|---|---|---|---|
 | **Koper Hitam Seserahan Clarissa** | Apartemen Bagas (SCBD) | Apartemen Senopati (Bab 4) | Diserahkan Restu, diterima Nay | Berat koper tercatat 14,350 kg dengan segel lakban merah Bolu Ketan. Berisi bahan kebaya, tas pesta, dan kain brokat. |
-| **Kotak Cincin Beludru Biru** | Tidak ada di koper sejak awal | Pegadaian Swasta Senopati | Dikuasai pihak pegadaian | Berisi cincin berlian warisan keluarga Bagas berukir laser `GIA-8921-PL`. Bobot padat 320 gram. |
+| **Kotak Cincin Pusaka Kuningan Padat** | Tidak ada di koper sejak awal | Pegadaian Swasta Senopati | Dikuasai pihak pegadaian | Kotak kuningan cor era kolonial berlapis beludru marun berisi cincin berlian warisan keluarga Bagas berukir laser `GIA-8921-PL`. Bobot padat 320 gram. |
 | **Timbangan Digital Gantung Bolu Ketan** | Kantor Ruko Tebet | Kantor Ruko Tebet | Dita Maheswari | Timbangan presisi kalibrasi miligram dengan memori data digital. |
 | **Buku Manifes Fisik & Lembar Tanda Terima VIP** | Ruko Tebet | Ruko Tebet / Brankas Pakde Broto | Dita Maheswari | Ditandatangani Nay dengan foto segel utuh berlatar jam lobi apartemen. |
 | **Sertifikat Permata GIA Almarhum Ibu** | Brankas Rumah Keluarga Bagas | Dibawa Bagas (Bab 29) | Baskara Danuputra | Mencatat nomor seri ukiran mikro laser `GIA-8921-PL`. |

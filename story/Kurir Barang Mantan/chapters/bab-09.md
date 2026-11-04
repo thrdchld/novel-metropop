@@ -33,7 +33,7 @@ Aku melangkah maju, menatap Bagas dengan pandangan menuntut. "Bagas, waktu koper
 
 "Itu bukan kotak beludru biasa dari toko emas modern, Mbak Dita," sahut Bagas cepat, matanya menyala teringat detail penting. "Itu kotak pusaka warisan kakek buyut saya peninggalan era kolonial. Rangkanya terbuat dari kuningan cor padat berlapis beludru marun tua, dengan pelat engsel timbal peredam benturan. Di buku inventaris keluarga besar kami, berat kosong kotak pusaka itu saja tercatat tiga ratus lima belas gram. Ditambah cincin emas putih solitaire satu koma dua karat, berat padatnya persis tiga ratus dua puluh gram."
 
-Aku mengetuk piringan timbangan dengan ujung jariku, tersenyum tajam. "Tepat sekali! Kotak kuningan padat seberat tiga ratus dua puluh gram itu mustahil menguap jadi udara! Kalau kotak pusaka itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di manifes kami seharusnya minimal empat belas koma enam ratus tujuh puluh kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
+Aku mengetuk piringan timbangan dengan ujung jariku, tersenyum tajam. "Tepat sekali! Kotak kuningan padat seberat tiga ratus dua puluh gram itu mustahil menguap jadi udara! Kalau kotak pusaka itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di manifes kami seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
 
 Bagas tertegun mematung. Matanya menatap timbangan digital dan catatan manifes di mejaku dengan tatapan takjub bercampur rasa kagum yang luar biasa.
 

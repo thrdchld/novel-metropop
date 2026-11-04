@@ -580,7 +580,7 @@
 - **Asimetri Pengetahuan:** Penyidik mengira Dita datang untuk memohon keringanan damai; pihak Dita datang untuk membalikkan keadaan secara mutlak.
 - **Hook Akhir:** Jam dinding warung tenda berdentang keras pukul 08.45 WIB; empat orang itu melangkah serentak menyeberang jalan raya menuju lobi utama Satreskrim.
 
-### Bab 32: Balapan Menembus Macet Kuningan
+### Bab 32: Di Depan Pintu Penyidik
 - **Waktu & Lokasi:** Selasa pagi (08.50 WIB), koridor lantai dua Gedung Satreskrim Polres Jaksel.
 - **POV:** Dita Maheswari.
 - **Posisi Kerangka:** Klimaks Tahap 1 (Memasuki Medan Pertempuran).

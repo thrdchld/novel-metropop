@@ -12,7 +12,7 @@ Darmawan, pengacara muda berkacamata rekan Bagas, langsung membuka tas kerja kul
 
 "Klaster Pertama," ucap Darmawan dengan suara tenang dan tertata rapi, "Buku Manifes Fisik Tera Timbangan Bruto 14,350 kilogram, foto dokumentasi segel merah BLK-SP-09 berlatar jam lobi Senopati, dan tabel analisis ilmiah selisih bobot tiga ratus dua puluh gram. Dokumen ini membuktikan secara metrologi bahwa kotak cincin tidak pernah diserahkan oleh asisten Clarissa."
 
-Darmawan menyusun map kedua: "Klaster Kedua, salinan cetak bukti mutasi transfer perbankan tiga puluh juta rupiah dari rekening PT Debora Jaya Abadi milik Tante Debby ke agensi buzzer siber Palmerah. Dokumen ini membuktikan adanya mens rea atau niat jahat rekayasa pencemaran nama baik secara terorganisir."
+"Klaster Kedua," ucap Darmawan menyusun map kedua: "salinan formulir penagihan internal, draf kontrak proyek kampanye hitam, dan tanda terima pesanan tiga puluh juta rupiah atas nama PT Debora Jaya Abadi milik Tante Debby ke agensi buzzer siber Palmerah. Dokumen ini membuktikan adanya niat jahat rekayasa fitnah secara terorganisir."
 
 Darmawan meletakkan map ketiga yang berwarna merah marun tebal di bagian paling atas: "Dan Klaster Ketiga, senjata pamungkas kita: Sertifikat Asli GIA peninggalan almarhumah Ibu Bagas dengan nomor seri mikro laser GIA-8921-PL, ditambah print-out database resmi sistem Gadai Swasta Mulia Senopati yang mencatat nomor seri laser yang sama persis atas nama nasabah Clarissa Maharani senilai enam puluh lima juta rupiah."
 

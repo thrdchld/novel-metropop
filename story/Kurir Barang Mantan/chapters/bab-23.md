@@ -8,7 +8,7 @@ Di seberang meja kami, Advokat Henry Sitompul, S.H. duduk menyilangkan kaki deng
 
 Ipda Bambang Sutrisno, pria reserse senior berusia empat puluhan berkulit sawo matang dengan rambut cepak yang mulai memutih di pelipis, mengetuk map berkas laporan di mejanya dengan ujung bolpoin.
 
-"Baik, kita mulai sesi klarifikasi awal Laporan Pengaduan Nomor: LP/B/1842/XI/2026/SPKT/Polres Jaksel," ucap Ipda Bambang dengan suara berat yang datar dan monoton. "Pelapor atas nama Clarissa Maharani melaporkan Saudari Dita Maheswari atas dugaan tindak pidana Pasal 372 KUHP tentang Penggelapan barang titipan berupa satu buah cincin berlian warisan keluarga senilai seratus dua puluh juta rupiah."
+"Baik, kita mulai sesi klarifikasi awal Laporan Pengaduan Nomor: LP/B/1842/XI/2026/SPKT/Polres Jaksel," ucap Ipda Bambang dengan suara berat yang datar dan monoton. "Pelapor atas nama Clarissa Maharani melaporkan Saudari Dita Maheswari atas dugaan tindak pidana Pasal 486 KUHP tentang Penggelapan barang titipan berupa satu buah cincin berlian warisan keluarga senilai seratus dua puluh juta rupiah."
 
 Ipda Bambang menatapku tajam dari balik kacamata bacanya. "Saudari Terlapor, silakan sampaikan pembelaan atau bukti sanggahan Saudari sebelum perkara ini kami gelar untuk dinaikkan ke tahap penyidikan."
 
@@ -16,7 +16,7 @@ Aku melangkah maju, meletakkan buku manifes fisik Bolu Ketan dan salinan foto pe
 
 "Pak Bambang," ucapku lantang dan tenang, "tuduhan pelapor murni fitnah berencana. Pada hari Selasa tanggal 3 November pukul sebelas lewat tiga puluh lima menit di lobi Apartemen Royal Senopati, kurir kami menimbang koper tersebut menggunakan timbangan gantung digital bersertifikat tera metrologi resmi. Berat kotor tercatat persis empat belas koma tiga ratus lima puluh kilogram dengan lakban segel utuh nomor BLK-SP-09."
 
-Aku menyodorkan foto timbangan dan tabel perhitungan matematis kami. "Total berat barang seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak cincin beludru padat bermata berlian memiliki berat standar tiga ratus dua puluh gram. Secara hukum fisika dan metrologi, kotak cincin itu tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen Senopati!"
+Aku menyodorkan foto timbangan dan tabel perhitungan matematis kami. "Total berat barang seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat yang menyimpan cincin itu memiliki berat tiga ratus dua puluh gram. Jika cincin itu ada di dalam koper, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak pusaka itu terbukti secara matematis tidak pernah ada di dalam koper sejak dari lobi Senopati!"
 
 Henry Sitompul seketika tertawa meremehkan, mengetuk meja dengan pulpen emasnya. "Interupsi, Pak Penyidik! Teori timbangan selisih gram kurir motor jalanan ini cuma dalih omong kosong yang tidak punya dasar hukum acara pidana! Klien kami menyerahkan koper utuh di lobi, ada tanda terimanya! Kurir motor bisa saja mencongkel ritsleting bawah atau memalsukan lakban segel selama empat puluh lima menit perjalanan motor ke Tebet!"
 
@@ -30,7 +30,7 @@ Wajah Clarissa seketika memucat di balik maskernya. Jemarinya mencengkeram tali 
 
 Ipda Bambang menatap layar ponselku dengan mata menyipit selama beberapa detik, lalu menghela napas panjang dan meletakkan ponselku kembali ke atas meja dengan gerakan lambat.
 
-"Saudari Dita," ucap Ipda Bambang dengan nada suara yang membuat darahku seketika membeku dingin, "sesuai Kitab Undang-Undang Hukum Acara Pidana dan aturan pembuktian forensik digital, foto tangkapan layar ponsel monitor komputer pihak ketiga bukan alat bukti otentik yang sah di persidangan."
+"Saudari Dita," ucap Ipda Bambang dengan nada suara yang membuat darahku seketika membeku dingin, "sesuai Pasal 235 Kitab Undang-Undang Hukum Acara Pidana yang baru, foto tangkapan layar ponsel adalah bukti elektronik yang belum terverifikasi keaslian dan rantai penguasaannya. Kami membutuhkan salinan log sistem resmi yang dilegalisasi pihak manajemen pegadaian atau penetapan izin sita sebelum bukti ini bisa kami jadikan dasar pembelaan dalam gelar perkara."
 
 Aku terbelalak kaget. "Tapi Pak, itu data asli dari komputer kasir mereka!"
 

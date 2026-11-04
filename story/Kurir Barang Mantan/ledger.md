@@ -24,7 +24,7 @@
 | Bab 35 | Clarissa, Bolu Ketan | Biaya Perbaikan | Ganti Rugi Kerusakan | Kompensasi perbaikan fisik ruko dan penayangan video klarifikasi maaf terbuka |
 | Bab 35 | Dita, Pakde Broto | Sewa Mandiri | Kas Operasional CV | Dita melunasi sewa bulanan dari kas mandiri Bolu Ketan tanpa bantuan finansial instan |
 | Bab 35 | Dita, Warga Tebet | Rp1.500.000 | Syukuran Kas CV | Tumpeng nasi kuning 50 porsi syukuran damai seluruh pangkalan Tebet |
-| Bab 36 | Bagas, Dita | Nilai Simbolis | Hadiah Masa Depan | 2 tiket KA Taksaka Eksekutif Gambir-Yogyakarta dan sepasang cincin perak ukir nama |
+| Bab 36 | Bagas, Dita | Nilai Simbolis | Hadiah Masa Depan | 2 tiket KA Taksaka Eksekutif Gambir-Yogyakarta dan miniatur motor kargo kayu jati dan surat kemitraan hidup bermeterai tanpa retur |
 
 ---
 
@@ -47,7 +47,7 @@
 | Bab 32-33 | Seluruh Barang Bukti & Timbangan | Tas Ransel Dita | Meja Unit Harda Satreskrim | Dita, Bagas, Ipda Bambang | Pembuktian selisih gramasi dan nomor laser di depan penyidik |
 | Bab 34 | Surat Pencabutan Somasi & Video Maaf | Polres Jakarta Selatan | Akun Publik Clarissa | Clarissa, Henry Sitompul SH | Somasi dicabut tanpa syarat; video klarifikasi publik tayang |
 | Bab 35 | Piagam Sinis / Spanduk Lama | Dinding Ruko Tebet | Tong Sampah Markas | Dita, Restu, Bagas | Dinding dicat baru oranye cerah, markas direnovasi |
-| Bab 36 | Kotak Beludru Biru 250 Gram | Saku Jas Santai Bagas | Balkon Lantai Dua Bolu Ketan | Bagas, Dita | Berisi tiket kereta api Taksaka dan sepasang cincin perak ukir |
+| Bab 36 | Kotak Beludru Biru 250 Gram | Saku Jas Santai Bagas | Balkon Lantai Dua Bolu Ketan | Bagas, Dita | Berisi tiket kereta api Taksaka dan miniatur motor kargo kayu jati dan surat kemitraan hidup bermeterai |
 
 ---
 
@@ -88,4 +88,4 @@
 - **Bab 33:** Serangan balik forensik: timbangan digital membuktikan selisih gramasi, dan sertifikat laser GIA membuktikan cincin di pegadaian adalah cincin yang sama. Clarissa dan Tante Debby tersudut telak.
 - **Bab 34:** Henry Sitompul SH menyatakan somasi dicabut tanpa syarat; Clarissa mengunggah video klarifikasi permohonan maaf; ayah Bagas menelepon mengakui kehebatan putranya dan Dita.
 - **Bab 35:** Pengecatan ulang markas ruko Bolu Ketan secara mandiri, pemotongan rantai segel, servis motor kargo lama Restu, kepindahan Bagas ke studio mandiri, perobekan piagam sinis masa lalu, dan syukuran tumpeng bersama warga pangkalan Tebet.
-- **Bab 36:** Epilog hangat di balkon ruko lantai dua; Bagas menyerahkan paket spesial tanpa retur berisi tiket perjalanan kereta api ke Yogyakarta dan sepasang cincin perak ukir nama Dita dan Baskara. Tamat dengan memuaskan.
+- **Bab 36:** Epilog hangat di balkon ruko lantai dua; Bagas menyerahkan paket spesial tanpa retur berisi tiket perjalanan kereta api ke Yogyakarta dan miniatur motor kargo kayu jati dan surat kemitraan hidup bermeterai tanpa retur Dita dan Baskara. Tamat dengan memuaskan.

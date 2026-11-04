@@ -302,7 +302,7 @@ Amplop cokelat tebal itu tergeletak kaku di atas meja kerjaku persis sepotong gr
 Tanganku yang dingin menyambar pisau pemotong kertas. Dengan satu sayatan cepat di bagian penutup amplop, dua lembar kertas folio tebal berbobot seratus gram meluncur keluar. Di lembar pertama, meterai tempel sepuluh ribu rupiah tertempel rapi di bawah tanda tangan tebal bertinta hitam atas nama Advokat Henry Sitompul, S.H.
 
 Mataku menyisir kalimat-kalimat hukum yang tertata kaku dan mengancam:
-SURAT SOMASI PERTAMA DAN TERAKHIR. Perihal: Dugaan Tindak Pidana Penggelapan (Pasal 372 KUHP) dan/atau Pencurian (Pasal 362 KUHP) atas satu buah cincin berlian solitaire satu koma dua karat bernilai taksiran Rp120.000.000 (seratus dua puluh juta rupiah). Memberikan tenggat waktu empat belas hari kalender kepada CV Bolu Ketan Mandiri terhitung sejak tanggal diterimanya surat ini untuk mengembalikan barang bukti atau membayar ganti rugi penuh, sebelum laporan polisi pidana resmi dilimpahkan ke meja penyidik.
+SURAT SOMASI PERTAMA DAN TERAKHIR. Perihal: Dugaan Tindak Pidana Penggelapan (Pasal 486 KUHP Baru UU No. 1 Tahun 2023) dan/atau Pencurian atas satu buah cincin berlian solitaire satu koma dua karat bernilai taksiran Rp120.000.000 (seratus dua puluh juta rupiah). Memberikan tenggat waktu empat belas hari kalender kepada CV Bolu Ketan Mandiri terhitung sejak tanggal diterimanya surat ini untuk mengembalikan barang bukti atau membayar ganti rugi penuh, sebelum laporan polisi pidana resmi dilimpahkan ke meja penyidik.
 
 Empat belas hari. Waktuku dihitung mundur sejak detik ini.
 
@@ -428,7 +428,7 @@ Aku melangkah maju, menatap Bagas dengan pandangan menuntut. "Bagas, waktu koper
 
 "Itu bukan kotak beludru biasa dari toko emas modern, Mbak Dita," sahut Bagas cepat, matanya menyala teringat detail penting. "Itu kotak pusaka warisan kakek buyut saya peninggalan era kolonial. Rangkanya terbuat dari kuningan cor padat berlapis beludru marun tua, dengan pelat engsel timbal peredam benturan. Di buku inventaris keluarga besar kami, berat kosong kotak pusaka itu saja tercatat tiga ratus lima belas gram. Ditambah cincin emas putih solitaire satu koma dua karat, berat padatnya persis tiga ratus dua puluh gram."
 
-Aku mengetuk piringan timbangan dengan ujung jariku, tersenyum tajam. "Tepat sekali! Kotak kuningan padat seberat tiga ratus dua puluh gram itu mustahil menguap jadi udara! Kalau kotak pusaka itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di manifes kami seharusnya minimal empat belas koma enam ratus tujuh puluh kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
+Aku mengetuk piringan timbangan dengan ujung jariku, tersenyum tajam. "Tepat sekali! Kotak kuningan padat seberat tiga ratus dua puluh gram itu mustahil menguap jadi udara! Kalau kotak pusaka itu benar-benar dimasukkan Clarissa ke dalam koper sebelum diserahkan ke Restu di lobi Senopati, timbangan bruto yang tercatat di manifes kami seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Bukan empat belas koma tiga ratus lima puluh kilogram!"
 
 Bagas tertegun mematung. Matanya menatap timbangan digital dan catatan manifes di mejaku dengan tatapan takjub bercampur rasa kagum yang luar biasa.
 
@@ -880,7 +880,7 @@ Mas Aris mendongak menatap Bagas, lalu matanya melirik cemas ke arah dua satpam 
 
 "Mas Aris, ini menyangkut perkara pidana serius," potongku tegas sambil menempelkan surat somasi dan surat panggilan klarifikasi Polres ke kaca konter. "Saya Dita Maheswari, pemilik Bolu Ketan yang difitnah menggelapkan cincin warisan peninggalan almarhumah ibu Mas Bagas oleh nasabah Mas, Clarissa Maharani."
 
-Bagas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh KUHP tentang penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
+Bagas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh dua KUHP tentang tindak pidana penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
 
 Mendengar pasal penadahan dan nama Clarissa disebut, raut wajah Mas Aris mendadak berubah tegang. Ada kilatan kejengkelan sekaligus kekhawatiran yang kentara di balik lensa kacamatanya.
 
@@ -1162,7 +1162,7 @@ Di seberang meja kami, Advokat Henry Sitompul, S.H. duduk menyilangkan kaki deng
 
 Ipda Bambang Sutrisno, pria reserse senior berusia empat puluhan berkulit sawo matang dengan rambut cepak yang mulai memutih di pelipis, mengetuk map berkas laporan di mejanya dengan ujung bolpoin.
 
-"Baik, kita mulai sesi klarifikasi awal Laporan Pengaduan Nomor: LP/B/1842/XI/2026/SPKT/Polres Jaksel," ucap Ipda Bambang dengan suara berat yang datar dan monoton. "Pelapor atas nama Clarissa Maharani melaporkan Saudari Dita Maheswari atas dugaan tindak pidana Pasal 372 KUHP tentang Penggelapan barang titipan berupa satu buah cincin berlian warisan keluarga senilai seratus dua puluh juta rupiah."
+"Baik, kita mulai sesi klarifikasi awal Laporan Pengaduan Nomor: LP/B/1842/XI/2026/SPKT/Polres Jaksel," ucap Ipda Bambang dengan suara berat yang datar dan monoton. "Pelapor atas nama Clarissa Maharani melaporkan Saudari Dita Maheswari atas dugaan tindak pidana Pasal 486 KUHP tentang Penggelapan barang titipan berupa satu buah cincin berlian warisan keluarga senilai seratus dua puluh juta rupiah."
 
 Ipda Bambang menatapku tajam dari balik kacamata bacanya. "Saudari Terlapor, silakan sampaikan pembelaan atau bukti sanggahan Saudari sebelum perkara ini kami gelar untuk dinaikkan ke tahap penyidikan."
 
@@ -1170,7 +1170,7 @@ Aku melangkah maju, meletakkan buku manifes fisik Bolu Ketan dan salinan foto pe
 
 "Pak Bambang," ucapku lantang dan tenang, "tuduhan pelapor murni fitnah berencana. Pada hari Selasa tanggal 3 November pukul sebelas lewat tiga puluh lima menit di lobi Apartemen Royal Senopati, kurir kami menimbang koper tersebut menggunakan timbangan gantung digital bersertifikat tera metrologi resmi. Berat kotor tercatat persis empat belas koma tiga ratus lima puluh kilogram dengan lakban segel utuh nomor BLK-SP-09."
 
-Aku menyodorkan foto timbangan dan tabel perhitungan matematis kami. "Total berat barang seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak cincin beludru padat bermata berlian memiliki berat standar tiga ratus dua puluh gram. Secara hukum fisika dan metrologi, kotak cincin itu tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen Senopati!"
+Aku menyodorkan foto timbangan dan tabel perhitungan matematis kami. "Total berat barang seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat yang menyimpan cincin itu memiliki berat tiga ratus dua puluh gram. Jika cincin itu ada di dalam koper, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak pusaka itu terbukti secara matematis tidak pernah ada di dalam koper sejak dari lobi Senopati!"
 
 Henry Sitompul seketika tertawa meremehkan, mengetuk meja dengan pulpen emasnya. "Interupsi, Pak Penyidik! Teori timbangan selisih gram kurir motor jalanan ini cuma dalih omong kosong yang tidak punya dasar hukum acara pidana! Klien kami menyerahkan koper utuh di lobi, ada tanda terimanya! Kurir motor bisa saja mencongkel ritsleting bawah atau memalsukan lakban segel selama empat puluh lima menit perjalanan motor ke Tebet!"
 
@@ -1184,7 +1184,7 @@ Wajah Clarissa seketika memucat di balik maskernya. Jemarinya mencengkeram tali 
 
 Ipda Bambang menatap layar ponselku dengan mata menyipit selama beberapa detik, lalu menghela napas panjang dan meletakkan ponselku kembali ke atas meja dengan gerakan lambat.
 
-"Saudari Dita," ucap Ipda Bambang dengan nada suara yang membuat darahku seketika membeku dingin, "sesuai Kitab Undang-Undang Hukum Acara Pidana dan aturan pembuktian forensik digital, foto tangkapan layar ponsel monitor komputer pihak ketiga bukan alat bukti otentik yang sah di persidangan."
+"Saudari Dita," ucap Ipda Bambang dengan nada suara yang membuat darahku seketika membeku dingin, "sesuai Pasal 235 Kitab Undang-Undang Hukum Acara Pidana yang baru, foto tangkapan layar ponsel adalah bukti elektronik yang belum terverifikasi keaslian dan rantai penguasaannya. Kami membutuhkan salinan log sistem resmi yang dilegalisasi pihak manajemen pegadaian atau penetapan izin sita sebelum bukti ini bisa kami jadikan dasar pembelaan dalam gelar perkara."
 
 Aku terbelalak kaget. "Tapi Pak, itu data asli dari komputer kasir mereka!"
 
@@ -1468,21 +1468,21 @@ Identifikasi Khusus: Nomor Seri Ukiran Mikro Laser Mikroskopis pada Lingkar Ping
 
 "Cincin warisan almarhumah Ibu saya memiliki ukiran nomor seri mikro laser mikroskopis di lingkar dalam batunya, Dita," jelas Bagas dengan mata berbinar menyala penuh keyakinan. "Ukuran hurufnya mikron, mustahil bisa dilihat mata telanjang tanpa mikroskop permata laboratorium forensik, dan mustahil bisa dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
 
-Bagas menyodorkan lembar dokumen kedua yang baru saja dicetaknya pagi ini dari kantor Ferdi:
-Sebuah salinan cetak database log sistem internal Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089!
+Bagas menyodorkan lembar dokumen kedua yang berstempel basah resmi di atas meja:
+Sebuah salinan cetak resmi log transaksi sistem Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089 yang telah dilegalisasi!
 
-Di lembar database pegadaian itu, tepat di kolom catatan fisik verifikasi penaksir Mas Aris hari Sabtu kemarin, tertulis dengan tinta cetak komputer yang sangat jelas:
+Di lembar database pegadaian itu, tepat di kolom catatan verifikasi fisik hari Sabtu tanggal 31 Oktober, tertulis dengan tinta cetak komputer yang sangat jelas:
 Deskripsi Fisik Barang Jaminan Nasabah Clarissa Maharani: Cincin emas putih berat 5,8 gram bertatahkan berlian solitaire 1,21 karat dengan ukiran mikro laser nomor seri GIA-8921-PL terverifikasi otentik pada lingkar dalam batu!
 
 Nomor seri fisik pada sertifikat almarhumah ibu Bagas cocok sempurna seratus persen dengan nomor seri barang gadaian Clarissa di sistem database Senopati!
 
-"Mas Aris mempertaruhkan pekerjaannya tadi malam buat ngirim print-out sistem ini ke email Darmawan," lanjut Bagas dengan napas memburu penuh kemenangan. "Bukti fisik ini adalah bukti forensik otentik yang sah menurut Kitab Undang-Undang Hukum Acara Pidana! Nomor seri laser GIA ini membuktikan secara ilmiah tanpa bantahan bahwa cincin yang digadaikan Clarissa hari Sabtu lalu adalah cincin pusaka yang sama persis dengan yang dia tuduh dicuri oleh kurir Bolu Ketan hari Selasa kemarin!"
+"Subuh tadi jam lima, Darmawan melayangkan surat permohonan keterangan perkara berdasar surat panggilan Polres ke kantor pusat pegadaian," jelas Bagas dengan napas lega. "Menyadari gerainya terancam delik penadahan, divisi kepatuhan mereka akhirnya mengesahkan salinan cetak log sistem ini lengkap dengan stempel basah resmi untuk diserahkan ke meja penyidik. Bukti elektronik ini sah menurut Pasal 235 KUHAP dan membuktikan secara ilmiah bahwa cincin yang digadaikan Clarissa adalah cincin pusaka yang sama persis dengan yang dia tuduh dicuri oleh kurir Bolu Ketan!"
 
 Senjata pamungkas forensik kini telah lengkap berada di dalam genggaman tangan kami!
 
 Aku melirik jam tangan digital di pergelangan tanganku: pukul tujuh lewat lima belas menit pagi.
 
-Waktu mediasi penyidikan di meja Ipda Bambang Sutrisno tersisa kurang dari empat jam empat puluh lima menit lagi.
+Waktu mediasi dan gelar perkara di meja Ipda Bambang Sutrisno tersisa kurang dari dua jam empat puluh lima menit menuju pukul sepuluh pagi.
 
 Aku meremas sertifikat GIA itu di dadaku, menatap Bagas dengan senyuman lebar penuh keberanian yang menyala terang. "Mas Bagas, panggil Restu dan Pakde Broto sekarang. Kita kumpulkan pasukan, kita habisi kebohongan Clarissa di meja penyidik Polres Jaksel siang ini!"
 
@@ -1546,7 +1546,7 @@ Darmawan, pengacara muda berkacamata rekan Bagas, langsung membuka tas kerja kul
 
 "Klaster Pertama," ucap Darmawan dengan suara tenang dan tertata rapi, "Buku Manifes Fisik Tera Timbangan Bruto 14,350 kilogram, foto dokumentasi segel merah BLK-SP-09 berlatar jam lobi Senopati, dan tabel analisis ilmiah selisih bobot tiga ratus dua puluh gram. Dokumen ini membuktikan secara metrologi bahwa kotak cincin tidak pernah diserahkan oleh asisten Clarissa."
 
-Darmawan menyusun map kedua: "Klaster Kedua, salinan cetak bukti mutasi transfer perbankan tiga puluh juta rupiah dari rekening PT Debora Jaya Abadi milik Tante Debby ke agensi buzzer siber Palmerah. Dokumen ini membuktikan adanya mens rea atau niat jahat rekayasa pencemaran nama baik secara terorganisir."
+"Klaster Kedua," ucap Darmawan menyusun map kedua: "salinan formulir penagihan internal, draf kontrak proyek kampanye hitam, dan tanda terima pesanan tiga puluh juta rupiah atas nama PT Debora Jaya Abadi milik Tante Debby ke agensi buzzer siber Palmerah. Dokumen ini membuktikan adanya niat jahat rekayasa fitnah secara terorganisir."
 
 Darmawan meletakkan map ketiga yang berwarna merah marun tebal di bagian paling atas: "Dan Klaster Ketiga, senjata pamungkas kita: Sertifikat Asli GIA peninggalan almarhumah Ibu Bagas dengan nomor seri mikro laser GIA-8921-PL, ditambah print-out database resmi sistem Gadai Swasta Mulia Senopati yang mencatat nomor seri laser yang sama persis atas nama nasabah Clarissa Maharani senilai enam puluh lima juta rupiah."
 
@@ -1568,7 +1568,7 @@ Di pelataran parkir khusus VIP gedung kepolisian itu, dua buah mobil sedan mewah
 
 ---
 
-## Bab 32: Balapan Menembus Macet Kuningan
+## Bab 32: Di Depan Pintu Penyidik
 
 Koridor lantai dua Gedung Satreskrim Polres Metro Jakarta Selatan beraroma kertas arsip perkara tua, minyak pembersih lantai pinus, dan ketegangan dingin yang menusuk kulit. Jam dinding bundar di atas pintu ruang mediasi menunjukkan pukul sembilan lewat lima puluh menit pagi.
 
@@ -1602,7 +1602,7 @@ Tepat pukul sembilan lewat lima puluh delapan menit, Ipda Bambang mendudukkan di
 
 Tok! Tok! Tok!
 
-"Sesi mediasi klarifikasi terakhir Laporan Polisi Nomor 1842 perihal dugaan tindak pidana Pasal 372 KUHP resmi saya buka," ucap Ipda Bambang dengan tatapan mata elang yang menyapu kedua belah pihak secara bergantian. "Tenggat waktu somasi dan mediasi awal jatuh tempo hari ini. Sesuai prosedur KUHAP, jika tidak ada kesepakatan damai atau bukti baru yang mengugurkan sangkaan, penyidik akan menggelar perkara untuk menetapkan status Tersangka hari ini juga."
+"Sesi mediasi klarifikasi terakhir Laporan Polisi Nomor 1842 perihal dugaan tindak pidana Pasal 486 KUHP tentang penggelapan resmi saya buka," ucap Ipda Bambang dengan tatapan mata elang yang menyapu kedua belah pihak secara bergantian. "Tenggat waktu somasi dan mediasi awal jatuh tempo hari ini. Sesuai prosedur KUHAP, jika tidak ada kesepakatan damai atau bukti baru yang mengugurkan sangkaan, penyidik akan menggelar perkara untuk menetapkan status Tersangka hari ini juga."
 
 Ipda Bambang menoleh menatapku lurus-lurus. "Saudari Dita Maheswari, apakah pihak Terlapor membawa bukti otentik baru yang memenuhi standar laboratorium forensik kepolisian?"
 
@@ -1622,7 +1622,7 @@ Darmawan meletakkan buku manifes fisik asli Bolu Ketan dan sebuah timbangan gant
 
 Aku melangkah maju berbicara dengan suara tenang namun menusuk telak. "Bukti pertama: data penimbangan bruto di lobi Apartemen Royal Senopati pada hari Selasa tanggal 3 November pukul 11.35 WIB. Timbangan gantung ini memiliki sertifikasi tera legal berakurasi lima gram dari Direktorat Metrologi Kementerian Perdagangan Republik Indonesia. Koper yang diserahkan asisten Clarissa terkunci rapat dan tercatat berbobot persis empat belas koma tiga ratus lima puluh kilogram dengan segel lakban merah BLK-SP-09."
 
-Aku menyodorkan lembar tabel forensik bobot barang. "Ketika koper dibuka di hadapan saksi pemilik barang, Mas Bagas, total berat seluruh isi koper seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat peninggalan keluarga Danuputra yang menyimpan cincin tersebut tercatat memiliki berat tiga ratus dua puluh gram. Secara hukum fisika metrologi, jika kotak kuningan pusaka itu ada di dalam koper saat diserahkan di lobi, bobot koper seharusnya minimal empat belas koma enam ratus tujuh puluh kilogram! Kotak cincin itu terbukti secara matematis tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen!"
+Aku menyodorkan lembar tabel forensik bobot barang. "Ketika koper dibuka di hadapan saksi pemilik barang, Mas Bagas, total berat seluruh isi koper seserahan ditambah koper kosong adalah empat belas koma tiga ratus empat puluh lima kilogram. Kotak pusaka kuningan padat peninggalan keluarga Danuputra yang menyimpan cincin tersebut tercatat memiliki berat tiga ratus dua puluh gram. Secara hukum fisika metrologi, jika kotak kuningan pusaka itu ada di dalam koper saat diserahkan di lobi, bobot koper seharusnya minimal empat belas koma enam ratus enam puluh lima kilogram! Kotak cincin itu terbukti secara matematis tidak pernah dimasukkan ke dalam koper sejak dari lobi apartemen!"
 
 Advokat Henry Sitompul buru-buru menyela dengan ketukan meja keras. "Interupsi! Timbangan kurir motor jalanan tidak bisa dijadikan dasar mutlak di depan penyidik! Klien kami tetap pada keterangannya bahwa cincin itu ada di dalam koper!"
 
@@ -1636,25 +1636,25 @@ Sertifikat asli batu permata itu diletakkan Bagas tepat di depan hidung Ipda Bam
 
 Darmawan langsung menumpahkan kartu pamungkas kami: selembar salinan cetak database log sistem internal Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089.
 
-"Dan ini bukti otentik perbankan non-bank yang sah menurut Pasal 184 KUHAP!" seru Darmawan menyodorkan lembaran itu ke meja penyidik. "Pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB... tiga hari sebelum koper diserahkan ke kurir Bolu Ketan... Saudari Clarissa Maharani mendatangi loket kasir Gadai Swasta Mulia Senopati membawa cincin berlian almarhumah Ibu Bagas, lalu menandatangani polis gadai nomor GSM-2026-089 untuk mencairkan uang tunai enam puluh lima juta rupiah! Di lembar database ini tertera jelas hasil verifikasi penaksir resmi: cincin yang digadaikan Clarissa memiliki ukiran mikro laser yang sama persis: GIA-8921-PL!"
+"Dan ini salinan resmi dokumen elektronik yang telah dilegalisasi dan sah menurut Pasal 235 KUHAP yang baru!" seru Darmawan menyodorkan lembaran itu ke meja penyidik. "Pada hari Sabtu tanggal 31 Oktober pukul 14.15 WIB... tiga hari sebelum koper diserahkan ke kurir Bolu Ketan... Saudari Clarissa Maharani mendatangi loket kasir Gadai Swasta Mulia Senopati membawa cincin berlian almarhumah Ibu Bagas, lalu menandatangani polis gadai nomor GSM-2026-089 untuk mencairkan uang tunai enam puluh lima juta rupiah! Di lembar database ini tertera jelas hasil verifikasi penaksir resmi: cincin yang digadaikan Clarissa memiliki ukiran mikro laser yang sama persis: GIA-8921-PL!"
 
 Brak!
 
-Darmawan menampar meja mediasi dengan lembar bukti ketiga. "Ditambah lagi bukti mutasi transfer bank tiga puluh juta rupiah dari rekening PT Debora Jaya Abadi milik Ibu Debora ke agensi buzzer siber Palmerah untuk membantai nama baik Bolu Ketan secara terkoordinasi!"
+Darmawan menampar meja mediasi dengan lembar bukti ketiga. "Ditambah lagi bukti formulir penagihan internal dan draf kontrak kampanye hitam tiga puluh juta rupiah atas nama PT Debora Jaya Abadi milik Ibu Debora ke agensi buzzer siber Palmerah untuk merekayasa fitnah secara terkoordinasi!"
 
 Ruangan mediasi Unit Harda seketika hening persis kuburan di tengah malam.
 
 Wajah Clarissa Maharani berubah pasi seputih kapas mayat. Tubuhnya gemetar hebat di atas kursi, kedua tangannya mencengkeram rok sutranya dengan napas tersengal-sengal menahan syok luar biasa. Di sampingnya, Tante Debby terbelalak kaku persis patung lilin, keringat dingin mengalir deras membasahi bedak tebal di pipinya yang memucat.
 
-Henry Sitompul terdiam seribu bahasa. Pengacara senior itu meletakkan pena emasnya, lalu perlahan menutup map berkasnya dengan kepala tertunduk lesu. Sebagai praktisi hukum berpengalaman, ia tahu pasti bahwa bukti nomor seri mikro laser GIA dan log database pegadaian ini adalah bukti forensik sempurna yang mustahil bisa didebat oleh dalih apa pun di muka bumi.
+Henry Sitompul terdiam seribu bahasa. Pengacara senior itu meletakkan pena emasnya, lalu perlahan menutup map berkasnya dengan kepala tertunduk lesu. Sebagai praktisi hukum, ia tahu bukti nomor seri mikro laser GIA dan log database pegadaian ini adalah bukti forensik yang mustahil didebat.
 
 Ipda Bambang Sutrisno menyisir ketiga dokumen otentik itu dengan kacamata bacanya selama satu menit penuh. Sorot mata penyidik senior itu perlahan beralih menatap Clarissa dan Tante Debby dengan ketajaman yang menghujam ulu hati.
 
-"Saudari Clarissa Maharani dan Ibu Debora," ucap Ipda Bambang dengan nada suara yang begitu berat, dingin, dan berwibawa, "Kitab Undang-Undang Hukum Pidana Pasal 220 mengatur tentang ancaman pidana penjara bagi siapa saja yang memberitahukan atau mengadukan bahwa telah dilakukan suatu perbuatan pidana padahal mengetahui bahwa itu tidak dilakukan. Ancaman hukumannya adalah satu tahun empat bulan penjara, ditambah Pasal 310 dan 311 KUHP tentang Fitnah dan Pencemaran Nama Baik dengan ancaman empat tahun penjara."
+"Saudari Clarissa Maharani dan Ibu Debora," ucap Ipda Bambang dengan nada suara yang begitu berat, dingin, dan berwibawa, "Pasal 361 dan Pasal 437 Kitab Undang-Undang Hukum Pidana yang baru mengatur tentang ancaman pidana penjara bagi siapa saja yang mengajukan laporan atau pengaduan palsu kepada penegak hukum, ditambah Pasal 433 dan Pasal 434 KUHP tentang pencemaran nama baik dan fitnah."
 
-Ipda Bambang mengetuk mejanya dengan ujung bolpoin dinasnya. "Bukti forensik nomor seri mikro laser GIA-8921-PL dan laporan manifes tera metrologi ini sah seratus persen menggugurkan seluruh laporan penggelapan terhadap Saudari Dita Maheswari. Sekarang pilihan ada di tangan pihak Pelapor: mau menandatangani surat pencabutan laporan dan meminta maaf secara terbuka detik ini juga, atau ruang mediasi ini langsung saya ubah menjadi ruang penahanan untuk menetapkan Saudari Clarissa sebagai Tersangka laporan palsu?!"
+Ipda Bambang mengetuk mejanya dengan ujung bolpoin dinasnya. "Bukti forensik nomor seri mikro laser GIA-8921-PL dan laporan manifes tera metrologi ini sah seratus persen menggugurkan seluruh laporan penggelapan terhadap Saudari Dita Maheswari. Kami akan segera menerbitkan Surat Perintah Penghentian Penyelidikan untuk Saudari Dita. Sebaliknya, laporan balik dari kuasa hukum pihak Terlapor atas dugaan pengaduan palsu dan fitnah memiliki bukti permulaan yang cukup kuat untuk kami naikkan ke tahap penyidikan terhadap Saudari Clarissa dan Ibu Debora. Sekarang pilihan ada di tangan pihak Pelapor: selesaikan perkara ini melalui pencabutan laporan dan pemulihan nama baik secara terbuka detik ini juga, atau perkara pengaduan palsu ini kami proses resmi ke meja kejaksaan!"
 
-Isak tangis histeris seketika meledak dari mulut Clarissa. Perempuan sosialita itu menenggelamkan wajahnya di atas meja mediasi, menangis meraung-raung di bawah tatapan dingin seluruh petugas kepolisian yang menyaksikan hancurnya sebuah kebohongan elit perkotaan.
+Isak tangis histeris seketika meledak dari mulut Clarissa. Perempuan sosialita itu menenggelamkan wajahnya di atas meja mediasi, menangis terisak di bawah tatapan dingin seluruh petugas di ruangan mediasi.
 
 ---
 
@@ -1813,7 +1813,7 @@ Cap merah bertuliskan LUNAS tertera abadi di atas kertas itu.
 
 Aku menatap mata Bagas yang teduh dan merengkuh kedua tangannya dengan senyuman lepas yang telah lama hilang dari wajahku.
 
-Aku menempelkan stempel lunas di lembar tanda terima terakhir itu, menatap mata Bagas yang hangat di bawah pendar senja Jakarta, dan untuk pertama kalinya dalam hidupku, aku tahu pasti bahwa cinta ini tidak akan pernah butuh kurir pengembalian barang.
+Aku menatap mata Bagas yang hangat di bawah pendar senja Jakarta, dan untuk pertama kalinya dalam hidupku, aku tahu pasti bahwa cinta ini tidak akan pernah butuh kurir pengembalian barang.
 
 ---
 

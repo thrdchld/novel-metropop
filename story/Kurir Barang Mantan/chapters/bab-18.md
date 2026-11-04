@@ -14,7 +14,7 @@ Mas Aris mendongak menatap Bagas, lalu matanya melirik cemas ke arah dua satpam 
 
 "Mas Aris, ini menyangkut perkara pidana serius," potongku tegas sambil menempelkan surat somasi dan surat panggilan klarifikasi Polres ke kaca konter. "Saya Dita Maheswari, pemilik Bolu Ketan yang difitnah menggelapkan cincin warisan peninggalan almarhumah ibu Mas Bagas oleh nasabah Mas, Clarissa Maharani."
 
-Bagas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh KUHP tentang penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
+Bagas melangkah maju, suaranya tenang namun menekan secara hukum. "Cincin itu digelapkan secara sepihak, Mas Aris. Kalau pegadaian ini menerima barang sengketa tanpa verifikasi kepemilikan yang sah, gerai ini dan penaksirnya bisa ikut terjerat Pasal empat ratus delapan puluh dua KUHP tentang tindak pidana penadahan. Kami tidak meminta Mas mencuri dokumen rahasia malam ini. Kami cuma butuh Mas memverifikasi apakah benar Clarissa menggadaikan cincin itu di sini sebelum koper diserahkan, agar Mas tidak ikut terseret sebagai saksi terperiksa di Polres."
 
 Mendengar pasal penadahan dan nama Clarissa disebut, raut wajah Mas Aris mendadak berubah tegang. Ada kilatan kejengkelan sekaligus kekhawatiran yang kentara di balik lensa kacamatanya.
 

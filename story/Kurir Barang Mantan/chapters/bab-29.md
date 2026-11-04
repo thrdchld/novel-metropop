@@ -27,20 +27,20 @@ Identifikasi Khusus: Nomor Seri Ukiran Mikro Laser Mikroskopis pada Lingkar Ping
 
 "Cincin warisan almarhumah Ibu saya memiliki ukiran nomor seri mikro laser mikroskopis di lingkar dalam batunya, Dita," jelas Bagas dengan mata berbinar menyala penuh keyakinan. "Ukuran hurufnya mikron, mustahil bisa dilihat mata telanjang tanpa mikroskop permata laboratorium forensik, dan mustahil bisa dipalsukan oleh pengrajin perhiasan mana pun di dunia!"
 
-Bagas menyodorkan lembar dokumen kedua yang baru saja dicetaknya pagi ini dari kantor Ferdi:
-Sebuah salinan cetak database log sistem internal Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089!
+Bagas menyodorkan lembar dokumen kedua yang berstempel basah resmi di atas meja:
+Sebuah salinan cetak resmi log transaksi sistem Gadai Swasta Mulia cabang Senopati atas polis nomor GSM-2026-089 yang telah dilegalisasi!
 
-Di lembar database pegadaian itu, tepat di kolom catatan fisik verifikasi penaksir Mas Aris hari Sabtu kemarin, tertulis dengan tinta cetak komputer yang sangat jelas:
+Di lembar database pegadaian itu, tepat di kolom catatan verifikasi fisik hari Sabtu tanggal 31 Oktober, tertulis dengan tinta cetak komputer yang sangat jelas:
 Deskripsi Fisik Barang Jaminan Nasabah Clarissa Maharani: Cincin emas putih berat 5,8 gram bertatahkan berlian solitaire 1,21 karat dengan ukiran mikro laser nomor seri GIA-8921-PL terverifikasi otentik pada lingkar dalam batu!
 
 Nomor seri fisik pada sertifikat almarhumah ibu Bagas cocok sempurna seratus persen dengan nomor seri barang gadaian Clarissa di sistem database Senopati!
 
-"Mas Aris mempertaruhkan pekerjaannya tadi malam buat ngirim print-out sistem ini ke email Darmawan," lanjut Bagas dengan napas memburu penuh kemenangan. "Bukti fisik ini adalah bukti forensik otentik yang sah menurut Kitab Undang-Undang Hukum Acara Pidana! Nomor seri laser GIA ini membuktikan secara ilmiah tanpa bantahan bahwa cincin yang digadaikan Clarissa hari Sabtu lalu adalah cincin pusaka yang sama persis dengan yang dia tuduh dicuri oleh kurir Bolu Ketan hari Selasa kemarin!"
+"Subuh tadi jam lima, Darmawan melayangkan surat permohonan keterangan perkara berdasar surat panggilan Polres ke kantor pusat pegadaian," jelas Bagas dengan napas lega. "Menyadari gerainya terancam delik penadahan, divisi kepatuhan mereka akhirnya mengesahkan salinan cetak log sistem ini lengkap dengan stempel basah resmi untuk diserahkan ke meja penyidik. Bukti elektronik ini sah menurut Pasal 235 KUHAP dan membuktikan secara ilmiah bahwa cincin yang digadaikan Clarissa adalah cincin pusaka yang sama persis dengan yang dia tuduh dicuri oleh kurir Bolu Ketan!"
 
 Senjata pamungkas forensik kini telah lengkap berada di dalam genggaman tangan kami!
 
 Aku melirik jam tangan digital di pergelangan tanganku: pukul tujuh lewat lima belas menit pagi.
 
-Waktu mediasi penyidikan di meja Ipda Bambang Sutrisno tersisa kurang dari empat jam empat puluh lima menit lagi.
+Waktu mediasi dan gelar perkara di meja Ipda Bambang Sutrisno tersisa kurang dari dua jam empat puluh lima menit menuju pukul sepuluh pagi.
 
 Aku meremas sertifikat GIA itu di dadaku, menatap Bagas dengan senyuman lebar penuh keberanian yang menyala terang. "Mas Bagas, panggil Restu dan Pakde Broto sekarang. Kita kumpulkan pasukan, kita habisi kebohongan Clarissa di meja penyidik Polres Jaksel siang ini!"
