@@ -19,6 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
+| `NOV-002` | `PRM-002` | Sebuah Kisah Nggak Enakan | `AKTIF (OUTLINE TERKUNCI)` | 26 | 0 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | - |
 
 ---
 
@@ -31,6 +32,16 @@
 - **Status:** `DITERIMA / AKTIF` (Selesai 24 Bab, lulus audit kontinuitas 100%)
 - **Tanggal Disetujui:** 2026-10-27
 - **Inti Cerita:** Ayu Anindya, sarjana FEB yang narik ojol untuk membantu usaha kue ibunya di Tebet, terjebak sandiwara pacar kontrak dengan Rian Pratama sampai akhirnya memilih kejujuran di atas uang.
+
+#### PRM-002: Sebuah Kisah Nggak Enakan
+- **Proyek Terkait:** `NOV-002` (Folder: `story/Sebuah Kisah Nggak Enakan/`)
+- **Status:** `DITERIMA / AKTIF`
+- **Tanggal Disetujui:** 2026-11-05
+- **Premis ABCD Simpel:**
+  - *A (Character):* Nadia Putri (26), desainer grafis penerbitan buku yang mengidap penyakit "nggak enakan" kronis dan baru saja diputuskan pacarnya karena dianggap terlalu lembek seperti operator *customer service*.
+  - *B (Routine):* Setiap hari bekerja sambil menelan rasa canggung berpapasan dengan mantannya yang sekantor, sembari terus menjadi tempat limpahan kerjaan teman-temannya karena tidak pernah berani menolak.
+  - *C (Inciting Incident):* Nadia dipindahkan duduk semeja untuk menggarap proyek buku baru bersama Saka Wijaya (28), editor naskah pindahan dari Yogyakarta yang terkenal paling blak-blakan, tega menolak permintaan orang, dan anti basa-basi.
+  - *D (Action):* Bekerja berdua setiap hari dengan Saka yang gemas melihat sifat lembeknya, Nadia mulai belajar berani berkata "tidak" pada orang-orang yang memanfaatkannya, sembari perlahan jatuh hati pada pria kaku yang mengajarinya menghargai diri sendiri itu.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
