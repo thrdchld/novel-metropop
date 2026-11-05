@@ -3,20 +3,20 @@
 > **Potret Kondisi Aktif Cerita**
 
 ## 1. Status Penulisan Saat Ini
-- **Bab Terakhir Selesai:** Bab 24 (Ilustrasi Kursi Kosong)
-- **Bab Berikutnya:** Bab 25 (Pertengkaran Tanpa Suara Tinggi)
-- **Waktu & Lokasi Terkini:** Senin sore pukul 17.05, turun lift menuju Lobi Gedung Penerbit Aksara Senja
+- **Bab Terakhir Selesai:** Bab 32 (Catatan *Post-it* Terakhir) - **TAMAT (32/32 Bab)**
+- **Bab Berikutnya:** Selesai (Tamat)
+- **Waktu & Lokasi Terkini:** Senin sore pukul 17.01 (seminggu pasca peluncuran buku *Sela Waktu*), Meja Proyek Nomor 4, Penerbit Aksara Senja, Cikini
 - **POV Aktif:** Nadia Putri (POV 1 "Aku")
-- **Kondisi Emosi Tokoh:** Goyah, tegang, dan cemas karena Saka baru saja melihat ilustrasi kursi kosong di halaman terakhir buku *Sela Waktu* tepat saat Dimas mengirim pesan sudah menunggu menjemput Nadia di lobi.
+- **Kondisi Emosi Tokoh:** Bahagia, sehat secara emosional, berani berkata "tidak" dengan santai pada hal yang merugikannya, dan berani berkata "iya" pada kebahagiaan yang tulus bersama Saka Wijaya.
 
 ## 2. Status Hubungan Tokoh
-- **Nadia & Saka:** Di Bab 21, jawaban datar Saka bahwa ia harus kembali ke Yogyakarta minggu depan membuat Nadia patah hati dan kembali bicara baku ala *customer service*. Di Bab 24, Saka melihat gambar kursi kosong dan bayangan botol minum hitam buatan Nadia di halaman penutup *dummy* buku dan hampir mengajak Nadia bicara jujur, namun terpotong oleh pesan jemputan dari Dimas.
-- **Nadia & Dimas:** Di Bab 22-23, saat Ibu Nadia kambuh vertigo di Rawamangun, Dimas datang bak pahlawan kesiangan mengantar Ibu ke klinik dan menunggu 3 jam dengan sabar, lalu meminta kesempatan kedua sambil berkaca-kaca. Ditambah bujukan lembut Ibu, hati Nadia goyah dan mulai terhasut bahwa Dimas benar-benar sudah berubah.
+- **Nadia & Saka:** Resmi berpasangan secara tulus; Saka telah pindah permanen ke Kantor Redaksi Jakarta dan mereka kini menggarap proyek buku seri kedua bersama di meja nomor empat serta berangkat makan malam bersama ke rumah Ibu Nadia di Rawamangun.
+- **Nadia & Dimas:** Selesai permanen sejak Bab 28; Dimas mengajukan pindah ke tim pameran luar kota.
+- **Nadia & Ibu:** Hubungan hangat dan jujur; Ibu mendukung penuh keputusan Nadia menolak Dimas dan menantikan kedatangan Saka untuk makan malam di rumah Rawamangun.
+- **Nadia & Rekan Kantor (Tari, Mbak Dinda, Riko):** Nadia tetap bersahabat akrab dengan Tari, serta mampu menolak titipan kerjaan dadakan Mbak Dinda dan menagih utang ayam bakar Rp90 ribu Riko dengan santai dan tegas.
 
-## 3. Detail Kecil / Planting yang Aktif
-- **Sudah Ditanam:**
-  1. Gaya bicara baku ala operator *customer service* saat Nadia gugup/marah + ejekan Dimas (Bab 1, 2, kambuh ke Saka di Bab 21).
-  2. Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar (Bab 1, 4, 20).
-  3. Botol minum hitam Saka yang penyok sedikit di bagian bawah (Bab 2, 3, 4, 8, 9, 12, 18, dan bayangannya digambar di halaman penutup bersama kursi kosong di Bab 21 & 24).
-  4. Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* (Bab 4, 5, 7, 21).
-  5. **Tanaman 1A & 2B (Tell Saka):** Ibu jari Saka memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali setiap kali berbohong untuk menutupi perhatiannya (Bab 5, 7, 17).
+## 3. Detail Kecil / Planting & Callback (Seluruhnya Lunas 100%)
+1. **Payoff Kalimat Customer Service (Bab 1 -> Bab 28):** LUNAS.
+2. **Payoff Ilustrasi Kursi Kosong & Botol Penyok (Bab 2, 18, 21, 24 -> Bab 29, 30):** LUNAS.
+3. **Payoff Silent Callback Dua Klik Tutup Botol Hitam Saka (Bab 5, 7, 17 -> Bab 31):** LUNAS (tanpa penjelasan narator).
+4. **Payoff Bookend *Post-it* Kuning (Bab 4 -> Bab 32):** LUNAS (*"Bilang enggak memang nggak bikin langit runtuh. Tapi kalau yang ngajak makan malam itu Mas Saka, jawaban saya selalu iya."*).

@@ -2,7 +2,7 @@
 
 > Catatan kronologis per bab dan detail *planting/callback*.
 
-## A. Timeline per Bab
+## A. Timeline per Bab (Bab 1 - Bab 32 TAMAT)
 
 | Bab | Waktu & Lokasi | Tokoh Hadir | Kejadian Inti |
 |---|---|---|---|
@@ -30,13 +30,21 @@
 | 22 | Sabtu pagi-siang (pukul 09.30-13.00), Rumah Orang Tua Nadia & Klinik Rawamangun | Nadia, Ibu, Dimas | Saat vertigo Ibu kambuh, Dimas datang membawa bubur dan buah, lalu dengan sangat sabar mengantar Ibu ke klinik menggunakan mobil ayahnya, mengurus antrean obat berjam-jam, dan memijit bahu Ibu tanpa mengeluh sedikit pun. |
 | 23 | Sabtu sore-malam, Teras & Kamar Rumah Rawamangun | Nadia, Dimas, Ibu | Dimas meminta kesempatan kedua sambil berkaca-kaca di teras dan Ibu membujuk Nadia dengan lembut di kamar agar tidak menyia-nyiakan pria yang sudah kenal keluarga mereka dua tahun; hati Nadia yang sedang patah karena Saka pun goyah dan mengizinkan Dimas menjemputnya hari Senin. |
 | 24 | Senin sore (pukul 16.00-17.00), Meja Proyek Nomor 4 | Nadia, Saka | Saat memeriksa cetakan percobaan (*dummy*) buku *Sela Waktu*, Saka tertegun melihat ilustrasi dua meja kerja dengan satu kursi kosong dan bayangan botol minum hitam buatan Nadia di halaman penutup; saat Saka hendak bertanya, pesan jemputan Dimas masuk ke ponsel Nadia. |
+| 25 | Senin sore (pukul 17.10), Lobi Gedung Penerbit Aksara Senja | Nadia, Saka, Dimas | Di dekat pilar lobi, Saka menanyakan soal Dimas yang menunggu Nadia; saat Nadia berkata dengan suara bergetar bahwa Dimas sudah berubah dan merawat ibunya, Saka berkata dingin bahwa itu "pilihan paling masuk akal", membuat Nadia kalut dan mengiyakan ajakan makan malam balikan bersama Dimas. |
+| 26 | Selasa siang, Meja Proyek Nomor 4 | Nadia, Saka, Dimas, Tari | Suasana meja nomor empat membeku total sementara Dimas bolak-balik datang memamerkan jadwal makan malam mereka; Tari memperingatkan Nadia agar tidak kembali jadi *customer service*, namun Nadia yang gengsi mencopot *post-it* kuning dari monitornya dan menyimpannya ke buku sketsa. |
+| 27 | Selasa malam (pukul 19.30), Rumah Makan Sederhana Rasa, Rawamangun | Nadia, Ibu, Dimas | Saat Nadia hampir mengangguk menerima Dimas kembali, topeng manis Dimas terlepas karena merasa sudah menang: ia menertawakan sifat nggak enakan Nadia di depan pelayan dan menyuruh Nadia membatalkan kehadirannya di panggung peluncuran buku *Sela Waktu* hari Jumat demi menemaninya ke acara bos pemasaran. |
+| 28 | Selasa malam (pukul 20.00), Rumah Makan Sederhana Rasa, Rawamangun | Nadia, Ibu, Dimas | **Payoff Diri:** Tersadar sepenuhnya bahwa Dimas tidak pernah berubah, Nadia menceritakan alasan putus sebenarnya di depan Ibu, lalu menolak Dimas secara permanen dengan kalimat operator *customer service* paling telak dan melangkah keluar bersama ibunya dengan kepala tegak. |
+| 29 | Rabu pagi (pukul 08.15), Meja Proyek Nomor 4 | Nadia, Riko, Tari | Nadia datang pagi-pagi membawa kopi hitam untuk meminta maaf pada Saka, namun meja Saka sudah kosong karena Saka berangkat ke Jogja Selasa sore; Nadia menangis menemukan catatan pensil merah terakhir Saka di bawah ilustrasi kursi kosong pada *dummy* buku. |
+| 30 | Jumat sore (pukul 16.15), Aula Toko Buku Cikini | Nadia, Ibu, Tari, Pak Ramdan, Saka | Di panggung peluncuran buku *Sela Waktu*, Nadia menceritakan dengan jujur sosok rekan semeja yang mengajarinya berkata "tidak" sekaligus meminta maaf karena sempat goyah; di akhir kalimatnya, ia melihat Saka berdiri di dekat rak buku paling belakang memegang botol minum hitam penyok. |
+| 31 | Jumat sore (pukul 17.30), Teras Samping Toko Buku Cikini | Nadia, Saka | **Klimaks & Payoff Utama:** Nadia meminta maaf dengan tulus tanpa kalimat baku; Saka melunak dan menunjukkan Surat Keputusan Mutasi Tetap ke Jakarta yang sudah ia ajukan sejak tiga minggu lalu, lalu mengelak pindah demi Nadia dengan alasan cocok soto ayam depan kantor sambil memutar tutup botol hitamnya *klik* dua kali (*Silent Callback*). |
+| 32 | Senin sore (pukul 17.01, seminggu kemudian), Meja Proyek Nomor 4 | Nadia, Saka, Mbak Dinda, Riko, Tari | Nadia menolak titipan kerjaan Mbak Dinda dan Riko serta menagih utang ayam bakar Rp90 ribu dengan santai; tepat pukul 17.01 Saka menutup laptop untuk ikut makan malam di rumah Ibu Nadia di Rawamangun, dan Nadia menempelkan *post-it* kuning balasan di laptop Saka. |
 
 ## B. Daftar Detail Kecil / Planting & Callback
 
 | Detail / Kebiasaan / Benda | Ditanam di Bab | Dibayar di Bab | Status |
 |---|---|---|---|
-| Gaya bicara baku ala operator *customer service* saat Nadia menahan marah + ejekan Dimas | Bab 1, 2, 21 | Bab 28 | **Ditanam (Bab 1, 2, 21)** |
-| Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar saat kesal/cemas | Bab 1, 4 | Bab 20 | **Dibayar (Bab 20)** |
-| Botol minum hitam Saka yang penyok sedikit di bagian bawah + ilustrasi kursi kosong | Bab 2, 18, 21, 24 | Bab 29, 30 | **Ditanam & Diperkuat (Bab 24)** |
-| Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* | Bab 4 | Bab 5, 7, 26, 32 | **Ditanam (Bab 4)** |
-| Tell Saka: memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali saat berbohong menutupi perhatiannya | Bab 5, 7, 17 | Bab 31 (*Silent Callback*) | **Terkunci di Midpoint (Bab 17)** |
+| Gaya bicara baku ala operator *customer service* saat Nadia menahan marah + ejekan Dimas | Bab 1, 2, 21 | Bab 28 | **LUNAS (Bab 28)** |
+| Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar saat kesal/cemas | Bab 1, 4 | Bab 20 | **LUNAS (Bab 20)** |
+| Botol minum hitam Saka yang penyok sedikit di bagian bawah + ilustrasi kursi kosong | Bab 2, 18, 21, 24 | Bab 29, 30 | **LUNAS (Bab 29-30)** |
+| Tell Saka: memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali saat berbohong menutupi perhatiannya | Bab 5, 7, 17 | Bab 31 (*Silent Callback*) | **LUNAS (Bab 31)** |
+| Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* | Bab 4, 26, 27 | Bab 32 | **LUNAS (Bab 32)** |
