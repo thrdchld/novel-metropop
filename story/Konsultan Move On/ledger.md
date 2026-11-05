@@ -6,7 +6,7 @@
 
 | Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
 |---|---|---|---|---|
-| Bab 1 | Hari 1 (Senin, 6 Nov 2026), 07.30-07.50 WIB | Warung Soto Pak Kumis dekat Stasiun Tebet -> Ojol ke Kuningan | Dita (POV), Siska/Klien Melati (via chat), Klien Mawar (via chat) | **BARU:** Dita menyelesaikan konsultasi darurat Klien Melati dengan resep 3 kata ("maaf, ini siapa?"), mencatat buku jurnal hitam **Bolu Ketan** beserta kalimat sandi Langkah ke-5 ("Jangan menanam kaktus di halaman orang kalau tidak siap tertusuk durinya sendiri"), dan menerima kabar dari Klien Mawar bahwa Skenario Balik Meja sukses membubarkan pertunangannya dengan seorang analis di Kuningan serta menuntut ganti rugi Rp45 juta. |
+| Bab 1 | Hari 1 (Senin, 6 Nov 2026), 07.30-07.50 WIB | Warung Soto Pak Kumis dekat Stasiun Tebet -> Ojol ke Kuningan | Dita (POV), Siska/Klien Melati (via chat), Klien Mawar (via chat), Pak Kumis | **BARU:** Dita menyelesaikan konsultasi darurat Klien Melati dengan resep 3 kata ("maaf, ini siapa?"), mencatat buku jurnal hitam **Bolu Ketan** beserta kalimat sandi Langkah ke-5 ("Jangan menanam kaktus di halaman orang kalau tidak siap tertusuk durinya sendiri"), dan menerima kabar dari Klien Mawar bahwa Skenario Balik Meja sukses membalikkan tuduhan tunangannya di depan ayahnya hingga pertunangan dibatalkan malam itu juga dan sang analis di Kuningan dituntut ganti rugi Rp45 juta. |
 
 ## A2. Timeline Masa Lalu
 
