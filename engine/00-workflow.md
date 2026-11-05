@@ -49,9 +49,9 @@
 ### Mode A: Ide, Premis, & Brainstorming Konflik
 1. Baca `story/universe-registry.md`, `01-genre.md`, dan `02-premise.md`.
 2. Patuhi **Aturan Anti-Penawaran Ulang & Anti-Duplikasi** (dilarang menawarkan ide yang sudah ditolak, menduplikasi nama/watak/profesi tokoh lama, atau memakai trope di Daftar Hitam Trope).
-3. Jika pengguna membawa ide mentah atau ingin mencari konflik yang masuk akal, jalankan **Protokol Brainstorming 7 Langkah** di `02-premise.md` Bagian 7 (ABCD -> Tujuan 1 Kalimat -> 3 Kandidat Konflik -> Uji Kenyataan, 7 Cara Menutup Jalan Mudah, & Uji *Spider-Man* -> Planting 2x & Akhir Tidak Sempurna -> Tandai `"perlu dicek"` -> Pilih 1 Kandidat Terkuat beserta alasan 1 kalimat).
+3. **Wajib Jalankan Filter Anti-Yes-Man (Debat Ide Sejak Akar):** Jika pengguna mengajukan ide mentah atau premis yang dari akarnya sudah sulit diterima akal sehat manusia (misal jenis usahanya tidak dibutuhkan di dunia nyata atau mudah digantikan aplikasi umum), **AI dilarang asal setuju ("yes-man")**. AI wajib mendebat dan membedah kelemahan ide tersebut dari segala arah, lalu merekomendasikan perombakan konsep dasar sebelum menyusun **Rumus ABCD** dan **Protokol Brainstorming 7 Langkah** di `02-premise.md`.
 4. Jika pengguna meminta 3 opsi premis baru dari nol, gunakan template `engine/templates/premise-options.md`.
-5. Catat keputusan pengguna ke `story/universe-registry.md` (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, atau `DITOLAK / JANGAN DITAWARKAN LAGI`).
+5. Catat keputusan ke `story/universe-registry.md` (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, atau `DITOLAK / JANGAN DITAWARKAN LAGI`).
 
 ### Mode B: Project Baru (Canon -> Outline -> Stress Test -> Lock -> Bab 1)
 1. Tanyakan maksimal 3 hal yang belum jelas (Default: 30–40 bab, ±750 kata/bab, tone hangat/sarkas/membumi ala `acuan-bahasa.docx`, akhir tidak sempurna dengan harga nyata, target 13+).

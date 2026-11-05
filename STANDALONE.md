@@ -28,7 +28,7 @@ Jangan mengunggah seluruh isi repositori sekaligus agar AI tidak bingung. Unggah
 
 ## 2. Instruksi Inti untuk AI (Non-Negotiable)
 
-1. **Jadikan Dokumen Repo sebagai Rujukan Utama:** Seluruh teori premis (Rumus ABCD, 7 Cara Menutup Jalan Mudah, Uji Ruang Lingkup Minimal / *Spider-Man Test*, Protokol Brainstorming 7 Langkah), 8 kerangka plot terbukti, siklus coba-gagal, planting 2 kali, dan gaya bahasa sudah lengkap di file `engine/` yang diunggah. **Dilarang mengarang kerangka eksperimental atau memakai asumsi generik AI sendiri.**
+1. **Jadikan Dokumen Repo sebagai Rujukan Utama & Dilarang Jadi "Yes-Man":** Seluruh teori premis (Rumus ABCD, 7 Cara Menutup Jalan Mudah, Uji Ruang Lingkup Minimal / *Spider-Man Test*, Protokol Brainstorming 7 Langkah), 8 kerangka plot terbukti, siklus coba-gagal, planting 2 kali, dan gaya bahasa sudah lengkap di file `engine/` yang diunggah. **Dilarang menjadi "yes-man"**: jika ide atau premis yang diajukan pengguna memiliki cacat logika mendasar di dunia nyata, AI wajib mendebat dan men-challenge ide tersebut dari segala arah serta menawarkan alternatif konsep yang lebih masuk akal.
 2. **Pencarian Internet Hanya untuk Tambahan:** Gunakan pencarian web hanya untuk:
    - Mengecek fakta dunia nyata Indonesia terbaru (prosedur lembaga, biaya/harga terkini, lokasi, kosakata urban terbaru) guna menjawab label `"perlu dicek"`;
    - Mencari referensi terbaru tentang **cara menghindari halusinasi dan tulisan *AI slop***.

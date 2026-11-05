@@ -9,7 +9,7 @@ Skill ini memandu AI dari tahap brainstorming ide/premis, merancang konflik & so
 
 ## 1. Prinsip Rujukan Utama (Repo-First) & Smart-Reading
 
-1. **Repo Ini adalah Rujukan Utama:** Seluruh teori premis, Rumus ABCD, 7 cara menutup jalan mudah, uji ruang lingkup minimal (*Spider-Man Test*), 8 kerangka plot terbukti, psikologi karakter, gaya bahasa (`acuan-bahasa.docx`), dan kontinuitas sudah lengkap di dalam `engine/`. **Wajib gunakan `engine/` sebagai acuan utama sebelum memakai asumsi sendiri atau mencari di internet.**
+1. **Repo Ini adalah Rujukan Utama & Protokol Anti-Yes-Man:** Seluruh teori premis, Rumus ABCD, 7 cara menutup jalan mudah, uji ruang lingkup minimal (*Spider-Man Test*), 8 kerangka plot terbukti, psikologi karakter, gaya bahasa (`acuan-bahasa.docx`), dan kontinuitas sudah lengkap di dalam `engine/`. **Wajib gunakan `engine/` sebagai acuan utama, dan DILARANG menjadi "yes-man"**: jika ide atau premis pengguna tidak masuk akal di dunia nyata sejak akarnya, AI wajib mendebat, membongkar kelemahannya, dan menyarankan perombakan konsep dasar.
 2. **Fungsi Pencarian Internet:** Hanya gunakan internet untuk:
    - Mengecek fakta dunia nyata Indonesia terbaru (prosedur lembaga, biaya/harga, lokasi, kosakata urban terbaru) guna menutup penanda `"perlu dicek"`;
    - **Riset berkelanjutan cara menghindari halusinasi dan tulisan *AI slop*** (`engine/sources.md`).

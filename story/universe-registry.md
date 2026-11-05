@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Kurir Barang Mantan | `DIRANCANG ULANG (TAHAP A/B)` | 0 | 0 | Jakarta (Tebet, Kuningan, Bekasi/Bintaro) | 2026 | - |
+| `NOV-002` | `PRM-002` | (Sedang Brainstorming: Jasa Konsultasi Move On / Bolu Ketan) | `BRAINSTORMING (TAHAP A)` | 0 | 0 | Jakarta | 2026 | - |
 
 ---
 
@@ -66,12 +66,18 @@
 ### C. Premis Ditolak (`DITOLAK / JANGAN DITAWARKAN LAGI`)
 > **ATURAN MUTLAK SISTEM:** Semua premis di bagian ini beserta trope spesifik yang ditolak DILARANG KERAS ditawarkan kembali kepada user dalam sesi brainstorming mana pun!
 
-*(Belum ada premis yang ditolak. Setiap opsi yang ditolak user pada Mode A wajib dicatat di sini lengkap dengan kutipan kritik user dan isolasi trope terlarang).*
+#### PRM-REJECT-001: Kurir Barang Mantan (Jasa Fisik Pengantar/Penjemput Barang Mantan)
+- **Tanggal Ditolak:** 2026-11-05
+- **Alasan Penolakan & Cacat Logika Akar:**
+  1. **Tidak Ada Kebutuhan Nyata (Kalah dengan GoSend/Ekspedisi):** Jika seseorang hanya ingin mengantar barang ke mantan dan mantannya mau menerima, orang tinggal memakai Gojek/GoSend seharga Rp15.000.
+  2. **Kurir Tidak Punya Hak/Wewenang:** Jika ingin menjemput barang dari mantan dan mantannya menolak memberikan, kurir swasta tidak punya hak atau wewenang hukum/sosial apa pun untuk memaksa mantan menyerahkan barangnya.
+  3. **Melahirkan Plot yang Dipaksakan:** Karena konsep dasar jasanya tidak masuk akal di dunia nyata, segala usaha memperpanjang konflik ke 30 bab terasa dipaksakan dan membuat pembaca berkata *"ngapain juga harus gitu?"*.
 
 ### D. Daftar Hitam Trope & Anti-Pattern User
-1. **Urusan Hukum Rumit, Polisi Kriminal Berat, & Uang Miliaran:** Hindari skandal konglomerasi miliaran rupiah atau penyelidikan pidana berat yang membuat pembaca urban merasa lelah (*burnout*). Fokus pada masalah manusiawi berskala keseharian Indonesia.
-2. **Karakter Bodoh Demi Plot (*Idiot Plot*):** Dilarang menutup jalan mudah dengan membuat tokoh bertindak ceroboh tanpa alasan rasional. Jalan mudah harus tertutup karena asimetri informasi, etika/kontrak, atau konsekuensi sosial nyata.
-3. **Penyelamat Ajaib (*Deus Ex Machina*):** Dilarang menyelesaikan krisis melalui kebetulan yang menyelamatkan tokoh tanpa usaha dan pengorbanan aktif sang tokoh.
+1. **Profesi/Jasa Fiktif yang Tidak Punya Alasan Nyata untuk Dibayar Orang:** Dilarang membuat premis tentang usaha/jasa yang di dunia nyata sudah selesai dengan Gojek/layanan umum atau yang pelakunya tidak punya hak/wewenang bertindak ketika pihak lawan menolak.
+2. **Urusan Hukum Rumit, Polisi Kriminal Berat, & Uang Miliaran:** Hindari skandal konglomerasi miliaran rupiah atau penyelidikan pidana berat yang membuat pembaca urban merasa lelah (*burnout*). Fokus pada masalah manusiawi berskala keseharian Indonesia.
+3. **Karakter Bodoh Demi Plot (*Idiot Plot*):** Dilarang menutup jalan mudah dengan membuat tokoh bertindak ceroboh tanpa alasan rasional. Jalan mudah harus tertutup karena asimetri informasi, etika/kontrak, atau konsekuensi sosial nyata.
+4. **Penyelamat Ajaib (*Deus Ex Machina*):** Dilarang menyelesaikan krisis melalui kebetulan yang menyelamatkan tokoh tanpa usaha dan pengorbanan aktif sang tokoh.
 
 ---
 

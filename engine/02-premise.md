@@ -14,11 +14,14 @@ Dokumen ini dipakai AI untuk empat tugas:
 3. **Mencari premis baru:** Dari kerangka dan bahan kehidupan sehari-hari, tanpa mengarang kerangka eksperimental.
 4. **Membrainstorm konflik dan solusi dari ide pengguna:** Wajib mengikuti bagian **Brainstorming Konflik dan Solusi dari Ide Pengguna (Standar Keterwajaran)**, bersama bagian **Menutup Jalan Mudah** dan **Konflik yang Dipaksakan**. Tujuannya cerita yang solid dan cukup masuk akal sebagai fiksi, bukan cerita yang sempurna. Konflik dan solusi tidak boleh bergantung pada perilaku yang tidak dilakukan orang di dunia nyata.
 
-### Aturan Kerja Mutlak:
+### Aturan Kerja Mutlak & Protokol Anti-Yes-Man (Wajib Debat Ide Sejak Akar):
+- **DILARANG MENJADI "YES-MAN":** Jika ide mentah, profesi tokoh, atau konsep dasar yang diajukan pengguna (maupun AI sendiri) **tidak masuk akal di dunia nyata**—misalnya jenis jasanya tidak punya alasan logis untuk dibayar orang karena bisa digantikan Gojek/layanan umum, atau tokohnya tidak punya hak/wewenang nyata untuk bertindak—AI **WAJIB mendebat dan menolak konsep tersebut sejak awal**. Jangan memaksa menambal premis yang cacat dari akarnya dengan alasan yang makin mengada-ada.
+- **Uji "Kenapa Bisnis/Peran Ini Ada di Dunia Nyata?" (Pra-ABCD):** Sebelum masuk ke ABCD, tanyakan:
+  1. *Apakah orang waras di dunia nyata benar-benar butuh dan mau mengeluarkan uang untuk hal ini, atau tinggal pakai cara biasa (seperti GoSend/chat sendiri)?*
+  2. *Apakah tokoh utama punya hak, keahlian, atau wewenang nyata untuk melakukan pekerjaannya, atau ia langsung mentok kalau pihak lawan bilang "nggak mau"?*
+  Jika gagal salah satu, AI wajib menyarankan **perombakan konsep dasar** (mengubah jenis jasa/peran/masalah inti) sampai fondasinya benar-benar masuk akal.
 - **Hanya pakai 8 kerangka plot terbukti** yang ada di `03-structure.md`. Jangan membuat kerangka eksperimental. Satu pola induk boleh digabung dengan satu pola pendukung.
-- **Keputusan pengguna tidak diubah.** AI hanya melengkapi slot kosong dan memperbaiki logika.
-- **Jangan menanyakan konfirmasi saat brainstorming konflik.** Ambil keputusan paling logis dan tulis alasannya satu kalimat.
-- **Kalau premis gagal uji, perbaiki premisnya dulu.** Jangan memaksa kerangka menutupi premis yang lemah.
+- **Kalau premis gagal uji, rombak premis dasarnya dulu.** Jangan memaksa kerangka menutupi premis yang lemah.
 - **Pilih masalah yang dekat dengan masyarakat kelas menengah Indonesia dan mudah dijelaskan.** Hindari urusan hukum berbelit, polisi, CEO/miliarder palsu, dan uang ratusan juta/miliaran yang membuat pembaca *burnout*.
 
 ---
@@ -243,15 +246,16 @@ Bagian ini adalah aturan wajib untuk AI saat membrainstorm konflik dan solusi da
 - **Pakai detail hidup sehari-hari yang spesifik:** jam kerja, ongkos, cara orang saling mengabari, siapa yang ikut campur.
 - **Jangan mengarang fakta dunia nyata.** Hukum, prosedur lembaga, medis, harga, dan aturan perusahaan hanya ditulis dalam garis besar. Bila AI tidak yakin, tulis **`perlu dicek: ...`** dan pilih konflik yang tidak bergantung pada detail teknis itu. Cara terbaik adalah memilih konflik yang tidak membutuhkan keahlian khusus.
 
-### Protokol Brainstorming 7 Langkah untuk AI
-Saat user meminta brainstorming konflik dan solusi, AI **wajib** menjalankan 7 langkah ini secara berurutan:
-1. **Jelaskan ide penulis dengan ABCD.** Jangan mengubah keputusan penulis, hanya melengkapi slot kosong.
+### Protokol Brainstorming 7 Langkah untuk AI (Dengan Filter Anti-Yes-Man)
+Saat user meminta brainstorming ide, premis, konflik, atau solusi, AI **wajib** menjalankan langkah ini:
+0. **Langkah 0 (Filter Anti-Yes-Man & Debat Konsep Dasar):** Uji dulu ide penulis dari segala arah. Apakah premis dasarnya (pekerjaan tokoh, alasan konflik, hak bertindak tokoh) benar-benar masuk akal dilakukan manusia di dunia nyata? Jika dari akarnya sudah memaksa atau membuat pembaca berkata *"ngapain harus gitu?"*, **debat ide penulis secara jujur**, tunjukkan di mana cacat dasarnya, dan tawarkan perubahan konsep dasar yang lebih kuat sebelum lanjut ke ABCD.
+1. **Jelaskan ide yang sudah lolos uji dasar dengan ABCD** (satu kalimat per huruf, mengacu pada pola cerita populer yang sudah terbukti).
 2. **Tulis tujuan satu kalimat:** konflik seperti apa yang dicari (sesuai lima slot Uji Kelayakan Premis) dan solusi seperti apa.
 3. **Buat tiga kandidat konflik.** Tiap kandidat memuat: pemicu (C), alasan tokoh nyata bereaksi begitu, tiga jalan mudah beserta penutupnya, akibat nyata bila gagal, dan peran orang di sekitar tokoh.
 4. **Jalankan Uji Kenyataan, Menutup Jalan Mudah, dan Konflik yang Dipaksakan.** Buang kandidat yang gagal dan tulis alasannya satu kalimat.
 5. **Untuk solusi, tulis:** dua benih planting (satu sepele, satu seperti hiasan), di bab mana ditanam, dan akhir yang tidak sempurna beserta harganya.
 6. **Tandai ketidakpastian** dengan `"perlu dicek"` pada fakta dunia nyata. Jangan menyatakan fakta tanpa dasar.
-7. **Sodorkan dua sampai tiga kandidat terbaik,** pilih satu yang terkuat sendiri, dan jelaskan alasannya satu kalimat. Jangan menanyakan konfirmasi.
+7. **Sodorkan dua sampai tiga kandidat terbaik,** pilih satu yang terkuat sendiri, dan jelaskan alasannya satu kalimat.
 
 ---
 
