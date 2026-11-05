@@ -1,114 +1,48 @@
-# 10 — Evolusi Engine
+# 10 — Evolusi Engine & Pembaruan Anti-AI Slop
 
-Engine ini hidup. Agent boleh memperbaikinya, tetapi dengan aturan agar tidak menjadi
-campur aduk.
+> **File Pemilik Tunggal:** File ini mengatur **Cara Memperbarui Aturan di `engine/`, Aturan Satu Pemilik per Topik (Zero Duplication), dan Pemeliharaan Arsip `learnings/`**.
 
-## Kapan Mengubah Engine
+---
 
-Ubah hanya jika salah satu terjadi:
+## 1. Aturan Satu Pemilik per Topik (Anti-Tumpang Tindih)
 
-1. User memberi kritik yang sama **dua kali**.
-2. User menyetujui teori/gaya baru.
-3. Ada sumber baru (PDF/buku/artikel) yang mengubah cara menulis.
-4. Ada bug instruksi yang membuat agent salah langkah.
-5. Ada aturan yang terbukti tidak mungkin dipatuhi.
+Agar AI tidak bingung oleh aturan yang tumpang tindih atau saling bertentangan, setiap aturan hanya boleh hidup di **satu file pemilik**:
 
-Jangan mengubah engine hanya karena satu adegan terasa sulit.
-
-## Di Mana Menulis
-
-| Perubahan | File |
+| Topik Aturan | File Pemilik Tunggal |
 |---|---|
-| Kritik gaya berulang | `learnings/editor-feedback.md` + `05-style.md` |
-| Aturan struktur | `03-structure.md` |
-| Aturan karakter | `04-character.md` |
-| Aturan bab | `06-chapter.md` |
-| Aturan kontinuitas | `07-continuity.md` |
-| Rubrik/kualitas | `08-quality.md` |
-| Alur kerja | `00-workflow.md` |
-| Sumber/riset | `sources.md` |
-| Ringkasan perubahan | `learnings/changelog.md` |
+| Alur sesi (Tahap A-G), Smart-Reading, & Definition of Done | `engine/00-workflow.md` |
+| Genre MetroPop, skala masalah kelas menengah, & batasan 13+ | `engine/01-genre.md` |
+| Premis, Rumus ABCD, 7 Cara Menutup Jalan Mudah, Uji *Spider-Man*, & Brainstorming 7 Langkah | `engine/02-premise.md` |
+| 8 Kerangka Plot Terbukti, Siklus Coba-Gagal, Planting 2x, 16 Studi Kasus, & 18 Kolom Outline | `engine/03-structure.md` |
+| Karakter, Psikologi, Disorder, Scene Stealer, & Matriks Sapaan | `engine/04-character.md` |
+| Gaya Bahasa (Acuan *Resign!*), Anti-AI Slop Kalimat, & Teks Polos | `engine/05-style.md` |
+| Kerajinan Bab (600-900 kata), Mesin Mikro Adegan, & 2 Tipe In Medias Res | `engine/06-chapter.md` |
+| Kontinuitas (`canon.md`, `state.md`, `ledger.md`), Pre-Flight Gate, & Cameo | `engine/07-continuity.md` |
+| Rubrik 8 Kriteria, 10 Uji Logika, 10 Tanda Bahaya, & 9 Uji Logika Mikro | `engine/08-quality.md` |
+| Revisi 4 Lapis, Audit 5 Tahap, & Remediasi Beruntun R1-R5 | `engine/09-revision.md` |
+| World Building & Aturan Dunia Nyata Indonesia | `engine/11-worldbuilding.md` |
+| Hierarki Rujukan (Repo-First) & Riset Internet Anti-AI Slop | `engine/sources.md` |
 
-## Format Catatan Feedback
+**Larangan Duplikasi:** Jangan menyalin panjang lebar aturan dari satu file ke file lain. Cukup tulis aturan lengkap di file pemiliknya, dan file lain hanya menaut ke sana.
 
-```markdown
-| Tanggal | Feedback | Aturan baru | File |
-|---|---|---|---|
-| 2026-10-21 | “Terlalu banyak analogi aneh” | Hindari perumpamaan yang tidak langsung masuk akal; pakai detail konkret. | 05-style.md |
-```
+---
 
-Aturan harus:
+## 2. Kapan dan Bagaimana Mengubah Engine
 
-- spesifik;
-- bisa dicek;
-- tidak bertentangan dengan panduan sumber;
-- disertai contoh sebelum/sesudah jika perlu.
+Ubah file di `engine/` hanya jika:
+1. Pengguna memberi koreksi atau preferensi baru yang berlaku lintas cerita.
+2. Ditemukan celah logika atau halusinasi AI yang perlu ditutup dengan aturan baru.
+3. Ada hasil riset baru (dari buku/dokumen pengguna atau riset internet tentang **cara menghindari halusinasi dan tulisan AI slop**) yang perlu diintegrasikan ke `05-style.md`, `08-quality.md`, atau `scripts/analyze-prose.py`.
 
-## Format Changelog
+### Langkah Pembaruan:
+1. Langsung perbarui **file pemilik tunggal** di tabel atas (pastikan tidak ada kontradiksi dengan bagian lain di file yang sama).
+2. Jika aturan baru bisa diperiksa secara otomatis (misal frasa *AI slop* baru), tambahkan ke `scripts/analyze-prose.py` atau `scripts/audit-continuity.py`.
+3. Catat ringkasan perubahan (1-3 baris saja) di `engine/learnings/editor-feedback.md` dan `engine/learnings/changelog.md`.
 
-```markdown
-## v1.1 — 2026-10-21
-- **Perubahan:** ...
-- **Alasan:** ...
-- **File:** ...
-- **Dampak:** bab baru / semua bab / hanya project tertentu.
-```
+---
 
-## Prinsip Perubahan
+## 3. Status Arsip `engine/learnings/` (Jangan Dibaca Saat Sesi Kerja Normal)
 
-- **Kecil.** Satu perubahan untuk satu masalah.
-- **Bisa dipakai ulang.** Bukan aturan khusus satu adegan.
-- **Jangan memaksa alat.** Jangan menambah aturan yang mewajibkan subplot, flashback,
-  atau scene ikonik. Prinsip Pas: boleh nol jika cerita sudah padat.
-- **Ide tambahan sebelum lock** masuk `templates/idea-list.md`; setelah lock hanya lewat
-  Permintaan Perubahan.
-- **Panduan sumber terbaru menang.** Jika panduan baru bertentangan dengan engine,
-  perbaiki engine.
-- **Tidak overfit.** Jangan mengubah aturan global karena satu cerita.
-- **Tidak diam-diam.** Catat dan jelaskan.
-- **Tidak menghapus canon project** tanpa persetujuan user.
-- **Panduan sumber menang.** Jika bertentangan, perbaiki engine, bukan panduan.
-
-## Promosi Aturan
-
-Dari catatan ke aturan:
-
-1. Catat di `learnings/editor-feedback.md`.
-2. Jika berulang/disetujui, pindahkan ke file panduan.
-3. Tambahkan contoh.
-4. Catat di changelog.
-5. Terapkan ke bab baru; bab lama hanya jika relevan.
-
-## Menambah Sumber/Teori Baru
-
-- Baca sumber, ringkas 5–10 poin.
-- Pisahkan: prinsip yang bisa dipakai vs referensi gaya.
-- Jangan menyalin teks berhak cipta.
-- Tambahkan ke `sources.md` dengan tanggal dan tautan.
-- Jika mengubah aturan, update file panduan + changelog.
-- Jika hanya referensi, taruh di `sources.md` atau `examples/`.
-
-## Menghapus Aturan
-
-- Hapus hanya jika terbukti salah/berbahaya.
-- Catat alasan di changelog.
-- Cari semua file yang merujuk aturan itu.
-- Ganti dengan aturan baru, bukan hanya menghapus.
-
-## Review Berkala
-
-Setiap 10 bab atau akhir project:
-
-- baca `learnings/editor-feedback.md`;
-- cek aturan yang sering dilanggar;
-- cek aturan yang tidak pernah dipakai;
-- ringkas changelog;
-- tanyakan user apakah ada preferensi baru.
-
-## Yang Tidak Boleh
-
-- Mengubah `AGENTS.md` agar agent menulis lebih cepat dengan mengorbankan kualitas.
-- Menghapus rubrik/kontinuitas karena “bikin lambat”.
-- Menambah aturan yang tidak bisa dicek.
-- Mengubah canon cerita lama tanpa izin.
-- Menyalin karya berhak cipta ke engine.
+Folder `engine/learnings/` (`editor-feedback.md` dan `changelog.md`) adalah **arsip riwayat historis**.
+- Seluruh aturan aktif dari `learnings/` **sudah dilebur** ke dalam file pemilik `00` sampai `11`.
+- **AI DILARANG membaca `engine/learnings/` pada sesi kerja normal (Mode A, B, C, D)** agar jendela konteks AI tetap bersih dan fokus. File di `learnings/` hanya dibuka saat ingin mencatat log perubahan baru di Mode E.

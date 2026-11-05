@@ -1,7 +1,7 @@
 # 08 — Kualitas, Rubrik, dan Evaluasi Alur Cerita
 
-> **Acuan Utama Evaluasi Alur:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`.
-> Dokumen ini digunakan untuk menilai kualitas per bab (Rubrik 8 Kriteria) sekaligus menilai keutuhan alur cerita/outline secara keseluruhan (10 Uji Logika & 10 Tanda Bahaya).
+> **File Pemilik Tunggal:** File ini memiliki aturan **Rubrik Wajib per Bab (8 Kriteria), 10 Uji Logika Alur Cerita Makro, 9 Uji Logika Mikro & Prosedur Dunia Nyata, 10 Tanda Bahaya (*Red Flags*), Stress Test Outline, dan 4 Teknik Bedah Alur Tengah Cerita**.
+> Untuk prosedur Rumus ABCD, 7 Cara Menutup Jalan Mudah, dan Uji Konflik yang Dipaksakan lihat `02-premise.md`; untuk prosedur Audit 5 Tahap dan Remediasi Beruntun R1-R5 lihat `09-revision.md`.
 
 ## 1. Rubrik Wajib per Bab (8 Kriteria, Skala 1–5)
 
@@ -133,9 +133,20 @@ Alasan mengapa kesalahan logika sering baru disadari saat menulis bab tengah (mi
      - *Hukum Kepolisian & Bank:* Apakah bukti itu sah di mata hukum Indonesia? (Dilarang ada retasan mutasi bank pribadi oleh tim IT kantor).
      - *Hukum Spasial & Jam Sibuk:* Apakah tokoh bisa sampai di lokasi pada jam itu di tengah kemacetan kota?
      - *Hukum Matematika Uang:* Apakah perputaran uang (DP, utang, pelunasan) konsisten matematis?
-3. **Uji Serangan Pilihan Paling Mudah (*Adversarial 'Why Not Do X?' Test*):**
-   - Untuk setiap masalah di tiap bab, tanyakan: *"Kenapa tokoh tidak langsung lapor polisi, kirim chat WA jujur, atau minta tolong teman kantor?"*
-   - Alasan penutupan jalan mudah **wajib berupa fakta fisik, hukum, atau ancaman nyata**, bukan sekadar alasan emosional buatan penulis (*"karena dia malu"* atau *"karena dia takut"* tidak cukup jika taruhannya besar).
+3. **Uji Serangan Pilihan Paling Mudah (*Adversarial 'Why Not Do X?' Test* & 7 Cara Menutup Jalan Mudah):**
+   - Untuk setiap masalah inti, tulis minimal 5 cara termudah yang akan disebut pembaca (menelepon, bicara jujur, bertanya langsung, melapor, meminta maaf, pergi, minta tolong).
+   - Tutup dengan salah satu dari **7 Cara Sah**: (1) Tokoh tidak tahu/tahu sepotong dari sumber terpercaya, (2) Kelemahan watak konsisten yang sudah ditanam di awal, (3) Harga jalan mudah lebih besar daripada masalahnya, (4) Larangan/janji kepada pihak luar yang punya kuasa & akibat, (5) Tenggat dari pihak luar yang membuat cara lambat tidak mungkin, (6) Jalan mudah sudah dicoba dan gagal, (7) Tekanan sosial Indonesia (sungkan, gengsi, menjaga muka, hierarki keluarga/atasan) yang ditambah **akibat nyata** pada pekerjaan, nama baik, restu, atau hubungan.
+   - **Katakan di halaman:** Biarkan tokoh atau temannya menyebut jalan pintas itu di dialog dan ditolak dengan alasan dari 7 cara di atas.
+   - **Uji Ruang Lingkup Minimal (Pola *Spider-Man: No Way Home*):** Pastikan solusi yang dipilih tokoh tidak lebih luas/rumit daripada masalahnya, dan konflik tetap ada walaupun tokoh mengambil keputusan paling masuk akal yang terlihat pembaca.
+   - **Tabel Uji Kenyataan (8 Pertanyaan Standar Keterwajaran):**
+     1. Apakah orang nyata dengan profil tokoh ini akan bereaksi begitu karena alasan watak/keadaan tertulis?
+     2. Adakah cara yang lebih sederhana yang belum ditutup?
+     3. Siapa lagi di sekitar tokoh (keluarga, teman, rekan kerja, tetangga, grup chat) yang tahu dan ikut campur?
+     4. Apa biaya nyatanya (uang, waktu, nama baik) untuk kehidupan kota di Indonesia?
+     5. Apakah lembaga/aturan bekerja seperti yang diketahui orang umum (tanpa mengarang pasal/prosedur atau polisi turun untuk urusan sepele)?
+     6. Apakah solusi bebas dari kebetulan? (Kebetulan hanya boleh 1 kali di awal untuk menjerumuskan tokoh).
+     7. Apakah solusi dijelaskan oleh planting sebelumnya minimal 2 kali?
+     8. Apakah tokoh pendukung punya kepentingan spesifik sendiri?
 4. **Grafik Aliran Pengetahuan & Bukti Sejak Outline (*Pre-Outline Knowledge Graph*):**
    - Petakan dalam satu tabel ringkas sebelum menulis Bab 1: rahasia apa yang ada, siapa yang tahu sejak awal, kapan berpindah tangan, dan siapa yang dilarang tahu sampai titik balik tertentu.
 

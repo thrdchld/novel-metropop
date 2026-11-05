@@ -1,6 +1,6 @@
 # 3 Opsi Premis MetroPop
 
-> Disusun menggunakan **3 Pilar Arsitektur Premis** (`panduan-pengembangan-premis-cerita.md` dan `engine/02-premise.md`) serta **8 Kerangka Plot Terbukti** (`Kerangka Plot yang Terbukti untuk Web Novel.md`).
+> Disusun menggunakan **Arsitektur Premis, Rumus ABCD, 7 Cara Menutup Jalan Mudah, & Protokol Brainstorming 7 Langkah** (`engine/02-premise.md`) serta **8 Kerangka Plot Terbukti** (`engine/03-structure.md`).
 > Sebelum menyusun opsi ini, AI wajib memeriksa `story/universe-registry.md` untuk menghindari trope, profesi, karakter, dan premis yang pernah ditolak atau sudah ada.
 
 ---

@@ -1,23 +1,13 @@
 # Protokol Gemini / Antigravity — Web Novel MetroPop Indonesia
 
-- **Workspace Skill Antigravity:** `.agent/skills/metropop-novel/SKILL.md` (dan `.agents/skills/metropop-novel/SKILL.md`)
-- **Standalone Skill (All-in-One):** [GEMINI_SKILL.md](GEMINI_SKILL.md) untuk Gemini Advanced, Gems, dan Google AI Studio.
-- **Acuan Utama Gaya & Diksi:** `acuan-bahasa.docx` dan `engine/05-style.md`
-- **Acuan Utama Arsitektur & Pengembangan Premis:** `panduan-pengembangan-premis-cerita.md` dan `engine/02-premise.md`
-- **Acuan Utama Kerangka Plot & Evaluasi Alur:** [Kerangka Plot yang Terbukti untuk Web Novel.md](Kerangka%20Plot%20yang%20Terbukti%20untuk%20Web%20Novel.md) (`engine/02-premise.md`, `03-structure.md`, `08-quality.md`)
-- **Acuan Utama World Building & Aturan Dunia:** [engine/11-worldbuilding.md](engine/11-worldbuilding.md)
-- **Acuan Utama Audit & Remediasi Menyeluruh:** [engine/12-audit-remediation.md](engine/12-audit-remediation.md)
+- **Entry Point Utama:** Baca [AGENTS.md](AGENTS.md), [engine/README.md](engine/README.md), dan [engine/00-workflow.md](engine/00-workflow.md).
+- **Workspace Skill Antigravity:** [.agent/skills/metropop-novel/SKILL.md](.agent/skills/metropop-novel/SKILL.md)
+- **Panduan Mandiri Web Chat:** [STANDALONE.md](STANDALONE.md)
+- **Acuan Utama Gaya Bahasa & Tone (*Resign!*):** `acuan-bahasa.docx` dan [engine/05-style.md](engine/05-style.md)
 
-## Aturan Mutlak Menulis (Non-Negotiable)
+## Prinsip Rujukan & Aturan Mutlak
 
-1. **Rentang Kata:** Standar wajib 600–900 kata per bab (target ±750 kata; boleh dilonggarkan hingga maksimal 1.200 kata **hanya jika benar-benar urgent** karena berpotensi memotong kejadian penting). Dilarang mengirim bab di bawah 600 kata.
-2. **Tanpa Em Dash (`—`):** Dilarang keras memakai karakter em dash di narasi maupun dialog di seluruh novel. Gunakan koma, titik, tanda pisah hubung biasa (`-`), atau susun kalimat alami.
-3. **Tanpa Quote Pembuka Bab:** Jangan menaruh kutipan/quote/epigraph di atas bab.
-4. **Bebas dari AI Slop & Diksi Baku Kaku:** Gunakan bahasa tutur dan percakapan alami orang Indonesia (lo-gue, santai, membumi, segar). Dilarang memakai metafora klise atau frasa puitis robotik buatan mesin.
-5. **Format Bab:** Judul `## Bab N: Judul` (2–5 kata), Bab 1 wajib in medias res, diakhiri hook kuat di kalimat terakhir.
-6. **Mekanisme Kontinuitas & Gerbang Pra-Tulis:** Wajib membaca `story/<Judul>/` (`state.md`, `canon.md`, `outline.md`, `ledger.md`) dan menampilkan blok *Pre-Flight Continuity Gate* (5 poin) sebelum menulis bab, menyinkronkan `state.md` + `ledger.md` pasca-tulis, serta menjalankan `python3 scripts/audit-continuity.py`.
-7. **Evolusi Engine:** Jika user memberi kritik atau preferensi baru, AI wajib mencatatnya di `engine/learnings/editor-feedback.md` dan memperbarui file panduan terkait di `engine/`.
-8. **Universe Registry, Anti-Duplikasi, & Protokol Cameo:** Wajib membaca `story/universe-registry.md` sebelum Mode A dan B. Dilarang keras menawarkan kembali premis yang sudah ditolak, menduplikasi kombinasi nama/watak/profesi tokoh lama, atau menggunakan trope dalam *Daftar Hitam Trope*. Integrasikan semesta bersama lewat Protokol Cameo 3 Tingkat (Dialog, Kilas Balik, Fisik tanpa deus ex machina).
-9. **Tanpa Simbol Format Teks (Bold/Italic/Markup) di Naskah Cerita:** Seluruh teks prosa cerita bab di `story/` wajib berupa teks polos (*plain text*) tanpa format tebal (`**teks**`), miring (`*teks*`), coret (`~~teks~~`), maupun backtick. Format pesan chat ditulis polos `Nama: Isi pesan`, email/surat ditulis polos sebagai paragraf biasa, istilah asing/kerja/toko ditulis polos tanpa miring, dan efek suara/monolog batin ditulis polos tanpa tanda bintang.
-
-Untuk panduan lengkap mencakup alur kerja A–G, arketipe karakter, tabel anti-AI slop, dan rubrik kualitas 8 kriteria, baca seluruh isi [GEMINI_SKILL.md](GEMINI_SKILL.md).
+1. **Repo sebagai Rujukan Utama (Repo-First):** Seluruh teori premis (Rumus ABCD, 7 Cara Menutup Jalan Mudah, Uji *Spider-Man*, Brainstorming 7 Langkah di [engine/02-premise.md](engine/02-premise.md)), 8 kerangka plot terbukti ([engine/03-structure.md](engine/03-structure.md)), karakter ([engine/04-character.md](engine/04-character.md)), gaya ([engine/05-style.md](engine/05-style.md)), kontinuitas ([engine/07-continuity.md](engine/07-continuity.md)), kualitas ([engine/08-quality.md](engine/08-quality.md)), dan revisi ([engine/09-revision.md](engine/09-revision.md)) sudah lengkap di repo ini. Jadikan repo ini rujukan utama sebelum mencari di internet.
+2. **Pencarian Internet:** Hanya digunakan untuk mengecek fakta dunia nyata/kosakata terbaru (menutup label `"perlu dicek"`) dan **riset berkelanjutan cara menghindari halusinasi serta tulisan *AI slop*** ([engine/sources.md](engine/sources.md)).
+3. **Smart-Reading:** Jangan membaca seluruh file sekaligus dan **jangan membaca `engine/learnings/`** saat sesi kerja normal. Ikuti tabel *Smart-Reading* di [engine/00-workflow.md](engine/00-workflow.md).
+4. **Standar Menulis Bab:** 600–900 kata per bab (target ±750 kata), **0 em dash (`—`)**, **0 quote pembuka**, **100% teks polos (*plain text*)** tanpa tanda bintang tebal/miring di naskah cerita, wajib menampilkan *Pre-Flight Continuity Gate* 5 poin sebelum menulis bab, menyinkronkan `state.md` + `ledger.md`, dan menjalankan linter di `scripts/`.

@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Kurir Barang Mantan | `TAMAT` | 36 | 26.625 | Jakarta (Sudirman, SCBD, Kuningan, Senopati, Tebet) | 2026 | 2026-11-03 |
+| `NOV-002` | `PRM-002` | Kurir Barang Mantan | `DIRANCANG ULANG (TAHAP A/B)` | 0 | 0 | Jakarta (Tebet, Kuningan, Bekasi/Bintaro) | 2026 | - |
 
 ---
 
@@ -43,19 +43,13 @@
 - **Ringkasan 5 Slot:** Keinginan/Kebutuhan: lunasi utang cepat vs belajar membagi beban; Tenggat: 30 menit pra-resepsi & 3 bulan kontrak; Konsekuensi: sita dapur kue & kawin paksa; Jalan Tertutup: macet 30 menit, dapur harian bergantung pada ojol, tuduhan penipu jika jujur tanpa bukti watak; Harga Akhir: pulihkan warung kue dari teror bintang 1 dan merobek sisa klaim uang kontrak sandiwara.
 
 #### PRM-002: Kurir Barang Mantan
-- **Proyek Terkait:** `NOV-002` (Folder: `story/Kurir Barang Mantan/`)
-- **Status:** `DITERIMA / AKTIF` (Selesai 36 Bab Tamat, Naskah Lengkap & Lulus Audit Kontinuitas 100%)
-- **Tanggal Disetujui:** 2026-11-03
-- **Formula Sintaksis:**
-  - *Basic Logline:* Dita Maheswari, pendiri jasa kurir pengembalian barang mantan pacar tanpa tatap muka, harus melacak keberadaan cincin tunangan berharga ratusan juta yang dituduh dicuri sebelum mantan tunangan sang klien memenjarakannya.
-  - *Character-Driven:* Ketika agensi rintisan pengembalian barang mantannya dituduh menggelapkan perhiasan mewah, seorang wanita independen yang sinis terhadap cinta dipaksa bekerja sama dengan pria patah hati korban fitnah sang mantan, guna membongkar manipulasi dalam tenggat somasi 14 hari.
-  - *3-Kalimat Bell:* Dita Maheswari mengelola agensi unik bernama Bolu Ketan: jasa logistik perkotaan yang bertugas mengantar dan menukar kembali barang-barang kenangan pasca-putus cinta tanpa perlu pertemuan fisik yang canggung. Bisnisnya terancam hancur ketika seorang klien sosialita menuduhnya mencuri cincin pertunangan senilai ratusan juta dari dalam kotak pengembalian barang milik mantan tunangannya, Adrian. Bersama Adrian yang ternyata juga korban penipuan sang sosialita, Dita harus menyusuri jejak transaksi barang tersebut di sekeliling Jakarta sebelum surat somasi kepolisian resmi ditandatangani.
-- **M.I.C.E. Dominan & Kerangka:** Event + Character | Kerangka Utama: **Seven-Point Structure** (Pendamping: **Save the Cat** + **Enemies-to-Allies**)
-- **3 Tingkat Taruhan:**
-  - *Personal Stakes:* Dita dilaporkan ke polisi atas tuduhan penggelapan barang mewah; Adrian divonis bersalah oleh keluarga besarnya karena dianggap ceroboh.
-  - *Public Stakes:* Rintisan usaha agensi Dita ditutup paksa dan diviralkan sebagai sindikat pencuri barang pribadi pelanggan di Jakarta.
-  - *Ultimate Stakes:* Mempertahankan prinsip martabat diri bahwa mengakhiri hubungan masa lalu harus diselesaikan dengan integritas, bukan dengan kebohongan pembalasan dendam.
-- **Ringkasan 5 Slot:** Keinginan/Kebutuhan: bersihkan nama baik agensi secepatnya demi uang ganti rugi vs butuh menyembuhkan luka batin pengkhianatan masa lalunya; Tenggat: surat somasi resmi 14 hari sebelum pelimpahan pidana; Konsekuensi: tuntutan ganti rugi Rp120 juta dan pidana penggelapan barang titipan; Jalan Tertutup: kas agensi kecil baru 6 bulan, rekening Adrian beku untuk penalti gedung nikah, Claudia sewa akun gosip; Harga Akhir: Dita mengganti sebagian biaya koper rusak dari tabungan pribadi dan Adrian memutus hubungan pergaulan manipulatif Claudia untuk mandiri.
+- **Proyek Terkait:** `NOV-002` (Sedang dirancang ulang dari nol dengan Standar Keterwajaran Kelas Menengah & Tone *Resign!*)
+- **Status:** `DITERIMA / AKTIF (DALAM PERANCANGAN ULANG)`
+- **Tanggal Disetujui:** 2026-11-05
+- **Elemen Inti yang Dikunci Penulis:**
+  - Usaha: **Bolu Ketan** (*Bantu Orang Lepas Urusan Ketemu Mantan*) di ruko Tebet milik Pakde Broto (memicu *running gag* dikira toko kue basah arisan & protes singkatan maksa).
+  - Tokoh: **Dita Maheswari** (pendiri Bolu Ketan), **Baskara Danuputra / Ibas** (klien pekerja kelas menengah Jakarta, bukan CEO konglomerat), **Clarissa Maharani** (mantan tunangan Ibas), **Restu** (kurir lapangan).
+  - Catatan Anti-Pattern dari Draf Lama yang Dihapus: Dilarang memakai konflik cincin berlian Rp120 juta, dilarang memakai drama laporan polisi/KUHP untuk urusan barang mantan, dan dilarang memakai pembuktian timbangan forensik yang mengada-ada.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 

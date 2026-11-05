@@ -1,134 +1,55 @@
-# Engine — Otak Agent MetroPop
+# Engine — Otak Panduan Penulisan Novel MetroPop
 
-Folder ini adalah **skill/prompt package** untuk agent penulis. Tidak ada kode yang
-perlu dijalankan. Agent cukup membaca markdown di sini, lalu bekerja lewat percakapan.
+Folder ini adalah **paket panduan utama (Single Source of Truth)** untuk AI agent maupun AI chat dalam merancang ide/premis, menyusun kerangka & outline, menjaga kontinuitas, hingga menulis dan merevisi web novel **MetroPop Indonesia** sampai selesai.
 
-**Acuan gaya bahasa & cara penulisan:** `../acuan-bahasa.docx` (contoh novel dengan
-gaya bahasa, diksi, pilihan kata, dan gaya bercerita yang diinginkan).
-**Acuan arsitektur premis & pengembangan ide:** `../panduan-pengembangan-premis-cerita.md`
-(3 pilar: mencari lewat observasi/SCAMPER/What-If, menilai lewat Uji 5 Slot & M.I.C.E. FILO, mengembangkan lewat 3P Sanderson & formula sintaksis).
-**Acuan kerangka plot, premis, & evaluasi alur:** `../Kerangka Plot yang Terbukti untuk Web Novel.md`
-(8 kerangka plot terbukti, uji kelayakan 5 slot, resep 9 langkah premis baru, siklus coba-gagal, planting solusi 2x, 10 uji logika, dan 10 tanda bahaya).
-Dokumen panduan lama diarsipkan di `../old-documents-unneeded/` sebagai referensi tambahan. Ringkasan
-operasional ada di `00-workflow.md` dan file-file di folder ini.
+---
 
-**Prinsip Pas:** teknik naratif, subplot, flashback, dan scene ikonik adalah alat
-opsional. Boleh nol jika cerita sudah padat. Jangan memaksakan.
+## 1. Prinsip Rujukan Utama (Repo-First Principle)
 
-## Cara Kerja
+1. **Jadikan Repo Ini sebagai Rujukan Utama:** Seluruh teori premis, Rumus ABCD, 7 cara menutup jalan mudah, 8 kerangka plot terbukti, psikologi karakter, gaya bahasa (`../acuan-bahasa.docx`), dan sistem kontinuitas sudah lengkap di folder `engine/` ini. AI **wajib** memakai prosedur di repo ini lebih dulu, bukan mengandalkan asumsi bawaannya sendiri.
+2. **Kapan Mencari di Internet:** Pencarian internet hanya dipakai sebagai **tambahan pendukung** untuk:
+   - Memastikan fakta dunia nyata Indonesia terbaru (prosedur lembaga, harga/biaya terkini, rute lokasi, kosakata urban terbaru) guna menutup penanda `"perlu dicek"`;
+   - **Riset berkelanjutan cara menghindari halusinasi dan tulisan *AI slop*** (mendeteksi pola kalimat/perilaku khas LLM terbaru agar prosa dan logika cerita selalu terasa ditulis manusia).
 
-1. Agent membaca `AGENTS.md` di root repo.
-2. Agent membaca file ini, lalu `00-workflow.md`.
-3. Agent memeriksa `../story/`.
-4. Jika sesi baru, agent membalas ringkasan 5 poin + tahap A–G yang relevan.
-5. Agent bertanya **satu** pertanyaan: mau ide, project baru, lanjut, revisi, atau riset?
-6. Agent mengikuti mode yang dipilih.
-7. Setiap selesai bab, agent memperbarui `ledger.md` dan menilai dengan rubrik.
-8. Jika feedback berulang, agent memperbarui file di `learnings/` dan file panduan.
+---
 
-## Peta File
+## 2. Peta File & Pemilik Tunggal Aturan (Zero Duplication)
 
-| File | Isi |
+Setiap topik aturan hanya memiliki **satu file pemilik tunggal** agar tidak ada tumpang tindih yang membingungkan AI:
+
+| File Pemilik | Isi & Tanggung Jawab Tunggal |
 |---|---|
-| `README.md` | Peta paket dan aturan baca. |
-| `SKILL.md` | Ringkasan skill untuk tool yang mendukung skill. |
-| `00-workflow.md` | Alur sesi, pertanyaan, mode kerja, dan definition of done. |
-| `01-genre.md` | Definisi MetroPop, janji pembaca, tone, batasan konten. |
-| `02-premise.md` | 3 pilar premis (mencari, menilai, mengembangkan), M.I.C.E., 3 tingkat taruhan, 3 formula sintaksis, uji 5 slot, Universe Registry (`story/universe-registry.md`), dan aturan anti-penawaran ulang ide ditolak. |
-| `03-structure.md` | 8 kerangka plot terbukti, pemetaan 8 tahap, siklus coba-gagal, planting 2x, 30–40 bab, kolom outline. |
-| `04-character.md` | Psikologi karakter, luka asal, pola asuh, katalog disorder (NPD/BPD/OCD/ADHD), scene stealer (lovable & hateable), 2 magnet pembaca, koping, character sheet, tells, arc. |
-| `05-style.md` | Gaya bahasa, POV, dialog, format, before/after. |
-| `06-chapter.md` | Struktur bab 600–900 kata, hook, checklist. |
-| `07-continuity.md` | Canon, ledger A–G, timeline, pengetahuan, setup/payoff. |
-| `08-quality.md` | Rubrik 8 kriteria, 10 uji logika alur, 10 tanda bahaya, stress test. |
-| `09-revision.md` | Diagnosis alur cerita, cara menangani feedback, dan revisi lokal. |
-| `10-evolution.md` | Cara memperbarui engine dari feedback/teori baru. |
-| `11-worldbuilding.md` | Latar spasial (negara, kota, zonasi), temporal (tahun, era, uang), aturan hukum, sosial, premis. |
-| `12-audit-remediation.md` | Standar audit 5 tahap berurutan dan alur remediasi beruntun (cascading) anti-regresi. |
-| `templates/` | Template canon, outline, chapter, ledger, character sheet, feedback, idea list. |
-| `examples/` | Contoh premis, outline, adegan, dan perbaikan gaya. |
-| `sources.md` | Aturan riset, PDF, internet, hak cipta, dan pencatatan sumber. |
-| `learnings/` | Kritik editor dan changelog aturan engine. |
+| `00-workflow.md` | Alur kerja tahap A–G, aturan *Smart-Reading* (file mana yang dibaca per mode), *Prinsip Pas*, dan *Definition of Done*. |
+| `01-genre.md` | Definisi MetroPop Indonesia, skala masalah kelas menengah (tanpa hukum rumit/polisi/miliarder), 5 jalur kepuasan pembaca, batasan 13+. |
+| `02-premise.md` | **Premis & Ide:** Uji 5 Slot, Rumus ABCD, Menutup Jalan Mudah (7 Cara Sah + Katakan di Halaman), Uji Konflik yang Dipaksakan (*Spider-Man Test*), Protokol Brainstorming 7 Langkah, Resep 9 Langkah, M.I.C.E., 3P Sanderson, & Universe Registry. |
+| `03-structure.md` | **Struktur & Outline:** 8 Kerangka Plot Terbukti (tanpa kerangka eksperimental), Pemetaan 8 Tahap Penulis, Siklus Coba-Gagal (6 Isi Wajib & Uji 100%), Planting Solusi 2 Kali, 16 Studi Kasus Novel Terkenal, & 18 Kolom Outline. |
+| `04-character.md` | **Karakter & Psikologi:** Character sheet, *tells*, luka formatif, pola asuh, katalog disorder fungsional, *scene stealer* (lovable & hateable), & Matriks Sapaan Kontekstual. |
+| `05-style.md` | **Gaya Bahasa & Diksi:** Acuan nada *Resign!* (`../acuan-bahasa.docx`), POV 1 intim, 5 penyakit insting AI, 5 pola sintaksis AI yang dilarang, & aturan teks polos (*plain text*). |
+| `06-chapter.md` | **Kerajinan Bab:** Rentang 600–900 kata (target ±750 kata), Mesin Mikro Adegan (`Berhasil, tapi...` / `Gagal, dan malah...`), 2 Tipe *In Medias Res*, & 8 variasi hook akhir bab. |
+| `07-continuity.md` | **Kontinuitas:** 3 dokumen kebenaran (`canon.md`, `state.md`, `ledger.md`), Gerbang Pra-Tulis 5 Poin (*Pre-Flight Gate*), anti-telepati data mikro, & protokol cameo 3 tingkat. |
+| `08-quality.md` | **Kualitas & Evaluasi Logika:** Rubrik 8 kriteria, 10 Uji Logika Makro, 9 Uji Logika Mikro Dunia Nyata, 10 Tanda Bahaya (*Red Flags*), Stress Test Outline, & 4 Teknik Bedah Alur Tengah Cerita. |
+| `09-revision.md` | **Revisi & Audit:** Piramida Ketergantungan 5 Tingkat, Audit 5 Tahap, Remediasi Beruntun R1–R5, Sistem Revisi 4 Lapis, & Rasio Edit 74/18/8. |
+| `10-evolution.md` | **Evolusi Engine:** Cara memperbarui aturan engine dan pengelolaan arsip. |
+| `11-worldbuilding.md` | **World Building:** Latar spasial (kota, zonasi, jam macet), temporal (tahun, WA/QRIS/m-banking, daya beli riil), hukum nyata RI, & norma sosial Indonesia. |
+| `sources.md` | **Rujukan & Riset:** Hierarki rujukan *Repo-First*, panduan riset internet anti-AI slop/halusinasi, & katalog referensi novel. |
+| `templates/` | Template standar untuk `canon.md`, `state.md`, `outline.md`, `ledger.md`, `character-sheet.md`, `premise-options.md`, `change-request.md`, dll. |
+| `examples/` | Contoh konkret premis, outline, adegan, hook, dan perbaikan gaya before/after. |
+| `learnings/` | **Arsip riwayat historis** (`editor-feedback.md` & `changelog.md`). **JANGAN dibaca saat sesi kerja normal** karena seluruh aturan aktifnya sudah dilebur ke file `00`–`11`. |
 
-## Pemilik Aturan
+---
 
-File-file ini adalah sumber aturan. File lain hanya merujuk, tidak menduplikasi.
-
-| Aturan | File pemilik |
-|---|---|
-| Alur sesi, tahap A–G, Prinsip Pas | `00-workflow.md` |
-| Genre dan batasan konten | `01-genre.md` |
-| Premis dan novelty | `02-premise.md` |
-| Struktur, outline, lock | `03-structure.md` |
-| Karakter dan character sheet | `04-character.md` |
-| Gaya bahasa dan format | `05-style.md` |
-| Kerajinan bab | `06-chapter.md` |
-| Kontinuitas dan Ledger | `07-continuity.md` |
-| Rubrik dan anti plot hole | `08-quality.md` |
-| Revisi | `09-revision.md` |
-| Evolusi engine | `10-evolution.md` |
-| World building, latar, dan aturan dunia | `11-worldbuilding.md` |
-| Audit menyeluruh & remediasi beruntun | `12-audit-remediation.md` |
-| Riset dan sumber | `sources.md` |
-
-## Aturan Baca
-
-- Folder ini adalah paket markdown. Tidak ada kode yang wajib dijalankan untuk memahami panduan.
-- Skrip Python di `scripts/` berfungsi sebagai linter mekanis/penjinak halusinasi AI (mengecek kontinuitas, 0 em dash, dan frasa AI slop). Panduan menjalankan Python di Android (Termux), Linux, dan Windows tersedia di root `README.md`.
-- Target pembaca **13+**; latar dan usia tokoh bebas.
-- **Prinsip Pas:** alat tambahan opsional; boleh nol.
-- Jangan menulis prosa sebelum mode dipilih, canon ada, dan outline disetujui.
-- Jangan mengubah canon/outline diam-diam.
-- Jangan menambah tokoh baru tanpa setup.
-- Jangan memakai emoji atau umpatan kasar.
-- Satu bab per respons adalah default.
-
-## Mulai Cepat
-
-**Project baru:**
-
-> Baca `AGENTS.md` dan `engine/README.md`. Saya mau mulai novel MetroPop baru.
-
-Agent akan menanyakan maksimal 3 hal yang belum jelas. Default: 30–40 bab, ±750 kata,
-tone hangat/jenaka/getir, ending tidak sempurna namun memuaskan (ada harga nyata yang dibayar). Jika premis belum ada, agent
-memberi 3 opsi premis dulu (menggunakan Resep 9 Langkah & Uji 5 Slot).
-
-**Lanjutkan cerita:**
-
-> Baca `AGENTS.md`, `engine/README.md`, dan `story/<Judul>/`. Lanjutkan bab berikutnya.
-
-Agent akan membaca canon, ledger, dan bab terakhir; menulis posisi cerita 5 baris;
-meminta konfirmasi; lalu menulis satu bab.
-
-**Revisi:**
-
-> Baca `AGENTS.md` dan `engine/09-revision.md`. Revisi Bab 5: ...
-
-Agent akan mengklasifikasikan feedback, merevisi lokal, memperbarui ledger/canon, dan
-mencatat pelajaran jika perlu.
-
-## Struktur Story
-
-Setiap cerita di `story/` memakai:
+## 3. Struktur Folder Cerita (`story/`)
 
 ```text
-story/<Judul>/
-├── canon.md
-├── outline.md
-├── ledger.md
-├── feedback.md
-└── chapters/
-    ├── bab-01.md
-    └── ...
+story/
+├── universe-registry.md  # Pendaftar semesta terpadu (bank premis, anti-duplikasi tokoh, cameo)
+└── <Judul>/
+    ├── canon.md          # Bible cerita: premis 5 slot, 7 cara tutup jalan mudah, kerangka, cast, dunia
+    ├── state.md          # Potret kondisi aktif garis depan penulisan (dibaca sebelum & sesudah tulis bab)
+    ├── outline.md        # Peta 30–40 bab (18 kolom per bab, terkunci v1.0 sebelum menulis Bab 1)
+    ├── ledger.md         # Arsip kronologis fakta per bab
+    ├── feedback.md       # Catatan revisi proyek
+    └── chapters/
+        ├── bab-01.md
+        └── ...
 ```
-
-Gunakan template di `templates/`. Jangan mengarang format baru.
-
-## Prinsip
-
-- **Canon adalah sumber kebenaran untuk fakta cerita.** Aturan craft/format ada di
-  file pemilik di tabel atas.
-- **Outline adalah pakem.** Perubahan lewat Permintaan Perubahan.
-- **Satu bab, satu beat.** Jangan menulis semua bab sekaligus.
-- **Rubrik sebelum kirim.** Perbaiki dulu jika belum lulus.
-- **Engine belajar dari feedback.** Perubahan aturan dicatat, bukan diam-diam.

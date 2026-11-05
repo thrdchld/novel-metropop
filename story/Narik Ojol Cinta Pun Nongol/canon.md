@@ -3,7 +3,7 @@
 > Status: TERKUNCI (Sesuai Kit Perancangan Penulis & Engine v2.1)
 > Versi: v2.1
 > Terakhir diperbarui: 2026-10-27
-> Sumber kebenaran cerita. Diambil dari `narik-ojol-cinta-pun-nongol-outline.docx` dan diselaraskan dengan `Kerangka Plot yang Terbukti untuk Web Novel.md` serta `acuan-bahasa.docx`.
+> Sumber kebenaran cerita. Diambil dari `narik-ojol-cinta-pun-nongol-outline.docx` dan diselaraskan dengan `engine/03-structure.md` serta `acuan-bahasa.docx`.
 
 ## Identitas
 
@@ -18,7 +18,7 @@
 ## Premis & Kerangka Plot
 
 - **Logline:** Ayu Anindya, sarjana Manajemen Bisnis ber-IPK 3,85 yang terpaksa narik ojol demi bayar utang keluarga, nggak pernah menyangka orderan nasi kotak ke Menara Astra bakal mengubah nasibnya saat bos muda bernama Rian menyewanya jadi pacar pura-pura demi menghindari perjodohan keluarga.
-- **Kerangka Plot Utama (`Kerangka Plot yang Terbukti untuk Web Novel.md`):** **Struktur Romance** (8 tahap hubungan: perkenalan kontras sosial -> kesepakatan terpaksa -> tarik-ulur kedekatan -> terbukanya luka batin -> krisis terbongkarnya rahasia -> konfrontasi/pengakuan -> pembuktian pengorbanan -> penyatuan setara).
+- **Kerangka Plot Utama (`03-structure.md`):** **Struktur Romance** (8 tahap hubungan: perkenalan kontras sosial -> kesepakatan terpaksa -> tarik-ulur kedekatan -> terbukanya luka batin -> krisis terbongkarnya rahasia -> konfrontasi/pengakuan -> pembuktian pengorbanan -> penyatuan setara).
 - **Kerangka Plot Pendamping:** **Save the Cat** (ritme titik balik & krisis *All Hope Is Lost* saat penyamaran terbongkar) + **Siklus Coba-Gagal** (setiap langkah Ayu menyembunyikan identitas ojolnya sambil menjalani kontrak justru memperbesar celah kecurigaan Vina).
 - **Blurb:** Hari itu, niat Ayu cuma satu: mengantar pesanan makanan ke gedung perkantoran Sudirman, lalu lanjut narik ojol keliling Jakarta. Sialnya, nasib malah membawanya terjebak di tengah pesta pernikahan keluarga konglomerat. Dalam kondisi panik, seorang bos muda bernama Rian mendadak menggandeng tangannya dan mengenalkannya ke semua orang sebagai pacar baru. Demi bayaran yang bisa menyelamatkan keuangan keluarganya, Ayu nekat memperpanjang sandiwara itu. Dia pikir tugasnya bakal gampang: tinggal pasang senyum manis di depan keluarga besar Rian, lalu bawa pulang uangnya. Kenyataannya? Hidup Ayu justru makin runyam. Masalah berdatangan dari segala penjuru, mulai dari keluarga Rian yang hobi menyelidik, tatapan curiga orang-orang berduit, sampai kehidupan aslinya sebagai driver ojol yang terancam berantakan. Dan yang paling gawat, si bos kaku itu pelan-pelan mulai bikin Ayu lupa kalau semua ini cuma akting belaka.
 - **Tema:** Kehormatan keluarga dan martabat seseorang ditentukan oleh kejujuran perjuangan hidup, bukan seragam kerja atau gengsi status sosial.

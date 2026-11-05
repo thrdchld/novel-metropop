@@ -1,7 +1,29 @@
-# Changelog Engine
+# Changelog Engine (Arsip Riwayat)
+
+> **PERINGATAN UNTUK AI AGENT:** Dokumen ini adalah **arsip riwayat versi**. **JANGAN DIBACA saat sesi kerja normal (Mode A, B, C, D)** agar jendela konteks tidak penuh dan membingungkan AI. Seluruh aturan aktif sudah berada di file pemilik `engine/00-workflow.md` s.d. `11-worldbuilding.md`.
 
 Catat setiap perubahan aturan, template, atau sumber. Perubahan kecil, spesifik, dan
 disertai alasan.
+
+## v4.0 - 2026-11-05
+
+- **Perubahan:** **Konsolidasi Total & Eliminasi Duplikasi Repositori (Engine v4.0 — Single Source of Truth)**:
+  1. *Peleburan Dokumen Teori Root ke Engine:* Melebur seluruh isi `Kerangka Plot yang Terbukti untuk Web Novel.md` dan `panduan-pengembangan-premis-cerita.md` ke dalam `engine/02-premise.md` (ABCD, 7 Cara Menutup Jalan Mudah, Uji *Spider-Man*, Brainstorming 7 Langkah, Resep 9 Langkah, SCAMPER, M.I.C.E., 3P Sanderson), `engine/03-structure.md` (8 Kerangka Plot Terbukti, Siklus Coba-Gagal, Planting 2x, 16 Studi Kasus Novel Terkenal, 18 Kolom Outline), dan `engine/sources.md`, lalu menghapus file duplikat di root.
+  2. *Peleburan Modul Audit & Revisi:* Melebur `engine/12-audit-remediation.md` ke dalam `engine/09-revision.md` sebagai satu-satunya pemilik prosedur revisi dan audit.
+  3. *Pembersihan File Duplikat & Arsip Lama:* Menghapus `old-documents-unneeded/`, mengganti 3 file skill web yang duplikat (`CHATGPT_SKILL.md`, `CLAUDE_SKILL.md`, `GEMINI_SKILL.md`) dengan 1 file ringkas `STANDALONE.md`, menghapus `.agent/rules/metropop.md`, `.agents/skills/metropop-novel/SKILL.md`, `engine/SKILL.md`, serta menghapus draf lama `story/Kurir Barang Mantan/` agar siap ditulis ulang dari nol tanpa kontaminasi konteks.
+  4. *Hierarki Rujukan Repo-First & Riset Berkelanjutan Anti-AI Slop:* Menegaskan di `AGENTS.md` dan `engine/sources.md` bahwa repo ini adalah rujukan utama sebelum internet, sedangkan pencarian internet dikhususkan untuk fakta dunia nyata/kosakata terbaru dan pembaruan terus-menerus cara menghindari halusinasi serta tulisan *AI slop*.
+  5. *Karantina Arsip Learnings:* Menandai `engine/learnings/` agar tidak dibaca AI pada sesi kerja normal.
+- **File:** `AGENTS.md`, `GEMINI.md`, `CLAUDE.md`, `STANDALONE.md`, `README.md`, `.agent/skills/metropop-novel/SKILL.md`, `engine/README.md`, `engine/00-workflow.md` s.d. `11-worldbuilding.md`, `engine/sources.md`, `story/universe-registry.md`, `reader.html`.
+
+## v3.9 - 2026-11-05
+
+- **Perubahan:** Mengintegrasikan pembaruan besar `Kerangka Plot yang Terbukti untuk Web Novel.md`: **Rumus ABCD, 7 Cara Sah Menutup Jalan Mudah, Uji Ruang Lingkup Minimal (Pola *Spider-Man: No Way Home*), Standar Keterwajaran 10 Pola Anti-AI Slop Plot, dan Protokol Brainstorming 7 Langkah (Engine v3.9)**:
+  1. *Kepatuhan 8 Kerangka Terbukti & Tugas Keempat AI:* Menegaskan penggunaan 8 kerangka plot terbukti tanpa membuat kerangka eksperimental baru, serta mengkodifikasi Tugas Keempat AI (membrainstorm konflik dan solusi yang masuk akal dari ide pengguna dengan standar keterwajaran manusia nyata).
+  2. *Rumus ABCD (`Kerangka Plot...` & `engine/02-premise.md`):* Membedah ide mentah melalui 4 komponen (A: Ada karakter, B: Berdiam di suatu tempat/kondisi, C: Cuma suatu hari sebagai pengungkit terkuat yang menyerang flaw di B, D: Dan akhirnya yang memuat percobaan, akhir tidak sempurna + harga nyata, dan perubahan tokoh) serta pemetaannya ke 8 tahap penulis.
+  3. *Menutup Jalan Mudah — 4 Prinsip, 7 Cara Sah, & "Katakan di Halaman":* Mengunci 7 cara sah menutup jalan pintas (tahu sepotong dari sumber terpercaya, kelemahan watak konsisten, harga jalan mudah lebih besar, larangan/janji pihak luar, tenggat luar, sudah dicoba & gagal, tekanan sosial Indonesia + akibat nyata), teknik "Katakan di Halaman" lewat dialog, Tabel Uji per Masalah Inti (minimal 5 jalan mudah), dan Uji Dilema Sejati.
+  4. *Uji Konflik yang Dipaksakan ("Cara yang Lebih Sederhana Terlihat Jelas" / Spider-Man: No Way Home Test):* Menetapkan Uji Ruang Lingkup Minimal (5 alasan sah bila cara tokoh lebih luas dari masalah sempit) dan Uji Konflik dari Keputusan (*"Kalau tokoh mengambil keputusan terbaik yang terlihat pembaca, apakah masalahnya tetap ada?"*).
+  5. *Standar Keterwajaran & Protokol Brainstorming 7 Langkah:* Mengunci 10 pola perilaku plot AI slop yang dilarang, Tabel Uji Kenyataan 8 pertanyaan, penanda `"perlu dicek: ..."` untuk fakta dunia nyata, serta Protokol Brainstorming 7 Langkah wajib untuk AI.
+- **File:** `Kerangka Plot yang Terbukti untuk Web Novel.md`, `engine/02-premise.md`, `engine/08-quality.md`, `engine/learnings/editor-feedback.md`, `engine/learnings/changelog.md`.
 
 ## v3.7 - 2026-11-03
 

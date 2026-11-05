@@ -1,6 +1,6 @@
 # Laporan Audit & Remediasi Menyeluruh — <Judul Cerita>
 
-> **Dokumen Acuan:** `engine/12-audit-remediation.md`  
+> **Dokumen Acuan:** `engine/09-revision.md`  
 > **Status:** <DRAFT AUDIT / DALAM REMEDIASI / TERVERIFIKASI PENUH>  
 > **Tanggal Audit:** YYYY-MM-DD  
 > **Versi Naskah:** v...

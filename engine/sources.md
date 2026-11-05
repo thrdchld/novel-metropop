@@ -1,155 +1,65 @@
-# Sumber dan Riset
+# Sumber, Hierarki Rujukan, dan Riset Internet
 
-## Sumber Utama
+> **File Pemilik Tunggal:** File ini mengatur **Hierarki Rujukan (Repo sebagai Rujukan Utama vs Internet sebagai Tambahan), Protokol Riset Berkelanjutan Anti-Halusinasi & Anti-AI Slop, serta Katalog Referensi Novel Teruji**.
 
-| Sumber | Fungsi |
-|---|---|
-| `../acuan-bahasa.docx` | **Acuan utama gaya bahasa, diksi, dan cara bercerita.** Contoh novel acuan gaya MetroPop hidup, dinamis, dan segar. |
-| `../Kerangka Plot yang Terbukti untuk Web Novel.md` | **Acuan utama kerangka plot, pembuatan/pengembangan premis, siklus coba-gagal, planting solusi, dan uji logika/penilaian alur cerita.** |
-| `../old-documents-unneeded/` | Arsip dokumen versi sebelumnya (`Panduan Proyek Web Novel Reply All`, `Panduan Menulis Web Novel Metropop Indonesia.txt`, `referensi.txt`). |
-| `examples/` | Contoh premis, outline, adegan, hook, perbaikan gaya. |
-| `learnings/editor-feedback.md` | Kritik berulang dan preferensi gaya user. |
-| `learnings/changelog.md` | Riwayat perubahan aturan engine. |
+---
 
-`acuan-bahasa.docx` adalah benchmark utama cara bertutur yang diinginkan user: menggunakan sudut pandang orang pertama ("Aku") yang ekspresif, monolog batin yang kocak/sarkastik, dialog renyah dengan *code-switching* bahasa Inggris urban yang wajar (*outlier, drawer, walkout, lunch break, urgent, meeting, awkward, simple truth*), dan dinamika pergaulan kantor yang sangat hidup (kawan senasib kubikel, bos perfeksionis).
+## 1. Hierarki Rujukan Mutlak (Prinsip Repo-First)
 
-Gunakan untuk mempelajari gaya bercerita, diksi, dan ritme dialog, **bukan** untuk menyalin karakter atau plot secara langsung ke cerita baru.
+AI **WAJIB menjadikan repositori ini sebagai rujukan utama dan pertama** sebelum mengandalkan opini bawaan model atau mencari teori dari internet. Seluruh teori penulisan premis, 8 kerangka plot, rumus ABCD, penutupan jalan mudah, psikologi karakter, gaya bahasa (`acuan-bahasa.docx`), dan kontinuitas sudah lengkap di dalam `engine/`.
 
-Engine Python lama sudah dihapus dari working tree. Jika perlu referensi implementasi,
-ambil dari riwayat git sebelum commit migrasi.
+### Urutan Prioritas Rujukan:
+1. **Instruksi langsung pengguna** pada sesi berjalan.
+2. **Dokumen cerita aktif (`canon.md`, `outline.md`, `state.md`, `ledger.md`)** untuk fakta cerita.
+3. **`acuan-bahasa.docx` dan `engine/05-style.md`** untuk gaya bahasa, diksi, nada bercerita (acuan utama: *Resign!* karya Almira Bastari), dan eliminasi AI slop.
+4. **Panduan `engine/00-workflow.md` s.d. `11-worldbuilding.md`** untuk seluruh teori premis, kerangka plot, karakter, bab, kontinuitas, dan kualitas.
+5. **Pencarian Internet (Hanya sebagai Tambahan Spesifik — Lihat Bagian 2).**
 
-## Jika User Memberi PDF/Teks/URL
+> **LARANGAN KERAS:** AI dilarang mengabaikan aturan di `engine/` dan menggantinya dengan opini atau kebiasaan generik AI sendiri.
 
-1. Baca/ekstrak isinya.
-2. Ringkas 5–10 poin: struktur, gaya, teknik, tema, karakter.
-3. Pisahkan:
-   - **prinsip** yang bisa dipakai;
-   - **referensi gaya** yang hanya contoh.
-4. Jangan menyalin kalimat/adegan.
-5. Simpan catatan di file ini atau `learnings/`.
-6. Tanyakan apakah temuan mau dijadikan aturan engine.
+---
 
-## Jika Melakukan Riset Internet
+## 2. Kapan dan Untuk Apa Mencari di Internet
 
-Gunakan untuk:
+Pencarian internet **BUKAN** untuk mencari teori plot dasar (karena sudah ada di `engine/02-premise.md` dan `03-structure.md`), melainkan hanya untuk **dua fungsi berikut**:
 
-- detail pekerjaan/istilah;
-- kebiasaan sosial;
-- lokasi dan transportasi;
-- tren media sosial;
-- struktur genre.
+### A. Info Faktual Dunia Nyata & Kosakata Terbaru (Pelengkap Cerita)
+Gunakan pencarian web saat membutuhkan fakta yang belum tercatat di repo:
+- Prosedur administrasi atau cara kerja lembaga/layanan publik di Indonesia (misal: syarat mengurus BPKB/sertifikat hilang, aturan klaim ekspedisi, SOP HRD/pengadaan kantor) untuk menutup label `"perlu dicek"`;
+- Kisaran harga barang, biaya sewa, atau tarif layanan terkini di Jakarta/kota Indonesia;
+- Rute jalan, jarak tempuh, dan detail lokasi geografis nyata;
+- Kosakata gaul, istilah dunia kerja, atau tren media sosial terbaru di Indonesia.
 
-Aturan:
+### B. Riset Berkelanjutan Anti-Halusinasi & Anti-AI Slop (Wajib Terus Diperbarui)
+Karena pola tulisan AI (*AI slop*) dan celah halusinasi model bahasa terus berkembang, AI dan pengguna secara berkala mencari referensi terbaru di internet/riset akademik mengenai:
+1. **Cara mendeteksi dan menghilangkan *AI slop* (baik di level kalimat/diksi maupun di level perilaku tokoh/plot):**
+   - Kata, frasa klise, atau struktur kalimat yang paling sering diulang LLM terbaru;
+   - Pola dialog atau monolog batin yang terasa buatan mesin vs tulisan penulis manusia;
+   - Teknik terbaru membuat prosa bahasa Indonesia terasa alami, lisan, dan hidup.
+2. **Cara mencegah halusinasi & amnesia kontinuitas AI dalam penulisan fiksi panjang:**
+   - Metode *state tracking*, pelacakan objek fisik (*object permanence*), asimetri pengetahuan tokoh, dan pemeriksaan silang (*linting*) deterministik.
 
-- Jangan mengarang fakta teknis yang bisa dicek.
-- Catat tautan dan tanggal.
-- Jangan menyalin artikel.
-- Jangan memakai merek/tokoh publik nyata di cerita.
-- Hindari sumber yang tidak jelas.
+Setiap kali ditemukan pola *AI slop* baru atau teknik anti-halusinasi baru dari riset internet, **tambahkan temuannya ke `engine/05-style.md` (untuk gaya/kalimat), `engine/02-premise.md` / `08-quality.md` (untuk logika plot), dan `scripts/analyze-prose.py` (untuk deteksi otomatis)**.
 
-## Hak Cipta
+---
 
-- Jangan menyalin karya berhak cipta ke novel.
-- Jangan meniru plot utuh.
-- Boleh belajar struktur, ritme, dan teknik.
-- Jika memakai kutipan pendek, beri atribusi dan pastikan wajar.
+## 3. Jika Pengguna Memberi PDF / Teks / URL Referensi Baru
 
-## Katalog Referensi Tambahan yang Teruji (Inspirasi Pola Plot & Gaya)
+1. Baca dan ekstrak isinya.
+2. Ringkas 5-10 poin prinsip yang berguna dan bisa diuji.
+3. Jangan menyalin kalimat atau adegan berhak cipta ke dalam novel.
+4. Tanyakan apakah temuan tersebut mau dilebur ke file pemilik di `engine/` atau hanya dijadikan referensi proyek.
 
-Koleksi judul novel Indonesia dan dunia yang dikurasi dari `Kerangka Plot yang Terbukti untuk Web Novel.md` untuk memicu inspirasi eksperimentasi alur:
+---
 
-1. **Tenggat, Taruhan, & Komunitas:**
-   - *Around the World in Eighty Days* (Jules Verne)
-   - *A Christmas Carol* (Charles Dickens)
-   - *Laskar Pelangi* (Andrea Hirata)
-   - *Charlotte's Web* (E. B. White)
-   - *The Guernsey Literary and Potato Peel Pie Society* (Mary Ann Shaffer & Annie Barrows)
-   - *Little Women* (Louisa May Alcott)
-   - *Anne of Green Gables* (L. M. Montgomery)
-   - *Sang Pemimpi* (Andrea Hirata)
-   - *Negeri 5 Menara* (A. Fuadi)
-   - *5 cm* (Donny Dhirgantoro)
-   - *Orang-Orang Biasa* (Andrea Hirata)
+## 4. Katalog Referensi Novel Teruji (Inspirasi Pola & Gaya)
 
-2. **Salah Paham & Rahasia:**
-   - *Pride and Prejudice*, *Persuasion*, *Sense and Sensibility*, *Northanger Abbey* (Jane Austen)
-   - *Emma* (Jane Austen)
-   - *Jane Eyre* (Charlotte Brontë)
-   - *Rebecca* (Daphne du Maurier)
-   - *Where'd You Go, Bernadette* (Maria Semple)
-   - *Salah Asuhan* (Abdoel Moeis)
-   - *Tenggelamnya Kapal Van der Wijck* (Hamka)
+Judul-judul berikut dikelompokkan dengan pola yang sama seperti 16 studi kasus di `engine/03-structure.md`:
 
-3. **Perubahan Diri & Kehidupan Urban:**
-   - *Great Expectations*, *David Copperfield* (Charles Dickens)
-   - *The Devil Wears Prada* (Lauren Weisberger)
-   - *The Rosie Project* (Graeme Simsion)
-   - *Eleanor Oliphant Is Completely Fine* (Gail Honeyman)
-   - *The Secret Garden* (Frances Hodgson Burnett)
-   - *Pollyanna* (Eleanor H. Porter)
-   - *Confessions of a Shopaholic* (Sophie Kinsella)
-   - *The Alchemist* (Paulo Coelho)
-   - *Convenience Store Woman* (Sayaka Murata)
-   - *Kitchen* (Banana Yoshimoto)
-   - *A Man Called Ove* (Fredrik Backman)
-   - *The Midnight Library* (Matt Haig)
-   - *The Unlikely Pilgrimage of Harold Fry* (Rachel Joyce)
-   - *Hector and the Search for Happiness* (François Lelord)
-   - *Imperfect: Karier, Cinta & Timbangan* (Meira Anastasia)
-
-4. **Rantai Peristiwa & Komedi Situasi:**
-   - *The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared* (Jonas Jonasson)
-   - *Three Men in a Boat* (Jerome K. Jerome)
-   - *The Hitchhiker's Guide to the Galaxy* (Douglas Adams)
-   - *Good Omens* (Terry Pratchett & Neil Gaiman)
-   - *A Series of Unfortunate Events* (Lemony Snicket)
-   - *The Princess Bride* (William Goldman)
-   - *Bridget Jones: The Edge of Reason* (Helen Fielding)
-   - *Marmut Merah Jambu* (Raditya Dika)
-
-5. **Misteri Keseharian & Planting:**
-   - *Harry Potter and the Philosopher's Stone*, *The Prisoner of Azkaban* (J. K. Rowling)
-   - *The Curious Incident of the Dog in the Night-Time* (Mark Haddon)
-   - *Holes* (Louis Sachar)
-   - *And Then There Were None*, *The Murder of Roger Ackroyd* (Agatha Christie)
-   - *The Hound of the Baskervilles* (Arthur Conan Doyle)
-   - *The Westing Game* (Ellen Raskin)
-   - *Where the Crawdads Sing* (Delia Owens)
-   - *The Thursday Murder Club* (Richard Osman)
-   - *Big Little Lies* (Liane Moriarty)
-   - *Gadis Kretek* (Ratih Kumala)
-   - *Aroma Karsa* (Dee Lestari)
-
-6. **Romance Modern Indonesia & Dunia:**
-   - *Critical Eleven*, *Divortiare*, *A Very Yuppy Wedding*, *Antologi Rasa*, *The Architecture of Love* (Ika Natassa)
-   - *Perahu Kertas* (Dee Lestari)
-   - *Bridget Jones's Diary* (Helen Fielding)
-   - *Crazy Rich Asians* (Kevin Kwan)
-   - *Me Before You* (Jojo Moyes)
-   - *One Day* (David Nicholls)
-   - *The Hating Game* (Sally Thorne)
-   - *Love, Rosie*, *P.S. I Love You* (Cecelia Ahern)
-   - *Normal People* (Sally Rooney)
-   - *The Kiss Quotient* (Helen Hoang)
-   - *Beach Read* (Emily Henry)
-   - *Refrain* (Winna Efendi)
-   - *Dilan: Dia Adalah Dilanku Tahun 1990* (Pidi Baiq)
-   - *Ayat-Ayat Cinta* (Habiburrahman El Shirazy)
-
-7. **Bentuk Naratif Khusus (Surat, Diari, Dua Garis Waktu, Dual POV):**
-   - *Daddy-Long-Legs* (Jean Webster) - Epistolari / Surat
-   - *The Perks of Being a Wallflower* (Stephen Chbosky) - Surat
-   - *Flowers for Algernon* (Daniel Keyes) - Laporan Kemajuan Progresif
-   - *The Time Traveler's Wife* (Audrey Niffenegger) - Garis Waktu Non-Linier
-   - *Critical Eleven* (Ika Natassa) - Dual POV & Dua Garis Waktu Paralel
-
-## Format Catatan Riset
-
-```markdown
-## YYYY-MM-DD: <Sumber>
-- **Tautan/file:** ...
-- **Poin utama:** ...
-- **Prinsip yang dipakai:** ...
-- **Referensi gaya:** ...
-- **Keputusan:** jadikan aturan / hanya referensi / abaikan.
-```
+- **Tenggat, taruhan, komunitas:** *Around the World in Eighty Days* (Jules Verne); *A Christmas Carol* (Charles Dickens); *Laskar Pelangi*, *Sang Pemimpi*, *Orang-Orang Biasa* (Andrea Hirata); *Charlotte's Web* (E. B. White); *The Guernsey Literary and Potato Peel Pie Society* (Mary Ann Shaffer & Annie Barrows); *Little Women* (Louisa May Alcott); *Anne of Green Gables* (L. M. Montgomery); *Negeri 5 Menara* (A. Fuadi); *5 cm* (Donny Dhirgantoro).
+- **Salah paham dan rahasia:** *Pride and Prejudice*, *Emma*, *Persuasion*, *Sense and Sensibility*, *Northanger Abbey* (Jane Austen); *Jane Eyre* (Charlotte Brontë); *Rebecca* (Daphne du Maurier); *Where'd You Go, Bernadette* (Maria Semple); *Salah Asuhan* (Abdoel Moeis); *Tenggelamnya Kapal Van der Wijck* (Hamka).
+- **Perubahan diri dan kehidupan urban:** *Resign!* (Almira Bastari - di `acuan-bahasa.docx`); *Great Expectations*, *David Copperfield* (Charles Dickens); *The Devil Wears Prada* (Lauren Weisberger); *The Rosie Project* (Graeme Simsion); *Eleanor Oliphant Is Completely Fine* (Gail Honeyman); *The Secret Garden* (Frances Hodgson Burnett); *Pollyanna* (Eleanor H. Porter); *Confessions of a Shopaholic* (Sophie Kinsella); *The Alchemist* (Paulo Coelho); *Convenience Store Woman* (Sayaka Murata); *Kitchen* (Banana Yoshimoto); *A Man Called Ove* (Fredrik Backman); *The Midnight Library* (Matt Haig); *The Unlikely Pilgrimage of Harold Fry* (Rachel Joyce); *Hector and the Search for Happiness* (François Lelord); *Imperfect: Karier, Cinta & Timbangan* (Meira Anastasia).
+- **Rantai peristiwa dan komedi:** *The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared* (Jonas Jonasson); *Three Men in a Boat* (Jerome K. Jerome); *The Hitchhiker's Guide to the Galaxy* (Douglas Adams); *Good Omens* (Terry Pratchett & Neil Gaiman); *A Series of Unfortunate Events* (Lemony Snicket); *The Princess Bride* (William Goldman); *Bridget Jones: The Edge of Reason* (Helen Fielding); *Marmut Merah Jambu* (Raditya Dika).
+- **Misteri dan planting:** *Harry Potter and the Philosopher's Stone*, *The Prisoner of Azkaban* (J. K. Rowling); *The Curious Incident of the Dog in the Night-Time* (Mark Haddon); *Holes* (Louis Sachar); *And Then There Were None*, *The Murder of Roger Ackroyd* (Agatha Christie); *The Hound of the Baskervilles* (Arthur Conan Doyle); *The Westing Game* (Ellen Raskin); *Where the Crawdads Sing* (Delia Owens); *The Thursday Murder Club* (Richard Osman); *Big Little Lies* (Liane Moriarty); *Gadis Kretek* (Ratih Kumala); *Aroma Karsa* (Dee Lestari).
+- **Romance modern:** *Critical Eleven*, *Divortiare*, *A Very Yuppy Wedding*, *Antologi Rasa*, *The Architecture of Love* (Ika Natassa); *Perahu Kertas* (Dee Lestari); *Bridget Jones's Diary* (Helen Fielding); *Crazy Rich Asians* (Kevin Kwan); *Me Before You* (Jojo Moyes); *One Day* (David Nicholls); *The Hating Game* (Sally Thorne); *Love, Rosie*, *P.S. I Love You* (Cecelia Ahern); *Normal People* (Sally Rooney); *The Kiss Quotient* (Helen Hoang); *Beach Read* (Emily Henry); *Refrain* (Winna Efendi); *Dilan: Dia Adalah Dilanku Tahun 1990* (Pidi Baiq); *Ayat-Ayat Cinta* (Habiburrahman El Shirazy).
+- **Bentuk naratif khusus (surat, diari, dua garis waktu):** *Daddy-Long-Legs* (Jean Webster); *The Perks of Being a Wallflower* (Stephen Chbosky); *Flowers for Algernon* (Daniel Keyes); *The Time Traveler's Wife* (Audrey Niffenegger).
