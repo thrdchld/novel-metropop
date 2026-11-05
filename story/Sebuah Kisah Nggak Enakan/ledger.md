@@ -26,13 +26,17 @@
 | 18 | Senin pagi, Meja Proyek Nomor 4 | Nadia, Saka, Tari | Saka membelikan kopi pagi untuk Nadia secara terang-terangan tanpa alasan bohong lagi; Nadia menggambar siluet botol minum penyok kecil di sudut halaman ucapan terima kasih buku *Sela Waktu* dan Saka meminta gambar itu dipertahankan sampai naik cetak. |
 | 19 | Rabu sore (pukul 15.50), Pantry Kantor | Nadia, Dimas | Setelah putus dari Vanya, Dimas menghampiri Nadia dengan sikap lembut dan menyesal, menyeduhkan teh melati setengah sendok gula seperti dulu, meminta maaf sambil berkaca-kaca, dan membisikkan keraguan bahwa penugasan Saka dari Jogja hanya dua bulan. |
 | 20 | Jumat siang (pukul 13.15), Depan Ruangan Pak Ramdan & Meja Proyek Nomor 4 | Nadia, Pak Ramdan, Saka | Nadia tak sengaja mendengar Pak Ramdan menelepon kepala cabang Yogyakarta tentang berakhirnya masa tugas dua bulan Saka minggu depan, lalu melihat amplop cokelat berlogo cabang Yogyakarta di meja Saka hingga kecemasannya memuncak. |
+| 21 | Jumat sore (pukul 17.00), Meja Proyek Nomor 4 | Nadia, Saka | Nadia memancing pertanyaan soal rencana Saka minggu depan; Saka yang pantang memberi janji kosong menjawab datar bahwa ia memang harus kembali ke Yogyakarta dulu, membuat Nadia patah hati dan kembali bicara baku ala *customer service*. |
+| 22 | Sabtu pagi-siang (pukul 09.30-13.00), Rumah Orang Tua Nadia & Klinik Rawamangun | Nadia, Ibu, Dimas | Saat vertigo Ibu kambuh, Dimas datang membawa bubur dan buah, lalu dengan sangat sabar mengantar Ibu ke klinik menggunakan mobil ayahnya, mengurus antrean obat berjam-jam, dan memijit bahu Ibu tanpa mengeluh sedikit pun. |
+| 23 | Sabtu sore-malam, Teras & Kamar Rumah Rawamangun | Nadia, Dimas, Ibu | Dimas meminta kesempatan kedua sambil berkaca-kaca di teras dan Ibu membujuk Nadia dengan lembut di kamar agar tidak menyia-nyiakan pria yang sudah kenal keluarga mereka dua tahun; hati Nadia yang sedang patah karena Saka pun goyah dan mengizinkan Dimas menjemputnya hari Senin. |
+| 24 | Senin sore (pukul 16.00-17.00), Meja Proyek Nomor 4 | Nadia, Saka | Saat memeriksa cetakan percobaan (*dummy*) buku *Sela Waktu*, Saka tertegun melihat ilustrasi dua meja kerja dengan satu kursi kosong dan bayangan botol minum hitam buatan Nadia di halaman penutup; saat Saka hendak bertanya, pesan jemputan Dimas masuk ke ponsel Nadia. |
 
 ## B. Daftar Detail Kecil / Planting & Callback
 
 | Detail / Kebiasaan / Benda | Ditanam di Bab | Dibayar di Bab | Status |
 |---|---|---|---|
-| Gaya bicara baku ala operator *customer service* saat Nadia menahan marah + ejekan Dimas | Bab 1, 2 | Bab 28 | **Ditanam (Bab 1-2)** |
+| Gaya bicara baku ala operator *customer service* saat Nadia menahan marah + ejekan Dimas | Bab 1, 2, 21 | Bab 28 | **Ditanam (Bab 1, 2, 21)** |
 | Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar saat kesal/cemas | Bab 1, 4 | Bab 20 | **Dibayar (Bab 20)** |
-| Botol minum hitam Saka yang penyok sedikit di bagian bawah | Bab 2, 3, 4, 8, 9, 12, 18 | Bab 24, 30 | **Ditanam & Diperkuat (Bab 18)** |
+| Botol minum hitam Saka yang penyok sedikit di bagian bawah + ilustrasi kursi kosong | Bab 2, 18, 21, 24 | Bab 29, 30 | **Ditanam & Diperkuat (Bab 24)** |
 | Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* | Bab 4 | Bab 5, 7, 26, 32 | **Ditanam (Bab 4)** |
 | Tell Saka: memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali saat berbohong menutupi perhatiannya | Bab 5, 7, 17 | Bab 31 (*Silent Callback*) | **Terkunci di Midpoint (Bab 17)** |
