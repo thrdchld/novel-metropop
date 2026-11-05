@@ -64,9 +64,9 @@
 |---|---|---|---|
 | Dita menyadari korban "Skenario Balik Meja" adalah Ibas | `BELUM` | Direncanakan Bab 4-5 | Sebelum Bab 4, Dita masih mengira kliennya adalah korban pria toksik |
 | Ibas mengetahui Dita adalah pemilik akun Bolu Ketan | `BELUM` | Direncanakan Bab 6 | Terjadi saat Ibas melihat buku jurnal hitam Dita |
-| Kesepakatan kerja sama strategi 30 hari Dita & Ibas | `BELUM` | Direncanakan Bab 7 | Mengunci aturan main khusus premis |
-| Pergeseran sapaan `Saya-Mas` ke `Aku-Mas` | `BELUM` | Direncanakan Bab 15 (Midpoint) | Terjadi saat momen hujan & perbaikan talang dapur di Tebet |
-| Clarissa mengetahui Dita adalah admin Bolu Ketan | `BELUM` | Direncanakan Bab 22 (Titik Terendah) | Memicu serangan balik Clarissa ke HRD kantor |
+| Kesepakatan kerja sama strategi 30 hari Dita & Ibas | `BELUM` | Direncanakan Bab 8 | Mengunci aturan main khusus premis |
+| Pergeseran sapaan `Saya-Mas` ke `Aku-Mas` | `BELUM` | Direncanakan Bab 17 (Midpoint) | Terjadi saat momen hujan & perbaikan talang dapur di Tebet |
+| Clarissa mengetahui Dita adalah admin Bolu Ketan | `BELUM` | Direncanakan Bab 23 | Memicu serangan balik Clarissa ke HRD kantor |
 
 ---
 

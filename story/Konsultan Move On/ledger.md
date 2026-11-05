@@ -44,7 +44,7 @@
 
 | Fakta | Nilai | Rujukan |
 |---|---|---|
-| Jumlah bab | 30 bab | canon & outline |
+| Jumlah bab | 34 bab | canon & outline |
 | Kerangka plot | Tiga Babak + Seven-Point Structure (Pendamping: Struktur Romance + Siklus Coba-Gagal + Arc Bersarang) | canon |
 | Nama perusahaan | PT Artha Kencana (Kuningan) | canon |
 | Nama jasa konsultasi Dita | **Bolu Ketan** (*Bantu Orang Lepas Urusan Kenangan Mantan*) | canon |
@@ -57,14 +57,14 @@
 
 | Bahan / Benang | Tanaman 1 (Sepele di Bab) | Tanaman 2 (Tampak Hiasan di Bab) | Direncanakan Dibayar (Payoff) | Status |
 |---|---|---|---|---|
-| Bahan solusi 1: Kalimat kiasan sandi tiap kode klien & "Langkah ke-5" di jurnal hitam Dita | Bab 1 | Bab 11 | Bab 28 | terbuka |
-| Bahan solusi 2: Tari ("Klien Anggrek") & struk jam tangan *couple* Senayan tanggal 12 Oktober | Bab 3 | Bab 14 | Bab 26-28 | terbuka |
-| Bahan solusi 3: Map hijau kwitansi DP Graha Cempaka Rp45 juta & aturan *oper tanggal/refund* gedung | Bab 4 | Bab 16 | Bab 27-28 | terbuka |
-| Refleks Dita mengetuk jari telunjuk 3 kali saat mencium kebohongan | Bab 1 | Bab 5 | Bab 28 | terbuka |
+| Bahan solusi 1: Kalimat kiasan sandi tiap kode klien & "Langkah ke-5" di jurnal hitam Dita | Bab 1 | Bab 11 | Bab 30 | terbuka |
+| Bahan solusi 2: Tari ("Klien Anggrek") & struk jam tangan *couple* Senayan tanggal 12 Oktober | Bab 3 | Bab 14 | Bab 27-30 | terbuka |
+| Bahan solusi 3: Map hijau kwitansi DP Graha Cempaka Rp45 juta & aturan *oper tanggal/refund* gedung | Bab 4 | Bab 16 | Bab 28-31 | terbuka |
+| Refleks Dita mengetuk jari telunjuk 3 kali saat mencium kebohongan | Bab 1 | Bab 5 | Bab 30 | terbuka |
 | Kebiasaan OCPD Ibas menjajarkan benda siku-siku 90 derajat & obat lambung antasida | Bab 2 | Bab 10 | Bab 25 | terbuka |
 
 ## G. Log Perubahan Canon & Outline
 
 | Versi | Tanggal | Perubahan | Alasan | Bab terdampak |
 |---|---|---|---|---|
-| 1.0 | 2026-11-05 | Penyusunan Canon awal "Konsultan Move On (Bolu Ketan)" | Perombakan konsep dasar dari kurir fisik menjadi konsultan strategi *move on* yang lolos Uji Anti-Yes-Man | Bab 1-30 |
+| 1.0 | 2026-11-05 | Penyusunan Canon & Outline 34 Bab "Konsultan Move On (Bolu Ketan)" | Perombakan konsep dasar dari kurir fisik menjadi konsultan strategi *move on* (34 bab tanpa pemadatan) | Bab 1-34 |

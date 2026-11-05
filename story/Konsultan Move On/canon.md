@@ -10,7 +10,7 @@
 - **Judul Kerja:** Konsultan Move On (Kandidat Judul Komersial: *Resep Putus Bolu Ketan* / *Konsultan Move On* / *Senjata Makan Tuan*)
 - **Genre:** MetroPop (Komedi Romantis Perkotaan Indonesia)
 - **Target pembaca:** 13+
-- **Panjang:** 30 bab x +-750 kata (rentang wajib 600-900 kata; darurat maks. 1.200 kata)
+- **Panjang:** 34 bab x +-750 kata (rentang wajib 600-900 kata; darurat maks. 1.200 kata)
 - **POV:** Orang pertama tunggal ("Aku" / Dita Maheswari), kala lampau
 - **Negara & Kota:** Indonesia - Jakarta Selatan (Kuningan, Tebet, Senayan)
 - **Tahun Kejadian & Era:** 2026 (era smartphone, WhatsApp, Instagram Close Friends, QRIS, m-banking)
@@ -67,9 +67,9 @@
 
 | Bahan Solusi (Orang/Benda/Kebiasaan/Info) | Tanaman 1 (Muncul Sepele di Bab) | Tanaman 2 (Muncul Tampak Seperti Hiasan di Bab) | Dipakai sebagai Solusi di Bab |
 |---|---|---|---|
-| **1. "Kalimat Sandi Klien" & Langkah ke-5 Bolu Ketan** (Kebiasaan Dita menyisipkan satu frasa kiasan unik berbeda untuk tiap kode klien di modul PDF strategi agar tahu jika naskahnya bocor) | **Bab 1:** Dita mencatat kode kiasan unik di jurnal hitamnya saat mengirim modul strategi ke Klien Melati dan Klien Mawar. | **Bab 11:** Dita mengomel lucu ke Ibas bahwa klien-kliennya sering menghafal naskah Bolu Ketan mentah-mentah sampai ke kiasan uniknya karena malas mikir sendiri. | **Bab 28 (Klimaks):** Clarissa terpancing mengucapkan kalimat kiasan Langkah ke-5 yang baru dikirim Dita 10 menit sebelumnya ke nomor "Klien Mawar", membuktikan di depan ayahnya sendiri bahwa nomor anonim itu milik Clarissa. |
-| **2. Tari / "Klien Anggrek" & Struk Jam Tangan Couple Senayan** (Klien Bolu Ketan yang dicampakkan pacar pesoleknya pada 12 Oktober, seminggu sebelum pertunangan Ibas bubar) | **Bab 3:** Tari curhat ke Dita soal mantannya yang pesolek dan mengirim foto struk pembelian jam tangan *couple* tanggal 12 Oktober yang batal diberikan padanya. | **Bab 14:** Tari mengirim hampers brownies ke Dita sebagai ucapan terima kasih; di foto lampiran terlihat seri jam tangan pria yang persis sama dengan yang dipamerkan Restu di lobi kantor. | **Bab 26-28:** Tari bersedia memberikan struk asli dan bukti chat Restu tanggal 12 Oktober yang membuktikan Restu dan Clarissa sudah berselingkuh sebelum pertunangan Ibas-Clarissa bubar. |
-| **3. Map Hijau Kwitansi Vendor & Aturan Oper Tanggal Gedung** (Kebiasaan OCPD Ibas menyimpan berkas vendor & aturan *reschedule* Gedung Graha Cempaka) | **Bab 4:** Ibas merapikan map hijau kwitansi DP Gedung Graha Cempaka Rp45 juta tepat siku-siku di mejanya saat menahan nyeri lambung. | **Bab 16:** Mbak Rani nyeletuk sambil mengoles minyak angin soal sepupunya yang batal nikah di Graha Cempaka tapi uang DP-nya tidak hangus karena bisa *oper nama/ganti tanggal* dengan potongan 10%. | **Bab 27-28:** Terbongkar bahwa uang DP Rp45 juta sebenarnya tidak hangus, melainkan diam-diam diajukan pengembalian/pengalihan ke rekening pribadi Clarissa untuk modal liburannya bersama Restu. |
+| **1. "Kalimat Sandi Klien" & Langkah ke-5 Bolu Ketan** (Kebiasaan Dita menyisipkan satu frasa kiasan unik berbeda untuk tiap kode klien di modul PDF strategi agar tahu jika naskahnya bocor) | **Bab 1:** Dita mencatat kode kiasan unik di jurnal hitamnya saat mengirim modul strategi ke Klien Melati dan Klien Mawar. | **Bab 11:** Dita mengomel lucu ke Ibas bahwa klien-kliennya sering menghafal naskah Bolu Ketan mentah-mentah sampai ke kiasan uniknya karena malas mikir sendiri. | **Bab 30 (Klimaks):** Clarissa terpancing mengucapkan kalimat kiasan Langkah ke-5 yang baru dikirim Dita 10 menit sebelumnya ke nomor "Klien Mawar", membuktikan di depan ayahnya sendiri bahwa nomor anonim itu milik Clarissa. |
+| **2. Tari / "Klien Anggrek" & Struk Jam Tangan Couple Senayan** (Klien Bolu Ketan yang dicampakkan pacar pesoleknya pada 12 Oktober, seminggu sebelum pertunangan Ibas bubar) | **Bab 3:** Tari curhat ke Dita soal mantannya yang pesolek dan mengirim foto struk pembelian jam tangan *couple* tanggal 12 Oktober yang batal diberikan padanya. | **Bab 14:** Tari mengirim hampers brownies ke Dita sebagai ucapan terima kasih; di foto lampiran terlihat seri jam tangan pria yang persis sama dengan yang dipamerkan Restu di lobi kantor. | **Bab 27-30:** Tari bersedia memberikan struk asli dan bukti chat Restu tanggal 12 Oktober yang membuktikan Restu dan Clarissa sudah berselingkuh sebelum pertunangan Ibas-Clarissa bubar. |
+| **3. Map Hijau Kwitansi Vendor & Aturan Oper Tanggal Gedung** (Kebiasaan OCPD Ibas menyimpan berkas vendor & aturan *reschedule* Gedung Graha Cempaka) | **Bab 4:** Ibas merapikan map hijau kwitansi DP Gedung Graha Cempaka Rp45 juta tepat siku-siku di mejanya saat menahan nyeri lambung. | **Bab 16:** Mbak Rani nyeletuk sambil mengoles minyak angin soal sepupunya yang batal nikah di Graha Cempaka tapi uang DP-nya tidak hangus karena bisa *oper nama/ganti tanggal* dengan potongan 10%. | **Bab 28-31:** Terbongkar bahwa uang DP Rp45 juta sebenarnya tidak hangus, melainkan diam-diam diajukan pengembalian/pengalihan ke rekening pribadi Clarissa untuk modal liburannya bersama Restu. |
 
 ---
 
@@ -196,8 +196,8 @@
 | Pembicara -> Lawan Bicara | Sebutan di Narasi Batin Dita (POV 1) | Sapaan & Kata Ganti Awal / Formal | Sapaan & Kata Ganti Saat Akrab / Berdua | Saat Konflik / Marah |
 |---|---|---|---|---|
 | **Dita -> Ibu Kandung** | `Ibu` / `Ibuku` (DILARANG `Bu Ratna`) | `Bu`, `Aku-Ibu` (`Dita-Ibu`) | `Bu`, `Aku-Ibu` | `Bu...` (nada lembut tertahan) |
-| **Dita -> Ibas** | `Mas Ibas` / `Ibas` (DILARANG julukan POV 3 seperti `analis kaku itu` setelah kenal) | `Mas Ibas`, `Saya-Mas` | `Mas Ibas` / `Mas`, `Aku-Mas` (mulai Bab 15) | `Mas Baskara` / `Mas`, `Saya-Mas` (kembali formal dingin) |
-| **Ibas -> Dita** | - | `Mbak Dita`, `Saya-Mbak` | `Dita`, `Saya-Kamu` lalu `Aku-Kamu` (mulai Bab 15) | `Dita` (nada datar dan pelan) |
+| **Dita -> Ibas** | `Mas Ibas` / `Ibas` (DILARANG julukan POV 3 seperti `analis kaku itu` setelah kenal) | `Mas Ibas`, `Saya-Mas` | `Mas Ibas` / `Mas`, `Aku-Mas` (mulai Bab 17) | `Mas Baskara` / `Mas`, `Saya-Mas` (kembali formal dingin) |
+| **Ibas -> Dita** | - | `Mbak Dita`, `Saya-Mbak` | `Dita`, `Saya-Kamu` lalu `Aku-Kamu` (mulai Bab 17) | `Dita` (nada datar dan pelan) |
 | **Dita -> Mbak Rani & Tomi** | `Mbak Rani`, `Tomi` | `Mbak Rani` / `Tomi`, `Gue-Lo/Mbak` | `Mbak Rani` / `Tom`, `Gue-Lo/Mbak` | `Tomi!` / `Mbak Rani ih!` |
 | **Clarissa -> Dita (Tatap Muka)** | `Clarissa` | `Mbak Dita`, `Aku-Mbak` (sopan manis palsu) | - | Tetap bersuara lembut menyindir (`Mbak Dita`) |
 | **Clarissa -> Dita (Via Chat Bolu Ketan)** | `Klien Mawar` (Bab 1-5) -> `Clarissa` | `Kak Admin`, `Aku-Kakak` | - | `Kak!` (menuntut kasar via teks) |
@@ -243,10 +243,10 @@
 
 | Fakta / Rahasia | Siapa Tahu di Awal | Sejak Kapan | Saluran Perolehan | Terungkap ke Pihak Lawan di Bab |
 |---|---|---|---|---|
-| Dita adalah admin di balik akun konsultasi **Bolu Ketan** | Dita (dan ibunya hanya tahu Dita buka jasa konsultasi online) | Bab 1 | Diri sendiri | Ibas tahu di Bab 6; Mbak Rani/Tomi tahu di Bab 20; Clarissa tahu di Bab 22; Keluarga tahu di Bab 28 |
-| "Klien Mawar" yang menyewa paket VIP **Bolu Ketan** adalah Clarissa Maharani | Dita baru menyadari di Bab 4-5 | Bab 4-5 | Dita mencocokkan cerita Ibas & bukti di meja Ibas dengan naskah "Skenario Balik Meja" | Ibas diberitahu Dita di Bab 6; Pak Hendrawan tahu di Bab 28 |
-| Clarissa sudah selingkuh kembali dengan Restu sejak awal Oktober (sebelum batal tunangan) | Clarissa & Restu | Pra-Bab 1 | Struk jam tangan *couple* 12 Oktober dari Tari ("Klien Anggrek") | Dita & Ibas merakit buktinya di Bab 18-26; terbongkar di depan keluarga Bab 28 |
-| Uang DP Gedung Graha Cempaka Rp45 juta sebenarnya tidak hangus (diajukan *refund/oper tanggal* oleh Clarissa) | Clarissa | Pra-Bab 1 | Kwitansi asli di map hijau Ibas & konfirmasi staf Graha Cempaka | Dita & Ibas tahu pasti di Bab 26; terbongkar di Bab 28 |
+| Dita adalah admin di balik akun konsultasi **Bolu Ketan** | Dita (dan ibunya hanya tahu Dita buka jasa konsultasi online) | Bab 1 | Diri sendiri | Ibas tahu di Bab 6; Mbak Rani/Tomi tahu di Bab 25; Clarissa tahu di Bab 23; Keluarga tahu di Bab 30 |
+| "Klien Mawar" yang menyewa paket VIP **Bolu Ketan** adalah Clarissa Maharani | Dita baru menyadari di Bab 4-5 | Bab 4-5 | Dita mencocokkan cerita Ibas & bukti di meja Ibas dengan naskah "Skenario Balik Meja" | Ibas diberitahu Dita di Bab 6-7; Pak Hendrawan tahu di Bab 30 |
+| Clarissa sudah selingkuh kembali dengan Restu sejak awal Oktober (sebelum batal tunangan) | Clarissa & Restu | Pra-Bab 1 | Struk jam tangan *couple* 12 Oktober dari Tari ("Klien Anggrek") | Dita & Ibas merakit buktinya di Bab 18-27; terbongkar di depan keluarga Bab 30 |
+| Uang DP Gedung Graha Cempaka Rp45 juta sebenarnya tidak hangus (diajukan *refund/oper tanggal* oleh Clarissa) | Clarissa | Pra-Bab 1 | Kwitansi asli di map hijau Ibas & konfirmasi staf Graha Cempaka | Dita & Ibas tahu pasti di Bab 28; terbongkar di Bab 31 |
 
 ---
 
@@ -254,9 +254,9 @@
 
 | Tokoh | Peran | Muncul di Bab | Payoff |
 |---|---|---|---|
-| **Tari ("Klien Anggrek")** | Klien **Bolu Ketan** (staf bank di Senayan) yang baru putus dari pria narsistik bernama Restu | Bab 3, Bab 14, Bab 26, Bab 28 | Menyerahkan struk asli pembelian jam tangan *couple* bertanggal 12 Oktober & tangkapan layar chat Restu yang membuktikan perselingkuhan Clarissa-Restu sebelum pertunangan Ibas bubar. |
-| **Siska ("Klien Melati")** | Klien pembuka **Bolu Ketan** yang sukses bikin mantannya kapok *breadcrumbing* | Bab 1, Bab 13, Bab 30 | Memperlihatkan keampuhan rumus Dita di Bab 1 dan menjadi salah satu klien setia yang mendukung usaha konsultasi baru Dita yang resmi di Bab 30. |
-| **Pak Satpam Darto / Resepsionis Lobi** | Penjaga lobi PT Artha Kencana | Bab 2, Bab 10, Bab 21 | Saksi mata kedatangan Clarissa dan Restu di sekitar lobi gedung kantor. |
+| **Tari ("Klien Anggrek")** | Klien **Bolu Ketan** (staf bank di Senayan) yang baru putus dari pria narsistik bernama Restu | Bab 3, Bab 14, Bab 27, Bab 30 | Menyerahkan struk asli pembelian jam tangan *couple* bertanggal 12 Oktober & tangkapan layar chat Restu yang membuktikan perselingkuhan Clarissa-Restu sebelum pertunangan Ibas bubar. |
+| **Siska ("Klien Melati")** | Klien pembuka **Bolu Ketan** yang sukses bikin mantannya kapok *breadcrumbing* | Bab 1, Bab 13, Bab 34 | Memperlihatkan keampuhan rumus Dita di Bab 1 dan menjadi salah satu klien setia yang mendukung usaha konsultasi baru Dita yang resmi di Bab 34. |
+| **Pak Satpam Darto / Resepsionis Lobi** | Penjaga lobi PT Artha Kencana | Bab 2, Bab 11, Bab 21 | Saksi mata kedatangan Clarissa dan Restu di sekitar lobi gedung kantor. |
 
 ---
 
@@ -269,15 +269,15 @@
   1. **Bab 1:** Dita mendiktekan balasan chat 3 kata untuk Klien Melati sambil makan soto, langsung membuat mantan si klien kelabakan dalam 2 menit.
   2. **Bab 6:** Momen Ibas menemukan skema "Skenario Balik Meja" di buku jurnal hitam Dita yang persis 100% sama dengan kejadian yang menghancurkan pertunangannya.
   3. **Bab 10:** Adegan komedi latihan simulasi di ruang rapat kosong saat Dita mengajari Ibas yang super kaku cara tersenyum sinis dan menjawab sindiran perempuan narsistik, tapi wajah Ibas malah tampak seperti orang menahan sakit gigi.
-  4. **Bab 15 (Midpoint):** Hujan deras di Tebet; Ibas mengantar Dita pulang dan tanpa banyak bicara langsung membetulkan talang air dapur Ibu Dita yang bocor, membuat benteng sinis Dita runtuh untuk pertama kali.
-  5. **Bab 28 (Klimaks):** Pertemuan dua keluarga di mana Clarissa terpancing mengucapkan kalimat sandi "Langkah ke-5" yang baru dikirim Dita 10 menit sebelumnya, disusul terbukanya bukti tanggal 12 Oktober dan skandal uang DP gedung di depan ayah Clarissa sendiri.
+  4. **Bab 17 (Midpoint):** Hujan deras di Tebet; Ibas mengantar Dita pulang dan tanpa banyak bicara langsung membetulkan talang air dapur Ibu Dita yang bocor, membuat benteng sinis Dita runtuh untuk pertama kali.
+  5. **Bab 30-31 (Klimaks):** Pertemuan dua keluarga di mana Clarissa terpancing mengucapkan kalimat sandi "Langkah ke-5" yang baru dikirim Dita 10 menit sebelumnya, disusul terbukanya bukti tanggal 12 Oktober dan skandal uang DP gedung di depan ayah Clarissa sendiri.
 
 ---
 
 ## Ending
 
 - **Arah ending:** *Happy Ending* dengan **Akhir Tidak Sempurna (Harga Nyata)**. Ibas bebas sepenuhnya dari tuduhan dan tuntutan Rp45 juta, Pak Hendrawan meminta maaf secara resmi kepada Ibas dan Ibu Sri, dan hubungan Dita-Ibas resmi berlanjut secara tulus.
-- **Harga nyata yang harus dibayar:** Demi membuktikan kebenaran di klimaks, Dita harus membuka identitasnya sebagai perancang strategi di balik akun anonim **Bolu Ketan**, menutup akun rahasia lamanya secara permanen, dan menerima surat peringatan administratif di kantor karena menjalankan bisnis konsultasi tanpa izin di luar. Namun di Bab 30, dengan dukungan Ibas dan rekomendasi mantan kliennya, Dita membuka kelas/konsultasi komunikasi hubungan yang resmi dan terbuka di akhir pekan.
+- **Harga nyata yang harus dibayar:** Demi membuktikan kebenaran di klimaks, Dita harus membuka identitasnya sebagai perancang strategi di balik akun anonim **Bolu Ketan**, menutup akun rahasia lamanya secara permanen, dan menerima surat peringatan administratif di kantor karena menjalankan bisnis konsultasi tanpa izin di luar. Namun di Bab 34, dengan dukungan Ibas dan rekomendasi mantan kliennya, Dita membuka kelas/konsultasi komunikasi hubungan yang resmi dan terbuka di akhir pekan.
 
 ---
 
