@@ -1,6 +1,6 @@
 # Outline: Konsultan Move On (Bolu Ketan)
 
-**Status:** DRAFT v1.0 (Siap Stress Test & Lock)
+**Status:** TERKUNCI v1.0
 **Tanggal lock:** 2026-11-05
 **Jumlah bab:** 34 bab
 **Target kata:** +-750/bab (rentang wajib 600-900 kata; darurat maks. 1.200 kata)

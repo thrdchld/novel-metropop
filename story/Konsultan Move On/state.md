@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Belum mulai (Persiapan Outline & Bab 1)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 1
-- **Titik Waktu Cerita:** Hari 1 (Senin, 6 November 2026), Pukul 07.45 WIB
-- **Lokasi Terkini Tokoh Utama:** Warung Soto dekat Stasiun Tebet -> Gedung PT Artha Kencana (Kuningan)
-- **Cuaca / Suasana Fisik:** Pagi cerah berawan khas awal musim hujan Jakarta
+- **Bab Terakhir Selesai:** Bab 1 (Resep Tiga Kata)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 2 (Analis Kaku Lantai Delapan)
+- **Titik Waktu Cerita:** Hari 1 (Senin, 6 November 2026), Pukul 08.15 WIB (perjalanan ojol dari Stasiun Tebet menuju Gedung PT Artha Kencana, Kuningan)
+- **Lokasi Terkini Tokoh Utama:** Di atas motor ojol menuju Gedung PT Artha Kencana (Kuningan)
+- **Cuaca / Suasana Fisik:** Pagi cerah berawan, lalu lintas jam berangkat kerja Rasuna Said
 - **POV Aktif:** Dita Maheswari (POV 1 "Aku")
-- **Kondisi Emosi Tokoh Utama:** Percaya diri, sarkastik, puas karena strategi klien Bolu Ketan kembali sukses besar
+- **Kondisi Emosi Tokoh Utama:** Puas dan percaya diri karena strategi untuk Klien Melati (Siska) dan Klien Mawar sama-sama sukses besar, belum menyadari siapa korban Klien Mawar sebenarnya
 
 ---
 
@@ -74,7 +74,8 @@
 
 | Bab | Tokoh | Data Mikro Baru yang Diperoleh | Saluran Pemerolehan (Visual / Auditori / Dokumen) | Bukti Tindakan di Teks |
 |---|---|---|---|---|
-| Pra-Bab 1 | Dita | Keluhan "Klien Mawar" soal tunangan dingin & uang vendor Rp45 juta | Dokumen/Layar: Chat WhatsApp akun anonim Klien Mawar | Akan ditampilkan di Bab 1 |
+| Bab 1 | Dita | Klien Melati (Siska) berhasil membalikkan mental mantannya hanya dengan balasan 3 kata (`maaf, ini siapa?`) dan mentransfer tip tambahan | Dokumen/Layar: Tangkapan layar chat WhatsApp di ponsel kedua Dita | Dita memberi tanda centang di buku jurnal hitamnya |
+| Bab 1 | Dita | Klien Mawar melunasi Paket VIP Rp750.000 dan mengabarkan bahwa semalam pertunangannya resmi bubar memakai "Skenario Balik Meja Lima Langkah" (sampai kalimat sandi Langkah ke-5: *"Jangan menanam kaktus di halaman orang kalau tidak siap tertusuk durinya sendiri"* keluar semua), membuat mantan tunangannya yang bekerja sebagai analis di Kuningan dituntut ganti rugi gedung & katering Rp45 juta | Dokumen/Layar: Notifikasi transfer & chat WhatsApp dari nomor anonim Klien Mawar | Dita membaca chat Klien Mawar sebelum naik ojol ke Kuningan |
 
 **Daftar Data yang BELUM Boleh Diketahui Tokoh Saat Ini (Strictly Unknown Data):**
 - **Dita (di Bab 1-3):** Belum tahu bahwa "Klien Mawar" adalah Clarissa Maharani; belum tahu bahwa pria yang dijebak dengan skenario buatannya semalam adalah Mas Ibas.
@@ -93,4 +94,5 @@
 
 ## VIII. Benang Terbuka & Janji Tertunda (Active Suspended Threads)
 
-1. Menunggu penyusunan dan penguncian `outline.md` (30 bab) sebelum menulis Bab 1.
+1. **BARU (Bab 1):** Kalimat kiasan sandi khusus Klien Mawar di Langkah ke-5 modul PDF ("Jangan menanam kaktus di halaman orang kalau tidak siap tertusuk durinya sendiri") sudah ditanam sebagai **Tanaman 1A**.
+2. **BARU (Bab 1):** Kabar dari Klien Mawar bahwa mantan tunangannya yang dituntut ganti rugi Rp45 juta bekerja sebagai analis di daerah Kuningan (menuju pertemuan pertama Dita dan Ibas di Bab 2).

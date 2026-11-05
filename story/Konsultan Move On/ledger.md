@@ -6,7 +6,7 @@
 
 | Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
 |---|---|---|---|---|
-| - | Menunggu Bab 1 ditulis | - | - | - |
+| Bab 1 | Hari 1 (Senin, 6 Nov 2026), 07.30-07.50 WIB | Warung Soto Pak Kumis dekat Stasiun Tebet -> Ojol ke Kuningan | Dita (POV), Siska/Klien Melati (via chat), Klien Mawar (via chat) | **BARU:** Dita menyelesaikan konsultasi darurat Klien Melati dengan resep 3 kata ("maaf, ini siapa?"), mencatat buku jurnal hitam **Bolu Ketan** beserta kalimat sandi Langkah ke-5 ("Jangan menanam kaktus di halaman orang kalau tidak siap tertusuk durinya sendiri"), dan menerima kabar dari Klien Mawar bahwa Skenario Balik Meja sukses membubarkan pertunangannya dengan seorang analis di Kuningan serta menuntut ganti rugi Rp45 juta. |
 
 ## A2. Timeline Masa Lalu
 
@@ -38,7 +38,7 @@
 
 | Bab | POV | Emosi/perubahan | Benda yang dibawa | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
 |---|---|---|---|---|---|---|
-| - | Menunggu Bab 1 | - | - | - | - | - |
+| Bab 1 | Dita | Fokus & sarkastik -> Puas & percaya diri | Tas kanvas hitam, buku jurnal hitam kulit sintetis, ponsel utama & ponsel kedua admin Bolu Ketan | Rekan kerja biasa di PT Artha Kencana (belum kenal dekat Ibas) | Dita adalah admin **Bolu Ketan** dan perancang "Skenario Balik Meja Lima Langkah" untuk Klien Mawar | Dita menuju kantornya di Kuningan tanpa tahu analis yang dijebak Klien Mawar Rp45 juta adalah calon rekan satu tim proyeknya |
 
 ## E. Fakta Keras dan Angka
 

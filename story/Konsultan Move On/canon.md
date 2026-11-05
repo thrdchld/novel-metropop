@@ -1,6 +1,6 @@
 # Canon - Konsultan Move On (Bolu Ketan)
 
-> Status: DRAFT v1.0 (Menunggu Persetujuan User)
+> Status: TERKUNCI v1.0
 > Versi: v1.0
 > Terakhir diperbarui: 2026-11-05
 > Sumber kebenaran cerita. Jangan diubah tanpa persetujuan user.
