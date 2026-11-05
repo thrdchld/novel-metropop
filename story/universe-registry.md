@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | (Sedang Brainstorming: Jasa Konsultasi Move On / Bolu Ketan) | `BRAINSTORMING (TAHAP A)` | 0 | 0 | Jakarta | 2026 | - |
+| `NOV-002` | `PRM-002` | Konsultan Move On | `TAHAP B-C (CANON & OUTLINE)` | 0 | 0 | Jakarta (Kuningan, Tebet, Pasar Minggu) | 2026 | - |
 
 ---
 
@@ -42,14 +42,16 @@
   - *Ultimate Stakes:* Mempertaruhkan prinsip integritas bahwa martabat hidup ditentukan oleh kejujuran kerja halal, bukan kasta sosial atau seragam kerja.
 - **Ringkasan 5 Slot:** Keinginan/Kebutuhan: lunasi utang cepat vs belajar membagi beban; Tenggat: 30 menit pra-resepsi & 3 bulan kontrak; Konsekuensi: sita dapur kue & kawin paksa; Jalan Tertutup: macet 30 menit, dapur harian bergantung pada ojol, tuduhan penipu jika jujur tanpa bukti watak; Harga Akhir: pulihkan warung kue dari teror bintang 1 dan merobek sisa klaim uang kontrak sandiwara.
 
-#### PRM-002: Kurir Barang Mantan
-- **Proyek Terkait:** `NOV-002` (Sedang dirancang ulang dari nol dengan Standar Keterwajaran Kelas Menengah & Tone *Resign!*)
-- **Status:** `DITERIMA / AKTIF (DALAM PERANCANGAN ULANG)`
+#### PRM-002: Konsultan Move On (Bolu Ketan)
+- **Proyek Terkait:** `NOV-002` (Folder: `story/Konsultan Move On/`)
+- **Status:** `DITERIMA / AKTIF (TAHAP B-C: CANON & OUTLINE)`
 - **Tanggal Disetujui:** 2026-11-05
-- **Elemen Inti yang Dikunci Penulis:**
-  - Usaha: **Bolu Ketan** (*Bantu Orang Lepas Urusan Ketemu Mantan*) di ruko Tebet milik Pakde Broto (memicu *running gag* dikira toko kue basah arisan & protes singkatan maksa).
-  - Tokoh: **Dita Maheswari** (pendiri Bolu Ketan), **Baskara Danuputra / Ibas** (klien pekerja kelas menengah Jakarta, bukan CEO konglomerat), **Clarissa Maharani** (mantan tunangan Ibas), **Restu** (kurir lapangan).
-  - Catatan Anti-Pattern dari Draf Lama yang Dihapus: Dilarang memakai konflik cincin berlian Rp120 juta, dilarang memakai drama laporan polisi/KUHP untuk urusan barang mantan, dan dilarang memakai pembuktian timbangan forensik yang mengada-ada.
+- **Rumus ABCD Premis:**
+  - *A (Character):* Dita Maheswari, karyawati HRD yang cerdas, sinis soal cinta, dan jago membaca psikologi hubungan.
+  - *B (Routine):* Membuka jasa konsultasi strategi *move on* anonim bernama **Bolu Ketan** (*Bantu Orang Lepas Urusan Kenangan Mantan*) yang laris dari mulut ke mulut karena sarannya yang luar biasa pintar.
+  - *C (Inciting Incident):* Strategi pemutusan hubungan paling jenius yang ia berikan ke seorang klien anonim ("Klien Mawar") ternyata dipakai untuk menjebak dan menghancurkan reputasi **Baskara Danuputra (Ibas)**, rekan kerja barunya yang jujur dan tidak bersalah, hingga dituntut membayar uang hangus vendor pernikahan Rp45 juta.
+  - *D (Action):* Dita harus bekerja sama dengan Ibas untuk mematahkan strategi buatannya sendiri dan membuktikan kebohongan mantan tunangan Ibas dalam 30 hari tanpa menghancurkan bisnis konsultasinya.
+- **Kerangka Plot:** Tiga Babak + Seven-Point Structure (Pendamping: Struktur Romance + Siklus Coba-Gagal + Arc Bersarang).
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
@@ -98,10 +100,12 @@
 | Sumiati | Ibu / Bu Sumi | `NOV-001` | Keluarga | Pengrajin Kue Basah Pasar Tradisional Tebet | Pekerja keras, lembut, menjaga nama baik keluarga | `Boleh (Tingkat 1)` |
 | Darmawan | Pak Darmawan | `NOV-001` | Profesional | Kuasa Hukum / Pengacara Korporat Menara Astra | Tepat prosedur, dingin, taat hukum RI | `Boleh (Tingkat 1-3)` |
 | Reza Mahendra | Reza | `NOV-001` | Antagonis Sampingan | Pemilik Agensi Pemasaran Digital BuzzMedia | Licik, oportunis, penakut saat diancam pidana ITE | `Boleh (Tingkat 1-2)` |
-| Dita Maheswari | Dita | `NOV-002` | Protagonis | Pendiri Agensi Bolu Ketan (Breakup Concierge) | Hyper-independent, sinis cinta, trauma pengkhianatan (*Betrayal Trauma*) | `Boleh (Tingkat 1-3)` |
-| Baskara Danuputra | Ibas / Mas Ibas | `NOV-002` | Love Interest | Manajer Pengadaan Interior SCBD | Lurus, kaku etiket, sangat menjaga martabat (*Fragile Sheltered Child & Guilt Complex*), rapuh menghadapi ekspektasi keluarga besar. | `Boleh (Tingkat 1-3)` |
-| Clarissa Maharani | Clarissa | `NOV-002` | Antagonis | Mantan tunangan Baskara, selebgram gaya hidup | Manipulatif, *Overt Narcissist*, terlilit utang arisan | `Boleh (Tingkat 1-2)` |
-| Restu | Restu | `NOV-002` | Sekutu | Kurir lapangan Bolu Ketan | Ceplas-ceplos, setia kawan, melankolis empati tinggi pada orang patah hati | `Boleh (Tingkat 1-3)` |
+| Dita Maheswari | Dita | `NOV-002` | Protagonis | Staf Komunikasi/HRD PT Artha Kencana & Konsultan Strategi **Bolu Ketan** | *Hyper-vigilant*, sarkastik, *Savior Blind Spot* pada klien perempuan menangis (*Betrayal Trauma*) | `Boleh (Tingkat 1-3)` |
+| Baskara Danuputra | Ibas / Mas Ibas | `NOV-002` | Love Interest | Analis Risiko Senior PT Artha Kencana | Lurus, kaku (OCPD simetri), *Alexithymia* & somatisasi GERD, pemikul beban keluarga | `Boleh (Tingkat 1-3)` |
+| Clarissa Maharani | Clarissa / Klien Mawar | `NOV-002` | Antagonis Utama | Desainer Interior Lepas & Anak Klien Rekanan | *Covert Narcissist* (*Perpetual Martyr*) & *Golden Child*, jago berakting terzolimi | `Boleh (Tingkat 1-2)` |
+| Restu Wirawan | Restu | `NOV-002` | Antagonis Pendukung | Account Executive Agensi Periklanan | *Overt Narcissist*, pesolek, pengecut saat ditagih tanggung jawab uang | `Boleh (Tingkat 1-2)` |
+| Rani | Mbak Rani | `NOV-002` | Sekutu | Staf Senior HRD & GA PT Artha Kencana | Ratu intel kantor, laci penuh camilan & minyak angin, protektif | `Boleh (Tingkat 1-3)` |
+| Tomi | Tomi | `NOV-002` | Sekutu | Staf Desain & IT Support PT Artha Kencana | Kalem, hobi putar bolpoin (*ADHD stimming*), tukang kompor singkat | `Boleh (Tingkat 1-3)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.
