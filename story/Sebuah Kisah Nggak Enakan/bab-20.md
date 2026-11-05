@@ -1,0 +1,47 @@
+## Bab 20: Kabar dari Cabang Yogyakarta
+
+Selama dua hari setelah obrolan di dapur kantor itu, aku berusaha keras meyakinkan diriku sendiri bahwa ucapan Dimas hanyalah akal-akalan mantan pacar yang sedang panik mencari perhatian.
+
+Waktu Pak Ramdan memperkenalkan Saka di ruang rapat pada hari pertama dulu, Pak Ramdan memang sempat menyebut bahwa kami dipasangkan duduk semeja selama dua bulan untuk merampungkan buku Sela Waktu. Tapi aku selalu mengira dua bulan itu hanyalah batas waktu pengerjaan proyek bukunya, bukan batas waktu keberadaan Saka di Jakarta.
+
+Sampai akhirnya hari Jumat siang pukul satu lewat lima belas menit tiba.
+
+Siang itu Saka sedang turun ke lantai dua untuk mengurus berkas administrasi di bagian personalia. Aku berjalan sendirian membawa map kuning berisi cetakan akhir tata letak bab enam menuju ruangan Pak Ramdan di sudut lantai tiga.
+
+Pintu kayu ruangan Pak Ramdan tidak tertutup rapat, menyisakan celah selebar telapak tangan. Baru saja aku mengangkat buku jari untuk mengetuk kaca pintu, suara lantang Pak Ramdan yang sedang berbicara di telepon meja terdengar jelas dari dalam ruangan.
+
+"Iya, Pak Bambang, proyek Sela Waktu di Jakarta sudah beres sesuai jadwal kok," kata Pak Ramdan sambil tertawa ramah ke gagang telepon. "Kerjaan Saka sama Nadia rapi sekali, awal minggu depan sudah masuk cetak percobaan dan Jumat depan sudah bisa peluncuran buku."
+
+Aku menurunkan tanganku yang hendak mengetuk pintu, menunggu Pak Ramdan menyelesaikan teleponnya.
+
+Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terasa terpaku di atas karpet lorong.
+
+"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma dua bulan sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugasnya di sini sudah habis. Nanti biar Saka sendiri yang menghadap ke Yogyakarta buat urusan penempatan selanjutnya ya, Pak."
+
+Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan dengan salam hangat.
+
+Aku berdiri diam di depan celah pintu itu. Napasku terasa pendek.
+
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku dua bulan. Dan karena kami bekerja lebih cepat dari perkiraan, buku Sela Waktu sudah akan diluncurkan hari Jumat minggu depan, yang artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+
+Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
+
+Kursi kerja Saka di sebelahku masih kosong karena orangnya belum naik dari lantai dua.
+
+Saat aku duduk di kursiku dan meletakkan map kosong ke atas meja, pandanganku tanpa sengaja tertuju pada tumpukan buku referensi di dekat laptop Saka yang sedang menyala dalam mode istirahat.
+
+Terselip di bawah buku catatan hitam milik Saka, ada sepucuk amplop cokelat panjang resmi yang sebagian ujungnya menyembul keluar. Di sudut kiri atas amplop itu, tercetak jelas logo dan alamat Kantor Pusat Penerbit Aksara Senja Cabang Yogyakarta, lengkap dengan cap bagian kepegawaian tertanggal hari ini.
+
+Jantungku rasanya mencelos jatuh ke dasar perut.
+
+Tanpa sadar, tangan kananku meraih pensil gambar dari dalam tempat pensil, lalu mengangkat ujung karet penghapusnya yang sudah lama tidak kugigit ke dekat bibirku.
+
+Kenyataan yang sejak hari Rabu kutepis mati-matian kini terhampar tepat di depan mataku. Selama empat minggu terakhir ini, akulah yang terlalu cepat melambung tinggi. Hanya karena Saka membelikanku es jeruk, memberiku cokelat waktu tanganku gemetar, memayungiku sepanjang jalan Cikini, dan memerah telinganya waktu kugoda soal tutup botol minum, aku langsung berasumsi bahwa dia ingin tinggal di sisiku.
+
+Padahal dari awal sampai hari ini, Saka tidak pernah sekali pun mengucapkan kata suka atau mengajakku membicarakan hubungan di luar meja nomor empat.
+
+Jangan-jangan, bagi laki-laki yang paling taat aturan jam kerja itu, semua perhatian kecilnya selama ini hanyalah bentuk tanggung jawab seorang editor proyek agar ilustratornya tidak mogok kerja sebelum bukunya terbit? Dan begitu jam lima sore di hari terakhir proyek nanti tiba, dia akan menutup laptopnya, kembali menjadi warga sipil Yogyakarta, lalu pulang ke kotanya tanpa menoleh lagi.
+
+Suara langkah kaki yang tenang terdengar mendekat dari arah pintu kaca lobi lantai tiga.
+
+Aku buru-buru menurunkan pensil dari depan mulutku tepat saat Saka tiba di meja kami dan menarik kursinya.

@@ -14,11 +14,11 @@ Pegangan payung itu terangkat sedikit, memperlihatkan wajah datar Saka di bawahn
 
 "Loh, Mas Saka? Kok balik lagi? Keretanya ketinggalan?" tanyaku kaget.
 
-"Stasiun lagi penuh banget antrean masuknya. Malas desak-desakan," jawab Saka lempeng. Dia melirik layar ponselku yang masih menampilkan peta pencarian ojek, lalu melirik tabung gambar di pelukanku. "Belum dapat ojek kan?"
+"Stasiun lagi penuh banget antrean masuknya. Malas desak-desakan. Belum dapat ojek kan?" tanya Saka lempeng sambil melirik layar ponselku yang masih menampilkan peta pencarian ojek, lalu melirik tabung gambar di pelukanku.
 
-"Belum, Mas. Dari tadi muter terus."
+"Belum, Mas. Dari tadi muter terus," jawabku sambil mematikan layar ponsel.
 
-"Ya udah, jalan kaki aja ke kosmu. Cuma sepuluh menit kan lewat trotoar depan?"
+"Ya udah, jalan kaki aja ke kosmu. Cuma sepuluh menit kan lewat trotoar depan?" ajaknya tenang.
 
 Aku mengerjap bingung. "Terus Mas Saka gimana? Kos Mas Saka kan arahnya naik kereta ke selatan, bukan ke arah gang kosku."
 

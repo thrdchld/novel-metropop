@@ -22,13 +22,17 @@
 | 14 | Kamis siang (dua minggu kemudian), Ruang Kerja Penerbit Aksara Senja | Nadia, Saka, Tari, Dimas | Meja Nadia kini rapi dengan papan gambar baru. Dimas yang mulai cemburu datang mengkritik draf sampul *Sela Waktu* dan menyindir Saka, namun ditanggapi datar serempak oleh Nadia dan Saka. |
 | 15 | Kamis sore (pukul 15.30), Ruang Rapat Redaksi | Nadia, Saka, Pak Ramdan, Dimas | Dalam rapat evaluasi sampul, Dimas mencoba menjatuhkan karya Nadia, namun Saka mematahkan argumen Dimas menggunakan tabel laporan penjualan yang ditandatangani Dimas sendiri hingga sampul Nadia langsung disetujui Pak Ramdan. |
 | 16 | Kamis petang (pukul 17.30), Trotoar Jalan Cikini Raya | Nadia, Saka | Saat gerimis turun dan Nadia kehabisan ojek, Saka berbalik menghampiri dan mengantar Nadia jalan kaki menuju kos di bawah satu payung sambil membawakan tabung gambar dan membiarkan bahu kanannya basah demi melindungi Nadia. |
+| 17 | Kamis malam (pukul 18.15), Teras Depan Kos Nadia di Cikini | Nadia, Saka | **Titik Tengah:** Saka menyerahkan martabak manis cokelat keju dengan alasan promo malam Jumat sambil memutar tutup botol hitamnya *klik* dua kali; Nadia tertawa membongkar kebiasaan bohong Saka itu hingga telinga Saka memerah salah tingkah. |
+| 18 | Senin pagi, Meja Proyek Nomor 4 | Nadia, Saka, Tari | Saka membelikan kopi pagi untuk Nadia secara terang-terangan tanpa alasan bohong lagi; Nadia menggambar siluet botol minum penyok kecil di sudut halaman ucapan terima kasih buku *Sela Waktu* dan Saka meminta gambar itu dipertahankan sampai naik cetak. |
+| 19 | Rabu sore (pukul 15.50), Pantry Kantor | Nadia, Dimas | Setelah putus dari Vanya, Dimas menghampiri Nadia dengan sikap lembut dan menyesal, menyeduhkan teh melati setengah sendok gula seperti dulu, meminta maaf sambil berkaca-kaca, dan membisikkan keraguan bahwa penugasan Saka dari Jogja hanya dua bulan. |
+| 20 | Jumat siang (pukul 13.15), Depan Ruangan Pak Ramdan & Meja Proyek Nomor 4 | Nadia, Pak Ramdan, Saka | Nadia tak sengaja mendengar Pak Ramdan menelepon kepala cabang Yogyakarta tentang berakhirnya masa tugas dua bulan Saka minggu depan, lalu melihat amplop cokelat berlogo cabang Yogyakarta di meja Saka hingga kecemasannya memuncak. |
 
 ## B. Daftar Detail Kecil / Planting & Callback
 
 | Detail / Kebiasaan / Benda | Ditanam di Bab | Dibayar di Bab | Status |
 |---|---|---|---|
 | Gaya bicara baku ala operator *customer service* saat Nadia menahan marah + ejekan Dimas | Bab 1, 2 | Bab 28 | **Ditanam (Bab 1-2)** |
-| Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar saat kesal/cemas | Bab 1, 4 | Bab 20 | **Ditanam (Bab 1, 4)** |
-| Botol minum hitam Saka yang penyok sedikit di bagian bawah | Bab 2, 3, 4, 8, 9 | Bab 12, 24, 30 | **Dibayar Sebagian (Bab 12)** |
+| Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar saat kesal/cemas | Bab 1, 4 | Bab 20 | **Dibayar (Bab 20)** |
+| Botol minum hitam Saka yang penyok sedikit di bagian bawah | Bab 2, 3, 4, 8, 9, 12, 18 | Bab 24, 30 | **Ditanam & Diperkuat (Bab 18)** |
 | Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* | Bab 4 | Bab 5, 7, 26, 32 | **Ditanam (Bab 4)** |
-| Tell Saka: memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali saat berbohong menutupi perhatiannya | Bab 5, 7, 17 | Bab 31 (*Silent Callback*) | **Ditanam (Bab 5, 7)** |
+| Tell Saka: memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali saat berbohong menutupi perhatiannya | Bab 5, 7, 17 | Bab 31 (*Silent Callback*) | **Terkunci di Midpoint (Bab 17)** |
