@@ -46,12 +46,13 @@
 
 ## 4. Rincian Mode Kerja A–E
 
-### Mode A: Ide, Premis, & Brainstorming Konflik
+### Mode A: Ide, Premis (ABCD Ringkas), & Pengembangan ke Kerangka Cerita
 1. Baca `story/universe-registry.md`, `01-genre.md`, dan `02-premise.md`.
 2. Patuhi **Aturan Anti-Penawaran Ulang & Anti-Duplikasi** (dilarang menawarkan ide yang sudah ditolak, menduplikasi nama/watak/profesi tokoh lama, atau memakai trope di Daftar Hitam Trope).
-3. **Wajib Jalankan Filter Anti-Yes-Man (Debat Ide Sejak Akar):** Jika pengguna mengajukan ide mentah atau premis yang dari akarnya sudah sulit diterima akal sehat manusia (misal jenis usahanya tidak dibutuhkan di dunia nyata atau mudah digantikan aplikasi umum), **AI dilarang asal setuju ("yes-man")**. AI wajib mendebat dan membedah kelemahan ide tersebut dari segala arah, lalu merekomendasikan perombakan konsep dasar sebelum menyusun **Rumus ABCD** dan **Protokol Brainstorming 7 Langkah** di `02-premise.md`.
-4. Jika pengguna meminta 3 opsi premis baru dari nol, gunakan template `engine/templates/premise-options.md`.
-5. Catat keputusan ke `story/universe-registry.md` (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, atau `DITOLAK / JANGAN DITAWARKAN LAGI`).
+3. **Wajib Jalankan Filter Anti-Yes-Man (Debat Ide Sejak Akar):** Jika pengguna mengajukan ide mentah atau premis yang dari akarnya sudah sulit diterima akal sehat manusia (misal jenis usahanya tidak dibutuhkan di dunia nyata atau mudah digantikan aplikasi umum), **AI dilarang asal setuju ("yes-man")**. AI wajib mendebat dan membedah kelemahan ide tersebut dari segala arah, lalu merekomendasikan perombakan konsep dasar.
+4. **Tahap 1 — Susun ABCD Premis Secara Ringkas (Jangan Over-Detail):** Rumuskan premis hanya dalam 4 poin singkat (1 kalimat per huruf): **A (Character)**, **B (Routine)**, **C (Inciting Incident)**, dan **D (Action)**. Jangan menjejalkan detil rintangan berlapis atau akhir cerita ke tahap ABCD ini.
+5. **Tahap 2 — Pengembangan Premis Menuju Kerangka Cerita / Outline:** Baru setelah pengguna menyetujui ABCD premis dasar, kembangkan ide tersebut ke kerangka cerita (`03-structure.md`), tutup jalan mudah, dan susun outline untuk menguji apakah ide itu bisa berjalan 30–40 bab.
+6. Catat keputusan ke `story/universe-registry.md` (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, atau `DITOLAK / JANGAN DITAWARKAN LAGI`).
 
 ### Mode B: Project Baru (Canon -> Outline -> Stress Test -> Lock -> Bab 1)
 1. Tanyakan maksimal 3 hal yang belum jelas (Default: 30–40 bab, ±750 kata/bab, tone hangat/sarkas/membumi ala `acuan-bahasa.docx`, akhir tidak sempurna dengan harga nyata, target 13+).

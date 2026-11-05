@@ -68,68 +68,75 @@ Premis layak jadi novel 30-40 bab jika **kelima slot ini bisa diisi dengan kejad
 
 ---
 
-## 4. Dari Ide Mentah ke Pola Cerita: Rumus ABCD, Brainstorming, dan Memilih Kerangka
+## 4. Kerangka ABCD Premis (*Character, Routine, Inciting Incident, Action*)
 
-Rumus ABCD dipakai di awal untuk menjelaskan ide mentah dengan lebih baik. Ide yang baru berupa "bagaimana kalau" atau satu adegan sering terasa menarik tetapi belum jelas, dan kerangka plot tidak bisa dipilih dari ide yang belum jelas. Empat kalimat memaksa ide dijelaskan runtut. Hasilnya lalu dipakai untuk brainstorming variasi, memilih pola cerita, dan pengembangan ke outline.
+> **Aturan Penting (Jangan Over-Detail di Tahap ABCD):**
+> Kerangka **ABCD** di tahap awal **hanya digunakan untuk menjelaskan inti premis secara ringkas (1 kalimat pendek per huruf)**, BUKAN untuk menjejalkan seluruh detil plot, rintangan berlapis, atau penyelesaian akhir cerita. Detil konflik, penutupan jalan mudah, dan uji ketahanan 30 bab baru dipikirkan pada tahap berikutnya (**Pengembangan Premis Menuju Kerangka Cerita / Outline**).
 
-### Empat Komponen ABCD
-- **A, Ada karakter:** Siapa tokoh utamanya, ditulis sebagai profil singkat, keinginan, dan kelemahan awalnya.
-- **B, Berdiam di suatu tempat atau kondisi:** Latar dan situasi normal tokoh sebelum konflik dimulai (tunjukkan kelemahan atau kebiasaan yang nanti diserang oleh C).
-- **C, Cuma suatu hari:** Peristiwa dari luar yang mengganggu keadaan normal itu dan memaksa tokoh keluar dari zona nyamannya. Ini pemicu konflik.
-- **D, Dan akhirnya:** Bagaimana tokoh berjuang dan bagaimana ceritanya berakhir. **Penting:** Untuk uji premis yang berguna, kalimat D wajib memuat **tiga hal**: (1) apa yang dicoba tokoh, (2) bagaimana itu berakhir (akhir tidak sempurna + harga nyata yang hilang), dan (3) apa yang berubah pada tokoh.
+### Empat Komponen ABCD (*Character, Routine, Inciting Incident, Action*)
+- **A (Character / Karakter):** Siapa tokoh utamanya beserta satu sifat/kondisi ikoniknya (1 kalimat singkat).
+- **B (Routine / Rutinitas):** Kehidupan sehari-hari atau pekerjaan rutin yang dijalani tokoh sebelum masalah datang (1 kalimat singkat — pastikan rutinitas/pekerjaan ini masuk akal di dunia nyata).
+- **C (Inciting Incident / Pemicu):** Satu kejadian mendadak yang mengganggu rutinitas tersebut (1 kalimat singkat).
+- **D (Action / Tindakan Utama):** Tindakan atau langkah utama yang diambil tokoh untuk merespons kejadian pemicu tersebut (1 kalimat singkat).
 
-### Contoh Studi Kasus (*The Devil Wears Prada*)
-- **A:** Ada Andrea, lulusan muda yang ingin kariernya terbuka di dunia tulis-menulis.
-- **B:** Ia bekerja sebagai asisten editor majalah mode yang sangat menuntut, dengan harapan bertahan setahun akan membuka jalan.
-- **C:** Cuma suatu hari, tuntutan bosnya makin naik sementara hubungan dengan keluarga, pacar, dan sahabatnya menipis.
-- **D:** Dan akhirnya, saat di Paris sahabatnya mengalami kecelakaan parah, ia memilih keluar. Ia kehilangan peluang di dunia editorial, tetapi hidupnya berlanjut lewat menulis cerita pendek.
+### Contoh Penerapan ABCD pada Cerita Populer
 
-### Alur Kerja: Dari Ide Mentah sampai Outline
-1. **Tulis ide mentah apa adanya,** satu kalimat, tanpa dirapikan.
-2. **Jelaskan dengan ABCD versi awal.** Kalimat D boleh berupa tiga kandidat akhir, belum harus satu.
-3. **Brainstorm variasi tiap huruf** (lihat aturan di bawah).
-4. **Pilih tiga kombinasi terbaik** dan uji dengan Uji Kelayakan Premis (5 Slot) dan Menutup Jalan Mudah. Buang yang gagal.
-5. **Pilih pola cerita** dari isi ABCD yang lolos.
-6. **Kembangkan** ke delapan tahap, siklus coba-gagal, planting, lalu alokasi bab dan outline (`03-structure.md`).
+1. **Finding Nemo**
+   - **A (Character):** *Marlin*, seekor ikan badut yang sangat protektif.
+   - **B (Routine):** Hidup tenang bersama anaknya, *Nemo*, di terumbu karang.
+   - **C (Inciting Incident):** *Nemo* tertangkap oleh penyelam dan dibawa pergi.
+   - **D (Action):** *Marlin* memberanikan diri menjelajahi lautan luas untuk mencari dan menyelamatkan anaknya.
 
-### Brainstorming dari Empat Huruf
-- **Aturan kerja:** Ubah satu huruf dalam satu waktu, buat tiga variasi, lihat variasi mana yang membuat cerita paling berbeda. **Huruf C adalah pengungkit terkuat**, karena mengubah C ikut mengubah konflik, jalan mudah, dan pola cerita.
-- **A, tokoh:** Variasikan keinginan dan kelemahannya (ingin diakui, takut mengecewakan, terlalu menjaga muka, refleks menjawab "bisa"), bukan hanya profesinya. Profesi bisa apa saja, tidak harus kantor.
-- **B, latar:** Variasikan tempat dan tekanan sehari-hari: tempat kerja, kos, keluarga besar, komunitas, usaha kecil/ruko.
-- **C, pemicu:** Variasikan sumber masalah: pekerjaan, pertemanan, keluarga atau keluarga pasangan, mantan, atau orang asing. Tiap sumber menghasilkan jalan mudah dan rahasia yang berbeda.
-- **D, akhir:** Variasikan akhir yang tidak sempurna: apa yang hilang, apa yang diterima, dan apa yang diubah tokoh.
-- **Pertanyaan pendorong untuk ide yang masih kabur:** *Apa yang paling ditakuti tokoh di B? Pemicu C apa yang paling menyerang ketakutan itu? Harga apa di D yang paling masuk akal untuk ketakutan itu?*
+2. **The Lord of the Rings: The Fellowship of the Ring**
+   - **A (Character):** *Frodo Baggins*, seorang Hobbit yang sederhana.
+   - **B (Routine):** Hidup damai dan tidak pernah keluar dari wilayah *The Shire*.
+   - **C (Inciting Incident):** *Gandalf* memberi tahu *Frodo* bahwa cincin yang ia miliki adalah *The One Ring* milik *Sauron*.
+   - **D (Action):** *Frodo* harus meninggalkan rumahnya dan melakukan perjalanan berbahaya ke *Mordor* untuk menghancurkan cincin tersebut.
 
-### Memilih Pola Cerita dari ABCD (Penyaring Awal)
+3. **Harry Potter and the Sorcerer's Stone**
+   - **A (Character):** *Harry Potter*, seorang anak yatim piatu yang tinggal di bawah tangga.
+   - **B (Routine):** Menerima perlakuan buruk dari keluarga *Dursley* dan menjalani hidup yang membosankan.
+   - **C (Inciting Incident):** *Harry* menerima surat undangan untuk bersekolah di *Hogwarts* dan mengetahui identitas aslinya sebagai penyihir.
+   - **D (Action):** *Harry* meninggalkan dunianya yang lama untuk belajar sihir dan menghadapi rahasia di balik kematian orang tuanya.
+
+4. **Spider-Man (2002)**
+   - **A (Character):** *Peter Parker*, seorang remaja SMA yang cerdas namun sering dirundung (*nerd*).
+   - **B (Routine):** Bersekolah dan fokus pada studinya.
+   - **C (Inciting Incident):** Ia digigit oleh laba-laba hasil rekayasa genetika dan mendapatkan kekuatan super.
+   - **D (Action):** *Peter* memutuskan untuk menggunakan kekuatannya untuk membasmi kejahatan dan menjadi pelindung kota.
+
+### Pemisahan Tegas: Tahap ABCD Premis vs Tahap Pengembangan ke Kerangka Cerita
+1. **Tahap 1 — Merumuskan ABCD Premis:**
+   - Tulis **A, B, C, D** secara singkat, padat, dan jernih (masing-masing 1 kalimat seperti contoh di atas).
+   - Uji dengan akal sehat (Anti-Yes-Man): Apakah rutinitas di **B**, pemicu di **C**, dan tindakan di **D** masuk akal dilakukan manusia nyata?
+2. **Tahap 2 — Pengembangan Premis Menuju Kerangka Cerita (`03-structure.md`):**
+   - Setelah ABCD disepakati, barulah ide tersebut dikembangkan ke dalam **Kerangka Cerita (8 Kerangka Plot Terbukti)** dan **Outline** untuk menguji apakah ide itu benar-benar bisa berjalan menjadi 30-40 bab (dengan menentukan rintangan, menutup jalan mudah, dan menyusun siklus coba-gagal).
+
+### Brainstorming Variasi dari Empat Huruf ABCD
+- **Aturan kerja:** Ubah satu huruf dalam satu waktu, buat tiga variasi singkat (1 kalimat per huruf), lihat variasi mana yang paling segar dan masuk akal.
+- **A (Character):** Variasikan karakter dan sifat intinya.
+- **B (Routine):** Variasikan rutinitas atau pekerjaan sehari-harinya (pastikan masuk akal di dunia nyata).
+- **C (Inciting Incident):** Variasikan kejadian pemicu yang mengganggu rutinitas B.
+- **D (Action):** Variasikan tindakan utama yang diambil tokoh untuk menghadapi pemicu C.
+
+### Memilih Pola Kerangka Cerita dari ABCD (Saat Masuk Tahap Pengembangan)
 
 | Tanda di ABCD | Pola yang Dipertimbangkan | Alasan |
 |---|---|---|
-| C berupa tenggat atau tugas besar, D berisi tekanan yang terus naik | **Fichtean Curve (5)** | Krisis beruntun cocok untuk tekanan yang naik |
+| C berupa tenggat atau masalah mendadak, D berisi tindakan memadamkan krisis beruntun | **Fichtean Curve (5)** | Krisis beruntun cocok untuk tekanan yang naik |
 | Inti cerita dua orang yang saling tertarik dan terhalang | **Struktur Romance (6)** | Titik balik hubungan sudah tersedia |
-| A keluar dari dunia biasa, D berupa kembali dalam keadaan berubah | **Story Circle (3)** | Perjalanan dan perubahan tokoh |
+| A keluar dari rutinitas biasa, D menempuh perjalanan/perubahan diri | **Story Circle (3)** | Perjalanan dan perubahan tokoh |
 | Ide bertumpu pada pembalikan atau rahasia yang harus ditanam | **Seven-Point (4)** | Titik balik dan planting dirancang dari akhir |
 | C bukan konflik besar, melainkan hal baru yang mengubah cara pandang | **Kishōtenketsu (7)** | Cerita tanpa konflik besar |
-| C berupa rangkaian kasus atau episode dengan benang merah | **Arc Bersarang (8)** | Banyak arc kecil di dalam satu arc besar |
+| B/D berupa rangkaian kasus atau klien dengan satu benang merah utama | **Arc Bersarang (8)** | Banyak arc kecil di dalam satu arc besar |
 | A punya kelemahan jelas, pola perubahan diri dengan titik balik terukur | **Save the Cat (2)** | Beat yang rinci untuk perubahan diri |
 | Tidak ada tanda khusus | **Tiga Babak (1)** | Dasar yang aman |
 
-### Menguji Empat Kalimat Sebelum Dilanjutkan
-1. **Tulis empat kalimat, satu kalimat per huruf.** Bila salah satu kalimat tidak bisa ditulis tanpa kata "dan" berkali-kali, bagian itu belum jelas.
-2. **Uji C.** Apakah pemicu datang dari luar dan punya konsekuensi yang jelas? C yang berupa "tokoh merasa ada yang kurang" terlalu lemah.
-3. **Uji D.** Apakah ada ujung yang tidak sempurna dan perubahan pada tokoh? Bila D hanya berisi tujuan ("harus menyelamatkan"), pitch belum lengkap.
-4. **Uji hubungan B dan C.** Kelemahan atau kebiasaan yang ditunjukkan di B sebaiknya yang diserang oleh C. Itu yang membuat konflik terasa pas untuk tokoh itu.
-5. **Uji jalan mudah.** Setelah C, cek bagian Menutup Jalan Mudah: kenapa tokoh tidak memilih cara paling gampang?
-6. **Tulis versi satu tarikan napas.** Sambungkan keempatnya dalam satu paragraf pendek sebagai sinopsis/pitch.
-
-### Pemetaan ABCD ke Format Delapan Tahap Penulis
-
-| ABCD | Delapan Tahap Penulis | Catatan |
-|---|---|---|
-| **A dan B** | 1. Latar belakang tokoh | Tunjukkan kelemahan atau kebiasaan yang nanti diserang masalah. |
-| **C** | 2. Masalah mendadak (dengan konsekuensi jelas) | Pemicu dan akibat bila tidak diselesaikan. |
-| **C, sebagian D** | 3. Dilema | Dua pilihan yang sama-sama berharga. |
-| **D ("berjuang")** | 4. Percobaan solusi (gagal total, tampak berhasil lalu gagal, hampir berhasil lalu terhenti) | ABCD menyatukan seluruh bagian ini dalam satu klausa, jadi wajib dijabarkan dengan siklus coba-gagal. |
-| **D** | 5 sampai 8. Menyerah, solusi dari planting, akhir tidak sempurna, penerimaan atau perubahan | Cantumkan semuanya di kalimat D. |
+### Pemetaan ABCD Premis ke Tahap Pengembangan Kerangka Cerita (8 Tahap Outline)
+Saat premis ABCD sudah disepakati dan masuk ke tahap pembuatan kerangka/outline (`03-structure.md`), keempat huruf ABCD dikembangkan menjadi:
+- **A (Character) & B (Routine)** -> Dikembangkan menjadi **Tahap 1 (Latar Belakang & Rutinitas Awal)**.
+- **C (Inciting Incident)** -> Dikembangkan menjadi **Tahap 2 & 3 (Masalah Mendadak & Dilema)**.
+- **D (Action)** -> Dikembangkan di kerangka cerita menjadi **Tahap 4 s/d 8 (Siklus Coba-Gagal, Titik Menyerah, Solusi dari Planting, Akhir Tidak Sempurna, dan Perubahan Diri)**.
 
 ---
 
