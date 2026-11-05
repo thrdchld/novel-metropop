@@ -9,7 +9,7 @@
 - **Judul:** Sebuah Kisah Nggak Enakan
 - **Genre:** MetroPop (Cerita Harian Indonesia)
 - **Target pembaca:** 13+
-- **Panjang:** 26 bab x +-750 kata (600-900 kata/bab)
+- **Panjang:** 32 bab x +-750 kata (rentang standar 600-900 kata/bab; maksimal 1.200 kata jika diperlukan agar adegan tidak terpotong)
 - **POV:** Orang pertama ("Aku" / Nadia Putri), kala lampau
 - **Latar Kota & Lingkungan:** Jakarta Pusat & Jakarta Timur (Kantor Penerbit Aksara Senja di Cikini, Toko Buku Kwitang, Kos Nadia di Cikini, Rumah Orang Tua Nadia di Rawamangun)
 - **Tone:** Sederhana, *to the point*, percakapan lisan alami, deskripsi ber-sudut pandang unik, humor ringan dari pikiran liar/perumpamaan menggelitik, dan hangat (`05-style.md`).
@@ -67,11 +67,11 @@
 ## 5. Detail Kecil / *Invisible Planting & Callback*
 
 1. **Bunyi *Klik* Dua Kali Tutup Botol Minum Saka (*Silent Emotional Callback*):**
-   - *Ditanam:* Bab 5 & Bab 14 (Nadia menyadari bahwa setiap kali Saka berbohong demi menutupi kebaikannya pada Nadia, jempol Saka selalu memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali).
-   - *Dibayar Tanpa Penjelasan Narator:* Bab 25 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam di depan kantor,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
+   - *Ditanam:* Bab 5 & Bab 17 (Nadia menyadari bahwa setiap kali Saka berbohong demi menutupi kebaikannya pada Nadia, jempol Saka selalu memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali).
+   - *Dibayar Tanpa Penjelasan Narator:* Bab 31 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam di depan gedung kantor,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
 2. **Kalimat Operator *Customer Service*:**
    - *Ditanam:* Bab 1 (Dimas memutuskan Nadia dengan ejekan bahwa Nadia terlalu lembek dan kalau bicara sopan terus seperti operator *customer service*).
-   - *Dibayar:* Bab 22 (Saat Dimas memohon-mohon minta balikan di depan keluarga, Nadia menolaknya dengan senyum tenang menggunakan kalimat penolakan ala operator *customer service* paling sopan namun paling telak).
+   - *Dibayar:* Bab 28 (Saat Dimas merasa sudah berhasil membujuk Nadia balikan namun sifat aslinya keceplosan di depan keluarga, Nadia menolaknya dengan senyum tenang menggunakan kalimat penolakan ala operator *customer service* paling sopan namun paling telak).
 3. **Catatan *Post-it* Kuning di Pojok Layar:**
    - *Ditanam:* Bab 4 (Saka menempelkan *post-it* kuning di buku sketsa/monitor Nadia bertuliskan: *"Bilang enggak itu nggak bikin langit runtuh"*).
-   - *Dibayar:* Bab 26 (Nadia menempelkan *post-it* kuning balasan di laptop Saka di kalimat penutup cerita).
+   - *Dibayar:* Bab 32 (Nadia menempelkan *post-it* kuning balasan di laptop Saka di kalimat penutup cerita).

@@ -1,8 +1,8 @@
 # Outline: Sebuah Kisah Nggak Enakan
 
-**Status:** TERKUNCI v1.0
-**Jumlah bab:** 26 bab
-**Target kata:** +-750 kata/bab (rentang wajib 600-900 kata)
+**Status:** TERKUNCI v1.1
+**Jumlah bab:** 32 bab (1 Bab = 1 Adegan Fokus Tunggal)
+**Target kata:** +-750 kata/bab (rentang standar 600-900 kata; boleh hingga maksimal 1.200 kata jika diperlukan agar adegan utuh dan tidak terpotong)
 **Kerangka Plot:** Struktur Romance + Story Circle (Perubahan Diri Sederhana)
 
 ---
@@ -21,7 +21,7 @@
 - **Awal (Dunia Keseharian & Masalah Nggak Enakan Nadia):** Nadia adalah tipe orang yang kalau kakinya terinjak di KRL, dia yang refleks minta maaf duluan. Di kantor penerbitan buku tempatnya bekerja, sifat nggak enakannya membuat meja kerjanya selalu penuh oleh titipan revisi teman-temannya yang ingin pulang cepat. Tiga hari lalu, pacarnya selama dua tahun yang bekerja di divisi pemasaran kantor yang sama, Dimas, memutuskan Nadia dengan alasan konyol: *"Aku capek pacaran sama kamu, Nad. Kamu nggak pernah marah, nggak pernah nolak, rasanya kayak pacaran sama operator customer service."* Parahnya, meski sudah putus dan sedang mendekati staf baru bernama Vanya, Dimas masih sering meminta bantuan desain ke Nadia seolah tidak punya dosa.
 - **Pemicu (Pertemuan dengan Si Raja Tega dari Jogja):** Suatu sore saat Nadia lembur sendirian mengerjakan tugas temannya sambil menangis kesal di tangga darurat gedung, omelannya terdengar oleh Saka Wijaya, editor senior yang baru dipindah dari cabang Yogyakarta. Saka adalah kebalikan mutlak dari Nadia: kalau jam kerja habis pukul lima sore, pukul lima lewat satu menit ia sudah menutup laptop dan menolak semua urusan kerjaan dengan kalimat singkat yang bikin orang segan. Keesokan harinya, atasan memasangkan Nadia dan Saka dalam satu meja proyek selama dua bulan untuk merampungkan buku esai dan ilustrasi kota berjudul *Sela Waktu*.
 - **Tengah (Latihan Bilang "Tidak" & Gesekan Sehari-hari yang Menggelitik):** Bekerja semeja dengan Nadia membuat Saka geregetan melihat bagaimana semua orang di kantor memanfaatkan kebaikan Nadia. Supaya jadwal buku mereka tidak terganggu kerjaan titipan orang, Saka menantang Nadia untuk berani mengatakan "Tidak" minimal satu kali sehari pada hal yang merugikannya. Dari menolak titipan kerjaan akhir pekan, menagih utang makan siang temannya, sampai menolak mengeditkan kerjaan pribadi Dimas, Nadia perlahan merasakan betapa leganya punya batasan diri. Di sela makan siang di warung tenda dan survei buku di Kwitang, Nadia menyadari bahwa di balik mulut Saka yang tanpa filter, Saka sebenarnya sangat perhatian lewat tindakan kecil tanpa pernah ia umumkan.
-- **Titik Balik & Guncangan Akhir (Nadia Goyah dan Mulai Terhasut Mantan):** Ketika kedekatan Nadia dan Saka semakin hangat, guncangan besar datang dari dua arah sekaligus. Dimas yang menyesal setelah putus dari gebetan barunya mengubah taktik: ia tidak lagi menyuruh-nyuruh Nadia, melainkan tampil sangat manis, meminta maaf sambil berkaca-kaca, dan dengan sigap membantu Ibu Nadia yang sedang sakit ringan di Rawamangun. Di saat yang sama, Dimas menanamkan keraguan yang masuk akal di kepala Nadia bahwa penugasan Saka dari Jogja hanya dua bulan dan Saka pasti akan pulang begitu buku *Sela Waktu* selesai. Keraguan itu makin membesar saat Nadia tak sengaja mendengar kepala redaksi membahas kepulangan Saka ke Jogja, ditambah respons Saka yang mendadak dingin dan menyuruh Nadia memilih "pilihan yang paling aman" saat tahu Dimas mendekati keluarga Nadia lagi. Merasa patah hati karena mengira Saka hanya menganggapnya rekan proyek sementara, hati Nadia goyah. Ia mulai terhasut oleh sikap manis Dimas dan bujukan ibunya, hingga hampir menerima Dimas kembali dan membuat hubungannya dengan Saka membeku.
+- **Titik Balik & Guncangan Akhir (Nadia Goyah dan Mulai Terhasut Mantan):** Ketika kedekatan Nadia dan Saka semakin hangat, guncangan besar datang dari dua arah sekaligus. Dimas yang menyesal setelah putus dari gebetan barunya mengubah taktik: ia tidak lagi menyuruh-nyuruh Nadia, melainkan tampil sangat manis, meminta maaf sambil berkaca-kaca, dan dengan sigap membantu Ibu Nadia yang sedang sakit ringan di Rawamangun. Di saat yang sama, Dimas menanamkan keraguan yang masuk akal di kepala Nadia bahwa penugasan Saka dari Jogja hanya dua bulan dan Saka pasti akan pulang begitu buku *Sela Waktu* selesai. Keraguan itu makin membesar saat Nadia tak sengaja mendengar kepala redaksi membahas kepulangan Saka ke Jogja, ditambah respons Saka yang mendadak dingin dan menyuruh Nadia memilih "pilihan yang paling masuk akal" saat tahu Dimas mendekati keluarga Nadia lagi. Merasa patah hati karena mengira Saka hanya menganggapnya rekan proyek sementara, hati Nadia goyah. Ia mulai terhasut oleh sikap manis Dimas dan bujukan ibunya, hingga hampir menerima Dimas kembali dan membuat hubungannya dengan Saka membeku.
 - **Akhir (Tersadar di Detik Terakhir & Keberanian Jujur):** Di malam makan bersama yang seharusnya menjadi momen balikan dengan Dimas, topeng manis Dimas tak sengaja terlepas: merasa sudah berhasil memenangkan Nadia kembali, Dimas dengan enteng meminta Nadia membatalkan kehadirannya di panggung peluncuran buku *Sela Waktu* demi menemaninya ke acara divisinya. Kalimat itu menyadarkan Nadia seketika bahwa Dimas sama sekali belum berubah dan ia hampir mengorbankan impiannya serta pria yang tulus menghargainya. Nadia langsung membatalkan niat balikannya, menolak Dimas secara permanen di depan ibunya, lalu berjuang memperbaiki kesalahpahamannya dengan Saka di hari peluncuran buku *Sela Waktu*, di mana terungkap bahwa Saka diam-diam sudah mengurus mutasi permanen ke Jakarta demi Nadia.
 
 ---
@@ -30,13 +30,13 @@
 
 | Detail Kecil / Kebiasaan / Benda | Ditanam Sambil Lalu di Bab | Dibayar (Callback) di Bab | Makna / Fungsi |
 |---|---|---|---|
-| **Bunyi *Klik* Dua Kali Tutup Botol Minum Hitam Saka** | Bab 5 & Bab 14 | Bab 25 | *Silent Emotional Callback*: Setiap kali Saka berbohong untuk menutupi rasa pedulinya, jempolnya memutar tutup botol minumnya sampai bunyi *klik* dua kali. Di Bab 25 ia mengelak pindah ke Jakarta demi Nadia sambil memutar tutup botolnya dua kali *klik*. |
-| **Gaya Bicara "Operator Customer Service"** | Bab 1 | Bab 22 | Ejekan Dimas saat memutuskan Nadia di Bab 1 dipakai balik oleh Nadia secara elegan untuk menolak ajakan balikan Dimas di Bab 22. |
-| **Catatan *Post-it* Kuning di Pojok Monitor** | Bab 4 | Bab 26 | Catatan Saka *"Bilang enggak itu nggak bikin langit runtuh"* di Bab 4 dibalas oleh Nadia di layar laptop Saka pada kalimat penutup Bab 26. |
+| **Bunyi *Klik* Dua Kali Tutup Botol Minum Hitam Saka** | Bab 5 & Bab 17 | Bab 31 | *Silent Emotional Callback*: Setiap kali Saka berbohong untuk menutupi rasa pedulinya, jempolnya memutar tutup botol minumnya sampai bunyi *klik* dua kali. Di Bab 31 ia mengelak pindah ke Jakarta demi Nadia sambil memutar tutup botolnya dua kali *klik*. |
+| **Gaya Bicara "Operator Customer Service"** | Bab 1 | Bab 28 | Ejekan Dimas saat memutuskan Nadia di Bab 1 dipakai balik oleh Nadia secara elegan untuk menolak ajakan balikan Dimas di Bab 28. |
+| **Catatan *Post-it* Kuning di Pojok Monitor** | Bab 4 | Bab 32 | Catatan Saka *"Bilang enggak itu nggak bikin langit runtuh"* di Bab 4 dibalas oleh Nadia di layar laptop Saka pada kalimat penutup Bab 32. |
 
 ---
 
-## 4. Rincian per Bab (4 Poin Inti per Bab)
+## 4. Rincian per Bab (32 Bab - 4 Poin Inti per Bab)
 
 ### Bab 1: Operator Layanan Patah Hati
 - **Waktu & Lokasi:** Senin pagi, Kantor Penerbit Aksara Senja, Cikini.
@@ -80,115 +80,151 @@
 - **Perkembangan Emosi / Hubungan:** Begitu Dimas dan Vanya pergi dengan wajah canggung, tangan Nadia gemetar hebat di bawah meja, namun Saka memberikan apresiasi tulus pertamanya dengan menyerahkan sebungkus cokelat minimarket ke meja Nadia.
 - **Detail Kecil / Planting-Callback:** Saka kembali beralih alasan bahwa cokelat itu hadiah promo beli kopi sambil jempolnya memutar tutup botol minumnya dua kali *klik*.
 
-### Bab 8: Survei Buku Bekas di Kwitang
-- **Waktu & Lokasi:** Sabtu siang, Deretan Toko Buku Kwitang & Halte TransJakarta Senen.
-- **Kejadian Inti:** Nadia dan Saka pergi berdua ke kawasan Kwitang untuk mencari referensi visual buku lawas Jakarta guna memperkaya ilustrasi *Sela Waktu*. Di sela memilih buku dan makan siang sederhana, Nadia melihat betapa Saka selalu otomatis berjalan di sisi luar trotoar yang dekat kendaraan dan pindah tempat duduk agar Nadia tidak terkena hembusan asap rokok pengunjung sebelah.
-- **Perkembangan Emosi / Hubungan:** Nadia mulai menyadari bahwa Saka bukan orang yang dingin dan tidak punya hati; Saka hanya tidak suka mengobral janji manis di mulut seperti yang biasa dilakukan Dimas.
-- **Detail Kecil / Planting-Callback:** Obrolan ringan dan jenaka tentang isi buku sketsa Nadia yang penuh gambar karikatur orang kantor.
+### Bab 8: Berburu Buku Lawas di Kwitang
+- **Waktu & Lokasi:** Sabtu siang pukul 11.00, Deretan Kios Buku Bekas Kwitang.
+- **Kejadian Inti:** Nadia dan Saka pergi berdua ke kawasan Kwitang untuk mencari referensi visual buku lawas Jakarta guna memperkaya ilustrasi *Sela Waktu*. Di sepanjang trotoar yang ramai dan berdebu, Nadia memperhatikan betapa Saka selalu otomatis bergeser berjalan di sisi luar dekat jalan raya dan tanpa banyak bicara mengambil alih tumpukan buku tebal dari tangan Nadia.
+- **Perkembangan Emosi / Hubungan:** Nadia mulai melihat sisi lain Saka di luar kantor yang tidak kaku dan sangat menghargai karya ilustrasi Nadia saat mereka berdiskusi memilih referensi gambar.
+- **Detail Kecil / Planting-Callback:** Saka mengelap debu di sampul buku tua menggunakan tisu sakunya sendiri sebelum menyerahkannya ke tangan Nadia agar jari Nadia tidak kotor.
 
-### Bab 9: Anak Tengah di Meja Makan Keluarga
+### Bab 9: Karikatur di Warung Soto Kwitang
+- **Waktu & Lokasi:** Sabtu siang pukul 13.00, Warung Soto Kaki Lima dekat Halte Senen.
+- **Kejadian Inti:** Sehabis berburu buku, mereka makan siang di warung soto. Ketika pengunjung meja sebelah menyalakan rokok, Saka langsung mengajak Nadia bertukar tempat duduk agar asapnya tidak mengarah ke wajah Nadia. Saat menunggu pesanan, angin kipas warung membuka halaman belakang buku sketsa Nadia dan memperlihatkan gambar karikatur orang-orang kantor buatan Nadia, termasuk gambar Saka yang sedang memegang botol minum penyok dengan wajah lempeng.
+- **Perkembangan Emosi / Hubungan:** Nadia panik setengah mati takut Saka tersinggung, tetapi Saka justru memperhatikan gambar itu lama lalu sudut bibirnya terangkat tipis untuk pertama kalinya sambil berkomentar bahwa gambar botol penyoknya kurang miring sedikit.
+- **Detail Kecil / Planting-Callback:** Buku sketsa Nadia mulai menjadi benda penghubung keakraban diam-diam di antara mereka.
+
+### Bab 10: Anak Tengah di Meja Makan Keluarga
 - **Waktu & Lokasi:** Minggu siang, Rumah Orang Tua Nadia di Rawamangun.
 - **Kejadian Inti:** Nadia pulang ke rumah orang tuanya untuk makan siang keluarga. Di meja makan, kakak sulungnya, Mbak Raras, mendominasi obrolan dan meminta Nadia meminjamkan uang tabungan yang sudah Nadia kumpulkan setahun untuk membeli tablet gambar baru demi menambal biaya liburan keluarga Mbak Raras, dan Ibu langsung membujuk Nadia agar mengalah seperti biasa.
 - **Perkembangan Emosi / Hubungan:** Nadia pulang ke kosnya di Cikini pada Minggu malam dengan dada sesak; pembaca melihat akar psikologis mengapa Nadia tumbuh menjadi orang yang selalu takut menolak permintaan orang lain.
 - **Detail Kecil / Planting-Callback:** Ibu Nadia menyebut Dimas sebagai "calon menantu yang ramah" karena Nadia belum berani bercerita ke rumah bahwa mereka sudah putus.
 
-### Bab 10: Gorengan Dingin dan Cerita dari Jogja
-- **Waktu & Lokasi:** Senin sore saat hujan deras, Kedai Kopi Kecil dekat Stasiun Cikini.
-- **Kejadian Inti:** Di kantor, Saka menyadari Nadia bekerja terlalu pendiam dan salah mewarnai sketsa sampai tiga kali. Saat hujan deras turun sepulang kerja, Saka mengajak Nadia berteduh sambil minum teh hangat dan makan tahu isi yang sudah agak dingin. Nadia akhirnya menceritakan soal keluarganya di Rawamangun, dan Saka untuk pertama kalinya bercerita bagaimana dulu di Yogyakarta ia juga pernah terlalu percaya dan mengalah pada sahabat kuliahnya sendiri sampai tabungan dan karya tulisnya dibawa kabur.
-- **Perkembangan Emosi / Hubungan:** Jarak formal di antara mereka runtuh; Nadia mengerti kenapa Saka begitu tegas menjaga batasan diri, dan Saka menatap Nadia dengan empati yang hangat.
-- **Detail Kecil / Planting-Callback:** Saka menceritakan asal-usul kenapa bagian bawah botol minum hitamnya penyok sedikit (karena terjatuh waktu ia pindahan naik kereta dari Jogja ke Jakarta).
+### Bab 11: Salah Warna di Hari Senin
+- **Waktu & Lokasi:** Senin sore saat hujan deras, Ruang Desain & Kedai Kopi Kecil dekat Stasiun Cikini.
+- **Kejadian Inti:** Seharian di kantor, pikiran Nadia kacau memikirkan permintaan keluarganya hingga ia salah mewarnai sketsa bab dua sampai tiga kali. Saat hujan deras turun sepulang kerja, Saka mengajak Nadia berteduh di kedai kopi kecil sambil memesan teh hangat dan tahu isi. Di depan cangkir teh hangat itu, pertahanan Nadia runtuh dan ia menceritakan bebannya sebagai anak tengah yang selalu merasa harus mengalah agar tetap disayang di rumah.
+- **Perkembangan Emosi / Hubungan:** Saka mendengarkan seluruh keluh kesah Nadia dengan tenang tanpa memotong dan tanpa menghakimi sedikit pun, membuat Nadia merasa benar-benar didengarkan.
+- **Detail Kecil / Planting-Callback:** Saka mendorong piring tahu isi hangat ke depan Nadia sambil menyuruhnya makan dulu sebelum lanjut bercerita.
 
-### Bab 11: Menjaga Batas di Rumah Sendiri
+### Bab 12: Cerita dari Yogyakarta dan Botol Penyok
+- **Waktu & Lokasi:** Senin petang pukul 18.15, Kedai Kopi Kecil dekat Stasiun Cikini.
+- **Kejadian Inti:** Alih-alih menceramahi Nadia, Saka untuk pertama kalinya bercerita tentang masa lalunya sendiri di Yogyakarta: dulu ia juga tipe orang yang tidak tegaan pada sahabat kuliahnya sendiri, sampai uang tabungan dan naskah bukunya dibawa kabur tanpa sisa. Saka juga menceritakan kenapa botol minum hitamnya penyok di bagian bawah karena terjatuh di peron saat ia pindahan naik kereta ke Jakarta dan sengaja tidak ia ganti sebagai pengingat.
+- **Perkembangan Emosi / Hubungan:** Jarak formal di antara mereka runtuh; Nadia mengerti kenapa Saka begitu tegas menjaga batasan diri, dan kalimat Saka bahwa *"membantu keluarga itu baik, tapi mengorbankan alat kerja sendiri itu menyakiti diri sendiri"* meresap kuat di hati Nadia.
+- **Detail Kecil / Planting-Callback:** Asal-usul penyok di bagian bawah botol minum hitam Saka terungkap secara alami.
+
+### Bab 13: Menjaga Batas di Rumah Sendiri
 - **Waktu & Lokasi:** Senin malam pukul 20.30, Kamar Kos Nadia di Cikini.
-- **Kejadian Inti:** Mengingat kalimat Saka sore tadi bahwa membantu keluarga itu baik tetapi mengorbankan alat kerja sendiri bukanlah kewajiban, Nadia memberanikan diri menelepon ibunya. Dengan suara lembut tanpa marah-marah, Nadia mengatakan bahwa ia hanya bisa menyumbang sebagian kecil karena uang tabungannya harus dipakai membeli tablet gambar untuk bekerja.
-- **Perkembangan Emosi / Hubungan:** Meskipun ibunya sempat terdiam kaget di telepon sebelum akhirnya memaklumi, Nadia menangis lega setelah menutup telepon karena berhasil melewati ketakutan terbesarnya.
+- **Kejadian Inti:** Mengingat percakapannya dengan Saka petang tadi, Nadia memberanikan diri menelepon ibunya di Rawamangun. Dengan suara lembut tanpa marah-marah, Nadia mengatakan bahwa ia hanya bisa menyumbang sebagian kecil untuk keponakannya karena uang tabungannya harus dipakai membeli tablet gambar untuk bekerja.
+- **Perkembangan Emosi / Hubungan:** Meskipun ibunya sempat terdiam kaget di telepon sebelum akhirnya memaklumi, Nadia menangis lega setelah menutup telepon karena berhasil melewati ketakutan terbesarnya tanpa harus menjadi anak durhaka.
 - **Detail Kecil / Planting-Callback:** Nadia mengirim pesan singkat *"Makasih ya, Mas"* ke Saka, dan Saka membalas singkat hanya dalam satu menit: *"Tidur. Besok bab tiga harus beres."*
 
-### Bab 12: Gangguan dari Meja Pemasaran
+### Bab 14: Gangguan dari Meja Pemasaran
 - **Waktu & Lokasi:** Kamis siang, Ruang Kerja Penerbit Aksara Senja.
 - **Kejadian Inti:** Dua minggu berlalu; meja kerja Nadia kini jauh lebih rapi karena ia sudah berani menolak titipan kerjaan yang bukan tanggung jawabnya. Perubahan Nadia yang tampak lebih segar, tenang, dan sering tertawa kecil saat berdebat soal ilustrasi dengan Saka justru membuat Dimas mulai gelisah dan cemburu. Dimas sengaja datang ke meja mereka untuk mengkritik konsep sampul buku *Sela Waktu* dan menyindir Saka yang dianggapnya terlalu kaku.
 - **Perkembangan Emosi / Hubungan:** Nadia tidak lagi gugup saat berhadapan dengan Dimas, sementara Saka mulai menunjukkan sikap protektif yang tenang terhadap karya Nadia.
 - **Detail Kecil / Planting-Callback:** Tari memotret diam-diam dari mejanya saat Saka dan Nadia serempak menoleh datar ke arah Dimas.
 
-### Bab 13: Pembelaan Tanpa Suara Tinggi
-- **Waktu & Lokasi:** Kamis sore, Ruang Rapat & Halte Cikini.
-- **Kejadian Inti:** Tanpa menaikkan nada suara sedikit pun, Saka mematahkan kritik asal-asalan Dimas menggunakan data penjualan buku sebelumnya hingga Dimas terdiam malu di depan Pak Ramdan. Sepulang kerja, saat Nadia kehabisan ojek karena gerimis, Saka yang tadinya sudah berjalan ke arah stasiun berbalik menghampiri Nadia dan menemani Nadia berjalan kaki menuju kosnya sambil membawakan tabung gambar Nadia.
-- **Perkembangan Emosi / Hubungan:** Sepanjang jalan di bawah satu payung besar milik Saka, obrolan mereka mengalir akrab dan hangat; hati Nadia mulai benar-benar tertambat pada pria Jogja di sebelahnya.
-- **Detail Kecil / Planting-Callback:** Saka berjalan di sisi luar trotoar yang terkena cipratan genangan air agar rok kerja Nadia tetap kering.
+### Bab 15: Pembelaan Tanpa Suara Tinggi
+- **Waktu & Lokasi:** Kamis sore pukul 15.30, Ruang Rapat Redaksi Penerbit Aksara Senja.
+- **Kejadian Inti:** Dalam rapat evaluasi sampul bersama Pak Ramdan, Dimas kembali mencoba menjatuhkan draf ilustrasi sampul buatan Nadia dengan alasan kurang menjual. Tanpa menaikkan nada suara sedikit pun, Saka membuka lembar data penjualan buku sebelumnya di layar proyektor dan mematahkan argumen asal-asalan Dimas poin demi poin hingga Dimas terdiam malu di depan Pak Ramdan.
+- **Perkembangan Emosi / Hubungan:** Nadia menatap Saka dengan rasa kagum yang hangat karena baru kali ini ada rekan kerja yang membela hasil jerih payahnya secara terbuka dan elegan.
+- **Detail Kecil / Planting-Callback:** Pak Ramdan langsung menyetujui sampul buatan Nadia tanpa revisi tambahan.
 
-### Bab 14: Titik Tengah: Rahasia Tutup Botol Hitam
-- **Waktu & Lokasi:** Kamis malam pukul 18.30, Teras Depan Kos Nadia di Cikini.
+### Bab 16: Satu Payung di Sepanjang Cikini
+- **Waktu & Lokasi:** Kamis petang pukul 17.30, Halte & Trotoar Jalan Cikini Raya.
+- **Kejadian Inti:** Sepulang kerja saat gerimis turun, Nadia kehabisan ojek online di depan gedung. Saka yang tadinya sudah berjalan ke arah stasiun KRL tiba-tiba berbalik menghampiri Nadia, membuka payung hitam besarnya, dan mengajak Nadia berjalan kaki menuju kosnya sambil membawakan tabung gambar Nadia.
+- **Perkembangan Emosi / Hubungan:** Sepanjang jalan di bawah satu payung yang sempit, bahu mereka sesekali bersentuhan dan obrolan mereka mengalir akrab; hati Nadia mulai benar-benar tertambat pada pria Jogja di sebelahnya.
+- **Detail Kecil / Planting-Callback:** Saka berjalan di sisi luar trotoar yang terkena cipratan genangan air sehingga lengan kemeja flanelnya basah demi menjaga Nadia tetap kering.
+
+### Bab 17: Titik Tengah: Rahasia Tutup Botol Hitam
+- **Waktu & Lokasi:** Kamis malam pukul 18.15, Teras Depan Kos Nadia di Cikini.
 - **Kejadian Inti:** Sesampainya di teras kos Nadia, Saka menyerahkan sekotak martabak manis hangat yang tadi ia beli di ujung jalan, lalu kembali memakai alasan datar bahwa martabak itu beli satu gratis satu. Namun kali ini, tepat saat jempol Saka memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali, Nadia tertawa dan menunjuk tangan Saka: Nadia membongkar bahwa ia sudah hafal setiap kali Saka berbohong untuk menutupi perhatiannya, Saka pasti memutar tutup botol minumnya dua kali!
 - **Perkembangan Emosi / Hubungan:** **Titik Tengah (Midpoint):** Untuk pertama kalinya wajah datar Saka memerah salah tingkah, ia segera menarik tangannya dari tutup botolnya dan berdeham kaku sebelum pamit pulang dengan senyum tipis yang tertahan.
 - **Detail Kecil / Planting-Callback:** **Tanaman 2B (Tell Saka):** Penguncian makna bunyi *klik* dua kali tutup botol minum Saka di antara mereka berdua.
 
-### Bab 15: Pergeseran Kecil di Meja Nomor Empat
+### Bab 18: Pergeseran Kecil di Meja Nomor Empat
 - **Waktu & Lokasi:** Senin pagi, Meja Proyek Nadia & Saka.
 - **Kejadian Inti:** Sejak malam di teras kos itu, suasana di meja kerja mereka berubah manis. Saka tidak lagi memutar tutup botolnya saat membelikan kopi pagi untuk Nadia, melainkan meletakkannya begitu saja di samping tablet gambar baru Nadia. Tari semakin gencar meledek Nadia saat jam makan siang bahwa obat paling manjur buat sembuh dari mantan ternyata adalah editor galak dari Jogja.
 - **Perkembangan Emosi / Hubungan:** Nadia merasa bahagia dan nyaman menjalani hari-harinya di kantor, dan draf buku *Sela Waktu* hampir rampung 90 persen.
 - **Detail Kecil / Planting-Callback:** Nadia menggambar sketsa kecil botol minum hitam penyok di sudut halaman ucapan terima kasih buku *Sela Waktu*.
 
-### Bab 16: Permintaan Maaf dan Bisikan Keraguan
+### Bab 19: Permintaan Maaf dan Bisikan Keraguan
 - **Waktu & Lokasi:** Rabu sore, Pantry Kantor Penerbit Aksara Senja.
 - **Kejadian Inti:** Setelah putus dari Vanya yang tidak sesabar Nadia, Dimas menghampiri Nadia di pantry dengan sikap yang berubah total: ia tidak lagi menyuruh-nyuruh, melainkan menunduk meminta maaf dengan suara bergetar karena telah menyia-nyiakan dua tahun kebersamaan mereka. Sebelum pergi, Dimas membisikkan kalimat halus yang menanamkan keraguan di kepala Nadia: ia mengingatkan bahwa seisi kantor tahu masa tugas Saka dari Yogyakarta hanya dua bulan sampai proyek *Sela Waktu* selesai, dan ia tidak ingin melihat Nadia patah hati ditinggal pulang ke Jogja.
 - **Perkembangan Emosi / Hubungan:** Meski Nadia awalnya berusaha tegas menolak, sikap lembut Dimas dan kalimat tentang masa tugas Saka itu diam-diam menyisakan ganjalan kecemasan di sudut hati Nadia.
 - **Detail Kecil / Planting-Callback:** Dimas sengaja menyeduhkan teh hangat untuk Nadia persis seperti kebiasaan mereka di awal pacaran dulu untuk menggugah memori lama Nadia.
 
-### Bab 17: Kabar dari Cabang Yogyakarta
+### Bab 20: Kabar dari Cabang Yogyakarta
 - **Waktu & Lokasi:** Jumat siang, Depan Ruangan Kepala Redaksi (Pak Ramdan) & Meja Proyek.
 - **Kejadian Inti:** Ucapan Dimas terbukti ketika Nadia tidak sengaja mendengar Pak Ramdan berbicara di telepon dengan kepala cabang Yogyakarta bahwa seiring rampungnya buku *Sela Waktu* akhir bulan ini, jadwal penugasan dua bulan Saka di Jakarta akan berakhir minggu depan. Saat kembali ke meja, Nadia melihat amplop cokelat berlogo kantor pusat Yogyakarta di bawah buku catatan Saka.
 - **Perkembangan Emosi / Hubungan:** Dada Nadia mencelos karena merasa bisikan Dimas ada benarnya: selama ini Saka tidak pernah sekalipun membahas kelanjutan hubungan mereka setelah proyek buku selesai.
 - **Detail Kecil / Planting-Callback:** Tangan Nadia kembali refleks menyentuh ujung karet penghapus pensilnya karena cemas akan ditinggalkan.
 
-### Bab 18: Jawaban yang Terdengar Dingin
+### Bab 21: Jawaban yang Terdengar Dingin
 - **Waktu & Lokasi:** Jumat sore pukul 17.00, Meja Proyek Nadia & Saka.
 - **Kejadian Inti:** Dengan hati ketar-ketir, Nadia mencoba memancing obrolan kepada Saka tentang rencana Saka setelah buku *Sela Waktu* naik cetak minggu depan. Karena surat permohonan mutasi permanen yang diajukan Saka ke HRD belum turun persetujuannya dan Saka pantang memberi janji kosong sebelum ada kepastian resmi, Saka menjawab dengan gaya realistisnya yang datar bahwa minggu depan ia memang harus kembali ke Yogyakarta dulu untuk membereskan urusan kantornya di sana.
 - **Perkembangan Emosi / Hubungan:** Jawaban singkat Saka membuat Nadia salah paham dan merasa hancur; Nadia menyimpulkan bahwa bagi Saka, kedekatan mereka selama ini hanyalah keakraban rekan satu proyek sementara.
 - **Detail Kecil / Planting-Callback:** Karena terluka dan gengsi, Nadia langsung berbicara kaku seperti operator *customer service* dan menolak ajakan Saka pulang bareng.
 
-### Bab 19: Pahlawan Kesiangan di Rawamangun
-- **Waktu & Lokasi:** Sabtu siang hingga sore, Rumah Orang Tua Nadia di Rawamangun.
-- **Kejadian Inti:** Saat Ibu Nadia mengalami kambuh vertigo ringan di rumah, Dimas tiba-tiba datang membawa bubur hangat dan obat, lalu dengan sangat sabar mengantar Ibu Nadia ke klinik serta menemani mengobrol seharian tanpa mengeluh sedikit pun. Di teras rumah, Dimas kembali meminta kesempatan kedua pada Nadia, berjanji telah berubah sepenuhnya, sementara Ibu Nadia dengan mata berkaca-kaca membujuk Nadia agar tidak menyia-nyiakan pria yang sudah begitu mengenal dan menyayangi keluarga mereka selama dua tahun.
-- **Perkembangan Emosi / Hubungan:** **Guncangan Akhir Dimulai:** Dalam kondisi hati yang sedang patah karena mengira Saka akan meninggalkannya ke Jogja, perhatian luar biasa Dimas pada ibunya membuat pertahanan Nadia goyah; Nadia mulai terhasut bahwa kembali pada Dimas yang sudah berusaha berubah adalah jalan terbaik dan paling membahagiakan ibunya.
-- **Detail Kecil / Planting-Callback:** Untuk pertama kalinya sejak putus, Nadia tidak menolak saat Dimas menggenggam pelan pergelangan tangannya di depan pintu pagar untuk meminta izin menjemputnya di kantor hari Senin.
+### Bab 22: Tamu yang Sigap di Rawamangun
+- **Waktu & Lokasi:** Sabtu siang, Rumah Orang Tua Nadia & Klinik Kesehatan di Rawamangun.
+- **Kejadian Inti:** Saat Nadia pulang menengok ibunya yang sedang kambuh vertigo ringan di rumah, Dimas tiba-tiba datang membawa bubur hangat dan buah. Tanpa diminta dan tanpa mengeluh sedikit pun, Dimas dengan sangat sabar mengantar Ibu Nadia dan Nadia ke klinik, mengurus antrean obat selama dua jam, dan memijit pelan bahu Ibu Nadia persis seperti menantu idaman.
+- **Perkembangan Emosi / Hubungan:** Melihat betapa telatennya Dimas merawat ibunya di saat hati Nadia sendiri sedang rapuh karena mengira Saka akan meninggalkannya ke Jogja, kemarahan Nadia pada Dimas perlahan melunak.
+- **Detail Kecil / Planting-Callback:** Dimas tidak sekalipun membahas urusan kerjaan atau meminta bantuan desain pada Nadia sepanjang hari itu.
 
-### Bab 20: Pertengkaran Tanpa Suara Tinggi
+### Bab 23: Bujukan Ibu dan Hati yang Goyah
+- **Waktu & Lokasi:** Sabtu sore menjelang malam, Teras Rumah Orang Tua Nadia di Rawamangun.
+- **Kejadian Inti:** Sebelum berpamitan pulang, Dimas berbicara empat mata dengan Nadia di teras: ia mengakui kesalahannya sambil berkaca-kaca dan berjanji akan menebus semuanya dari awal tanpa menuntut apa-apa lagi. Setelah Dimas pulang, Ibu Nadia menggenggam tangan Nadia di kamar dan membujuk dengan lembut agar Nadia tidak menyia-nyiakan pria yang sudah begitu mengenal keluarga mereka selama dua tahun dan mau berubah.
+- **Perkembangan Emosi / Hubungan:** **Guncangan Akhir (Nadia Goyah & Mulai Terhasut):** Di antara rasa takut ditinggal Saka ke Jogja, sikap manis Dimas yang tampak tulus, dan harapan ibunya, pertahanan Nadia benar-benar goyah. Nadia mulai terhasut bahwa kembali pada Dimas adalah pilihan yang paling aman dan membahagiakan ibunya.
+- **Detail Kecil / Planting-Callback:** Untuk pertama kalinya sejak putus, Nadia membalas pesan WhatsApp Dimas dengan nada hangat dan mengizinkan Dimas menjemputnya di kantor hari Senin.
+
+### Bab 24: Ilustrasi Kursi Kosong
+- **Waktu & Lokasi:** Senin sore pukul 16.00, Ruang Redaksi Penerbit Aksara Senja.
+- **Kejadian Inti:** Nadia dan Saka harus memeriksa cetakan percobaan (*dummy* buku) *Sela Waktu* sebelum naik cetak massal. Suasana di antara mereka hening dan kaku karena Nadia masih menjaga jarak sejak hari Jumat. Saat memeriksa halaman terakhir buku, gerakan tangan Saka terhenti melihat ilustrasi kecil buatan Nadia yang dibuat minggu lalu: gambar dua meja kerja yang bersebelahan, di mana satu kursinya sudah kosong dan hanya menyisakan bayangan botol minum hitam.
+- **Perkembangan Emosi / Hubungan:** Saka menatap gambar itu lama dan hendak bertanya pada Nadia, namun ponsel Nadia lebih dulu bergetar karena pesan dari Dimas yang mengabarkan sudah menunggu di lobi gedung.
+- **Detail Kecil / Planting-Callback:** Ilustrasi kursi kosong dan bayangan botol minum hitam menjadi bukti bisu perasaan Nadia yang sedang ia tekan sendiri.
+
+### Bab 25: Pertengkaran Tanpa Suara Tinggi
 - **Waktu & Lokasi:** Senin sore pukul 17.15, Lobi Gedung Penerbit Aksara Senja.
-- **Kejadian Inti:** Sepulang pemeriksaan cetak percobaan (*dummy*) buku *Sela Waktu*, Saka melihat Dimas sudah menunggu Nadia di lobi sambil membawakan makanan titipan untuk Ibu Nadia. Saat Saka menanyakan hal itu di tangga lobi, Nadia yang masih sakit hati pada rencana kepulangan Saka menjawab dengan suara bergetar bahwa Dimas sudah berubah dan ibunya berharap mereka kembali bersama. Bukannya menahan Nadia, Saka yang terluka harga dirinya sekaligus tidak mau memaksa Nadia justru berkata dingin: *"Kalau orang yang udah kenal keluarga kamu dua tahun itu beneran berubah, ya sudah. Itu pilihan paling masuk akal buat kamu, Nad."*
-- **Perkembangan Emosi / Hubungan:** Kalimat dingin Saka memukul hati Nadia hingga titik terendah; merasa Saka benar-benar melepaskannya tanpa peduli, Nadia yang kalut dan terhasut bujukan Dimas akhirnya mengiyakan ajakan Dimas untuk makan malam peresmian balikan mereka bersama Ibu Nadia besok malam.
-- **Detail Kecil / Planting-Callback:** Saka berbalik pergi meninggalkan lobi tanpa menoleh sedikit pun, sementara tangan Saka di dalam saku celananya mengepal erat.
+- **Kejadian Inti:** Saat turun ke lobi, Saka melihat Dimas sudah menunggu Nadia sambil membawakan bungkusan makanan untuk Ibu Nadia. Ketika Saka menahan langkah Nadia di dekat pilar lobi untuk menanyakan hal itu, Nadia yang masih sakit hati soal kepulangan Saka ke Jogja menjawab dengan suara bergetar bahwa Dimas sudah berubah, sudah merawat ibunya yang sakit, dan meminta kesempatan kedua. Bukannya menahan Nadia, Saka yang terluka harga dirinya sekaligus pantang memaksa perasaan orang justru berkata dingin: *"Kalau orang yang udah kenal keluarga kamu dua tahun itu beneran berubah, ya sudah. Itu pilihan paling masuk akal buat kamu, Nad."*
+- **Perkembangan Emosi / Hubungan:** Kalimat dingin Saka menghantam hati Nadia hingga titik terendah; merasa Saka benar-benar melepaskannya tanpa peduli, Nadia yang kalut dan terhasut bujukan Dimas langsung mengiyakan ajakan Dimas untuk makan malam peresmian balikan mereka bersama Ibu Nadia besok malam.
+- **Detail Kecil / Planting-Callback:** Saka berbalik pergi meninggalkan lobi tanpa menoleh sedikit pun, sementara tangan kanannya di dalam saku celana mengepal erat.
 
-### Bab 21: Meja Kerja yang Membeku
+### Bab 26: Meja Kerja yang Membeku
 - **Waktu & Lokasi:** Selasa siang, Ruang Desain & Redaksi Penerbit Aksara Senja.
-- **Kejadian Inti:** Seharian di kantor, suasana di meja proyek nomor empat membeku total; Saka hanya berbicara seperlunya soal teknis halaman terakhir buku tanpa menatap mata Nadia, sementara Dimas berkali-kali datang ke meja Nadia dengan senyum kemenangan untuk memastikan jadwal makan malam keluarga nanti malam. Tari berusaha memperingatkan Nadia apakah Nadia yakin kembali pada Dimas bukan sekadar karena takut ditinggal Saka ke Jogja, tetapi Nadia yang sudah terlanjur goyah dan gengsi berusaha meyakinkan dirinya sendiri bahwa keputusannya sudah benar.
-- **Perkembangan Emosi / Hubungan:** Meski mulut Nadia berkata ia siap kembali pada Dimas nanti malam, dadanya justru terasa sesak dan hampa setiap kali melirik halaman buku *Sela Waktu* yang mereka kerjakan berdua.
-- **Detail Kecil / Planting-Callback:** Nadia melihat catatan *post-it* kuning dari Saka di pojok monitornya yang mulai agak mengelupas, lalu menyimpannya ke dalam buku sketsanya dengan hati berat.
+- **Kejadian Inti:** Seharian di kantor, suasana di meja proyek nomor empat membeku total; Saka hanya berbicara seperlunya soal teknis halaman terakhir buku tanpa menatap mata Nadia, sementara Dimas berkali-kali datang ke meja Nadia dengan senyum kemenangan untuk memastikan jadwal makan malam keluarga nanti malam. Saat jam makan siang, Tari berusaha memperingatkan Nadia apakah Nadia yakin kembali pada Dimas bukan sekadar karena patah hati pada Saka, tetapi Nadia yang sudah terlanjur goyah dan gengsi berusaha meyakinkan dirinya sendiri bahwa keputusannya sudah benar.
+- **Perkembangan Emosi / Hubungan:** Meski mulut Nadia berkata ia siap kembali pada Dimas nanti malam, dadanya justru terasa sesak dan hampa setiap kali melirik kursi Saka di sebelahnya.
+- **Detail Kecil / Planting-Callback:** Nadia melihat catatan *post-it* kuning dari Saka di pojok monitornya yang mulai agak mengelupas, lalu mencopot dan menyimpannya ke dalam buku sketsanya dengan hati berat.
 
-### Bab 22: Topeng yang Terlepas dan Pensiunnya Sang Operator
+### Bab 27: Topeng Manis yang Terlepas
 - **Waktu & Lokasi:** Selasa malam pukul 19.30, Rumah Makan Keluarga di Rawamangun.
-- **Kejadian Inti:** Di awal makan malam bersama Ibu Nadia, Nadia sudah hampir mengangguk menerima Dimas kembali secara resmi. Namun karena merasa sudah berhasil menaklukkan hati Nadia dan mengalahkan Saka, sifat asli Dimas tak sengaja keluar: dengan nada manis tapi mengatur di depan Ibu, Dimas meminta Nadia tidak usah datang ke panggung peluncuran buku *Sela Waktu* hari Jumat nanti demi menemaninya ke acara makan malam manajer divisinya, sambil menyeletuk ringan, *"Lagian buku kecil gitu biar diurus editor Jogja itu aja, Nad, kamu kan dari dulu juga lebih suka ngikut kata aku daripada tampil di depan."*
-- **Perkembangan Emosi / Hubungan:** **Titik Balik Klimaks & Payoff Diri:** Kalimat meremehkan itu menghantam kesadaran Nadia seketika; kabut hasutan Dimas langsung buyar karena Nadia sadar Dimas tidak pernah berubah, melainkan hanya rindu memiliki "operator *customer service*" yang patuh dan rela mengorbankan impiannya sendiri! Di depan ibunya, Nadia langsung membatalkan niat balikannya, membongkar alasan sebenarnya mereka putus dulu, lalu menolak Dimas secara permanen dengan senyum tenang dan kalimat operator paling telak: *"Terima kasih atas ketertarikan Anda kembali, Mas Dimas, namun mohon maaf layanan sabar tanpa batas yang Anda hubungi sudah ditutup secara permanen."*
-- **Detail Kecil / Planting-Callback:** **Payoff Kalimat Customer Service** dari Bab 1; Ibu Nadia yang melihat sifat asli Dimas di meja makan langsung mendukung keputusan Nadia dan meminta maaf karena hampir menjerumuskan putrinya kembali.
+- **Kejadian Inti:** Di awal makan malam bersama Ibu Nadia, suasana tampak hangat dan Nadia sudah hampir mengangguk saat Dimas menanyakan kesediaannya untuk kembali bersama. Namun karena merasa sudah berhasil menaklukkan hati Nadia dan mengalahkan Saka, sifat asli Dimas tak sengaja keluar: dengan nada manis tapi mengatur di depan Ibu, Dimas meminta Nadia tidak usah hadir di panggung peluncuran buku *Sela Waktu* hari Jumat nanti demi menemaninya ke acara makan malam manajer divisinya, sambil menyeletuk enteng, *"Lagian buku kecil gitu biar diurus editor Jogja itu aja, Nad. Kamu kan dari dulu juga lembek kalau ngomong di depan orang, lebih bagus kamu ngikut aku aja kayak dulu."*
+- **Perkembangan Emosi / Hubungan:** **Titik Balik Kesadaran:** Kalimat meremehkan itu menghantam kesadaran Nadia seketika bagai disiram air es; kabut hasutan Dimas langsung buyar karena Nadia sadar Dimas sama sekali tidak pernah berubah, melainkan hanya rindu memiliki "operator *customer service*" yang patuh dan rela mengorbankan karya kebanggaannya sendiri!
+- **Detail Kecil / Planting-Callback:** Tangan Nadia di atas pangkuannya menyentuh buku sketsa tempat ia menyimpan *post-it* kuning Saka, dan kali ini Nadia tidak lagi menunduk.
 
-### Bab 23: Kursi Kosong dan Penyesalan yang Terlambat
+### Bab 28: Pensiunnya Sang Operator Layanan
+- **Waktu & Lokasi:** Selasa malam pukul 20.00, Rumah Makan Keluarga di Rawamangun.
+- **Kejadian Inti:** Di meja makan yang sama, Nadia meletakkan sendoknya dan menatap ibunya dengan tenang. Tanpa menangis dan tanpa suara tinggi, Nadia menceritakan seluruh kebenaran yang selama ini ia sembunyikan demi menjaga perasaan ibunya: bagaimana tiga minggu lalu Dimas memutuskannya demi staf baru bernama Vanya dan menghina kesabaran Nadia seperti operator *customer service*, serta betapa berharganya buku *Sela Waktu* bagi hidupnya. Ketika Dimas panik dan mencoba berkilah, Nadia menatap Dimas, tersenyum tenang, dan menutup masa lalunya dengan kalimat operator paling sopan namun mematikan: *"Terima kasih atas ketertarikan Anda kembali, Mas Dimas, namun mohon maaf layanan sabar tanpa batas yang Anda hubungi sudah ditutup secara permanen."*
+- **Perkembangan Emosi / Hubungan:** **Payoff Emosional Diri:** Dimas mati kutu tak bisa berkutik, sementara Ibu Nadia yang terkejut mendengar kebenaran itu sekaligus melihat langsung sifat asli Dimas tadi segera menggenggam tangan Nadia, meminta maaf karena sempat membujuk putrinya kembali, dan mendukung penuh keputusan Nadia.
+- **Detail Kecil / Planting-Callback:** **Payoff Kalimat Customer Service** dari Bab 1 yang membalikkan ejekan Dimas menjadi kemenangan harga diri Nadia.
+
+### Bab 29: Kursi Kosong dan Penyesalan yang Terlambat
 - **Waktu & Lokasi:** Rabu pagi pukul 08.15, Ruang Redaksi & Desain Penerbit Aksara Senja.
 - **Kejadian Inti:** Dengan dada berdebar kencang karena sadar betapa bodohnya ia sempat goyah dan menyakiti Saka kemarin, Nadia datang ke kantor pagi-pagi sekali untuk meminta maaf dan jujur pada Saka. Namun kursi kerja Saka di sebelahnya sudah kosong melompong, laptop dan botol minum hitamnya sudah tidak ada, dan Riko mengatakan bahwa kemarin sore Saka sudah berpamitan pada Pak Ramdan untuk berangkat ke Yogyakarta lebih awal.
 - **Perkembangan Emosi / Hubungan:** Air mata Nadia jatuh saat menatap kursi kosong itu karena mengira Saka pergi ke Yogyakarta dengan keyakinan bahwa Nadia sudah kembali berpacaran dengan Dimas; di tengah rasa kalut itu, Nadia membuka *dummy* cetakan buku *Sela Waktu* di mejanya dan menemukan koreksi catatan tangan terakhir Saka yang tetap memuji ilustrasi halaman penutup buatan Nadia.
-- **Detail Kecil / Planting-Callback:** Di halaman terakhir *dummy* buku itu ada ilustrasi buatan Nadia berupa dua meja kerja bersebelahan dengan bayangan botol minum hitam yang dilingkari rapi oleh pensil merah Saka.
+- **Detail Kecil / Planting-Callback:** Di halaman terakhir *dummy* buku itu ada ilustrasi buatan Nadia berupa dua meja kerja bersebelahan dengan bayangan botol minum hitam yang dilingkari rapi oleh pensil merah Saka dengan tulisan singkat: *"Bagus. Jangan dihapus."*
 
-### Bab 24: Pengakuan di Panggung *Sela Waktu*
+### Bab 30: Pengakuan di Panggung *Sela Waktu*
 - **Waktu & Lokasi:** Jumat sore pukul 16.00, Aula Toko Buku & Kafe Taman Ismail Marzuki / Cikini.
 - **Kejadian Inti:** Acara peluncuran buku *Sela Waktu* yang hampir saja Nadia korbankan demi Dimas berlangsung hangat dan ramai. Saat moderator bertanya tentang makna ilustrasi meja kerja di halaman terakhir buku, Nadia membuang seluruh gengsinya dan bercerita jujur di depan para pembaca tentang rekan semeja yang mengajarinya berani berkata "tidak" pada hal yang salah, sekaligus mengakui kebodohannya karena sempat ragu dan hampir kembali ke kebiasaan lamanya. Tepat saat Nadia menyelesaikan kalimatnya, matanya menangkap sosok pria berkemeja flanel rapi yang berdiri bersandar di rak buku paling belakang sambil memegang botol minum hitam yang bagian bawahnya penyok sedikit.
 - **Perkembangan Emosi / Hubungan:** Jantung Nadia berdesir luar biasa melihat Saka ternyata hadir di ruangan itu dan mendengarkan seluruh pengakuan tulus serta penyesalannya dari atas panggung.
 - **Detail Kecil / Planting-Callback:** Kemunculan botol minum hitam penyok di tangan Saka di barisan belakang penonton.
 
-### Bab 25: Dua Klik Tutup Botol (*Payoff Utama*)
+### Bab 31: Dua Klik Tutup Botol (*Payoff Utama*)
 - **Waktu & Lokasi:** Jumat sore pukul 17.30, Teras Samping Toko Buku Cikini.
-- **Kejadian Inti:** Begitu turun dari panggung, Nadia langsung berlari menghampiri Saka dan meminta maaf tanpa kalimat baku sedikit pun karena kemarin sempat goyah, terhasut masa lalu, dan berkata kasar di lobi kantor. Wajah kaku Saka melunak setelah mendengar Nadia sudah menolak Dimas secara permanen di malam Selasa itu; Saka lalu mengeluarkan surat keputusan HRD dari tasnya dan menjelaskan bahwa ia pergi ke Jogja dua hari kemarin bukan karena menyerah, melainkan untuk mengemasi barang kosnya setelah surat mutasi permanennya ke kantor cabang Jakarta yang ia ajukan sejak tiga minggu lalu akhirnya resmi disetujui.
+- **Kejadian Inti:** Begitu turun dari panggung, Nadia langsung berlari menghampiri Saka dan meminta maaf tanpa kalimat baku sedikit pun karena kemarin sempat goyah, terhasut masa lalu, dan berkata menyakitkan di lobi kantor. Wajah kaku Saka melunak setelah mendengar Nadia sudah menolak Dimas secara permanen di malam Selasa itu; Saka pun mengaku bahwa ia bersikap dingin di lobi kemarin karena takut menahan Nadia sebelum ada kepastian resmi dari kantor pusat. Saka lalu mengeluarkan surat keputusan HRD dari tasnya: ternyata ia ke Jogja dua hari kemarin hanya untuk mengemasi barang kosnya setelah surat mutasi permanennya ke kantor cabang Jakarta yang ia ajukan sejak tiga minggu lalu resmi disetujui.
 - **Perkembangan Emosi / Hubungan:** **Klimaks & Payoff Romansa:** Saat Nadia dengan mata basah dan senyum lega bertanya, *"Mas Saka sengaja ngajuin pindah tetap ke Jakarta gara-gara aku ya?"*, Saka menjawab dengan wajah datar khasnya: *"Enggak. Saya cuma telanjur cocok sama soto ayam di depan gedung kantor."*
 - **Detail Kecil / Planting-Callback:** **Payoff Silent Callback (Tanpa Penjelasan Narator):** Tepat saat mengucapkan kata *"Enggak"* itu, ibu jari tangan kanan Saka memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali.
 
-### Bab 26: Catatan *Post-it* Terakhir
+### Bab 32: Catatan *Post-it* Terakhir
 - **Waktu & Lokasi:** Senin sore pukul 17.01, Meja Proyek Nomor Empat, Penerbit Aksara Senja.
 - **Kejadian Inti:** Seminggu kemudian di kantor: Nadia sudah menjadi pribadi yang jauh lebih sehat, tetap ramah tetapi berani menolak dengan lugas saat Mbak Dinda dan Riko coba-coba menitipkan kerjaan dadakan di sore hari. Tepat pukul lima lewat satu menit sore, Saka menutup laptopnya sesuai kebiasaannya dan mengajak Nadia makan malam bersama.
 - **Perkembangan Emosi / Hubungan:** Penutup yang hangat, manis, dan memuaskan; Nadia dan Saka kini berpasangan secara tulus sebagai dua orang yang saling melengkapi.

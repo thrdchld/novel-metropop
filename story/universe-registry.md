@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Sebuah Kisah Nggak Enakan | `AKTIF (OUTLINE TERKUNCI)` | 26 | 0 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | - |
+| `NOV-002` | `PRM-002` | Sebuah Kisah Nggak Enakan | `AKTIF (OUTLINE TERKUNCI)` | 32 | 0 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | - |
 
 ---
 
@@ -87,12 +87,10 @@
 | Sumiati | Ibu / Bu Sumi | `NOV-001` | Keluarga | Pengrajin Kue Basah Pasar Tradisional Tebet | Pekerja keras, lembut, menjaga nama baik keluarga | `Boleh (Tingkat 1)` |
 | Darmawan | Pak Darmawan | `NOV-001` | Profesional | Kuasa Hukum / Pengacara Korporat Menara Astra | Tepat prosedur, dingin, taat hukum RI | `Boleh (Tingkat 1-3)` |
 | Reza Mahendra | Reza | `NOV-001` | Antagonis Sampingan | Pemilik Agensi Pemasaran Digital BuzzMedia | Licik, oportunis, penakut saat diancam pidana ITE | `Boleh (Tingkat 1-2)` |
-| Dita Maheswari | Dita | `NOV-002` | Protagonis | Staf Komunikasi/HRD PT Artha Kencana & Konsultan Strategi **Bolu Ketan** | *Hyper-vigilant*, sarkastik, *Savior Blind Spot* pada klien perempuan menangis (*Betrayal Trauma*) | `Boleh (Tingkat 1-3)` |
-| Baskara Danuputra | Ibas / Mas Ibas | `NOV-002` | Love Interest | Analis Risiko Senior PT Artha Kencana | Lurus, kaku (OCPD simetri), *Alexithymia* & somatisasi GERD, pemikul beban keluarga | `Boleh (Tingkat 1-3)` |
-| Clarissa Maharani | Clarissa / Klien Mawar | `NOV-002` | Antagonis Utama | Desainer Interior Lepas & Anak Klien Rekanan | *Covert Narcissist* (*Perpetual Martyr*) & *Golden Child*, jago berakting terzolimi | `Boleh (Tingkat 1-2)` |
-| Restu Wirawan | Restu | `NOV-002` | Antagonis Pendukung | Account Executive Agensi Periklanan | *Overt Narcissist*, pesolek, pengecut saat ditagih tanggung jawab uang | `Boleh (Tingkat 1-2)` |
-| Rani | Mbak Rani | `NOV-002` | Sekutu | Staf Senior HRD & GA PT Artha Kencana | Ratu intel kantor, laci penuh camilan & minyak angin, protektif | `Boleh (Tingkat 1-3)` |
-| Tomi | Tomi | `NOV-002` | Sekutu | Staf Desain & IT Support PT Artha Kencana | Kalem, hobi putar bolpoin (*ADHD stimming*), tukang kompor singkat | `Boleh (Tingkat 1-3)` |
+| Nadia Putri | Nadia / Nad | `NOV-002` | Protagonis | Ilustrator & Desainer Sampul Penerbit Aksara Senja | *People-pleaser* kronis (nggak enakan), bicara baku ala *customer service* saat kesal/gugup | `Boleh (Tingkat 1-3)` |
+| Saka Wijaya | Saka / Mas Saka | `NOV-002` | Love Interest | Editor Naskah Senior Penerbit Aksara Senja (Pindahan Yogyakarta) | Lugas, anti basa-basi, tepat pukul 17.00 tutup laptop, putar tutup botol minum hitam 2x *klik* saat berbohong menutupi perhatian | `Boleh (Tingkat 1-3)` |
+| Dimas Prasetyo | Dimas / Mas Dimas | `NOV-002` | Mantan / Oposisi | Staf Pemasaran Penerbit Aksara Senja | Egois halus, suka memanfaatkan kesabaran Nadia, manipulatif manis saat ingin balikan | `Boleh (Tingkat 1-2)` |
+| Tari | Tari | `NOV-002` | Sahabat / Sekutu | Staf Media Sosial Penerbit Aksara Senja | Ceplas-ceplos, hobi ngemil makaroni pedas di meja kerja, pengamat setia kantor | `Boleh (Tingkat 1-3)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.
@@ -111,13 +109,12 @@
 - **Pangkalan Ojol Lapangan Ros Tebet:** Pangkalan ojek online yang solid dan saling menjaga anggotanya dari preman atau debt collector.
 - **Toko Roti & Kafe Kampus Indah:** Kafe roti anak muda di kawasan kampus yang proposal keuangannya pernah dirapikan oleh Ayu.
 - **Kediaman Oma Ratna (Kebayoran Baru):** Rumah tua bergaya kolonial yang asri dengan taman luas di Jakarta Selatan.
-- **Kantor Rintisan Bolu Ketan (Kuningan / Tebet):** Ruko lantai dua merangkap gudang penyimpanan inventaris koper barang mantan pacar milik Dita.
-- **Galeri Interior SCBD:** Gedung perkantoran pengadaan furnitur dan tata ruang tempat Adrian bekerja.
+- **Kantor Penerbit Aksara Senja (Cikini):** Gedung kantor penerbitan buku tiga lantai di kawasan Cikini, Jakarta Pusat, tempat Nadia, Saka, Dimas, dan Tari bekerja.
 
 ### B. Perusahaan, Agensi, & Entitas Bisnis
 - **BuzzMedia Digital:** Agensi pemasaran dan periklanan digital di kawasan Jakarta Selatan milik Reza Mahendra yang pernah terlibat kasus kampanye hitam online (kode faktur: `INV/BMD-JKT`).
 - **Firma Hukum Darmawan & Rekan:** Kantor advokat hukum perdata dan pidana korporat yang menangani sengketa bisnis dan UU ITE.
-- **Bolu Ketan Logistics:** Layanan kurir perkotaan pihak ketiga khusus pengembalian barang pribadi pasca-putus hubungan asmara.
+- **Penerbit Aksara Senja:** Perusahaan penerbitan buku sastra, esai, dan ilustrasi populer yang memiliki kantor pusat di Yogyakarta dan kantor redaksi di Cikini, Jakarta Pusat.
 
 ---
 
