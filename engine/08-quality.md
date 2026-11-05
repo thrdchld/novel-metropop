@@ -149,6 +149,12 @@ Alasan mengapa kesalahan logika sering baru disadari saat menulis bab tengah (mi
      8. Apakah tokoh pendukung punya kepentingan spesifik sendiri?
 4. **Grafik Aliran Pengetahuan & Bukti Sejak Outline (*Pre-Outline Knowledge Graph*):**
    - Petakan dalam satu tabel ringkas sebelum menulis Bab 1: rahasia apa yang ada, siapa yang tahu sejak awal, kapan berpindah tangan, dan siapa yang dilarang tahu sampai titik balik tertentu.
+5. **Protokol Anti-Glossing (Larangan Label Taktik/Uang Abstrak Tanpa Mekanisme Konkret):**
+   - Model AI punya kelemahan bawaan menulis istilah yang terdengar pintar di outline (misal: *"Skenario Balik Meja"*, *"Taktik Psikologi Terbalik"*, *"Masalah Uang Gedung Rp45 Juta"*) tanpa menguji mekanisme nyatanya sampai bab ditulis, yang akhirnya membebani pengguna untuk mengoreksi logika dasar.
+   - **Aturan Wajib Sebelum Menulis Bab:** Setiap kali ada taktik, tuduhan, atau sengketa uang di dalam cerita, AI **wajib mengunci dan menjelaskan secara konkret di dalam teks**:
+     1. **Akuntansi Pemilik Uang:** Siapa pemilik awal uang tersebut, ke tangan siapa uang itu diserahkan, dan atas dasar logika apa pihak penuntut menagih ganti rugi.
+     2. **Mekanisme Psikologi Manusia Nyata:** Mengapa orang tua/atasan/pihak ketiga di adegan tersebut bisa percaya atau marah (tidak boleh batal tunangan atau dipecat hanya karena "dipancing ngomong 5 kalimat" seperti kuis).
+     3. **Audit Silang Otomatis oleh AI (Tanpa Menunggu Koreksi User):** Jika ada satu detail yang disesuaikan di Bab N, AI wajib langsung menyisir dan menyelaraskan seluruh bab terkait di `outline.md` saat itu juga, dan jika ditemukan kendala di tengah cerita (misal Bab 10), AI **wajib memakai Karantina Radius Ledakan (Bagian 4B)** untuk memperbaikinya di Bab 10 ke depan **tanpa pernah meminta pengguna mengulang atau merombak Bab 1 sampai Bab 9**.
 
 ---
 
