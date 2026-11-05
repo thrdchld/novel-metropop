@@ -42,18 +42,21 @@ Setiap tokoh inti dan tokoh berulang di `canon.md` wajib memiliki:
 
 ---
 
-## 3. Aturan Tells (Gerakan Khas) & Pengenalan Tokoh Lewat Dialog
+## 3. Aturan Tells (Gerakan Khas), Silent Callback, & Pengenalan Tokoh Berkarakter
 
-### Aturan Tells (Gerakan Khas)
+### Aturan Tells (Gerakan Khas) & *Silent Emotional Callback*
 - Pilih **1–2 tells per adegan**; jangan memborong semua tells sekaligus.
 - Ulangi tell utama setiap 3–5 bab agar menjadi ciri khas yang dikenali pembaca.
 - **Perubahan tell di Babak 3** menandakan karakter sudah berubah/bertumbuh.
+- **Gunakan *Tell* sebagai *Silent Callback* (Tanpa Dijelaskan Ulang):** Setelah sebuah kebiasaan fisik (*tell*) ditanam artinya secara sambil lalu di awal/tengah cerita (misal: tokoh tanpa sadar selalu menggaruk hidung saat berbohong, atau memegang cuping telinga saat menahan tangis), **jangan pernah menjelaskan ulang artinya saat momen puncak/akhir**. Cukup tampilkan gerakan fisiknya saja (misal: *"Janji," katanya, sambil mengangkat tangan kanan dan menggaruk hidungnya*), dan biarkan pembaca merasakan pukulan maknanya sendiri.
 - Hindari klise generik (*"jantung berdegup kencang"*, *"menghela napas berat"* berulang-ulang) tanpa detail fisik yang spesifik.
 
-### Pengenalan Tokoh Lewat Dialog & Aksi (*In-Dialogue Character Introduction*)
+### Pengenalan Tokoh Lewat Dialog, Aksi, & Kesan Unik (*In-Dialogue & Opinionated Introduction*)
 - Berdasarkan riset naratif (*StoryScope*), **memperkenalkan tokoh baru langsung lewat ucapan atau tindakannya di tengah situasi aktif** adalah pembeda #1 antara tulisan manusia asli dan tulisan AI.
 - **Dilarang memperkenalkan tokoh baru dengan:** membekukan adegan untuk memaparkan biodata, tinggi badan, bentuk wajah, dan daftar pakaian dari kepala sampai kaki seperti laporan intelijen.
-- **Cara yang benar:** Biarkan tokoh baru itu **berbicara atau melakukan sesuatu yang khas lebih dulu** (misal menawar ongkos, mengomel soal parkir, atau menyodorkan map), baru selipkan 1–2 detail penampilan fisiknya yang paling mencolok sambil percakapan berjalan.
+- **Cara yang benar (Kombinasi Aksi + Kesan Subjektif yang Tajam):**
+  1. Biarkan tokoh baru itu **berbicara atau melakukan sesuatu yang khas lebih dulu** di tengah situasi aktif.
+  2. Gambarkan sosoknya hanya dengan **1–2 detail spesifik yang dipadukan dengan kesan subjektif/unik di mata tokoh POV** (misal: *"Wajahnya ganteng nanggung seperti orang yang lolos audisi model majalah remaja tapi gagal di putaran kedua"*, *"Dia tipe orang yang kalau berpapasan di supermarket langsung menyatu dengan oksigen"*, atau *"Dia memakai kaus kartun kuning yang di badan orang dewasa lain bakal kelihatan aneh, tapi entah kenapa di dia terlihat cocok"*). Hal ini membuat setiap tokoh langsung terasa punya nyawa dan kepribadian yang berbeda sejak kemunculan pertamanya.
 
 ---
 

@@ -58,5 +58,5 @@ Saat memulai sesi baru, baca `AGENTS.md`, `engine/README.md`, `engine/00-workflo
 3. **Rentang Kata:** Wajib **600–900 kata** per bab (target ±750 kata; darurat maks. 1.200 kata hanya jika memotong kejadian penting). Satu bab per respons.
 4. **Tanpa Em Dash (`—`) & Tanpa Quote Pembuka:** Dilarang keras memakai em dash (`—`) di seluruh narasi/dialog novel dan dilarang memasang quote di atas bab.
 5. **100% Teks Polos (*Plain Text*) di Naskah Bab:** Seluruh file bab di `story/` dilarang memakai tanda bintang tebal (`**teks**`), miring (`*teks*`), coret, atau backtick. Format chat ditulis polos `Nama: Isi pesan`.
-6. **Bebas AI Slop & Bahasa Kaku:** Gunakan gaya percakapan lisan Indonesia yang segar, sarkas, dan membumi sesuai `acuan-bahasa.docx` (*Resign!*) dan `engine/05-style.md`.
+6. **Bebas AI Slop & Bahasa Kaku:** Gunakan gaya bercerita yang sederhana, *to the point*, percakapan lisan Indonesia yang segar, deskripsi ber-sudut pandang unik, dan humor ringan dari celetukan/perumpamaan menggelitik sesuai `acuan-bahasa.docx` dan `engine/05-style.md`.
 7. **Anti-Halusinasi & Kontinuitas Ketat:** Jangan menyelesaikan konflik dengan kebetulan (*deus ex machina*), jangan membuat tokoh tahu info/data mikro tanpa saluran fisik sah (`07-continuity.md`), dan jangan mengubah canon/outline diam-diam.

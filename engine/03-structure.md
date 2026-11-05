@@ -137,8 +137,8 @@ Berasal dari Dwight Swain dan dipopulerkan Brandon Sanderson. Satu siklus butuh 
 
 **Urutan yang aman:** Siklus pertama paling sederhana dan jelas gagal, siklus tengah tampak berhasil, siklus terakhir sebelum menyerah hampir berhasil.
 
-### Menanam Solusi (*Planting* Minimal 2 Kali)
-Tentukan solusi akhir lebih dulu, pecah jadi bahan, lalu tanam tiap bahan **minimal dua kali** sebelum titik terendah: satu muncul sebagai hal sepele, satu sebagai hal yang tampak tidak penting tapi sedikit menonjol.
+### Menanam Solusi (*Planting* Minimal 2 Kali) & Teknik *Invisible Planting / Callback*
+Tentukan solusi akhir atau pukulan emosi (*payoff*) lebih dulu, pecah jadi bahan, lalu tanam tiap bahan **minimal dua kali** sebelum titik terendah: satu muncul sebagai hal sepele, satu sebagai hal yang tampak tidak penting tapi sedikit menonjol.
 
 | Jenis Bahan | Cara Menanam | Contoh dari Novel |
 |---|---|---|
@@ -147,7 +147,23 @@ Tentukan solusi akhir lebih dulu, pecah jadi bahan, lalu tanam tiap bahan **mini
 | **Kebiasaan** | Diulang di dua adegan berbeda | Jam Passepartout yang tidak pernah disesuaikan (*Around the World in Eighty Days*) |
 | **Informasi dan kejadian kecil** | Terucap atau terjadi di adegan sepele | Cerita Wickham tentang Darcy (*Pride and Prejudice*); tawa aneh di loteng (*Jane Eyre*) |
 
-Hindari orang baru yang muncul tepat saat solusi, benda yang tidak pernah disebut, dan informasi yang hanya diketahui tokoh. Uji: hapus bab solusi, lalu cek apakah pembaca bisa menebak bahannya dari bab sebelumnya. Kalau terlalu mudah ditebak, samarkan dengan *red herring*.
+#### Empat Teknik *Invisible Planting & Callback* ("Kukira Cuma Detail Sepele, Ternyata Kunci Cerita")
+Agar *planting* tidak mudah ditebak pembaca, samarkan informasi penting sebagai **celetukan humor, kebiasaan fisik remeh, atau obrolan sambil lalu** sehingga pembaca mengira itu hanya bumbu obrolan biasa, padahal di akhir menjadi penjelasan (*callback*) yang memukul telak:
+
+1. **Kebiasaan Fisik Kecil (*Micro-Tell*) sebagai *Silent Callback* di Akhir:**
+   - *Cara Menanam:* Di pertengahan cerita, selipkan informasi kecil secara sambil lalu tentang kebiasaan refleks tokoh (misal: setiap kali tokoh itu berbohong, tanpa sadar ia selalu menggaruk hidungnya).
+   - *Cara Membayar (Callback Tanpa Penjelasan Narator):* Di adegan penutup yang emosional, saat tokoh itu dipaksa berjanji untuk melupakan orang yang ia cintai, cukup tulis tindakannya tanpa perlu dijelaskan lagi oleh narator: *"Janji," katanya, sambil mengangkat tangan kanan, dan menggaruk hidungnya.* Pembaca langsung tersentak karena ingat arti gerakan itu.
+2. **Candaan / Obrolan Sambil Lalu sebagai Penjelasan Kunci (*Casual Banter Plant*):**
+   - *Cara Menanam:* Selipkan fakta krusial di dalam lelucon ringan atau obrolan santai antartokoh (misal: suami bercanda meminta istrinya mencari uang tambahan karena istrinya punya bakat bisa melihat dan mengobrol dengan orang yang sudah meninggal; atau obrolan santai tentang ruas jari kelingking teman yang putus setengah seperti Yakuza).
+   - *Cara Membayar:* Di klimaks atau akhir cerita, detail yang tadi dikira cuma lelucon pengisi obrolan ternyata adalah **alasan logis mengapa seluruh peristiwa di cerita itu bisa terjadi**.
+3. **Atribut / Perhatian Pihak Ketiga yang Ternyata Berasal dari Tokoh Utama (*Hidden Proxy Plant*):**
+   - *Cara Menanam:* Tokoh memuji pasangan/tunangannya yang tampak begitu perhatian karena membawa sesuatu yang sangat spesifik (misal: membawa buket anggrek merah jambu saat melamar, padahal jarang ada orang yang tahu ia menyukai bunga itu).
+   - *Cara Membayar:* Di puncak konflik, terungkap lewat satu kalimat jujur bahwa justru sahabat/tokoh utamalah yang diam-diam memberi tahu informasi itu dan membelikan bunga tersebut di pasar bunga demi kebahagiaan orang yang ia cintai.
+4. **Kebiasaan Unik yang Menjadi Kalimat Penutup Melingkar (*Bookend Callback*):**
+   - *Cara Menanam:* Sebutkan kebiasaan remeh tokoh saat bekerja atau beraktivitas di awal cerita (misal: kebiasaan menekan tombol titik lama-lama di papan ketik setiap kali selesai menulis draf, atau kebiasaan mengecek steker listrik tiga kali).
+   - *Cara Membayar:* Gunakan kebiasaan yang sama persis di kalimat terakhir bab penutup dalam konteks baru yang mengubah maknanya secara emosional.
+
+Hindari orang baru yang muncul tepat saat solusi, benda yang tidak pernah disebut, dan informasi yang hanya diketahui tokoh. Uji: hapus bab solusi, lalu cek apakah pembaca bisa menebak bahannya dari bab sebelumnya. Kalau terlalu mudah ditebak, samarkan dengan *red herring* atau bungkus sebagai candaan sambil lalu.
 
 ---
 

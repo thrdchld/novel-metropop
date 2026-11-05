@@ -5,12 +5,12 @@
 
 ## 1. Suara dan Nada Cerita
 
-- **Bahasa percakapan alami Indonesia:** mengalir, santai, lincah, bernada ngobrol sehari-hari, membumi, dan segar.
+- **Bahasa percakapan alami Indonesia yang sederhana & *to the point*:** Mengalir, santai, lincah, bernada ngobrol sehari-hari, membumi, segar, dan **langsung ke inti cerita tanpa basa-basi puitis yang bertele-tele**.
 - **Kosakata percakapan urban:** *nggak, udah, kayak, ngetik, nyender, banget, aja, bikin, tuh, pengin, nyengir, manyun, tengil, mendamprat, misuh-misuh, sewot, doyan, kicep, melongo*.
-- **Natural Code-Switching:** Selipkan istilah bahasa Inggris dunia kerja/perkotaan yang memang lazim dipakai sehari-hari tanpa terdengar kaku atau sok keminggris:
-  *outlier, drawer, walkout, lunch break, urgent, meeting, resign, CV, flash disk, awkward, simple truth, done, cubicle, fitting room, quick call*.
-- **Kalimat dan paragraf pendek:** Hindari kalimat majemuk bertingkat yang berbelit-belit.
-- **Humor situasional:** Lahir dari ironi keadaan, nasib apes tokoh (*self-deprecating humor*), celetukan batin spontan, dan saling ledek (*banter*) antarrekan.
+- **Natural Code-Switching:** Selipkan istilah bahasa Inggris dunia kerja/perkotaan dan referensi digital modern yang memang lazim dipakai sehari-hari sesuai tahun latar cerita tanpa terdengar kaku atau sok keminggris:
+  *outlier, drawer, walkout, lunch break, urgent, meeting, resign, CV, flash disk, awkward, simple truth, done, cubicle, fitting room, quick call, unfollow, Close Friends, second account, playlist Spotify, Google Docs*.
+- **Kalimat dan paragraf pendek yang jernih:** Hindari kalimat majemuk bertingkat yang berbelit-belit. Nyatakan aksi, situasi, dan perasaan secara lugas.
+- **Humor situasional & pikiran liar yang tidak memaksa:** Lahir secara alami dari ironi keadaan, nasib apes tokoh (*self-deprecating humor*), celetukan batin spontan (*deadpan wild thoughts*), perumpamaan keseharian yang menggelitik, dan saling ledek (*banter*) antarrekan tanpa merusak ritme atau bobot emosi cerita.
 
 ---
 
@@ -177,3 +177,57 @@ Gaya dasar tetap ringan, mengalir, dan mudah dipahami; sesuaikan kosakata dengan
 - **Anak (6–12) & Remaja (13–18):** Kalimat sederhana/gaul ringan (*aku-kamu* atau *gue-lo*), topik sekolah/ekskul/keluarga, romansa polos tanpa umpatan.
 - **Mahasiswa (18–23) & Dewasa Muda (22–35):** Bahasa urban + serapan dunia kuliah/kerja, topik skripsi, kos, gaji, cicilan, relasi.
 - **Menikah (28–50) & Lansia:** Santai, hemat kata, humor kering/hangat, topik rumah tangga, mertua, anak, cucu, atau pensiun.
+
+---
+
+## 8. Teknik Bercerita Sederhana (*To The Point*), Deskripsi Ber-Sudut Pandang, & Humor Pikiran Liar
+
+Bagian ini menyatukan cara bercerita yang sederhana, lugas, dan punya karakter kuat agar cerita enak dibaca dari kalimat pertama sampai akhir tanpa terasa berat atau dibuat-buat:
+
+### 8.1 Cara Bercerita Sederhana & *To The Point* (Tanpa Bunga Sastra Semu)
+1. **Langsung ke Inti Situasi dan Perasaan:**
+   - Jangan membungkus kejadian sederhana dengan kalimat mendayu-dayu. Jika tokoh sedang patah hati, kesal, atau merasa bodoh, nyatakan secara lugas lalu tunjukkan tindakannya:
+     > *Sekarang, dia sedang patah hati.*
+     > *Dia langsung menutup teleponnya, kesal. Di bagian mana dari kalimat "datang sendiri" yang temannya itu tidak paham?*
+     > *Aku mulai merasa bodoh.*
+2. **Ketukan Satu Kalimat Mandiri (*Single-Line Beat*):**
+   - Gunakan paragraf yang hanya berisi satu kalimat pendek (bahkan satu kata) untuk memberi jeda hening, efek komedi datar (*deadpan*), atau pukulan emosi:
+     > *Hening.*
+     > *Dia mengangguk.*
+     > *Tidak ada yang menjawab.*
+3. **Tag Dialog Transparan:**
+   - Gunakan tag dialog paling sederhana dan tidak mencolok seperti `kata [Nama]`, `tanyaku`, `jawab [Nama], singkat`. Biarkan kekuatan dialog dan tindakan kecil tokoh yang bekerja, bukan kata kerja pengiring yang dramatis.
+
+### 8.2 Deskripsi Karakter, Benda, & Latar Lewat "Satu Detail Spesifik + Satu Sudut Pandang Unik"
+Hindari mendeskripsikan tokoh, benda, atau ruangan seperti daftar inventaris. Gunakan rumus **1–2 detail visual/fisik spesifik + 1 penilaian atau sudut pandang subjektif yang berkarakter**:
+
+1. **Mendeskripsikan Karakter (Lewat Kesan Kehadiran & Ironi Visual):**
+   - Jangan mendaftar tinggi badan, bentuk hidung, dan warna pakaian dari ujung rambut ke ujung kaki. Gambarkan tokoh lewat **bagaimana orang lain mengalami kehadirannya** atau **satu detail yang langsung membedakan dia dari tokoh lain**:
+     - *Lewat kesan keberadaan:* Dia tipe orang yang kalau berpapasan denganmu di lorong supermarket, kamu tidak akan pernah ingat pernah berpapasan dengannya. Menyatu dengan oksigen.
+     - *Lewat julukan visual yang spesifik:* Wajahnya seperti orang yang lolos audisi model majalah remaja, tapi gagal masuk ke putaran berikutnya. "Ganteng nanggung" mungkin adalah frasa yang tepat.
+     - *Lewat pakaian yang menyatu dengan watak:* Dia memakai kaus kuning bergambar *The Simpsons*. Orang dewasa lain mungkin bakal kelihatan aneh memakai baju kartun seperti itu, tapi entah kenapa di badannya terlihat cocok.
+2. **Mendeskripsikan Benda & Latar (Lewat Jejak Pemakaian & Memori):**
+   - Jangan memotret seluruh isi kamar atau kafe. Pilih **1–2 benda yang punya "jejak hidup"** (noda, cacat kecil, atau kebiasaan pemiliknya):
+     - *Latar rumah/kamar:* Figura kayu foto keluarga dengan noda kopi di sudut kanan atas; piano sumbang di ruang tengah yang selalu ditunda untuk dibenarkan; piama SpongeBob yang bagian bahunya kena lunturan baju lain.
+     - *Meja makan/kafe:* Di atas meja hanya ada satu botol saus tomat, dan teman akrabnya, satu botol sambal.
+
+### 8.3 Selipan Humor Ringan: Celetukan Pikiran Liar & Perumpamaan Menggelitik (*Unforced Humor*)
+Humor di dalam cerita tidak boleh terasa memaksa melucu (*trying too hard*) atau berubah menjadi komedi slapstick yang merusak suasana. Humor terbaik muncul sebagai **warna tambahan yang ringan** dari dua sumber:
+
+1. **Perumpamaan Keseharian yang Menggelitik (*Tickling Everyday Analogies*):**
+   - Bandingkan situasi emosional, kecanggungan, atau benda di depan mata dengan realitas sehari-hari yang sangat akrab tetapi tak terduga (cukup 1–2 kali di momen yang pas, lalu cerita langsung lanjut):
+     - *Soal makanan/benda:* Roti bakar yang sudah dingin itu keras dan kaku, teksturnya mirip kanebo kering yang dilaminating.
+     - *Soal mantan pacar:* Bertemu mantan pacar secara tidak sengaja itu rasanya seperti melihat hantu: sesuatu yang dulunya pernah hidup, tapi sekarang cuma gentayangan.
+     - *Soal orang yang lepas tangan setelah bikin masalah:* Sikapnya persis seperti orang yang habis menabrakkan mobil ke warung sampai warungnya hancur rata dengan tanah, lalu dia turun dan bertanya polos ke ibu pemilik warung, "Gimana dong, Bu?"
+     - *Soal dua karakter yang bertolak belakang:* Kami berdua ini seperti es kopi susu kekinian dan bola tapioka hitam yang mengendap di dasar gelasnya.
+     - *Soal pendekatan hidup yang terlalu kaku:* Proses mencari pasangan hidup aku perlakukan persis seperti orang yang sedang mencari rekan bisnis: penuh uji kelayakan dan permintaan rekomendasi dari orang lain.
+2. **Celetukan & Pikiran Liar Sekelebat (*Deadpan Wild Thoughts*):**
+   - Saat menghadapi kejadian absurd atau kalimat klise orang lain, biarkan batin tokoh melempar satu komentar datar sekelebat (1–2 kalimat saja) sebelum kembali ke obrolan nyata:
+     - Saat teman datang ke rumah memanggil julukan *"Kampret ada, Om?"* dan Bapak malah menjawab santai *"Oh, ada tuh di dalam"*, batin tokoh nyeletuk: *seolah Bapak mengamini bahwa anaknya memang sejenis kelelawar pemakan buah*.
+     - Saat disindir kenapa belum bisa menghilangkan perasaan ke sahabat sendiri: *Ya maaf deh, masalahnya di YouTube nggak ada video Tutorial Uninstall Perasaan ke Sahabat Sendiri*.
+     - Saat berbicara serius pada kucing peliharaan di teras: *Kalau sampai kucing ini tiba-tiba menjawab, "Gak apa-apa, cuy," detik ini juga aku bikin kanal YouTube khusus buat minta kucing ajaib ini nge-vlog.*
+
+### 8.4 Referensi Modern yang Kontekstual dengan Waktu Latar
+Gunakan detail budaya pop, aplikasi, dan kebiasaan warga kota sesuai tahun latar cerita secara organik (tidak berlebihan dan menyatu dengan konflik):
+- **Kebiasaan Relasi Digital:** Di zaman sekarang, putus cinta dianggap belum sah secara de facto dan de jure kalau foto berdua di Instagram belum dihapus dan akun belum saling *unfollow*; memasang foto di *Close Friends* (lingkaran hijau) yang isinya sebenarnya cuma satu orang yang ingin dipameri; memakai *second account* untuk belanja atau memantau mantan.
+- **Keseharian Urban:** Mendengarkan *playlist* lagu sedih atau rekaman pengantar tidur di Spotify, menulis draf kerjaan di Google Docs, memesan kopi lewat aplikasi, atau gaya pekerja kantoran SCBD yang ke mana-mana menenteng tumbler mahal.

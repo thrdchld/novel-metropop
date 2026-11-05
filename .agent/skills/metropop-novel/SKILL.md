@@ -31,5 +31,5 @@ Skill ini memandu AI dari tahap brainstorming ide/premis, merancang konflik & so
   - 600–900 kata per bab (target ±750 kata; darurat maks. 1.200 kata);
   - **0 em dash (`—`)** dan **0 quote pembuka di atas bab**;
   - **100% teks polos (*plain text*)** tanpa tanda bintang tebal (`**teks**`), miring (`*teks*`), coret, atau backtick di naskah cerita;
-  - Tone & diksi mengacu pada `acuan-bahasa.docx` (*Resign!* karya Almira Bastari): POV 1 intim, sarkas, percakapan lisan alami Indonesia, bebas *AI slop*;
+  - Tone & diksi mengacu pada `acuan-bahasa.docx` dan `engine/05-style.md`: POV 1 intim, cara bercerita sederhana & *to the point*, percakapan lisan alami Indonesia, deskripsi ber-sudut pandang unik, humor ringan dari celetukan/perumpamaan menggelitik, serta bebas *AI slop*;
   - Wajib menampilkan **Pre-Flight Continuity Gate 5 Poin** sebelum menulis bab, menyinkronkan `state.md` & `ledger.md` pasca-tulis, dan menjalankan `python3 scripts/audit-continuity.py "story/<Judul>"` serta `python3 scripts/analyze-prose.py "story/<Judul>"`.

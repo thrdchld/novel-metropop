@@ -39,7 +39,7 @@ Jangan mengunggah seluruh isi repositori sekaligus agar AI tidak bingung. Unggah
    - **Rentang kata:** Wajib **600–900 kata** per bab (target ±750 kata; darurat maks. 1.200 kata hanya jika memotong adegan penting). Satu bab per respons.
    - **100% Teks Polos (*Plain Text*):** Di dalam naskah cerita bab, dilarang memakai tanda bintang tebal (`**teks**`), miring (`*teks*`), coret, atau backtick. Format chat ditulis polos `Nama: Isi pesan`.
    - **0 Em Dash (`—`) & 0 Quote Pembuka:** Dilarang keras memakai karakter em dash (`—`) di mana pun dan dilarang menaruh quote di atas bab.
-   - **Tone & Gaya Bahasa:** Mengikuti `acuan-bahasa.docx` (*Resign!* karya Almira Bastari) dan `engine/05-style.md` (POV 1 intim, sarkas, dialog lisan alami Indonesia, bebas *AI slop*).
+   - **Tone & Gaya Bahasa:** Mengikuti `acuan-bahasa.docx` dan `engine/05-style.md` (POV 1 intim, bercerita sederhana & *to the point*, dialog lisan alami Indonesia, deskripsi ber-sudut pandang unik, humor celetukan pikiran liar/perumpamaan menggelitik, dan bebas *AI slop*).
 5. **Protokol Kontinuitas Berlapis:**
    - Sebelum menulis bab, wajib tampilkan **Gerbang Pra-Tulis Kontinuitas (Pre-Flight Gate) 5 Poin** dari `state.md` (Waktu & Jangkar Relatif, Status Hubungan Sah, Inventaris Fisik, Asimetri Pengetahuan & Saluran Fisik Fakta, Kunci Milestone).
    - Setelah menulis bab, berikan Catatan Kontinuitas 5–8 baris, perbarui `state.md` & `ledger.md`, dan beri skor Rubrik 8 Kriteria (lulus jika ≥34/40 tanpa nilai <4).
