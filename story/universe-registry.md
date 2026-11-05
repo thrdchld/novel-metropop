@@ -19,7 +19,6 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Konsultan Move On | `TAHAP B-C (CANON & OUTLINE)` | 0 | 0 | Jakarta (Kuningan, Tebet, Pasar Minggu) | 2026 | - |
 
 ---
 
@@ -31,39 +30,11 @@
 - **Proyek Terkait:** `NOV-001` (Folder: `story/Narik Ojol Cinta Pun Nongol/`)
 - **Status:** `DITERIMA / AKTIF` (Selesai 24 Bab, lulus audit kontinuitas 100%)
 - **Tanggal Disetujui:** 2026-10-27
-- **Formula Sintaksis:**
-  - *Basic Logline:* Ayu Anindya, seorang sarjana manajemen bisnis ber-IPK 3,85 yang terpaksa narik ojol demi melunasi utang keluarga Rp45 juta, harus menjalani sandiwara sebagai pacar kontrakan seorang bos muda bernama Rian dalam acara keluarga besar sebelum rahasia identitas aslinya dibongkar oleh mantan pacar sang bos.
-  - *Character-Driven:* Ketika terdesak tagihan utang almarhum bapak, seorang driver ojol perempuan yang pintar dan berintegritas tinggi dipaksa menerima kontrak Rp15 juta per bulan untuk menjadi pacar sewaan seorang eksekutif kaku yang menghindari perjodohan, namun ketika perasaan tulus mulai tumbuh, ia harus memilih antara menyelamatkan usaha kue ibunya atau mempertahankan kehormatan dirinya di depan keluarga sang bos.
-  - *3-Kalimat Bell:* Ayu Anindya adalah sarjana FEB ber-IPK 3,85 yang menyembunyikan wajah di balik masker kain saat mengojek demi mencicil utang almarhum ayahnya. Ketika mengantar pesanan nasi kotak ke Menara Astra 30 menit sebelum resepsi keluarga penting, seorang bos muda yang panik menyewanya Rp15 juta sebulan untuk bersandiwara menjadi pacar demi menggagalkan perjodohan licik. Kini, Ayu harus menjaga rahasia pelat motor dan identitas ojolnya di hadapan keluarga konglomerat sebelum mantan pacar sang bos menghancurkan warung kue ibunya dengan fitnah publik.
-- **M.I.C.E. Dominan & Kerangka:** Character + Event | Kerangka Utama: **Struktur Romance** (Pendamping: **Save the Cat** + **Siklus Coba-Gagal**)
-- **3 Tingkat Taruhan:**
-  - *Personal Stakes:* Ayu terancam kehilangan harga diri dan kepercayaan keluarga; Rian terjebak pernikahan paksa bersama mantan manipulatif.
-  - *Public Stakes:* Warung kue Ibu Sumi di Tebet disita rentenir dan dihancurkan teror buzzer; reputasi keluarga Pratama tercemar skandal publik.
-  - *Ultimate Stakes:* Mempertaruhkan prinsip integritas bahwa martabat hidup ditentukan oleh kejujuran kerja halal, bukan kasta sosial atau seragam kerja.
-- **Ringkasan 5 Slot:** Keinginan/Kebutuhan: lunasi utang cepat vs belajar membagi beban; Tenggat: 30 menit pra-resepsi & 3 bulan kontrak; Konsekuensi: sita dapur kue & kawin paksa; Jalan Tertutup: macet 30 menit, dapur harian bergantung pada ojol, tuduhan penipu jika jujur tanpa bukti watak; Harga Akhir: pulihkan warung kue dari teror bintang 1 dan merobek sisa klaim uang kontrak sandiwara.
-
-#### PRM-002: Konsultan Move On (Bolu Ketan)
-- **Proyek Terkait:** `NOV-002` (Folder: `story/Konsultan Move On/`)
-- **Status:** `DITERIMA / AKTIF (TAHAP B-C: CANON & OUTLINE)`
-- **Tanggal Disetujui:** 2026-11-05
-- **Rumus ABCD Premis:**
-  - *A (Character):* Dita Maheswari, karyawati HRD yang cerdas, sinis soal cinta, dan jago membaca psikologi hubungan.
-  - *B (Routine):* Membuka jasa konsultasi strategi *move on* anonim bernama **Bolu Ketan** (*Bantu Orang Lepas Urusan Kenangan Mantan*) yang laris dari mulut ke mulut karena sarannya yang luar biasa pintar.
-  - *C (Inciting Incident):* Strategi pemutusan hubungan paling jenius yang ia berikan ke seorang klien anonim ("Klien Mawar") ternyata dipakai untuk menjebak dan menghancurkan reputasi **Baskara Danuputra (Ibas)**, rekan kerja barunya yang jujur dan tidak bersalah, hingga dituntut membayar uang hangus vendor pernikahan Rp45 juta.
-  - *D (Action):* Dita harus bekerja sama dengan Ibas untuk mematahkan strategi buatannya sendiri dan membuktikan kebohongan mantan tunangan Ibas dalam 30 hari tanpa menghancurkan bisnis konsultasinya.
-- **Kerangka Plot:** Tiga Babak + Seven-Point Structure (Pendamping: Struktur Romance + Siklus Coba-Gagal + Arc Bersarang).
+- **Inti Cerita:** Ayu Anindya, sarjana FEB yang narik ojol untuk membantu usaha kue ibunya di Tebet, terjebak sandiwara pacar kontrak dengan Rian Pratama sampai akhirnya memilih kejujuran di atas uang.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
-#### PRM-003: Beres-Beres Rumah Masa Depan
-- **Status:** `CADANGAN / BACKLOG`
-- **Konsep:** Jasa *decluttering organizer* (Tania Wardhani, penderita *Affective Hoarding* karena trauma kemiskinan) vs arsitek minimalis urban (Bagas Dananjaya, penderita *OCD Simetri*) membersihkan rumah kolonial warisan di Cikini dalam 21 hari sebelum dilelang keluarga, di tengah perburuan surat wasiat rahasia yang terancam digusur Tante Mirna (*Covert Narcissist*).
-- **M.I.C.E. & Kerangka:** Character + Idea | Kerangka Utama: **Struktur Tiga Babak + Save the Cat**.
-
-#### PRM-004: Kompensasi Rasa
-- **Status:** `CADANGAN / BACKLOG`
-- **Konsep:** Staf krisis humas agensi kuliner (Laras Kirana, penderita *Chronic People-Pleasing*) dipaksa mendisiplinkan koki kepala rumah makan peranakan legendaris di Pasar Baru (Danu Wibisana, sinis, alergi kamera, trauma dikhianati) guna meredam boikot vlogger pemeras dalam 30 hari jelang Festival Kuliner Nusantara.
-- **M.I.C.E. & Kerangka:** Character + Event | Kerangka Utama: **Fichtean Curve + Struktur Romance**.
+*(Kosong - Setiap ide baru wajib menggunakan Rumus ABCD Simpel & diuji dengan Standar Cerita Harian tanpa Over-Engineering).*
 
 ### C. Premis Ditolak (`DITOLAK / JANGAN DITAWARKAN LAGI`)
 > **ATURAN MUTLAK SISTEM:** Semua premis di bagian ini beserta trope spesifik yang ditolak DILARANG KERAS ditawarkan kembali kepada user dalam sesi brainstorming mana pun!
@@ -71,15 +42,20 @@
 #### PRM-REJECT-001: Kurir Barang Mantan (Jasa Fisik Pengantar/Penjemput Barang Mantan)
 - **Tanggal Ditolak:** 2026-11-05
 - **Alasan Penolakan & Cacat Logika Akar:**
-  1. **Tidak Ada Kebutuhan Nyata (Kalah dengan GoSend/Ekspedisi):** Jika seseorang hanya ingin mengantar barang ke mantan dan mantannya mau menerima, orang tinggal memakai Gojek/GoSend seharga Rp15.000.
-  2. **Kurir Tidak Punya Hak/Wewenang:** Jika ingin menjemput barang dari mantan dan mantannya menolak memberikan, kurir swasta tidak punya hak atau wewenang hukum/sosial apa pun untuk memaksa mantan menyerahkan barangnya.
-  3. **Melahirkan Plot yang Dipaksakan:** Karena konsep dasar jasanya tidak masuk akal di dunia nyata, segala usaha memperpanjang konflik ke 30 bab terasa dipaksakan dan membuat pembaca berkata *"ngapain juga harus gitu?"*.
+  1. Tidak ada kebutuhan nyata di dunia nyata (kalah dengan GoSend/ekspedisi Rp15.000).
+  2. Kurir swasta tidak punya hak/wewenang memaksa mantan menyerahkan barang.
+
+#### PRM-REJECT-002: Konsultan Move On Versi Skenario PDF 5 Langkah & Sengketa Rp45 Juta
+- **Tanggal Ditolak:** 2026-11-05
+- **Alasan Penolakan & Cacat Logika Akar:**
+  1. **Over-Engineered & Mengada-ada:** Konsep modul PDF 5 langkah yang bisa membatalkan pertunangan orang dalam semalam dan memicu tuntutan ganti rugi Rp45 juta tidak masuk akal di dunia nyata.
+  2. **Bergeser Jadi Plot Ekonomi/Detektif:** Mengandalkan kebetulan berlapis (klien A dan klien B kebetulan terhubung dengan selingkuhan mantan tunangan rekan kerja) serta investigasi kuitansi gedung dan struk jam tangan yang menjauh dari cerita harian sederhana.
 
 ### D. Daftar Hitam Trope & Anti-Pattern User
-1. **Profesi/Jasa Fiktif yang Tidak Punya Alasan Nyata untuk Dibayar Orang:** Dilarang membuat premis tentang usaha/jasa yang di dunia nyata sudah selesai dengan Gojek/layanan umum atau yang pelakunya tidak punya hak/wewenang bertindak ketika pihak lawan menolak.
-2. **Urusan Hukum Rumit, Polisi Kriminal Berat, & Uang Miliaran:** Hindari skandal konglomerasi miliaran rupiah atau penyelidikan pidana berat yang membuat pembaca urban merasa lelah (*burnout*). Fokus pada masalah manusiawi berskala keseharian Indonesia.
-3. **Karakter Bodoh Demi Plot (*Idiot Plot*):** Dilarang menutup jalan mudah dengan membuat tokoh bertindak ceroboh tanpa alasan rasional. Jalan mudah harus tertutup karena asimetri informasi, etika/kontrak, atau konsekuensi sosial nyata.
-4. **Penyelamat Ajaib (*Deus Ex Machina*):** Dilarang menyelesaikan krisis melalui kebetulan yang menyelamatkan tokoh tanpa usaha dan pengorbanan aktif sang tokoh.
+1. **Over-Engineering Cerita Harian Menjadi Plot Ekonomi/Hukum/Kriminal/Detektif:** Dilarang membuat cerita yang bertumpu pada sengketa uang puluhan/ratusan juta, audit kuitansi, pemerasan, surat wasiat rahasia, kontrak 30 hari yang dipaksakan, atau investigasi barang bukti berbelit-belit. Cerita harus simpel, *relate* dengan keseharian orang Indonesia, dan bermakna.
+2. **Profesi/Jasa Fiktif yang Aneh atau Tidak Wajar di Dunia Nyata:** Dilarang mengarang profesi/jasa yang tidak masuk akal di kehidupan sehari-hari. Gunakan pekerjaan dan situasi hidup nyata yang akrab dengan pembaca.
+3. **Memaksakan Ide yang Cacat Logika (Yes-Man Bias):** Jika ide tidak mengalir alami sebagai cerita harian manusia normal, wajib langsung dibuang, jangan ditambal dengan aturan buatan.
+4. **Kebetulan Berlapis (*Contrived Coincidence*) & Karakter Bodoh Demi Plot.**
 
 ---
 

@@ -1,35 +1,18 @@
 ---
 name: metropop-novel
-description: Menulis, membrainstorm premis dan konflik (Rumus ABCD, 7 Cara Menutup Jalan Mudah, Uji Spider-Man), menyusun outline 8 kerangka plot terbukti, menjaga kontinuitas, dan merevisi web novel MetroPop Indonesia 30-40 bab, 600-900 kata per bab, tanpa em dash, teks polos, dan bebas AI slop.
+description: Menulis web novel cerita harian Indonesia (MetroPop) yang simpel, relate, dan bermakna dengan alur 4 tahap (Premis ABCD Simpel -> Cerita Utuh 5 Paragraf -> Outline 4 Poin/Bab -> Penulisan Bab 600-900 kata teks polos tanpa em dash).
 ---
 
 # Skill: Penulis & Editor Web Novel MetroPop Indonesia
 
-Skill ini memandu AI dari tahap brainstorming ide/premis, merancang konflik & solusi yang wajar bagi manusia nyata Indonesia, menyusun `canon.md` dan `outline.md`, hingga menulis dan merevisi web novel MetroPop sampai tamat.
+Skill ini memandu AI menyusun cerita harian Indonesia yang sederhana, masuk akal di dunia nyata, dekat dengan pembaca (*relate*), dan bermakna, tanpa terjebak *over-engineering*.
 
-## 1. Prinsip Rujukan Utama (Repo-First) & Smart-Reading
+## 1. Prinsip Utama (Bebas Over-Engineering & Anti-Yes-Man)
 
-1. **Repo Ini adalah Rujukan Utama & Protokol Anti-Yes-Man:** Seluruh teori premis, Rumus ABCD, 7 cara menutup jalan mudah, uji ruang lingkup minimal (*Spider-Man Test*), 8 kerangka plot terbukti, psikologi karakter, gaya bahasa (`acuan-bahasa.docx`), dan kontinuitas sudah lengkap di dalam `engine/`. **Wajib gunakan `engine/` sebagai acuan utama, dan DILARANG menjadi "yes-man"**: jika ide atau premis pengguna tidak masuk akal di dunia nyata sejak akarnya, AI wajib mendebat, membongkar kelemahannya, dan menyarankan perombakan konsep dasar.
-2. **Fungsi Pencarian Internet:** Hanya gunakan internet untuk:
-   - Mengecek fakta dunia nyata Indonesia terbaru (prosedur lembaga, biaya/harga, lokasi, kosakata urban terbaru) guna menutup penanda `"perlu dicek"`;
-   - **Riset berkelanjutan cara menghindari halusinasi dan tulisan *AI slop*** (`engine/sources.md`).
-3. **Smart-Reading (Jangan Baca Semua Sekaligus):**
-   - **Awal Sesi:** Baca `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, dan cek `story/`.
-   - **Mode A (Ide / Premis / Konflik):** Baca `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md`.
-   - **Mode B (Project Baru: Canon & Outline):** Baca `story/universe-registry.md`, `engine/02-premise.md`, `engine/03-structure.md`, `engine/04-character.md`, `engine/08-quality.md`, `engine/11-worldbuilding.md`, `engine/templates/`.
-   - **Mode C (Menulis Bab):** Baca `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, 1–2 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md`.
-   - **Mode D (Revisi / Audit):** Baca `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, dan bab yang direvisi.
-   - **Mode E (Riset / Evolusi):** Baca `engine/sources.md` dan `engine/10-evolution.md`.
-   - **JANGAN membaca `engine/learnings/`** saat sesi kerja normal (Mode A–D).
-
-## 2. Aturan Mutlak (Non-Negotiable)
-
-- **Standar Keterwajaran Kelas Menengah Indonesia:** Pilih masalah keseharian yang dekat dengan pembaca (gaji, cicilan, sewa ruko/kos, keluarga besar, grup WA, sungkan yang punya akibat nyata). Hindari CEO/konglomerat palsu, uang ratusan juta/miliaran yang tidak proporsional, atau melibatkan polisi/pasal hukum untuk urusan pribadi sepele.
-- **Hanya 8 Kerangka Plot Terbukti:** Jangan membuat kerangka eksperimental (`engine/03-structure.md`).
-- **Protokol Brainstorming 7 Langkah (`engine/02-premise.md`):** Saat membrainstorm konflik dan solusi dari ide pengguna, wajib gunakan Rumus ABCD, tutup minimal 5 jalan mudah dengan 7 cara sah (+ katakan di halaman), uji dengan *Spider-Man Test*, rancang planting 2x dan akhir tidak sempurna, tandai `"perlu dicek"`, dan pilih 1 kandidat terkuat beserta alasan 1 kalimat.
-- **Spesifikasi Bab (`engine/06-chapter.md` & `05-style.md`):**
-  - 600–900 kata per bab (target ±750 kata; darurat maks. 1.200 kata);
-  - **0 em dash (`—`)** dan **0 quote pembuka di atas bab**;
-  - **100% teks polos (*plain text*)** tanpa tanda bintang tebal (`**teks**`), miring (`*teks*`), coret, atau backtick di naskah cerita;
-  - Tone & diksi mengacu pada `acuan-bahasa.docx` dan `engine/05-style.md`: POV 1 intim, cara bercerita sederhana & *to the point*, percakapan lisan alami Indonesia, deskripsi ber-sudut pandang unik, humor ringan dari celetukan/perumpamaan menggelitik, serta bebas *AI slop*;
-  - Wajib menampilkan **Pre-Flight Continuity Gate 5 Poin** sebelum menulis bab, menyinkronkan `state.md` & `ledger.md` pasca-tulis, dan menjalankan `python3 scripts/audit-continuity.py "story/<Judul>"` serta `python3 scripts/analyze-prose.py "story/<Judul>"`.
+1. **Cerita Harian Simpel & Bermakna:** Fokus pada kehidupan sehari-hari orang Indonesia (pekerjaan biasa, keluarga, sahabat, gengsi, patah hati, jatuh cinta). **Dilarang keras** membuat plot sengketa uang puluhan juta, audit kuitansi, pemerasan, kontrak palsu 30 hari, atau investigasi detektif berat.
+2. **Filter Anti-Yes-Man (`engine/02-premise.md`):** Jika sebuah ide cerita (dari pengguna maupun dari AI sendiri) terasa mengada-ada di dunia nyata atau membutuhkan kebetulan berlapis supaya jalan, **dilarang menambalnya**. Tolak dengan jujur dan ganti dari akarnya.
+3. **Empat Tahap Kerja Simpel (`engine/00-workflow.md`):**
+   - **Tahap 1:** Susun Premis ABCD simpel (4 kalimat).
+   - **Tahap 2:** Tulis **Alur Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf bahasa manusia biasa)** dan pastikan logika ceritanya masuk akal 100% sebelum membuat daftar bab.
+   - **Tahap 3:** Susun `outline.md` dengan **4 poin ringkas per bab** (Waktu & Lokasi, Kejadian Inti, Perkembangan Emosi/Hubungan, Detail Kecil/Planting-Callback).
+   - **Tahap 4:** Tulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring) mengikuti outline secara setia dengan gaya bercerita sederhana & *to the point* (`engine/05-style.md`).

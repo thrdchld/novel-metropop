@@ -307,42 +307,28 @@ Tiap kasus diambil dari novel yang sudah teruji di pembaca, lalu dibedah dengan 
 
 ---
 
-## 6. Prosedur 6 Tahap Pembuatan Outline & Standar 18 Kolom Wajib per Bab
+## 6. Cara Menyusun Outline yang Simpel, Jelas, dan Bebas Over-Engineering
 
-### Enam Tahap Pembuatan Outline
-1. **Tahap 1: Pemilihan Kerangka Plot & Skala Bab** (30 bab min 6 titik balik, atau 40 bab min 8 titik balik; tentukan Tipe 1 Direct Action atau Tipe 2 Flash-Forward Hook Framing).
-2. **Tahap 2: Kunci Resolusi & Pelacakan Jejak Mundur (*Backward Dependency Tracing*)** dari klimaks Babak 3 ke Babak 1.
-3. **Tahap 3: Perancangan Siklus Coba-Gagal Babak 2** (3-6 siklus, 6 isi wajib, lolos Uji 100%).
-4. **Tahap 4: Desain Benih Solusi (*Planting Solusi 2 Kali*)** di Babak 1 dan Babak 2 awal.
-5. **Tahap 5: Pengisian 18 Kolom Wajib per Bab secara Granular.**
-6. **Tahap 6: Eksekusi Stress Test & Penguncian Outline (`TERKUNCI v1.0`)** sesuai prosedur di `08-quality.md`.
+Jangan membuat tabel outline 18 kolom yang kaku dan memicu AI mengarang komplikasi palsu. Gunakan prosedur 2 langkah yang bersih ini di `story/<Judul>/outline.md`:
 
-### Standar 18 Kolom Wajib Outline per Bab
-Outline per bab harus cukup jelas dan mandiri sebagai acuan menulis. Semua 18 kolom wajib terisi:
+### Langkah 1: Tulis "Alur Cerita Utuh (Awal - Tengah - Akhir)" di Bagian Atas Outline
+Sebelum merinci Bab 1 sampai Bab Akhir, tulis ringkasan jalan cerita utuh dalam **4-5 paragraf bahasa manusia biasa**. Pastikan logika cerita dari awal sampai akhir sudah bulat, tidak ada kebetulan yang dipaksakan, dan tidak ada sengketa uang/hukum yang mengada-ada.
+
+### Langkah 2: Pecah Menjadi Outline Per Bab (Cukup 4 Poin Inti per Bab)
+Setiap bab di `outline.md` ditulis dengan format **4 poin ringkas** yang langsung bisa dipakai sebagai panduan menulis tanpa membingungkan:
 
 ```markdown
-### Bab N: Judul (2-5 kata)
-- **Hari/jam/lokasi:** Hari [X], [Nama Hari], [Jam persis], [Lokasi spesifik].
-- **POV:** Orang Pertama Murni ("Aku" / [Nama Tokoh]).
-- **Posisi Kerangka & Siklus:** [Babak & Beat Kerangka Utama] | [Siklus Coba-Gagal X: Komponen].
-- **Skor Ketegangan (1-10) & Pergeseran Emosi:** Ketegangan [X]/10; Masuk: [Emosi Awal] -> Keluar: [Emosi Akhir].
-- **Tujuan adegan:** Apa target fisik konkret tokoh di bab ini.
-- **Komplikasi:** Hambatan tak terduga yang merusak rencana tokoh.
-- **Beat adegan:** 1) ... 2) ... 3) ... 4) ...
-- **Perubahan (`Berhasil, tapi...` / `Gagal, dan malah...`):** Hasil akhir adegan dan buntut masalah barunya.
-- **Siapa tahu apa (Asimetri Pengetahuan):** Siapa menyaksikan, data mikro baru yang diperoleh sah, siapa belum tahu.
-- **Setup/Planting yang ditanam:** Detail benda/info/kebiasaan yang ditanam (tandai Tanaman 1 atau 2 jika bagian solusi akhir).
-- **Payoff yang dibayar:** Benih masa lalu yang dipanen/dibuktikan di bab ini.
-- **Teknik naratif:** (1-2 teknik: in medias res, dramatic irony, action beats, pacing naik-turun).
-- **Hook kalimat terakhir:** Pertanyaan/ketegangan menggantung yang memancing pembaca membuka bab berikutnya.
-- **Kenapa masuk akal:** Satu kalimat bukti rantai logika kausalitas.
-- **Jalan keluar paling mudah ditutup:** Alasan dari 7 cara sah kenapa jalan pintas gampang tidak bisa diambil.
-- **Pertanyaan pembaca yang dijawab:** Penjelasan misteri/informasi yang dibuka untuk pembaca.
-- **Yang TIDAK terjadi:** Batasan tegas peristiwa yang dilarang terjadi di bab ini (mencegah eskalasi terlalu cepat).
-- **Target kata:** Standar ±750 kata (rentang 600-900 kata; darurat maks. 1.200 kata).
+### Bab N: Judul Bab (2-5 kata)
+- **Waktu & Lokasi:** [Hari/waktu & tempat kejadian sehari-hari]
+- **Kejadian Inti:** [2-3 kalimat lugas dan jelas tentang apa yang terjadi di bab ini dari awal sampai akhir adegan]
+- **Perkembangan Emosi / Hubungan:** [Apa yang dirasakan tokoh atau pergeseran kecil dalam hubungannya dengan tokoh lain]
+- **Detail Kecil / Planting-Callback:** [Kebiasaan unik, benda spesifik, atau obrolan sambil lalu yang ditanam/dibayar di bab ini]
 ```
 
-### Ketentuan Subplot, Flashback, & Pembuka Tipe 2
-- **Subplot (Opsional, 0-3):** Plot utama (A) 60-100%, Romansa (B) ≤25%, Keluarga/sosial (C) ≤20%.
-- **Ketentuan Pembuka Tipe 2 (Flash-Forward Hook Framing):** Bab 1-2 mengambil momen genting dari Midpoint/Titik Terendah; Bab 3 melakukan *rewind* waktu lampau dan **wajib dibuka dengan In Medias Res Tipe 1** (tanpa bangun tidur/eksposisi); di Bab Midpoint alur menyatu kembali (*Loop Closure*) dan ditulis ulang dengan perspektif emosi yang matang.
-- **Penguncian Outline (`TERKUNCI v1.0`):** Setelah disetujui user, outline tidak boleh diubah diam-diam (hanya lewat `templates/change-request.md`).
+### Aturan Kepatuhan pada Outline:
+1. **Outline adalah Rel Cerita:** Setelah `outline.md` disetujui dan dikunci (`TERKUNCI v1.0`), AI **wajib mengikuti kejadian inti di tiap bab secara setia** dan dilarang berhalusinasi menambahkan konflik/aturan baru yang merusak bab-bab selanjutnya.
+2. **Panjang Bab Fleksibel Mengikuti Kewajaran Cerita:** Umumnya 25–34 bab untuk satu novel web, dengan setiap bab berisi satu kejadian utuh yang mengalir alami (600–900 kata per bab).
+
+### Ketentuan Subplot & Pembuka
+- **Subplot (Opsional):** Jangan dipaksakan jika cerita utama sudah kuat.
+- **Penguncian Outline (`TERKUNCI v1.0`):** Setelah disetujui user, outline tidak boleh diubah diam-diam di tengah jalan.

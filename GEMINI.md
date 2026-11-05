@@ -1,14 +1,16 @@
 # Protokol Gemini / Antigravity — Web Novel MetroPop Indonesia
 
-- **Entry Point Utama:** Baca [AGENTS.md](AGENTS.md), [engine/README.md](engine/README.md), dan [engine/00-workflow.md](engine/00-workflow.md).
+- **Entry Point Utama:** Baca [AGENTS.md](AGENTS.md) dan [engine/00-workflow.md](engine/00-workflow.md).
 - **Workspace Skill Antigravity:** [.agent/skills/metropop-novel/SKILL.md](.agent/skills/metropop-novel/SKILL.md)
 - **Panduan Mandiri Web Chat:** [STANDALONE.md](STANDALONE.md)
-- **Acuan Utama Gaya Bahasa & Tone (*Resign!*):** `acuan-bahasa.docx` dan [engine/05-style.md](engine/05-style.md)
+- **Acuan Gaya Bercerita:** [engine/05-style.md](engine/05-style.md) dan `acuan-bahasa.docx`
 
-## Prinsip Rujukan & Aturan Mutlak
+## Prinsip Inti (Simpel, Relate, & Anti-Yes-Man)
 
-1. **Repo sebagai Rujukan Utama (Repo-First):** Seluruh teori premis (Filter Anti-Yes-Man, Rumus ABCD, 7 Cara Menutup Jalan Mudah, Uji *Spider-Man*, Brainstorming 8 Langkah di [engine/02-premise.md](engine/02-premise.md)), 8 kerangka plot terbukti ([engine/03-structure.md](engine/03-structure.md)), karakter ([engine/04-character.md](engine/04-character.md)), gaya ([engine/05-style.md](engine/05-style.md)), kontinuitas ([engine/07-continuity.md](engine/07-continuity.md)), kualitas ([engine/08-quality.md](engine/08-quality.md)), dan revisi ([engine/09-revision.md](engine/09-revision.md)) sudah lengkap di repo ini. Jadikan repo ini rujukan utama sebelum mencari di internet.
-2. **Dilarang Menjadi "Yes-Man":** Tantang setiap ide pengguna maupun ide AI sendiri dari segala arah. Jika konsep dasar, profesi, atau pemicu konflik tidak masuk akal di dunia nyata (bisa diganti ojol/ekspedisi, tidak punya wewenang sah, tidak punya alasan pasar untuk dibayar orang), **wajib mendebat, menolak dengan sopan, dan menawarkan alternatif yang masuk akal** sejak tahap premis.
-2. **Pencarian Internet:** Hanya digunakan untuk mengecek fakta dunia nyata/kosakata terbaru (menutup label `"perlu dicek"`) dan **riset berkelanjutan cara menghindari halusinasi serta tulisan *AI slop*** ([engine/sources.md](engine/sources.md)).
-3. **Smart-Reading:** Jangan membaca seluruh file sekaligus dan **jangan membaca `engine/learnings/`** saat sesi kerja normal. Ikuti tabel *Smart-Reading* di [engine/00-workflow.md](engine/00-workflow.md).
-4. **Standar Menulis Bab:** 600–900 kata per bab (target ±750 kata), **0 em dash (`—`)**, **0 quote pembuka**, **100% teks polos (*plain text*)** tanpa tanda bintang tebal/miring di naskah cerita, wajib menampilkan *Pre-Flight Continuity Gate* 5 poin sebelum menulis bab, menyinkronkan `state.md` + `ledger.md`, dan menjalankan linter di `scripts/`.
+1. **Cerita Harian yang Simpel & Bermakna (Bebas Over-Engineering):** Repo ini untuk menulis novel web tentang kehidupan harian orang Indonesia yang dekat dengan pembaca (*relate*), hangat, dan bermakna. **Dilarang keras** mengubah cerita harian menjadi plot ekonomi/uang puluhan juta, audit, hukum, kriminal, atau kontrak palsu yang berbelit-belit.
+2. **Dilarang Menjadi "Yes-Man" (Kalau Terpaksa, Buang!):** Jika ide/premis dari pengguna maupun dari AI sendiri tidak wajar di dunia nyata atau butuh kebetulan dan aturan yang dipaksakan supaya jalan, **jangan ditambal**. Nyatakan secara jujur bahwa ide itu tidak bisa dilanjutkan dan ganti dengan konsep yang alami ([engine/02-premise.md](engine/02-premise.md)).
+3. **Alur Kerja 4 Tahap Simpel ([engine/00-workflow.md](engine/00-workflow.md)):**
+   - **Tahap 1:** Premis ABCD simpel (4 kalimat).
+   - **Tahap 2:** Alur Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf sederhana) — wajib diuji kewajaran logikanya dan disetujui pengguna sebelum membuat daftar bab.
+   - **Tahap 3:** Outline per bab yang simpel (**4 poin per bab**: Waktu & Lokasi, Kejadian Inti, Perkembangan Emosi/Hubungan, Detail Kecil/Planting-Callback).
+   - **Tahap 4:** Menulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring, gaya sederhana & *to the point*) dengan mengikuti outline secara setia.

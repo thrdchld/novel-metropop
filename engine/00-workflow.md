@@ -1,88 +1,51 @@
-# 00 — Alur Kerja (Workflow A–G) & Smart-Reading
+# 00 — Alur Kerja Simpel (Bebas Over-Engineering) & Smart-Reading
 
-> **File Pemilik Tunggal:** File ini mengatur **Tahap Proyek A–G, Protokol Smart-Reading (Efisiensi Konteks AI), Urutan Mode Kerja A–E, Loop Pasca-Tulis Bab, dan Definition of Done**.
-
----
-
-## 1. Tahap Proyek A–G (Dari Ide Sampai Novel Selesai)
-
-| Tahap | Fokus Kerja | Dokumen Utama | Selesai Jika |
-|---|---|---|---|
-| **A. Ide & Premis** | Cek `story/universe-registry.md`, susun ABCD, jalankan Brainstorming 7 Langkah, tutup jalan mudah (7 cara), uji *Spider-Man Test* & 5 Slot | `02-premise.md`, `story/universe-registry.md` | Pengguna memilih premis & konflik inti, tercatat di Universe Registry |
-| **B. Dokumen Dasar (Canon)** | Isi `canon.md` (5 slot, 5+ jalan mudah tertutup, kerangka plot, planting 2x, cast, world building, matriks sapaan) & inisialisasi `state.md` | `02-premise.md`, `04-character.md`, `11-worldbuilding.md`, `templates/` | Pengguna menyetujui `canon.md` |
-| **C. Outline Per Bab** | Susun 30–40 bab (min 6–8 titik balik, 3–6 siklus coba-gagal lolos Uji 100%, planting 2x, 18 kolom per bab) | `03-structure.md`, `templates/outline.md` | Seluruh bab terisi 18 kolom lengkap |
-| **D. Stress Test** | Uji dengan 10 Uji Logika, 10 Tanda Bahaya, Tabel Uji Menutup Jalan Mudah, Uji Ruang Lingkup Minimal, & Pelacakan Mundur dari Klimaks | `02-premise.md`, `08-quality.md` | Semua lubang logika tertutup |
-| **E. Lock Outline** | Presentasikan ringkasan outline & penutupan lubang logika ke pengguna | `story/<Judul>/outline.md` | Status ditandai **TERKUNCI v1.0** |
-| **F. Tulis Bab (1 per 1)** | Tampilkan *Pre-Flight Continuity Gate* 5 poin -> tulis 1 bab (600–900 kata, teks polos, tone `acuan-bahasa.docx`) -> update `state.md` & `ledger.md` -> jalankan linter Python | `05-style.md`, `06-chapter.md`, `07-continuity.md`, `08-quality.md` | Lulus rubrik ≥34/40 & 0 error linter |
-| **G. Revisi & Audit** | Audit 5 Tahap & Remediasi Beruntun R1–R5, Revisi 4 Lapis dengan rasio 74/18/8 | `09-revision.md` | Pengguna puas & bebas regresi |
+> **File Pemilik Tunggal:** File ini mengatur **Alur Kerja 4 Tahap yang Simpel, Filter Anti-Yes-Man (Kapan Ide Harus Dibuang), Protokol Smart-Reading, dan Urutan Menulis Bab**.
 
 ---
 
-## 2. Protokol Smart-Reading (Agar AI Tidak Bingung / Kebanjiran Konteks)
+## 1. Prinsip Utama Repo Ini: Simpel, Relate dengan Kehidupan Harian Indonesia, dan Bermakna
 
-**ATURAN PENTING:** Jangan membaca seluruh file di repo sekaligus! Baca **HANYA** file yang relevan dengan mode yang sedang dikerjakan:
+1. **Ini Novel Web Cerita Harian, BUKAN Novel Ekonomi, Kriminal, Hukum, atau Detektif Berat:**
+   - Cerita di repo ini adalah kisah keseharian manusia Indonesia (pekerja kantoran biasa, mahasiswa, keluarga, sahabat, tetangga, usaha kecil) yang **sederhana, dekat dengan kehidupan nyata (*relate*), punya humor ringan yang alami, dan punya makna emosional yang hangat**.
+   - **DILARANG KERAS (*Over-Engineering Ban*):** Jangan pernah mengubah cerita harian menjadi sengketa uang puluhan/ratusan juta, audit kuitansi, pemerasan, kontrak perjanjian palsu 30 hari, atau investigasi barang bukti berbelit-belit.
+2. **Aturan Anti-Yes-Man Mutlak: "Kalau Ide Terpaksa, BUANG, Jangan Ditambal!"**
+   - Kelemahan terbesar AI adalah selalu berusaha membuat setiap ide terlihat "bisa dilanjut" dengan cara menambalnya memakai aturan kontrak, denda uang, atau kebetulan palsu.
+   - **Mulai sekarang, AI DILARANG menambal ide yang tidak alami.** Jika sebuah ide (baik dari pengguna maupun dari AI sendiri) membutuhkan profesi/jasa yang aneh di dunia nyata, atau jalan ceritanya baru bisa berjalan kalau ada skenario jebakan rumit dan kebetulan yang dipaksakan, **AI WAJIB menyatakan secara jujur bahwa ide itu TIDAK BISA DILANJUTKAN dan harus dibuang/diganti dari akarnya.**
 
-| Mode / Tugas Saat Ini | File yang WAJIB Dibaca | File yang DILARANG Dibaca |
+---
+
+## 2. Empat Tahap Kerja yang Simpel (Tanpa Birokrasi Tabel Rumit)
+
+Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita utuhnya diuji secara sederhana! Ikuti 4 tahap ini secara berurutan:
+
+| Tahap | Apa yang Dikerjakan | Aturan Lulus / Buang |
 |---|---|---|
-| **Pembuka Sesi Baru** | `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, cek daftar folder di `story/` | Bab cerita, `engine/learnings/`, dan file detail lainnya |
-| **Mode A (Brainstorming Ide / Premis / Konflik)** | `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md` | `06-chapter.md`, `07-continuity.md`, `09-revision.md`, `learnings/` |
-| **Mode B (Project Baru: Canon & Outline)** | `story/universe-registry.md`, `engine/02-premise.md`, `engine/03-structure.md`, `engine/04-character.md`, `engine/08-quality.md`, `engine/11-worldbuilding.md`, `engine/templates/` | `09-revision.md`, `10-evolution.md`, `learnings/` |
-| **Mode C (Menulis Bab Baru)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab terkait), `ledger.md`, 1–2 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md` | `story/universe-registry.md`, `01-genre.md`, `02-premise.md`, `learnings/`, bab-bab lama yang jauh |
-| **Mode D (Revisi Bab / Audit Alur)** | `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, `canon.md`, `state.md`, `ledger.md`, bab yang direvisi | `01-genre.md`, `templates/`, `learnings/` |
-| **Mode E (Riset / Update Engine)** | `engine/sources.md`, `engine/10-evolution.md`, dan file pemilik yang akan di-update | File cerita yang tidak sedang diubah |
-
-**Prinsip Pas:** Teknik naratif, subplot, flashback, dan scene ikonik adalah alat opsional (angka adalah batas atas, **boleh nol** jika cerita sudah padat).
+| **Tahap 1: Premis ABCD Simpel** | Tulis 4 kalimat sederhana: **A (Tokoh)**, **B (Keseharian)**, **C (Kejadian Pemicu)**, **D (Tindakan Utama)**. | Jika pekerjaan/rutinitas di **B** atau pemicu di **C** tidak wajar dialami orang Indonesia sehari-hari -> **BUANG IDENYA, jangan dilanjut!** |
+| **Tahap 2: Cerita Utuh Awal-Tengah-Akhir (4-5 Paragraf)** | Sebelum membuat daftar bab, tulis dulu **jalan cerita utuh dari Awal, Tengah, sampai Akhir dalam 4-5 paragraf bahasa manusia biasa**. | Uji pakai akal sehat: Apakah reaksi tokoh wajar sebagai manusia? Apakah ada bagian yang dipaksakan? Jika terasa mengada-ada -> **BERHENTI & GANTI CERITA di tahap ini.** |
+| **Tahap 3: Outline Per Bab Simpel (4 Poin per Bab)** | Setelah Cerita Utuh 4-5 paragraf disetujui pengguna, pecah menjadi daftar bab (misal 25-34 bab). **Setiap bab cukup 4 poin singkat** (bukan 18 kolom!): (1) Waktu & Tempat, (2) Kejadian Inti, (3) Perubahan Emosi/Hubungan, (4) Detail Kecil / *Planting-Callback*. | Kunci `outline.md` (**TERKUNCI v1.0**). Outline ini menjadi rel tetap yang wajib diikuti 100% saat menulis bab. |
+| **Tahap 4: Menulis Bab (1 per 1)** | Tulis 1 bab (600-900 kata, teks polos tanpa bintang tebal/miring, 0 em dash) mengikuti `outline.md` secara lurus dengan gaya bercerita sederhana & *to the point* (`05-style.md`). Perbarui `state.md` & `ledger.md`. | Cerita mengalir sesuai outline tanpa mengarang konflik baru di luar outline. |
 
 ---
 
-## 3. Mulai Sesi
+## 3. Protokol Smart-Reading (Baca Hanya yang Dibutuhkan)
 
-1. Pada awal sesi baru, beri **ringkasan pemahaman 5 poin**, sebutkan posisi folder `story/` dalam 2–3 baris, dan sebutkan tahap A–G yang relevan.
-2. Ajukan **satu pertanyaan pembuka**:
-   > Mau apa hari ini: (A) cari ide/premis baru, (B) mulai project baru, (C) lanjutkan cerita yang ada, (D) revisi/evaluasi cerita, atau (E) analisis referensi/riset?
-3. Jangan menulis prosa sebelum mode dipilih dan outline terkunci.
+| Mode Kerja | File yang Dibaca |
+|---|---|
+| **Awal Sesi Baru** | `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, cek daftar folder di `story/` |
+| **Mode A (Cari Ide / Premis ABCD & Cerita Utuh 5 Paragraf)** | `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md` |
+| **Mode B (Susun Canon & Outline Simpel 4 Poin/Bab)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/templates/` |
+| **Mode C (Menulis Bab)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, 1 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md` |
+| **Mode D (Revisi / Evaluasi)** | `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, dan bab terkait |
+| **Mode E (Riset / Update Engine)** | `engine/sources.md`, `engine/10-evolution.md` |
 
----
-
-## 4. Rincian Mode Kerja A–E
-
-### Mode A: Ide, Premis (ABCD Ringkas), & Pengembangan ke Kerangka Cerita
-1. Baca `story/universe-registry.md`, `01-genre.md`, dan `02-premise.md`.
-2. Patuhi **Aturan Anti-Penawaran Ulang & Anti-Duplikasi** (dilarang menawarkan ide yang sudah ditolak, menduplikasi nama/watak/profesi tokoh lama, atau memakai trope di Daftar Hitam Trope).
-3. **Wajib Jalankan Filter Anti-Yes-Man (Debat Ide Sejak Akar):** Jika pengguna mengajukan ide mentah atau premis yang dari akarnya sudah sulit diterima akal sehat manusia (misal jenis usahanya tidak dibutuhkan di dunia nyata atau mudah digantikan aplikasi umum), **AI dilarang asal setuju ("yes-man")**. AI wajib mendebat dan membedah kelemahan ide tersebut dari segala arah, lalu merekomendasikan perombakan konsep dasar.
-4. **Tahap 1 — Susun ABCD Premis Secara Ringkas (Jangan Over-Detail):** Rumuskan premis hanya dalam 4 poin singkat (1 kalimat per huruf): **A (Character)**, **B (Routine)**, **C (Inciting Incident)**, dan **D (Action)**. Jangan menjejalkan detil rintangan berlapis atau akhir cerita ke tahap ABCD ini.
-5. **Tahap 2 — Pengembangan Premis Menuju Kerangka Cerita / Outline:** Baru setelah pengguna menyetujui ABCD premis dasar, kembangkan ide tersebut ke kerangka cerita (`03-structure.md`), tutup jalan mudah, dan susun outline untuk menguji apakah ide itu bisa berjalan 30–40 bab.
-6. Catat keputusan ke `story/universe-registry.md` (`DITERIMA / AKTIF`, `CADANGAN / BACKLOG`, atau `DITOLAK / JANGAN DITAWARKAN LAGI`).
-
-### Mode B: Project Baru (Canon -> Outline -> Stress Test -> Lock -> Bab 1)
-1. Tanyakan maksimal 3 hal yang belum jelas (Default: 30–40 bab, ±750 kata/bab, tone hangat/sarkas/membumi ala `acuan-bahasa.docx`, akhir tidak sempurna dengan harga nyata, target 13+).
-2. Buat folder `story/<Judul>/` memakai template di `engine/templates/` (`canon.md`, `state.md`, `outline.md`, `ledger.md`, `feedback.md`, `chapters/`).
-3. Isi `canon.md` lengkap (premis ABCD & 5 slot, tabel penutupan minimal 5 jalan mudah, kerangka plot utama + pendamping, rencana planting 2x, character sheet, world building kelas menengah nyata, matriks sapaan).
-4. Isi `outline.md` sesuai `03-structure.md` (18 kolom per bab, min 6–8 titik balik, siklus coba-gagal lolos Uji 100%).
-5. Jalankan **Stress Test Outline** (`08-quality.md` Bagian 4 & 4A). Tutup semua lubang logika, presentasikan ke pengguna, dan setelah disetujui tandai **TERKUNCI v1.0**.
-6. Tulis **Bab 1 saja** sesuai `06-chapter.md`.
-
-### Mode C: Lanjutkan Cerita (Menulis Bab demi Bab)
-1. Baca `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, dan 1–2 bab terakhir.
-2. Wajib tampilkan **Gerbang Pra-Tulis Kontinuitas (Pre-Flight Continuity Gate) 5 Poin** (`07-continuity.md` Bagian 3).
-3. Tulis satu bab (standar 600–900 kata; darurat maks. 1.200 kata; 100% teks polos tanpa simbol format bintang/tebal/miring, 0 em dash, 0 quote pembuka).
-4. Jalankan **Loop Setelah Menulis Bab** (Bagian 5 di bawah).
-
-### Mode D: Revisi & Evaluasi Alur Cerita
-1. Ikuti `09-revision.md`: jalankan Audit 5 Tahap dan Alur Remediasi Beruntun **R1–R5** (Canon -> Outline -> State/Ledger -> Revisi Lokal 74/18/8 & 4 Lapis -> Verifikasi Linter).
-
-### Mode E: Riset Referensi & Pembaruan Anti-AI Slop
-1. Ikuti `sources.md` dan `10-evolution.md`: jadikan repo sebagai rujukan utama; gunakan internet hanya untuk mengecek fakta dunia nyata/kosakata terbaru dan memperbarui teknik pencegahan halusinasi serta *AI slop*.
+*(Jangan pernah membaca `engine/learnings/` saat sesi kerja normal).*
 
 ---
 
-## 5. Loop Setelah Menulis Bab & Definition of Done
+## 4. Loop Setelah Menulis Bab
 
-Setiap selesai menulis satu bab, simpan ke `story/<Judul>/chapters/bab-NN.md`, lalu lakukan urutan tetap ini:
-1. **Kirim teks bab** (`## Bab N: Judul`, 600–900 kata, teks polos, tanpa em dash, tanpa quote di atas bab, berakhir hook).
-2. **Catatan kontinuitas 5–8 baris & Factual Diff** (waktu/lokasi, fakta **BARU**, siapa tahu apa & saluran fisiknya, benda bawaan, setup/planting & payoff, risiko kontinuitas).
-3. **Sinkronisasi Dokumen Negara:** Perbarui `state.md` dan `ledger.md`.
-4. **Verifikasi Skrip Mekanis:** Jalankan `python3 scripts/audit-continuity.py "story/<Judul>"` dan `python3 scripts/analyze-prose.py "story/<Judul>"`.
-5. **Skor rubrik 8 kriteria** dalam satu baris (1–5). Lulus jika tidak ada nilai <4 dan total ≥34/40.
-6. **Penyimpangan outline:** "tidak ada" atau daftar jujur.
-7. **Satu pertanyaan** ke pengguna, hanya jika perlu.
+Setiap selesai menulis satu bab ke `story/<Judul>/chapters/bab-NN.md`:
+1. **Tampilkan teks bab** (`## Bab N: Judul`, 600-900 kata, teks polos, 0 em dash, 0 quote pembuka).
+2. **Catatan kontinuitas singkat (3-5 baris):** waktu/lokasi, kejadian baru, dan benih *planting/callback* yang ditanam atau dibayar.
+3. **Perbarui `state.md` & `ledger.md`**, lalu jalankan `python3 scripts/analyze-prose.py "story/<Judul>"` dan `python3 scripts/audit-continuity.py "story/<Judul>"`.
