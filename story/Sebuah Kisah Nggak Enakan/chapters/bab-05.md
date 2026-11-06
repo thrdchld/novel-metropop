@@ -1,6 +1,6 @@
 ## Bab 5: Latihan Pertama dan Utang Ayam Bakar
 
-Kertas post-it kuning dari Saka sekarang menempel rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
+Begitu tiba di meja nomor empat Rabu pagi tadi, hal pertama yang kulakukan adalah melepas kertas post-it kuning pemberian Saka dari sampul buku sketsaku dan menempelkannya rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
 
 Sepanjang Rabu pagi, setiap kali Mbak Dinda lewat di belakang mejaku sambil melirik sinis karena kejadian flash disk kemarin sore, aku langsung menatap tulisan tangan Saka di kertas kuning itu. Anehnya, kalimat pendek itu lumayan ampuh mencegah mulutku minta maaf atas kesalahan yang memang bukan salahku.
 

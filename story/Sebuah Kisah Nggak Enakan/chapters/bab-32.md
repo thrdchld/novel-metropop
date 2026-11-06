@@ -1,6 +1,6 @@
 ## Bab 32: Catatan Post-it Terakhir
 
-Seminggu setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, pemandangan di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
+Tiga hari setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, suasana Senin sore di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
 
 Atau setidaknya, hampir normal.
 
@@ -12,7 +12,7 @@ Sementara itu, di meja nomor empat dekat jendela besar, tumpukan buku referensi 
 
 Suara cempreng yang sangat kukenal itu muncul dari samping mejaku pada Senin sore pukul lima kurang lima menit.
 
-Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, sementara tiga langkah di belakangnya ada Riko yang tampak sedang bersiap-siap ikut menitipkan berkas koreksiannya. Rupanya setelah seminggu libur mengganggu mejaku, mereka pikir pertahananku sudah kembali kendur.
+Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, sementara tiga langkah di belakangnya ada Riko yang tampak sedang bersiap-siap ikut menitipkan berkas koreksiannya. Rupanya setelah beberapa hari libur mengganggu mejaku, mereka pikir pertahananku sudah kembali kendur.
 
 "Ini sampul buku resep masakan minggu depan tinggal dirapikan tata letak belakangnya dikit kok, Nad," kata Mbak Dinda sambil tersenyum manis dan mulai mengulurkan map hijau itu ke arah papan gambarku. "Anak gue sore ini ada jadwal imunisasi di rumah sakit, gue harus cabut duluan. Tolong bantuin sejam aja ya?"
 
@@ -54,7 +54,7 @@ Saka berdiri dari kursinya, menyampirkan tali tas ke bahunya, lalu menatapku. Me
 
 Sebelum aku berdiri mengambil tas selempangku, aku menarik selembar kertas post-it kuning dari tumpukan di mejaku dan mengambil pulpen hitam.
 
-Kertas post-it kuning pertama pemberian Saka yang sempat kucopot minggu lalu kini sudah menempel kembali di pojok bingkai monitorku. Aku menulis dua kalimat pendek di lembar kertas kuning yang baru, lalu menempelkannya tepat di bagian punggung laptop perak Saka sebelum dia memasukkannya ke dalam tas.
+Pagi tadi sebelum mulai bekerja, aku sudah mengeluarkan kembali kertas post-it kuning pertama pemberian Saka dari dalam buku sketsaku dan menempelkannya lagi di pojok bingkai monitorku. Aku menulis dua kalimat pendek di lembar kertas kuning yang baru, lalu menempelkannya tepat di bagian punggung laptop perak Saka sebelum dia memasukkannya ke dalam tas.
 
 Saka menunduk, membaca tulisan tanganku di kertas kuning yang menempel di laptopnya itu:
 

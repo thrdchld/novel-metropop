@@ -12,7 +12,7 @@ Begitu masuk ke kamar Ibu yang lampunya diredupkan, aku mendapati Ibu sedang ber
 
 "Kepala Ibu rasanya muter banget kalau dipakai duduk, Nad," keluh Ibu lirih. "Tadi jam setengah tujuh pagi Ibu telepon ke nomor kamu tiga kali nggak diangkat-angkat. Karena Ibu panik dan kebetulan semalam Dimas baru aja kirim pesan nanyain kabar Ibu, jadi Ibu sempat telepon ke nomor Dimas nanyain kamu lagi di mana. Habis itu Ibu minta tolong Bu RT buat hubungin kamu lagi."
 
-Aku tertegun. Pantas saja ada tiga panggilan tak terjawab dari nomor rumah saat ponselku masih dalam mode senyap di kamar kos tadi pagi. Karena selama tiga minggu ini aku belum tega memberi tahu Ibu bahwa aku sudah putus dari Dimas, Ibu tentu saja masih menganggap Dimas tempat pertama yang bisa dihubungi saat darurat.
+Aku tertegun. Pantas saja ada tiga panggilan tak terjawab dari nomor rumah saat ponselku masih dalam mode senyap di kamar kos tadi pagi. Karena selama hampir sebulan ini aku belum tega memberi tahu Ibu bahwa aku sudah putus dari Dimas, Ibu tentu saja masih menganggap Dimas tempat pertama yang bisa dihubungi saat darurat.
 
 Belum sempat aku menjawab ucapan Ibu, terdengar suara ketukan sopan dari pintu ruang tamu yang masih terbuka, diikuti suara deru mesin mobil yang baru dimatikan di depan pagar.
 

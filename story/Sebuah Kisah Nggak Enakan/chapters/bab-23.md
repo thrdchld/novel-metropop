@@ -4,11 +4,11 @@ Menjelang pukul lima sore, keadaan Ibu sudah jauh membaik setelah minum obat dar
 
 Aku mengantar Dimas keluar menuju teras depan rumah sambil membawa nampan cangkir teh kosong. Langit Rawamangun sore itu berwarna jingga pucat setelah angin sore berembus pelan.
 
-"Makasih banyak ya, Mas Dimas, udah repot-repot nganterin Ibu ke klinik sampai sore gini," kataku tulus sambil berdiri di dekat tiang teras. "Nanti uang obat sama administrasi kliniknya aku ganti lewat m-banking ya."
+"Makasih banyak ya, Mas Dimas, udah repot-repot nganterin Ibu ke klinik sampai sore gini," kataku tulus sambil berdiri di dekat tiang teras. "Nanti uang obat klinik, bubur, sama bensinnya aku ganti lewat m-banking ya."
 
 Dimas menggeleng pelan, menatapku dengan pandangan teduh yang sama sekali tidak menyisakan kesombongan lamanya.
 
-"Jangan diganti, Nad. Aku ikhlas kok buat Ibu kamu. Tadi waktu Ibu istirahat di kamar sehabis minum obat, sebenarnya aku udah ngaku jujur sama Ibu kalau tiga minggu lalu kita sempat putus gara-gara keegoisanku," kata Dimas lembut sambil berhenti di anak tangga teras.
+"Jangan diganti, Nad. Aku ikhlas kok buat Ibu kamu. Tadi waktu Ibu istirahat di kamar sehabis minum obat, sebenarnya aku udah ngaku jujur sama Ibu kalau hampir sebulan lalu kita sempat putus gara-gara keegoisanku," kata Dimas lembut sambil berhenti di anak tangga teras.
 
 Aku terkesiap kecil. "Mas Dimas cerita ke Ibu?"
 

@@ -26,7 +26,7 @@ Dimas menunduk, menatap ubin dapur di antara sepatu kami. Kedua bahunya tampak t
 
 Aku terdiam di tempatku, agak kaget melihat perubahan sikapnya yang mendadak seratus delapan puluh derajat itu.
 
-"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran malam itu, terus waktu aku nyuruh-nyuruh kamu di depan Vanya, sampai di ruang rapat minggu lalu... aku bener-bener bodoh. Baru setelah jalan sama Vanya kemarin, aku ngerasain sendiri gimana capeknya ngadepin orang yang maunya menang sendiri. Dua tahun kamu sabar banget ngurusin aku, bikinin aku teh kalau lagi lembur, dengerin keluhanku, tapi aku malah nganggap semua perhatian kamu itu hal yang remeh."
+"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran malam itu, terus waktu aku nyuruh-nyuruh kamu di depan Vanya, sampai di ruang rapat minggu lalu... aku bener-bener bodoh. Selama jalan sama Vanya, aku baru ngerasain sendiri gimana capeknya ngadepin orang yang maunya menang sendiri. Dua tahun kamu sabar banget ngurusin aku, bikinin aku teh kalau lagi lembur, dengerin keluhanku, tapi aku malah nganggap semua perhatian kamu itu hal yang remeh."
 
 Aku tetap diam bersandar di tepi meja kabinet dapur, menjaga jarak aman. "Semua itu udah lewat, Mas. Aku juga udah maafin kok, jadi kita biasa aja sebagai rekan kerja."
 

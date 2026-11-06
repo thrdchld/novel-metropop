@@ -90,17 +90,57 @@ def audit_story(story_dir: Path) -> int:
             summary = ", ".join(f"{t} (L{','.join(map(str, v[:3]))})" for t, v in hits.items())
             print(f"Bab {n:02d}: {summary}")
 
-    # 2. Klaim Waktu Relatif
+    # 2. Klaim Waktu Relatif & Validasi Hari Otomatis terhadap Ledger
     print()
     print("=" * 70)
-    print("2. KLAIM WAKTU RELATIF (cocokkan dengan hari tiap bab di state.md & ledger.md)")
+    print("2. KLAIM WAKTU RELATIF & VALIDASI HARI OTOMATIS (vs ledger.md)")
     print("=" * 70)
+    days_order = ["senin", "selasa", "rabu", "kamis", "jumat", "sabtu", "minggu"]
+    ledger_days: dict[int, str] = {}
+    ledger_path = story_dir / "ledger.md"
+    if ledger_path.is_file():
+        for line in ledger_path.read_text(encoding="utf-8").splitlines():
+            m_row = re.match(r"^\|\s*(\d+)\s*\|\s*([^|]+)\|", line)
+            if m_row:
+                b_num = int(m_row.group(1))
+                w_loc = m_row.group(2).lower()
+                for d in days_order:
+                    if re.search(rf"\b{d}\b", w_loc):
+                        ledger_days[b_num] = d
+                        break
+
+    day_adj_re = re.compile(
+        r"\b(senin|selasa|rabu|kamis|jumat|sabtu|minggu)(?:\s+(?:pagi|siang|sore|petang|malam))?\s+(besok|kemarin)\b",
+        re.I,
+    )
+
     for n, lines in chapters:
+        active_day = ledger_days.get(n)
         for i, line in enumerate(lines, 1):
             low = line.lower()
             found = [t for t in RELATIVE_TERMS if re.search(rf"\b{re.escape(t)}\b", low)]
             if found:
-                print(f"Bab {n:02d} L{i:02d} [{', '.join(found)}]: {line.strip()[:120]}")
+                day_tag = f" [Hari Bab: {active_day.capitalize()}]" if active_day else ""
+                print(f"Bab {n:02d} L{i:02d}{day_tag} [{', '.join(found)}]: {line.strip()[:110]}")
+            if active_day:
+                idx = days_order.index(active_day)
+                expected_tomorrow = days_order[(idx + 1) % 7]
+                expected_yesterday = days_order[(idx - 1) % 7]
+                for m_d in day_adj_re.finditer(low):
+                    mentioned_day = m_d.group(1).lower()
+                    rel_word = m_d.group(2).lower()
+                    if rel_word == "besok" and mentioned_day != expected_tomorrow:
+                        print(
+                            f"   [FAIL] Bab {n:02d} L{i:02d}: Bab berlangsung hari {active_day.capitalize()}, "
+                            f"tetapi menyebut '{m_d.group(0)}' (besok seharusnya {expected_tomorrow.capitalize()})!"
+                        )
+                        issues += 1
+                    elif rel_word == "kemarin" and mentioned_day != expected_yesterday:
+                        print(
+                            f"   [FAIL] Bab {n:02d} L{i:02d}: Bab berlangsung hari {active_day.capitalize()}, "
+                            f"tetapi menyebut '{m_d.group(0)}' (kemarin seharusnya {expected_yesterday.capitalize()})!"
+                        )
+                        issues += 1
 
     # 3. Perkenalan Tokoh Ganda
     print()

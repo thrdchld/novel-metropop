@@ -14,13 +14,13 @@ Aku menoleh ke samping. Saka berdiri hanya berjarak satu langkah dariku sambil m
 
 "Kenapa dia nunggu kamu di lobi sambil bawa bungkusan buat Ibu kamu?" tanya Saka tanpa basa-basi.
 
-Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik bara sakit hati yang sudah kupendam sejak Jumat sore kemarin.
+Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik bara sakit hati yang sudah kupendam sejak Jumat sore lalu.
 
 "Mas Dimas mau nganterin puding buat Ibu di Rawamangun," jawabku pendek.
 
 "Bukannya kamu sendiri yang bilang ke saya di kedai kopi minggu lalu kalau urusan kalian sudah selesai?" Kening Saka berkerut tajam. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
 
-"Karena hari Sabtu kemarin waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya kemarin. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
+"Karena hari Sabtu lalu waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya kemarin. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
 
 Saka terdiam menatapku. Udara di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak terasa senyap di telingaku.
 

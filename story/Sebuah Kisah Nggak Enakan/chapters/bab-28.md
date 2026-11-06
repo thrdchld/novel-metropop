@@ -8,13 +8,13 @@ Di seberang meja, senyum di wajah Ibu ternyata sudah luntur sejak mendengar Dima
 
 Dimas yang sedang menyuap nasi berhenti mengunyah. Dia menoleh ke arahku dengan alis terangkat heran. "Apanya yang nggak bisa, Nad? Soal izin ke Pak Ramdan? Kan tadi aku udah bilang biar besok pagi aku yang ngomong..."
 
-"Jumat sore besok aku tetap akan duduk di panggung peluncuran buku Sela Waktu sebagai ilustratornya," potongku. Suaraku tidak bergetar sedikit pun. Jernih, lurus, dan mantap. "Dan aku juga nggak akan menemani Mas Dimas ke acara makan malam bos pemasaran, atau ke acara mana pun lagi."
+"Jumat sore nanti aku tetap akan duduk di panggung peluncuran buku Sela Waktu sebagai ilustratornya," potongku. Suaraku tidak bergetar sedikit pun. Jernih, lurus, dan mantap. "Dan aku juga nggak akan menemani Mas Dimas ke acara makan malam bos pemasaran, atau ke acara mana pun lagi."
 
 Wajah Dimas langsung berubah tegang. "Maksud kamu apa sih, Nad? Tadi kan di depan Ibu kita udah sepakat mau buka lembaran baru!"
 
 Aku menoleh menatap Ibu di seberang meja. Sudah terlalu lama aku menyembunyikan kenyataan pahit di balik senyum sopan cuma supaya rumah terlihat damai. Malam ini, aku berutang kejujuran pada ibuku dan pada diriku sendiri.
 
-"Bu, maaf ya selama sebulan ini aku belum jujur sepenuhnya sama Ibu. Empat minggu yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Bukan karena salah paham biasa kayak yang dia ceritakan ke Ibu hari Sabtu kemarin," kataku lembut namun tegas kepada Ibu.
+"Bu, maaf ya selama hampir sebulan ini aku belum jujur sepenuhnya sama Ibu. Hampir sebulan yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Bukan karena salah paham biasa kayak yang dia ceritakan ke Ibu hari Sabtu lalu," kataku lembut namun tegas kepada Ibu.
 
 "Dimas? Benar itu?" tanya Ibu tajam sambil menoleh ke arahnya.
 
@@ -42,7 +42,7 @@ Dimas ternganga di kursinya. Wajahnya pucat pasi seperti kertas tisu, mulutnya t
 
 Di seberang meja, Ibu langsung ikut berdiri sambil mengambil tas tangannya. Ibu menghampiriku dan menggenggam erat tangan kiriku dengan mata berkaca-kaca.
 
-"Maafin Ibu ya, Nak. Ibu hampir aja nyuruh kamu masuk ke lubang yang salah gara-gara nggak tahu cerita aslinya," bisik Ibu penuh sesal, lalu menoleh menatap Dimas dengan tatapan dingin seorang ibu yang anaknya baru saja dihina. "Terima kasih makan malamnya, Nak Dimas. Untuk biaya bubur sama bensin ke klinik hari Sabtu kemarin, nanti biar Nadia yang transfer balik malam ini. Mulai besok, tolong jangan datang ke rumah Rawamangun lagi."
+"Maafin Ibu ya, Nak. Ibu hampir aja nyuruh kamu masuk ke lubang yang salah gara-gara nggak tahu cerita aslinya," bisik Ibu penuh sesal, lalu menoleh menatap Dimas dengan tatapan dingin seorang ibu yang anaknya baru saja dihina. "Terima kasih makan malamnya, Nak Dimas. Untuk biaya obat klinik, bubur, sama bensin hari Sabtu lalu yang sempat kamu tolak waktu mau diganti, nanti biar Nadia yang transfer balik malam ini. Mulai besok, tolong jangan datang ke rumah Rawamangun lagi."
 
 Aku mengeluarkan uang tunai dari dompetku, meletakkannya di atas meja untuk membayar porsi makananku dan Ibu, lalu menggandeng lengan Ibu melangkah keluar dari rumah makan itu dengan kepala tegak.
 

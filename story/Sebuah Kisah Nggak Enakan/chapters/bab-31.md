@@ -18,11 +18,11 @@ Aku berhenti dua langkah di depannya. Dadaku naik turun karena berlari kecil dan
 
 Wajahku langsung terasa hangat, tapi aku tidak menunduk. Aku melangkah satu tapak lebih dekat ke arahnya.
 
-"Mas, aku minta maaf," kataku tulus, menatap langsung ke kedua matanya. "Maaf buat sikapku sejak Jumat kemarin, dan maaf buat omonganku di lobi hari Senin sore. Waktu itu aku beneran ketakutan setengah mati waktu dengar Pak Ramdan bilang masa tugas Mas Saka di Jakarta udah habis dan Mas Saka mau balik ke Jogja. Gara-gara patah hati dan takut ditinggal sendirian, aku sempat bodoh dan goyah waktu Mas Dimas datang bawa-bawa Ibu."
+"Mas, aku minta maaf," kataku tulus, menatap langsung ke kedua matanya. "Maaf buat sikapku sejak Jumat minggu lalu, dan maaf buat omonganku di lobi hari Senin sore. Waktu itu aku beneran ketakutan setengah mati waktu dengar Pak Ramdan bilang masa tugas Mas Saka di Jakarta udah habis dan Mas Saka mau balik ke Jogja. Gara-gara patah hati dan takut ditinggal sendirian, aku sempat bodoh dan goyah waktu Mas Dimas datang bawa-bawa Ibu."
 
 Saka diam mendengarkan, tatapannya tidak lepas sedikit pun dari wajahku.
 
-"Tapi Selasa malam kemarin waktu makan malam bareng Ibu, aku nggak jadi balik sama dia," lanjutku cepat sebelum dia sempat menyela. "Aku udah sadar kalau dia nggak pernah berubah, dan aku udah nolak dia secara permanen di depan Ibu. Aku..."
+"Tapi Selasa malam itu waktu makan malam bareng Ibu, aku nggak jadi balik sama dia," lanjutku cepat sebelum dia sempat menyela. "Aku udah sadar kalau dia nggak pernah berubah, dan aku udah nolak dia secara permanen di depan Ibu. Aku..."
 
 Aku berhenti sebentar, menarik napas pendek karena mataku mulai terasa panas dan basah.
 
@@ -44,9 +44,9 @@ Aku menunduk membacanya. Di bagian kepala surat, tertulis jelas: Surat Keputusan
 
 Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas saja dulu aku pernah memergoki layar laptopnya membuka daftar kos tahunan di Cikini dan Tari sempat melihatnya menyerahkan formulir ke Mbak Sinta HRD!
 
-"Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore kemarin itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
+"Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Pak Ramdan sebenarnya udah nawarin posisi tetap buat pegang lini buku ilustrasi baru di Jakarta sejak minggu kedua proyek kita berjalan," jelas Saka tenang. "Tiga minggu lalu saya resmi masukin berkas pengajuannya ke HRD. Hari Jumat kemarin waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang di Jogja belum turun tanda tangannya, makanya saya bilang harus balik ke sana dulu. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
+"Pak Ramdan sebenarnya udah nawarin posisi tetap buat pegang lini buku ilustrasi baru di Jakarta sejak minggu kedua proyek kita berjalan," jelas Saka tenang. "Tiga minggu lalu saya resmi masukin berkas pengajuannya ke HRD. Hari Jumat minggu lalu waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang di Jogja belum turun tanda tangannya, makanya saya bilang harus balik ke sana dulu. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin depan, meja nomor empat itu meja tetap saya."
 
 Air mata yang sejak tadi kutahan akhirnya jatuh satu tetes melewati pipiku, tapi bibirku justru tertarik membentuk senyum paling lebar dan paling lega yang pernah kurasakan.
 

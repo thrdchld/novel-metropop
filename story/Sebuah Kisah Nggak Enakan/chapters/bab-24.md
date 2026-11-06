@@ -24,7 +24,7 @@ Dari sudut mataku, aku melihat punggung Saka yang tadinya bersandar santai di ku
 
 Aku langsung menahan napas.
 
-Aku baru ingat bahwa pada Jumat sore kemarin, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
+Aku baru ingat bahwa pada Jumat sore lalu, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
 
 Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya tampak kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
 
@@ -32,9 +32,9 @@ Jantungku berdebar kencang di balik tulang rusukku. Aku ingin sekali merebut buk
 
 Saka menatap gambar kursi kosong dan bayangan botol minum itu lama sekali. Jari telunjuk kanannya terangkat menyentuh permukaan kertas tempat bayangan botol itu berada.
 
-Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya tampak hening dan serius, seolah dia baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak Jumat sore kemarin.
+Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya tampak hening dan serius, seolah dia baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak Jumat sore lalu.
 
-"Nad," panggil Saka pelan. Suaranya rendah, tidak lagi terdengar seperti editor yang sedang memeriksa cetakan buku. "Gambar kursi kosong di halaman terakhir ini... kamu bikin hari Jumat kemarin waktu saya turun ke lantai dua?"
+"Nad," panggil Saka pelan. Suaranya rendah, tidak lagi terdengar seperti editor yang sedang memeriksa cetakan buku. "Gambar kursi kosong di halaman terakhir ini... kamu bikin hari Jumat lalu waktu saya turun ke lantai dua?"
 
 Aku menggigit bibir bagian dalamku, meremas pensil merah di tanganku. "Itu... itu cuma ilustrasi pelengkap buat nutup halaman kosong, Mas. Nggak ada maksud apa-apa."
 

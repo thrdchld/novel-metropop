@@ -40,7 +40,7 @@ Pandanganku mulai kabur oleh genangan air mata yang mengambang di pelupuk mata. 
 
 Saat menunduk menyeka sudut mataku dengan punggung tangan, pandanganku tertuju pada satu-satunya benda yang masih tertinggal di garis tengah antara mejaku dan meja Saka.
 
-Itu adalah buku cetak percobaan Sela Waktu yang kami periksa pada hari Senin sore kemarin.
+Itu adalah buku cetak percobaan Sela Waktu yang kami periksa pada hari Senin sore lalu.
 
 Dengan jari gemetar, aku menarik buku itu ke pangkuanku dan membukanya langsung ke bagian paling belakang, tempat halaman ucapan terima kasih dan lembar penutup berada.
 
@@ -54,4 +54,4 @@ Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimp
 
 Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan sinyal kereta.
 
-"Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat besok di panggung peluncuran Sela Waktu dia nggak mungkin absen."
+"Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat nanti di panggung peluncuran Sela Waktu dia nggak mungkin absen."

@@ -8,7 +8,7 @@ Aku menurunkan pandanganku dari wajah Dimas ke pojok kiri bawah bingkai monitork
 
 Kertas post-it kuning itu masih menempel di sana. Tulisannya tidak berubah sejak hari Selasa: Bilang enggak itu nggak bikin langit runtuh.
 
-Aku teringat bagaimana Jumat malam minggu lalu aku berdiri mematung di parkiran motor sementara laki-laki di depanku ini bilang dia bosan karena aku tidak pernah menolak permintaannya. Lalu Senin malam kemarin aku harus mengomel seperti orang gila di tangga darurat gara-gara mengerjakan poster untuk mereka berdua. Kalau sore ini aku mengangguk lagi, berarti yang bermasalah memang bukan cuma kelakuan Dimas, tapi juga akal sehatku sendiri.
+Aku teringat bagaimana Jumat malam minggu lalu aku berdiri mematung di parkiran motor sementara laki-laki di depanku ini bilang dia bosan karena aku tidak pernah menolak permintaannya. Lalu Senin malam lalu aku harus mengomel seperti orang gila di tangga darurat gara-gara mengerjakan poster untuk mereka berdua. Kalau sore ini aku mengangguk lagi, berarti yang bermasalah memang bukan cuma kelakuan Dimas, tapi juga akal sehatku sendiri.
 
 Aku menarik tanganku kembali dari atas meja, lalu menyimpannya di atas pangkuanku.
 
@@ -58,7 +58,7 @@ Aku menatap cokelat itu, lalu menatap wajah datar Saka. "Ini buat apa, Mas?"
 
 Aku melirik tangan kanan Saka yang sedang memegang botol minum itu.
 
-Tepat seperti di warung ayam bakar hari Rabu kemarin, ibu jari Saka tanpa sadar memutar tutup botol hitamnya sedikit, lalu mengencangkannya lagi sampai berbunyi klik dua kali.
+Tepat seperti di warung ayam bakar hari Rabu lalu, ibu jari Saka tanpa sadar memutar tutup botol hitamnya sedikit, lalu mengencangkannya lagi sampai berbunyi klik dua kali.
 
 Padahal seingatku tadi pagi waktu datang ke kantor, Saka sama sekali tidak membawa kopi botol minimarket, melainkan menyeduh kopi hitam bubuk dari dapur kantor.
 

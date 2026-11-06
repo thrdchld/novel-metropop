@@ -32,7 +32,7 @@ Keningku berkerut tipis. Nada bicara Dimas barusan bukan nada seseorang yang men
 
 Belum sempat aku mencerna perubahan nadanya itu, Dimas sudah meraih gelas es teh manisnya sambil berbicara lagi dengan enteng.
 
-"Oh iya, Nad, ngomong-ngomong soal jadwal minggu ini," kata Dimas santai sambil menyendok gurame bakar ke piringnya sendiri. "Jumat sore besok jam empat kan Pak Manajer Pemasaran ngadain acara syukuran ulang tahun pernikahannya di restoran daerah Senayan. Kamu temenin aku datang ke sana ya? Sekalian aku kenalin lagi sama istri bosku."
+"Oh iya, Nad, ngomong-ngomong soal jadwal minggu ini," kata Dimas santai sambil menyendok gurame bakar ke piringnya sendiri. "Jumat sore nanti jam empat kan Pak Manajer Pemasaran ngadain acara syukuran ulang tahun pernikahannya di restoran daerah Senayan. Kamu temenin aku datang ke sana ya? Sekalian aku kenalin lagi sama istri bosku."
 
 Aku menoleh cepat menatap Dimas. "Jumat sore jam empat? Mas, Jumat sore jam empat ini kan jadwal acara peluncuran dan bincang buku Sela Waktu di Cikini. Aku udah dijadwalkan duduk di panggung bareng Mas Saka sebagai ilustratornya."
 
@@ -48,7 +48,7 @@ Detik itu juga, rasanya seperti ada seseorang yang menyiramkan seember air dingi
 
 Tari benar.
 
-Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Dia menangis di dapur kantor, membawakan teh melati, dan mengantar ibuku ke klinik hari Sabtu kemarin bukan karena dia menghargaiku sebagai manusia. Dia melakukan semua itu semata-mata karena egonya terluka melihatku bersinar di meja nomor empat bersama Saka, dan dia rindu memiliki pelayan gratis yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya!
+Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Dia menangis di dapur kantor, membawakan teh melati, dan mengantar ibuku ke klinik hari Sabtu lalu bukan karena dia menghargaiku sebagai manusia. Dia melakukan semua itu semata-mata karena egonya terluka melihatku bersinar di meja nomor empat bersama Saka, dan dia rindu memiliki pelayan gratis yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya!
 
 Dan aku, karena takut ditinggal Saka pulang ke Yogyakarta, hampir saja menyerahkan kembali harga diriku dan mengorbankan panggung buku Sela Waktu yang telah diperjuangkan Saka mati-matian untukku di ruang rapat.
 

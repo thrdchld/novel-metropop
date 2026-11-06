@@ -278,7 +278,7 @@ Aku berdiri di pinggir trotoar Cikini, meraba ujung kertas kuning itu dengan ibu
 
 ## Bab 5: Latihan Pertama dan Utang Ayam Bakar
 
-Kertas post-it kuning dari Saka sekarang menempel rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
+Begitu tiba di meja nomor empat Rabu pagi tadi, hal pertama yang kulakukan adalah melepas kertas post-it kuning pemberian Saka dari sampul buku sketsaku dan menempelkannya rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
 
 Sepanjang Rabu pagi, setiap kali Mbak Dinda lewat di belakang mejaku sambil melirik sinis karena kejadian flash disk kemarin sore, aku langsung menatap tulisan tangan Saka di kertas kuning itu. Anehnya, kalimat pendek itu lumayan ampuh mencegah mulutku minta maaf atas kesalahan yang memang bukan salahku.
 
@@ -410,7 +410,7 @@ Aku menurunkan pandanganku dari wajah Dimas ke pojok kiri bawah bingkai monitork
 
 Kertas post-it kuning itu masih menempel di sana. Tulisannya tidak berubah sejak hari Selasa: Bilang enggak itu nggak bikin langit runtuh.
 
-Aku teringat bagaimana Jumat malam minggu lalu aku berdiri mematung di parkiran motor sementara laki-laki di depanku ini bilang dia bosan karena aku tidak pernah menolak permintaannya. Lalu Senin malam kemarin aku harus mengomel seperti orang gila di tangga darurat gara-gara mengerjakan poster untuk mereka berdua. Kalau sore ini aku mengangguk lagi, berarti yang bermasalah memang bukan cuma kelakuan Dimas, tapi juga akal sehatku sendiri.
+Aku teringat bagaimana Jumat malam minggu lalu aku berdiri mematung di parkiran motor sementara laki-laki di depanku ini bilang dia bosan karena aku tidak pernah menolak permintaannya. Lalu Senin malam lalu aku harus mengomel seperti orang gila di tangga darurat gara-gara mengerjakan poster untuk mereka berdua. Kalau sore ini aku mengangguk lagi, berarti yang bermasalah memang bukan cuma kelakuan Dimas, tapi juga akal sehatku sendiri.
 
 Aku menarik tanganku kembali dari atas meja, lalu menyimpannya di atas pangkuanku.
 
@@ -460,7 +460,7 @@ Aku menatap cokelat itu, lalu menatap wajah datar Saka. "Ini buat apa, Mas?"
 
 Aku melirik tangan kanan Saka yang sedang memegang botol minum itu.
 
-Tepat seperti di warung ayam bakar hari Rabu kemarin, ibu jari Saka tanpa sadar memutar tutup botol hitamnya sedikit, lalu mengencangkannya lagi sampai berbunyi klik dua kali.
+Tepat seperti di warung ayam bakar hari Rabu lalu, ibu jari Saka tanpa sadar memutar tutup botol hitamnya sedikit, lalu mengencangkannya lagi sampai berbunyi klik dua kali.
 
 Padahal seingatku tadi pagi waktu datang ke kantor, Saka sama sekali tidak membawa kopi botol minimarket, melainkan menyeduh kopi hitam bubuk dari dapur kantor.
 
@@ -1136,7 +1136,7 @@ Dimas menunduk, menatap ubin dapur di antara sepatu kami. Kedua bahunya tampak t
 
 Aku terdiam di tempatku, agak kaget melihat perubahan sikapnya yang mendadak seratus delapan puluh derajat itu.
 
-"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran malam itu, terus waktu aku nyuruh-nyuruh kamu di depan Vanya, sampai di ruang rapat minggu lalu... aku bener-bener bodoh. Baru setelah jalan sama Vanya kemarin, aku ngerasain sendiri gimana capeknya ngadepin orang yang maunya menang sendiri. Dua tahun kamu sabar banget ngurusin aku, bikinin aku teh kalau lagi lembur, dengerin keluhanku, tapi aku malah nganggap semua perhatian kamu itu hal yang remeh."
+"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran malam itu, terus waktu aku nyuruh-nyuruh kamu di depan Vanya, sampai di ruang rapat minggu lalu... aku bener-bener bodoh. Selama jalan sama Vanya, aku baru ngerasain sendiri gimana capeknya ngadepin orang yang maunya menang sendiri. Dua tahun kamu sabar banget ngurusin aku, bikinin aku teh kalau lagi lembur, dengerin keluhanku, tapi aku malah nganggap semua perhatian kamu itu hal yang remeh."
 
 Aku tetap diam bersandar di tepi meja kabinet dapur, menjaga jarak aman. "Semua itu udah lewat, Mas. Aku juga udah maafin kok, jadi kita biasa aja sebagai rekan kerja."
 
@@ -1288,7 +1288,7 @@ Begitu masuk ke kamar Ibu yang lampunya diredupkan, aku mendapati Ibu sedang ber
 
 "Kepala Ibu rasanya muter banget kalau dipakai duduk, Nad," keluh Ibu lirih. "Tadi jam setengah tujuh pagi Ibu telepon ke nomor kamu tiga kali nggak diangkat-angkat. Karena Ibu panik dan kebetulan semalam Dimas baru aja kirim pesan nanyain kabar Ibu, jadi Ibu sempat telepon ke nomor Dimas nanyain kamu lagi di mana. Habis itu Ibu minta tolong Bu RT buat hubungin kamu lagi."
 
-Aku tertegun. Pantas saja ada tiga panggilan tak terjawab dari nomor rumah saat ponselku masih dalam mode senyap di kamar kos tadi pagi. Karena selama tiga minggu ini aku belum tega memberi tahu Ibu bahwa aku sudah putus dari Dimas, Ibu tentu saja masih menganggap Dimas tempat pertama yang bisa dihubungi saat darurat.
+Aku tertegun. Pantas saja ada tiga panggilan tak terjawab dari nomor rumah saat ponselku masih dalam mode senyap di kamar kos tadi pagi. Karena selama hampir sebulan ini aku belum tega memberi tahu Ibu bahwa aku sudah putus dari Dimas, Ibu tentu saja masih menganggap Dimas tempat pertama yang bisa dihubungi saat darurat.
 
 Belum sempat aku menjawab ucapan Ibu, terdengar suara ketukan sopan dari pintu ruang tamu yang masih terbuka, diikuti suara deru mesin mobil yang baru dimatikan di depan pagar.
 
@@ -1336,11 +1336,11 @@ Menjelang pukul lima sore, keadaan Ibu sudah jauh membaik setelah minum obat dar
 
 Aku mengantar Dimas keluar menuju teras depan rumah sambil membawa nampan cangkir teh kosong. Langit Rawamangun sore itu berwarna jingga pucat setelah angin sore berembus pelan.
 
-"Makasih banyak ya, Mas Dimas, udah repot-repot nganterin Ibu ke klinik sampai sore gini," kataku tulus sambil berdiri di dekat tiang teras. "Nanti uang obat sama administrasi kliniknya aku ganti lewat m-banking ya."
+"Makasih banyak ya, Mas Dimas, udah repot-repot nganterin Ibu ke klinik sampai sore gini," kataku tulus sambil berdiri di dekat tiang teras. "Nanti uang obat klinik, bubur, sama bensinnya aku ganti lewat m-banking ya."
 
 Dimas menggeleng pelan, menatapku dengan pandangan teduh yang sama sekali tidak menyisakan kesombongan lamanya.
 
-"Jangan diganti, Nad. Aku ikhlas kok buat Ibu kamu. Tadi waktu Ibu istirahat di kamar sehabis minum obat, sebenarnya aku udah ngaku jujur sama Ibu kalau tiga minggu lalu kita sempat putus gara-gara keegoisanku," kata Dimas lembut sambil berhenti di anak tangga teras.
+"Jangan diganti, Nad. Aku ikhlas kok buat Ibu kamu. Tadi waktu Ibu istirahat di kamar sehabis minum obat, sebenarnya aku udah ngaku jujur sama Ibu kalau hampir sebulan lalu kita sempat putus gara-gara keegoisanku," kata Dimas lembut sambil berhenti di anak tangga teras.
 
 Aku terkesiap kecil. "Mas Dimas cerita ke Ibu?"
 
@@ -1402,7 +1402,7 @@ Dari sudut mataku, aku melihat punggung Saka yang tadinya bersandar santai di ku
 
 Aku langsung menahan napas.
 
-Aku baru ingat bahwa pada Jumat sore kemarin, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
+Aku baru ingat bahwa pada Jumat sore lalu, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
 
 Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya tampak kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
 
@@ -1410,9 +1410,9 @@ Jantungku berdebar kencang di balik tulang rusukku. Aku ingin sekali merebut buk
 
 Saka menatap gambar kursi kosong dan bayangan botol minum itu lama sekali. Jari telunjuk kanannya terangkat menyentuh permukaan kertas tempat bayangan botol itu berada.
 
-Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya tampak hening dan serius, seolah dia baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak Jumat sore kemarin.
+Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya tampak hening dan serius, seolah dia baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak Jumat sore lalu.
 
-"Nad," panggil Saka pelan. Suaranya rendah, tidak lagi terdengar seperti editor yang sedang memeriksa cetakan buku. "Gambar kursi kosong di halaman terakhir ini... kamu bikin hari Jumat kemarin waktu saya turun ke lantai dua?"
+"Nad," panggil Saka pelan. Suaranya rendah, tidak lagi terdengar seperti editor yang sedang memeriksa cetakan buku. "Gambar kursi kosong di halaman terakhir ini... kamu bikin hari Jumat lalu waktu saya turun ke lantai dua?"
 
 Aku menggigit bibir bagian dalamku, meremas pensil merah di tanganku. "Itu... itu cuma ilustrasi pelengkap buat nutup halaman kosong, Mas. Nggak ada maksud apa-apa."
 
@@ -1450,13 +1450,13 @@ Aku menoleh ke samping. Saka berdiri hanya berjarak satu langkah dariku sambil m
 
 "Kenapa dia nunggu kamu di lobi sambil bawa bungkusan buat Ibu kamu?" tanya Saka tanpa basa-basi.
 
-Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik bara sakit hati yang sudah kupendam sejak Jumat sore kemarin.
+Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik bara sakit hati yang sudah kupendam sejak Jumat sore lalu.
 
 "Mas Dimas mau nganterin puding buat Ibu di Rawamangun," jawabku pendek.
 
 "Bukannya kamu sendiri yang bilang ke saya di kedai kopi minggu lalu kalau urusan kalian sudah selesai?" Kening Saka berkerut tajam. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
 
-"Karena hari Sabtu kemarin waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya kemarin. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
+"Karena hari Sabtu lalu waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya kemarin. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
 
 Saka terdiam menatapku. Udara di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak terasa senyap di telingaku.
 
@@ -1528,7 +1528,7 @@ Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam i
 
 "Nad, lo beneran mau balikan sama si Dimas nanti malam?" tanya Tari tanpa tedeng aling-aling.
 
-Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Semalam dia udah ngomong baik-baik sama Ibu, Tar. Hari Sabtu kemarin waktu Ibu sakit juga dia yang ngurusin semuanya dari pagi sampai sore. Dia udah janji mau berubah."
+Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Semalam dia udah ngomong baik-baik sama Ibu, Tar. Hari Sabtu lalu waktu Ibu sakit juga dia yang ngurusin semuanya dari pagi sampai sore. Dia udah janji mau berubah."
 
 "Bukan itu yang gue tanyain, Nadia Putri," potong Tari tajam. "Yang gue tanyain, hati lo sendiri beneran masih pengin balik sama dia, atau lo cuma lagi kalut dan pelarian gara-gara dengar Mas Saka mau balik ke Jogja?"
 
@@ -1586,7 +1586,7 @@ Keningku berkerut tipis. Nada bicara Dimas barusan bukan nada seseorang yang men
 
 Belum sempat aku mencerna perubahan nadanya itu, Dimas sudah meraih gelas es teh manisnya sambil berbicara lagi dengan enteng.
 
-"Oh iya, Nad, ngomong-ngomong soal jadwal minggu ini," kata Dimas santai sambil menyendok gurame bakar ke piringnya sendiri. "Jumat sore besok jam empat kan Pak Manajer Pemasaran ngadain acara syukuran ulang tahun pernikahannya di restoran daerah Senayan. Kamu temenin aku datang ke sana ya? Sekalian aku kenalin lagi sama istri bosku."
+"Oh iya, Nad, ngomong-ngomong soal jadwal minggu ini," kata Dimas santai sambil menyendok gurame bakar ke piringnya sendiri. "Jumat sore nanti jam empat kan Pak Manajer Pemasaran ngadain acara syukuran ulang tahun pernikahannya di restoran daerah Senayan. Kamu temenin aku datang ke sana ya? Sekalian aku kenalin lagi sama istri bosku."
 
 Aku menoleh cepat menatap Dimas. "Jumat sore jam empat? Mas, Jumat sore jam empat ini kan jadwal acara peluncuran dan bincang buku Sela Waktu di Cikini. Aku udah dijadwalkan duduk di panggung bareng Mas Saka sebagai ilustratornya."
 
@@ -1602,7 +1602,7 @@ Detik itu juga, rasanya seperti ada seseorang yang menyiramkan seember air dingi
 
 Tari benar.
 
-Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Dia menangis di dapur kantor, membawakan teh melati, dan mengantar ibuku ke klinik hari Sabtu kemarin bukan karena dia menghargaiku sebagai manusia. Dia melakukan semua itu semata-mata karena egonya terluka melihatku bersinar di meja nomor empat bersama Saka, dan dia rindu memiliki pelayan gratis yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya!
+Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Dia menangis di dapur kantor, membawakan teh melati, dan mengantar ibuku ke klinik hari Sabtu lalu bukan karena dia menghargaiku sebagai manusia. Dia melakukan semua itu semata-mata karena egonya terluka melihatku bersinar di meja nomor empat bersama Saka, dan dia rindu memiliki pelayan gratis yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya!
 
 Dan aku, karena takut ditinggal Saka pulang ke Yogyakarta, hampir saja menyerahkan kembali harga diriku dan mengorbankan panggung buku Sela Waktu yang telah diperjuangkan Saka mati-matian untukku di ruang rapat.
 
@@ -1622,13 +1622,13 @@ Di seberang meja, senyum di wajah Ibu ternyata sudah luntur sejak mendengar Dima
 
 Dimas yang sedang menyuap nasi berhenti mengunyah. Dia menoleh ke arahku dengan alis terangkat heran. "Apanya yang nggak bisa, Nad? Soal izin ke Pak Ramdan? Kan tadi aku udah bilang biar besok pagi aku yang ngomong..."
 
-"Jumat sore besok aku tetap akan duduk di panggung peluncuran buku Sela Waktu sebagai ilustratornya," potongku. Suaraku tidak bergetar sedikit pun. Jernih, lurus, dan mantap. "Dan aku juga nggak akan menemani Mas Dimas ke acara makan malam bos pemasaran, atau ke acara mana pun lagi."
+"Jumat sore nanti aku tetap akan duduk di panggung peluncuran buku Sela Waktu sebagai ilustratornya," potongku. Suaraku tidak bergetar sedikit pun. Jernih, lurus, dan mantap. "Dan aku juga nggak akan menemani Mas Dimas ke acara makan malam bos pemasaran, atau ke acara mana pun lagi."
 
 Wajah Dimas langsung berubah tegang. "Maksud kamu apa sih, Nad? Tadi kan di depan Ibu kita udah sepakat mau buka lembaran baru!"
 
 Aku menoleh menatap Ibu di seberang meja. Sudah terlalu lama aku menyembunyikan kenyataan pahit di balik senyum sopan cuma supaya rumah terlihat damai. Malam ini, aku berutang kejujuran pada ibuku dan pada diriku sendiri.
 
-"Bu, maaf ya selama sebulan ini aku belum jujur sepenuhnya sama Ibu. Empat minggu yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Bukan karena salah paham biasa kayak yang dia ceritakan ke Ibu hari Sabtu kemarin," kataku lembut namun tegas kepada Ibu.
+"Bu, maaf ya selama hampir sebulan ini aku belum jujur sepenuhnya sama Ibu. Hampir sebulan yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Bukan karena salah paham biasa kayak yang dia ceritakan ke Ibu hari Sabtu lalu," kataku lembut namun tegas kepada Ibu.
 
 "Dimas? Benar itu?" tanya Ibu tajam sambil menoleh ke arahnya.
 
@@ -1656,7 +1656,7 @@ Dimas ternganga di kursinya. Wajahnya pucat pasi seperti kertas tisu, mulutnya t
 
 Di seberang meja, Ibu langsung ikut berdiri sambil mengambil tas tangannya. Ibu menghampiriku dan menggenggam erat tangan kiriku dengan mata berkaca-kaca.
 
-"Maafin Ibu ya, Nak. Ibu hampir aja nyuruh kamu masuk ke lubang yang salah gara-gara nggak tahu cerita aslinya," bisik Ibu penuh sesal, lalu menoleh menatap Dimas dengan tatapan dingin seorang ibu yang anaknya baru saja dihina. "Terima kasih makan malamnya, Nak Dimas. Untuk biaya bubur sama bensin ke klinik hari Sabtu kemarin, nanti biar Nadia yang transfer balik malam ini. Mulai besok, tolong jangan datang ke rumah Rawamangun lagi."
+"Maafin Ibu ya, Nak. Ibu hampir aja nyuruh kamu masuk ke lubang yang salah gara-gara nggak tahu cerita aslinya," bisik Ibu penuh sesal, lalu menoleh menatap Dimas dengan tatapan dingin seorang ibu yang anaknya baru saja dihina. "Terima kasih makan malamnya, Nak Dimas. Untuk biaya obat klinik, bubur, sama bensin hari Sabtu lalu yang sempat kamu tolak waktu mau diganti, nanti biar Nadia yang transfer balik malam ini. Mulai besok, tolong jangan datang ke rumah Rawamangun lagi."
 
 Aku mengeluarkan uang tunai dari dompetku, meletakkannya di atas meja untuk membayar porsi makananku dan Ibu, lalu menggandeng lengan Ibu melangkah keluar dari rumah makan itu dengan kepala tegak.
 
@@ -1708,7 +1708,7 @@ Pandanganku mulai kabur oleh genangan air mata yang mengambang di pelupuk mata. 
 
 Saat menunduk menyeka sudut mataku dengan punggung tangan, pandanganku tertuju pada satu-satunya benda yang masih tertinggal di garis tengah antara mejaku dan meja Saka.
 
-Itu adalah buku cetak percobaan Sela Waktu yang kami periksa pada hari Senin sore kemarin.
+Itu adalah buku cetak percobaan Sela Waktu yang kami periksa pada hari Senin sore lalu.
 
 Dengan jari gemetar, aku menarik buku itu ke pangkuanku dan membukanya langsung ke bagian paling belakang, tempat halaman ucapan terima kasih dan lembar penutup berada.
 
@@ -1722,7 +1722,7 @@ Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimp
 
 Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan sinyal kereta.
 
-"Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat besok di panggung peluncuran Sela Waktu dia nggak mungkin absen."
+"Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat nanti di panggung peluncuran Sela Waktu dia nggak mungkin absen."
 
 ---
 
@@ -1792,11 +1792,11 @@ Aku berhenti dua langkah di depannya. Dadaku naik turun karena berlari kecil dan
 
 Wajahku langsung terasa hangat, tapi aku tidak menunduk. Aku melangkah satu tapak lebih dekat ke arahnya.
 
-"Mas, aku minta maaf," kataku tulus, menatap langsung ke kedua matanya. "Maaf buat sikapku sejak Jumat kemarin, dan maaf buat omonganku di lobi hari Senin sore. Waktu itu aku beneran ketakutan setengah mati waktu dengar Pak Ramdan bilang masa tugas Mas Saka di Jakarta udah habis dan Mas Saka mau balik ke Jogja. Gara-gara patah hati dan takut ditinggal sendirian, aku sempat bodoh dan goyah waktu Mas Dimas datang bawa-bawa Ibu."
+"Mas, aku minta maaf," kataku tulus, menatap langsung ke kedua matanya. "Maaf buat sikapku sejak Jumat minggu lalu, dan maaf buat omonganku di lobi hari Senin sore. Waktu itu aku beneran ketakutan setengah mati waktu dengar Pak Ramdan bilang masa tugas Mas Saka di Jakarta udah habis dan Mas Saka mau balik ke Jogja. Gara-gara patah hati dan takut ditinggal sendirian, aku sempat bodoh dan goyah waktu Mas Dimas datang bawa-bawa Ibu."
 
 Saka diam mendengarkan, tatapannya tidak lepas sedikit pun dari wajahku.
 
-"Tapi Selasa malam kemarin waktu makan malam bareng Ibu, aku nggak jadi balik sama dia," lanjutku cepat sebelum dia sempat menyela. "Aku udah sadar kalau dia nggak pernah berubah, dan aku udah nolak dia secara permanen di depan Ibu. Aku..."
+"Tapi Selasa malam itu waktu makan malam bareng Ibu, aku nggak jadi balik sama dia," lanjutku cepat sebelum dia sempat menyela. "Aku udah sadar kalau dia nggak pernah berubah, dan aku udah nolak dia secara permanen di depan Ibu. Aku..."
 
 Aku berhenti sebentar, menarik napas pendek karena mataku mulai terasa panas dan basah.
 
@@ -1818,9 +1818,9 @@ Aku menunduk membacanya. Di bagian kepala surat, tertulis jelas: Surat Keputusan
 
 Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas saja dulu aku pernah memergoki layar laptopnya membuka daftar kos tahunan di Cikini dan Tari sempat melihatnya menyerahkan formulir ke Mbak Sinta HRD!
 
-"Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore kemarin itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
+"Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Pak Ramdan sebenarnya udah nawarin posisi tetap buat pegang lini buku ilustrasi baru di Jakarta sejak minggu kedua proyek kita berjalan," jelas Saka tenang. "Tiga minggu lalu saya resmi masukin berkas pengajuannya ke HRD. Hari Jumat kemarin waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang di Jogja belum turun tanda tangannya, makanya saya bilang harus balik ke sana dulu. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
+"Pak Ramdan sebenarnya udah nawarin posisi tetap buat pegang lini buku ilustrasi baru di Jakarta sejak minggu kedua proyek kita berjalan," jelas Saka tenang. "Tiga minggu lalu saya resmi masukin berkas pengajuannya ke HRD. Hari Jumat minggu lalu waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang di Jogja belum turun tanda tangannya, makanya saya bilang harus balik ke sana dulu. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin depan, meja nomor empat itu meja tetap saya."
 
 Air mata yang sejak tadi kutahan akhirnya jatuh satu tetes melewati pipiku, tapi bibirku justru tertarik membentuk senyum paling lebar dan paling lega yang pernah kurasakan.
 
@@ -1842,7 +1842,7 @@ Klik. Klik.
 
 ## Bab 32: Catatan Post-it Terakhir
 
-Seminggu setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, pemandangan di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
+Tiga hari setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, suasana Senin sore di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
 
 Atau setidaknya, hampir normal.
 
@@ -1854,7 +1854,7 @@ Sementara itu, di meja nomor empat dekat jendela besar, tumpukan buku referensi 
 
 Suara cempreng yang sangat kukenal itu muncul dari samping mejaku pada Senin sore pukul lima kurang lima menit.
 
-Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, sementara tiga langkah di belakangnya ada Riko yang tampak sedang bersiap-siap ikut menitipkan berkas koreksiannya. Rupanya setelah seminggu libur mengganggu mejaku, mereka pikir pertahananku sudah kembali kendur.
+Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, sementara tiga langkah di belakangnya ada Riko yang tampak sedang bersiap-siap ikut menitipkan berkas koreksiannya. Rupanya setelah beberapa hari libur mengganggu mejaku, mereka pikir pertahananku sudah kembali kendur.
 
 "Ini sampul buku resep masakan minggu depan tinggal dirapikan tata letak belakangnya dikit kok, Nad," kata Mbak Dinda sambil tersenyum manis dan mulai mengulurkan map hijau itu ke arah papan gambarku. "Anak gue sore ini ada jadwal imunisasi di rumah sakit, gue harus cabut duluan. Tolong bantuin sejam aja ya?"
 
@@ -1896,7 +1896,7 @@ Saka berdiri dari kursinya, menyampirkan tali tas ke bahunya, lalu menatapku. Me
 
 Sebelum aku berdiri mengambil tas selempangku, aku menarik selembar kertas post-it kuning dari tumpukan di mejaku dan mengambil pulpen hitam.
 
-Kertas post-it kuning pertama pemberian Saka yang sempat kucopot minggu lalu kini sudah menempel kembali di pojok bingkai monitorku. Aku menulis dua kalimat pendek di lembar kertas kuning yang baru, lalu menempelkannya tepat di bagian punggung laptop perak Saka sebelum dia memasukkannya ke dalam tas.
+Pagi tadi sebelum mulai bekerja, aku sudah mengeluarkan kembali kertas post-it kuning pertama pemberian Saka dari dalam buku sketsaku dan menempelkannya lagi di pojok bingkai monitorku. Aku menulis dua kalimat pendek di lembar kertas kuning yang baru, lalu menempelkannya tepat di bagian punggung laptop perak Saka sebelum dia memasukkannya ke dalam tas.
 
 Saka menunduk, membaca tulisan tanganku di kertas kuning yang menempel di laptopnya itu:
 
