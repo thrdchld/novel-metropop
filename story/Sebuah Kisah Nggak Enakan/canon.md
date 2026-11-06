@@ -67,11 +67,11 @@
 ## 5. Detail Kecil / *Invisible Planting & Callback*
 
 1. **Bunyi *Klik* Dua Kali Tutup Botol Minum Saka (*Silent Emotional Callback*):**
-   - *Ditanam:* Bab 5 & Bab 17 (Nadia menyadari bahwa setiap kali Saka berbohong demi menutupi kebaikannya pada Nadia, jempol Saka selalu memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali).
-   - *Dibayar Tanpa Penjelasan Narator:* Bab 31 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam di depan gedung kantor,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
+   - *Ditanam:* Bab 5, Bab 7, & Bab 17 (Nadia menyadari bahwa setiap kali Saka berbohong demi menutupi kebaikannya pada Nadia, jempol Saka selalu memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali).
+   - *Dibayar Tanpa Penjelasan Narator:* Bab 31 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung depan gedung kantor,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
 2. **Kalimat Operator *Customer Service*:**
    - *Ditanam:* Bab 1 (Dimas memutuskan Nadia dengan ejekan bahwa Nadia terlalu lembek dan kalau bicara sopan terus seperti operator *customer service*).
    - *Dibayar:* Bab 28 (Saat Dimas merasa sudah berhasil membujuk Nadia balikan namun sifat aslinya keceplosan di depan keluarga, Nadia menolaknya dengan senyum tenang menggunakan kalimat penolakan ala operator *customer service* paling sopan namun paling telak).
-3. **Catatan *Post-it* Kuning di Pojok Layar:**
-   - *Ditanam:* Bab 4 (Saka menempelkan *post-it* kuning di buku sketsa/monitor Nadia bertuliskan: *"Bilang enggak itu nggak bikin langit runtuh"*).
-   - *Dibayar:* Bab 32 (Nadia menempelkan *post-it* kuning balasan di laptop Saka di kalimat penutup cerita).
+3. **Catatan *Post-it* Kuning (Riwayat Perpindahan Benda Fisik):**
+   - *Ditanam & Perpindahan:* Bab 4 (Saka menempelkan *post-it* kuning bertuliskan *"Bilang enggak itu nggak bikin langit runtuh"* di sampul depan buku sketsa Nadia) -> Bab 5 (Rabu pagi Nadia melepasnya dari sampul buku sketsa dan menempelkannya di pojok kiri bawah bingkai monitornya) -> Bab 26 (Selasa siang Nadia mencopot *post-it* yang lemnya mulai mengering dari bingkai monitor dan menyimpannya ke halaman belakang buku sketsa) -> Bab 32 (Senin pagi Nadia mengeluarkan kembali *post-it* pertama itu dari dalam buku sketsa dan menempelkannya lagi di pojok bingkai monitornya).
+   - *Dibayar:* Bab 32 (Nadia menempelkan *post-it* kuning baru berisi kalimat balasan di punggung laptop Saka di kalimat penutup cerita).

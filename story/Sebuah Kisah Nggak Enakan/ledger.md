@@ -47,5 +47,5 @@
 | Kebiasaan Nadia menggigit ujung karet penghapus pensil gambar saat kesal/cemas | Bab 1, 4 | Bab 20 | **LUNAS (Bab 20)** |
 | Botol minum hitam Saka yang penyok sedikit di bagian bawah + ilustrasi kursi kosong | Bab 2, 18, 21, 24 | Bab 29, 30 | **LUNAS (Bab 29-30)** |
 | Tell Saka: memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali saat berbohong menutupi perhatiannya | Bab 5, 7, 17 | Bab 31 (*Silent Callback*) | **LUNAS (Bab 31)** |
-| Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* | Bab 4, 26, 27 | Bab 32 | **LUNAS (Bab 32)** |
+| Catatan *post-it* kuning Saka: *"Bilang enggak itu nggak bikin langit runtuh"* (sampul buku sketsa -> monitor -> buku sketsa -> monitor & laptop Saka) | Bab 4, 5, 26, 27 | Bab 32 | **LUNAS (Bab 32)** |
 | Petunjuk pengajuan mutasi tetap Saka (tab kos tahunan Cikini di laptop, formulir ke Mbak Sinta HRD, surat pelepasan Pak Bambang) | Bab 14, 18, 20 | Bab 31 | **LUNAS (Bab 31)** |

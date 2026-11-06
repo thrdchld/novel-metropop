@@ -1344,7 +1344,7 @@ Dimas menggeleng pelan, menatapku dengan pandangan teduh yang sama sekali tidak 
 
 Aku terkesiap kecil. "Mas Dimas cerita ke Ibu?"
 
-"Iya," jawab Dimas sambil menunduk. "Waktu Ibu nanya kenapa kita kelihatan agak canggung di klinik tadi, aku nggak tega bohongin Ibu kamu. Aku bilang ke Ibu kalau kemarin aku yang salah dan terlalu kekanak-kanakan sampai nyakitin kamu. Tapi aku juga bilang ke Ibu kalau aku bener-bener nyesel dan pengin memperbaiki semuanya dari nol."
+"Iya," jawab Dimas sambil menunduk. "Waktu Ibu nanya kenapa kita kelihatan agak canggung di klinik tadi, aku nggak tega bohongin Ibu kamu. Aku bilang ke Ibu kalau waktu itu aku yang salah dan terlalu kekanak-kanakan sampai nyakitin kamu. Tapi aku juga bilang ke Ibu kalau aku bener-bener nyesel dan pengin memperbaiki semuanya dari nol."
 
 Dimas melangkah mendekat satu tapak, namun tetap menjaga jarak sopan tanpa memaksaku.
 
@@ -1366,7 +1366,7 @@ Ibu sudah duduk bersandar di bantal kasurnya. Begitu aku duduk di tepi ranjang, 
 
 Ibu mengelus punggung tanganku pelan-pelan. Tidak ada nada kaku seperti waktu membahas urusan Mbak Raras minggu lalu; kali ini suara Ibu murni penuh kekhawatiran seorang ibu yang baru saja ketakutan karena jatuh sakit sendirian di rumah.
 
-"Ibu bukannya mau membela Dimas waktu dia salah kemarin, Nak," kata Ibu pelan. "Tapi cari laki-laki yang udah kenal dekat sama keluarga kita selama dua tahun, yang langsung datang bawa mobil waktu orang tuamu sakit pagi-pagi dan mau nungguin di klinik berjam-jam kayak tadi, itu nggak gampang di Jakarta, Nad. Kalau dia udah berani ngaku salah di depan orang tuamu, apa nggak sebaiknya kamu pertimbangkan lagi?"
+"Ibu bukannya mau membela Dimas waktu dia berbuat salah dulu, Nak," kata Ibu pelan. "Tapi cari laki-laki yang udah kenal dekat sama keluarga kita selama dua tahun, yang langsung datang bawa mobil waktu orang tuamu sakit pagi-pagi dan mau nungguin di klinik berjam-jam kayak tadi, itu nggak gampang di Jakarta, Nad. Kalau dia udah berani ngaku salah di depan orang tuamu, apa nggak sebaiknya kamu pertimbangkan lagi?"
 
 Kata-kata lembut Ibu meresap masuk ke celah hatiku yang sedang paling rapuh. Sejak dulu, kelemahan terbesarku memang rasa takut mengecewakan Ibu dan takut ditinggalkan sendirian.
 
@@ -1456,7 +1456,7 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 "Bukannya kamu sendiri yang bilang ke saya di kedai kopi minggu lalu kalau urusan kalian sudah selesai?" Kening Saka berkerut tajam. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
 
-"Karena hari Sabtu lalu waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya kemarin. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
+"Karena hari Sabtu lalu waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya waktu itu. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
 
 Saka terdiam menatapku. Udara di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak terasa senyap di telingaku.
 
@@ -1528,11 +1528,11 @@ Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam i
 
 "Nad, lo beneran mau balikan sama si Dimas nanti malam?" tanya Tari tanpa tedeng aling-aling.
 
-Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Semalam dia udah ngomong baik-baik sama Ibu, Tar. Hari Sabtu lalu waktu Ibu sakit juga dia yang ngurusin semuanya dari pagi sampai sore. Dia udah janji mau berubah."
+Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Hari Sabtu lalu waktu Ibu sakit, dia yang ngurusin semuanya dari pagi sampai sore, Tar. Dia juga udah ngomong baik-baik sama Ibu waktu di rumah, ngaku salah, dan janji mau berubah."
 
 "Bukan itu yang gue tanyain, Nadia Putri," potong Tari tajam. "Yang gue tanyain, hati lo sendiri beneran masih pengin balik sama dia, atau lo cuma lagi kalut dan pelarian gara-gara dengar Mas Saka mau balik ke Jogja?"
 
-Aku terdiam. Pertanyaan Tari itu menembak tepat ke titik yang sejak semalam kusembunyikan rapat-rapat dari diriku sendiri.
+Aku terdiam. Pertanyaan Tari itu menembak tepat ke titik yang sejak kemarin sore kusembunyikan rapat-rapat dari diriku sendiri.
 
 "Mas Saka sendiri kok yang kemarin sore bilang di lobi kalau balik sama Dimas itu pilihan paling masuk akal buat gue," kataku akhirnya, suaranya terdengar getir karena gengsi yang terluka. "Lagian kata Ibu juga bener, Tar. Buat apa gue ngarepin orang yang belum jelas bakal balik lagi ke Jakarta atau enggak?"
 
@@ -1628,7 +1628,7 @@ Wajah Dimas langsung berubah tegang. "Maksud kamu apa sih, Nad? Tadi kan di depa
 
 Aku menoleh menatap Ibu di seberang meja. Sudah terlalu lama aku menyembunyikan kenyataan pahit di balik senyum sopan cuma supaya rumah terlihat damai. Malam ini, aku berutang kejujuran pada ibuku dan pada diriku sendiri.
 
-"Bu, maaf ya selama hampir sebulan ini aku belum jujur sepenuhnya sama Ibu. Hampir sebulan yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Bukan karena salah paham biasa kayak yang dia ceritakan ke Ibu hari Sabtu lalu," kataku lembut namun tegas kepada Ibu.
+"Bu, maaf ya selama hampir sebulan ini aku belum jujur sepenuhnya sama Ibu. Hampir sebulan yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Dia memang ngaku ke Ibu hari Sabtu lalu kalau dia sempat egois dan kekanak-kanakan, tapi dia belum cerita alasan sebenarnya kenapa dia mutusin aku," kataku lembut namun tegas kepada Ibu.
 
 "Dimas? Benar itu?" tanya Ibu tajam sambil menoleh ke arahnya.
 

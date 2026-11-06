@@ -12,7 +12,7 @@ Dimas menggeleng pelan, menatapku dengan pandangan teduh yang sama sekali tidak 
 
 Aku terkesiap kecil. "Mas Dimas cerita ke Ibu?"
 
-"Iya," jawab Dimas sambil menunduk. "Waktu Ibu nanya kenapa kita kelihatan agak canggung di klinik tadi, aku nggak tega bohongin Ibu kamu. Aku bilang ke Ibu kalau kemarin aku yang salah dan terlalu kekanak-kanakan sampai nyakitin kamu. Tapi aku juga bilang ke Ibu kalau aku bener-bener nyesel dan pengin memperbaiki semuanya dari nol."
+"Iya," jawab Dimas sambil menunduk. "Waktu Ibu nanya kenapa kita kelihatan agak canggung di klinik tadi, aku nggak tega bohongin Ibu kamu. Aku bilang ke Ibu kalau waktu itu aku yang salah dan terlalu kekanak-kanakan sampai nyakitin kamu. Tapi aku juga bilang ke Ibu kalau aku bener-bener nyesel dan pengin memperbaiki semuanya dari nol."
 
 Dimas melangkah mendekat satu tapak, namun tetap menjaga jarak sopan tanpa memaksaku.
 
@@ -34,7 +34,7 @@ Ibu sudah duduk bersandar di bantal kasurnya. Begitu aku duduk di tepi ranjang, 
 
 Ibu mengelus punggung tanganku pelan-pelan. Tidak ada nada kaku seperti waktu membahas urusan Mbak Raras minggu lalu; kali ini suara Ibu murni penuh kekhawatiran seorang ibu yang baru saja ketakutan karena jatuh sakit sendirian di rumah.
 
-"Ibu bukannya mau membela Dimas waktu dia salah kemarin, Nak," kata Ibu pelan. "Tapi cari laki-laki yang udah kenal dekat sama keluarga kita selama dua tahun, yang langsung datang bawa mobil waktu orang tuamu sakit pagi-pagi dan mau nungguin di klinik berjam-jam kayak tadi, itu nggak gampang di Jakarta, Nad. Kalau dia udah berani ngaku salah di depan orang tuamu, apa nggak sebaiknya kamu pertimbangkan lagi?"
+"Ibu bukannya mau membela Dimas waktu dia berbuat salah dulu, Nak," kata Ibu pelan. "Tapi cari laki-laki yang udah kenal dekat sama keluarga kita selama dua tahun, yang langsung datang bawa mobil waktu orang tuamu sakit pagi-pagi dan mau nungguin di klinik berjam-jam kayak tadi, itu nggak gampang di Jakarta, Nad. Kalau dia udah berani ngaku salah di depan orang tuamu, apa nggak sebaiknya kamu pertimbangkan lagi?"
 
 Kata-kata lembut Ibu meresap masuk ke celah hatiku yang sedang paling rapuh. Sejak dulu, kelemahan terbesarku memang rasa takut mengecewakan Ibu dan takut ditinggalkan sendirian.
 

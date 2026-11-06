@@ -20,7 +20,7 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 "Bukannya kamu sendiri yang bilang ke saya di kedai kopi minggu lalu kalau urusan kalian sudah selesai?" Kening Saka berkerut tajam. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
 
-"Karena hari Sabtu lalu waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya kemarin. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
+"Karena hari Sabtu lalu waktu vertigo Ibu kambuh parah dan nggak ada orang di rumah, Mas Dimas yang datang bantuin aku bawa Ibu ke klinik!" kataku dengan suara yang mulai bergetar menahan emosi. "Dia yang nungguin Ibu berjam-jam di apotek, dia juga yang udah minta maaf langsung ke Ibu atas semua kesalahannya waktu itu. Dia... dia udah berusaha berubah dan minta kesempatan kedua sama aku."
 
 Saka terdiam menatapku. Udara di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak terasa senyap di telingaku.
 

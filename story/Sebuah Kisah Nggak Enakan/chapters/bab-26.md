@@ -26,11 +26,11 @@ Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam i
 
 "Nad, lo beneran mau balikan sama si Dimas nanti malam?" tanya Tari tanpa tedeng aling-aling.
 
-Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Semalam dia udah ngomong baik-baik sama Ibu, Tar. Hari Sabtu lalu waktu Ibu sakit juga dia yang ngurusin semuanya dari pagi sampai sore. Dia udah janji mau berubah."
+Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Hari Sabtu lalu waktu Ibu sakit, dia yang ngurusin semuanya dari pagi sampai sore, Tar. Dia juga udah ngomong baik-baik sama Ibu waktu di rumah, ngaku salah, dan janji mau berubah."
 
 "Bukan itu yang gue tanyain, Nadia Putri," potong Tari tajam. "Yang gue tanyain, hati lo sendiri beneran masih pengin balik sama dia, atau lo cuma lagi kalut dan pelarian gara-gara dengar Mas Saka mau balik ke Jogja?"
 
-Aku terdiam. Pertanyaan Tari itu menembak tepat ke titik yang sejak semalam kusembunyikan rapat-rapat dari diriku sendiri.
+Aku terdiam. Pertanyaan Tari itu menembak tepat ke titik yang sejak kemarin sore kusembunyikan rapat-rapat dari diriku sendiri.
 
 "Mas Saka sendiri kok yang kemarin sore bilang di lobi kalau balik sama Dimas itu pilihan paling masuk akal buat gue," kataku akhirnya, suaranya terdengar getir karena gengsi yang terluka. "Lagian kata Ibu juga bener, Tar. Buat apa gue ngarepin orang yang belum jelas bakal balik lagi ke Jakarta atau enggak?"
 

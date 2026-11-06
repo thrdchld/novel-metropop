@@ -14,7 +14,7 @@ Wajah Dimas langsung berubah tegang. "Maksud kamu apa sih, Nad? Tadi kan di depa
 
 Aku menoleh menatap Ibu di seberang meja. Sudah terlalu lama aku menyembunyikan kenyataan pahit di balik senyum sopan cuma supaya rumah terlihat damai. Malam ini, aku berutang kejujuran pada ibuku dan pada diriku sendiri.
 
-"Bu, maaf ya selama hampir sebulan ini aku belum jujur sepenuhnya sama Ibu. Hampir sebulan yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Bukan karena salah paham biasa kayak yang dia ceritakan ke Ibu hari Sabtu lalu," kataku lembut namun tegas kepada Ibu.
+"Bu, maaf ya selama hampir sebulan ini aku belum jujur sepenuhnya sama Ibu. Hampir sebulan yang lalu di parkiran kantor, Mas Dimas yang memutuskan aku lebih dulu. Dia memang ngaku ke Ibu hari Sabtu lalu kalau dia sempat egois dan kekanak-kanakan, tapi dia belum cerita alasan sebenarnya kenapa dia mutusin aku," kataku lembut namun tegas kepada Ibu.
 
 "Dimas? Benar itu?" tanya Ibu tajam sambil menoleh ke arahnya.
 

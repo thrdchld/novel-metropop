@@ -19,4 +19,4 @@
 1. **Payoff Kalimat Customer Service (Bab 1 -> Bab 28):** LUNAS.
 2. **Payoff Ilustrasi Kursi Kosong & Botol Penyok (Bab 2, 18, 21, 24 -> Bab 29, 30):** LUNAS.
 3. **Payoff Silent Callback Dua Klik Tutup Botol Hitam Saka (Bab 5, 7, 17 -> Bab 31):** LUNAS (tanpa penjelasan narator).
-4. **Payoff Bookend *Post-it* Kuning (Bab 4 -> Bab 32):** LUNAS (*"Bilang enggak memang nggak bikin langit runtuh. Tapi kalau yang ngajak makan malam itu Mas Saka, jawaban saya selalu iya."*).
+4. **Payoff Bookend *Post-it* Kuning (Bab 4, 5, 26 -> Bab 32):** LUNAS (*"Bilang enggak memang nggak bikin langit runtuh. Tapi kalau yang ngajak makan malam itu Mas Saka, jawaban saya selalu iya."*).

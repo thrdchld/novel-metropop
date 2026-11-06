@@ -30,9 +30,9 @@
 
 | Detail Kecil / Kebiasaan / Benda | Ditanam Sambil Lalu di Bab | Dibayar (Callback) di Bab | Makna / Fungsi |
 |---|---|---|---|
-| **Bunyi *Klik* Dua Kali Tutup Botol Minum Hitam Saka** | Bab 5 & Bab 17 | Bab 31 | *Silent Emotional Callback*: Setiap kali Saka berbohong untuk menutupi rasa pedulinya, jempolnya memutar tutup botol minumnya sampai bunyi *klik* dua kali. Di Bab 31 ia mengelak pindah ke Jakarta demi Nadia sambil memutar tutup botolnya dua kali *klik*. |
+| **Bunyi *Klik* Dua Kali Tutup Botol Minum Hitam Saka** | Bab 5, Bab 7, & Bab 17 | Bab 31 | *Silent Emotional Callback*: Setiap kali Saka berbohong untuk menutupi rasa pedulinya, jempolnya memutar tutup botol minumnya sampai bunyi *klik* dua kali. Di Bab 31 ia mengelak pindah ke Jakarta demi Nadia sambil memutar tutup botolnya dua kali *klik*. |
 | **Gaya Bicara "Operator Customer Service"** | Bab 1 | Bab 28 | Ejekan Dimas saat memutuskan Nadia di Bab 1 dipakai balik oleh Nadia secara elegan untuk menolak ajakan balikan Dimas di Bab 28. |
-| **Catatan *Post-it* Kuning di Pojok Monitor** | Bab 4 | Bab 32 | Catatan Saka *"Bilang enggak itu nggak bikin langit runtuh"* di Bab 4 dibalas oleh Nadia di layar laptop Saka pada kalimat penutup Bab 32. |
+| **Catatan *Post-it* Kuning (Riwayat Perpindahan)** | Bab 4, Bab 5, Bab 26, & Bab 32 | Bab 32 | Catatan Saka *"Bilang enggak itu nggak bikin langit runtuh"* ditempel di sampul buku sketsa (Bab 4), dipindah Nadia ke pojok monitor (Bab 5), dilepas dan disimpan ke buku sketsa saat goyah (Bab 26), lalu ditempel kembali ke pojok monitor pada Senin pagi dan dibalas dengan *post-it* baru di punggung laptop Saka pada penutup Bab 32. |
 
 ---
 
@@ -66,7 +66,7 @@
 - **Waktu & Lokasi:** Rabu siang, Warung Tenda Ayam Bakar di belakang kantor Cikini.
 - **Kejadian Inti:** Saat makan siang bersama tim di warung tenda, Riko kembali mengeluarkan jurus "dompet ketinggalan di laci atas" agar Nadia menalangi makan siangnya seperti minggu-minggu sebelumnya. Saka menyenggol siku Nadia di bawah meja dan berbisik menantang Nadia mempraktikkan kata "Enggak" pertamanya hari itu.
 - **Perkembangan Emosi / Hubungan:** Dengan jantung berdebar kencang dan keringat dingin, Nadia berhasil beralasan uang tunainya pas-pasan sehingga Riko terpaksa membayar sendiri pakai QRIS; Nadia merasa bangga luar biasa pada dirinya sendiri.
-- **Detail Kecil / Planting-Callback:** **Tanaman 1A (Tell Saka):** Saka menyodorkan segelas es jeruk ke depan Nadia dan mengaku datar bahwa abang warungnya salah hitung pesanan, padahal Tari melihat Saka sengaja membelinya. Saat berbohong begitu, ibu jari Saka tanpa sadar memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali.
+- **Detail Kecil / Planting-Callback:** **Perpindahan *Post-it* & Tanaman 1A (Tell Saka):** Pagi harinya Nadia melepas *post-it* kuning dari sampul buku sketsa dan menempelkannya di pojok kiri bawah bingkai monitornya. Siangnya di warung, Saka menyodorkan segelas es jeruk ke depan Nadia dan mengaku datar bahwa abang warungnya salah hitung pesanan, padahal Tari melihat Saka sengaja membelinya. Saat berbohong begitu, ibu jari Saka tanpa sadar memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali.
 
 ### Bab 6: Permintaan Mantan di Hari Jumat
 - **Waktu & Lokasi:** Jumat sore, Area Kubikel Desain & Pemasaran.
