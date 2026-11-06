@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Sebuah Kisah Nggak Enakan | `TAMAT` | 32 | 25.745 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
+| `NOV-002` | `PRM-002` | Sebuah Kisah Nggak Enakan | `TAMAT` | 32 | 25.741 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 
 ---
 
