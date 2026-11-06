@@ -6,7 +6,7 @@ Di barisan paling depan, Ibu duduk berdampingan dengan Tari sambil memegang satu
 
 Sementara itu, satu kursi sofa di sebelah kananku yang seharusnya ditempati oleh editor utama buku ini masih kosong sejak acara dimulai lima belas menit lalu.
 
-Kata Pak Ramdan sebelum naik ke panggung tadi, jadwal kereta dari Yogyakarta sempat mengalami keterlambatan sinyal di jalur Cirebon, sehingga Pak Ramdan sendiri yang menggantikan posisi Saka untuk menjelaskan proses penyuntingan naskah.
+Kata Pak Ramdan sebelum naik ke panggung tadi, Saka sebenarnya sudah naik kereta pagi dari Yogyakarta menuju Stasiun Gambir, namun keretanya sempat tertahan antrean sinyal dua puluh menit sebelum masuk Jatinegara. Karena jarak dari Stasiun Gambir ke Cikini hanya sepuluh menit perjalanan, Pak Ramdan memintaku memulai sesi diskusi lebih dulu sambil menunggu Saka menyusul.
 
 "Nah, sekarang kita beralih ke sosok di balik gambar-gambar hangat yang bikin buku Sela Waktu ini terasa hidup sekali," kata Mbak Moderator sambil menoleh ke arahku dengan senyum ramah. "Mbak Nadia, tadi ada beberapa pembaca di bawah yang penasaran waktu membuka halaman paling akhir buku ini. Di halaman ucapan terima kasih ada gambar botol minum kecil yang penyok, lalu di lembar penutup ada gambar dua meja kerja dengan satu kursi kosong. Boleh diceritakan nggak, sebenarnya siapa sih sosok di balik ilustrasi meja kerja itu?"
 

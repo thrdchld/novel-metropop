@@ -24,21 +24,19 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 Saka terdiam menatapku. Udara di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak terasa senyap di telingaku.
 
-Di dalam lubuk hatiku yang paling dalam, sebenarnya ada alasan bodoh kenapa aku mengucapkan kalimat itu di depan wajahnya. Aku ingin melihat apakah wajah datar itu akan goyah. Aku ingin mendengar dia bilang: Jangan balik sama dia, Nad, tunggu saya di sini.
+Di dalam lubuk hatiku yang paling dalam, sebenarnya ada alasan bodoh kenapa aku mengucapkan kalimat itu di depan wajahnya. Aku ingin melihat apakah wajah tenang itu akan goyah. Aku ingin mendengar dia bilang: Jangan balik sama dia, Nad, tunggu saya di sini.
 
 Satu kalimat saja darinya, maka detik ini juga aku akan berbalik badan dan menolak jemputan Dimas.
 
-Namun aku lupa bahwa laki-laki di depanku ini adalah Saka Wijaya. Laki-laki yang pernah dikhianati di masa lalu, yang paling pantang mengemis atau memaksa pilihan orang lain, dan yang harga dirinya terlalu tinggi untuk menahan seseorang yang sudah menyebut nama mantan pacarnya dengan mata berkaca-kaca.
+Namun aku lupa satu hal penting yang pernah diceritakan Saka di warung soto dulu. Saat studionya di Yogyakarta bangkrut, mantan kekasihnya meninggalkannya demi laki-laki pilihan orang tua yang dianggap lebih mapan dan sudah jelas di depan mata. Tanpa kusadari, kalimatku yang membawa-bawa restu Ibu dan hubungan dua tahun bersama Dimas barusan telah menyentuh luka lama yang paling dihindari Saka.
 
-Perlahan, ekspresi di wajah Saka menutup rapat kembali.
-
-Tidak ada kemarahan yang meledak, tidak ada suara yang meninggi. Tatapannya kembali sedatar dan sedingin hari pertama aku melihatnya di tangga darurat sebulan lalu.
+Rahang Saka tampak mengeras. Sorot matanya yang tadinya menatapku penuh tanda tanya perlahan meredup, tertutup rapat oleh tembok pertahanan dirinya sendiri.
 
 "Oh, gitu," kata Saka pendek.
 
 Dadaku langsung terasa mencelos. "Cuma... cuma itu tanggapan Mas Saka?"
 
-"Terus kamu mau saya ngomong apa, Nad?" tanya Saka dingin. "Kalau orang yang udah kenal keluarga kamu dua tahun itu beneran udah berubah, dan Ibu kamu juga senang sama dia, ya sudah. Itu memang pilihan paling masuk akal dan paling aman buat kamu."
+"Terus kamu mau saya ngomong apa, Nad?" tanya Saka dengan suara rendah yang tertahan. "Surat urusan saya di Yogyakarta aja belum turun tanda tangannya minggu ini. Kalau orang yang udah kenal keluarga kamu dua tahun itu beneran udah berubah, dan Ibu kamu sendiri merasa lebih tenang sama dia, saya nggak punya hak buat nahan kamu pakai janji yang belum ada di tangan saya. Itu memang pilihan paling masuk akal buat kamu."
 
 Kalimat itu menghantam ulu hatiku jauh lebih keras daripada tamparan mana pun.
 

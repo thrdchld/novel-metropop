@@ -16,13 +16,13 @@ Aku menurunkan tanganku yang hendak mengetuk pintu, menunggu Pak Ramdan menyeles
 
 Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terasa terpaku di atas karpet lorong.
 
-"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma dua bulan sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugasnya di sini sudah habis. Nanti biar Saka sendiri yang menghadap ke Yogyakarta buat urusan penempatan selanjutnya ya, Pak."
+"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma dua bulan sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugas sementaranya di sini sudah habis. Soal berkas kepegawaian yang dia urus ke HRD barusan, nanti biar Saka sendiri yang pulang menghadap ke Yogyakarta buat minta tanda tangan Pak Bambang ya."
 
 Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan dengan salam hangat.
 
 Aku berdiri diam di depan celah pintu itu. Napasku terasa pendek.
 
-Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku dua bulan. Dan karena kami bekerja lebih cepat dari perkiraan, buku Sela Waktu sudah akan diluncurkan hari Jumat minggu depan, yang artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku dua bulan. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena kami bekerja lebih cepat dari perkiraan, buku Sela Waktu sudah akan diluncurkan hari Jumat minggu depan, yang artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
 Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
 
@@ -30,17 +30,15 @@ Kursi kerja Saka di sebelahku masih kosong karena orangnya belum naik dari lanta
 
 Saat aku duduk di kursiku dan meletakkan map kosong ke atas meja, pandanganku tanpa sengaja tertuju pada tumpukan buku referensi di dekat laptop Saka yang sedang menyala dalam mode istirahat.
 
-Terselip di bawah buku catatan hitam milik Saka, ada sepucuk amplop cokelat panjang resmi yang sebagian ujungnya menyembul keluar. Di sudut kiri atas amplop itu, tercetak jelas logo dan alamat Kantor Pusat Penerbit Aksara Senja Cabang Yogyakarta, lengkap dengan cap bagian kepegawaian tertanggal hari ini.
+Terselip di bawah buku catatan hitam milik Saka, ada sepucuk amplop cokelat panjang resmi yang sebagian ujungnya menyembul keluar. Di sudut kiri atas amplop itu, tercetak jelas logo Kantor Pusat Penerbit Aksara Senja Cabang Yogyakarta, dengan perihal surat yang separuh tertutup buku: Verifikasi Masa Tugas dan Pelepasan Pegawai.
 
 Jantungku rasanya mencelos jatuh ke dasar perut.
 
 Tanpa sadar, tangan kananku meraih pensil gambar dari dalam tempat pensil, lalu mengangkat ujung karet penghapusnya yang sudah lama tidak kugigit ke dekat bibirku.
 
-Kenyataan yang sejak hari Rabu kutepis mati-matian kini terhampar tepat di depan mataku. Selama empat minggu terakhir ini, akulah yang terlalu cepat melambung tinggi. Hanya karena Saka membelikanku es jeruk, memberiku cokelat waktu tanganku gemetar, memayungiku sepanjang jalan Cikini, dan memerah telinganya waktu kugoda soal tutup botol minum, aku langsung berasumsi bahwa dia ingin tinggal di sisiku.
+Hanya karena Saka membelikanku es jeruk, memberiku cokelat waktu tanganku gemetar, dan memayungiku sepanjang jalan Cikini, aku sudah terlalu cepat melambung tinggi. Padahal dari awal sampai hari ini, Saka tidak pernah sekali pun mengucapkan kata suka atau mengajakku membicarakan hubungan di luar meja nomor empat.
 
-Padahal dari awal sampai hari ini, Saka tidak pernah sekali pun mengucapkan kata suka atau mengajakku membicarakan hubungan di luar meja nomor empat.
-
-Jangan-jangan, bagi laki-laki yang paling taat aturan jam kerja itu, semua perhatian kecilnya selama ini hanyalah bentuk tanggung jawab seorang editor proyek agar ilustratornya tidak mogok kerja sebelum bukunya terbit? Dan begitu jam lima sore di hari terakhir proyek nanti tiba, dia akan menutup laptopnya, kembali menjadi warga sipil Yogyakarta, lalu pulang ke kotanya tanpa menoleh lagi.
+Jangan-jangan, bagi laki-laki yang paling taat aturan jam kerja itu, semua perhatian kecilnya selama ini hanyalah bentuk tanggung jawab seorang editor proyek agar ilustratornya tidak mogok kerja sebelum bukunya terbit? Dan begitu jam lima sore di hari terakhir proyek nanti tiba, dia akan menutup laptopnya, lalu pulang ke kotanya tanpa menoleh lagi.
 
 Suara langkah kaki yang tenang terdengar mendekat dari arah pintu kaca lobi lantai tiga.
 

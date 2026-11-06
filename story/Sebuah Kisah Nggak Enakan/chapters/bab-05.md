@@ -4,7 +4,7 @@ Kertas post-it kuning dari Saka sekarang menempel rapi di pojok kiri bawah bingk
 
 Sepanjang Rabu pagi, setiap kali Mbak Dinda lewat di belakang mejaku sambil melirik sinis karena kejadian flash disk kemarin sore, aku langsung menatap tulisan tangan Saka di kertas kuning itu. Anehnya, kalimat pendek itu lumayan ampuh mencegah mulutku minta maaf atas kesalahan yang memang bukan salahku.
 
-Jam dua belas siang tepat, Tari mengajakku makan siang di warung tenda ayam bakar langganan di gang belakang gedung kantor. Karena kami sedang berdiskusi soal tata letak bab dua, Saka ikut berjalan bersama kami sambil menenteng botol minum hitam penyoknya.
+Jam dua belas siang tepat, Tari mengajakku makan siang di warung tenda ayam bakar langganan di gang belakang gedung kantor. Sepanjang jalan turun tangga, sahabatku itu sibuk mengomel soal cowok kenalan dari aplikasi kencan yang semalam mengajaknya ketemuan di kafe mahal, tapi pas bayar malah minta patungan sampai ke uang parkir dua ribu perak. Karena aku dan Saka tadi sedang tanggung berdiskusi soal tata letak bab dua, Saka ikut berjalan di belakang kami sambil menyimak ocehan Tari tanpa komentar.
 
 Di bawah tenda terpal biru yang agak pengap oleh kepulan asap arang dan kipas angin dinding yang berputar malas, kami duduk satu meja panjang dengan Riko dan dua staf redaksi lainnya. Di atas meja kayu berlapis taplak plastik motif kotak-kotak itu, hanya ada satu botol kecap manis yang ujungnya lengket, dan sahabat karibnya, satu stoples sambal terasi.
 
@@ -58,7 +58,7 @@ Aku menoleh ke samping. Saka sedang melihat ke arah jalanan gang sambil memegang
 
 Tari yang duduk di seberang menyipitkan mata menatap Saka. "Perasaan tadi pas gue lewat depan gerobak minuman, Mas Saka sendiri deh yang minta abangnya tambah es jeruk satu gelas nggak pakai gula banyak."
 
-"Kamu salah dengar," elak Saka lempeng. Wajahnya sama sekali tidak berubah, tetap tenang seperti permukaan kolam semen. Namun mataku tanpa sengaja menangkap gerakan ibu jari tangan kanannya yang sedang memegang botol minum hitam penyok itu.
+"Kamu salah dengar," elak Saka lempeng. Namun mataku tanpa sengaja menangkap gerakan ibu jari tangan kanannya yang sedang memegang botol minum hitam penyok itu.
 
 Tanpa sadar, ibu jari Saka memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya lagi sampai terdengar bunyi klik dua kali.
 

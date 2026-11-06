@@ -1,6 +1,6 @@
 ## Bab 32: Catatan Post-it Terakhir
 
-Seminggu setelah acara peluncuran buku Sela Waktu yang cetakan pertamanya langsung ludes di lima toko buku Jakarta, pemandangan di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
+Seminggu setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, pemandangan di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
 
 Atau setidaknya, hampir normal.
 
@@ -26,7 +26,7 @@ Aku lalu menoleh ke arah Riko yang masih memegang bundelan kertas di belakang Mb
 
 "Dan Bang Riko, kalau mau nitip koreksi infografis, langsung masukkan ke keranjang antrean meja redaksi besok pagi ya. Sekalian jangan lupa uang ayam bakar yang sembilan puluh ribu dari bulan lalu ditransfer ke nomor m-banking aku malam ini."
 
-Riko langsung tersedak ludahnya sendiri, sementara Mbak Dinda mengerjap dua kali sebelum akhirnya menarik kembali map hijaunya tanpa bisa mendebat apa-apa lagi.
+Riko langsung tersedak ludahnya sendiri, sementara Mbak Dinda tertegun dua detik sebelum akhirnya menarik kembali map hijaunya tanpa bisa mendebat apa-apa lagi.
 
 "Oke deh, besok pagi aja kalau gitu," gumam Mbak Dinda sambil buru-buru berbalik pergi diikuti Riko yang langsung kabur ke mejanya.
 

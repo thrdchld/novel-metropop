@@ -14,7 +14,7 @@ Namun dia belum langsung berbalik pergi. Tangan kanannya terulur menyodorkan kan
 
 "Sekalian bawa masuk ini," kata Saka datar.
 
-Aku mengerjap, menatap bungkusan itu lalu menatap wajahnya. "Loh, bukannya Mas Saka tadi berhenti di gerobak depan karena mau cari makan malam buat sendiri?"
+Aku menatap bungkusan itu lalu menatap wajahnya dengan kening berkerut. "Loh, bukannya Mas Saka tadi berhenti di gerobak depan karena mau cari makan malam buat sendiri?"
 
 "Tadi niatnya cuma mau beli martabak telur satu buat makan di kereta," kata Saka dengan wajah lempeng tanpa dosa. "Tahunya kata abangnya lagi ada promo malam Jumat, beli martabak telur gratis martabak manis cokelat keju satu loyang. Saya kan udah bilang minggu lalu kalau saya nggak suka makanan manis. Daripada dibuang di stasiun, kamu aja yang habisin."
 
@@ -48,7 +48,7 @@ Hening.
 
 Suara jangkrik dari pot tanaman ibu kos di pojok teras terdengar mengisi jeda di antara kami.
 
-Untuk pertama kalinya sejak aku mengenal Mesin Pemotong Basa-Basi dari cabang Yogyakarta ini, wajah datar yang biasanya setenang tembok semen itu berubah warna. Di bawah sinar lampu teras yang kekuningan, rona kemerahan merambat naik dengan jelas dari leher sampai ke kedua daun telinga Saka.
+Untuk pertama kalinya sejak aku mengenal editor pindahan dari cabang Yogyakarta ini, wajah datar yang biasanya dingin dan tak tergoyahkan itu berubah warna. Di bawah sinar lampu teras yang kekuningan, rona kemerahan merambat naik dengan jelas dari leher sampai ke kedua daun telinga Saka.
 
 Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya seolah botol itu baru saja nyetrum jarinya.
 

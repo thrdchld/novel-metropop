@@ -56,7 +56,7 @@ Saka masih diam menatap gambar itu selama lima detik yang rasanya seperti lima a
 
 "Kurang penyok dikit bagian kiri bawahnya," kata Saka. Dia menunjuk garis lengkung di bagian dasar botol gambaranku dengan ujung telunjuknya. "Aslinya penyoknya agak miring ke dalam gara-gara kebentur besi peron. Terus alis saya perasaan nggak setebal ulat bulu kayak gini."
 
-Aku mengerjap, menatap wajahnya dengan mulut sedikit terbuka. "Mas Saka nggak marah?"
+Aku menatap wajahnya dengan mulut sedikit terbuka. "Mas Saka nggak marah?"
 
 Saka mendongak dari buku sketsaku. Untuk pertama kalinya sejak kami bertemu di tangga darurat Senin malam lalu, garis kaku di sekitar wajah datarnya melunak. Sudut bibir kanannya terangkat tipis sekali, nyaris cuma dua milimeter, tapi cukup jelas untuk disebut sebagai sebuah senyuman.
 

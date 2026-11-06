@@ -32,11 +32,11 @@ Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Semalam dia uda
 
 Aku terdiam. Pertanyaan Tari itu menembak tepat ke titik yang sejak semalam kusembunyikan rapat-rapat dari diriku sendiri.
 
-"Mas Saka sendiri kok yang kemarin sore bilang di lobi kalau balik sama Dimas itu pilihan paling masuk akal buat gue," kataku akhirnya, suaranya terdengar getir karena gengsi yang terluka. "Lagian kata Ibu juga bener, Tar. Buat apa gue ngarepin orang yang cuma numpang lewat dua bulan di Jakarta? Sama Mas Dimas semuanya udah jelas, keluarga gue udah kenal."
+"Mas Saka sendiri kok yang kemarin sore bilang di lobi kalau balik sama Dimas itu pilihan paling masuk akal buat gue," kataku akhirnya, suaranya terdengar getir karena gengsi yang terluka. "Lagian kata Ibu juga bener, Tar. Buat apa gue ngarepin orang yang belum jelas bakal balik lagi ke Jakarta atau enggak?"
 
-Tari menaruh dagunya di atas sandaran kursi, menatapku dengan pandangan prihatin.
+Tari menghela napas panjang sambil menopang dagunya di atas sandaran kursi.
 
-"Nad, orang yang baru berubah manis selama tiga hari itu belum tentu beneran tobat, bisa aja cuma lagi kehilangan pelayan gratisnya," kata Tari pelan sebelum berdiri dari kursinya. "Jangan sampai lo balik jadi operator customer service lagi cuma gara-gara takut sendirian."
+"Nad, gue pernah ketipu mantan yang persis kayak si Dimas waktu zaman kuliah dulu. Manisnya cuma tiga hari pas lagi butuh tumpangan motor gue doang, hari keempat kumat lagi penyakit rajanya," kata Tari pelan sebelum berdiri dari kursinya. "Orang yang baru berubah manis tiga hari itu belum tentu beneran tobat, bisa aja cuma lagi kehilangan pelayan gratisnya. Jangan sampai lo balik jadi operator customer service lagi cuma gara-gara takut sendirian."
 
 Sepeninggal Tari yang turun mencari makan siang, aku duduk sendirian di meja nomor empat yang sepi.
 

@@ -8,7 +8,7 @@ Pemandangan hari itu agak bikin aku pangling. Selama seminggu di kantor, aku sel
 
 Saka melirik jam tangannya sekilas. "Enggak. Kamu datang lima menit sebelum jam sebelas. Berarti tepat waktu, nggak perlu minta maaf."
 
-Aku mengerjap, lalu tersenyum kecut. Benar juga. Kebiasaan minta maaf bahkan waktu tidak melakukan kesalahan apa-apa memang sudah mendarah daging di tubuhku.
+Aku tertegun sejenak, lalu tersenyum kecut. Benar juga. Kebiasaan minta maaf bahkan waktu tidak melakukan kesalahan apa-apa memang sudah mendarah daging di tubuhku.
 
 Kami mulai berjalan menyusuri trotoar kawasan Kwitang menuju deretan kios buku bekas yang berjejer di pinggir jalan. Matahari Jakarta Pusat siang itu sedang terik-teriknya, memantul dari kaca-kaca mobil yang merayap padat di jalan raya sebelah kami.
 

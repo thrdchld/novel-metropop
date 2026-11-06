@@ -32,7 +32,7 @@ Ruangan rapat langsung hening. Beberapa staf redaksi manggut-manggut memperhatik
 
 Saka menoleh menatap Dimas yang duduk kaku di seberang meja.
 
-"Data ini saya unduh dari folder laporan bulanan divisi pemasaran yang kamu tanda tangani sendiri minggu lalu, Dimas," lanjut Saka tanpa ekspresi menyindir, murni menyampaikan fakta. "Jadi kalau kamu bilang gaya arsiran tangan Nadia ini kurang menjual, berarti kamu belum membaca laporan divisimu sendiri."
+"Data ini saya unduh dari bundel laporan evaluasi triwulan yang dibagikan Pak Ramdan ke seluruh editor proyek minggu lalu, lengkap dengan tanda tangan kamu di halaman terakhir, Dimas," lanjut Saka tanpa ekspresi menyindir, murni menyampaikan fakta. "Jadi kalau kamu bilang gaya arsiran tangan Nadia ini kurang menjual, berarti kamu belum membaca laporan evaluasi divisimu sendiri."
 
 Wajah Dimas langsung berubah semerah tomat rebus. Bolpoin yang tadi dipegangnya untuk menunjuk-nunjuk layar kini diturunkan pelan-pelan ke atas meja.
 
@@ -48,4 +48,4 @@ Saat rapat selesai dan orang-orang mulai berdiri meninggalkan ruangan, aku menol
 
 "Sejak jam dua siang waktu dia mampir ke meja kita buat nyindir warna sampulmu," jawab Saka datar sambil memasukkan laptop ke dalam tasnya. "Orang yang suka ngomong besar tanpa dasar itu paling gampang dibungkam pakai tanda tangannya sendiri. Udah, ayo balik ke meja."
 
-Aku menatap punggung kemeja flanelnya yang berjalan lebih dulu keluar pintu ruang rapat. Tanpa sadar, senyum hangat mengembang di wajahku. Untuk pertama kalinya selama bekerja di gedung ini, aku merasa karyaku benar-benar dihargai dan dijaga oleh seseorang yang tidak pernah butuh menaikkan suara untuk membela kebenaran.
+Aku menatap punggung kemeja flanelnya yang berjalan lebih dulu keluar pintu ruang rapat, lalu buru-buru merapikan buku catatanku dan melangkah menyusulnya dengan senyum yang sulit kutahan.

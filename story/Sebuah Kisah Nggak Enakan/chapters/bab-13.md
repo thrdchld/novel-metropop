@@ -34,19 +34,23 @@ Tidak ada suara dari seberang selama hampir sepuluh detik.
 
 Aku menahan napas, bersiap mendengar Ibu marah atau menyebutku anak yang pelit dan hitung-hitungan.
 
-Namun yang terdengar justru embusan napas panjang Ibu yang jauh lebih pelan dari dugaanku.
+Namun yang terdengar adalah suara Mbak Raras di latar belakang yang menyahut ketus, "Tuh kan, Bu, Raras bilang juga apa. Baru pegang proyek buku satu aja sekarang udah hitung-hitungan sama saudara sendiri!"
 
-"Alat gambar kamu yang lama beneran udah rusak parah ya, Nad?" tanya Ibu akhirnya, nadanya tidak lagi menekan seperti tadi.
+Dadaku langsung terasa perih mendengar sindiran kakakku itu. Aku hampir saja goyah dan meralat ucapanku, namun aku menggigit bibirku kuat-kuat agar tetap diam.
 
-"Iya, Bu. Udah dililit lakban dari dua bulan lalu," jawabku, tenggorokanku mulai terasa hangat dan perih.
+Di seberang telepon, Ibu mengembuskan napas panjang. Nada suaranya terdengar kaku dan agak kecewa karena tidak terbiasa ditolak olehku.
 
-"Ya udah kalau gitu," kata Ibu pelan. "Ibu kan nggak ngerti urusan komputer gambar kamu. Kirain masih bagus. Ya udah, uangnya kamu pakai beli alat kerja dulu aja. Biar nanti Mbakmu cari hotel yang lebih dekat di Bandung atau Puncak aja sesuai uang yang ada. Makasih ya udah mau ngasih uang jajan buat Daffa."
+"Alat gambar kamu yang lama beneran udah rusak parah ya, Nad?" tanya Ibu akhirnya.
 
-"Makasih ya, Bu, udah ngertiin aku," bisikku dengan suara bergetar.
+"Iya, Bu. Udah dililit lakban dari dua bulan lalu," jawabku dengan suara bergetar menahan tangis.
 
-Begitu sambungan telepon terputus, aku meletakkan ponselku ke atas kasur, lalu menutup wajahku dengan kedua telapak tangan.
+"Ya udah kalau memang uang kamu nggak bisa dipinjam kakakmu," kata Ibu datar. "Ibu juga nggak mau maksa kalau memang buat beli alat kerja. Biar nanti Mbakmu cari penginapan yang lebih dekat di Puncak aja sesuai uang yang ada. Uang lima ratus ribu buat jajan Daffa tadi terserah kamu mau transfer kapan."
 
-Air mataku menetes hangat di sela-sela jari. Bukan tangis sedih karena dimarahi, melainkan rasa lega luar biasa yang belum pernah kurasakan selama dua puluh enam tahun hidupku. Ternyata Saka benar sekali. Ibu bukannya tidak sayang padaku; selama ini akulah yang tidak pernah berani bicara jujur bahwa aku juga punya kebutuhan yang tidak bisa dikorbankan.
+"Makasih ya, Bu... maaf Nadia belum bisa bantu banyak," bisikku lirih sebelum Ibu menutup telepon lebih dulu.
+
+Begitu sambungan terputus, aku meletakkan ponselku ke atas kasur, lalu menutup wajahku dengan kedua telapak tangan.
+
+Air mataku langsung tumpah di sela-sela jari. Jujur, rasanya tetap sakit dan tidak nyaman mendengar nada dingin Ibu serta sindiran Mbak Raras barusan. Ternyata menjaga batasan diri di depan keluarga sendiri itu tidak langsung disambut pelukan hangat seperti di iklan televisi. Ada rasa bersalah yang masih menyengat di ulu hatiku. Namun di balik rasa perih itu, untuk pertama kalinya dalam dua puluh enam tahun hidupku, aku merasa bisa bernapas lega karena tidak lagi mengorbankan diriku sendiri.
 
 Setelah menyeka pipiku dengan punggung tangan dan mentransfer uang jajan lima ratus ribu untuk keponakanku, aku membuka ruang obrolan WhatsApp dengan nomor Saka yang selama ini hanya berisi kiriman file naskah kerjaan.
 

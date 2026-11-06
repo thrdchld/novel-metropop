@@ -10,25 +10,27 @@ Begitu masuk ke kamar Ibu yang lampunya diredupkan, aku mendapati Ibu sedang ber
 
 "Bu, kita ke klinik depan jalan raya sekarang ya? Biar disuntik obat pusingnya," bujukku sambil menggenggam tangan Ibu yang agak dingin.
 
-"Kepala Ibu rasanya muter banget kalau dipakai duduk, Nad," keluh Ibu lirih. "Naik ojek motor nggak bakal kuat Ibu, kalau pesan taksi juga suka lama masuk ke gang sini."
+"Kepala Ibu rasanya muter banget kalau dipakai duduk, Nad," keluh Ibu lirih. "Tadi jam setengah tujuh pagi Ibu telepon ke nomor kamu tiga kali nggak diangkat-angkat. Karena Ibu panik dan kebetulan semalam Dimas baru aja kirim pesan nanyain kabar Ibu, jadi Ibu sempat telepon ke nomor Dimas nanyain kamu lagi di mana. Habis itu Ibu minta tolong Bu RT buat hubungin kamu lagi."
 
-Aku baru saja hendak membuka ponsel untuk memesan taksi online ketika terdengar suara ketukan sopan dari pintu ruang tamu yang masih terbuka, diikuti suara deru mesin mobil yang baru dimatikan di depan pagar.
+Aku tertegun. Pantas saja ada tiga panggilan tak terjawab dari nomor rumah saat ponselku masih dalam mode senyap di kamar kos tadi pagi. Karena selama tiga minggu ini aku belum tega memberi tahu Ibu bahwa aku sudah putus dari Dimas, Ibu tentu saja masih menganggap Dimas tempat pertama yang bisa dihubungi saat darurat.
+
+Belum sempat aku menjawab ucapan Ibu, terdengar suara ketukan sopan dari pintu ruang tamu yang masih terbuka, diikuti suara deru mesin mobil yang baru dimatikan di depan pagar.
 
 "Assalamualaikum, Bu... Nad?"
 
-Aku tertegun, lalu keluar dari kamar Ibu menuju ruang tamu.
+Aku keluar dari kamar Ibu menuju ruang tamu.
 
 Di ambang pintu depan, Dimas berdiri memakai kaus berkerah rapi sambil menenteng dua kantong plastik berisi bubur ayam hangat dan buah apel merah.
 
-"Mas Dimas? Kok bisa ada di sini?" tanyaku kaget.
+"Mas Dimas?" sapaku agak canggung.
 
-"Tadi pagi sebenarnya aku niat mau nganterin bibit tanaman yang dulu pernah kujanjiin ke Ibu kamu," jawab Dimas dengan suara rendah dan sopan. Matanya langsung menangkap raut wajahku yang panik. "Kamu kenapa, Nad? Kok mukanya pucat gitu? Ibu mana?"
+"Tadi pagi waktu Ibu kamu telepon sambil nahan pusing, aku langsung pinjam mobil ayahku buat ke sini," jelas Dimas dengan suara rendah dan sopan. Matanya langsung menangkap raut wajahku yang panik. "Gimana keadaan Ibu sekarang, Nad? Udah minum obat?"
 
-"Vertigo Ibu kambuh dari subuh tadi," kataku cepat, tidak sempat lagi memikirkan gengsi atau kecanggungan di antara kami. "Ini aku lagi mau bawa Ibu ke klinik depan, tapi Ibu nggak kuat kalau kena guncangan parah."
+"Vertigo Ibu kambuh lumayan berat dari subuh tadi," kataku cepat, tidak sempat lagi memikirkan gengsi atau kecanggungan di antara kami. "Ini aku lagi mau bawa Ibu ke klinik depan, tapi Ibu nggak kuat kalau kena guncangan parah."
 
 Wajah Dimas langsung berubah cemas. Tanpa menunggu diminta, dia segera meletakkan bungkusan bubur dan buah itu ke atas meja makan.
 
-"Kebetulan aku bawa mobil ayahku hari ini, Nad," kata Dimas sigap. "Kursi belakangnya lega, Ibu bisa sambil rebahan di jok belakang. Ayo aku bantu papah Ibu ke mobil sekarang."
+"Kebetulan aku bawa mobil ayahku di depan, Nad," kata Dimas sigap. "Kursi belakangnya lega, Ibu bisa sambil rebahan di jok belakang. Ayo aku bantu papah Ibu ke mobil sekarang."
 
 Dalam situasi darurat begitu, aku tidak mungkin menolak.
 

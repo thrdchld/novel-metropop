@@ -22,27 +22,27 @@ Namun Dimas tidak mengambil air untuk cangkirnya sendiri. Dia justru mengambil k
 
 Dimas menunduk, menatap ubin dapur di antara sepatu kami. Kedua bahunya tampak turun.
 
-"Aku nggak mau minta bantuan kerjaan kok, Nad," ucap Dimas dengan suara yang terdengar serak. Ketika dia mendongak menatapku, matanya tampak memerah dan berkaca-kaca. "Aku ke sini cuma mau minta maaf sama kamu."
+"Aku nggak mau minta bantuan kerjaan kok, Nad," ucap Dimas dengan suara yang terdengar serak. Ketika dia mendongak menatapku, matanya tampak memerah dan sayu. "Aku ke sini cuma mau minta maaf sama kamu."
 
-Aku mengerjap, agak kaget melihat perubahan sikapnya yang mendadak seratus delapan puluh derajat itu.
+Aku terdiam di tempatku, agak kaget melihat perubahan sikapnya yang mendadak seratus delapan puluh derajat itu.
 
-"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran malam itu, terus waktu aku nyuruh-nyuruh kamu di depan Vanya, sampai di ruang rapat minggu lalu... aku bener-bener bodoh. Dua tahun kamu sabar banget ngadepin sifat egoisku, tapi aku malah nganggap kebaikan kamu itu hal yang remeh."
+"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran malam itu, terus waktu aku nyuruh-nyuruh kamu di depan Vanya, sampai di ruang rapat minggu lalu... aku bener-bener bodoh. Baru setelah jalan sama Vanya kemarin, aku ngerasain sendiri gimana capeknya ngadepin orang yang maunya menang sendiri. Dua tahun kamu sabar banget ngurusin aku, bikinin aku teh kalau lagi lembur, dengerin keluhanku, tapi aku malah nganggap semua perhatian kamu itu hal yang remeh."
 
 Aku tetap diam bersandar di tepi meja kabinet dapur, menjaga jarak aman. "Semua itu udah lewat, Mas. Aku juga udah maafin kok, jadi kita biasa aja sebagai rekan kerja."
 
-"Aku tahu aku nggak berhak minta kamu langsung percaya," kata Dimas, nadanya terdengar begitu menyesal dan rapuh. "Seminggu ini setelah jauh dari kamu, aku baru sadar nggak ada orang yang setulus kamu, Nad. Aku kangen ngobrol sama kamu, kangen nganterin kamu ke rumah Ibu di Rawamangun."
+"Aku tahu aku nggak berhak minta kamu langsung percaya," kata Dimas, nadanya terdengar begitu kehilangan dan rapuh, seperti anak kecil yang baru sadar rumahnya sudah terkunci. "Seminggu ini setelah Vanya ninggalin aku dan aku bener-bener sendirian di kos, aku baru sadar nggak ada orang yang setulus kamu, Nad. Aku kangen ngobrol sama kamu, kangen makan malam berdua habis pulang kantor, kangen nganterin kamu ke rumah Ibu di Rawamangun."
 
 "Mas Dimas, hubungan kita udah selesai," potongku tegas, meski harus kuakui melihat seseorang yang pernah bersamaku selama dua tahun menunduk serapuh itu membuat sudut hatiku sedikit melunak.
 
-Dimas mengangguk pelan, tersenyum pahit seolah menerima penolakanku dengan lapang dada. Dia tidak mendesak atau marah seperti di ruang rapat dulu.
+Dimas mengangguk pelan, tersenyum pahit seolah menerima penolakanku. Namun saat matanya melirik ke arah ruang tengah tempat mejaku dan meja Saka berada, raut wajahnya tampak sedikit menegang karena cemburu yang berusaha ditahannya.
 
-Namun tepat sebelum dia berbalik menuju pintu dapur, langkahnya berhenti. Dia menoleh kembali menatapku dengan pandangan prihatin yang tampak sangat tulus.
+Tepat sebelum dia berbalik menuju pintu dapur, langkahnya berhenti. Dia menoleh kembali menatapku dengan pandangan cemas yang bercampur getir.
 
-"Aku nggak akan maksa kamu sekarang, Nad," kata Dimas lembut. "Cuma... sebagai orang yang udah kenal kamu dua tahun dan sayang sama keluarga kamu, aku boleh ngomong satu hal nggak?"
+"Aku nggak akan maksa kamu sekarang, Nad," kata Dimas pelan. "Cuma... sebagai orang yang udah kenal kamu dua tahun dan tahu gimana gampang terlukanya kamu, aku boleh ngomong satu hal nggak?"
 
 "Apa?"
 
-"Soal Mas Saka," ucap Dimas pelan, nyaris berbisik. "Aku bukannya mau ikut campur urusan kamu sama dia. Aku lihat sendiri kalian dekat banget sebulan ini. Tapi kamu udah tahu kan kalau surat penugasan Mas Saka dari kantor pusat Jogja itu cuma dua bulan?"
+"Soal Mas Saka," ucap Dimas lirih. "Aku bukannya mau ikut campur karena aku cemburu lihat kalian dekat sebulan ini. Tapi kamu udah tahu kan kalau surat penugasan Mas Saka dari kantor pusat Jogja itu cuma dua bulan?"
 
 Dadaku mendadak terasa agak menyempit. Tanganku yang memegang gagang cangkir teh mengerat sedikit.
 

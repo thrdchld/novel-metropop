@@ -12,11 +12,11 @@ Di sebelahku, Tari menyenggol lenganku sambil menyelundupkan sebutir makaroni pe
 
 "Masa sih?" bisikku balik, makin ciut.
 
-"Dan untuk ilustrator pendamping Sela Waktu," lanjut Pak Ramdan sambil melirik catatannya, "saya sudah putuskan Nadia yang pegang. Mulai hari ini selama dua bulan ke depan, Nadia pindah duduk semeja sama Saka di meja proyek nomor empat biar koordinasi sketsa dan naskahnya cepat."
+"Karena Mas Bagas yang tadinya pegang ilustrasi Sela Waktu semalam masuk rumah sakit kena demam berdarah, saya sudah putuskan Nadia yang ambil alih," lanjut Pak Ramdan sambil melirik catatannya. "Buku ini punya empat puluh ilustrasi halaman penuh yang tata letaknya harus dikerjakan bareng naskah baris demi baris. Jadi mulai hari ini selama dua bulan ke depan, Nadia pindah duduk semeja sama Saka di meja proyek nomor empat yang ada monitor kalibrasi warnanya biar koordinasinya cepat."
 
 Aku hampir tersedak ludahku sendiri.
 
-Spontan aku mendongak. Di depan papan tulis, pandangan Saka langsung bertemu dengan mataku. Wajahnya tetap lempeng seperti kanebo kering, sama sekali tidak menunjukkan ekspresi kaget, senang, atau keberatan. Dia cuma mengangguk sekali ke arah Pak Ramdan.
+Spontan aku mendongak. Di depan papan tulis, pandangan Saka langsung bertemu dengan mataku. Wajahnya tetap tenang tanpa riak, sama sekali tidak menunjukkan ekspresi kaget, senang, atau keberatan. Dia cuma mengangguk sekali ke arah Pak Ramdan.
 
 "Baik, Pak. Siang ini saya langsung cek draf sketsa awalnya," kata Saka singkat.
 
@@ -56,7 +56,7 @@ Saka berhenti mengetik. Dia menoleh penuh ke arahku, menatap tumpukan map itu, l
 
 "Gaji kamu di kantor ini dibayar empat kali lipat?" tanyanya datar.
 
-Aku mengerjap bingung. "Enggak lah, Mas. Gaji standar."
+"Enggak lah, Mas. Gaji standar," jawabku bingung.
 
 "Terus kenapa meja kamu kayak loket penampungan barang hilang?" Saka menunjuk map kuning di paling bawah tumpukan. "Singkirkan yang tiga itu dari meja ini. Selama dua bulan ke depan, di meja nomor empat cuma boleh ada kerjaan kita."
 

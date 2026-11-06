@@ -22,23 +22,21 @@ Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 
 Saka terdiam selama tiga detik.
 
-Ada kerutan tipis yang muncul di antara kedua alisnya, seolah dia sedang menimbang sesuatu yang belum pasti di dalam kepalanya. Tangan kanannya menyentuh ritsleting tas tempat amplop HRD tadi berada, namun dia tidak membukanya.
+Ada kerutan tipis yang muncul di antara kedua alisnya, seolah dia sedang menimbang sesuatu yang belum berani diucapkannya. Tangan kanannya menyentuh ritsleting tas tempat amplop HRD tadi berada, namun jarinya berhenti di sana. Aku teringat ceritanya di warung soto dulu: sejak ditinggal mantannya di Yogyakarta saat studionya bangkrut, Saka paling pantang mengumbar janji kepada perempuan sebelum ada kepastian resmi yang benar-benar sudah beres di tangannya.
 
-"Surat tugas perbantuan saya di Jakarta memang habis akhir minggu depan, Nad," jawab Saka akhirnya. Nada suaranya datar dan realistis seperti biasa. "Jadi minggu depan saya memang harus balik ke Yogyakarta dulu buat menghadap kantor pusat dan membereskan urusan saya di sana."
+Namun karena aku sudah telanjur yakin bahwa amplop di dalam tasnya itu adalah surat kepulangan, sikap diamnya justru terdengar seperti pembenaran yang menyakitkan di telingaku.
 
-Tidak ada kalimat tambahan. Tidak ada penjelasan bahwa dia akan kembali lagi ke Jakarta, tidak ada juga pertanyaan tentang bagaimana denganku.
+"Surat tugas perbantuan saya di Jakarta memang habis akhir minggu depan, Nad," jawab Saka akhirnya. Nada suaranya hati-hati dan terukur. "Jadi minggu depan saya memang harus balik ke Yogyakarta dulu buat menghadap Pak Bambang dan membereskan urusan surat saya di sana. Nanti kalau tanda tangannya sudah turun, baru saya bisa cerita jelas ke kamu."
 
-Padahal di dalam hati kecilku yang bodoh ini, aku sempat berharap dia akan tersenyum tipis lalu bilang bahwa kabar kepulangannya itu cuma gosip kantor yang salah.
+Bagi telingaku yang sedang dikuasai rasa takut, kalimat itu terdengar seperti pamitan halus seorang perantau yang hendak kembali ke kampung halamannya.
 
-Namun kalimat lugas Saka barusan rasanya seperti ember berisi air es yang disiramkan tepat ke atas kepalaku.
+Apalagi penyakit nggak enakanku langsung ikut berbisik di kepalaku: memangnya aku ini siapanya Saka sampai berhak menuntut penjelasan atau menahannya tetap tinggal di Jakarta? Status kami saja tidak pernah jelas, dan aku paling takut menjadi beban yang menghalangi seseorang pulang ke rumahnya sendiri.
 
-Jadi benar kata Dimas di dapur hari Rabu kemarin. Dan benar kata telepon Pak Ramdan tadi siang. Bagi seorang Saka Wijaya yang hidupnya serba teratur mengikuti jam kerja dan surat tugas, empat minggu yang manis di meja nomor empat ini memang ada tanggal kedaluwarsanya. Begitu proyek selesai, dia pulang ke Jogja, dan aku tinggal sendirian di Cikini.
-
-Rasa malu dan sakit hati langsung menyergap dadaku secara bersamaan. Malu karena selama seminggu terakhir ini aku sudah kegeeran tingkat dewa gara-gara sebungkus cokelat dan sekotak martabak manis, sampai-sampai berani menggambar botol minumnya di halaman buku.
+Rasa malu dan takut ditinggalkan langsung menyergap dadaku secara bersamaan. Malu karena selama seminggu terakhir ini aku sudah melambung terlalu jauh gara-gara sebungkus cokelat dan sekotak martabak manis, sampai-sampai berani menggambar botol minumnya di halaman buku.
 
 "Nad?" panggil Saka waktu melihatku hanya duduk mematung menatap tempat pensil. "Kamu mau pulang sekarang? Ayo turun bareng ke stasiun."
 
-Untuk melindungi harga diriku yang rasanya sudah remuk di lantai, tembok pertahanan lamaku langsung berdiri otomatis. Aku menarik punggungku tegak lurus di kursi dan memasang senyum paling kaku yang kupunya.
+Untuk melindungi harga diriku sekaligus supaya aku tidak terlihat seperti perempuan cengeng yang memberatkan langkah kepulangannya, tembok pertahanan lamaku langsung berdiri otomatis. Aku menarik punggungku tegak lurus di kursi dan memasang senyum paling kaku yang kupunya.
 
 "Tidak usah, terima kasih banyak, Mas Saka," kataku dengan kalimat yang mendadak sangat baku dan resmi. "Saya masih ada beberapa berkas pribadi di komputer yang perlu saya rapikan sore ini. Silakan Mas Saka pulang terlebih dahulu."
 

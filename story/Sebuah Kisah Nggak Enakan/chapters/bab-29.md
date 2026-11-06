@@ -20,7 +20,7 @@ Suara Riko yang baru keluar dari dapur kantor sambil membawa cangkir kopi membua
 
 "Pagi, Bang Riko," sapaku sementara tanganku masih memegang gelas kopi hitam yang kubeli untuk Saka. "Mas Saka... belum datang ya? Kok mejanya bersih banget?"
 
-Riko mengerjap heran menatapku, lalu menunjuk meja kosong itu dengan dagunya. "Lah, lo belum dikasih tahu? Mas Saka kan kemarin sore jam setengah enam udah pamitan sama Pak Ramdan buat berangkat ke Jogja lebih awal."
+Riko menatapku heran, lalu menunjuk meja kosong itu dengan dagunya. "Lah, lo belum dikasih tahu? Mas Saka kan kemarin sore jam setengah enam udah pamitan sama Pak Ramdan buat berangkat ke Jogja lebih awal."
 
 Tanganku yang memegang gelas kertas kopi hitam itu langsung melemas, hampir saja menjatuhkan isinya ke karpet.
 
@@ -52,6 +52,6 @@ Dan tepat di bawah gambar bayangan botol minum itu, ada sebaris tulisan tangan t
 
 Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimpulkan isi kepala orang sebelum bertanya sampai selesai.
 
-Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan.
+Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan sinyal kereta.
 
-"Lo masih punya satu kesempatan lagi hari Jumat besok di panggung peluncuran Sela Waktu, Nad," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Kalau dia emang peduli sama buku ini, dia nggak mungkin nggak dengar kabar dari sini."
+"Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat besok di panggung peluncuran Sela Waktu dia nggak mungkin absen."

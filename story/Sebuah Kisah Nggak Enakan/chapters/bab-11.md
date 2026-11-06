@@ -30,21 +30,19 @@ Kami berlari kecil menembus tirai air di pinggir teras ruko dan masuk ke dalam k
 
 Tanpa bertanya, Saka memesan dua cangkir teh tawar hangat dan sepiring tahu isi goreng yang baru diangkat dari wajan kepada penjaga kedai.
 
-Saat pesanan datang, aku hanya duduk diam sambil menangkupkan kedua telapak tanganku di sekeliling cangkir teh hangat. Suara rintik hujan yang memukul atap seng di atas kepala entah kenapa membuat suasana di meja kecil itu terasa sangat tenang.
+Saat pesanan datang, ponsel di dalam saku jaketku bergetar. Nama Mbak Raras muncul di layar.
 
-"Jadi," buka Saka sambil meletakkan botol minum hitam penyoknya di pinggir meja, "siapa yang bikin kucing kampung tadi berubah jadi hijau stabilo? Mantan kamu yang di pemasaran itu lagi?"
+Aku mengangkat telepon itu dengan suara pelan supaya tidak mengganggu meja sebelah. "Halo, Mbak. Iya, aku baru selesai kerja, ini lagi neduh sebentar. Soal uang kekurangan hotel Daffa di Bali yang empat juta itu... nanti malam aku kabari lagi ya, Mbak."
 
-Aku menggeleng pelan, menatap permukaan teh hangat di cangkirku. "Bukan, Mas. Kalau urusan Mas Dimas mah udah beres sejak hari Jumat kemarin."
+Begitu sambungan telepon ditutup, aku meletakkan ponselku ke meja sambil menatap kabel papan gambar lamaku yang menyembul dari mulut tas ranselku dalam keadaan terlilit lakban.
 
-"Terus?"
+"Jadi," buka Saka sambil menggeser piring berisi empat potong tahu isi hangat ke dekat tanganku, "itu yang dari tadi pagi bikin kucing kampung berubah jadi hijau stabilo? Kamu mau minjemin uang buat orang liburan ke Bali, padahal kabel papan gambar kamu sendiri udah kayak perban mumi?"
 
-Aku terdiam sebentar. Biasanya aku paling anti menceritakan urusan dapur keluargaku kepada orang kantor, bahkan kepada Tari sekalipun aku jarang mengeluh soal rumah. Tapi melihat Saka yang duduk tenang tanpa tatapan kepo atau menghakimi, beban yang sejak kemarin sore mengganjal di kerongkonganku tiba-tiba mendesak keluar.
+Aku menunduk menatap permukaan teh hangat di cangkirku. Biasanya aku paling anti menceritakan urusan dapur keluargaku kepada orang kantor, bahkan kepada Tari sekalipun aku jarang mengeluh soal rumah. Tapi karena Saka sudah telanjur mendengar telepon barusan dan menatapku tanpa kesan menghakimi, beban yang sejak kemarin sore mengganjal di kerongkonganku akhirnya tumpah juga.
 
-"Kemarin siang aku pulang ke rumah orang tuaku di Rawamangun," kataku pelan.
+"Kemarin siang waktu aku pulang ke rumah orang tuaku di Rawamangun, Mbak Raras minta pinjam uang tabunganku," kataku pelan sambil mengambil sepotong tahu isi hangat.
 
-Saka tidak menyela. Dia hanya menggeser piring berisi empat potong tahu isi hangat ke dekat tanganku. "Makan dulu tahunya selagi panas, baru lanjut ngomong."
-
-Aku mengambil sepotong tahu isi, menggigit ujungnya yang renyah sedikit, lalu mulai bercerita. Aku menceritakan tentang papan gambarku yang sudah sekarat, tentang uang tabungan empat juta yang kukumpulkan selama sepuluh bulan, sampai permintaan Mbak Raras untuk meminjam uang itu demi liburan ke Bali dan kalimat halus Ibu yang menyuruhku mengalah seperti biasa.
+Aku lalu menceritakan tentang uang empat juta yang kukumpulkan selama sepuluh bulan untuk membeli papan gambar baru, sampai kalimat halus Ibu di meja makan yang menyuruhku mengalah demi keponakanku seperti biasa.
 
 "Lucu ya, Mas," ucapku dengan senyum getir di akhir ceritaku. "Di kantor aku udah mulai berani nolak Bang Riko sama Mas Dimas gara-gara tempelan kertas kuning dari Mas Saka. Tapi pas duduk di depan Ibu sama kakakku sendiri, aku langsung ciut lagi. Soalnya dari kecil aku selalu mikir, kalau anak tengah yang nggak menonjol kayak aku ini berani bilang enggak di rumah, jangan-jangan nanti nggak ada lagi alasan buat mereka sayang sama aku."
 

@@ -24,7 +24,7 @@ Aku menoleh menatap Ibu di seberang meja. Sudah terlalu lama aku menyembunyikan 
 
 Kedua mata Ibu membelalak lebar. Wajah ibuku yang tadinya ramah langsung berubah keras menatap laki-laki di sebelahku.
 
-"Tiga hari setelah putus pun, dia masih nyuruh aku lembur bikinin poster buat acara gebetan barunya itu. Baru setelah dia putus sama Vanya minggu lalu, dan setelah dia lihat aku mulai dihargai lewat proyek buku Sela Waktu bareng editor dari Jogja itu, dia datang lagi minta balikan. Dan barusan Ibu dengar sendiri kan? Baru aja dia merasa aku mau balik lagi, dia langsung meremehkan buku yang kugambar sebulan penuh dan nyuruh aku mengalah lagi demi urusan dia," tambahku tanpa jeda.
+"Tiga hari setelah putus pun, dia masih nyuruh aku lembur bikinin poster buat acara Vanya. Baru setelah dia putus sama Vanya minggu lalu, dia datang lagi minta balikan. Dan barusan Ibu dengar sendiri kan? Baru aja dia merasa aku mau balik lagi, dia langsung meremehkan buku yang kugambar sebulan penuh dan nyuruh aku mengalah lagi demi urusan dia," tambahku tegas.
 
 "Nad, aku tadi cuma bercanda soal buku itu, sumpah!" seru Dimas gugup sambil mencoba meraih pergelangan tanganku di atas meja. "Bu, saya nggak bermaksud merendahkan kerjaan Nadia, saya beneran sayang sama Nadia..."
 
@@ -34,9 +34,9 @@ Lucunya, tidak ada lagi rasa marah yang meledak-ledak di dadaku. Melihat Dimas k
 
 Aku berdiri dari kursiku, menyampirkan tali tas selempangku ke bahu, lalu menatap Dimas lurus-lurus.
 
-Untuk terakhir kalinya, aku tersenyum sangat sopan kepadanya. Senyum seorang operator layanan pelanggan yang paling rapi, paling ramah, namun kali ini bukan karena takut menolak, melainkan untuk menutup buku masa laluku selamanya.
+Untuk terakhir kalinya, aku tersenyum sangat sopan kepadanya. Senyum seorang operator layanan pelanggan yang paling rapi, namun kali ini bukan karena takut menolak, melainkan untuk menutup buku masa laluku selamanya.
 
-"Terima kasih banyak atas ketertarikan Anda untuk kembali, Mas Dimas," ucapku dengan diksi baku yang sangat jernih dan mematikan. "Namun mohon maaf, layanan sabar tanpa batas dan tenaga bantuan gratis yang Anda hubungi sudah ditutup secara permanen. Silakan cari operator lain yang bersedia melayani ego Anda. Selamat malam."
+"Terima kasih banyak atas ketertarikan Anda untuk kembali, Mas Dimas," ucapku dengan diksi baku yang sangat jernih. "Namun mohon maaf, layanan sabar tanpa batas yang Anda hubungi sudah ditutup permanen. Silakan cari operator lain. Selamat malam."
 
 Dimas ternganga di kursinya. Wajahnya pucat pasi seperti kertas tisu, mulutnya terbuka sedikit tanpa ada satu kata pun yang berhasil keluar.
 

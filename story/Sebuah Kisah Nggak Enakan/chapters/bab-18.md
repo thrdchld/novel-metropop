@@ -2,15 +2,17 @@
 
 Sejak rahasia tutup botol minum hitamnya terbongkar di teras kosku malam Jumat lalu, Saka resmi berhenti mengarang alasan promo minimarket atau abang warung salah hitung.
 
-Senin pagi pukul sembilan kurang lima menit, aku baru saja duduk di kursiku dan menyalakan papan gambar digital ketika Saka datang dari arah lift sambil menenteng tas kanvasnya. Tanpa basa-basi selamat pagi, tangan kanannya meletakkan segelas kopi susu dingin berlabel kedai bawah tepat di sebelah tempat pensilku.
+Senin pagi pukul sembilan kurang sepuluh menit, aku sengaja datang lebih awal dan menyeduhkan secangkir kopi hitam panas tanpa gula di dapur kantor, lalu meletakkannya di meja Saka bersama sebungkus biskuit gandum asin yang kubeli di minimarket stasiun.
 
-Aku mendongak, menatap gelas kopi itu lalu menatap tangan kirinya yang sedang meletakkan botol minum hitam penyoknya ke sudut meja. Jempolnya sama sekali tidak menyentuh tutup botol itu.
+Dua menit kemudian, Saka datang dari arah lift sambil menenteng tas kanvasnya. Langkahnya sempat terhenti melihat cangkir kopi hitam dan biskuit asin di mejanya, sementara tangan kanannya sendiri ternyata sedang membawa segelas es kopi susu berlabel kedai bawah untukku.
 
-"Ini abang kopinya salah bikin pesanan lagi atau gimana, Mas?" godaku sambil menahan senyum.
+"Tumben ada biskuit asin," kata Saka sambil meletakkan es kopi susu itu di sebelah tempat pensilku.
 
-Saka menarik kursinya, duduk di sebelahku, lalu membuka layar laptop peraknya dengan wajah datar. "Enggak. Emang sengaja saya beliin buat kamu. Biar nggak ngantuk waktu ngarsir bab terakhir."
+"Kemarin Mas Saka bilang nggak suka makanan manis, jadi jangan diputar lagi tutup botolnya," godaku sambil menahan senyum.
 
-Justru karena dia menjawab sejujur dan selempeng itu tanpa alasan bohong lagi, gantian aku yang langsung salah tingkah. Pipiku terasa hangat, dan aku buru-buru menunduk menusukkan sedotan ke tutup gelas kopi susu itu supaya dia tidak melihat senyumku yang kelewat lebar.
+Saka menarik kursinya, duduk di sebelahku, lalu membuka bungkusan biskuit gandum itu tanpa mengarang alasan apa-apa lagi. "Makasih. Pas banget saya belum sarapan tadi."
+
+Justru karena dia menerima perhatianku dengan begitu wajar dan tenang, gantian aku yang salah tingkah. Aku buru-buru menunduk menusukkan sedotan ke tutup gelas es kopi susuku supaya dia tidak melihat senyumku yang kelewat lebar.
 
 Memasuki minggu keempat kami duduk semeja, suasana di meja proyek nomor empat rasanya sudah berubah seratus delapan puluh derajat dibandingkan hari pertama dulu.
 
@@ -28,7 +30,9 @@ Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung 
 
 "Dia emang orangnya baik kok kalau udah kenal, Tar," kataku pelan, mataku melirik ke arah botol minum hitam penyok yang berdiri di meja sebelah. "Cuma caranya aja yang nggak pakai bungkus manis."
 
-"Dan yang paling penting, sejak duduk sama dia, penyakit customer service lo sembuh total," tambah Tari sambil mengunyah makaroninya. "Ternyata obat paling manjur buat sembuh dari mantan yang suka manfaatin lo itu adalah editor galak dari Jogja. Gue dukung seratus persen pokoknya!"
+"Dan yang paling penting, sejak duduk sama dia, penyakit customer service lo berkurang drastis," tambah Tari sambil mengunyah makaroninya setelah selesai curhat soal komentar netizen di akun Instagram kantor yang protes pengumuman pemenang kuis buku. "Eh, ngomong-ngomong, kemarin waktu gue turun ke lantai dua antar berkas ke bagian personalia, gue lihat Mas Saka lagi nyerahin map formulir permohonan kepegawaian gitu ke Mbak Sinta HRD loh. Lo tahu dia lagi ngurus surat apa?"
+
+"Kurang tahu gue, Tar. Mungkin laporan proyek buku kali," jawabku, tidak terlalu memikirkan ucapan Tari waktu itu.
 
 Setelah Tari kembali ke kubikelnya, aku menatap halaman terakhir naskah buku Sela Waktu yang sedang terbuka di layar papan gambarku.
 

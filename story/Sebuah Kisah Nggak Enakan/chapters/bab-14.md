@@ -4,9 +4,9 @@ Dua minggu duduk satu meja dengan Saka Wijaya ternyata membawa perubahan yang cu
 
 Pertama, di atas meja kerjaku sekarang sudah bertengger sebuah papan gambar digital baru berwarna abu-abu gelap yang kabelnya mulus tanpa lilitan lakban listrik. Kedua, tumpukan map plastik warna-warni titipan warga kantor yang dulu selalu menghalangi pandanganku kini sudah punah sama sekali.
 
-Bukan karena Mbak Dinda dan Riko mendadak tobat, melainkan karena setiap kali mereka mendekat sambil memasang senyum ada maunya, aku sudah bisa mengucapkan kalimat sakti tanpa gemetaran lagi: Maaf ya, kuota jam kerjaku minggu ini udah penuh buat Sela Waktu.
+Bukan karena Mbak Dinda dan Riko mendadak tobat, melainkan karena setiap kali mereka mendekat sambil memasang senyum ada maunya, aku memaksa diriku mengucapkan kalimat penolakan yang sudah kulatih. Memang belum mulus seratus persen. Kadang sehabis menolak titipan kerjaan Mbak Dinda, aku masih suka kepikiran selama sepuluh menit dan gatal ingin minta maaf. Di grup WhatsApp keluarga pun, Mbak Raras masih mendiamkanku sejak malam itu, meski kemarin siang Ibu akhirnya sudah mau mengirim pesan suara menanyakan apakah papan gambar baruku sudah dipakai kerja.
 
-Efek sampingnya luar biasa. Karena tidak lagi lembur sampai malam mengurus kerjaan orang lain, kantung mata hitam di bawah mataku menipis, dan aku tidak lagi datang ke kantor dengan wajah kusut seperti cucian belum disetrika.
+Setidaknya, aku belajar bahwa dicemberuti orang sedikit itu jauh lebih sehat daripada lembur sambil menangis di tangga darurat.
 
 "Nad, itu kucing di sketsa bab lima kenapa gemuk banget kayak bantal guling?" tanya Saka pada Kamis siang itu sambil menunjuk layar monitorku dengan ujung pulpennya.
 
@@ -14,7 +14,11 @@ Efek sampingnya luar biasa. Karena tidak lagi lembur sampai malam mengurus kerja
 
 Saka mendengus tipis, tapi matanya yang menatap layar monitorku terlihat geli. "Terserah kamu lah. Asal jangan dikasih warna hijau stabilo lagi kayak waktu itu."
 
-Aku tertawa kecil, menggoreskan pena digitalku untuk merapikan kumis kucing di gambar tersebut. Tanpa sadar, bekerja sambil berdebat kecil dengan Saka seperti ini sudah menjadi bagian favoritku setiap hari di kantor.
+Aku tertawa kecil. Saat menoleh ke arah layar laptop Saka yang sedang membuka peramban internet, mataku tidak sengaja menangkap tab di sudut atas layarnya yang bertuliskan daftar sewa kamar kos tahunan daerah Cikini dan formulir kepegawaian antar-cabang.
+
+"Mas Saka lagi cari kos baru? Emangnya kos bulanan yang sekarang kenapa?" tanyaku polos.
+
+Saka langsung menutup tab peramban itu dengan satu klik cepat. "Bukan buat saya. Teman saya dari Jogja ada yang mau pindah kerja ke daerah sini bulan depan, minta tolong dicarikan info harga."
 
 Dari kubikel sebelah, terdengar bunyi jepretan kamera ponsel yang lupa dimatikan suaranya.
 

@@ -32,29 +32,29 @@ Untuk beberapa detik, hanya suara kicau burung sore di pepohonan taman bawah yan
 
 Perlahan, garis kaku di rahang dan bahu Saka yang sejak hari Senin sore terlihat tegang meluruh sepenuhnya. Dia mengembuskan napas panjang yang terdengar sangat lega.
 
-"Hari Senin sore di lobi itu, saya juga salah, Nad," kata Saka, suaranya jauh lebih lembut dari biasanya. "Waktu kamu bilang dia habis bantuin Ibu kamu yang sakit dan minta kesempatan kedua, harga diri saya langsung kena. Saya pikir, dibandingkan dia yang udah kenal Ibu kamu dua tahun, saya waktu itu belum pegang kepastian apa-apa di tangan saya. Makanya saya ngomong dingin kayak gitu karena saya nggak mau menahan kamu pakai janji kosong."
+"Hari Senin sore di lobi itu, saya juga salah, Nad," kata Saka, suaranya jauh lebih lembut dari biasanya. "Waktu kamu bilang dia habis bantuin Ibu kamu yang sakit dan Ibu kamu cocok sama dia, saya langsung teringat kejadian di Jogja dulu. Saya pikir, dibandingkan dia yang udah kenal keluarga kamu dua tahun, saya hari Senin itu belum pegang surat keputusan resmi di tangan saya. Makanya saya ngomong dingin kayak gitu karena saya pantang menahan orang pakai janji yang belum sah."
 
-Aku mengerjap bingung. "Kepastian apa maksudnya, Mas?"
+Aku menatapnya bingung. "Surat keputusan apa maksudnya, Mas?"
 
 Saka membungkuk sedikit, membuka ritsleting depan ransel besar di dekat kakinya, lalu mengeluarkan sepucuk amplop cokelat panjang berlogo Kantor Pusat Yogyakarta. Itu amplop yang sama persis dengan yang kulihat di bawah buku catatannya hari Jumat minggu lalu.
 
 Dia menyerahkan lembar kertas resmi di dalam amplop itu ke tanganku.
 
-Aku menunduk membacanya. Di bagian kepala surat, tertulis jelas: Surat Keputusan Mutasi Tetap Staf Redaksi Senior dari Cabang Yogyakarta ke Kantor Redaksi Jakarta. Di bagian bawahnya, tertera tanggal pengajuan permohonan dari Saka sejak tiga minggu yang lalu, dan tanda tangan persetujuan resmi Kepala Cabang Yogyakarta tertanggal hari Kamis kemarin.
+Aku menunduk membacanya. Di bagian kepala surat, tertulis jelas: Surat Keputusan Mutasi Tetap Staf Redaksi Senior dari Cabang Yogyakarta ke Kantor Redaksi Jakarta. Di bagian bawahnya, tertera tanggal pengajuan permohonan dari Saka sejak tiga minggu yang lalu, dan tanda tangan pelepasan resmi Kepala Cabang Yogyakarta, Pak Bambang, tertanggal hari Kamis kemarin.
 
-Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka.
+Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas saja dulu aku pernah memergoki layar laptopnya membuka daftar kos tahunan di Cikini dan Tari sempat melihatnya menyerahkan formulir ke Mbak Sinta HRD!
 
 "Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore kemarin itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Hari Jumat waktu kamu tanya rencana saya, surat persetujuan dari pusat itu belum turun tanda tangannya, makanya saya bilang harus balik ke Jogja dulu," jelas Saka tenang. "Selasa sore saya berangkat ke sana pakai kereta malam buat beresin kontrak kamar kos lama saya, mengemasi sisa buku-buku saya ke kardus ekspedisi, sama ambil surat keputusan asli itu. Mulai Senin besok, meja nomor empat itu meja tetap saya."
+"Hari Jumat waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang itu belum turun tanda tangannya, makanya saya bilang harus balik ke Jogja dulu," jelas Saka tenang. "Selasa sore saya berangkat ke sana pakai kereta malam. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama saya, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
 
 Air mata yang sejak tadi kutahan akhirnya jatuh satu tetes melewati pipiku, tapi bibirku justru tertarik membentuk senyum paling lebar dan paling lega yang pernah kurasakan.
 
 Aku menyeka pipiku cepat-cepat dengan punggung tangan, lalu menatap laki-laki berkemeja flanel di depanku ini dengan mata berbinar geli.
 
-"Tanggal pengajuannya tiga minggu lalu," kataku sambil menunjuk baris tanggal di surat itu. "Berarti Mas Saka sengaja ngajuin pindah tetap ke Jakarta gara-gara aku ya?"
+"Tanggal pengajuannya tiga minggu lalu," kataku sambil menunjuk baris tanggal di surat itu. "Berarti waktu bohong soal cari kos buat teman dan ngajuin pindah tetap ke Jakarta itu gara-gara aku ya?"
 
-Saka langsung menarik kembali surat itu dari tanganku dan memasukkannya ke dalam tas dengan wajah yang kembali dipasang datar seperti tembok semen.
+Saka langsung menarik kembali surat itu dari tanganku dan memasukkannya ke dalam tas dengan wajah yang kembali dipasang lempeng tanpa ekspresi.
 
 "Enggak," jawab Saka lempeng, membuang pandangannya sedikit ke arah pepohonan taman. "Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung depan gedung kantor."
 

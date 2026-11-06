@@ -20,7 +20,7 @@ Pegangan payung itu terangkat sedikit, memperlihatkan wajah datar Saka di bawahn
 
 "Ya udah, jalan kaki aja ke kosmu. Cuma sepuluh menit kan lewat trotoar depan?" ajaknya tenang.
 
-Aku mengerjap bingung. "Terus Mas Saka gimana? Kos Mas Saka kan arahnya naik kereta ke selatan, bukan ke arah gang kosku."
+Aku menoleh bingung ke arahnya. "Terus Mas Saka gimana? Kos Mas Saka kan arahnya naik kereta ke selatan, bukan ke arah gang kosku."
 
 "Saya mau cari makan malam di dekat ujung jalan sana sekalian nunggu stasiun sepi," katanya tanpa berkedip sedikit pun. Sebelum aku sempat mendebat alasan anehnya itu, tangan kirinya sudah terulur mengambil alih tabung plastik gambar dari pelukanku. "Ayo. Pegang tasmu aja."
 

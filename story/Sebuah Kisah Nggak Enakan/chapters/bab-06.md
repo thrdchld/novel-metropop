@@ -32,7 +32,7 @@ Dimas menumpukan satu tangannya ke pinggiran mejaku dengan gaya akrab seolah-ola
 
 "Gini, Nad," kata Dimas dengan nada manis yang dulu selalu berhasil meluluhkan hatiku. "Besok siang kan acara bincang bukunya jadi pindah ke aula kafe bawah. Ternyata panggungnya butuh desain latar belakang ukuran tiga kali dua meter buat dicetak malam ini juga di percetakan langganan."
 
-Aku mengerjap, menatap Dimas tidak percaya. "Malam ini? Sekarang kan udah jam empat lewat dua puluh, Mas."
+Aku menatap Dimas tidak percaya. "Malam ini? Sekarang kan udah jam empat lewat dua puluh, Mas."
 
 "Makanya itu, Nad," sahut Dimas sambil tersenyum memelas. "Tadi Vanya udah coba bikin pakai aplikasi instan, tapi resolusinya pecah waktu diperbesar. Aku langsung kepikiran kamu. Cuma kamu di kantor ini yang paling hafal selera warnaku, Nad. Dari dulu kan kalau aku ada acara mendadak, kamu selalu paling sigap nolongin aku."
 

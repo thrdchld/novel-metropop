@@ -24,17 +24,15 @@ Aku terdiam, mendengarkan dengan saksama.
 
 "Terus apa yang terjadi, Mas?" tanyaku pelan.
 
-"Suatu pagi saya datang ke studio, komputernya udah kosong," kata Saka ringan, seolah sedang menceritakan alur novel orang lain. "Uang tabungan buat modal cetak buku pertama kami dikuras habis dari rekening bersama. Lebih parahnya lagi, draf naskah esai yang saya tulis sendiri selama delapan bulan dibawa kabur dan dijual ke penerbit lain atas nama dia."
+"Suatu pagi saya datang ke studio, komputernya udah kosong," kata Saka ringan, seolah sedang menceritakan alur novel orang lain. "Uang tabungan buat modal cetak buku pertama kami dikuras habis, dan draf naskah yang saya tulis delapan bulan dijual ke penerbit lain atas nama dia. Minggu depannya, perempuan yang waktu itu udah pacaran dua tahun sama saya di Jogja ikut pamit mundur. Katanya orang tuanya nggak bisa nunggu saya mulai dari nol lagi, jadi dia memilih terima lamaran kenalan ibunya yang kerjanya udah mapan dan jelas di depan mata."
 
-Aku menutup mulutku dengan satu tangan. "Ya ampun... terus orangnya ketemu?"
+Aku menutup mulutku dengan satu tangan. "Ya ampun, Mas..."
 
-"Enggak. Nomornya ganti, orangnya pindah pulau," jawab Saka. Dia mengetuk bagian bawah botol minum hitamnya yang penyok dengan jari telunjuk. "Botol ini saksi hidupnya. Waktu saya mau berangkat naik kereta dari Stasiun Tugu buat pindah kerja ke Aksara Senja, botol ini jatuh menggelinding ke besi peron gara-gara saya masih gemetaran menahan marah baca kabar naskah saya terbit pakai nama dia."
+"Waktu saya duduk di kursi peron Stasiun Tugu sambil nunggu pemberitahuan kerja dari Aksara Senja, botol ini jatuh menggelinding ke besi peron gara-gara tangan saya gemetaran menahan marah," lanjut Saka sambil mengetuk bagian bawah botol minum hitamnya yang penyok dengan jari telunjuk. "Sejak hari itu, botol penyok ini sengaja nggak pernah saya ganti."
 
-Aku menatap lekukan penyok yang agak miring di dasar botol hitam legam itu. Gambar karikatur yang kubuat di halaman belakang buku sketsaku mendadak terasa punya cerita yang jauh lebih dalam dari sekadar bahan ledekan.
+Aku menatap lekukan penyok yang agak miring di dasar botol hitam legam itu. Gambar karikatur yang kubuat di halaman belakang buku sketsaku mendadak punya arti yang jauh lebih berat dari sekadar bahan ledekan.
 
-"Kenapa nggak diganti botol baru, Mas?" tanyaku lembut.
-
-"Sengaja," kata Saka. "Biar tiap kali saya minum, saya ingat kalau jadi orang baik yang nggak punya batas itu ujung-ujungnya cuma nyakitin diri sendiri. Apalagi kalau sampai mengorbankan alat cari makan kita sendiri."
+"Biar tiap kali saya minum," kata Saka tenang, "saya ingat dua hal. Pertama, jadi orang baik yang nggak punya batas itu ujung-ujungnya cuma menghancurkan hidup kita sendiri. Kedua, jangan pernah minta orang lain menunggu kita pakai janji manis kalau tangan kita sendiri belum memegang kepastian yang nyata."
 
 Saka menatapku lurus-lurus dari seberang meja.
 
