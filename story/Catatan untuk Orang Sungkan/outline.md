@@ -1,4 +1,4 @@
-# Outline: Sebuah Kisah Nggak Enakan
+# Outline: Catatan untuk Orang Sungkan
 
 **Status:** TERKUNCI v1.1
 **Jumlah bab:** 32 bab (1 Bab = 1 Adegan Fokus Tunggal)

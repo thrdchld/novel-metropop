@@ -1,4 +1,4 @@
-# Canon - Sebuah Kisah Nggak Enakan
+# Canon - Catatan untuk Orang Sungkan
 
 > Status: TERKUNCI v1.0
 > Versi: v1.0
@@ -6,7 +6,8 @@
 
 ## 1. Identitas Cerita
 
-- **Judul:** Sebuah Kisah Nggak Enakan
+- **Judul:** Catatan untuk Orang Sungkan
+- **Reader ID:** sebuah-kisah-nggak-enakan
 - **Genre:** MetroPop (Cerita Harian Indonesia)
 - **Target pembaca:** 13+
 - **Panjang:** 32 bab x +-750 kata (rentang standar 600-900 kata/bab; maksimal 1.200 kata jika diperlukan agar adegan tidak terpotong)

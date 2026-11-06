@@ -24,7 +24,7 @@ Melihat mantan pacar jalan berdua dengan gebetan barunya tepat seminggu setelah 
 
 Saka hanya mengangguk singkat setengah sentimeter tanpa membuka suara, lalu kembali menatap layar laptopnya, meski tangannya berhenti mengetik.
 
-"Halo, Kak Nadia," sapa Vanya sambil tersenyum manis. Tangannya memegang gulungan brosur, sementara jari telunjuknya memilin ujung rambut catokannya. "Kemarin posternya bagus banget deh, Kak. Makasih ya udah dibantuin."
+"Halo, Kak Nadia," sapa Vanya sambil tersenyum manis. Tangannya memegang gulungan brosur, sementara jari telunjuknya memilin ujung rambut catokannya. "Poster yang hari Senin itu bagus banget deh, Kak. Makasih ya udah dibantuin."
 
 "Iya, sama-sama," jawabku singkat. Punggungku otomatis menegak kaku di kursi.
 
@@ -42,7 +42,7 @@ Dadaku rasanya seperti baru saja ditindih lemari besi.
 
 Bukan cuma menyuruhku lembur di Jumat malam untuk membereskan kekacauan kerjaan mereka, Dimas bahkan memujiku di depan Vanya menggunakan sifat lembek yang minggu lalu dipakainya sebagai alasan untuk mencampakkanku! Dan yang paling parah, mereka mau pergi berduaan mengurus katering sementara aku ditinggal sendirian di kantor memelototi layar komputer.
 
-"Sebentar aja kok, Nad, tinggal tarik dari desain poster kemarin," bujuk Dimas lagi sambil menyodorkan gulungan kertas ukuran panggung ke arah tanganku.
+"Sebentar aja kok, Nad, tinggal tarik dari desain poster awal minggu ini," bujuk Dimas lagi sambil menyodorkan gulungan kertas ukuran panggung ke arah tanganku.
 
 Kebiasaan burukku selama dua tahun langsung bereaksi. Otot-otot wajahku mulai bergerak kaku hendak membentuk senyum sopan, dan tanganku di atas meja hampir saja terulur menyambut gulungan kertas itu. Di kepalaku muncul bisikan lama yang menyebalkan: kalau aku menolak di depan Vanya, nanti aku dikira mantan pacar yang pendendam dan belum bisa move on.
 

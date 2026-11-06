@@ -19,6 +19,7 @@ OUTPUT_FILE = REPO_ROOT / "reader.html"
 def parse_story(folder: Path) -> dict:
     canon_file = folder / "canon.md"
     title = folder.name
+    reader_id = ""
     blurb = ""
     logline = ""
     genre = "Web Novel MetroPop"
@@ -37,6 +38,8 @@ def parse_story(folder: Path) -> dict:
             m = re.search(pat, c_text, re.S)
             return m.group(1).strip() if m else ""
 
+        title = get_field(r"-\s+\*\*?Judul:\*\*?\s*(.*?)(?=\n-|\n##|$)") or title
+        reader_id = get_field(r"-\s+\*\*?Reader ID:\*\*?\s*([a-z0-9-]+)")
         blurb = get_field(r"-\s+\*\*?Blurb:\*\*?\s*(.*?)(?=\n-|\n##|$)")
         logline = get_field(r"-\s+\*\*?Logline:\*\*?\s*(.*?)(?=\n-|\n##|$)")
         genre = get_field(r"-\s+\*\*?Genre:\*\*?\s*(.*?)(?=\n-|\n##|$)") or genre
@@ -90,7 +93,7 @@ def parse_story(folder: Path) -> dict:
             else:
                 body_lines.append(l)
         body = "\n".join(body_lines).strip()
-        words = len(re.findall(r"\w+", body))
+        words = len(raw.split())
         total_words += words
         chapters.append({
             "number": num,
@@ -101,7 +104,7 @@ def parse_story(folder: Path) -> dict:
         })
 
     return {
-        "id": re.sub(r"[^a-z0-9]+", "-", folder.name.lower()).strip("-"),
+        "id": reader_id or re.sub(r"[^a-z0-9]+", "-", folder.name.lower()).strip("-"),
         "title": title,
         "genre": genre,
         "status": f"Tamat ({len(chapters)} Bab)",

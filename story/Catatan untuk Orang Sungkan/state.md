@@ -1,4 +1,4 @@
-# Continuity State - Sebuah Kisah Nggak Enakan
+# Continuity State - Catatan untuk Orang Sungkan
 
 > **Potret Kondisi Aktif Cerita**
 

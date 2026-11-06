@@ -46,6 +46,6 @@ Di seberang meja, Ibu langsung ikut berdiri sambil mengambil tas tangannya. Ibu 
 
 Aku mengeluarkan uang tunai dari dompetku, meletakkannya di atas meja untuk membayar porsi makananku dan Ibu, lalu menggandeng lengan Ibu melangkah keluar dari rumah makan itu dengan kepala tegak.
 
-Udara malam Jakarta Timur di luar restoran terasa begitu segar saat kuhirup dalam-dalam. Urusan masa laluku sudah selesai dengan tuntas malam ini.
+Begitu sampai di teras luar restoran sambil menunggu taksi pesanan kami datang, aku langsung membuka aplikasi m-banking di ponselku dan mentransfer lunas seluruh ganti biaya obat klinik, bubur, serta bensin mobil ke rekening Dimas. Udara malam Jakarta Timur terasa begitu segar saat kuhirup dalam-dalam; urusan masa laluku sudah selesai dengan tuntas malam ini.
 
 Sekarang, hanya tinggal satu orang yang harus kutemui besok pagi di meja nomor empat untuk meminta maaf atas kebodohanku sendiri.

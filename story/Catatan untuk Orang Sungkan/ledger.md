@@ -1,4 +1,4 @@
-# Story Ledger - Sebuah Kisah Nggak Enakan
+# Story Ledger - Catatan untuk Orang Sungkan
 
 > Catatan kronologis per bab dan detail *planting/callback*.
 

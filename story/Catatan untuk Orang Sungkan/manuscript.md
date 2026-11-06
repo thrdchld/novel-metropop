@@ -1,4 +1,4 @@
-# Sebuah Kisah Nggak Enakan
+# Catatan untuk Orang Sungkan
 
 ## Bab 1: Operator Layanan Patah Hati
 
@@ -370,7 +370,7 @@ Melihat mantan pacar jalan berdua dengan gebetan barunya tepat seminggu setelah 
 
 Saka hanya mengangguk singkat setengah sentimeter tanpa membuka suara, lalu kembali menatap layar laptopnya, meski tangannya berhenti mengetik.
 
-"Halo, Kak Nadia," sapa Vanya sambil tersenyum manis. Tangannya memegang gulungan brosur, sementara jari telunjuknya memilin ujung rambut catokannya. "Kemarin posternya bagus banget deh, Kak. Makasih ya udah dibantuin."
+"Halo, Kak Nadia," sapa Vanya sambil tersenyum manis. Tangannya memegang gulungan brosur, sementara jari telunjuknya memilin ujung rambut catokannya. "Poster yang hari Senin itu bagus banget deh, Kak. Makasih ya udah dibantuin."
 
 "Iya, sama-sama," jawabku singkat. Punggungku otomatis menegak kaku di kursi.
 
@@ -388,7 +388,7 @@ Dadaku rasanya seperti baru saja ditindih lemari besi.
 
 Bukan cuma menyuruhku lembur di Jumat malam untuk membereskan kekacauan kerjaan mereka, Dimas bahkan memujiku di depan Vanya menggunakan sifat lembek yang minggu lalu dipakainya sebagai alasan untuk mencampakkanku! Dan yang paling parah, mereka mau pergi berduaan mengurus katering sementara aku ditinggal sendirian di kantor memelototi layar komputer.
 
-"Sebentar aja kok, Nad, tinggal tarik dari desain poster kemarin," bujuk Dimas lagi sambil menyodorkan gulungan kertas ukuran panggung ke arah tanganku.
+"Sebentar aja kok, Nad, tinggal tarik dari desain poster awal minggu ini," bujuk Dimas lagi sambil menyodorkan gulungan kertas ukuran panggung ke arah tanganku.
 
 Kebiasaan burukku selama dua tahun langsung bereaksi. Otot-otot wajahku mulai bergerak kaku hendak membentuk senyum sopan, dan tanganku di atas meja hampir saja terulur menyambut gulungan kertas itu. Di kepalaku muncul bisikan lama yang menyebalkan: kalau aku menolak di depan Vanya, nanti aku dikira mantan pacar yang pendendam dan belum bisa move on.
 
@@ -426,7 +426,7 @@ Bahkan suara ketikan keyboard Tari dari kubikel sebelah ikut berhenti mendadak. 
 
 Kening Dimas berkerut dalam. Dia menatapku seolah-olah aku baru saja berbicara menggunakan bahasa Mandarin kuno. Selama dua tahun kami berpacaran, ditambah seminggu sejak putus, kata tidak bisa memang belum pernah sekalipun keluar dari mulutku setiap kali dia meminta bantuan.
 
-"Loh, kan tinggal tarik ukuran dari file poster kemarin, Nad," kata Dimas, senyum manisnya mulai luntur berganti nada menuntut. "Paling lama empat puluh lima menit juga selesai di tangan kamu. Masa tega sih biarin acara divisi pemasaran besok nggak pakai latar belakang panggung?"
+"Loh, kan tinggal tarik ukuran dari file poster awal minggu ini, Nad," kata Dimas, senyum manisnya mulai luntur berganti nada menuntut. "Paling lama empat puluh lima menit juga selesai di tangan kamu. Masa tega sih biarin acara divisi pemasaran besok nggak pakai latar belakang panggung?"
 
 "File mentahnya sudah saya unggah ke folder bersama divisi pemasaran sejak Senin malam, Mas," jawabku tenang, meski di bawah meja kedua tanganku saling menggenggam erat. "Di komputer pemasaran juga ada aplikasinya. Jadi Mas Dimas atau Vanya bisa langsung sesuaikan ukurannya sendiri dari sana."
 
@@ -1660,7 +1660,7 @@ Di seberang meja, Ibu langsung ikut berdiri sambil mengambil tas tangannya. Ibu 
 
 Aku mengeluarkan uang tunai dari dompetku, meletakkannya di atas meja untuk membayar porsi makananku dan Ibu, lalu menggandeng lengan Ibu melangkah keluar dari rumah makan itu dengan kepala tegak.
 
-Udara malam Jakarta Timur di luar restoran terasa begitu segar saat kuhirup dalam-dalam. Urusan masa laluku sudah selesai dengan tuntas malam ini.
+Begitu sampai di teras luar restoran sambil menunggu taksi pesanan kami datang, aku langsung membuka aplikasi m-banking di ponselku dan mentransfer lunas seluruh ganti biaya obat klinik, bubur, serta bensin mobil ke rekening Dimas. Udara malam Jakarta Timur terasa begitu segar saat kuhirup dalam-dalam; urusan masa laluku sudah selesai dengan tuntas malam ini.
 
 Sekarang, hanya tinggal satu orang yang harus kutemui besok pagi di meja nomor empat untuk meminta maaf atas kebodohanku sendiri.
 

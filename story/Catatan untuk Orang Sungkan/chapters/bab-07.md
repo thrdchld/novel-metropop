@@ -24,7 +24,7 @@ Bahkan suara ketikan keyboard Tari dari kubikel sebelah ikut berhenti mendadak. 
 
 Kening Dimas berkerut dalam. Dia menatapku seolah-olah aku baru saja berbicara menggunakan bahasa Mandarin kuno. Selama dua tahun kami berpacaran, ditambah seminggu sejak putus, kata tidak bisa memang belum pernah sekalipun keluar dari mulutku setiap kali dia meminta bantuan.
 
-"Loh, kan tinggal tarik ukuran dari file poster kemarin, Nad," kata Dimas, senyum manisnya mulai luntur berganti nada menuntut. "Paling lama empat puluh lima menit juga selesai di tangan kamu. Masa tega sih biarin acara divisi pemasaran besok nggak pakai latar belakang panggung?"
+"Loh, kan tinggal tarik ukuran dari file poster awal minggu ini, Nad," kata Dimas, senyum manisnya mulai luntur berganti nada menuntut. "Paling lama empat puluh lima menit juga selesai di tangan kamu. Masa tega sih biarin acara divisi pemasaran besok nggak pakai latar belakang panggung?"
 
 "File mentahnya sudah saya unggah ke folder bersama divisi pemasaran sejak Senin malam, Mas," jawabku tenang, meski di bawah meja kedua tanganku saling menggenggam erat. "Di komputer pemasaran juga ada aplikasinya. Jadi Mas Dimas atau Vanya bisa langsung sesuaikan ukurannya sendiri dari sana."
 

@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Sebuah Kisah Nggak Enakan | `TAMAT` | 32 | 25.741 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
+| `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 25.779 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 
 ---
 
@@ -33,8 +33,8 @@
 - **Tanggal Disetujui:** 2026-10-27
 - **Inti Cerita:** Ayu Anindya, sarjana FEB yang narik ojol untuk membantu usaha kue ibunya di Tebet, terjebak sandiwara pacar kontrak dengan Rian Pratama sampai akhirnya memilih kejujuran di atas uang.
 
-#### PRM-002: Sebuah Kisah Nggak Enakan
-- **Proyek Terkait:** `NOV-002` (Folder: `story/Sebuah Kisah Nggak Enakan/`)
+#### PRM-002: Catatan untuk Orang Sungkan
+- **Proyek Terkait:** `NOV-002` (Folder: `story/Catatan untuk Orang Sungkan/`)
 - **Status:** `DITERIMA / AKTIF`
 - **Tanggal Disetujui:** 2026-11-05
 - **Premis ABCD Simpel:**
