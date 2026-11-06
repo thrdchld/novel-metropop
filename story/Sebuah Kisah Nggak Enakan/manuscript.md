@@ -148,7 +148,7 @@ Di sebelahku, Tari menyenggol lenganku sambil menyelundupkan sebutir makaroni pe
 
 "Masa sih?" bisikku balik, makin ciut.
 
-"Karena Mas Bagas yang tadinya pegang ilustrasi Sela Waktu semalam masuk rumah sakit kena demam berdarah, saya sudah putuskan Nadia yang ambil alih," lanjut Pak Ramdan sambil melirik catatannya. "Buku ini punya empat puluh ilustrasi halaman penuh yang tata letaknya harus dikerjakan bareng naskah baris demi baris. Jadi mulai hari ini selama dua bulan ke depan, Nadia pindah duduk semeja sama Saka di meja proyek nomor empat yang ada monitor kalibrasi warnanya biar koordinasinya cepat."
+"Karena Mas Bagas yang tadinya pegang ilustrasi Sela Waktu semalam masuk rumah sakit kena demam berdarah, saya sudah putuskan Nadia yang ambil alih," lanjut Pak Ramdan sambil melirik catatannya. "Buku ini punya empat puluh ilustrasi halaman penuh yang tata letaknya harus dikerjakan bareng naskah baris demi baris. Jadi mulai hari ini selama lima minggu ke depan sampai jadwal peluncuran buku, Nadia pindah duduk semeja sama Saka di meja proyek nomor empat yang ada monitor kalibrasi warnanya biar koordinasinya cepat."
 
 Aku hampir tersedak ludahku sendiri.
 
@@ -194,7 +194,7 @@ Saka berhenti mengetik. Dia menoleh penuh ke arahku, menatap tumpukan map itu, l
 
 "Enggak lah, Mas. Gaji standar," jawabku bingung.
 
-"Terus kenapa meja kamu kayak loket penampungan barang hilang?" Saka menunjuk map kuning di paling bawah tumpukan. "Singkirkan yang tiga itu dari meja ini. Selama dua bulan ke depan, di meja nomor empat cuma boleh ada kerjaan kita."
+"Terus kenapa meja kamu kayak loket penampungan barang hilang?" Saka menunjuk map kuning di paling bawah tumpukan. "Singkirkan yang tiga itu dari meja ini. Selama lima minggu ke depan, di meja nomor empat cuma boleh ada kerjaan kita."
 
 Aku menelan ludah, menatap pria Jogja di sebelahku ini dengan perasaan ngeri sekaligus takjub. Baru hari pertama duduk sebelahan, rasanya hidupku yang penuh basa-basi selama dua tahun di kantor ini bakal segera jungkir balik.
 
@@ -716,27 +716,23 @@ Aku menggeleng pelan. "Kata Tari sih gara-gara Mas Saka dari lahir nggak dikasih
 
 Sudut bibir Saka bergerak tipis mendengar kalimat itu. "Salah. Tiga tahun lalu waktu baru lulus kuliah di Jogja, saya itu sebelas dua belas sama kamu sekarang."
 
-Mataku langsung mengerjap tidak percaya. Membayangkan seorang Saka Wijaya yang kaku dan tegaan ini pernah menjadi manusia nggak enakan rasanya lebih mustahil daripada membayangkan kucing kampung berwarna hijau stabilo tadi benar-benar ada di dunia nyata.
+Aku langsung tertegun tidak percaya. Membayangkan seorang Saka Wijaya yang kaku dan tegaan ini pernah menjadi manusia nggak enakan rasanya lebih mustahil daripada membayangkan kucing kampung berwarna hijau stabilo tadi benar-benar ada di dunia nyata.
 
 "Masa sih, Mas? Mas Saka pernah nggak enakan juga sama orang?" tanyaku sangsi.
 
-"Pernah," jawab Saka. Dia menatap permukaan meja kayu di antara kami, suaranya mengalir datar tapi jujur. "Waktu itu saya merintis studio penyuntingan buku kecil-kecilan bareng sahabat satu kos saya sejak zaman kuliah. Karena dia sahabat dekat dan sering mengeluh ibunya sakit di kampung, tiap kali dia pinjam uang kas atau minta saya yang ambil alih kerjaan naskah bagiannya, saya selalu bilang iya."
+"Pernah," jawab Saka. Dia menatap permukaan meja kayu di antara kami, suaranya mengalir datar tapi jujur. "Waktu itu saya merintis studio penyuntingan kecil-kecilan di Jogja bareng teman dekat saya. Karena nggak enakan tiap kali dia mengeluh soal biaya di rumahnya, saya selalu mengalah. Saya yang lembur ngerjain bagian dia, saya juga yang terus-terusan nalangin sewa tempat pakai tabungan pribadi saya."
 
 Aku terdiam, mendengarkan dengan saksama.
 
-"Selama setahun penuh saya yang lembur tiap malam, saya juga yang nalangin biaya sewa tempat pakai uang tabungan pribadi saya," lanjut Saka. "Waktu ada teman lain yang ngingetin kalau saya lagi dimanfaatkan, saya selalu bela dia. Saya pikir kalau sama sahabat sendiri hitung-hitungan, nanti pertemanan kami rusak."
-
-"Terus apa yang terjadi, Mas?" tanyaku pelan.
-
-"Suatu pagi saya datang ke studio, komputernya udah kosong," kata Saka ringan, seolah sedang menceritakan alur novel orang lain. "Uang tabungan buat modal cetak buku pertama kami dikuras habis, dan draf naskah yang saya tulis delapan bulan dijual ke penerbit lain atas nama dia. Minggu depannya, perempuan yang waktu itu udah pacaran dua tahun sama saya di Jogja ikut pamit mundur. Katanya orang tuanya nggak bisa nunggu saya mulai dari nol lagi, jadi dia memilih terima lamaran kenalan ibunya yang kerjanya udah mapan dan jelas di depan mata."
+"Waktu ada yang mengingatkan kalau saya cuma dimanfaatkan, saya selalu membela dia karena takut merusak hubungan," lanjut Saka. "Sampai akhirnya tabungan saya terkuras habis, studionya tutup karena utang sewa, dan teman saya lepas tangan begitu saja. Waktu itu hubungan saya sama pacar saya di Jogja juga ikut bubar karena keluarganya melihat hidup saya berantakan dan belum punya pegangan yang jelas."
 
 Aku menutup mulutku dengan satu tangan. "Ya ampun, Mas..."
 
-"Waktu saya duduk di kursi peron Stasiun Tugu sambil nunggu pemberitahuan kerja dari Aksara Senja, botol ini jatuh menggelinding ke besi peron gara-gara tangan saya gemetaran menahan marah," lanjut Saka sambil mengetuk bagian bawah botol minum hitamnya yang penyok dengan jari telunjuk. "Sejak hari itu, botol penyok ini sengaja nggak pernah saya ganti."
+"Waktu saya duduk di kursi peron Stasiun Tugu sambil menunggu panggilan kerja dari Aksara Senja, botol ini jatuh menggelinding ke besi peron gara-gara tangan saya gemetaran menahan kesal pada diri sendiri," lanjut Saka sambil mengetuk bagian bawah botol minum hitamnya yang penyok dengan jari telunjuk. "Sejak hari itu, botol penyok ini sengaja nggak pernah saya ganti."
 
-Aku menatap lekukan penyok yang agak miring di dasar botol hitam legam itu. Gambar karikatur yang kubuat di halaman belakang buku sketsaku mendadak punya arti yang jauh lebih berat dari sekadar bahan ledekan.
+Aku menatap lekukan penyok yang agak miring di dasar botol hitam legam itu. Gambar karikatur yang kubuat di halaman belakang buku sketsaku mendadak punya arti yang jauh lebih dalam dari sekadar bahan ledekan.
 
-"Biar tiap kali saya minum," kata Saka tenang, "saya ingat dua hal. Pertama, jadi orang baik yang nggak punya batas itu ujung-ujungnya cuma menghancurkan hidup kita sendiri. Kedua, jangan pernah minta orang lain menunggu kita pakai janji manis kalau tangan kita sendiri belum memegang kepastian yang nyata."
+"Biar tiap kali saya minum," kata Saka tenang, "saya ingat kalau jadi orang baik yang nggak punya batas itu cuma merugikan diri sendiri dan orang-orang yang bergantung pada kita. Dan sejak itu juga saya berprinsip, saya nggak akan pernah menjanjikan apa-apa ke orang lain sebelum urusan saya sendiri benar-benar beres dan pasti di tangan."
 
 Saka menatapku lurus-lurus dari seberang meja.
 
@@ -1156,7 +1152,7 @@ Tepat sebelum dia berbalik menuju pintu dapur, langkahnya berhenti. Dia menoleh 
 
 "Apa?"
 
-"Soal Mas Saka," ucap Dimas lirih. "Aku bukannya mau ikut campur karena aku cemburu lihat kalian dekat sebulan ini. Tapi kamu udah tahu kan kalau surat penugasan Mas Saka dari kantor pusat Jogja itu cuma dua bulan?"
+"Soal Mas Saka," ucap Dimas lirih. "Aku bukannya mau ikut campur karena aku cemburu lihat kalian dekat sebulan ini. Tapi kamu udah tahu kan kalau surat penugasan Mas Saka dari kantor pusat Jogja itu cuma lima minggu sampai proyek buku ini selesai?"
 
 Dadaku mendadak terasa agak menyempit. Tanganku yang memegang gagang cangkir teh mengerat sedikit.
 
@@ -1178,7 +1174,7 @@ Aku berdiri mematung di depan dispenser yang mendengung pelan. Cangkir teh di de
 
 Selama dua hari setelah obrolan di dapur kantor itu, aku berusaha keras meyakinkan diriku sendiri bahwa ucapan Dimas hanyalah akal-akalan mantan pacar yang sedang panik mencari perhatian.
 
-Waktu Pak Ramdan memperkenalkan Saka di ruang rapat pada hari pertama dulu, Pak Ramdan memang sempat menyebut bahwa kami dipasangkan duduk semeja selama dua bulan untuk merampungkan buku Sela Waktu. Tapi aku selalu mengira dua bulan itu hanyalah batas waktu pengerjaan proyek bukunya, bukan batas waktu keberadaan Saka di Jakarta.
+Waktu Pak Ramdan memperkenalkan Saka di ruang rapat pada hari pertama dulu, Pak Ramdan memang sempat menyebut bahwa kami dipasangkan duduk semeja selama lima minggu untuk merampungkan buku Sela Waktu. Tapi aku selalu mengira lima minggu itu hanyalah batas waktu pengerjaan proyek bukunya, bukan batas waktu keberadaan Saka di Jakarta.
 
 Sampai akhirnya hari Jumat siang pukul satu lewat lima belas menit tiba.
 
@@ -1192,13 +1188,13 @@ Aku menurunkan tanganku yang hendak mengetuk pintu, menunggu Pak Ramdan menyeles
 
 Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terasa terpaku di atas karpet lorong.
 
-"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma dua bulan sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugas sementaranya di sini sudah habis. Soal berkas kepegawaian yang dia urus ke HRD barusan, nanti biar Saka sendiri yang pulang menghadap ke Yogyakarta buat minta tanda tangan Pak Bambang ya."
+"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma lima minggu sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugas sementaranya di sini sudah habis. Soal berkas kepegawaian yang dia urus ke HRD barusan, nanti biar Saka sendiri yang pulang menghadap ke Yogyakarta buat minta tanda tangan Pak Bambang ya."
 
 Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan dengan salam hangat.
 
 Aku berdiri diam di depan celah pintu itu. Napasku terasa pendek.
 
-Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku dua bulan. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena kami bekerja lebih cepat dari perkiraan, buku Sela Waktu sudah akan diluncurkan hari Jumat minggu depan, yang artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
 Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
 
@@ -1238,7 +1234,7 @@ Kalau aku tidak bertanya sekarang, aku bakal senewen sendiri sepanjang akhir pek
 
 "Berarti... minggu depan tugas kita di meja nomor empat ini udah selesai ya, Mas?" pancingku hati-hati, berusaha membuat suaraku terdengar santai seperti obrolan rekan kerja biasa.
 
-"Iya. Sesuai target awal, malah lebih cepat tiga hari," jawab Saka sambil memasukkan laptop ke dalam tas kanvasnya.
+"Iya. Sesuai target lima minggu dari awal, malah naskahnya sudah beres beberapa hari lebih cepat sebelum peluncuran Jumat depan," jawab Saka sambil memasukkan laptop ke dalam tas kanvasnya.
 
 Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 
@@ -1756,13 +1752,13 @@ Di barisan depan, Tari tersenyum sambil mengacungkan jempolnya, sementara Ibu me
 
 Tawa hangat terdengar dari deretan kursi pengunjung, termasuk dari Pak Ramdan yang duduk di sebelah kiriku.
 
-"Tapi justru dari rekan semeja yang kaku itulah saya diajari satu hal yang menyelamatkan hidup saya sebulan ini: bahwa bilang enggak pada hal yang menyakiti diri kita sendiri itu nggak akan bikin langit runtuh," kataku, suaraku mulai sedikit bergetar karena emosi yang membuncah di dada. "Dia orang pertama yang membela karya saya tanpa perlu menaikkan suara, yang diam-diam membiarkan bahunya basah kena hujan supaya saya tetap kering, dan yang selalu memutar tutup botol minum hitam penyoknya dua kali tiap kali habis berbohong demi menutupi perhatiannya ke saya."
+"Tapi justru dari rekan semeja yang kaku itulah saya belajar satu hal penting selama lima minggu menggarap buku ini: bahwa bilang enggak pada hal yang merugikan diri kita sendiri itu nggak akan bikin langit runtuh," kataku, suaraku terdengar hangat di pengeras suara. "Dia orang pertama di kantor yang membela arsiran kasar gambar saya dalam rapat, dan yang mengajari saya bahwa menghargai karya sendiri sama pentingnya dengan menghargai waktu orang lain."
 
-Ruangan aula menjadi hening, menyimak setiap kata yang kuucapkan.
+Ruangan aula menjadi hening, menyimak setiap kata yang kuucapkan dengan senyum hangat.
 
-Aku menarik napas dalam-dalam, membuang sisa gengsi terakhir yang kupunya.
+Aku menarik napas pelan, menatap kursi sofa kosong di sebelah kananku.
 
-"Sayangnya, beberapa hari yang lalu saya sempat berbuat bodoh," ucapku jujur. "Karena takut ditinggal pulang ke Yogyakarta waktu proyek buku ini selesai, saya sempat goyah, sempat ragu pada ketulusannya, dan malah mengucapkan kalimat yang menyakitkan sebelum dia berangkat. Jadi lewat halaman terakhir buku Sela Waktu ini, saya cuma ingin bilang terima kasih banyak untuk pemilik botol minum penyok itu, dan saya minta maaf karena sempat ragu."
+"Gambar kursi kosong dan bayangan botol minum penyok di halaman penutup itu tadinya saya buat waktu saya mengira meja kerja nomor empat bakal segera sepi setelah proyek buku ini selesai," tutupku jujur namun tetap menjaga ruang bagi kami berdua. "Jadi lewat halaman terakhir buku Sela Waktu ini, saya cuma ingin mengucapkan terima kasih banyak untuk editor buku ini, pemilik botol minum hitam penyok itu, karena sudah menjadi rekan kerja terbaik yang pernah duduk di sebelah saya."
 
 Tepuk tangan hangat langsung memenuhi ruangan aula begitu aku menurunkan mikrofon dari depan bibirku.
 
@@ -1824,13 +1820,13 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore kemarin itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Hari Jumat waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang itu belum turun tanda tangannya, makanya saya bilang harus balik ke Jogja dulu," jelas Saka tenang. "Selasa sore saya berangkat ke sana pakai kereta malam. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama saya, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
+"Pak Ramdan sebenarnya udah nawarin posisi tetap buat pegang lini buku ilustrasi baru di Jakarta sejak minggu kedua proyek kita berjalan," jelas Saka tenang. "Tiga minggu lalu saya resmi masukin berkas pengajuannya ke HRD. Hari Jumat kemarin waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang di Jogja belum turun tanda tangannya, makanya saya bilang harus balik ke sana dulu. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
 
 Air mata yang sejak tadi kutahan akhirnya jatuh satu tetes melewati pipiku, tapi bibirku justru tertarik membentuk senyum paling lebar dan paling lega yang pernah kurasakan.
 
 Aku menyeka pipiku cepat-cepat dengan punggung tangan, lalu menatap laki-laki berkemeja flanel di depanku ini dengan mata berbinar geli.
 
-"Tanggal pengajuannya tiga minggu lalu," kataku sambil menunjuk baris tanggal di surat itu. "Berarti waktu bohong soal cari kos buat teman dan ngajuin pindah tetap ke Jakarta itu gara-gara aku ya?"
+"Katanya waktu minggu pertama dulu lebih suka suasana kerja di Jogja," kataku sambil menunjuk baris tanggal pengajuan di surat itu. "Berarti waktu diam-diam cari kos tahunan di Cikini dan akhirnya mau ambil tawaran pindah tetap ke Jakarta itu gara-gara pengin duduk semeja terus sama aku ya?"
 
 Saka langsung menarik kembali surat itu dari tanganku dan memasukkannya ke dalam tas dengan wajah yang kembali dipasang lempeng tanpa ekspresi.
 

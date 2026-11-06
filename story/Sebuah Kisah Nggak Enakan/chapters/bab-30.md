@@ -24,13 +24,13 @@ Di barisan depan, Tari tersenyum sambil mengacungkan jempolnya, sementara Ibu me
 
 Tawa hangat terdengar dari deretan kursi pengunjung, termasuk dari Pak Ramdan yang duduk di sebelah kiriku.
 
-"Tapi justru dari rekan semeja yang kaku itulah saya diajari satu hal yang menyelamatkan hidup saya sebulan ini: bahwa bilang enggak pada hal yang menyakiti diri kita sendiri itu nggak akan bikin langit runtuh," kataku, suaraku mulai sedikit bergetar karena emosi yang membuncah di dada. "Dia orang pertama yang membela karya saya tanpa perlu menaikkan suara, yang diam-diam membiarkan bahunya basah kena hujan supaya saya tetap kering, dan yang selalu memutar tutup botol minum hitam penyoknya dua kali tiap kali habis berbohong demi menutupi perhatiannya ke saya."
+"Tapi justru dari rekan semeja yang kaku itulah saya belajar satu hal penting selama lima minggu menggarap buku ini: bahwa bilang enggak pada hal yang merugikan diri kita sendiri itu nggak akan bikin langit runtuh," kataku, suaraku terdengar hangat di pengeras suara. "Dia orang pertama di kantor yang membela arsiran kasar gambar saya dalam rapat, dan yang mengajari saya bahwa menghargai karya sendiri sama pentingnya dengan menghargai waktu orang lain."
 
-Ruangan aula menjadi hening, menyimak setiap kata yang kuucapkan.
+Ruangan aula menjadi hening, menyimak setiap kata yang kuucapkan dengan senyum hangat.
 
-Aku menarik napas dalam-dalam, membuang sisa gengsi terakhir yang kupunya.
+Aku menarik napas pelan, menatap kursi sofa kosong di sebelah kananku.
 
-"Sayangnya, beberapa hari yang lalu saya sempat berbuat bodoh," ucapku jujur. "Karena takut ditinggal pulang ke Yogyakarta waktu proyek buku ini selesai, saya sempat goyah, sempat ragu pada ketulusannya, dan malah mengucapkan kalimat yang menyakitkan sebelum dia berangkat. Jadi lewat halaman terakhir buku Sela Waktu ini, saya cuma ingin bilang terima kasih banyak untuk pemilik botol minum penyok itu, dan saya minta maaf karena sempat ragu."
+"Gambar kursi kosong dan bayangan botol minum penyok di halaman penutup itu tadinya saya buat waktu saya mengira meja kerja nomor empat bakal segera sepi setelah proyek buku ini selesai," tutupku jujur namun tetap menjaga ruang bagi kami berdua. "Jadi lewat halaman terakhir buku Sela Waktu ini, saya cuma ingin mengucapkan terima kasih banyak untuk editor buku ini, pemilik botol minum hitam penyok itu, karena sudah menjadi rekan kerja terbaik yang pernah duduk di sebelah saya."
 
 Tepuk tangan hangat langsung memenuhi ruangan aula begitu aku menurunkan mikrofon dari depan bibirku.
 

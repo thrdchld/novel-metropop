@@ -46,13 +46,13 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Mutasi tetap ke Jakarta? Jadi... Mas Saka berangkat ke Jogja hari Selasa sore kemarin itu bukan karena mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Hari Jumat waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang itu belum turun tanda tangannya, makanya saya bilang harus balik ke Jogja dulu," jelas Saka tenang. "Selasa sore saya berangkat ke sana pakai kereta malam. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama saya, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
+"Pak Ramdan sebenarnya udah nawarin posisi tetap buat pegang lini buku ilustrasi baru di Jakarta sejak minggu kedua proyek kita berjalan," jelas Saka tenang. "Tiga minggu lalu saya resmi masukin berkas pengajuannya ke HRD. Hari Jumat kemarin waktu kamu tanya rencana saya, surat pelepasan dari Pak Bambang di Jogja belum turun tanda tangannya, makanya saya bilang harus balik ke sana dulu. Begitu turun di Stasiun Tugu hari Rabu pagi dan baca pesan dari Tari kalau kamu udah mutusin mantan kamu malam sebelumnya, saya langsung kebut beresin kontrak kamar kos lama, mengemasi sisa buku ke kardus ekspedisi, sama kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Stasiun Gambir hari ini. Mulai Senin besok, meja nomor empat itu meja tetap saya."
 
 Air mata yang sejak tadi kutahan akhirnya jatuh satu tetes melewati pipiku, tapi bibirku justru tertarik membentuk senyum paling lebar dan paling lega yang pernah kurasakan.
 
 Aku menyeka pipiku cepat-cepat dengan punggung tangan, lalu menatap laki-laki berkemeja flanel di depanku ini dengan mata berbinar geli.
 
-"Tanggal pengajuannya tiga minggu lalu," kataku sambil menunjuk baris tanggal di surat itu. "Berarti waktu bohong soal cari kos buat teman dan ngajuin pindah tetap ke Jakarta itu gara-gara aku ya?"
+"Katanya waktu minggu pertama dulu lebih suka suasana kerja di Jogja," kataku sambil menunjuk baris tanggal pengajuan di surat itu. "Berarti waktu diam-diam cari kos tahunan di Cikini dan akhirnya mau ambil tawaran pindah tetap ke Jakarta itu gara-gara pengin duduk semeja terus sama aku ya?"
 
 Saka langsung menarik kembali surat itu dari tanganku dan memasukkannya ke dalam tas dengan wajah yang kembali dipasang lempeng tanpa ekspresi.
 

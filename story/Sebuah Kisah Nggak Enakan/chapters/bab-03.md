@@ -12,7 +12,7 @@ Di sebelahku, Tari menyenggol lenganku sambil menyelundupkan sebutir makaroni pe
 
 "Masa sih?" bisikku balik, makin ciut.
 
-"Karena Mas Bagas yang tadinya pegang ilustrasi Sela Waktu semalam masuk rumah sakit kena demam berdarah, saya sudah putuskan Nadia yang ambil alih," lanjut Pak Ramdan sambil melirik catatannya. "Buku ini punya empat puluh ilustrasi halaman penuh yang tata letaknya harus dikerjakan bareng naskah baris demi baris. Jadi mulai hari ini selama dua bulan ke depan, Nadia pindah duduk semeja sama Saka di meja proyek nomor empat yang ada monitor kalibrasi warnanya biar koordinasinya cepat."
+"Karena Mas Bagas yang tadinya pegang ilustrasi Sela Waktu semalam masuk rumah sakit kena demam berdarah, saya sudah putuskan Nadia yang ambil alih," lanjut Pak Ramdan sambil melirik catatannya. "Buku ini punya empat puluh ilustrasi halaman penuh yang tata letaknya harus dikerjakan bareng naskah baris demi baris. Jadi mulai hari ini selama lima minggu ke depan sampai jadwal peluncuran buku, Nadia pindah duduk semeja sama Saka di meja proyek nomor empat yang ada monitor kalibrasi warnanya biar koordinasinya cepat."
 
 Aku hampir tersedak ludahku sendiri.
 
@@ -58,6 +58,6 @@ Saka berhenti mengetik. Dia menoleh penuh ke arahku, menatap tumpukan map itu, l
 
 "Enggak lah, Mas. Gaji standar," jawabku bingung.
 
-"Terus kenapa meja kamu kayak loket penampungan barang hilang?" Saka menunjuk map kuning di paling bawah tumpukan. "Singkirkan yang tiga itu dari meja ini. Selama dua bulan ke depan, di meja nomor empat cuma boleh ada kerjaan kita."
+"Terus kenapa meja kamu kayak loket penampungan barang hilang?" Saka menunjuk map kuning di paling bawah tumpukan. "Singkirkan yang tiga itu dari meja ini. Selama lima minggu ke depan, di meja nomor empat cuma boleh ada kerjaan kita."
 
 Aku menelan ludah, menatap pria Jogja di sebelahku ini dengan perasaan ngeri sekaligus takjub. Baru hari pertama duduk sebelahan, rasanya hidupku yang penuh basa-basi selama dua tahun di kantor ini bakal segera jungkir balik.

@@ -14,7 +14,7 @@ Kalau aku tidak bertanya sekarang, aku bakal senewen sendiri sepanjang akhir pek
 
 "Berarti... minggu depan tugas kita di meja nomor empat ini udah selesai ya, Mas?" pancingku hati-hati, berusaha membuat suaraku terdengar santai seperti obrolan rekan kerja biasa.
 
-"Iya. Sesuai target awal, malah lebih cepat tiga hari," jawab Saka sambil memasukkan laptop ke dalam tas kanvasnya.
+"Iya. Sesuai target lima minggu dari awal, malah naskahnya sudah beres beberapa hari lebih cepat sebelum peluncuran Jumat depan," jawab Saka sambil memasukkan laptop ke dalam tas kanvasnya.
 
 Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 

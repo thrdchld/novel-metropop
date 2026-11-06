@@ -2,7 +2,7 @@
 
 Selama dua hari setelah obrolan di dapur kantor itu, aku berusaha keras meyakinkan diriku sendiri bahwa ucapan Dimas hanyalah akal-akalan mantan pacar yang sedang panik mencari perhatian.
 
-Waktu Pak Ramdan memperkenalkan Saka di ruang rapat pada hari pertama dulu, Pak Ramdan memang sempat menyebut bahwa kami dipasangkan duduk semeja selama dua bulan untuk merampungkan buku Sela Waktu. Tapi aku selalu mengira dua bulan itu hanyalah batas waktu pengerjaan proyek bukunya, bukan batas waktu keberadaan Saka di Jakarta.
+Waktu Pak Ramdan memperkenalkan Saka di ruang rapat pada hari pertama dulu, Pak Ramdan memang sempat menyebut bahwa kami dipasangkan duduk semeja selama lima minggu untuk merampungkan buku Sela Waktu. Tapi aku selalu mengira lima minggu itu hanyalah batas waktu pengerjaan proyek bukunya, bukan batas waktu keberadaan Saka di Jakarta.
 
 Sampai akhirnya hari Jumat siang pukul satu lewat lima belas menit tiba.
 
@@ -16,13 +16,13 @@ Aku menurunkan tanganku yang hendak mengetuk pintu, menunggu Pak Ramdan menyeles
 
 Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terasa terpaku di atas karpet lorong.
 
-"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma dua bulan sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugas sementaranya di sini sudah habis. Soal berkas kepegawaian yang dia urus ke HRD barusan, nanti biar Saka sendiri yang pulang menghadap ke Yogyakarta buat minta tanda tangan Pak Bambang ya."
+"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma lima minggu sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugas sementaranya di sini sudah habis. Soal berkas kepegawaian yang dia urus ke HRD barusan, nanti biar Saka sendiri yang pulang menghadap ke Yogyakarta buat minta tanda tangan Pak Bambang ya."
 
 Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan dengan salam hangat.
 
 Aku berdiri diam di depan celah pintu itu. Napasku terasa pendek.
 
-Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku dua bulan. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena kami bekerja lebih cepat dari perkiraan, buku Sela Waktu sudah akan diluncurkan hari Jumat minggu depan, yang artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
 Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
 
