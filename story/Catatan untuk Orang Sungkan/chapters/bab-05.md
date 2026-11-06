@@ -20,7 +20,7 @@ Meski begitu, tanganku di bawah meja sudah otomatis merogoh dompet lipatku. Rasa
 
 Tepat saat jari tanganku menyentuh lembaran uang lima puluh ribuan di dalam dompet, siku kananku disenggol pelan dari samping.
 
-Aku menoleh sedikit. Saka yang duduk di sebelah kananku sedang menatap piring kosongnya dengan wajah datar, tapi kepalanya miring sedikit ke arahku.
+Aku menoleh sedikit. Saka yang duduk di sebelah kananku sedang menatap piring kosongnya dengan tenang, tapi kepalanya miring sedikit ke arahku.
 
 "Ingat kertas kuning di monitor kamu," bisik Saka pelan, hanya cukup terdengar olehku di tengah suara bising pengamen jalanan. "Sekali aja hari ini. Coba bilang enggak."
 

@@ -44,7 +44,7 @@ Mbak Dinda tertegun, tangannya menggantung di udara. "Hah? Maksudnya gimana ya, 
 
 Wajah Mbak Dinda langsung berubah merah padam. Dia melirik ke arahku dengan tatapan meminta bantuan, berharap aku akan menyelamatkannya dengan berkata tidak apa-apa seperti biasanya.
 
-Aku menggigit bibir bagian dalamku, menatap wajah datar Saka, lalu menatap flash disk di tangan Mbak Dinda.
+Aku menggigit bibir bagian dalamku, menatap Saka yang berdiri tenang di samping kursinya, lalu menatap flash disk di tangan Mbak Dinda.
 
 "Nad, beresin tasmu," perintah Saka singkat sambil mengetuk pelan pinggiran papan gambarku dengan jari telunjuknya. "Listrik meja nomor empat mau saya matikan."
 

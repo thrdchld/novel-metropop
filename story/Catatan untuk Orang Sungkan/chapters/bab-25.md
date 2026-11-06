@@ -34,7 +34,7 @@ Rahang Saka tampak mengeras. Sorot matanya yang tadinya menatapku penuh tanda ta
 
 "Oh, gitu," kata Saka pendek.
 
-Dadaku langsung terasa mencelos. "Cuma... cuma itu tanggapan Mas Saka?"
+Harapanku langsung runtuh seketika. "Cuma... cuma itu tanggapan Mas Saka?"
 
 "Terus kamu mau saya ngomong apa, Nad?" tanya Saka dengan suara rendah yang tertahan. "Surat urusan saya di Yogyakarta aja belum turun tanda tangannya minggu ini. Kalau orang yang udah kenal keluarga kamu dua tahun itu beneran udah berubah, dan Ibu kamu sendiri merasa lebih tenang sama dia, saya nggak punya hak buat nahan kamu pakai janji yang belum ada di tangan saya. Itu memang pilihan paling masuk akal buat kamu."
 

@@ -12,11 +12,11 @@ Kata Pak Ramdan sebelum naik ke panggung tadi, Saka sebenarnya sudah naik kereta
 
 Seluruh pasang mata di ruangan itu langsung tertuju kepadaku.
 
-Dulu, seperti yang diejekkan Dimas di rumah makan Selasa malam lalu, kalau harus berbicara di depan puluhan orang begini, tanganku pasti sudah dingin dan kalimatku bakal berubah kaku seperti robot penjawab otomatis.
+Sejujurnya, ujung jariku yang memegang mikrofon saat ini masih terasa dingin. Sejak kemarin malam aku sudah berlatih bicara berkali-kali di depan cermin kamar dan mencatat poin-poin bahasan di kartu kecil supaya tidak panik seperti yang diejekkan Dimas di rumah makan Selasa malam lalu.
 
-Namun sore ini, saat aku memegang mikrofon di tanganku dan menatap kursi kosong di sebelah kananku, tidak ada rasa takut sedikit pun. Yang ada hanyalah keinginan kuat untuk berkata jujur tanpa bersembunyi lagi.
+Namun saat aku melirik catatan kecil di pangkuanku lalu menatap kursi kosong di sebelah kananku, aku menarik napas panjang untuk menenangkan gugupku. Aku tidak perlu terdengar seperti pembicara hebat sore ini; aku hanya perlu bercerita jujur tanpa bersembunyi di balik kalimat robot lagi.
 
-"Gambar dua meja kerja di halaman terakhir itu sebenarnya adalah meja proyek nomor empat di kantor kami," bukaku dengan suara jernih yang menggema lembut lewat pengeras suara ruangan. "Sebulan yang lalu, sebelum mengerjakan buku ini, saya itu tipe orang yang punya penyakit nggak enakan kronis. Saya nggak pernah berani bilang enggak sama siapa pun, bahkan ketika kebaikan saya dimanfaatkan orang lain."
+"Gambar dua meja kerja di halaman terakhir itu sebenarnya adalah meja proyek nomor empat di kantor kami," bukaku. Suaraku sempat bergetar tipis di kata pertama, tetapi perlahan terdengar makin tenang lewat pengeras suara ruangan. "Sebulan yang lalu, sebelum mengerjakan buku ini, saya itu tipe orang yang punya penyakit nggak enakan kronis. Saya nggak pernah berani bilang enggak sama siapa pun, bahkan ketika kebaikan saya dimanfaatkan orang lain."
 
 Di barisan depan, Tari tersenyum sambil mengacungkan jempolnya, sementara Ibu menatapku dengan mata berkaca-kaca yang hangat.
 

@@ -10,7 +10,7 @@ Aku duduk di bangku sebelah dalam sambil meletakkan buku sketsaku di atas meja, 
 
 Aku mengerjap kaget menatapnya. "Loh, Mas Saka tahu dari mana aku nggak suka daun seledri?"
 
-"Hari Rabu waktu makan ayam bakar, kamu nyisihin daun kemangi sama seledri dari lalapan ke pinggir piring sampai numpuk kayak bukit kecil," jawab Saka datar sambil menuang air teh tawar dari teko plastik ke gelas kami. "Kemarin waktu makan bakso di kantin bawah juga kamu minta kuah kosongan."
+"Hari Rabu waktu makan ayam bakar, kamu nyisihin daun kemangi sama seledri dari lalapan ke pinggir piring sampai numpuk kayak bukit kecil," jawab Saka santai sambil menuang air teh tawar dari teko plastik ke gelas kami. "Kemarin waktu makan bakso di kantin bawah juga kamu minta kuah kosongan."
 
 Aku terdiam. Padahal selama dua tahun pacaran sama Dimas, setiap kali Dimas membelikanku bubur ayam atau bakso, mangkukku selalu penuh taburan seledri sampai hijau semua. Kalau kuingatkan, Dimas cuma tertawa sambil bilang: Ya tinggal disingkirin pakai sendok, Nad, gitu aja repot.
 

@@ -32,7 +32,7 @@ Bagi telingaku yang sedang dikuasai rasa takut, kalimat itu terdengar seperti pa
 
 Apalagi penyakit nggak enakanku langsung ikut berbisik di kepalaku: memangnya aku ini siapanya Saka sampai berhak menuntut penjelasan atau menahannya tetap tinggal di Jakarta? Status kami saja tidak pernah jelas, dan aku paling takut menjadi beban yang menghalangi seseorang pulang ke rumahnya sendiri.
 
-Rasa malu dan takut ditinggalkan langsung menyergap dadaku secara bersamaan. Malu karena selama seminggu terakhir ini aku sudah melambung terlalu jauh gara-gara sebungkus cokelat dan sekotak martabak manis, sampai-sampai berani menggambar botol minumnya di halaman buku.
+Rasa malu dan takut ditinggalkan langsung menyergapku secara bersamaan. Malu karena selama seminggu terakhir ini aku sudah melambung terlalu jauh gara-gara sebungkus cokelat dan sekotak martabak manis, sampai-sampai berani menggambar botol minumnya di halaman buku.
 
 "Nad?" panggil Saka waktu melihatku hanya duduk mematung menatap tempat pensil. "Kamu mau pulang sekarang? Ayo turun bareng ke stasiun."
 

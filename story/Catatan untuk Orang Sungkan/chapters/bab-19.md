@@ -44,7 +44,7 @@ Tepat sebelum dia berbalik menuju pintu dapur, langkahnya berhenti. Dia menoleh 
 
 "Soal Mas Saka," ucap Dimas lirih. "Aku bukannya mau ikut campur karena aku cemburu lihat kalian dekat sebulan ini. Tapi kamu udah tahu kan kalau surat penugasan Mas Saka dari kantor pusat Jogja itu cuma lima minggu sampai proyek buku ini selesai?"
 
-Dadaku mendadak terasa agak menyempit. Tanganku yang memegang gagang cangkir teh mengerat sedikit.
+Senyum tipis di wajahku langsung memudar. Tanganku yang memegang gagang cangkir teh mengerat sedikit.
 
 "Maksud Mas Dimas?" tanyaku, berusaha menjaga suaraku tetap datar.
 

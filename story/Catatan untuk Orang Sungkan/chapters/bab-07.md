@@ -48,7 +48,7 @@ Saka menatapku beberapa detik, lalu membuka laci kecil di bawah mejanya.
 
 Dia mengeluarkan sebatang cokelat susu kemasan ungu ukuran sedang yang biasa dipajang di dekat kasir minimarket, lalu meletakkannya tepat di atas buku sketsaku.
 
-Aku menatap cokelat itu, lalu menatap wajah datar Saka. "Ini buat apa, Mas?"
+Aku menatap cokelat itu, lalu mendongak menatap Saka. "Ini buat apa, Mas?"
 
 "Makan aja. Kata orang kalau habis gemetaran itu gula darahnya turun," jawab Saka sambil mulai mematikan laptopnya karena jam dinding sudah menunjukkan pukul lima kurang dua menit.
 

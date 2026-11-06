@@ -54,7 +54,7 @@ Saka sudah duduk di kursi sebelah, membuka laptop perak miliknya dan meletakkan 
 
 Saka berhenti mengetik. Dia menoleh penuh ke arahku, menatap tumpukan map itu, lalu menatap wajahku.
 
-"Gaji kamu di kantor ini dibayar empat kali lipat?" tanyanya datar.
+"Gaji kamu di kantor ini dibayar empat kali lipat?" tanyanya lugas.
 
 "Enggak lah, Mas. Gaji standar," jawabku bingung.
 

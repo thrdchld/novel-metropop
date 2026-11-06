@@ -12,7 +12,7 @@ Aku berdiri di teras kecil dekat rak sepatu kos, menerima kembali tabung gambar 
 
 Namun dia belum langsung berbalik pergi. Tangan kanannya terulur menyodorkan kantong plastik berisi kotak martabak manis yang masih hangat itu ke arahku.
 
-"Sekalian bawa masuk ini," kata Saka datar.
+"Sekalian bawa masuk ini," kata Saka singkat.
 
 Aku menatap bungkusan itu lalu menatap wajahnya dengan kening berkerut. "Loh, bukannya Mas Saka tadi berhenti di gerobak depan karena mau cari makan malam buat sendiri?"
 

@@ -14,7 +14,7 @@ Dimas tersenyum sopan kepada Ibu, lalu menoleh ke arahku. Di atas meja, tanganny
 
 Ibu menatapku dengan pandangan penuh harap dari seberang meja.
 
-Aku menarik napas pendek. Meskipun sejak berangkat dari kantor tadi sore ada rasa hampa yang mengganjal di dadaku setiap kali teringat meja nomor empat, melihat wajah bahagia Ibu membuatku pasrah. Aku sudah menundukkan dagu sedikit, bersiap menganggukkan kepalaku untuk menjawab iya.
+Aku menarik napas pendek. Meskipun sejak berangkat dari kantor tadi sore pikiranku terus tertinggal di meja nomor empat yang sepi, melihat wajah bahagia Ibu membuatku pasrah. Aku sudah menundukkan dagu sedikit, bersiap menganggukkan kepalaku untuk menjawab iya.
 
 Namun tepat di detik aku hendak membuka mulut, seorang pelayan rumah makan datang mengantarkan pesanan minuman kami dan meletakkan segelas es jeruk tanpa gula di depanku, padahal tadi aku memesan teh tawar hangat.
 
@@ -48,7 +48,7 @@ Detik itu juga, rasanya seperti ada seseorang yang menyiramkan seember air dingi
 
 Tari benar.
 
-Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Dia menangis di dapur kantor, membawakan teh melati, dan mengantar ibuku ke klinik hari Sabtu lalu bukan karena dia menghargaiku sebagai manusia. Dia melakukan semua itu semata-mata karena egonya terluka melihatku bersinar di meja nomor empat bersama Saka, dan dia rindu memiliki pelayan gratis yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya!
+Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Mungkin rasa menyesalnya waktu kesepian di dapur kantor atau bantuannya mengantar ibuku ke klinik hari Sabtu lalu memang ada benarnya, tetapi semua itu tidak mengubah cara pandangnya terhadapku. Di matanya, yang dia rindukan bukanlah aku sebagai pasangan yang setara, melainkan pelayan sabar yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya.
 
 Dan aku, karena takut ditinggal Saka pulang ke Yogyakarta, hampir saja menyerahkan kembali harga diriku dan mengorbankan panggung buku Sela Waktu yang telah diperjuangkan Saka mati-matian untukku di ruang rapat.
 

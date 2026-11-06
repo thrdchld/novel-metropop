@@ -20,11 +20,11 @@ Aku menoleh ke samping, menatap profil wajahnya dari bawah bayangan topi ruko.
 
 "Kenapa pindah sebelah situ, Mas? Panas loh kena matahari langsung," kataku.
 
-"Trotoar sebelah dalam lantainya miring. Saya malas jalan miring," jawab Saka datar, pandangannya lurus ke depan.
+"Motor kurir di jalur ini suka ngebut mepet trotoar. Kamu jalan di sebelah dalam aja biar aman," jawab Saka singkat, pandangannya lurus ke depan.
 
-Aku menunduk melihat ubin trotoar yang sedang kupijak. Ubinnya rata-rata saja, sama sekali tidak miring. Aku menahan senyum kecil. Dulu waktu masih pacaran sama Dimas, kalau kami jalan di trotoar lalu dia pindah ke sisi luar, Dimas pasti langsung merangkul bahuku sambil pengumuman keras-keras: Lihat nih, Nad, aku jagain kamu biar nggak keserempet motor, kurang romantis apa coba pacar kamu ini?
+Aku mengerjap pelan, lalu menahan senyum kecil. Dulu waktu masih pacaran sama Dimas, kalau kami jalan di trotoar lalu dia pindah ke sisi luar, Dimas pasti langsung merangkul bahuku sambil pengumuman keras-keras: Lihat nih, Nad, aku jagain kamu biar nggak keserempet motor, kurang romantis apa coba pacar kamu ini?
 
-Sementara laki-laki di sebelahku ini malah menyalahkan kemiringan ubin trotoar pemerintah daerah.
+Sementara laki-laki di sebelahku ini cuma bergeser tenang tanpa merasa perlu pamer apa-apa.
 
 Kami berhenti di salah satu kios buku tua yang bagian depannya dipenuhi tumpukan majalah tahun sembilan puluhan dan buku-buku bersampul kertas kuning kecokelatan. Bapak pemilik kios yang memakai kacamata baca melorot di ujung hidung melambai ramah mempersilakan kami membongkar tumpukan di rak belakang.
 

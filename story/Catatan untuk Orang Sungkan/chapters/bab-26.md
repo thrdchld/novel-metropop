@@ -44,6 +44,6 @@ Aku menatap kursi kerja Saka yang kosong di sebelahku, lalu pandanganku beralih 
 
 Kertas post-it kuning bertuliskan Bilang enggak itu nggak bikin langit runtuh yang ditempelkan Saka tiga minggu lalu kini bagian sudut lemnya sudah mulai kering dan agak mengelupas terkena angin AC.
 
-Dadaku mendadak terasa sesak dan hampa luar biasa. Kalau nanti malam aku resmi kembali berpacaran dengan Dimas, aku tidak berhak lagi menyimpan harapan pada pemilik tulisan tangan di kertas kuning ini.
+Tenggorokanku mendadak terasa tercekat melihat kertas kuning itu. Kalau nanti malam aku resmi kembali berpacaran dengan Dimas, aku tidak berhak lagi menyimpan harapan pada pemilik tulisan tangan di sana.
 
 Dengan jari yang terasa berat, aku menarik lepas kertas post-it kuning itu dari bingkai monitorku. Aku membuka buku sketsaku tepat di halaman belakang tempat gambar karikatur Saka berada, lalu menempelkan kertas kuning itu di sana sebelum menutup bukunya rapat-rapat.

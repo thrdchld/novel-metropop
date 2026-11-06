@@ -56,7 +56,7 @@ Aku menyeka pipiku cepat-cepat dengan punggung tangan, lalu menatap laki-laki be
 
 Saka langsung menarik kembali surat itu dari tanganku dan memasukkannya ke dalam tas dengan wajah yang kembali dipasang lempeng tanpa ekspresi.
 
-"Enggak," jawab Saka lempeng, membuang pandangannya sedikit ke arah pepohonan taman. "Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung depan gedung kantor."
+"Enggak," elak Saka singkat, membuang pandangannya sedikit ke arah pepohonan taman. "Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung depan gedung kantor."
 
 Pandanganku turun ke arah tangan kanan Saka yang masih memegang botol minum hitam penyoknya di atas besi pagar balkon.
 

@@ -38,7 +38,7 @@ Klik.
 
 Layar laptop perak di sebelahku tertutup rapat.
 
-"Lumayan," komentar Saka datar sambil memasukkan kabel pengisi dayanya ke dalam tas selempang kanvas hitamnya. "Sekarang nolak dua orang sekaligus cuma butuh waktu kurang dari sepuluh detik. Sekalian nagih utang pula."
+"Lumayan," komentar Saka santai sambil memasukkan kabel pengisi dayanya ke dalam tas selempang kanvas hitamnya. "Sekarang nolak dua orang sekaligus cuma butuh waktu kurang dari sepuluh detik. Sekalian nagih utang pula."
 
 "Kan gurunya galak, Mas. Kalau muridnya nggak lulus-lulus nanti disuruh ngomel di tangga darurat lagi," sahutku sambil tertawa kecil dan mulai merapikan tempat pensilku.
 

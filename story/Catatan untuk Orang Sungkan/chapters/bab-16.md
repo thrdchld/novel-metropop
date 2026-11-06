@@ -10,7 +10,7 @@ Lima menit yang lalu, Saka sebenarnya sudah keluar dari lobi dan berpamitan sing
 
 Tepat saat aku sedang menimbang-nimbang apakah harus menunggu setengah jam lagi di lobi, sebuah bayangan payung hitam lebar berhenti di depan tangga teras gedung.
 
-Pegangan payung itu terangkat sedikit, memperlihatkan wajah datar Saka di bawahnya.
+Pegangan payung itu terangkat sedikit, memperlihatkan sosok Saka di bawahnya.
 
 "Loh, Mas Saka? Kok balik lagi? Keretanya ketinggalan?" tanyaku kaget.
 
@@ -34,14 +34,14 @@ Anehnya, tidak ada rasa canggung yang menyiksa. Udara petang yang sejuk bercampu
 
 "Saya sebenarnya paling malas debat di rapat," sahut Saka. Layar lampu jalanan yang mulai menyala memantul di garis wajahnya yang tenang. "Tapi kalau ada orang yang nyerang kerjaan tim saya pakai alasan mengada-ada, saya nggak bisa diam aja. Apalagi sampul itu kamu kerjakan sampai ganti warna berkali-kali."
 
-Dadaku terasa hangat. Aku menoleh sedikit, memperhatikannya dari samping.
+Sudut bibirku terangkat tipis mendengar kalimat itu. Aku menoleh sedikit, memperhatikannya dari samping.
 
 Sejak keluar dari gerbang gedung tadi, Saka kembali mengambil posisi berjalan di sisi luar trotoar yang berbatasan dengan jalan raya beraspal. Setiap kali ada mobil atau motor melintas agak cepat melewati genangan air di pinggir jalan, Saka otomatis memiringkan sedikit payung hitamnya ke arahku untuk menghalangi tempias air.
 
 "Mas, payungnya terlalu miring ke tempatku," tegurku waktu melihat bagian bahu kanan kemeja flanelnya mulai gelap terkena bintik-bintik air hujan. "Bahu kanan Mas Saka basah tuh."
 
-"Enggak, ini cuma kena angin dikit," elak Saka datar, sama sekali tidak mengubah kemiringan gagang payungnya. "Kamu jalan agak ke dalam aja, jangan dekat-dekat genangan."
+"Kemeja flanel cepat kering kalau kena angin. Kalau tas kerja kamu yang basah, nanti buku sketsamu ikut lembap," sahut Saka tenang tanpa mengubah kemiringan gagang payungnya. "Kamu jalan agak ke dalam aja, jangan dekat-dekat genangan."
 
-Aku menatap bahu kemeja flanelnya yang jelas-jelas lembap oleh air gerimis, lalu menatap sepatu kets dan rok kerjaku sendiri yang masih kering sempurna. Dulu waktu sama Dimas, baru kena gerimis dua tetes saja dia sudah sibuk menyelamatkan rambutnya sendiri pakai map kertas. Sementara laki-laki Jogja di sebelahku ini malah rela bahunya basah kuyup sambil tetap ngotot bilang cuma kena angin.
+Aku menatap bahu kemeja flanelnya yang mulai gelap oleh air gerimis, lalu menatap sepatu kets dan tas kerjaku sendiri yang masih kering sempurna. Dulu waktu sama Dimas, baru kena gerimis dua tetes saja dia sudah sibuk menyelamatkan rambutnya sendiri pakai map kertas. Sementara laki-laki Jogja di sebelahku ini malah lebih mengkhawatirkan nasib buku sketsaku daripada kemejanya sendiri.
 
 Langkah kaki kami berbelok memasuki mulut gang kosku, tempat gerobak martabak manis langganan sedang mengepulkan uap mentega panas.

@@ -46,6 +46,6 @@ Saat rapat selesai dan orang-orang mulai berdiri meninggalkan ruangan, aku menol
 
 "Mas Saka... sejak kapan nyiapin tabel penjualan tadi?" tanyaku pelan.
 
-"Sejak jam dua siang waktu dia mampir ke meja kita buat nyindir warna sampulmu," jawab Saka datar sambil memasukkan laptop ke dalam tasnya. "Orang yang suka ngomong besar tanpa dasar itu paling gampang dibungkam pakai tanda tangannya sendiri. Udah, ayo balik ke meja."
+"Sejak jam dua siang waktu dia mampir ke meja kita buat nyindir warna sampulmu," jawab Saka tenang sambil memasukkan laptop ke dalam tasnya. "Orang yang suka ngomong besar tanpa dasar itu paling gampang dibungkam pakai tanda tangannya sendiri. Udah, ayo balik ke meja."
 
 Aku menatap punggung kemeja flanelnya yang berjalan lebih dulu keluar pintu ruang rapat, lalu buru-buru merapikan buku catatanku dan melangkah menyusulnya dengan senyum yang sulit kutahan.

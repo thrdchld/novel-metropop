@@ -56,7 +56,7 @@ Aku ingin sekali membuka pintu besi di belakangku lalu terjun bebas ke tempat sa
 
 Dia berdiri dari anak tangga, menepuk sedikit debu di belakang celana bahan gelapnya, lalu turun tiga langkah mendekatiku. Tingginya mungkin sekitar seratus tujuh puluh delapan sentimeter, cukup bikin aku harus sedikit mendongak waktu dia berhenti di anak tangga terakhir.
 
-"Tadi di ruang desain saya lihat kamu ngetik email sambil senyum sopan," katanya dengan nada datar tanpa ekspresi menghakimi, lebih mirip orang yang sedang membaca laporan cuaca. "Kirain emang ikhlas lembur. Tahunya ngamuknya dicicil di tangga."
+"Tadi di ruang desain saya lihat kamu ngetik email sambil senyum sopan," katanya tenang tanpa nada menghakimi, lebih mirip orang yang sedang membaca laporan cuaca. "Kirain emang ikhlas lembur. Tahunya ngamuknya dicicil di tangga."
 
 Otakku yang panik langsung menyalakan mode pertahanan diri paling buruk yang kupunya. Aku merapatkan kedua tangan di depan perut dan membungkuk sedikit.
 
