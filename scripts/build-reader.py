@@ -18,6 +18,7 @@ OUTPUT_FILE = REPO_ROOT / "reader.html"
 
 def parse_story(folder: Path) -> dict:
     canon_file = folder / "canon.md"
+    publish_file = folder / "publish-stuff.md"
     title = folder.name
     reader_id = ""
     blurb = ""
@@ -47,6 +48,12 @@ def parse_story(folder: Path) -> dict:
         tema = get_field(r"-\s+\*\*?Tema:\*\*?\s*(.*?)(?=\n-|\n##|$)")
         latar = get_field(r"-\s+\*\*?Latar:\*\*?\s*(.*?)(?=\n-|\n##|$)") or latar
         pertanyaan = get_field(r"-\s+\*\*?Pertanyaan Dramatik:\*\*?\s*(.*?)(?=\n-|\n##|$)")
+
+    if publish_file.is_file():
+        p_text = publish_file.read_text(encoding="utf-8")
+        p_blurb_m = re.search(r"##\s+Blurb\s*\n+(.*?)(?=\n---|\n##|\Z)", p_text, re.S)
+        if p_blurb_m and p_blurb_m.group(1).strip():
+            blurb = re.sub(r"\n{2,}", "\n\n", p_blurb_m.group(1).strip())
 
         cast_m = re.search(r"##\s+Cast\s*\n\s*\|.*?\n\|[-| :]+\n(.*?)(?=\n##|\Z)", c_text, re.S)
         if cast_m:
@@ -475,6 +482,7 @@ def generate_html(stories: list) -> str:
       font-size: 0.95rem;
       color: var(--text-secondary);
       line-height: 1.65;
+      white-space: pre-line;
       margin: 14px 0 18px;
       background: var(--bg-muted);
       padding: 14px 18px;
