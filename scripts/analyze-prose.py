@@ -26,19 +26,13 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-WORD_RE = re.compile(r"[A-Za-zÀ-ÿ]+(?:-[A-Za-zÀ-ÿ]+)?")
-SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?])(?:[”"\']*)\s+')
-QUOTE_RE = re.compile(r'[“"]([^”"]+)[”"]')
-PARA_END_QUOTE_RE = re.compile(r'[”"]\s*$')
-MAX_QUOTE_WORDS = 20
-
-# Pola eksposisi waktu/backstory "As You Know, Bob" yang tidak wajar diucapkan di dalam dialog
-AYKB_DIALOGUE_PATTERNS = [
-    r"\b(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|beberapa)\s+(?:hari|minggu|bulan|tahun)\s+(?:yang\s+)?lalu\b",
-    r"\b(?:senin|selasa|rabu|kamis|jumat|sabtu|minggu)\s+lalu\b",
-    r"\bselama\s+(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan)\s+(?:hari|minggu|bulan|tahun)\b",
-    r"\bsebagai\s+atasan\s+yang\s+sudah\b",
-]
+# Seluruh aturan, pola, dan helper berasal dari SATU sumber: scripts/rules.json + analyze_prose_core.py
+from analyze_prose_core import (  # noqa: E402
+    AI_SLOP_PATTERNS, AYKB_DIALOGUE_PATTERNS, BOOKISH_SPEECH_TAGS, EMBODIED_PATTERNS,
+    HUMAN_CAUSALS, MAX_QUOTE_WORDS, PARA_END_QUOTE_RE,
+    QUOTE_RE, SMELL_WORDS, detect_similar_length_runs, get_paragraphs, get_sentences,
+    get_words, strip_markdown_headers,
+)
 
 ID_STOPWORDS = {
     "yang", "untuk", "dengan", "tidak", "dalam", "bukan", "sudah",
@@ -52,78 +46,6 @@ ID_STOPWORDS = {
     "padahal", "meski", "walau", "bahwa", "apakah", "kenapa", "mengapa",
     "bagaimana", "dimana", "kemana", "darimana", "siapa", "kapan", "berapa",
 }
-
-AI_SLOP_PATTERNS = [
-    r"arah jam sebelas",
-    r"izin diberikan",
-    r"kecilkan suaramu",
-    r"papan tombol",
-    r"sepeda kargo",
-    r"penghangat kabin",
-    r"menulis cek",
-    r"atmosfer membeku",
-    r"bak disambar petir",
-    r"mengukir senyum",
-    r"menyemburkan caci maki",
-    r"janji suci",
-    r"selempang cum laude melingkar",
-]
-
-BOOKISH_SPEECH_TAGS = (
-    "ujarnya", "tuturnya", "timpalnya", "tukasnya", "cetusnya", "serunya", "imbuhnya", "tandasnya", "kilahnya"
-)
-
-EMBODIED_PATTERNS = [
-    r"dada(?:ku)?\s+sesak",
-    r"tenggorokan(?:ku)?\s+tercekat",
-    r"keringat\s+dingin",
-    r"jantung(?:ku)?\s+berdegup",
-    r"jantung(?:ku)?\s+mencelos",
-    r"napas(?:ku)?\s+memburu",
-    r"perut(?:ku)?\s+melilit",
-    r"lutut(?:ku)?\s+lemas",
-]
-
-SMELL_WORDS = ("aroma", "bau", "baunya", "wangi", "wanginya", "harum", "harumnya")
-HUMAN_CAUSALS = ("soalnya", "gara-gara", "masalahnya", "makanya", "habisnya", "lagian")
-
-
-def strip_markdown_headers(text: str) -> str:
-    lines = [line for line in text.splitlines() if not line.strip().startswith("#")]
-    return "\n".join(lines)
-
-
-def get_words(text: str) -> list[str]:
-    return [m.group(0).lower() for m in WORD_RE.finditer(text)]
-
-
-def get_paragraphs(text: str) -> list[str]:
-    return [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
-
-
-def get_sentences(text: str) -> list[str]:
-    flat = " ".join(line.strip() for line in text.splitlines() if line.strip())
-    return [s.strip() for s in SENTENCE_SPLIT_RE.split(flat) if s.strip()]
-
-
-def detect_similar_length_runs(sent_lengths: list[int], tolerance: int = 2, min_run: int = 3, min_words: int = 10) -> list[tuple[int, int, list[int]]]:
-    """Deteksi deretan >=3 kalimat menengah/panjang (>=10 kata) berurutan yang panjang katanya hampir sama."""
-    runs: list[tuple[int, int, list[int]]] = []
-    n = len(sent_lengths)
-    i = 0
-    while i < n:
-        if sent_lengths[i] < min_words:
-            i += 1
-            continue
-        j = i + 1
-        while j < n and sent_lengths[j] >= min_words and abs(sent_lengths[j] - sent_lengths[i]) <= tolerance:
-            j += 1
-        if j - i >= min_run:
-            runs.append((i + 1, j, sent_lengths[i:j]))
-            i = j
-        else:
-            i += 1
-    return runs
 
 
 def analyze_chapter(path: Path, verbose: bool = True) -> dict:

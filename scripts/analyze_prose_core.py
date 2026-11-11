@@ -6,93 +6,33 @@ Dipakai bersama oleh scripts/analyze-prose.py dan scripts/stress-test.py.
 
 from __future__ import annotations
 
+import json
 import re
 from collections import Counter
 from pathlib import Path
+
+RULES_PATH = Path(__file__).resolve().parent / "rules.json"
+RULES = json.loads(RULES_PATH.read_text(encoding="utf-8"))
+P = RULES["params"]
+PAT = RULES["patterns"]
 
 WORD_RE = re.compile(r"[A-Za-zÀ-ÿ]+(?:-[A-Za-zÀ-ÿ]+)?")
 SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?])(?:[”"\']*)\s+')
 QUOTE_RE = re.compile(r'[“"]([^”"]+)[”"]')
 PARA_END_QUOTE_RE = re.compile(r'[”"]\s*$')
-MAX_QUOTE_WORDS = 20
 
-AI_SLOP_PATTERNS = [
-    r"arah jam sebelas",
-    r"izin diberikan",
-    r"kecilkan suaramu",
-    r"papan tombol",
-    r"sepeda kargo",
-    r"penghangat kabin",
-    r"menulis cek",
-    r"atmosfer membeku",
-    r"bak disambar petir",
-    r"mengukir senyum",
-    r"menyemburkan caci maki",
-    r"janji suci",
-    r"selempang cum laude melingkar",
-]
-
-CLINICAL_PATTERNS = [
-    r"\btrauma\b",
-    r"mekanisme pertahanan",
-    r"hyper-independence",
-    r"\bfatherless\b",
-    r"\btoxic\b",
-    r"\binsecure\b",
-    r"\bhealing\b",
-]
-
-FILTER_WORDS = ("terasa", "tampak", "terlihat", "seolah-olah", "menyadari", "menyaksikan")
-
-STOCK_TELLS = (
-    "menghela napas",
-    "mengembuskan napas",
-    "mengepalkan tangan",
-    "rahang mengeras",
-    "menggigit bibir",
-)
-
-WRAPPER_PATTERNS = (
-    r"\bsebuah perasaan\b",
-    r"\bada rasa\b",
-    r"\bkeputusannya untuk\b",
-    r"\bkesadaran itu\b",
-    r"\bkehadirannya\b",
-)
-
-BOOKISH_SPEECH_TAGS = (
-    "ujarnya", "tuturnya", "timpalnya", "tukasnya", "cetusnya", "serunya", "imbuhnya", "tandasnya", "kilahnya"
-)
-
-EMBODIED_PATTERNS = [
-    r"dada(?:ku)?\s+sesak",
-    r"tenggorokan(?:ku)?\s+tercekat",
-    r"keringat\s+dingin",
-    r"jantung(?:ku)?\s+berdegup",
-    r"jantung(?:ku)?\s+mencelos",
-    r"napas(?:ku)?\s+memburu",
-    r"perut(?:ku)?\s+melilit",
-    r"lutut(?:ku)?\s+lemas",
-]
-
-SMELL_WORDS = ("aroma", "bau", "baunya", "wangi", "wanginya", "harum", "harumnya")
-HUMAN_CAUSALS = ("soalnya", "gara-gara", "masalahnya", "makanya", "habisnya", "lagian")
-
-AYKB_DIALOGUE_PATTERNS = [
-    r"\b(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|beberapa)\s+(?:hari|minggu|bulan|tahun)\s+(?:yang\s+)?lalu\b",
-    r"\b(?:senin|selasa|rabu|kamis|jumat|sabtu|minggu)\s+lalu\b",
-    r"\bselama\s+(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan)\s+(?:hari|minggu|bulan|tahun)\b",
-    r"\bsebagai\s+atasan\s+yang\s+sudah\b",
-]
-
-# Pembuka bab pasif (laporan cuaca/suasana/waktu) yang melanggar In Medias Res & Action Space
-PASSIVE_OPENING_PATTERNS = [
-    r"^(?:pagi|siang|sore|malam)\s+itu\b",
-    r"^hari\s+(?:senin|selasa|rabu|kamis|jumat|sabtu|minggu)\s+(?:pagi|siang|sore|malam)\s+itu\b",
-    r"^(?:matahari|mentari|cahaya\s+lampu|sinar\s+matahari)\s+memantul\b",
-    r"^suasana\s+di\s+dalam\b",
-    r"^waktu\s+sudah\s+menunjukkan\b",
-]
+MAX_QUOTE_WORDS = P["max_quote_words"]
+AI_SLOP_PATTERNS = PAT["ai_slop"]
+CLINICAL_PATTERNS = PAT["clinical"]
+FILTER_WORDS = tuple(PAT["filter_words"])
+STOCK_TELLS = tuple(PAT["stock_tells"])
+WRAPPER_PATTERNS = tuple(PAT["wrapper_nouns"])
+BOOKISH_SPEECH_TAGS = tuple(PAT["bookish_tags"])
+EMBODIED_PATTERNS = PAT["embodied"]
+SMELL_WORDS = tuple(PAT["smell_words"])
+HUMAN_CAUSALS = tuple(PAT["human_causals"])
+AYKB_DIALOGUE_PATTERNS = PAT["aykb_dialogue"]
+PASSIVE_OPENING_PATTERNS = PAT["passive_opening"]
 
 
 def strip_markdown_headers(text: str) -> str:
@@ -114,7 +54,7 @@ def get_sentences(text: str) -> list[str]:
 
 
 def detect_similar_length_runs(
-    sent_lengths: list[int], tolerance: int = 2, min_run: int = 3, min_words: int = 10
+    sent_lengths: list[int], tolerance: int = P["mono_tolerance"], min_run: int = P["mono_min_run"], min_words: int = P["mono_min_words"]
 ) -> list[tuple[int, int, list[int]]]:
     runs: list[tuple[int, int, list[int]]] = []
     n = len(sent_lengths)
@@ -164,8 +104,8 @@ def inspect_chapter_rules(path: Path, char_names: set[str] | None = None) -> dic
     }
 
     # 1. Word range (600-900 standar)
-    if word_count < 600 or word_count > 900:
-        errors["word_range"].append(f"Jumlah kata {word_count} (wajib 600-900 kata)")
+    if word_count < P["word_min"] or word_count > P["word_max"]:
+        errors["word_range"].append(f"Jumlah kata {word_count} (wajib {P['word_min']}-{P['word_max']} kata)")
 
     # 2. Plain text: 0 em dash, 0 markup (*, **, ~~, `), 0 quote pembuka di atas judul
     if "—" in raw:
@@ -183,8 +123,8 @@ def inspect_chapter_rules(path: Path, char_names: set[str] | None = None) -> dic
         else:
             title_text = m_title.group(2).strip()
             title_words = get_words(title_text)
-            if len(title_words) > 5:
-                errors["title_rule"].append(f"Judul bab terlalu panjang ({len(title_words)} kata > 5): '{title_text}'")
+            if len(title_words) > P["title_max_words"]:
+                errors["title_rule"].append(f"Judul bab terlalu panjang ({len(title_words)} kata > {P['title_max_words']}): '{title_text}'")
             if char_names:
                 hit_names = [w for w in title_words if w in char_names]
                 if hit_names:
@@ -254,9 +194,9 @@ def inspect_chapter_rules(path: Path, char_names: set[str] | None = None) -> dic
     # 13. Sensory caps (embodied <=2, smell <=2)
     embodied_count = sum(len(re.findall(pat, lower_body)) for pat in EMBODIED_PATTERNS)
     smell_count = sum(counts[w] for w in SMELL_WORDS)
-    if embodied_count > 2:
+    if embodied_count > P["embodied_max"]:
         errors["sensory_cap"].append(f"Sensasi anatomi tubuh berlebihan: {embodied_count}x (batas <=2)")
-    if smell_count > 2:
+    if smell_count > P["smell_max"]:
         errors["sensory_cap"].append(f"Deskripsi bau/aroma berlebihan: {smell_count}x (batas <=2)")
 
     # 14. Discourse rhythm (EndQ% <=75%, Mono == 0)
@@ -264,10 +204,10 @@ def inspect_chapter_rules(path: Path, char_names: set[str] | None = None) -> dic
     dialogue_paras = len(dialogue_paras_list)
     end_quote_paras = sum(1 for p in dialogue_paras_list if PARA_END_QUOTE_RE.search(p))
     end_quote_pct = (end_quote_paras / dialogue_paras * 100) if dialogue_paras else 0.0
-    if dialogue_paras >= 4 and end_quote_pct > 75.0:
-        errors["discourse_rhythm"].append(f"Kutipan di akhir paragraf terlalu tinggi: {end_quote_pct:.0f}% (batas <=75%)")
+    if dialogue_paras >= P["endq_min_dialogue_paras"] and end_quote_pct > P["endq_max_pct"]:
+        errors["discourse_rhythm"].append(f"Kutipan di akhir paragraf terlalu tinggi: {end_quote_pct:.0f}% (batas <={P['endq_max_pct']}%)")
 
-    mono_runs = detect_similar_length_runs(sent_lengths, tolerance=2, min_run=3)
+    mono_runs = detect_similar_length_runs(sent_lengths)
     if mono_runs:
         errors["discourse_rhythm"].append(f"Ditemukan {len(mono_runs)} deret >=3 kalimat panjang seragam: {mono_runs}")
 

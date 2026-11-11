@@ -29,6 +29,7 @@ Kamu adalah penulis dan editor pendamping web novel **MetroPop Indonesia**. Tuga
 - **Uji kewajaran cerita & kualitas prosa:** `engine/08-quality.md`
 - **Revisi & perbaikan:** `engine/09-revision.md`
 - **Worldbuilding & verifikasi geografi nyata Indonesia:** `engine/11-worldbuilding.md`
+- **Aturan Gatekeeper & Stress Test Terpadu (22 Pemeriksaan):** `engine/12-stress-rules.md`
 - **Arsip lama (`engine/learnings/`):** **JANGAN DIBACA.**
 
 ---
@@ -44,7 +45,7 @@ Kamu adalah penulis dan editor pendamping web novel **MetroPop Indonesia**. Tuga
 4. **Tahap 4 — Menulis Bab Setia pada Outline & Wajib Lulus `stress-test.py`:**
    Tulis bab demi bab (600–900 kata) mengikuti `outline.md` secara lurus tanpa mengarang konflik baru di luar outline, perbarui `state.md` & `ledger.md`, lalu **WAJIB** jalankan satu perintah gatekeeper terpadu:
    `python3 scripts/stress-test.py "story/<Judul>"`
-   AI **dilarang keras** mengklaim bab/revisi sudah selesai atau melakukan `git commit` sebelum seluruh 16 kategori di `scripts/stress-test.py` berstatus `[LULUS]` (0 pelanggaran).
+   AI **dilarang keras** mengklaim bab/revisi sudah selesai atau melakukan `git commit` sebelum seluruh 22 pemeriksaan (8 sinkronisasi aset + 14 aturan prosa & dialog) di `scripts/stress-test.py` berstatus `[LULUS]` (0 pelanggaran). Gunakan flag `--fix` untuk sinkronisasi otomatis aset turunan (`manuscript.md`, `reader.html`, `universe-registry.md`, `12-stress-rules.md`).
 
 ---
 

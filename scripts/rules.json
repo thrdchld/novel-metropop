@@ -1,0 +1,243 @@
+{
+ "_comment": "SUMBER KEBENARAN TUNGGAL untuk Stress Test. Ubah aturan HANYA di sini, lalu jalankan: python3 scripts/stress-test.py --fix. Dokumen engine/12-stress-rules.md dibuat otomatis dari file ini.",
+ "params": {
+  "word_min": 600,
+  "word_max": 900,
+  "max_quote_words": 20,
+  "title_max_words": 5,
+  "endq_max_pct": 75,
+  "endq_min_dialogue_paras": 4,
+  "embodied_max": 2,
+  "smell_max": 2,
+  "mono_tolerance": 2,
+  "mono_min_run": 3,
+  "mono_min_words": 10
+ },
+ "patterns": {
+  "ai_slop": [
+   "arah jam sebelas",
+   "izin diberikan",
+   "kecilkan suaramu",
+   "papan tombol",
+   "sepeda kargo",
+   "penghangat kabin",
+   "menulis cek",
+   "atmosfer membeku",
+   "bak disambar petir",
+   "mengukir senyum",
+   "menyemburkan caci maki",
+   "janji suci",
+   "selempang cum laude melingkar"
+  ],
+  "clinical": [
+   "\\btrauma\\b",
+   "mekanisme pertahanan",
+   "hyper-independence",
+   "\\bfatherless\\b",
+   "\\btoxic\\b",
+   "\\binsecure\\b",
+   "\\bhealing\\b"
+  ],
+  "filter_words": [
+   "terasa",
+   "tampak",
+   "terlihat",
+   "seolah-olah",
+   "menyadari",
+   "menyaksikan"
+  ],
+  "stock_tells": [
+   "menghela napas",
+   "mengembuskan napas",
+   "mengepalkan tangan",
+   "rahang mengeras",
+   "menggigit bibir"
+  ],
+  "wrapper_nouns": [
+   "\\bsebuah perasaan\\b",
+   "\\bada rasa\\b",
+   "\\bkeputusannya untuk\\b",
+   "\\bkesadaran itu\\b",
+   "\\bkehadirannya\\b"
+  ],
+  "bookish_tags": [
+   "ujarnya",
+   "tuturnya",
+   "timpalnya",
+   "tukasnya",
+   "cetusnya",
+   "serunya",
+   "imbuhnya",
+   "tandasnya",
+   "kilahnya"
+  ],
+  "embodied": [
+   "dada(?:ku)?\\s+sesak",
+   "tenggorokan(?:ku)?\\s+tercekat",
+   "keringat\\s+dingin",
+   "jantung(?:ku)?\\s+berdegup",
+   "jantung(?:ku)?\\s+mencelos",
+   "napas(?:ku)?\\s+memburu",
+   "perut(?:ku)?\\s+melilit",
+   "lutut(?:ku)?\\s+lemas"
+  ],
+  "smell_words": [
+   "aroma",
+   "bau",
+   "baunya",
+   "wangi",
+   "wanginya",
+   "harum",
+   "harumnya"
+  ],
+  "human_causals": [
+   "soalnya",
+   "gara-gara",
+   "masalahnya",
+   "makanya",
+   "habisnya",
+   "lagian"
+  ],
+  "aykb_dialogue": [
+   "\\b(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|beberapa)\\s+(?:hari|minggu|bulan|tahun)\\s+(?:yang\\s+)?lalu\\b",
+   "\\b(?:senin|selasa|rabu|kamis|jumat|sabtu|minggu)\\s+lalu\\b",
+   "\\bselama\\s+(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan)\\s+(?:hari|minggu|bulan|tahun)\\b",
+   "\\bsebagai\\s+atasan\\s+yang\\s+sudah\\b"
+  ],
+  "passive_opening": [
+   "^(?:pagi|siang|sore|malam)\\s+itu\\b",
+   "^hari\\s+(?:senin|selasa|rabu|kamis|jumat|sabtu|minggu)\\s+(?:pagi|siang|sore|malam)\\s+itu\\b",
+   "^(?:matahari|mentari|cahaya\\s+lampu|sinar\\s+matahari)\\s+memantul\\b",
+   "^suasana\\s+di\\s+dalam\\b",
+   "^waktu\\s+sudah\\s+menunjukkan\\b"
+  ]
+ },
+ "rules": [
+  {
+   "key": "word_range",
+   "title": "Rentang kata bab",
+   "doc": "AGENTS.md 4.2; engine/06-chapter.md",
+   "rule": "Setiap bab {word_min}-{word_max} kata."
+  },
+  {
+   "key": "plain_text",
+   "title": "Teks polos 100%",
+   "doc": "engine/05-style.md 4",
+   "rule": "0 em dash, 0 simbol markup (* ` ~), header '## Bab N: Judul', tanpa quote pembuka."
+  },
+  {
+   "key": "title_rule",
+   "title": "Aturan judul bab",
+   "doc": "engine/05-style.md 4",
+   "rule": "Judul maksimal {title_max_words} kata dan tidak memuat nama tokoh (nama diambil otomatis dari canon.md)."
+  },
+  {
+   "key": "in_medias_res",
+   "title": "Pembuka In Medias Res",
+   "doc": "engine/05-style.md 5C",
+   "rule": "Bab dibuka dengan aksi/dialog, bukan laporan waktu/cuaca/suasana."
+  },
+  {
+   "key": "long_quote",
+   "title": "Batas napas dialog",
+   "doc": "engine/05-style.md 6",
+   "rule": "Satu kutipan dialog maksimal {max_quote_words} kata."
+  },
+  {
+   "key": "aykb_quote",
+   "title": "Anti eksposisi 'As You Know, Bob'",
+   "doc": "engine/05-style.md 6; engine/08-quality.md 2B.10",
+   "rule": "Dialog tidak menyebut ulang penanda waktu/riwayat yang sudah sama-sama diketahui (mis. 'enam bulan lalu')."
+  },
+  {
+   "key": "mixed_negation",
+   "title": "Register lisan konsisten",
+   "doc": "engine/05-style.md 5D",
+   "rule": "Dalam satu kutipan tidak boleh mencampur 'nggak/enggak' dengan 'tidak'."
+  },
+  {
+   "key": "filter_words",
+   "title": "Tanpa kata filter persepsi",
+   "doc": "engine/05-style.md 5D.5",
+   "rule": "Dilarang: terasa, tampak, terlihat, seolah-olah, menyadari, menyaksikan."
+  },
+  {
+   "key": "stock_tells",
+   "title": "Tanpa gerakan klise",
+   "doc": "engine/05-style.md 5B.5",
+   "rule": "Dilarang: menghela napas, mengembuskan napas, mengepalkan tangan, rahang mengeras, menggigit bibir."
+  },
+  {
+   "key": "ai_syntax",
+   "title": "Tanpa sintaksis AI",
+   "doc": "engine/05-style.md 5D",
+   "rule": "Dilarang kalimat berawalan 'Sambil', klausa ', membuat', dan pembungkus abstrak (sebuah perasaan, ada rasa, dst)."
+  },
+  {
+   "key": "bookish_tags",
+   "title": "Tanpa tag dialog buku pelajaran",
+   "doc": "engine/05-style.md 5D",
+   "rule": "Dilarang: ujarnya, tuturnya, timpalnya, tukasnya, cetusnya, serunya, imbuhnya, tandasnya, kilahnya."
+  },
+  {
+   "key": "slop_clinical",
+   "title": "Tanpa AI slop & jargon klinis",
+   "doc": "engine/05-style.md 5, 5B.6",
+   "rule": "Frasa slop terjemahan harfiah dan istilah diagnosa psikologi dilarang."
+  },
+  {
+   "key": "sensory_cap",
+   "title": "Batas anatomi & penciuman",
+   "doc": "engine/05-style.md 5C",
+   "rule": "Sensasi anatomi tubuh maksimal {embodied_max}x dan bau/aroma maksimal {smell_max}x per bab."
+  },
+  {
+   "key": "discourse_rhythm",
+   "title": "Variasi posisi dialog & ritme",
+   "doc": "engine/05-style.md 5E",
+   "rule": "Paragraf dialog berakhir kutipan maksimal {endq_max_pct}% dan 0 deret >= {mono_min_run} kalimat panjang seragam."
+  }
+ ],
+ "sync_checks": [
+  {
+   "key": "pillars",
+   "title": "Dokumen pilar & Character Sheet",
+   "rule": "canon.md, outline.md (TERKUNCI), state.md, ledger.md ada dan lengkap."
+  },
+  {
+   "key": "numbering",
+   "title": "Penomoran & judul bab sinkron dengan outline",
+   "rule": "bab-NN.md berurutan tanpa lompat; header bab = judul di outline.md."
+  },
+  {
+   "key": "ledger_state",
+   "title": "ledger.md & state.md sinkron dengan jumlah bab",
+   "rule": "ledger.md punya satu baris per bab; state.md menyebut bab terakhir yang benar."
+  },
+  {
+   "key": "manuscript",
+   "title": "manuscript.md sinkron dengan bab",
+   "rule": "manuscript.md identik dengan gabungan seluruh bab."
+  },
+  {
+   "key": "reader",
+   "title": "reader.html sinkron dengan bab",
+   "rule": "reader.html identik dengan hasil build-reader.py dari bab terkini."
+  },
+  {
+   "key": "registry",
+   "title": "universe-registry.md sinkron",
+   "rule": "Jumlah bab dan total kata di registry sama dengan kenyataan."
+  },
+  {
+   "key": "rules_doc",
+   "title": "Dokumen aturan sinkron dengan rules.json",
+   "rule": "engine/12-stress-rules.md identik dengan hasil generate dari rules.json; jumlah kategori yang disebut di AGENTS.md/workflow/SKILL benar."
+  },
+  {
+   "key": "continuity",
+   "title": "Audit kontinuitas",
+   "rule": "audit-continuity.py melaporkan 0 isu."
+  }
+ ]
+}

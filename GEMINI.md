@@ -13,4 +13,4 @@
    - **Tahap 1:** Premis ABCD simpel (4 kalimat).
    - **Tahap 2:** Alur Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf sederhana) — wajib diuji kewajaran logikanya dan disetujui pengguna sebelum membuat daftar bab.
    - **Tahap 3:** Outline per bab yang simpel (**4 poin per bab**: Waktu & Lokasi, Kejadian Inti, Perkembangan Emosi/Hubungan, Detail Kecil/Planting-Callback).
-   - **Tahap 4:** Menulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring, gaya sederhana & *to the point*) dengan mengikuti outline secara setia.
+   - **Tahap 4:** Menulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring, gaya sederhana & *to the point*) dengan mengikuti outline secara setia, lalu wajib lulus 100% Master Gatekeeper `python3 scripts/stress-test.py "story/<Judul>"` (22 pemeriksaan).
