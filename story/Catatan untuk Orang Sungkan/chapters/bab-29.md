@@ -54,4 +54,6 @@ Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimp
 
 Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan sinyal kereta.
 
+Tadi malam, setelah pulang dari Rawamangun, aku sempat mengirim pesan kepada Tari. Kuceritakan bahwa aku menolak Dimas di depan Ibu dan tidak akan kembali kepadanya.
+
 "Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat nanti di panggung peluncuran Sela Waktu dia nggak mungkin absen."
