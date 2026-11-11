@@ -20,6 +20,7 @@
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
 | `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 25.805 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
+| `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `PROSES` | 32 | 0 | Jakarta Selatan (Cikajang, Mayestik, Cipete) | 2026 | - |
 
 ---
 
@@ -42,6 +43,16 @@
   - *B (Routine):* Setiap hari bekerja sambil menelan rasa canggung berpapasan dengan mantannya yang sekantor, sembari terus menjadi tempat limpahan kerjaan teman-temannya karena tidak pernah berani menolak.
   - *C (Inciting Incident):* Nadia dipindahkan duduk semeja untuk menggarap proyek buku baru bersama Saka Wijaya (28), editor naskah pindahan dari Yogyakarta yang terkenal paling blak-blakan, tega menolak permintaan orang, dan anti basa-basi.
   - *D (Action):* Bekerja berdua setiap hari dengan Saka yang gemas melihat sifat lembeknya, Nadia mulai belajar berani berkata "tidak" pada orang-orang yang memanfaatkannya, sembari perlahan jatuh hati pada pria kaku yang mengajarinya menghargai diri sendiri itu.
+
+#### PRM-003: Ada Kamu di Jadwalku
+- **Proyek Terkait:** `NOV-003` (Folder: `story/Ada Kamu di Jadwalku/`)
+- **Status:** `DITERIMA / AKTIF`
+- **Tanggal Disetujui:** 2026-11-11
+- **Premis ABCD Simpel:**
+  - *A (Character):* Hana Pratiwi (26), pengajar bahasa Inggris yang hidupnya diatur deretan alarm HP dan buku catatan seperti *rundown* panitia studi tur, paling anti dengan hal dadakan, dan baru enam bulan lalu batal tunangan karena mantannya lelah hidup serba diatur jadwal.
+  - *B (Routine):* Setiap hari Hana mengajar dengan tertib sambil disiplin menabung setiap tanggal 25 dan mengejar promosi menjadi Kepala Akademik Cabang baru di Surabaya demi membuktikan hidupnya tetap aman sesuai rencana.
+  - *C (Inciting Incident):* Sebagai syarat evaluasi terakhir promosinya, Hana ditugaskan membimbing murid privat berusia delapan tahun bernama Nino yang mogok bicara bahasa Inggris, yang setiap Senin, Rabu, dan Jumat sore diantar-jemput oleh pamannya, Bima Raharja (28), fotografer dan videografer lepas yang santai dan kerap mengacaukan jadwal Hana.
+  - *D (Action):* Berawal dari kesal karena mengira Bima adalah bujangan tanpa beban yang hidupnya serba seenaknya, Hana akhirnya mengetahui pengorbanan besar Bima untuk keluarganya yang sedang tertimpa musibah, belajar dari Bima cara menikmati kebahagiaan di tengah sulitnya keadaan, hingga berani melepas promosi Surabaya dan memakai tabungan empat tahunnya untuk membuka tempat kursus sendiri di Jakarta bersama Bima.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
@@ -91,6 +102,11 @@
 | Saka Wijaya | Saka / Mas Saka | `NOV-002` | Love Interest | Editor Naskah Senior Penerbit Aksara Senja (Pindahan Yogyakarta) | Lugas, anti basa-basi, tepat pukul 17.00 tutup laptop, putar tutup botol minum hitam 2x *klik* saat berbohong menutupi perhatian | `Boleh (Tingkat 1-3)` |
 | Dimas Prasetyo | Dimas / Mas Dimas | `NOV-002` | Mantan / Oposisi | Staf Pemasaran Penerbit Aksara Senja | Egois halus, suka memanfaatkan kesabaran Nadia, manipulatif manis saat ingin balikan | `Boleh (Tingkat 1-2)` |
 | Tari | Tari | `NOV-002` | Sahabat / Sekutu | Staf Media Sosial Penerbit Aksara Senja | Ceplas-ceplos, hobi ngemil makaroni pedas di meja kerja, pengamat setia kantor | `Boleh (Tingkat 1-3)` |
+| Hana Pratiwi | Hana / Miss Hana | `NOV-003` | Protagonis | Pengajar Bahasa Inggris *BrightStep English* & Pendiri *Rumah Belajar Langkah Kecil* | Hidup diatur deretan alarm HP & buku *rundown*, anti dadakan, disiplin menabung tanggal 25 | `Boleh (Tingkat 1-3)` |
+| Bima Raharja | Bima / Mas Bima / Om Bima | `NOV-003` | Love Interest | Fotografer & Videografer Lepas | Hangat, pantang mengeluh meski memikul beban keluarga, suka memotret/merekam *candid* diam-diam | `Boleh (Tingkat 1-3)` |
+| Nino | Nino | `NOV-003` | Keponakan / Murid | Murid Kelas 2 SD | Suka menggambar dinosaurus, polos, sayang Om Bima & Miss Hana | `Boleh (Tingkat 1-2)` |
+| Melisa | Meli / Miss Meli | `NOV-003` | Sahabat / Sekutu | Pengajar Kelas Anak *BrightStep English* | Ceplas-ceplos, laci meja penuh camilan, suka meledek alarm HP Hana | `Boleh (Tingkat 1-3)` |
+| Fajar | Fajar / Mas Fajar | `NOV-003` | Mantan Tunangan | Analis Keuangan | Penuh perhitungan untung-rugi, menilai hubungan seperti daftar target | `Boleh (Tingkat 1-2)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.
