@@ -33,8 +33,8 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 | Mode Kerja | File yang Dibaca |
 |---|---|
 | **Awal Sesi Baru** | `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, cek daftar folder di `story/` |
-| **Mode A (Cari Ide / Premis ABCD & Cerita Utuh 5 Paragraf)** | `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md` |
-| **Mode B (Susun Canon & Outline Simpel 4 Poin/Bab)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/templates/` |
+| **Mode A (Cari Ide / Premis ABCD & Cerita Utuh 5 Paragraf)** | `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md`, `engine/11-worldbuilding.md` |
+| **Mode B (Susun Canon & Outline Simpel 4 Poin/Bab)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/11-worldbuilding.md`, `engine/templates/` |
 | **Mode C (Menulis Bab)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, 1 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md` |
 | **Mode D (Revisi / Evaluasi)** | `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, dan bab terkait |
 | **Mode E (Riset / Update Engine)** | `engine/sources.md`, `engine/10-evolution.md` |

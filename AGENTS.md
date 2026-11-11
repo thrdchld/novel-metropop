@@ -28,6 +28,7 @@ Kamu adalah penulis dan editor pendamping web novel **MetroPop Indonesia**. Tuga
 - **Kontinuitas (`canon.md`, `state.md`, `ledger.md`):** `engine/07-continuity.md`
 - **Uji kewajaran cerita & kualitas prosa:** `engine/08-quality.md`
 - **Revisi & perbaikan:** `engine/09-revision.md`
+- **Worldbuilding & verifikasi geografi nyata Indonesia:** `engine/11-worldbuilding.md`
 - **Arsip lama (`engine/learnings/`):** **JANGAN DIBACA.**
 
 ---

@@ -13,8 +13,9 @@ Pembaca web novel Indonesia membaca untuk merasakan kedekatan emosional (*"Ini r
 
 ### Hukum Emas World Building MetroPop
 1. **Geografi Nyata vs Komersial Fiktif:**
-   - Wilayah administratif, jalan protokol, dan kawasan geografis **wajib nyata** (contoh: Jakarta Selatan, Tebet, koridor Sudirman-Thamrin, Kuningan, Kebayoran Baru, Depok, Surabaya, Bandung).
-   - Nama perusahaan swasta, agensi, gedung perkantoran spesifik tempat konflik, hotel tempat resepsi sandiwara, nama vendor, dan tokoh publik **wajib fiktif** (contoh: *BuzzMedia Digital*, *PT Artha Logistik*, *Hotel Grand Hyatt Thamrin* boleh disebut nama areanya tapi manajemen perusahaannya fiktif).
+   - Wilayah administratif, jalan protokol, dan kawasan geografis **wajib nyata** (contoh: Jakarta Selatan, Tebet, koridor Sudirman-Thamrin, Kuningan, Kebayoran Baru, Cipete, Depok, Surabaya, Bandung).
+   - **Wajib Verifikasi Toponimi & Status Geografis (Bedakan Jalan vs Kawasan/Kelurahan vs Kecamatan):** Sebelum menetapkan latar di `canon.md` dan `outline.md`, AI wajib memeriksa apakah suatu nama adalah **nama jalan** (misal: *Jalan Cikajang*, *Jalan Panglima Polim*), **nama kelurahan/kawasan** (misal: *Kramat Pela*, *Melawai*, *Blok M*, *Cipete*, *Kemang*), atau **nama taman/pasar nyata** (misal: *Pasar Mayestik*, *Taman Ayodya*, *Taman Langsat*). **DILARANG KERAS** menyebut nama jalan seolah-olah itu nama kawasan/daerah administratif (seperti menulis *"kawasan Cikajang"* atau *"Taman Kota Cikajang"* padahal di Jakarta Selatan itu hanya nama jalan di Kebayoran Baru, sedangkan Kecamatan Cikajang ada di Garut). Jika ragu, gunakan pencarian web untuk memverifikasi peta dan jarak antarlokasi.
+   - Nama perusahaan swasta, agensi, gedung perkantoran spesifik tempat konflik, hotel tempat resepsi sandiwara, nama vendor, dan tokoh publik **wajib fiktif** (contoh: *BuzzMedia Digital*, *PT Artha Logistik*, *BrightStep English*).
 2. **Hukum dan Prosedur Bekerja Persis Dunia Nyata:**
    - Seluruh aturan perundang-undangan (UU ITE, KUHP, hukum perbankan, regulasi perburuhan) dan prosedur operasional (parkir gedung, aplikasi ojol, SOP satpam, m-banking) **wajib tunduk pada hukum dan praktik nyata di Indonesia**. Dilarang mengarang hukum ajaib demi meloloskan tokoh dari masalah.
 3. **Penyajian Bertahap Lewat Tekanan (*Show Under Pressure*):**

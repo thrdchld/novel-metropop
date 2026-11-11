@@ -12,7 +12,7 @@
 - **Target pembaca:** 13+
 - **Panjang:** 32 bab x +-750 kata (rentang standar 600-900 kata/bab; maksimal 1.200 kata jika diperlukan agar adegan tidak terpotong)
 - **POV:** Orang pertama ("Aku" / Hana Pratiwi), kala lampau
-- **Latar Kota & Lingkungan:** Jakarta Selatan (Lembaga Kursus *BrightStep English* di Cikajang, Pasar Mayestik, Taman Kota Cikajang, Kontrakan Bima & Paviliun Kursus Hana di Cipete)
+- **Latar Kota & Lingkungan:** Jakarta Selatan (Lembaga Kursus *BrightStep English* di kawasan Blok M / Kebayoran Baru dekat Stasiun MRT Blok M, Pasar Mayestik, Taman Ayodya Barito, serta Kontrakan Bima & Paviliun Kursus Hana di Cipete)
 - **Tone:** Sederhana, *to the point*, percakapan lisan alami, deskripsi ber-sudut pandang unik, humor ringan dari pikiran liar/perumpamaan menggelitik, dan hangat (`05-style.md`).
 
 ---
@@ -36,7 +36,7 @@
 | **Nino** | Keponakan Bima & Murid Privat Hana | 8 | Murid Kelas 2 SD | Polos, suka menggambar dinosaurus, awalnya mogok bicara bahasa Inggris karena takut ditertawakan, sangat menyayangi Om Bima dan Miss Hana. |
 | **Melisa (Meli)** | Sahabat Kantor Hana (Miss Meli) | 25 | Pengajar Kelas Anak di *BrightStep English* | Ceplas-ceplos, hobi menyetok camilan di laci ruang guru, suka meledek deretan alarm HP Hana. |
 | **Fajar** | Mantan Tunangan Hana | 27 | Analis Keuangan | Rapi, penuh perhitungan untung-rugi, dulu membatalkan lamaran karena lelah hidup bersama Hana yang seperti *rundown* tur wisata, lalu minta balikan setelah sadar nyamannya hidup teratur. |
-| **Bu Maya** | Atasan Hana | 40 | Kepala Cabang *BrightStep English* Cikajang | Tegas, berorientasi target dan prosedur kantor pusat. |
+| **Bu Maya** | Atasan Hana | 40 | Kepala Cabang *BrightStep English* Kebayoran Baru | Tegas, berorientasi target dan prosedur kantor pusat. |
 | **Mas Hendra & Mbak Ratih** | Keluarga Bima (Orang Tua Nino) | 34 & 32 | Karyawan Swasta & Ibu Rumah Tangga | Mbak Ratih (kakak kandung Bima) sedang dirawat karena sakit keras hingga Mas Hendra harus sering izin kerja tanpa gaji demi menjaga istrinya di rumah sakit. |
 | **Ibu Bima** | Ibu Kandung Bima & Ratih | 58 | Ibu Rumah Tangga | Selamat dari kecelakaan yang merenggut nyawa ayah Bima beberapa tahun lalu, namun sejak itu kesehatannya menurun dan sering sakit-sakitan. |
 

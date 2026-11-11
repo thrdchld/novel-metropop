@@ -5,7 +5,7 @@
 ## Status Saat Ini
 - **Bab Terakhir Ditulis:** Belum ada (Siap menulis Bab 1)
 - **Minggu / Hari Cerita Aktif:** Minggu ke-1, Senin sore pukul 15.45
-- **Lokasi Terakhir:** Ruang Guru *BrightStep English*, Cikajang, Jakarta Selatan
+- **Lokasi Terakhir:** Ruang Guru *BrightStep English*, Kebayoran Baru (dekat Blok M), Jakarta Selatan
 - **Status Hubungan Hana & Bima:** Belum bertemu (Pertemuan pertama di Bab 2 pukul 16.12)
 
 ## Inventaris Benda & Fakta Aktif

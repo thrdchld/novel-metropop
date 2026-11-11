@@ -38,8 +38,8 @@
 
 ## 4. Rincian per Bab (32 Bab - 4 Poin Inti per Bab)
 
-### Bab 1: Ratu Rundown dari Cikajang
-- **Waktu & Lokasi:** Senin sore (Minggu ke-1), Ruang Guru *BrightStep English*, Cikajang, Jakarta Selatan.
+### Bab 1: Ratu Rundown dan Lima Belas Alarm
+- **Waktu & Lokasi:** Senin sore (Minggu ke-1), Ruang Guru *BrightStep English*, Kebayoran Baru (dekat Blok M), Jakarta Selatan.
 - **Kejadian Inti:** Lima belas menit sebelum pukul empat sore, alarm HP Hana berbunyi mengingatkan jadwal kelas privat barunya. Di ruang guru, Meli meledek layar ponsel Hana yang punya deretan alarm dari bangun tidur sampai jadwal transfer tabungan tanggal 25, kebiasaan yang enam bulan lalu membuat mantan tunangannya, Fajar, batal melamarnya karena merasa seperti peserta studi tur yang mau beli sate pinggir jalan saja harus dicatat sehari sebelumnya. Kepala Cabang, Bu Maya, masuk dan mengingatkan Hana bahwa keberhasilannya membimbing murid privat baru bernama Nino (8 tahun) sampai tampil di *Storytelling Day* enam minggu lagi adalah syarat terakhir sebelum SK promosi Hana sebagai Kepala Akademik Cabang baru di Surabaya diterbitkan.
 - **Perkembangan Emosi / Hubungan:** Hana bertekad penuh menjaga jadwal enam minggu ke depan tanpa celah demi meraih posisi di Surabaya, namun tepat pukul empat lewat sepuluh menit sore, murid barunya itu belum juga muncul.
 - **Detail Kecil / Planting-Callback:** Penanaman deretan alarm HP Hana, buku catatan bersampul cokelat yang selalu dipegangnya, tabungan rutin empat tahun setiap tanggal 25, serta ejekan Fajar soal hidup seperti *rundown* panitia tur.
@@ -64,7 +64,7 @@
 
 ### Bab 5: Hujan Tidak Baca Catatan
 - **Waktu & Lokasi:** Jumat petang pukul 17.30 (Minggu ke-1), Teras Depan *BrightStep English*.
-- **Kejadian Inti:** Begitu kelas selesai, hujan deras mengguyur kawasan Cikajang hingga jalanan macet dan aplikasi ojek online tidak kunjung mendapat pengemudi. Hana berdiri gelisah di teras sambil terus-terusan mengecek jam di layar HP-nya karena jadwal makan malam dan beberes kamarnya bakal mundur satu jam penuh. Di bangku kayu teras, Bima dan Nino justru duduk tenang menikmati suara hujan; Bima lalu membelikan tiga potong es krim cokelat roti dari minimarket sebelah dan menyodorkan satu kepada Hana sambil berkata ringan bahwa hujan sore ini tidak membaca catatan jadwal Miss Hana, jadi daripada pusing melihat jam terus, lebih baik menikmati es krim sebelum meleleh.
+- **Kejadian Inti:** Begitu kelas selesai, hujan deras mengguyur kawasan Kebayoran Baru hingga jalanan sekitar Blok M macet dan aplikasi ojek online tidak kunjung mendapat pengemudi. Hana berdiri gelisah di teras sambil terus-terusan mengecek jam di layar HP-nya karena jadwal makan malam dan beberes kamarnya bakal mundur satu jam penuh. Di bangku kayu teras, Bima dan Nino justru duduk tenang menikmati suara hujan; Bima lalu membelikan tiga potong es krim cokelat roti dari minimarket sebelah dan menyodorkan satu kepada Hana sambil berkata ringan bahwa hujan sore ini tidak membaca catatan jadwal Miss Hana, jadi daripada pusing melihat jam terus, lebih baik menikmati es krim sebelum meleleh.
 - **Perkembangan Emosi / Hubungan:** Untuk pertama kalinya dalam berbulan-bulan, Hana makan es krim di pinggir teras sambil mendengarkan celotehan Nino dan Bima, meski di kepalanya ia masih heran kenapa ada orang dewasa yang bisa sesantai Bima saat rencananya berantakan.
 - **Detail Kecil / Planting-Callback:** Penanaman filosofi hidup Bima tentang menikmati hal kecil saat keadaan tidak sesuai rencana, sekaligus benih foto/ingatan es krim di tengah hujan yang nanti muncul di kompilasi panggung.
 
@@ -93,7 +93,7 @@
 - **Detail Kecil / Planting-Callback:** *Planting Kunci untuk Klimaks Bab 18 & 28*: Nino sudah mahir menyalakan sendiri tombol rekam video di kamera peninggalan ayah Bima.
 
 ### Bab 10: Mi Ayam di Luar Jam Makan
-- **Waktu & Lokasi:** Senin petang pukul 18.30 (Minggu ke-3), Kedai Mi Ayam Dekat Cikajang.
+- **Waktu & Lokasi:** Senin petang pukul 18.30 (Minggu ke-3), Kedai Mi Ayam Dekat Tempat Kursus, Kebayoran Baru.
 - **Kejadian Inti:** Memasuki minggu ketiga, Hana terpaksa mengajar dua kelas beruntun sampai petang karena menggantikan Meli yang sedang flu, sehingga jadwal makan malamnya terlewat dan perutnya keroncongan di lobi. Ternyata Bima dan Nino yang kelasnya sudah selesai setengah jam lalu masih menunggu di bangku depan sambil membawa teh hangat untuk Hana, lalu mengajak Hana mampir makan mi ayam di kedai sebelah. Saat Hana mengeluh betapa pusingnya ia kalau urusan sehari-hari tidak berjalan sesuai urutan di bukunya, Bima mendengarkan dengan sabar sambil menyendokkan pangsit rebus ke mangkuk Nino dan berkata bahwa kadang belokan yang tidak direncanakan justru membawa kita ke tempat makan yang paling enak.
 - **Perkembangan Emosi / Hubungan:** Hana merasa diperhatikan secara tulus tanpa dituntut harus selalu rapi dan sempurna, membuat hatinya mulai menghangat setiap kali menatap senyum Bima.
 - **Detail Kecil / Planting-Callback:** Bima diam-diam mengambil satu klip video pendek 3 detik saat Hana meniup kuah mi ayam sambil tertawa karena kacamata bacanya berembun.
@@ -135,13 +135,13 @@
 - **Detail Kecil / Planting-Callback:** Penjelasan utuh di balik kebiasaan Bima mengambil foto/video *candid* diam-diam sebagai warisan almarhum ayahnya.
 
 ### Bab 17: Belajar Tanpa Melihat Jam
-- **Waktu & Lokasi:** Rabu sore (Minggu ke-4), Ruang Kelas Nomor 2 dan Warung Bakso Cikajang.
+- **Waktu & Lokasi:** Rabu sore (Minggu ke-4), Ruang Kelas Nomor 2 dan Warung Bakso Kebayoran Baru.
 - **Kejadian Inti:** Pada sesi les hari Rabu, cara Hana mengajar Nino berubah jauh lebih hangat dan sabar. Ketika Nino tampak murung saat berlatih paragraf kedua naskah *"My Parents"* karena rindu pada ibunya yang masih di rumah sakit, Hana tidak lagi memaksakan target halaman; ia justru mengajak Bima dan Nino merekam video latihan sambil bercerita santai tentang makanan kesukaan keluarga mereka. Selepas kelas, saat Bima hendak buru-buru pamit agar tidak mengganggu jadwal malam Hana, justru Hana sendiri yang mematikan alarm pukul setengah enam di layar HP-nya dan mengajak Bima serta Nino makan bakso hangat di warung tenda sebelah.
 - **Perkembangan Emosi / Hubungan:** Bima tertegun sekaligus tersenyum lebar melihat "Miss Hana Si Ratu Rundown" rela mematikan alarm HP-nya sendiri demi duduk mengobrol lebih lama dengannya.
 - **Detail Kecil / Planting-Callback:** Perubahan kebiasaan kecil Hana: untuk pertama kalinya ia mematikan alarm pengingat rutinnya tanpa rasa cemas.
 
 ### Bab 18: Bunga Kamboja di Balik Lensa Nino
-- **Waktu & Lokasi:** Jumat sore (Minggu ke-4), Taman Kota Cikajang.
+- **Waktu & Lokasi:** Jumat sore (Minggu ke-4), Taman Ayodya Barito, Kebayoran Baru.
 - **Kejadian Inti:** Hari Jumat sore, mereka mengadakan latihan bercerita di taman kota sambil mengambil beberapa foto dan klip video tambahan untuk latar layar panggung *Storytelling Day*. Setelah selesai mengambil gambar latihan, Bima menyerahkan kamera tuanya kepada Nino agar keponakannya itu bisa bermain merekam pemandangan taman, sementara Hana pamit berjalan ke kios depan taman untuk membeli air mineral. Saat menunggu Hana di bawah pohon kamboja merah muda, Bima memungut setangkai bunga kamboja segar yang jatuh di dahan rendah, menatapnya sambil tersenyum gugup, dan berlatih pelan hendak memberikannya kepada Hana. Tanpa disadari Bima sama sekali, **Nino yang berjongkok di balik bangku taman sedang mengarahkan kamera ke arah pamannya dengan tombol rekam menyala sambil berbisik pelan ke mikrofon kamera**. Namun tepat ketika Hana berjalan kembali sambil menerima telepon singkat dari Bu Maya soal berkas Surabaya, Bima mendadak teringat jarak keadaan mereka, mengurungkan niatnya, dan buru-buru memasukkan bunga itu ke saku kemejanya.
 - **Perkembangan Emosi / Hubungan:** Percikan romantis yang tertahan; Hana sempat melihat Bima buru-buru memasukkan tangan ke saku kemeja dengan telinga agak merah, sementara Nino cekikikan sendiri sambil memeluk kamera pamannya.
 - **Detail Kecil / Planting-Callback:** *Planting Paling Krusial untuk Klimaks Bab 28*: Rekaman video diam-diam Nino saat Bima memetik bunga untuk Hana namun tidak jadi memberikannya sudah tersimpan di kartu memori kamera Bima!

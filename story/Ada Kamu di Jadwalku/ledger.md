@@ -4,4 +4,4 @@
 
 | Bab | Hari & Waktu | Lokasi | Kejadian Inti & Fakta Baru | Status Planting / Callback |
 |---:|---|---|---|---|
-| - | Pra-Bab 1 | Cikajang | Outline 32 bab terkunci (`TERKUNCI v1.0`). Siap memulai Bab 1 (Senin sore, Minggu ke-1). | - |
+| - | Pra-Bab 1 | Kebayoran Baru | Outline 32 bab terkunci (`TERKUNCI v1.0`). Siap memulai Bab 1 (Senin sore, Minggu ke-1). | - |
