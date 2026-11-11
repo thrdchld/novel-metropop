@@ -2,9 +2,9 @@
 
 "Sore, Miss! Maaf banget kami telat dua belas menit, tadi di perempatan depan lampu merahnya lama banget kayak nunggu jodoh!"
 
-Pintu kaca Ruang Kelas Nomor Dua berderit terbuka bersama masuknya suara ceria tanpa beban dosa itu.
+Pintu kaca Ruang Kelas Nomor Dua berderit terbuka. Suara ceria tanpa beban dosa itu langsung memenuhi ruangan.
 
-Aku langsung berdiri dari kursi pengajar sambil melirik jam tanganku yang sudah menunjukkan pukul empat lewat dua belas menit. Di ambang pintu, berdiri seorang pria jangkung berkemeja flanel kotak-kotak agak kusut dengan tas kamera kanvas besar yang miring berat sebelah di bahu kirinya. Dia tipe orang yang biarpun datang terlambat di hari pertama tetap memasang senyum secerah peserta jalan sehat kelurahan yang baru menang undian kipas angin.
+Aku berdiri dari kursi pengajar sambil melirik jam tanganku yang sudah menunjukkan pukul empat lewat dua belas menit. Di ambang pintu, berdiri seorang pria jangkung berkemeja flanel kotak-kotak agak kusut dengan tas kamera kanvas besar yang miring berat sebelah di bahu kirinya. Dia tipe orang yang biarpun datang terlambat di hari pertama tetap memasang senyum secerah peserta jalan sehat kelurahan yang baru menang undian kipas angin.
 
 "Selamat sore, Pak," kataku formal, sengaja membiarkan lirikan mataku ke arah jam tangan terbaca jelas. "Kelas privat Nino dijadwalkan mulai tepat pukul empat sore."
 

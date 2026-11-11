@@ -22,7 +22,7 @@ Aku menunjuk baris kalimat yang sudah diberi warna stabilo. "Nanti Miss Hana kas
 
 "Oke, Miss Hana! Tapi besok aku nggak bakal lupa kok," sahut Nino sambil menatap kertas bertuliskan My Parents di tanganku dengan senyum rahasia. "Semalam kan aku sudah latihan keras banget sama Om Bima sampai jam sepuluh malam!"
 
-Aku melirik ke arah Bima yang duduk di sofa luar dengan wajah mengantuk. Pantas saja malam tadi di pesan suara ada bunyi kertas latihan dibolak-balik, pikirku di dalam hati. Di kepalaku, mereka pasti hanya sedang berlatih ekstra di rumah demi mengejar kelulusan evaluasi besok pagi.
+Aku melirik Bima yang mengantuk di sofa luar. Pantas saja malam tadi di pesan suara ada bunyi kertas latihan dibolak-balik, soalnya di kepalaku mereka pasti sedang berlatih ekstra di rumah demi mengejar kelulusan evaluasi besok pagi.
 
 Empat puluh lima menit pertemuan kedelapan belas itu berjalan begitu cepat. Ketika jam dinding menunjukkan pukul lima kurang lima belas menit, aku menutup buku catatan cokelatku. Hatiku mendadak perih karena sadar bahwa mulai hari Senin depan, kursi murid di seberang mejaku ini akan kembali kosong.
 

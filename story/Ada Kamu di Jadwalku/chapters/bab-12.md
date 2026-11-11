@@ -4,7 +4,7 @@ Baris kedua sampai baris kelima di lembar PR Nino masih kosong melompong.
 
 Aku mengangkat wajah dari kertas tugas itu, lalu menoleh ke arah jendela kaca Ruang Kelas Nomor Dua pada hari Jumat sore di akhir minggu ketiga ini. Di sofa panjang area tunggu luar sana, orang yang seharusnya mendampingi Nino belajar di rumah justru sedang tertidur pulas dalam posisi duduk menyandar.
 
-Tadi waktu datang mengantar Nino pukul empat kurang dua menit, wajah Bima memang jauh lebih tirus dibandingkan awal minggu ini. Di bawah kedua matanya ada lingkaran hitam yang sangat tebal, dan kemeja flanel abu-abu yang dipakainya kusut seperti belum sempat menyentuh setrika. Waktu kusapa di lobi apakah dia sedang kurang enak badan, dia hanya menguap kecil sambil menjawab santai bahwa dia cuma kurang minum kopi.
+Tadi waktu datang mengantar Nino pukul empat kurang dua menit, wajah Bima memang jauh lebih tirus dibandingkan awal minggu ini. Di bawah kedua matanya ada lingkaran hitam tebal, dan kemeja flanel abu-abunya kusut seperti belum menyentuh setrika. Waktu kusapa di lobi apakah dia sedang kurang enak badan, dia hanya menguap kecil sambil menjawab santai bahwa dia cuma kurang minum kopi.
 
 Masalahnya, tiga hari lagi, tepat pada hari Senin sore, Bu Maya akan masuk ke kelasku untuk meninjau evaluasi tengah program. Artinya, sore ini adalah kesempatan latihan terakhir kami sebelum penilaian resmi itu, namun saat kuminta membaca paragraf kedua naskah My Parents dengan suara lantang, Nino masih terbata-bata gara-gara belum sempat menghafalnya di rumah.
 

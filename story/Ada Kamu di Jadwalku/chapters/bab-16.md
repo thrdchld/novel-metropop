@@ -14,7 +14,7 @@ Di atas bangku kayu di bawah pohon ketapang sore itu, aku menunduk menatap kedua
 
 "Mas Bima, aku datang ke sini karena mau minta maaf," kataku dengan suara bergetar sambil menahan tangis. "Aku malu banget kemarin sore sudah ngomong kasar dan menuduh Mas Bima yang nggak-nggak."
 
-Aku menggigit bibir bawahku, tak sanggup menatap matanya. "Aku sama sekali nggak tahu beban berat yang sedang Mas Bima hadapi di rumah," bisikku penuh sesal.
+Aku menunduk makin dalam, tak sanggup menatap matanya. "Aku sama sekali nggak tahu beban berat yang lagi Mas Bima hadapi di rumah," bisikku penuh sesal.
 
 Setetes air mataku jatuh ke punggung tangan. Aku buru-buru menyekanya, namun di sebelahku, Bima justru tersenyum sangat teduh tanpa ada sedikit pun jejak kemarahan atau dendam di wajahnya.
 
@@ -34,7 +34,7 @@ Bima tersenyum kecil sambil mengetuk pelan bodi kamera tua itu.
 
 Aku mendengarkan setiap kalimatnya dalam diam. Bima lalu menceritakan kembali hari kecelakaan yang merenggut nyawa ayahnya beberapa tahun silam. Pagi harinya mereka masih sarapan bersama sambil merencanakan liburan akhir tahun, namun sorenya sang ayah sudah tiada dan ibunya harus masuk ruang operasi.
 
-"Hari itu saya sadar, Hana, sekeras apa pun kita menyusun rencana, hidup bisa jungkir balik dalam satu detik," ucap Bima pelan. "Makanya saya janji nggak mau menghabiskan hari ini cuma buat cemas atau cemberut," tambahnya sambil menatap langit sore di ujung gang.
+"Hari itu saya sadar, Hana, hidup bisa jungkir balik dalam satu detik," ucap Bima pelan. "Makanya saya janji nggak mau menghabiskan hari ini cuma buat cemas atau cemberut," tambahnya sambil menatap langit sore di ujung gang.
 
 Dia menoleh menatap mataku dengan senyum hangat yang begitu tulus. "Apalagi di rumah ada Ibu sama Nino. Kalau saya ikut masang wajah mendung, siapa yang bakal bikin mereka ketawa?"
 

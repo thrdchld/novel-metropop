@@ -18,7 +18,7 @@ Pukul lima kurang lima belas menit, kelas perdana itu berakhir dengan sukses. Se
 
 Tinggal aku dan Bima yang masih berada di dalam ruang kelas untuk merapikan meja-meja kayu kecil dan mematikan layar televisi.
 
-"Selamat atas kelas pertamanya ya, Miss Hana," kata Bima lembut sambil berjalan menghampiriku yang sedang berdiri merapikan spidol di meja sudut. "Tadi Ibu kamu sempat bisikin saya di teras, katanya sudah lama banget beliau nggak melihat kamu ketawa selebar sore ini."
+"Selamat atas kelas pertamanya ya, Miss Hana," kata Bima lembut sambil menghampiriku di meja sudut. "Tadi Ibu kamu sempat bisikin saya di teras, katanya sudah lama banget beliau nggak melihat kamu ketawa selebar sore ini."
 
 "Ibu senang banget akhirnya bisa ketemu langsung sama Mas Bima dan keluarga," jawabku sambil tersenyum menatapnya.
 

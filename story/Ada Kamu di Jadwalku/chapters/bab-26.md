@@ -20,11 +20,11 @@ Bima melangkah masuk dengan napas sedikit terengah-engah memakai kemeja flanel b
 
 Di sebelahnya berdiri Mas Hendra yang menggandeng tangan Ibu Bima, sementara Nino berdiri tegap memakai kemeja putih dan dasi kupu-kupu kecil di leher.
 
-"Selamat pagi, Bu, Mas Hendra, Mas Bima... syukurlah akhirnya sampai tepat waktu," ucapku lega sambil menyambut uluran tangan perempuan di kursi roda itu.
+"Selamat pagi, Bu, Mas Hendra, Mas Bima... syukurlah akhirnya sampai tepat waktu," ucapku lega sambil menyambut uluran tangan mereka satu per satu di dekat pintu masuk aula.
 
 "Mbak Hana, kenalkan ini Ratih, kakaknya Bima, ibunya Nino," kata Ibu Bima sambil menggenggam tanganku dengan hangat. "Alhamdulillah kondisinya sudah jauh membaik, makanya dokter mengizinkan keluar dua jam pagi ini buat nonton Nino."
 
-"Terima kasih banyak sudah sabar membimbing Nino dari awal sampai berani tampil ya, Mbak Hana," tambah Mbak Ratih tulus.
+"Terima kasih banyak sudah sabar membimbing Nino ya, Mbak Hana," tambah Mbak Ratih tulus sambil tersenyum dari atas kursi rodanya.
 
 "Sama-sama, Mbak Ratih, saya senang sekali Mbak bisa hadir pagi ini," jawabku.
 
@@ -32,9 +32,9 @@ Ibu Bima menoleh menatap putra bungsunya dengan tatapan iba sambil mengelus leng
 
 "Mas Bima baru selesai ngedit jam empat subuh tadi?" tanyaku kaget menatap mata merah Bima.
 
-Bima mengusap tengkuknya sambil mengeluarkan sebuah flash disk berwarna hitam dari saku kemejanya. "Iya, Miss Hana, ada perombakan mendadak yang harus dikebut semalaman. Untung selesai pas jam empat subuh sebelum jemput Mbak Ratih."
+Bima mengusap tengkuknya sambil mengeluarkan sebuah flash disk berwarna hitam dari saku kemejanya. "Iya, Miss Hana, ada perombakan mendadak yang harus dikebut semalaman. Untung selesai sebelum berangkat jemput Mbak Ratih."
 
-Bima melirik meja operator teknis yang berada di pojok kiri aula. "Saya serahkan flash disk ini ke operator dulu ya, Miss. Saking mepetnya subuh tadi, videonya belum sempat saya putar ulang."
+Bima melirik meja operator teknis di pojok kiri aula. "Saya serahkan flash disk ini ke operator dulu ya, Miss. Saking mepetnya tadi, videonya belum sempat saya putar ulang."
 
 "Semoga lancar ya, Mas," kataku tulus.
 

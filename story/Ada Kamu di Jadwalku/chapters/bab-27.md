@@ -20,15 +20,15 @@ Aku langsung terpaku di tepi panggung. Lembar naskah My Parents di tanganku perl
 
 "When my mother got very sick in the hospital, I was very scared to speak at school," lanjut Nino dalam bahasa Inggris sederhana yang diucapkannya dengan sepenuh hati. "Because my friends laughed at me."
 
-Di kursi roda barisan depan, Mbak Ratih langsung menutup mulutnya dengan tangan sambil meneteskan air mata haru, sementara Mas Hendra merangkul bahu istrinya erat-erat.
+Di kursi roda barisan depan, Mbak Ratih langsung menutup mulutnya dengan tangan sambil meneteskan air mata haru, sementara Mas Hendra merangkul bahu istrinya.
 
-"Every day, my Uncle Bima works very hard taking pictures and videos until morning," kata Nino lantang sambil menunjuk ke arah Bima di pojok ruangan. "Even when Uncle Bima is sleepy on the sofa, he always makes funny jokes for my grandmother and me," tambahnya disambut senyum hangat para penonton.
+"Every day, my Uncle Bima works very hard taking pictures and videos until morning," kata Nino lantang sambil menunjuk Bima. "Even when Uncle Bima is sleepy on the sofa, he always makes funny jokes for my grandmother and me," tambahnya disambut senyum hangat para penonton.
 
-Seluruh orang tua murid di dalam aula terdiam menyimak setiap kalimat bocah delapan tahun itu dalam keheningan yang mengharukan. Nino kemudian memutar tubuhnya sedikit menghadap ke arahku yang berdiri mematung di tepi panggung.
+Seluruh orang tua murid di dalam aula terdiam menyimak setiap kalimat bocah delapan tahun itu dalam keheningan yang mengharukan. Nino kemudian memutar tubuhnya menghadap ke arahku di tepi panggung.
 
 "And the second person is my teacher, Miss Hana," lanjut Nino sambil tersenyum tulus ke arahku. "On the first day, I did not want to speak at all."
 
-Nino melirik buku catatan bersampul cokelat yang masih terselip di mapku. "Miss Hana loves her brown schedule book and her phone alarms. But for me, she closed her guidebook," ucapnya jernih ke arah mikrofon.
+Nino melirik buku cokelatku. "Miss Hana loves her brown schedule book and her phone alarms. But for me, she closed her guidebook," ucapnya jernih ke arah mikrofon.
 
 Tanganku yang memegang map bergetar pelan.
 

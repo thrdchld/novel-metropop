@@ -2,7 +2,7 @@
 
 "Lima orang tua murid reguler barusan sampai menanyakan metode cerita bergambar dan video yang kamu pakai buat Nino!"
 
-Bu Maya menjabat tanganku erat-erat di dekat tangga panggung begitu acara Storytelling Day resmi ditutup pada pukul sebelas siang. Bahkan kelima orang tua murid itu meminta nomor ponselku karena tertarik mendaftarkan anak-anak mereka ke kelas serupa.
+Bu Maya menjabat tanganku erat-erat begitu acara Storytelling Day resmi ditutup siang itu. Bahkan kelima orang tua murid tersebut langsung meminta nomor ponselku karena tertarik mendaftarkan anak-anak mereka ke kelas serupa.
 
 "Terima kasih banyak, Bu Maya. Itu semua juga berkat kerja keras Nino dan Mas Bima," jawabku tulus.
 
@@ -14,15 +14,15 @@ Namun di lorong luar yang lengang itu, langkahku dihadang oleh Fajar yang berdir
 
 "Kenapa buru-buru banget, Jar?" tanyaku tenang.
 
-"Aku cuma nggak suka lihat orang-orang di aula tadi heboh menertawakan video tidak profesional buatan paman muridmu itu," dengus Fajar sambil melirik ke arah pintu aula. "Untung bulan depan kamu sudah pindah ke Surabaya. Orang yang hidupnya serabutan begitu jelas nggak selevel sama rencana kita."
+"Aku cuma nggak suka lihat orang-orang di aula tadi heboh menertawakan video amatiran buatan paman muridmu itu," dengus Fajar sambil melirik ke arah pintu aula. "Untung bulan depan kamu sudah pindah ke Surabaya. Orang yang hidupnya serabutan begitu jelas nggak selevel sama rencana kita."
 
 Mendengar kalimat merendahkan itu keluar dari mulut Fajar, sisa keraguan terakhir di kepalaku langsung bersih tak berbekas.
 
 "Kita nggak akan ke mana-mana, Fajar," kataku tegas. "Simpan saja bunga mawarmu. Mulai hari ini, jangan pernah menjemputku atau mengatur jadwal hidupku lagi. Aku menolak ajakanmu."
 
-Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Di Senopati kemarin kan aku sudah minta maaf dan bilang kangen hidup kita yang teratur!"
+Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Di Senopati kemarin kan aku sudah minta maaf!"
 
-"Kamu cuma merindukan jadwal yang rapi di atas kertas, Jar, bukan merindukan aku," jawabku lugas. "Dan aku tidak mau lagi bersama orang yang menganggap remeh ketulusan orang lain. Selamat siang, Fajar."
+"Kamu cuma kangen jadwal yang rapi di atas kertas, Jar, bukan kangen aku," jawabku tenang. "Dan aku nggak mau lagi bersama orang yang menganggap remeh ketulusan orang lain. Selamat siang, Fajar."
 
 Tanpa menunggu Fajar membalas, aku berbalik melangkah meninggalkannya menuju balkon samping lantai dua yang menghadap ke pepohonan jalanan Kebayoran Baru.
 

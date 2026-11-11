@@ -30,9 +30,9 @@ Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang kembali men
 
 "Kalau nggak dipasang pengingat gini, urusan harian gampang keteteran, Mel," jawabku sambil mengecek daftar materi hari pertama. "Aku cuma nggak suka hal dadakan."
 
-"Pantesan dulu si Fajar angkat tangan," celetuk Meli tanpa dosa. "Orang mau ngajak beli sate pinggir jalan aja kudu daftar sehari sebelumnya."
+"Pantesan dulu si Fajar angkat tangan," celetuk Meli tanpa dosa. "Orang mau ngajak beli sate aja kudu daftar sehari sebelumnya."
 
-Begitu sadar kalimatnya kelewat batas, Meli buru-buru menutup mulutnya dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
+Meli mendadak kicep. Dia langsung menutup mulutnya rapat-rapat dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
 
 "Santai aja," sahutku pendek.
 

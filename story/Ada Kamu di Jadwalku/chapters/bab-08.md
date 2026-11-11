@@ -30,7 +30,7 @@ Bima menoleh ke arahku sambil memasang wajah memohon. "Miss Hana, saya minta wak
 
 "Apa aja yang menghasilkan gambar dan halal saya sikat, Miss. Saya kan paket hemat, fotografer merangkap videografer," jawab Bima sambil nyengir, lalu mengeluarkan kamera tuanya dari dalam tas.
 
-Selama sepuluh menit berikutnya, aku berdiri di tepi lorong bersama Nino sambil memperhatikan Bima bekerja. Di kepalaku tadinya, Bima paling cuma memotret dua atau tiga kali lalu selesai. Kenyataannya, begitu kameranya menyala, gaya santainya di tempat kursus mendadak berganti menjadi sangat cekatan. Dengan luwes dia mengambil gambar tangan Bang Dedi yang sedang menuang adonan ke cetakan besi, merekam gerakan keju parut yang ditaburkan di atas kue pukis hangat dari jarak dekat, lalu mengatur sudut pencahayaan lampu gerobak agar uap panasnya tertangkap jelas di layar kamera.
+Selama sepuluh menit berikutnya, aku berdiri di tepi lorong bersama Nino sambil memperhatikan Bima bekerja. Di kepalaku tadinya, Bima paling cuma memotret dua kali lalu selesai. Kenyataannya, begitu kameranya menyala, gaya santainya di tempat kursus mendadak berganti menjadi sangat cekatan. Dengan luwes dia mengambil gambar tangan Bang Dedi yang sedang menuang adonan ke cetakan besi, merekam gerakan keju parut yang ditaburkan di atas kue pukis hangat dari jarak dekat, lalu mengatur sudut pencahayaan lampu gerobak agar uap panasnya tertangkap jelas di layar kamera.
 
 "Wah, keren banget hasilnya di layar, Mas Bima," puji Bang Dedi sambil menyerahkan kantong kertas berisi kue pukis hangat dan menyelipkan beberapa lembar uang ke tangan Bima.
 

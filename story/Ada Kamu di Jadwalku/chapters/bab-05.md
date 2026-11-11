@@ -20,7 +20,7 @@ Aku menoleh ke bangku kayu panjang di sudut teras. Bima dan Nino masih duduk ber
 
 "Tunggu bentar di sini ya, Miss. Nino, jagain tas Om sebentar," kata Bima sambil berdiri dari bangku kayu.
 
-Tanpa menunggu jawabanku, pria itu berlari kecil menyusuri kanopi trotoar samping yang terhubung langsung dengan minimarket di gedung sebelah. Lima menit kemudian, dia sudah kembali ke teras tempat kursus sambil membawa kantong plastik kecil di tangannya.
+Tanpa menunggu jawabanku, pria itu berlari kecil menyusuri kanopi trotoar samping yang terhubung langsung dengan minimarket di gedung sebelah. Lima menit kemudian, dia sudah kembali membawa kantong plastik kecil.
 
 Dari dalam kantong itu, Bima mengeluarkan tiga bungkus es krim potong rasa cokelat yang diapit roti tawar warna-warni. Satu diberikan kepada Nino yang langsung bersorak senang, satu lagi disodorkannya ke arahku.
 

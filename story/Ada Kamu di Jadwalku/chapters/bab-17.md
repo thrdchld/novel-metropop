@@ -44,9 +44,9 @@ Aku mengeluarkan ponselku. Di layarnya terpampang pengingat rutin hari Rabu sore
 
 "Tuh, komandan jadwalnya sudah bunyi. Hati-hati di jalan ya, Hana," goda Bima sambil melirik layar ponselku dengan senyum maklum.
 
-Aku menatap deretan huruf pengingat di layar ponselku itu, lalu menatap wajah Bima dan Nino yang berdiri di depanku. Untuk pertama kalinya selama empat tahun terakhir, dering pengingat itu bukan lagi perintah mutlak yang harus kupatuhi detik itu juga.
+Aku menatap deretan huruf pengingat di layar ponselku itu, lalu beralih menatap wajah Bima dan Nino. Untuk pertama kalinya selama empat tahun terakhir, dering pengingat itu bukan lagi perintah mutlak yang harus kupatuhi detik itu juga.
 
-Di depan mata Bima, ibu jariku menekan tombol matikan pengingat, lalu sekalian menggeser sakelar pengingat pukul enam malamku menjadi nonaktif.
+Di depan mata Bima, ibu jariku langsung menekan tombol matikan pengingat dan menggeser sakelar pengingat pukul enam malamku menjadi nonaktif.
 
 "Loh, kok dimatiin alarmnya?" tanya Bima sambil mengerjap kaget.
 

@@ -18,7 +18,7 @@ Tanganku terangkat menutupi mulutku yang bergetar menahan haru.
 
 Ternyata selama enam minggu ini, setiap kali aku membatin bahwa Bima kurang kerjaan gara-gara hobi memotret benda-benda sepele yang tidak penting di sekitar kami, lensa kamera peninggalan almarhum ayahnya itu sebenarnya sedang menangkap diriku. Persis seperti pesan terakhir ayahnya yang dia ceritakan di bangku taman Cipete: tangkapan kamera paling indah adalah momen jujur yang diambil diam-diam saat orangnya lupa sedang diperhatikan kamera.
 
-Layar proyektor kemudian menampilkan deretan video latihan Nino di taman hingga akhirnya perlahan meredup menjadi latar hitam dengan tulisan huruf putih sederhana di tengah layar: Thank You.
+Layar proyektor kemudian menampilkan deretan video latihan Nino di taman, lalu perlahan meredup menjadi latar hitam bertuliskan huruf putih sederhana: Thank You.
 
 Detik itu juga, seluruh orang tua murid, Bu Maya, Meli, dan para pengajar di dalam aula langsung berdiri memberikan tepuk tangan meriah karena mengira tayangan video sudah selesai. Di pojok kiri aula dekat meja operator, Bima tersenyum lega sambil ikut bertepuk tangan.
 

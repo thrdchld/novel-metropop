@@ -44,4 +44,4 @@ Aku terdiam menatap sisi wajah Bima. Ini pertama kalinya aku mendengar Bima meny
 
 Bima menoleh menatapku, kali ini tanpa cengiran usilnya yang biasa. "Berarti kita sama-sama sudah pernah lewatin masa itu ya."
 
-Sebelum aku sempat menjawab, Nino sudah berlari kembali ke bangku kami sambil memamerkan lampu merah yang berkedip di layar kamera dengan bangga karena sudah mahir menekan tombol rekamnya sendiri, sementara di dalam hatiku ada rasa hangat yang baru pertama kali kurasakan sejak berbulan-bulan lalu.
+Sebelum aku sempat menjawab, Nino sudah berlari kembali ke bangku kami sambil memamerkan lampu merah yang berkedip di layar kamera dengan bangga karena sudah mahir menekan tombol rekamnya sendiri, sementara hatiku mendadak hangat oleh ketenangan yang baru pertama kali kurasakan sejak berbulan-bulan lalu.

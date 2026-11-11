@@ -2,7 +2,7 @@
 
 Langkah kakiku terhenti tepat di depan pagar kayu sebuah rumah kontrakan petak bercat putih kusam di gang sempit kawasan Cipete.
 
-Sambil menutup payung lipatku yang masih basah oleh sisa gerimis pukul tujuh kurang sepuluh menit malam ini, aku mencocokkan sekali lagi nomor rumah di sampul belakang buku gambar dinosaurus Nino dengan pelat nomor di tembok teras. Selama tiga minggu mengenal Bima dan mengagumi hasil jepretan fotonya yang begitu hidup, di kepalaku aku sempat membayangkan dia tinggal di rumah berhalaman luas yang punya ruang studio foto sendiri.
+Aku menutup payung lipatku yang masih basah oleh sisa gerimis pukul tujuh kurang sepuluh menit malam ini, lalu mencocokkan sekali lagi nomor rumah di sampul belakang buku gambar dinosaurus Nino dengan pelat nomor di tembok teras. Selama tiga minggu mengenal Bima dan mengagumi hasil jepretan fotonya yang begitu hidup, di kepalaku aku sempat membayangkan dia tinggal di rumah berhalaman luas yang punya ruang studio foto sendiri.
 
 Kenyataannya? Teras sempit di depanku ini bahkan hanya muat menaruh dua kursi plastik dan sepasang sepatu sekolah kecil milik Nino di atas rak besi.
 

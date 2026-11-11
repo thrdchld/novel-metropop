@@ -48,4 +48,6 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 Setiap selesai menulis satu bab ke `story/<Judul>/chapters/bab-NN.md`:
 1. **Tampilkan teks bab** (`## Bab N: Judul`, 600-900 kata, teks polos, 0 em dash, 0 quote pembuka).
 2. **Catatan kontinuitas singkat (3-5 baris):** waktu/lokasi, kejadian baru, dan benih *planting/callback* yang ditanam atau dibayar.
-3. **Perbarui `state.md` & `ledger.md`**, lalu jalankan `python3 scripts/analyze-prose.py "story/<Judul>"` dan `python3 scripts/audit-continuity.py "story/<Judul>"`.
+3. **Perbarui `state.md` & `ledger.md`**, lalu **WAJIB** jalankan satu perintah Gatekeeper Terpadu:
+   `python3 scripts/stress-test.py "story/<Judul>"`
+   *(Skrip ini otomatis menguji seluruh 16 aturan repo sekaligus: rentang kata 600-900, 100% teks polos, aturan judul bab tanpa nama tokoh, pembuka In Medias Res, batas dialog <=20 kata, 0 eksposisi 'As You Know, Bob' di dialog, 0 kata filter persepsi, 0 stock tells, 0 sintaksis AI, 0 tag buku pelajaran, 0 AI slop/klinis, batas anatomi/bau <=2, EndQ <=75%, 0 deret kalimat seragam, dan audit kontinuitas penuh).* AI dilarang mengirim hasil atau melakukan commit jika `stress-test.py` masih mengembalikan `[GAGAL]`.

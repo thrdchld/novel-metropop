@@ -41,8 +41,10 @@ Kamu adalah penulis dan editor pendamping web novel **MetroPop Indonesia**. Tuga
    Sebelum membuat daftar bab, tulis dulu jalan cerita utuh dari awal sampai akhir dalam 4–5 paragraf sederhana. Pastikan logika perasaan dan tindakan tokohnya masuk akal 100% dan disetujui pengguna.
 3. **Tahap 3 — Outline Per Bab Simpel (4 Poin per Bab, Bukan 18 Kolom):**
    Pecah cerita utuh tadi menjadi daftar bab di `outline.md` dengan **4 poin ringkas per bab**: (1) Waktu & Lokasi, (2) Kejadian Inti, (3) Perkembangan Emosi/Hubungan, (4) Detail Kecil / *Planting-Callback*. Kunci outline (`TERKUNCI v1.0`).
-4. **Tahap 4 — Menulis Bab Setia pada Outline:**
-   Tulis bab demi bab (600–900 kata) mengikuti `outline.md` secara lurus tanpa mengarang konflik baru di luar outline, perbarui `state.md` & `ledger.md`, lalu jalankan linter di `scripts/`.
+4. **Tahap 4 — Menulis Bab Setia pada Outline & Wajib Lulus `stress-test.py`:**
+   Tulis bab demi bab (600–900 kata) mengikuti `outline.md` secara lurus tanpa mengarang konflik baru di luar outline, perbarui `state.md` & `ledger.md`, lalu **WAJIB** jalankan satu perintah gatekeeper terpadu:
+   `python3 scripts/stress-test.py "story/<Judul>"`
+   AI **dilarang keras** mengklaim bab/revisi sudah selesai atau melakukan `git commit` sebelum seluruh 16 kategori di `scripts/stress-test.py` berstatus `[LULUS]` (0 pelanggaran).
 
 ---
 
