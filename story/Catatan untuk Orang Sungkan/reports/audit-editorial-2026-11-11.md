@@ -5,8 +5,8 @@
 **Repository:** `thrdchld/novel-metropop`  
 **Branch:** `main`  
 **Judul kanonis:** Catatan untuk Orang Sungkan  
-**Status keputusan:** READY WITH MINOR FIXES  
-**Rekomendasi:** Selesaikan perbaikan lokal yang tercantum sebelum rilis; tidak diperlukan restrukturisasi novel.
+**Status keputusan:** READY TO PUBLISH  
+**Rekomendasi:** Tiga perbaikan wajib telah diterapkan dan diverifikasi. Novel siap dipublikasikan; tidak diperlukan restrukturisasi.
 
 ---
 
@@ -16,7 +16,7 @@ Novel telah tamat dalam 32 bab. Pembacaan dilakukan terhadap naskah gabungan dan
 
 Cerita memiliki premis yang jelas, perkembangan protagonis yang dapat ditelusuri, konflik romance yang sesuai dengan genre MetroPop, dan payoff yang ditanam sejak awal. Konflik utama selesai. Ending membayar perubahan Nadia dan perkembangan hubungan Nadia–Saka.
 
-Tidak ditemukan BLOCKER yang membuat pembaca gagal memahami cerita atau membuat konflik utama runtuh. Namun, masih ada beberapa masalah lokal dan ketidaksinkronan dokumen yang sebaiknya dibereskan sebelum publikasi.
+Tidak ditemukan BLOCKER struktural yang membuat pembaca gagal memahami cerita atau membuat konflik utama runtuh. Tiga masalah lokal yang ditemukan dalam audit awal telah diperbaiki dan diverifikasi sebelum keputusan publikasi ini ditetapkan.
 
 **Keputusan ini bukan READY TO PUBLISH tanpa syarat.** Status READY WITH MINOR FIXES dipilih karena ada koreksi kontinuitas dan penyelarasan dokumen yang spesifik, bukan karena novel membutuhkan rewrite besar.
 
@@ -35,6 +35,8 @@ Cakupan penilaian meliputi fondasi cerita, struktur, perkembangan karakter, kaus
 
 ### F-01 — Durasi adegan Bab 4 tidak cocok dengan kronologi Bab 3
 
+**Status setelah revisi:** FIXED
+
 **Severity:** ERROR  
 **Release impact:** FIX BEFORE RELEASE  
 **Confidence:** Tinggi  
@@ -50,6 +52,8 @@ Adegan Bab 4 kemudian mencapai pukul 17.01. Jika Nadia dan Saka sudah duduk bers
 
 ### F-02 — Informasi yang diketahui Tari di Bab 29 belum memiliki jalur yang tampak
 
+**Status setelah revisi:** FIXED
+
 **Severity:** REVIEW  
 **Release impact:** FIX BEFORE RELEASE  
 **Confidence:** Tinggi  
@@ -64,6 +68,8 @@ Namun, sebelum ucapan itu, manuskrip belum memperlihatkan Nadia memberi tahu Tar
 **Perbaikan minimum:** Tambahkan satu kalimat atau satu beat singkat yang menunjukkan Nadia mengabari Tari setelah makan malam. Tidak perlu membuat adegan baru atau menjelaskan ulang konflik Dimas.
 
 ### F-03 — Ringkasan backstory Saka di outline berbeda dari manuskrip
+
+**Status setelah revisi:** FIXED
 
 **Severity:** ERROR pada dokumen pendamping  
 **Release impact:** FIX BEFORE RELEASE untuk sinkronisasi arsip  
@@ -162,12 +168,12 @@ Pola serupa muncul pada beberapa penutup reflektif lain. Ini tidak membuat alur 
 
 ## 7. Daftar tindakan sebelum rilis
 
-**Wajib diselesaikan:**
-1. Koreksi durasi adegan Bab 4.
-2. Tambahkan jalur informasi dari Nadia kepada Tari sebelum Tari menghubungi Saka di Bab 29.
-3. Selaraskan ringkasan backstory Saka di outline dengan Bab 12.
+**Perbaikan wajib — seluruhnya selesai:**
+1. Bab 4: durasi diubah dari “hampir enam jam” menjadi “hampir delapan jam”, sesuai rentang sekitar pukul 09.30 sampai 17.01.
+2. Bab 29: ditambahkan satu beat bahwa Nadia mengabari Tari setelah makan malam di Rawamangun, sehingga Tari memiliki jalur informasi sebelum mengirim pesan kepada Saka.
+3. Outline: ringkasan backstory Saka diselaraskan dengan Bab 12; tabungan terkuras untuk menalangi sewa studio dan mengerjakan bagian temannya, studio tutup karena utang sewa, lalu temannya lepas tangan.
 
-**Opsional, tidak menahan publikasi:**
+**Opsional, tidak menahan publikasi (tidak diubah dalam revisi ini):**
 1. Ringkas enam judul bab yang melebihi lima kata.
 2. Kurangi repetisi sensasi fisik emosional di bab-bab yang padat.
 3. Pangkas kesimpulan emosional yang mengulang efek adegan.
@@ -175,8 +181,20 @@ Pola serupa muncul pada beberapa penutup reflektif lain. Ini tidak membuat alur 
 
 ## 8. Status akhir dan batas audit
 
-**READY WITH MINOR FIXES.**
+**READY TO PUBLISH.**
 
-Tidak ada alasan editorial untuk merombak struktur, mengganti premis, mengubah pasangan akhir, atau menulis ulang novel dari awal. Setelah tiga tindakan wajib di bagian 7 selesai dan diverifikasi, novel dapat dinilai ulang untuk status READY TO PUBLISH.
+Tiga tindakan wajib telah selesai. Pemeriksaan ulang memastikan teks Bab 4 dan Bab 29 pada file bab individual identik dengan bagian yang bersesuaian di `manuscript.md`, serta detail backstory pada outline telah sesuai dengan Bab 12. Tidak ada alasan editorial untuk merombak struktur, mengganti premis, mengubah pasangan akhir, atau menulis ulang novel dari awal.
 
 Audit ini tidak mengubah file manuskrip. Status ini menilai keterbacaan dan integritas cerita, bukan jaminan penerimaan platform, legalitas hak cipta, atau keberhasilan pasar.
+
+
+## 9. Catatan revisi dan verifikasi — 11 November 2026
+
+Perbaikan F-01, F-02, dan F-03 diterapkan pada branch `main`. Pemeriksaan pascarevisi dilakukan dengan mengambil ulang file dari GitHub:
+
+- `chapters/bab-04.md` identik dengan bagian Bab 4 dalam `manuscript.md` setelah koreksi durasi.
+- `chapters/bab-29.md` identik dengan bagian Bab 29 dalam `manuscript.md` setelah penambahan jalur informasi Nadia kepada Tari.
+- `outline.md` tidak lagi memuat klaim bahwa naskah buku Saka dibawa kabur; ringkasannya kini mengikuti peristiwa yang benar-benar diceritakan dalam Bab 12.
+- Tidak ada bab lain atau bagian manuskrip yang diubah. Temuan F-04 sampai F-07 tetap menjadi polish opsional dan tidak dijadikan syarat publikasi.
+
+**Keputusan pascarevisi: READY TO PUBLISH.** Status ini menilai kesiapan cerita untuk dibaca dan diterbitkan berdasarkan audit editorial, bukan jaminan penerimaan platform atau keberhasilan pasar.
