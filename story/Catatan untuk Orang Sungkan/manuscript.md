@@ -202,7 +202,7 @@ Aku menelan ludah, menatap pria Jogja di sebelahku ini dengan perasaan ngeri sek
 
 ## Bab 4: Peraturan Jam Lima Sore
 
-Selama hampir enam jam duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat, aku menemukan satu fakta ilmiah baru: laki-laki ini tidak suka basa-basi bukan karena sedang marah, melainkan karena pengaturan pabriknya memang begitu.
+Selama hampir delapan jam duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat, aku menemukan satu fakta ilmiah baru: laki-laki ini tidak suka basa-basi bukan karena sedang marah, melainkan karena pengaturan pabriknya memang begitu.
 
 Kalau rekan kerja lain di kantor biasanya membuka obrolan dengan menanyakan kabar cuaca atau gosip artis yang baru cerai, Saka berbicara padaku murni dalam format kalimat perintah dan kalimat tanya singkat.
 
@@ -1721,6 +1721,8 @@ Dan tepat di bawah gambar bayangan botol minum itu, ada sebaris tulisan tangan t
 Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimpulkan isi kepala orang sebelum bertanya sampai selesai.
 
 Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan sinyal kereta.
+
+Tadi malam, setelah pulang dari Rawamangun, aku sempat mengirim pesan kepada Tari. Kuceritakan bahwa aku menolak Dimas di depan Ibu dan tidak akan kembali kepadanya.
 
 "Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat nanti di panggung peluncuran Sela Waktu dia nggak mungkin absen."
 
