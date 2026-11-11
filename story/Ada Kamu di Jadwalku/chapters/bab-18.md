@@ -32,7 +32,7 @@ Setelah membeli tiga botol air mineral dingin dan baru berjalan setengah jalan k
 
 "Selamat sore, Bu Maya," sapaku sambil tetap melangkah pelan di jalur setapak taman.
 
-"Sore, Hana. Saya cuma mau mengabari singkat kalau berkas Surat Keputusan promosi kamu untuk cabang Surabaya sudah selesai ditandatangani direktur pusat sore ini," kata Bu Maya dari seberang telepon. "Kemungkinan hari Selasa atau Rabu depan map resminya sudah tiba di meja saya."
+"Sore, Hana. Surat Keputusan promosimu untuk cabang Surabaya sudah selesai ditandatangani direktur pusat sore ini," kata Bu Maya dari seberang telepon. "Kemungkinan hari Selasa atau Rabu depan map resminya sudah tiba di meja saya."
 
 Langkah kakiku melambat sedikit.
 

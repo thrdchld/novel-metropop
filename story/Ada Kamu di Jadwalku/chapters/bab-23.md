@@ -20,7 +20,9 @@ Bima menatap map biru di tanganku. Raut wajahnya tenang, sulit sekali kutebak ap
 
 Ucapan selamat yang begitu datar dan resmi itu menghantam ulu hatiku. Aku menarik napas dalam-dalam, membuang semua gengsiku, dan menatap lurus ke matanya.
 
-"Hari Senin pagi nanti aku harus menyerahkan keputusan terakhirku ke Bu Maya," kataku dengan suara bergetar. "Tapi jujur, dari siang tadi hatiku berat banget buat tanda tangan. Mas Bima... kalau menurut Mas Bima sendiri, aku harus berangkat ke Surabaya atau tetap tinggal di Jakarta aja?"
+"Hari Senin pagi nanti aku harus menyerahkan keputusan terakhirku ke Bu Maya," kataku dengan suara bergetar. "Tapi jujur, dari siang tadi hatiku berat banget buat tanda tangan."
+
+Aku menatap lurus ke matanya, berharap dia menangkap arti di balik pertanyaanku. "Kalau menurut Mas Bima sendiri, aku harus berangkat ke Surabaya atau tetap tinggal di Jakarta aja?"
 
 Pertanyaan itu menggantung di udara sore di antara kami. Sebenarnya bukan pendapat karier yang sedang kuminta darinya. Aku hanya butuh satu alasan kecil darinya, satu kalimat saja yang mengatakan bahwa dia dan Nino masih membutuhkanku di Jakarta, maka aku siap mengembalikan map biru ini ke meja Bu Maya.
 
@@ -30,7 +32,9 @@ Bima terdiam cukup lama. Matanya menatap map biru di tanganku, lalu beralih mena
 
 Napasku langsung tertahan.
 
-"Itu kan rencana yang sudah Miss Hana susun rapi dari dulu, bahkan sebelum kenal kami," lanjut Bima dengan suara rendah yang stabil. "Di sana jabatannya bagus, masa depannya jelas, dan rencana hidup Miss Hana ke depannya sudah tertata semua. Jangan sampai semuanya berantakan cuma gara-gara ragu di menit terakhir. Urusan les privat Nino juga selesai hari Sabtu ini kok, jadi tidak ada lagi yang perlu Miss Hana pikirkan di sini."
+"Itu kan rencana yang sudah Miss Hana susun rapi dari dulu, bahkan sebelum kenal kami," lanjut Bima dengan suara rendah yang stabil. "Di sana jabatannya bagus, masa depannya jelas, dan rencana hidup Miss Hana sudah tertata semua."
+
+Dia memalingkan pandangannya sedikit ke arah jalan raya. "Jangan sampai berantakan gara-gara ragu di menit terakhir. Les Nino juga selesai Sabtu ini, jadi nggak ada tanggungan lagi."
 
 Setiap patah kata yang keluar dari mulutnya rasanya seperti air es yang disiramkan langsung ke kepalaku.
 

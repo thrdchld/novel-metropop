@@ -10,9 +10,11 @@ Aku menerima amplop cokelat itu dengan kening berkerut penasaran. Saat kukeluark
 
 Bukan gambar unduhan dari internet atau guntingan majalah. Semuanya hasil jepretan asli suasana sehari-hari yang dicetak sangat jernih. Lembar pertama memperlihatkan seekor kucing oranye gemuk yang sedang menguap lebar di atas kursi kayu warung. Lembar kedua menampilkan gerobak bakso biru dengan kepulan uap panas dari pancinya. Lembar ketiga memperlihatkan tukang balon keliling dengan puluhan balon warna-warni di bawah langit sore, disusul foto sepeda anak-anak, payung merah di trotoar hujan, sampai sepiring nasi goreng telur mata sapi.
 
-"Malam Minggu lalu Nino cerita kalau belajarnya pakai gambar jauh lebih seru," jelas Bima sambil menunjuk tumpukan foto di tanganku. "Jadi pas keliling kerja di akhir pekan, saya sekalian cetak sepuluh foto yang gampang ditebak bahasa Inggrisnya sama Nino. Di bagian belakang tiap foto sudah saya tulis tempat kosong buat Nino latihan nulis katanya."
+"Kemarin Nino cerita kalau belajar pakai gambar jauh lebih seru," jelas Bima sambil menunjuk tumpukan foto di tanganku. "Jadi pas keliling kerja kemarin, saya sekalian cetak sepuluh foto yang gampang ditebak sama Nino."
 
-Aku membalik salah satu lembar kartu pos itu.
+"Bagian belakangnya juga sengaja dikasih garis ya, Mas?" tanyaku sambil membalik salah satu kartu pos itu.
+
+"Iya, biar Nino bisa sekalian latihan nulis kosakatanya di situ," sahut Bima ringan.
 
 Di balik kertas fotonya memang sudah digaris lurus menggunakan penggaris dan spidol tipis agar Nino bisa menuliskan kosakata bahasa Inggrisnya di sana.
 

@@ -22,11 +22,13 @@ Bocah delapan tahun itu langsung menunduk dalam-dalam, merapatkan bibirnya, dan 
 
 "Ayo, No, disapa dulu Miss Hana-nya," bujuk Bima sambil menepuk pundak keponakannya pelan. Bukannya menyapa, Nino malah bergeser bersembunyi di balik paha pamannya.
 
-Aku merapikan letak buku modul di mejaku, berusaha menjaga senyum profesional tetap menempel di wajah. "Tidak apa-apa, Mas Bima. Karena waktu belajar kita sudah terpotong dua belas menit dan durasi kelas tetap berakhir pukul lima kurang lima belas menit, sebaiknya kita langsung mulai sekarang. Mas Bima bisa menunggu di sofa lobi depan."
+Aku merapikan letak buku modul di mejaku, berusaha menjaga senyum profesional tetap menempel di wajah. Waktu belajar kami sudah terpotong dua belas menit, padahal durasi kelas tetap berakhir pukul lima kurang lima belas menit.
 
-"Siap, Miss Hana," kata Bima sambil mengusap tengkuknya. Sebelum keluar, dia sempat berjongkok di depan Nino dan merapikan rambut keponakannya yang mencuat, anehnya tanpa sadar sedikit pun kalau kancing baju anak itu masih miring. "Nino belajar dulu sama Miss Hana ya. Om tunggu di kursi luar."
+"Tidak apa-apa, Mas Bima. Sebaiknya kelasnya langsung kita mulai sekarang ya," kataku sambil menunjuk ke arah pintu. "Mas Bima bisa menunggu di sofa lobi depan."
 
-Nino hanya mengangguk kecil tanpa mengeluarkan suara, lalu berjalan pelan duduk di kursi seberang mejaku sambil tetap mendekap buku gambar dinosaurusnya.
+"Siap, Miss Hana," kata Bima sambil mengusap tengkuknya. Sebelum keluar, dia berjongkok di depan Nino dan merapikan rambut keponakannya yang mencuat. Lucunya, dia sama sekali tidak sadar kalau kancing baju anak itu masih miring. "Nino belajar dulu sama Miss Hana ya. Om tunggu di kursi luar."
+
+Nino hanya mengangguk kecil tanpa mengeluarkan suara. Dia berjalan pelan duduk di kursi seberang mejaku sambil tetap mendekap buku gambar dinosaurusnya.
 
 Begitu pintu kaca tertutup, aku membuka buku modul minggu pertama. Di kepalaku, menghadapi murid baru yang pemalu seharusnya bukan perkara sulit karena aku sudah mengajar puluhan anak SD selama empat tahun bekerja di sini.
 
@@ -44,8 +46,8 @@ Ketika bel kecil penanda pukul empat lewat empat puluh lima menit berbunyi, lemb
 
 Pintu kaca terbuka dan Bima melongok masuk dengan wajah cerah. "Gimana, Miss? Hari pertama aman terkendali?"
 
-"Nino belum mau mengucapkan satu kata pun, Mas Bima," jawabku sambil menutup spidol hitamku sampai berbunyi klik. "Untuk pertemuan hari Rabu lusa, saya harap Nino bisa hadir tepat pukul empat sore supaya waktu pemanasannya tidak terbuang seperti hari ini."
+"Nino belum mau mengucapkan satu kata pun, Mas Bima," jawabku sambil menutup spidol hitamku sampai berbunyi klik. "Hari Rabu lusa tolong datang tepat jam empat ya, Mas, biar waktunya nggak kepotong lagi."
 
-"Tenang, Miss Hana. Hari Rabu kami usahakan nggak telat lagi, namanya juga baru perkenalan jadi mesinnya masih dingin," sahut Bima enteng sambil meraih kotak bekal roti gosong milik keponakannya.
+"Tenang, Miss Hana. Hari Rabu dijamin tepat waktu, tadi kan mesinnya masih dingin," sahut Bima enteng, lalu meraih kotak bekal roti gosong milik keponakannya.
 
 Aku menatap punggung kemeja flanel kusut Bima yang melangkah keluar sambil menggandeng Nino, lalu melirik kolom target minggu pertama di buku cokelatku yang masih kosong dan mulai bertanya-tanya bagaimana nasib promosiku kalau wali muridnya saja sesantai itu.

@@ -6,13 +6,13 @@ Namun Bima sama sekali tidak melakukan keduanya.
 
 Setelah menatapku diam selama beberapa detik yang begitu panjang, bahu tegap di balik kemeja flanel basah itu perlahan turun. Bima menundukkan kepalanya sedikit di depanku.
 
-"Maaf, Miss Hana," katanya dengan suara sangat rendah dan tenang, kembali memakai sapaan formal yang berjarak. "Miss Hana benar, saya yang salah karena sudah mengacaukan jadwal evaluasi Miss Hana hari ini. Saya janji hari Rabu nanti Nino tidak akan terlambat lagi. Kami permisi dulu."
+"Maaf, Miss Hana. Miss Hana benar, saya yang salah sudah mengacaukan jadwal evaluasi hari ini," katanya dengan suara sangat rendah dan tenang, kembali memakai sapaan formal yang berjarak. "Saya janji hari Rabu nanti Nino tidak akan terlambat lagi. Kami permisi dulu."
 
-Tanpa menambahkan satu kalimat pembelaan pun untuk dirinya sendiri, Bima merapatkan tudung jaket di kepala Nino agar keponakannya tidak kehujanan, lalu menggandeng tangan bocah itu berjalan cepat menembus rintik gerimis menuju jalan raya.
+Tanpa menambahkan satu kalimat pembelaan pun untuk dirinya sendiri, Bima merapatkan tudung jaket di kepala Nino agar keponakannya tidak kehujanan. Dia langsung menggandeng tangan bocah itu berjalan cepat menembus rintik gerimis menuju jalan raya.
 
 Aku berdiri sendirian di teras samping sambil memeluk buku catatan cokelatku. Anehnya, meskipun aku baru saja mengeluarkan semua unek-unek yang menumpuk di kepalaku sejak hari Jumat lalu, dadaku sama sekali tidak lega. Justru tatapan mata Bima yang lelah dan caranya meminta maaf tanpa melawan sedikit pun tadi meninggalkan ganjalan yang menyakitkan di ulu hatiku.
 
-Dengan langkah gontai, aku berbalik masuk ke gedung kursus dan kembali ke Ruang Kelas Nomor Dua untuk membereskan spidol serta mematikan AC ruangan. Suasana di dalam kelas yang sudah ditinggal pulang oleh murid-murid sore itu hening sekali, menyisakan bunyi dengung halus pendingin udara dan bayangan kursiku sendiri di dinding kaca.
+Dengan langkah gontai, aku berbalik masuk ke gedung kursus. Aku kembali ke Ruang Kelas Nomor Dua untuk membereskan spidol serta mematikan AC ruangan. Suasana di dalam kelas yang sudah ditinggal pulang oleh murid-murid sore itu hening sekali, menyisakan bunyi dengung halus pendingin udara dan bayangan kursiku sendiri di dinding kaca.
 
 Saat aku sedang menggeser kursi tempat Bima tadi meletakkan tas kameranya di dekat pintu kelas, ujung sepatuku tidak sengaja menyentuh sesuatu di kolong meja sudut.
 

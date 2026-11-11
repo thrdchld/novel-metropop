@@ -26,11 +26,15 @@ Dari dalam kantong itu, Bima mengeluarkan tiga bungkus es krim potong rasa cokel
 
 "Buat apa, Mas? Cuaca lagi dingin begini," kataku ragu menatap bungkus es krim di tangannya.
 
-"Justru paling enak makan es krim itu pas lagi hujan deras, nggak perlu rebutan sama matahari," jawab Bima enteng sambil tetap mengulurkan es krim itu sampai aku mau tidak mau menerimanya. Dia lalu duduk kembali di sebelah Nino dan membuka bungkus es krim bagiannya sendiri. "Lagian hujan sore ini kan nggak baca catatan jadwalnya Miss Hana. Daripada pusing melototin jam di HP terus padahal jalanan juga nggak bakal langsung kering, mending makan es krim dulu sebelum meleleh."
+"Justru paling enak makan es krim itu pas lagi hujan deras, nggak perlu rebutan sama matahari," jawab Bima enteng sambil tetap mengulurkan es krim itu sampai aku mau tidak mau menerimanya. Dia lalu duduk kembali di sebelah Nino dan membuka bungkus es krim bagiannya sendiri. "Lagian hujan sore ini kan nggak baca catatan jadwalnya Miss Hana."
 
-Aku menatap es krim potong di tanganku, lalu melirik layar ponselku yang baru saja memunculkan pemberitahuan bahwa pencarian pengemudi kembali gagal.
+Aku mendengus kecil mendengar sindirannya.
 
-Akhirnya aku memasukkan ponsel ke dalam tas selempangku dan ikut duduk di ujung bangku kayu teras. Saat kugigit ujung roti dan es krim cokelat yang dingin itu, manisnya cokelat perlahan membuat bahuku yang tegang sejak tadi sedikit mengendur.
+"Daripada pusing melototin jam di HP terus, mending makan es krim dulu sebelum meleleh," tambahnya santai.
+
+Aku menatap es krim potong di tanganku. Di layar ponselku, pemberitahuan baru saja muncul bahwa pencarian pengemudi kembali gagal.
+
+ Akhirnya aku memasukkan ponsel ke dalam tas selempangku dan ikut duduk di ujung bangku kayu teras. Saat kugigit ujung roti dan es krim cokelat yang dingin itu, manisnya cokelat perlahan membuat bahuku yang tegang sejak tadi sedikit mengendur.
 
 "Enak kan, Miss? Ini bahasa Inggrisnya brown ice cream!" seru Nino sambil memamerkan kumis tipis dari lelehan cokelat di atas bibirnya.
 
@@ -38,10 +42,10 @@ Aku tertawa kecil melihat wajah belepotan muridku itu, lalu mengambil selembar t
 
 "Iyalah, kan belajarnya pakai dinosaurus di karpet, bukan pakai kertas ujian SIM lagi," celetuk Bima sambil nyengir lebar ke arahku.
 
-Aku baru mau membalas ledekannya ketika Bima meletakkan sisa bungkus rotinya, lalu mengangkat kamera tuanya yang sejak tadi ada di pangkuan. Dengan satu tangan, dia menyalakan kamera itu dan mengarahkannya miring ke arah pinggiran atap teras di sebelahku, tempat air hujan mengalir deras dari ujung talang seng ke semak-semak halaman depan.
+Aku baru mau membalas ledekannya ketika Bima meletakkan sisa bungkus rotinya. Dia mengangkat kamera tuanya yang sejak tadi ada di pangkuan, lalu menyalakannya dengan satu tangan. Lensa kameranya diarahkan miring ke pinggiran atap teras di sebelahku, tempat air hujan mengalir deras dari ujung talang seng ke semak-semak halaman depan.
 
 "Lagi hujan begini masih sempat-sempatnya ngerekam talang air, Mas?" tanyaku heran melihat lampu kecil di kameranya menyala beberapa detik.
 
-"Buat koleksi suara hujan sama gambar air jatuh aja, Miss. Kadang gambar yang nggak direncanain malah bagus kalau dilihat lagi nanti," jawab Bima sambil menurunkan kameranya dan mengusap tengkuknya dengan tawa ringan.
+"Buat koleksi suara hujan aja, Miss. Kadang rekaman yang nggak direncanain gini malah bagus kalau dilihat lagi nanti," jawab Bima sambil menurunkan kameranya dan mengusap tengkuknya dengan tawa ringan.
 
 Aku hanya menggeleng pelan sambil menghabiskan potongan terakhir es krimku, masih menganggap hobi memotret talang air hujan milik wali muridku itu agak aneh, meski diam-diam aku mulai bertanya-tanya kejutan apa lagi yang bakal dibawa paman dan keponakan ini minggu depan.

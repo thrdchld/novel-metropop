@@ -83,6 +83,11 @@ Cacat logika mikro (prosedur dunia nyata yang salah, urutan dialog yang tumpang 
      1. Tokoh mengklaim *"Aku pernah lihat berkas itu waktu kamu tunjukin hari Selasa kemarin!"* padahal di bab hari Selasa yang sudah ditulis **sama sekali tidak ada adegan** menunjukkan berkas tersebut.
      2. Detektif bayaran yang baru disewa di Bab 10 tiba-tiba memiliki foto kejadian dari Bab 1–3 (sebelum detektif itu disewa dan sebelum antagonis curiga).
    - **Aturan wajib:** Setiap petunjuk yang dirujuk kembali di klimaks **wajib benar-benar tertulis adegannya** di bab awal (bukan cuma diklaim secara retroaktif lewat dialog), dan setiap foto/bukti intaian hanya boleh merekam kejadian **setelah** penguntit mulai bekerja (atau diambil dari dokumentasi acara publik).
+10. **Uji Kelisanan Dialog Manusia (Anti-Dialog Narator, Anti-*"As You Know, Bob"*, & Batas 20 Kata per Kutipan):**
+   - **Cacat yang dilarang:**
+     1. Tokoh berbicara seperti narator yang merangkum kronologi waktu atau masa lalu yang sudah diketahui lawan bicaranya (misal: *"Iya, saking anti dadakannya, enam bulan lalu si Fajar sampai nyerah gara-gara mau ngajak mampir beli sate ayam pinggir jalan aja harus masuk daftar rencana lo sehari sebelumnya"* atau *"Sabtu lalu di Senopati kan aku sudah minta maaf..."*).
+     2. Tokoh berbicara dalam satu rentang kutipan `"..."` yang panjangnya melebihi **20 kata** seperti sedang membacakan esai atau pidato tertulis.
+   - **Aturan wajib:** Pindahkan semua keterangan waktu masa lalu (*enam bulan lalu*, *empat tahun terakhir*, *hari Senin kemarin*) dan penjelasan latar belakang ke dalam **narasi/monolog batin POV**. Biarkan kalimat di dalam tanda kutip hanya berisi ucapan lisan yang ringkas, ceplas-ceplos, alami saat dibaca nyaring, dan **maksimal 20 kata per rentang kutipan `"..."`** (wajib diuji dengan `scripts/analyze-prose.py` dengan hasil `0` kutipan panjang dan `0` pola *As You Know, Bob*).
 
 ---
 

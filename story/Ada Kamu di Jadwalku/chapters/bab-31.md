@@ -18,18 +18,24 @@ Nino langsung mencuci tangannya di keran halaman lalu menyambar pisang goreng de
 
 Aku mengambil selembar tisu bersih, lalu mengulurkan tanganku mengusap bercak cat putih yang menempel di pipi kiri Bima.
 
-"Ruangannya sudah siap seratus persen buat kelas perdana hari Sabtu depan, Bu Kepala Sekolah. Kalau lihat tempat sebagus ini sekarang, rasanya masih kayak mimpi ya, padahal dua minggu lalu kamu baru saja melepas jabatan Kepala Akademik di Surabaya," kata Bima sambil menatapku dengan senyum hangat setelah jemariku selesai membersihkan pipinya.
+"Ruangannya sudah siap seratus persen buat kelas perdana hari Sabtu depan, Bu Kepala Sekolah," kata Bima sambil menatapku dengan senyum hangat setelah jemariku selesai membersihkan pipinya. "Kalau lihat tempat sebagus ini sekarang, rasanya masih kayak mimpi ya."
 
 Aku menarik buku catatan bersampul cokelatku yang tergeletak di samping nampan, lalu membuka halaman belakang tempat deretan catatan tabunganku selama empat tahun tertulis rapi sebelum akhirnya ditutup dengan satu baris pengeluaran besar: Modal Rumah Belajar Langkah Kecil.
 
-Aku menatap buku cokelat itu sambil tersenyum lembut, lalu menoleh menatap Bima.
+Dulu waktu batal tunangan karena dibilang terlalu kaku seperti panitia studi tur, ditambah saat awal mengenal Bima yang begitu santai, aku sempat membenci sifatku sendiri yang serba terjadwal. Aku sempat mengira sifatku yang saklek pada catatan dan pengingat tanggal dua puluh lima itu cuma bikin orang lain lelah.
 
-"Jujur ya, Mas, waktu enam bulan lalu aku batal tunangan gara-gara dibilang hidupku terlalu teratur kayak panitia studi tur, terus waktu awal kenal Mas Bima yang santai banget, aku sempat benci sama sifat diriku sendiri," akuiku dengan suara tenang dari lubuk hatiku. "Aku sempat mikir jangan-jangan sifatku yang terlalu saklek sama jadwal dan apa-apa harus dicatat ini memang buruk dan cuma bikin orang lain capek."
+Namun menatap buku cokelat itu sore ini membuatku tersenyum lembut ke arah Bima.
+
+"Jujur ya, Mas, dulu aku sempat benci sama sifatku sendiri yang apa-apa harus dicatat dan dijadwal," akuiku dengan suara tenang dari lubuk hatiku. "Aku sempat mikir jangan-jangan sifatku yang terlalu teratur ini memang buruk."
 
 Bima mendengarkan ucapanku dengan saksama sambil memegang gelasnya.
 
-"Tapi hari ini, waktu aku melihat ruang kelas ini berdiri dari hasil keringatku sendiri, aku sadar satu hal, Mas," lanjutku sambil menepuk pelan sampul buku catatan cokelatku. "Ternyata sifatku yang terlalu teratur dan disiplin itu ada hasilnya juga. Kalau selama empat tahun kemarin aku nggak cerewet memasang pengingat tiap tanggal dua puluh lima dan nggak disiplin menabung sedikit demi sedikit, nggak mungkin hari ini aku punya tabungan yang cukup buat berani ambil risiko melepas promosi Surabaya dan membuka tempat kursus impianku sendiri di sini. Jadi ternyata, menjadi orang yang teratur itu nggak selamanya buruk."
+"Tapi hari ini, waktu melihat ruang kelas ini berdiri dari hasil tabunganku sendiri, aku sadar satu hal, Mas," lanjutku sambil menepuk pelan sampul buku catatan cokelatku. "Kalau dulu aku nggak cerewet memasang pengingat tanggal dua puluh lima, nggak mungkin hari ini tabunganku cukup buat modal."
 
-"Memang nggak pernah buruk, Hana," sahut Bima lembut sambil meletakkan gelasnya dan menggenggam tanganku yang memegang buku cokelat itu. "Dari awal saya nggak pernah pengin mengubah kamu jadi orang yang berantakan kayak saya. Kedisiplinan kamu itu justru kekuatan kamu yang paling hebat. Kamu cuma butuh sedikit ruang buat bernapas dan menikmati hari ini, selebihnya kamu sudah sempurna dengan caramu sendiri."
+Aku menatap deretan kursi kayu kecil di dalam paviliun kami dengan rasa syukur. "Ternyata, menjadi orang yang teratur itu nggak selamanya buruk," gumamku sambil mengelus sampul bukuku.
+
+"Memang nggak pernah buruk, Hana," sahut Bima lembut sambil meletakkan gelasnya dan menggenggam tanganku yang memegang buku cokelat itu. "Dari awal saya nggak pernah pengin mengubah kamu jadi orang yang berantakan kayak saya."
+
+Jemarinya mengusap punggung tanganku dengan hangat. "Kedisiplinan kamu itu justru kekuatan kamu yang paling hebat. Kamu cuma butuh sedikit ruang buat bernapas dan menikmati hari ini," katanya tulus di bawah teduhnya teras sore itu.
 
 Aku tersenyum menatap genggaman tangan Bima di atas buku cokelatku, sudah tidak sabar menantikan hari Sabtu depan saat ruang kelas baru kami akhirnya dipenuhi suara murid-murid pertama.

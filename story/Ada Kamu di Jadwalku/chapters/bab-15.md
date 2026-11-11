@@ -14,25 +14,39 @@ Sebelum aku sempat mengetuk pintu pagar kayu yang setengah terbuka, pintu depan 
 
 Seorang pria berusia pertengahan tiga puluhan keluar ke teras sambil menjinjing sebuah tas pakaian berisi termos air panas dan lipatan selimut. Wajahnya ramah, tapi gurat kelelahan di sekitar matanya mirip orang yang sudah berminggu-minggu tidur di kursi tunggu rumah sakit.
 
-"Selamat malam, Pak. Saya Hana, guru bahasa Inggrisnya Nino di BrightStep English," kataku sopan sambil melangkah mendekat dan mengeluarkan buku gambar serta dompet plastik biru dari tasku. "Tadi waktu Mas Bima dan Nino buru-buru pulang dari tempat kursus, buku gambar dan dompet obat ini tidak sengaja terjatuh di kelas. Karena di bungkus obatnya tertulis harus diminum malam ini jam setengah delapan, saya langsung antar ke sini."
+"Selamat malam, Pak. Saya Hana, guru bahasa Inggrisnya Nino di BrightStep English," kataku sopan sambil mengeluarkan buku gambar serta dompet plastik biru dari tasku. "Tadi buku gambar sama dompet obat ini nggak sengaja terjatuh di kelas waktu Mas Bima buru-buru pulang."
 
-"Ya Allah, Mbak Hana... terima kasih banyak, Mbak!" seru pria itu lega begitu menerima dompet plastik biru dari tanganku. "Dari tadi Bima panik banget nyariin dompet obat Ibu di dalam tas kameranya sampai mau balik lagi ke Blok M habis nyuapin Ibu."
+Aku menyerahkan keduanya ke tangan pria itu. "Karena di bungkusnya tertulis harus diminum jam setengah delapan malam ini, saya langsung antar ke sini."
+
+"Ya Allah, Mbak Hana... terima kasih banyak, Mbak!" seru pria itu lega begitu menerima dompet plastik biru dari tanganku. "Dari tadi Bima panik banget nyariin dompet obat Ibu, sampai mau balik lagi ke Blok M habis ini."
 
 "Sama-sama, Pak. Bapak ini... Mas Hendra ya?" tanyaku sambil teringat nama kontak di layar ponsel Bima waktu di Pasar Mayestik minggu lalu.
 
-"Iya, Mbak. Saya Hendra, abang iparnya Bima, ayahnya Nino. Kebetulan saya mampir pulang sebentar ambil baju ganti sebelum balik jaga lagi ke rumah sakit malam ini," jawabnya sambil mengangguk sopan.
+"Iya, Mbak. Saya Hendra, abang iparnya Bima, ayahnya Nino," jawabnya sambil mengangguk sopan. "Saya cuma mampir sebentar ambil baju ganti sebelum balik jaga ke rumah sakit malam ini."
 
-"Ke rumah sakit?" tanyaku pelan sambil mengerutkan kening.
+"Ke rumah sakit?" tanyaku pelan sambil mengerutkan kening karena belum paham maksud ucapannya.
 
 Mas Hendra menoleh sekilas ke arah jendela tempat Bima sedang mengelap sudut bibir ibunya dengan penuh kasih sayang, lalu kembali menatapku dengan mata yang mulai berkaca-kaca.
 
-"Bima pasti nggak pernah cerita apa-apa ya di tempat les, Mbak?" kata Mas Hendra lirih. "Anak itu memang pantang banget ngeluh di depan orang. Beberapa tahun lalu, almarhum ayahnya Bima meninggal karena kecelakaan di jalan waktu pulang memotret acara bersama ibunya. Ibu selamat dari kecelakaan itu, tapi sejak saat itu kondisi jantung dan sarafnya menurun drastis dan sering sakit-sakitan sampai sekarang."
+"Bima pasti nggak pernah cerita apa-apa ya di tempat les, Mbak?" kata Mas Hendra lirih. "Anak itu memang pantang banget ngeluh di depan orang," tambahnya sambil bersandar lelah ke tiang teras.
+
+Dari cerita Mas Hendra di teras sempit malam itu, aku akhirnya tahu bahwa almarhum ayah Bima meninggal karena kecelakaan di jalan saat pulang memotret bersama ibunya. Ibu Bima memang selamat dari kecelakaan tersebut, tetapi sejak saat itu kondisi jantung dan sarafnya menurun drastis hingga sering sakit-sakitan sampai sekarang.
 
 Aku menggenggam gagang payungku erat-erat tanpa sanggup bersuara.
 
-"Lalu dua bulan lalu, cobaan kami datang lagi," lanjut Mas Hendra dengan suara bergetar menahan tangis. "Istri saya, Ratih, kakak kandung satu-satunya Bima sekaligus ibunya Nino, jatuh sakit keras dan harus dirawat intensif di rumah sakit. Saya sendiri terpaksa sering ambil izin kerja tanpa gaji dari kantor demi nungguin istri saya di ruang rawat, jadi saya benar-benar nggak sanggup kalau harus megang Nino sekaligus membiayai semuanya sendirian."
+"Lalu baru-baru ini, cobaan kami datang lagi," lanjut Mas Hendra dengan suara bergetar menahan tangis. "Istri saya, Ratih, kakaknya Bima sekaligus ibunya Nino, jatuh sakit keras dan harus dirawat di rumah sakit."
 
-Mas Hendra menyeka sudut matanya dengan punggung tangan. "Bima yang pasang badan buat keluarga kami, Mbak. Demi bantu biaya rumah sakit kakaknya, nebus obat Ibu, dan bayar lesnya Nino supaya keponakannya nggak sedih terus di rumah, Bima rela melepas sewa studio fotonya dan menjual satu per satu koleksi lensa kesayangannya sampai habis. Tiap hari dia ambil kerjaan foto sama video warung dari pagi, sorenya antar-jemput Nino, malamnya begadang ngedit video pesanan orang sambil jaga Ibu sampai jam tiga subuh. Tadi sore pun dia telat dan harus bawa Nino pulang cepat gara-gara Ibu mendadak sesak napas di rumah dan harus dibawa Bima ke klinik sendirian karena saya lagi di rumah sakit."
+Mas Hendra menarik napas berat sebelum melanjutkan. "Saya terpaksa sering izin kerja tanpa gaji buat nungguin Ratih, jadi nggak sanggup kalau harus megang semuanya sendirian."
+
+Pria itu menyeka sudut matanya dengan punggung tangan. "Bima yang pasang badan buat kami, Mbak. Dia rela melepas sewa studionya dan menjual semua koleksi lensa kesayangannya."
+
+"Demi bantu biaya rumah sakit kakaknya ya, Pak?" bisikku tercekat sambil memeluk buku catatan cokelatku lebih erat.
+
+"Iya, Mbak. Buat biaya kakaknya, nebus obat Ibu, sampai bayar lesnya Nino biar keponakannya nggak sedih terus di rumah," jawab Mas Hendra lirih. "Tiap pagi dia keliling ambil kerjaan video warung, sore antar Nino, malamnya begadang ngedit sambil jaga Ibu sampai subuh."
+
+Pandanganku mengabur menatap cahaya lampu dari jendela kontrakan di belakangnya.
+
+"Tadi sore pun dia telat dan buru-buru pulang gara-gara Ibu mendadak sesak napas," tambah Mas Hendra pelan, sementara dari dalam rumah terdengar suara Bima sedang membujuk Nino menghabiskan susunya. "Bima harus bawa Ibu ke klinik sendirian soalnya saya lagi jaga di rumah sakit."
 
 Lututku langsung lemas mendengar setiap patah kata itu.
 

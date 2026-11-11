@@ -14,7 +14,7 @@ Nino menunduk sambil memainkan ujung penghapus karetnya. "Belum, Miss. Tadi mala
 
 Aku melirik kembali ke arah jendela kaca.
 
-Di sofa luar sana, kepala Bima miring ke sandaran sofa, mulutnya sedikit terbuka karena lelah, sementara kedua lengannya tetap memeluk erat tas kamera kanvas besarnya di depan dada.
+Di sofa luar sana, kepala Bima miring ke sandaran sofa. Mulutnya sedikit terbuka karena lelah, sementara kedua lengannya tetap memeluk erat tas kamera kanvas besarnya di depan dada.
 
 Kebetulan Meli yang sudah sembuh dari flunya lewat di lorong luar sambil membawa setumpuk buku kerja. Saat masuk sebentar ke kelasku untuk mengambil penghapus papan tulis, Meli melirik ke arah sofa tunggu lalu berbisik pelan di dekat mejaku.
 
@@ -28,13 +28,15 @@ Namun ketika jam kelas berakhir pukul lima kurang lima belas menit dan aku kelua
 
 Bima langsung tersentak bangun, mengerjap-ngerjapkan matanya yang memerah sambil mengusap wajahnya dengan telapak tangan. "Eh, maaf, ketiduran saya. Sudah jam lima kurang ya?"
 
-"Iya, Mas," kataku sambil memperlihatkan lembar kertas latihan Nino yang masih kosong. "Mas Bima, saya mau mengingatkan sedikit. Lembar PR latihan Nino dari hari Rabu lalu ternyata belum dikerjakan di rumah, dan hafalan paragraf keduanya masih belum lancar. Padahal hari Senin nanti Bu Maya akan masuk langsung ke kelas untuk evaluasi tengah program."
+"Iya, Mas. Lembar PR latihan Nino ternyata masih kosong dan hafalan paragraf keduanya belum lancar," kataku sambil memperlihatkan kertas latihan Nino. "Padahal hari Senin nanti Bu Maya mau masuk langsung ke kelas buat evaluasi tengah program."
 
 Di kepalaku, Bima setidaknya akan menjelaskan kesibukan kerjanya atau meminta maaf dengan serius.
 
 Kenyataannya, pria itu justru meregangkan otot bahunya yang kaku sambil nyengir lebar seperti orang yang baru bangun dari tidur siang yang nyaman di kursi pantai.
 
-"Waduh, kecolongan saya, Miss Hana," jawab Bima dengan nada bercanda yang ringan. "Semalam saya keasyikan melek sampai subuh di depan layar, jadi lupa belum ngecek PR-nya Nino. Tenang aja, akhir pekan ini kami kebut di rumah, hari Senin dijamin hafal luar kepala."
+"Waduh, kecolongan saya, Miss Hana," jawab Bima dengan nada bercanda yang ringan. "Semalam saya keasyikan melek sampai subuh di depan layar, jadi lupa ngecek PR-nya Nino."
+
+Dia menepuk pundak keponakannya dengan santai. "Tenang aja, akhir pekan ini kami kebut di rumah. Hari Senin dijamin hafal luar kepala."
 
 Mendengar kalimat melek sampai subuh di depan layar dengan gaya cengengesan begitu, rasa kasihan yang tadinya sempat muncul di hatiku langsung menguap berubah menjadi kesal.
 

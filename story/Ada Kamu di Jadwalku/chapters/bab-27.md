@@ -12,24 +12,36 @@ Setelah menatap ibunya yang duduk di kursi roda barisan depan dan melirik Bima y
 
 Nino menarik napas dalam-dalam, menegakkan bahu kecilnya, lalu berbicara ke mikrofon dengan suara bahasa Inggris yang begitu lantang dan jernih ke seluruh penjuru aula.
 
-"Good morning, everyone. My name is Nino, and I am eight years old. Today, I will not read the old story on the paper. Today, I want to tell you about The Two People Who Taught Me to Speak: Uncle Bima and Miss Hana!" buka Nino tanpa gemetar sedikit pun.
+"Good morning, everyone. My name is Nino, and I am eight years old," buka Nino tanpa gemetar sedikit pun. "Today, I will not read the old story on the paper."
 
-Aku langsung terpaku di tepi panggung. Lembar naskah My Parents di tanganku perlahan turun ke sisi tubuhku. Di kursi penilai, Bu Maya langsung menegakkan duduknya dengan wajah terkejut, sementara aku menoleh cepat ke arah meja operator tempat Bima berdiri menatap keponakannya dengan senyum lembut.
+Dia mengangkat wajahnya menatap seluruh penonton. "I want to tell you about The Two People Who Taught Me to Speak: Uncle Bima and Miss Hana!"
 
-"Two months ago, my mother got very sick in the hospital, and I was very scared to speak English at school because my friends laughed at me," lanjut Nino dalam bahasa Inggris sederhana yang diucapkannya dengan sepenuh hati.
+Aku langsung terpaku di tepi panggung. Lembar naskah My Parents di tanganku perlahan turun ke sisi tubuhku. Di kursi penilai, Bu Maya langsung menegakkan duduknya dengan wajah terkejut. Aku menoleh cepat ke arah meja operator tempat Bima berdiri menatap keponakannya dengan senyum lembut.
+
+"When my mother got very sick in the hospital, I was very scared to speak at school," lanjut Nino dalam bahasa Inggris sederhana yang diucapkannya dengan sepenuh hati. "Because my friends laughed at me."
 
 Di kursi roda barisan depan, Mbak Ratih langsung menutup mulutnya dengan tangan sambil meneteskan air mata haru, sementara Mas Hendra merangkul bahu istrinya erat-erat.
 
-"Every day, my Uncle Bima works very hard taking pictures and videos until morning so I can go to school," kata Nino lantang sambil menunjuk ke arah Bima di pojok ruangan. "Even when Uncle Bima is very tired and sleepy on the sofa, he always makes funny jokes so my grandmother and I never feel sad."
+"Every day, my Uncle Bima works very hard taking pictures and videos until morning," kata Nino lantang sambil menunjuk ke arah Bima di pojok ruangan. "Even when Uncle Bima is sleepy on the sofa, he always makes funny jokes for my grandmother and me," tambahnya disambut senyum hangat para penonton.
 
 Seluruh orang tua murid di dalam aula terdiam menyimak setiap kalimat bocah delapan tahun itu dalam keheningan yang mengharukan. Nino kemudian memutar tubuhnya sedikit menghadap ke arahku yang berdiri mematung di tepi panggung.
 
-"And the second person is my teacher, Miss Hana," lanjut Nino sambil tersenyum tulus ke arahku. "On the first day, I did not want to speak at all. Miss Hana loves her brown schedule book very much, and she has many alarms on her phone. But for me, Miss Hana closed her guidebook. She sat on the green carpet with me to guess the green dinosaur, she ate chocolate ice cream with me in the rain, and she turned off her phone alarm so we could eat meatballs together."
+"And the second person is my teacher, Miss Hana," lanjut Nino sambil tersenyum tulus ke arahku. "On the first day, I did not want to speak at all."
+
+Nino melirik buku catatan bersampul cokelat yang masih terselip di mapku. "Miss Hana loves her brown schedule book and her phone alarms. But for me, she closed her guidebook," ucapnya jernih ke arah mikrofon.
+
+Tanganku yang memegang map bergetar pelan.
+
+"She sat on the green carpet with me to guess the green dinosaur," ucap Nino lancar dengan mata berbinar. "She ate chocolate ice cream with me in the rain, and she turned off her alarm to eat meatballs together."
 
 Setetes air mata hangat langsung lolos jatuh membasahi pipiku tanpa sempat kutahan.
 
 Di depan mikrofon, suara Nino mulai sedikit bergetar saat dia menatap lembaran kertas kusut di tangannya, lalu beralih menatapku dengan mata bulatnya yang berkaca-kaca.
 
-"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Dua hari yang lalu aku dengar Miss Hana mau pindah kerja jauh ke Surabaya. Aku nangis minta tolong sama Om Bima buat ganti seluruh ceritaku, dan aku hafalkan teks bahasa Inggris yang baru ini dua malam sampai suaraku serak... soalnya kalau nanti Miss Hana beneran pergi ke Surabaya, aku mau Miss Hana tahu kalau aku sudah berani bicara bahasa Inggris, dan aku mau Miss Hana selalu ingat aku sama Om Bima."
+"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Kemarin aku dengar Miss Hana mau pindah kerja jauh ke Surabaya," lanjutnya sambil menatapku lurus.
+
+Nino menyeka hidungnya yang mulai memerah dengan punggung tangan. "Aku nangis minta tolong Om Bima buat ganti ceritaku, terus aku hafalkan teks baru ini sampai suaraku serak..."
+
+Suara bocah delapan tahun itu bergetar menahan tangis di depan mikrofon. "Soalnya kalau Miss Hana pergi ke Surabaya, aku mau Miss Hana selalu ingat aku sama Om Bima."
 
 Air mataku pecah mengalir deras di pipi tepat saat tepuk tangan gemuruh dari empat puluh orang tua murid serta para guru langsung meledak memenuhi seluruh ruangan aula.

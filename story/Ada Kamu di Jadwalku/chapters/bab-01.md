@@ -8,21 +8,31 @@ Suara kunyahan keripik singkong di meja sebelahku mendadak berhenti. Aku langsun
 
 "Terima kasih banyak, Bu Maya," kataku mantap.
 
-"Jangan senang dulu. Sesuai aturan manajemen pusat, masih ada satu syarat evaluasi terakhir sebelum Surat Keputusan promosimu diterbitkan bulan depan," lanjut Bu Maya sambil menunjuk map di atas mejaku. "Mulai pukul empat sore ini, kamu ditugaskan memegang kelas privat untuk murid baru bernama Nino. Usianya delapan tahun, baru pindah sekolah bulan lalu, dan mogok bicara bahasa Inggris sama sekali di kelas. Waktu kamu cuma enam minggu setiap Senin, Rabu, dan Jumat sore untuk membimbing anak itu sampai berani tampil bicara tiga menit di panggung tahunan Storytelling Day."
+"Jangan senang dulu. Masih ada satu syarat evaluasi terakhir dari manajemen pusat," lanjut Bu Maya sambil menunjuk map di atas mejaku.
 
-Aku meraih map pendaftaran itu dan mendekapnya bersama buku catatan cokelatku. "Saya sudah menyusun modul minggu pertama sampai minggu keenam di buku saya, Bu. Kalau jadwal latihannya disiplin, enam minggu pasti cukup."
+Aku membuka lembaran formulir di dalam map plastik itu. Di sana tertulis data murid privat baru bernama Nino, siswa kelas dua SD berusia delapan tahun yang baru pindah sekolah bulan lalu. Di kolom catatan khusus, tertulis bahwa anak itu mogok bicara bahasa Inggris sama sekali di kelas.
+
+"Mulai jam empat sore ini, kamu yang pegang kelas privat Nino," kata Bu Maya tegas. "Waktumu cuma enam minggu tiap Senin, Rabu, dan Jumat sore."
+
+"Target akhirnya tetap panggung Storytelling Day bulan depan, Bu?" tanyaku memastikan.
+
+"Betul. Anak itu harus berani bicara bahasa Inggris tiga menit di atas panggung," jawab Bu Maya. "Kalau dia berhasil tampil lancar, Surat Keputusan promosimu ke Surabaya langsung turun."
+
+Aku mendekap map pendaftaran itu bersama buku catatan cokelatku. "Modul enam minggunya sudah saya susun rapi, Bu. Asal latihannya disiplin, pasti terkejar."
 
 "Saya pegang kata-katamu, Hana," kata Bu Maya sebelum berbalik keluar dari ruang guru.
 
 Begitu pintu ruangan tertutup, ponsel di sebelah kotak tempat pensilku bergetar tepat pukul tiga lewat empat puluh lima menit sore. Tanpa perlu melirik layarnya, aku sudah hafal bunyi pengingat itu: lima belas menit menuju kelas privat pukul empat.
 
-Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang kembali mengunyah keripik singkong dari laci mejanya langsung melongok ke arah ponselku sambil menggelengkan kepala.
+Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang kembali mengunyah keripik singkong dari laci mejanya langsung melongok ke arah ponselku sambil menggelengkan kepala. Matanya menyapu deretan lima belas alarm harian yang berjejer di layarku, mulai dari jam bangun pagi, jadwal seduh teh, sampai pengingat keramat tiap tanggal dua puluh lima untuk transfer tabungan.
 
-"Gue hitung-hitung, sehari semalam HP lo bunyi melulu kayak pos ronda, Han," komentar Meli, jarinya menunjuk deretan lima belas pengingat yang berjejer di layarku. "Bangun pagi, jadwal seduh teh, siapin modul kelas sore, sampai pengingat keramat tanggal dua puluh lima buat transfer tabungan. Lo sebenarnya guru bahasa Inggris atau panitia studi tur anak SMP sih?"
+"Sehari semalam HP lo bunyi melulu kayak pos ronda, Han," komentar Meli geli. "Lo sebenarnya guru bahasa Inggris atau panitia studi tur anak SMP sih?"
 
-"Kalau nggak ditulis dan dipasang pengingat, urusan harian gampang keteteran, Mel," jawabku sambil mengecek daftar materi hari pertama. "Aku cuma nggak suka hal dadakan."
+"Kalau nggak dipasang pengingat gini, urusan harian gampang keteteran, Mel," jawabku sambil mengecek daftar materi hari pertama. "Aku cuma nggak suka hal dadakan."
 
-"Iya, saking anti dadakannya, enam bulan lalu si Fajar sampai nyerah gara-gara mau ngajak mampir beli sate ayam pinggir jalan aja harus masuk daftar rencana lo sehari sebelumnya," celetuk Meli tanpa dosa. Begitu sadar kalimatnya kelewat batas, dia buru-buru menutup mulutnya dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
+"Pantesan dulu si Fajar angkat tangan," celetuk Meli tanpa dosa. "Orang mau ngajak beli sate pinggir jalan aja kudu daftar sehari sebelumnya."
+
+Begitu sadar kalimatnya kelewat batas, Meli buru-buru menutup mulutnya dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
 
 "Santai aja," sahutku pendek.
 

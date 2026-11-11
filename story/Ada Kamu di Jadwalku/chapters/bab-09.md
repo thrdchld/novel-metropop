@@ -12,11 +12,15 @@ Namun Bima justru tersenyum tenang dan mengangkat kamera itu. "Nggak apa-apa, Mi
 
 Bima mengalungkan tali kulit kamera yang sudah agak pudar itu ke leher Nino terlebih dahulu supaya aman, baru mengarahkan kedua tangan kecil keponakannya untuk memegang bodi kamera. Aku duduk di sebelah mereka, memperhatikan dari dekat bagaimana telatennya Bima mengajari bocah delapan tahun itu.
 
-"Nah, tangan kanan Nino pegang pinggirnya yang kencang begini," kata Bima sabar sambil menunjuk sebuah tombol kecil berbentuk bundar dengan titik merah di bagian atas kamera. "Kalau hari-hari sebelumnya kan Nino cuma pencet tombol foto. Sekarang coba lihat tombol bundar yang ada titik merahnya ini. Kalau tombol merah ini ditekan sekali sampai bunyi tit, terus lampu kecil di layar berkedip merah, artinya kameranya lagi ngerekam video dan suara Nino ikut masuk ke dalam."
+"Nah, tangan kanan Nino pegang pinggirnya yang kencang begini," kata Bima sabar. Jari telunjuknya menunjuk sebuah tombol kecil berbentuk bundar dengan titik merah di bagian atas kamera. "Biasanya kan Nino cuma pencet tombol foto. Sekarang coba lihat tombol bundar yang ada titik merahnya ini."
+
+Nino menunduk memperhatikan tombol kecil itu.
+
+"Kalau tombol merah ini ditekan sekali sampai bunyi tit, lampu kecil di layar bakal berkedip merah," jelas Bima lagi. "Artinya kameranya lagi ngerekam video dan suara Nino ikut masuk ke dalam."
 
 "Jadi kalau aku ngomong bahasa Inggris, suaraku masuk ke situ, Om?" tanya Nino dengan mata bulat berbinar takjub.
 
-"Masuk semua. Makanya kalau lagi ngerekam video, kameranya jangan digoyang-goyang banget biar orang yang nonton nggak mabuk laut," canda Bima.
+"Masuk semua. Makanya kameranya jangan digoyang-goyang banget biar yang nonton nggak mabuk laut," canda Bima.
 
 Nino langsung menekan tombol bundar bertitik merah itu sampai berbunyi tit pelan.
 
@@ -30,7 +34,9 @@ Aku tidak bisa menahan tawa kecilku melihat gaya Nino yang sudah persis pembawa 
 
 Bima menoleh ke arahku dan tersenyum tipis mendengar perubahan sapaanku, namun dia tidak meledeknya. Pandangannya kembali mengarah pada kamera hitam di tangan Nino.
 
-"Kamera itu peninggalan almarhum ayah saya, Hana," kata Bima dengan nada tenang. "Dari zaman saya masih seumur Nino, kamera itu sudah biasa dipegang bareng-bareng di rumah. Ayah saya dulu selalu bilang, kamera itu bukan barang pajangan lemari kaca yang harus ditakuti lecet, tapi alat buat nyimpan cerita orang-orang yang kita sayang."
+"Kamera itu peninggalan almarhum ayah saya, Hana," kata Bima dengan nada tenang. "Dari zaman saya seumur Nino, kamera itu memang sudah biasa dipakai bareng-bareng di rumah."
+
+Dia tersenyum tipis mengingat masa kecilnya. "Kata Ayah dulu, kamera itu bukan pajangan lemari kaca, tapi alat buat nyimpan cerita orang-orang yang kita sayang."
 
 Aku terdiam menatap sisi wajah Bima. Ini pertama kalinya aku mendengar Bima menyebut soal almarhum ayahnya. Pantas saja hari Senin lalu saat kutanya soal studio foto dan koleksi lensa, dia bilang hanya kamera tua satu itu yang selalu menemaninya.
 

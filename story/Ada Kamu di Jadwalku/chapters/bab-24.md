@@ -10,7 +10,9 @@ Aku menggeser tombol terima dengan malas dan menyalakan pengeras suara ponsel sa
 
 "Belum mulai, Jar, baru pulang ngajar kelas sore tadi," jawabku singkat.
 
-"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat hari Sabtu tanggal dua puluh delapan jam sembilan pagi, nanti jam sebelas sudah bisa serah terima kunci apartemen dekat kantor cabang baru kamu. Terus tiap dua minggu sekali di akhir pekan genap, aku sudah buat jadwal buat terbang nengok kamu ke Surabaya. Rapi banget kan hitungannya?"
+"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat Sabtu tanggal dua puluh delapan pagi, jam sebelas sudah bisa terima kunci apartemen dekat cabang baru."
+
+Tanpa menunggu tanggapanku, dia terus mengoceh di telepon tentang rencana jadwal terbang setiap dua minggu sekali di akhir pekan genap untuk menengokku di Surabaya. "Pokoknya semua jadwal kunjungan kita sudah aku susun. Rapi banget kan hitungannya?"
 
 Aku menatap langit-langit kamarku dengan pandangan hampa. Di kepalaku dulu, rencana yang serba terukur seperti ucapan Fajar barusan adalah puncak rasa aman yang paling kuimpikan. Kenyataannya, mendengarkan semua jadwal rapi itu sekarang malah membuatku ingin menutup telinga.
 
@@ -32,7 +34,7 @@ Keningku berkerut membaca pesan yang begitu formal dan panjang itu. Aku lalu men
 
 Dari pengeras suara ponselku, keluar suara Nino yang memang agak bindeng seperti anak yang habis menangis lama.
 
-"Selamat malam, Miss Hana... besok kita tetap ketemu di kelas ya, tapi aku izin simpan suara dulu kata Om Bima. Selamat tidur, Miss..."
+"Selamat malam, Miss Hana... besok kita tetap ketemu di kelas ya, tapi aku izin simpan suara dulu. Selamat tidur, Miss..."
 
 Namun tepat satu detik sebelum rekaman pesan suara itu terputus, telingaku menangkap bunyi lembaran kertas yang dibolak-balik dengan cepat di latar belakang, disusul bisikan pelan Bima yang ikut terekam gara-gara lupa menjauhkan mikrofon ponselnya: "Ayo, No, ulangi lagi hafalan kalimat nomor tiga yang baru tadi..."
 

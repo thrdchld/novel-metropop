@@ -8,7 +8,11 @@ Aku menoleh ke samping rak. Di sana, pada hari Sabtu sore di akhir minggu keempa
 
 "Fajar?" kataku kaget soalnya sudah enam bulan penuh kami tidak pernah bertegur sapa. "Kamu lagi cari buku juga?"
 
-"Iya, tadi habis ketemu klien di sebelah, terus mampir cari buku keuangan," jawab Fajar sambil menatapku dari ujung kepala sampai ujung kaki dengan senyum lega. "Kebetulan banget kita ketemu di sini, Han. Kalau kamu nggak buru-buru, bisa kita ngobrol sebentar di kafe samping toko buku ini? Ada hal penting yang pengin aku omongin sama kamu."
+"Iya, tadi habis ketemu klien di sebelah, terus mampir cari buku keuangan," jawab Fajar sambil menatapku dari ujung kepala sampai ujung kaki dengan senyum lega. "Kebetulan banget ketemu di sini, Han. Kalau nggak buru-buru, bisa kita ngobrol sebentar di kafe sebelah?"
+
+"Ada urusan apa memangnya?" tanyaku sambil menahan jarak.
+
+"Ada hal penting yang pengin aku omongin sama kamu," jawabnya sungguh-sungguh.
 
 Aku sempat ragu sejenak. Namun karena aku merasa urusan masa lalu kami memang belum pernah ditutup dengan obrolan kepala dingin, akhirnya aku membayar buku cerita hadiah untuk Nino di kasir dan mengikuti Fajar duduk di meja sudut kafe sebelah.
 
@@ -18,17 +22,27 @@ Seorang pelayan mengantarkan dua cangkir kopi hangat ke meja kami. Fajar mengadu
 
 "Alhamdulillah Ibu sehat," jawabku singkat. "Ada apa, Jar? Katamu tadi ada hal penting yang mau dibicarakan."
 
-"Aku mau minta maaf soal keputusanku enam bulan lalu, Hana," kata Fajar sambil meletakkan kedua tangannya di atas meja.
+"Aku mau minta maaf soal keputusanku waktu kita batal lamaran dulu, Hana," kata Fajar sambil meletakkan kedua tangannya di atas meja.
 
-Aku menatapnya tanpa ekspresi.
+Aku menatapnya tanpa ekspresi. Waktu membatalkan lamaran kami setengah tahun lalu, dia sendiri yang mengeluh lelah hidup bersama perempuan yang apa-apa memakai pengingat ponsel dan buku jadwal seperti panitia tur.
 
-"Bukannya waktu itu kamu sendiri yang bilang sudah nggak tahan hidup sama perempuan yang apa-apa pakai pengingat ponsel dan catatan jadwal kayak panitia tur?" tanyaku datar.
+"Bukannya waktu itu kamu sendiri yang bilang nggak tahan hidup sama perempuan yang serba pakai jadwal?" tanyaku datar.
 
-"Waktu itu aku bodoh dan egois, Han," sahut Fajar dengan raut menyesal. "Aku pikir hidup yang spontan tanpa aturan itu lebih menyenangkan. Selama enam bulan kita pisah, aku sempat dekat sama seseorang yang sifatnya kebalikan banget dari kamu. Tapi ternyata aku salah besar."
+"Waktu itu aku bodoh dan egois, Han," sahut Fajar dengan raut menyesal. "Aku pikir hidup spontan tanpa aturan itu menyenangkan. Kemarin aku sempat dekat sama orang yang sifatnya kebalikan dari kamu."
 
-Fajar mencondongkan duduknya sedikit ke arahku. "Hidup sama orang yang nggak punya keteraturan itu bikin pusing setengah mati, Han. Jam makan nggak jelas, uang habis nggak ketahuan rimbanya, janji ketemu selalu ngaret berjam-jam. Di situ aku baru sadar betapa beruntungnya aku dulu punya kamu. Bersama kamu, semuanya terukur, rapi, tabungan tanggal dua puluh lima kamu selalu jalan, dan masa depan kita jelas arahnya."
+Dia menunduk sebentar dan menggelengkan kepala. "Tapi ternyata aku salah besar, Han. Hidup sama orang yang nggak teratur itu bikin pusing setengah mati."
 
-Fajar meraih buku catatan bersampul cokelatku yang tergeletak di pinggir meja. "Aku kangen keteraturan kamu, Hana. Aku kangen rencana lima tahunan yang dulu kita susun bareng. Ayo kita perbaiki semuanya dari awal. Bulan depan kita bisa lanjutkan lagi rencana pertunangan kita yang sempat tertunda."
+Aku hanya diam menatap cangkir kopiku.
+
+"Jam makan nggak jelas, uang habis nggak karuan, janji ketemu selalu ngaret berjam-jam," keluh Fajar lagi. "Di situ aku baru sadar betapa beruntungnya aku dulu punya kamu."
+
+Dia mencondongkan duduknya ke arahku. "Bersama kamu, semuanya terukur, tabungan tanggal dua puluh lima kamu jalan terus, dan masa depan kita jelas."
+
+Fajar meraih buku catatan bersampul cokelatku yang tergeletak di pinggir meja. "Aku kangen keteraturan kamu, Hana. Aku kangen rencana lima tahunan yang dulu kita susun bareng."
+
+"Maksud kamu apa, Jar?" tanyaku dingin.
+
+"Ayo kita perbaiki semuanya dari awal, Han. Bulan depan kita lanjutkan lagi rencana pertunangan kita yang sempat tertunda," ajaknya penuh harap.
 
 Aku menatap cangkir kopi di depanku yang uapnya mulai menipis.
 
@@ -36,6 +50,6 @@ Di kepalaku enam bulan yang lalu, ketika aku menangis sendirian di kamar kos sam
 
 Mendengar Fajar memuji sifat teraturku dan tabungan tanggal dua puluh limaku, aku sadar dia tidak sedang merindukan diriku sebagai manusia, melainkan hanya merindukan kenyamanan punya pendamping hidup yang bisa merapikan urusannya seperti mesin pengatur jadwal. Anehnya, yang melintas di kepalaku justru bayangan wajah lelah namun hangat milik Bima waktu menyodorkan es krim potong di tengah hujan dan mengajak makan bakso tanpa peduli jam pengingat.
 
-"Maaf, Jar," kataku tenang sambil menarik kembali buku catatan cokelatku dari dekat tangannya dan memasukkannya ke dalam tas. "Enam bulan itu bukan waktu yang sebentar. Sekarang fokusku cuma menyelesaikan tugas evaluasiku minggu depan dan mengurus kepindahanku ke Surabaya."
+"Maaf, Jar," kataku tenang sambil menarik kembali buku catatan cokelatku dari dekat tangannya dan memasukkannya ke dalam tas. "Kita sudah selesai dari dulu. Sekarang fokusku cuma menyelesaikan evaluasiku dan mengurus kepindahanku ke Surabaya."
 
 Aku berdiri dari kursi kafe sebelum kopi di cangkirku habis setengahnya dan melangkah keluar meninggalkan Fajar yang masih terpaku di mejanya.

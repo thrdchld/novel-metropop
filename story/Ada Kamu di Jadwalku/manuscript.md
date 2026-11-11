@@ -10,21 +10,31 @@ Suara kunyahan keripik singkong di meja sebelahku mendadak berhenti. Aku langsun
 
 "Terima kasih banyak, Bu Maya," kataku mantap.
 
-"Jangan senang dulu. Sesuai aturan manajemen pusat, masih ada satu syarat evaluasi terakhir sebelum Surat Keputusan promosimu diterbitkan bulan depan," lanjut Bu Maya sambil menunjuk map di atas mejaku. "Mulai pukul empat sore ini, kamu ditugaskan memegang kelas privat untuk murid baru bernama Nino. Usianya delapan tahun, baru pindah sekolah bulan lalu, dan mogok bicara bahasa Inggris sama sekali di kelas. Waktu kamu cuma enam minggu setiap Senin, Rabu, dan Jumat sore untuk membimbing anak itu sampai berani tampil bicara tiga menit di panggung tahunan Storytelling Day."
+"Jangan senang dulu. Masih ada satu syarat evaluasi terakhir dari manajemen pusat," lanjut Bu Maya sambil menunjuk map di atas mejaku.
 
-Aku meraih map pendaftaran itu dan mendekapnya bersama buku catatan cokelatku. "Saya sudah menyusun modul minggu pertama sampai minggu keenam di buku saya, Bu. Kalau jadwal latihannya disiplin, enam minggu pasti cukup."
+Aku membuka lembaran formulir di dalam map plastik itu. Di sana tertulis data murid privat baru bernama Nino, siswa kelas dua SD berusia delapan tahun yang baru pindah sekolah bulan lalu. Di kolom catatan khusus, tertulis bahwa anak itu mogok bicara bahasa Inggris sama sekali di kelas.
+
+"Mulai jam empat sore ini, kamu yang pegang kelas privat Nino," kata Bu Maya tegas. "Waktumu cuma enam minggu tiap Senin, Rabu, dan Jumat sore."
+
+"Target akhirnya tetap panggung Storytelling Day bulan depan, Bu?" tanyaku memastikan.
+
+"Betul. Anak itu harus berani bicara bahasa Inggris tiga menit di atas panggung," jawab Bu Maya. "Kalau dia berhasil tampil lancar, Surat Keputusan promosimu ke Surabaya langsung turun."
+
+Aku mendekap map pendaftaran itu bersama buku catatan cokelatku. "Modul enam minggunya sudah saya susun rapi, Bu. Asal latihannya disiplin, pasti terkejar."
 
 "Saya pegang kata-katamu, Hana," kata Bu Maya sebelum berbalik keluar dari ruang guru.
 
 Begitu pintu ruangan tertutup, ponsel di sebelah kotak tempat pensilku bergetar tepat pukul tiga lewat empat puluh lima menit sore. Tanpa perlu melirik layarnya, aku sudah hafal bunyi pengingat itu: lima belas menit menuju kelas privat pukul empat.
 
-Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang kembali mengunyah keripik singkong dari laci mejanya langsung melongok ke arah ponselku sambil menggelengkan kepala.
+Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang kembali mengunyah keripik singkong dari laci mejanya langsung melongok ke arah ponselku sambil menggelengkan kepala. Matanya menyapu deretan lima belas alarm harian yang berjejer di layarku, mulai dari jam bangun pagi, jadwal seduh teh, sampai pengingat keramat tiap tanggal dua puluh lima untuk transfer tabungan.
 
-"Gue hitung-hitung, sehari semalam HP lo bunyi melulu kayak pos ronda, Han," komentar Meli, jarinya menunjuk deretan lima belas pengingat yang berjejer di layarku. "Bangun pagi, jadwal seduh teh, siapin modul kelas sore, sampai pengingat keramat tanggal dua puluh lima buat transfer tabungan. Lo sebenarnya guru bahasa Inggris atau panitia studi tur anak SMP sih?"
+"Sehari semalam HP lo bunyi melulu kayak pos ronda, Han," komentar Meli geli. "Lo sebenarnya guru bahasa Inggris atau panitia studi tur anak SMP sih?"
 
-"Kalau nggak ditulis dan dipasang pengingat, urusan harian gampang keteteran, Mel," jawabku sambil mengecek daftar materi hari pertama. "Aku cuma nggak suka hal dadakan."
+"Kalau nggak dipasang pengingat gini, urusan harian gampang keteteran, Mel," jawabku sambil mengecek daftar materi hari pertama. "Aku cuma nggak suka hal dadakan."
 
-"Iya, saking anti dadakannya, enam bulan lalu si Fajar sampai nyerah gara-gara mau ngajak mampir beli sate ayam pinggir jalan aja harus masuk daftar rencana lo sehari sebelumnya," celetuk Meli tanpa dosa. Begitu sadar kalimatnya kelewat batas, dia buru-buru menutup mulutnya dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
+"Pantesan dulu si Fajar angkat tangan," celetuk Meli tanpa dosa. "Orang mau ngajak beli sate pinggir jalan aja kudu daftar sehari sebelumnya."
+
+Begitu sadar kalimatnya kelewat batas, Meli buru-buru menutup mulutnya dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
 
 "Santai aja," sahutku pendek.
 
@@ -68,11 +78,13 @@ Bocah delapan tahun itu langsung menunduk dalam-dalam, merapatkan bibirnya, dan 
 
 "Ayo, No, disapa dulu Miss Hana-nya," bujuk Bima sambil menepuk pundak keponakannya pelan. Bukannya menyapa, Nino malah bergeser bersembunyi di balik paha pamannya.
 
-Aku merapikan letak buku modul di mejaku, berusaha menjaga senyum profesional tetap menempel di wajah. "Tidak apa-apa, Mas Bima. Karena waktu belajar kita sudah terpotong dua belas menit dan durasi kelas tetap berakhir pukul lima kurang lima belas menit, sebaiknya kita langsung mulai sekarang. Mas Bima bisa menunggu di sofa lobi depan."
+Aku merapikan letak buku modul di mejaku, berusaha menjaga senyum profesional tetap menempel di wajah. Waktu belajar kami sudah terpotong dua belas menit, padahal durasi kelas tetap berakhir pukul lima kurang lima belas menit.
 
-"Siap, Miss Hana," kata Bima sambil mengusap tengkuknya. Sebelum keluar, dia sempat berjongkok di depan Nino dan merapikan rambut keponakannya yang mencuat, anehnya tanpa sadar sedikit pun kalau kancing baju anak itu masih miring. "Nino belajar dulu sama Miss Hana ya. Om tunggu di kursi luar."
+"Tidak apa-apa, Mas Bima. Sebaiknya kelasnya langsung kita mulai sekarang ya," kataku sambil menunjuk ke arah pintu. "Mas Bima bisa menunggu di sofa lobi depan."
 
-Nino hanya mengangguk kecil tanpa mengeluarkan suara, lalu berjalan pelan duduk di kursi seberang mejaku sambil tetap mendekap buku gambar dinosaurusnya.
+"Siap, Miss Hana," kata Bima sambil mengusap tengkuknya. Sebelum keluar, dia berjongkok di depan Nino dan merapikan rambut keponakannya yang mencuat. Lucunya, dia sama sekali tidak sadar kalau kancing baju anak itu masih miring. "Nino belajar dulu sama Miss Hana ya. Om tunggu di kursi luar."
+
+Nino hanya mengangguk kecil tanpa mengeluarkan suara. Dia berjalan pelan duduk di kursi seberang mejaku sambil tetap mendekap buku gambar dinosaurusnya.
 
 Begitu pintu kaca tertutup, aku membuka buku modul minggu pertama. Di kepalaku, menghadapi murid baru yang pemalu seharusnya bukan perkara sulit karena aku sudah mengajar puluhan anak SD selama empat tahun bekerja di sini.
 
@@ -90,9 +102,9 @@ Ketika bel kecil penanda pukul empat lewat empat puluh lima menit berbunyi, lemb
 
 Pintu kaca terbuka dan Bima melongok masuk dengan wajah cerah. "Gimana, Miss? Hari pertama aman terkendali?"
 
-"Nino belum mau mengucapkan satu kata pun, Mas Bima," jawabku sambil menutup spidol hitamku sampai berbunyi klik. "Untuk pertemuan hari Rabu lusa, saya harap Nino bisa hadir tepat pukul empat sore supaya waktu pemanasannya tidak terbuang seperti hari ini."
+"Nino belum mau mengucapkan satu kata pun, Mas Bima," jawabku sambil menutup spidol hitamku sampai berbunyi klik. "Hari Rabu lusa tolong datang tepat jam empat ya, Mas, biar waktunya nggak kepotong lagi."
 
-"Tenang, Miss Hana. Hari Rabu kami usahakan nggak telat lagi, namanya juga baru perkenalan jadi mesinnya masih dingin," sahut Bima enteng sambil meraih kotak bekal roti gosong milik keponakannya.
+"Tenang, Miss Hana. Hari Rabu dijamin tepat waktu, tadi kan mesinnya masih dingin," sahut Bima enteng, lalu meraih kotak bekal roti gosong milik keponakannya.
 
 Aku menatap punggung kemeja flanel kusut Bima yang melangkah keluar sambil menggandeng Nino, lalu melirik kolom target minggu pertama di buku cokelatku yang masih kosong dan mulai bertanya-tanya bagaimana nasib promosiku kalau wali muridnya saja sesantai itu.
 
@@ -106,7 +118,7 @@ Aku mendongak dari buku catatan cokelatku. Di luar kaca sana, Bima sedang nyengi
 
 "Selamat sore, Mas Bima, Nino. Hari ini tepat waktu," sapaku saat menggeser pintu kelas.
 
-"Kan sudah janji hari Senin lalu, Miss Hana," kata Bima sambil menepuk bahu keponakannya. "Kancing seragam juga sudah lulus sensor hari ini. Saya cek dua kali tadi sebelum naik angkot."
+"Kan sudah janji kemarin, Miss Hana," kata Bima sambil menepuk bahu keponakannya. "Kancing seragam juga sudah lulus sensor hari ini. Saya cek dua kali tadi sebelum naik angkot."
 
 Aku melirik seragam Nino. Memang kancingnya sudah lurus, meskipun kerah sebelah kirinya masih agak terlipat ke dalam. Nino sendiri masih memeluk buku gambar dinosaurusnya rapat-rapat di depan dada, hanya mengangguk kecil saat kusapa, lalu berjalan masuk menuju kursinya tanpa suara.
 
@@ -116,11 +128,11 @@ Aku kembali ke mejaku dengan semangat baru. Karena sore ini kami punya waktu pen
 
 Masalahnya, rencanaku hanya bertahan lima menit.
 
-"Hari Senin lalu kita sudah lihat gambar benda-benda di kelas," kataku sambil meletakkan lembar daftar dua puluh kosakata dasar di depan Nino. "Sekarang Miss Hana bacakan satu per satu, nanti Nino ulangi keras-keras ya. Nomor satu, table."
+"Kemarin kita sudah lihat gambar benda-benda di kelas," kataku sambil meletakkan lembar daftar dua puluh kosakata dasar di depan Nino. "Sekarang Miss Hana bacakan satu per satu, nanti Nino ulangi keras-keras ya. Nomor satu, table."
 
 Nino menatap barisan huruf cetak di kertas itu. Bibirnya bergerak sedikit, tapi tidak ada suara yang keluar.
 
-"Ayo, dicoba dulu. Table," bujukku sambil tersenyum. "Kalau kita nggak menyelesaikan daftar kata di halaman satu ini, minggu depan kita belum bisa lanjut ke halaman dua."
+"Ayo, dicoba dulu. Table," bujukku sambil tersenyum. "Kalau halaman satu ini belum beres, minggu depan kita belum bisa lanjut ke halaman dua."
 
 Mendengar kata halaman dua, bahu kecil Nino justru makin merosot. Dia menarik buku gambar dinosaurusnya dari kolong meja, meletakkannya di atas lembar kosakata tadi sampai tertutup seluruhnya, lalu menunduk menatap ujung sepatunya.
 
@@ -128,23 +140,27 @@ Hening.
 
 Selama sisa empat puluh menit berikutnya, suasana di dalam ruang kelas nomor dua rasanya seperti ruang sidang yang kehabisan saksi. Hanya suaraku sendiri yang terdengar membaca kata demi kata dari nomor satu sampai nomor dua puluh, sedangkan Nino tetap membisu seribu bahasa sampai bel tanda selesai berbunyi.
 
-Begitu keluar dari ruang kelas untuk mengantar Nino ke area tunggu depan, aku mendapati Bima sedang duduk berselonjor santai di sofa lobi sambil membolak-balik brosur kursus.
+Begitu keluar dari ruang kelas untuk mengantar Nino ke area tunggu depan, aku mendapati Bima sedang duduk berselonjor santai di sofa lobi sambil membolak-balik brosur kursus. Padahal menurut buku panduan, target minggu pertama mewajibkan murid menghafal dua puluh kosakata benda di kelas agar jadwal latihan Storytelling Day tidak mundur.
 
 "Gimana hari kedua, Miss? Sudah pecah telurnya?" tanya Bima sambil berdiri menyambut kami.
 
-Aku mendekap buku catatan cokelatku dan menggeleng pelan. "Nino masih belum mau bersuara sama sekali, Mas Bima. Padahal target minggu pertama menurut buku panduan adalah murid harus hafal dua puluh kosakata benda di sekitar kelas. Kalau sampai hari Jumat nanti halaman pertama ini belum selesai, jadwal latihan untuk Storytelling Day bakal mundur."
+Aku mendekap buku catatan cokelatku dan menggeleng pelan. "Nino masih belum mau bersuara sama sekali, Mas Bima. Kalau Jumat lusa halaman pertama belum beres, jadwal latihannya bakal mundur."
 
 "Wah, pantesan bocahnya mingkem, Miss," komentar Bima sambil melirik lembar daftar dua puluh kata di tanganku, lalu mengusap tengkuknya dengan senyum miring. "Kertasnya penuh tulisan berbaris kayak soal ujian SIM begitu."
 
 Alisku langsung terangkat. "Ini modul resmi standar cabang kami, Mas."
 
-"Iya, paham, Miss Hana," kata Bima dengan nada santai yang entah kenapa terdengar menyebalkan di telingaku. "Cuma maksud saya, anak delapan tahun kalau langsung disodori daftar kata suruh menghafal urut dari nomor satu sampai dua puluh ya pasti tegang. Coba sekali-sekali jangan pakai kertas modul itu, Miss. Ajak main tebak gambar kek, atau ngobrolin makanan kesukaannya. Nino ini kalau di rumah cerewet banget loh kalau sudah bahas dinosaurus sama es krim."
+"Iya, paham, Miss Hana. Cuma anak delapan tahun kalau disodori daftar hafalan urut gitu ya pasti tegang," kata Bima dengan nada santai yang entah kenapa terdengar menyebalkan di telingaku. "Coba sekali-sekali jangan pakai kertas modul itu, Miss. Ajak main tebak gambar atau ngobrolin makanan kesukaannya kek."
 
-Aku berdiri lebih tegak dan merapikan letak buku catatanku. Rasanya agak lucu mendengar ceramah soal metode mengajar dari wali murid yang hari Senin lalu masih membiarkan keponakannya membawa bekal roti panggang gosong.
+"Memangnya di rumah dia suka ngobrolin apa?" tanyaku agak sangsi.
 
-"Terima kasih sarannya, Mas Bima. Tapi kurikulum di BrightStep English sudah disusun berurutan oleh tim akademik pusat, jadi kalau dilompati sejak minggu pertama nanti target enam minggunya tidak terukur," jawabku dengan nada formal yang kujaga serapi mungkin.
+"Wah, cerewet banget kalau sudah bahas dinosaurus sama es krim," sahut Bima antusias.
 
-"Ya sudah, saya cuma kasih bocoran dikit soalnya yang tiap hari tidur sekamar sama bocah ini kan saya, bukan tim akademik pusat," balas Bima sambil mengangkat kedua bahunya ringan.
+Aku berdiri lebih tegak dan merapikan letak buku catatanku. Rasanya agak lucu mendengar ceramah soal metode mengajar dari wali murid yang pada pertemuan pertama masih membiarkan keponakannya membawa bekal roti panggang gosong.
+
+"Terima kasih sarannya, Mas Bima. Tapi kurikulum kami sudah berurutan, kalau dilompati nanti target enam minggunya nggak terukur," jawabku dengan nada formal yang kujaga serapi mungkin.
+
+"Ya sudah, saya cuma kasih bocoran dikit. Soalnya yang tiap hari sekamar sama bocah ini kan saya, Miss," balas Bima sambil mengangkat kedua bahunya ringan.
 
 Aku menahan diri supaya tidak memutar bola mata di depannya.
 
@@ -240,11 +256,15 @@ Dari dalam kantong itu, Bima mengeluarkan tiga bungkus es krim potong rasa cokel
 
 "Buat apa, Mas? Cuaca lagi dingin begini," kataku ragu menatap bungkus es krim di tangannya.
 
-"Justru paling enak makan es krim itu pas lagi hujan deras, nggak perlu rebutan sama matahari," jawab Bima enteng sambil tetap mengulurkan es krim itu sampai aku mau tidak mau menerimanya. Dia lalu duduk kembali di sebelah Nino dan membuka bungkus es krim bagiannya sendiri. "Lagian hujan sore ini kan nggak baca catatan jadwalnya Miss Hana. Daripada pusing melototin jam di HP terus padahal jalanan juga nggak bakal langsung kering, mending makan es krim dulu sebelum meleleh."
+"Justru paling enak makan es krim itu pas lagi hujan deras, nggak perlu rebutan sama matahari," jawab Bima enteng sambil tetap mengulurkan es krim itu sampai aku mau tidak mau menerimanya. Dia lalu duduk kembali di sebelah Nino dan membuka bungkus es krim bagiannya sendiri. "Lagian hujan sore ini kan nggak baca catatan jadwalnya Miss Hana."
 
-Aku menatap es krim potong di tanganku, lalu melirik layar ponselku yang baru saja memunculkan pemberitahuan bahwa pencarian pengemudi kembali gagal.
+Aku mendengus kecil mendengar sindirannya.
 
-Akhirnya aku memasukkan ponsel ke dalam tas selempangku dan ikut duduk di ujung bangku kayu teras. Saat kugigit ujung roti dan es krim cokelat yang dingin itu, manisnya cokelat perlahan membuat bahuku yang tegang sejak tadi sedikit mengendur.
+"Daripada pusing melototin jam di HP terus, mending makan es krim dulu sebelum meleleh," tambahnya santai.
+
+Aku menatap es krim potong di tanganku. Di layar ponselku, pemberitahuan baru saja muncul bahwa pencarian pengemudi kembali gagal.
+
+ Akhirnya aku memasukkan ponsel ke dalam tas selempangku dan ikut duduk di ujung bangku kayu teras. Saat kugigit ujung roti dan es krim cokelat yang dingin itu, manisnya cokelat perlahan membuat bahuku yang tegang sejak tadi sedikit mengendur.
 
 "Enak kan, Miss? Ini bahasa Inggrisnya brown ice cream!" seru Nino sambil memamerkan kumis tipis dari lelehan cokelat di atas bibirnya.
 
@@ -252,11 +272,11 @@ Aku tertawa kecil melihat wajah belepotan muridku itu, lalu mengambil selembar t
 
 "Iyalah, kan belajarnya pakai dinosaurus di karpet, bukan pakai kertas ujian SIM lagi," celetuk Bima sambil nyengir lebar ke arahku.
 
-Aku baru mau membalas ledekannya ketika Bima meletakkan sisa bungkus rotinya, lalu mengangkat kamera tuanya yang sejak tadi ada di pangkuan. Dengan satu tangan, dia menyalakan kamera itu dan mengarahkannya miring ke arah pinggiran atap teras di sebelahku, tempat air hujan mengalir deras dari ujung talang seng ke semak-semak halaman depan.
+Aku baru mau membalas ledekannya ketika Bima meletakkan sisa bungkus rotinya. Dia mengangkat kamera tuanya yang sejak tadi ada di pangkuan, lalu menyalakannya dengan satu tangan. Lensa kameranya diarahkan miring ke pinggiran atap teras di sebelahku, tempat air hujan mengalir deras dari ujung talang seng ke semak-semak halaman depan.
 
 "Lagi hujan begini masih sempat-sempatnya ngerekam talang air, Mas?" tanyaku heran melihat lampu kecil di kameranya menyala beberapa detik.
 
-"Buat koleksi suara hujan sama gambar air jatuh aja, Miss. Kadang gambar yang nggak direncanain malah bagus kalau dilihat lagi nanti," jawab Bima sambil menurunkan kameranya dan mengusap tengkuknya dengan tawa ringan.
+"Buat koleksi suara hujan aja, Miss. Kadang rekaman yang nggak direncanain gini malah bagus kalau dilihat lagi nanti," jawab Bima sambil menurunkan kameranya dan mengusap tengkuknya dengan tawa ringan.
 
 Aku hanya menggeleng pelan sambil menghabiskan potongan terakhir es krimku, masih menganggap hobi memotret talang air hujan milik wali muridku itu agak aneh, meski diam-diam aku mulai bertanya-tanya kejutan apa lagi yang bakal dibawa paman dan keponakan ini minggu depan.
 
@@ -282,19 +302,21 @@ Nama Ibu muncul di sana.
 
 "Hari Sabtu ini kebetulan kosong, Bu. Kelas privat murid baru aku adanya tiap Senin, Rabu, sama Jumat sore," jawabku sambil menutup buku catatan cokelatku. "Tadi aku baru aja beres transfer tabungan bulanan."
 
-"Nabung itu bagus, Nak, Ibu bangga kamu bisa mandiri banget di Jakarta," tutur Ibu lembut dari seberang telepon. "Tapi jangan semuanya kamu tahan buat ditabung sampai kamu lupa nyenengin diri sendiri. Makanmu tetap teratur kan? Nggak cuma makan roti tawar di kosan?"
+"Nabung itu bagus, Nak, Ibu bangga kamu mandiri di Jakarta," kata Ibu lembut dari seberang telepon. "Tapi jangan ditahan semua sampai lupa nyenengin diri sendiri. Makanmu teratur kan? Nggak cuma makan roti tawar?"
 
 "Teratur kok, Bu. Kemarin sore aja habis hujan aku makan es krim roti," kataku spontan, lalu mendadak berhenti sendiri gara-gara bayangan wajah santai Bima dan celotehan Nino di teras kemarin sore melintas begitu saja di kepalaku.
 
-"Syukurlah kalau gitu," sahut Ibu lega. "Soalnya kemarin Tante Rini sempat nanya ke Ibu, katanya dia lihat Fajar jalan sama teman kantornya di mal. Ibu cuma takut kamu di Jakarta kepikiran terus, terus malah nyiksa diri pakai jadwal kerja dari pagi sampai malam."
+"Syukurlah kalau gitu," sahut Ibu lega. "Kemarin Tante Rini bilang ke Ibu, dia lihat Fajar jalan sama teman kantornya di mal."
+
+Suara Ibu terdengar agak ragu di ujung telepon. "Ibu cuma takut kamu kepikiran terus di sana, lalu malah nyiksa diri pakai jadwal kerja seharian."
 
 Senyum di bibirku meredup sedikit. Jemariku mengusap sampul kulit buku catatanku yang mulai agak aus di bagian sudutnya.
 
-Di kepalaku dulu, bertunangan dengan Fajar di usia dua puluh enam tahun adalah baris rencana yang paling rapi di buku ini. Kenyataannya, orang yang paling kupikir bakal berjalan sesuai rencana justru jadi orang pertama yang melompat turun di tengah jalan.
+Di kepalaku dulu, bertunangan dengan Fajar di usia dua puluh enam tahun adalah baris rencana yang paling rapi di buku ini. Kenyataannya, orang yang paling kupikir bakal berjalan sesuai rencana justru jadi orang pertama yang melompat turun di tengah jalan. Untung saja sekarang ada target promosi Kepala Akademik cabang baru di Surabaya yang tinggal menunggu hasil penampilan Nino di acara Storytelling Day bulan depan.
 
-"Aku beneran nggak apa-apa, Bu," kataku pelan namun mantap. "Aku sama Fajar memang nggak cocok aja dari cara jalanin hidup. Lagian bulan depan kalau evaluasi murid privatku lancar di acara Storytelling Day, surat promosiku buat jadi Kepala Akademik cabang baru di Surabaya langsung turun. Aku fokus ke situ aja sekarang."
+"Aku beneran nggak apa-apa, Bu," kataku pelan namun mantap. "Aku sama Fajar memang nggak cocok aja. Sekarang aku mau fokus ngejar promosiku ke Surabaya bulan depan."
 
-"Ya sudah, apa pun yang kamu pilih, doa Ibu selalu buat kamu, Han. Yang penting kamu bahagia dan jangan terlalu keras sama dirimu sendiri ya," pesan Ibu hangat sebelum menutup telepon beberapa menit kemudian.
+"Ya sudah, doa Ibu selalu buat kamu, Han. Yang penting jangan terlalu keras sama dirimu sendiri ya," pesan Ibu hangat sebelum menutup telepon beberapa menit kemudian.
 
 Aku meletakkan ponselku kembali ke atas meja, lalu menatap koper besar berwarna biru tua yang tersimpan rapi di atas lemari pakaianku. Tinggal lima minggu lagi sebelum koper itu kubawa pindah ke Surabaya, asalkan bocah delapan tahun pecinta dinosaurus dan pamannya yang serba dadakan itu tidak membuat kejutan baru di hari Senin nanti.
 
@@ -312,9 +334,11 @@ Aku menerima amplop cokelat itu dengan kening berkerut penasaran. Saat kukeluark
 
 Bukan gambar unduhan dari internet atau guntingan majalah. Semuanya hasil jepretan asli suasana sehari-hari yang dicetak sangat jernih. Lembar pertama memperlihatkan seekor kucing oranye gemuk yang sedang menguap lebar di atas kursi kayu warung. Lembar kedua menampilkan gerobak bakso biru dengan kepulan uap panas dari pancinya. Lembar ketiga memperlihatkan tukang balon keliling dengan puluhan balon warna-warni di bawah langit sore, disusul foto sepeda anak-anak, payung merah di trotoar hujan, sampai sepiring nasi goreng telur mata sapi.
 
-"Malam Minggu lalu Nino cerita kalau belajarnya pakai gambar jauh lebih seru," jelas Bima sambil menunjuk tumpukan foto di tanganku. "Jadi pas keliling kerja di akhir pekan, saya sekalian cetak sepuluh foto yang gampang ditebak bahasa Inggrisnya sama Nino. Di bagian belakang tiap foto sudah saya tulis tempat kosong buat Nino latihan nulis katanya."
+"Kemarin Nino cerita kalau belajar pakai gambar jauh lebih seru," jelas Bima sambil menunjuk tumpukan foto di tanganku. "Jadi pas keliling kerja kemarin, saya sekalian cetak sepuluh foto yang gampang ditebak sama Nino."
 
-Aku membalik salah satu lembar kartu pos itu.
+"Bagian belakangnya juga sengaja dikasih garis ya, Mas?" tanyaku sambil membalik salah satu kartu pos itu.
+
+"Iya, biar Nino bisa sekalian latihan nulis kosakatanya di situ," sahut Bima ringan.
 
 Di balik kertas fotonya memang sudah digaris lurus menggunakan penggaris dan spidol tipis agar Nino bisa menuliskan kosakata bahasa Inggrisnya di sana.
 
@@ -348,9 +372,11 @@ Nino menarik-narik ujung kemeja flanel pamannya tepat saat bel selesai kelas har
 
 "Untuk minggu depan, kita memang mulai bikin buku cerita bergambar sederhana sebagai latihan awal menuju Storytelling Day," kataku kepada Bima dan Nino sambil membereskan spidol di meja. "Makanya Nino butuh karton manila tebal sama spidol warna yang ujungnya besar."
 
-Bima menoleh ke arahku sambil menyampirkan tas kamera kanvasnya ke bahu. "Miss Hana habis ini langsung pulang ke kos kan? Toko alat tulis langganan saya di kawasan Pasar Mayestik searah tuh sama jalan pulang Miss Hana. Mau ikut mampir sebentar nggak, Miss? Biar nggak salah beli ukuran kartonnya."
+Bima menoleh ke arahku sambil menyampirkan tas kamera kanvasnya ke bahu. "Miss Hana habis ini langsung pulang ke kos kan? Toko alat tulis langganan saya di Pasar Mayestik searah tuh."
 
-Aku melirik layar ponselku. Jadwal pengingat berikutnya baru pukul enam sore untuk makan malam. Karena Pasar Mayestik memang cuma berjarak sepuluh menit jalan kaki menyusuri trotoar Kebayoran Baru menuju arah tempat kosku, akhirnya aku mengangguk. "Boleh, Mas. Kebetulan saya juga mau beli isi ulang spidol papan tulis."
+"Mau ikut mampir sebentar nggak, Miss? Biar nggak salah beli ukuran kartonnya," tambahnya menawarkan.
+
+Aku melirik layar ponselku. Jadwal pengingat berikutnya baru pukul enam sore untuk makan malam. Pasar Mayestik memang cuma berjarak sepuluh menit jalan kaki menyusuri trotoar Kebayoran Baru menuju arah tempat kosku. Akhirnya aku mengangguk. "Boleh, Mas. Kebetulan saya juga mau beli isi ulang spidol papan tulis."
 
 Kami bertiga berjalan beriringan menyusuri trotoar sore yang mulai ramai oleh pekerja pulang kantor. Nino berjalan di tengah sambil bercerita tentang gambar kucing oranye yang tadi dia tulis di kelas, sementara Bima melangkah di sisi luar trotoar dekat jalan raya untuk menjaga kami dari lalu-lalang motor.
 
@@ -360,9 +386,13 @@ Begitu masuk ke lorong pertokoan luar Pasar Mayestik yang berderet rapi dengan t
 
 "Eh, Mas Bima! Pas banget lewat sini, panggangan pertama baru matang," sambut Bang Dedi semringah.
 
-Bima menoleh ke arahku sambil memasang wajah memohon. "Miss Hana, saya minta waktu sepuluh menit aja ya. Minggu lalu Bang Dedi pesan minta dibuatkan video pendek sama foto kue pukisnya buat dipasang di status WhatsApp dan media sosial warungnya."
+Bima menoleh ke arahku sambil memasang wajah memohon. "Miss Hana, saya minta waktu sepuluh menit aja ya. Bang Dedi minta dibuatkan video pendek sama foto kue pukisnya."
 
-"Mas Bima ngerjain video promosi gerobak kue juga?" tanyaku sambil mengerjap pelan.
+"Buat dipasang di status WhatsApp warung ya, Bang?" tanyaku sambil melirik gerobak kaca itu.
+
+"Iya, Neng, biar dagangan saya ikut kekinian," sahut Bang Dedi senang.
+
+"Mas Bima ngerjain video promosi gerobak kue juga?" tanyaku pada Bima sambil mengerjap pelan.
 
 "Apa aja yang menghasilkan gambar dan halal saya sikat, Miss. Saya kan paket hemat, fotografer merangkap videografer," jawab Bima sambil nyengir, lalu mengeluarkan kamera tuanya dari dalam tas.
 
@@ -402,11 +432,15 @@ Namun Bima justru tersenyum tenang dan mengangkat kamera itu. "Nggak apa-apa, Mi
 
 Bima mengalungkan tali kulit kamera yang sudah agak pudar itu ke leher Nino terlebih dahulu supaya aman, baru mengarahkan kedua tangan kecil keponakannya untuk memegang bodi kamera. Aku duduk di sebelah mereka, memperhatikan dari dekat bagaimana telatennya Bima mengajari bocah delapan tahun itu.
 
-"Nah, tangan kanan Nino pegang pinggirnya yang kencang begini," kata Bima sabar sambil menunjuk sebuah tombol kecil berbentuk bundar dengan titik merah di bagian atas kamera. "Kalau hari-hari sebelumnya kan Nino cuma pencet tombol foto. Sekarang coba lihat tombol bundar yang ada titik merahnya ini. Kalau tombol merah ini ditekan sekali sampai bunyi tit, terus lampu kecil di layar berkedip merah, artinya kameranya lagi ngerekam video dan suara Nino ikut masuk ke dalam."
+"Nah, tangan kanan Nino pegang pinggirnya yang kencang begini," kata Bima sabar. Jari telunjuknya menunjuk sebuah tombol kecil berbentuk bundar dengan titik merah di bagian atas kamera. "Biasanya kan Nino cuma pencet tombol foto. Sekarang coba lihat tombol bundar yang ada titik merahnya ini."
+
+Nino menunduk memperhatikan tombol kecil itu.
+
+"Kalau tombol merah ini ditekan sekali sampai bunyi tit, lampu kecil di layar bakal berkedip merah," jelas Bima lagi. "Artinya kameranya lagi ngerekam video dan suara Nino ikut masuk ke dalam."
 
 "Jadi kalau aku ngomong bahasa Inggris, suaraku masuk ke situ, Om?" tanya Nino dengan mata bulat berbinar takjub.
 
-"Masuk semua. Makanya kalau lagi ngerekam video, kameranya jangan digoyang-goyang banget biar orang yang nonton nggak mabuk laut," canda Bima.
+"Masuk semua. Makanya kameranya jangan digoyang-goyang banget biar yang nonton nggak mabuk laut," canda Bima.
 
 Nino langsung menekan tombol bundar bertitik merah itu sampai berbunyi tit pelan.
 
@@ -420,7 +454,9 @@ Aku tidak bisa menahan tawa kecilku melihat gaya Nino yang sudah persis pembawa 
 
 Bima menoleh ke arahku dan tersenyum tipis mendengar perubahan sapaanku, namun dia tidak meledeknya. Pandangannya kembali mengarah pada kamera hitam di tangan Nino.
 
-"Kamera itu peninggalan almarhum ayah saya, Hana," kata Bima dengan nada tenang. "Dari zaman saya masih seumur Nino, kamera itu sudah biasa dipegang bareng-bareng di rumah. Ayah saya dulu selalu bilang, kamera itu bukan barang pajangan lemari kaca yang harus ditakuti lecet, tapi alat buat nyimpan cerita orang-orang yang kita sayang."
+"Kamera itu peninggalan almarhum ayah saya, Hana," kata Bima dengan nada tenang. "Dari zaman saya seumur Nino, kamera itu memang sudah biasa dipakai bareng-bareng di rumah."
+
+Dia tersenyum tipis mengingat masa kecilnya. "Kata Ayah dulu, kamera itu bukan pajangan lemari kaca, tapi alat buat nyimpan cerita orang-orang yang kita sayang."
 
 Aku terdiam menatap sisi wajah Bima. Ini pertama kalinya aku mendengar Bima menyebut soal almarhum ayahnya. Pantas saja hari Senin lalu saat kutanya soal studio foto dan koleksi lensa, dia bilang hanya kamera tua satu itu yang selalu menemaninya.
 
@@ -450,17 +486,17 @@ Gara-gara pagi tadi Meli mengirim pesan suara dengan hidung mampet karena flu be
 
 Wajahku langsung memanas. Aku buru-buru menerima gelas teh hangat dari tangan Bima untuk menutupi salah tingkahku. "Terima kasih tehnya, Mas. Padahal nggak usah repot-repot menunggu segala."
 
-"Nggak repot, wong kami juga belum makan malam," kata Bima ringan sambil menggendong tas kameranya. "Di seberang belokan depan ada kedai mi ayam gerobak langganan saya yang kuahnya segar banget. Ayo mampir makan dulu sebelum pulang ke kos."
+"Nggak repot, wong kami juga belum makan malam," kata Bima ringan sambil menggendong tas kameranya. "Di seberang depan ada mi ayam gerobak langganan saya. Ayo mampir makan dulu sebelum pulang."
 
 Aku sempat melirik jam di ponselku. Di buku catatanku, pukul tujuh malam seharusnya adalah jadwal mencuci baju dan menyusun soal latihan. Tapi hangatnya gelas teh di tanganku dan tatapan berharap Nino membuatku akhirnya mengangguk pelan. "Boleh deh, Mas. Aku traktir ya, hitung-hitung terima kasih sudah ditungguin."
 
-Lima menit kemudian, kami bertiga sudah duduk mengelilingi meja kayu sederhana di kedai mi ayam pinggir jalan yang diterangi lampu kuning hangat. Begitu tiga mangkuk mi ayam panas dengan taburan daun bawang dan pangsit rebus disajikan di meja, lelah di pundakku langsung menguap setengah.
+Lima menit kemudian, kami bertiga sudah duduk di kedai mi ayam pinggir jalan yang diterangi lampu kuning hangat. Begitu tiga mangkuk mi ayam panas dengan taburan daun bawang dan pangsit rebus disajikan di meja, lelah di pundakku langsung menguap setengah.
 
 "Jujur ya, Mas, tadi sore aku sempat pusing banget pas tahu harus gantiin kelas Meli mendadak," curhatku sambil mengaduk sambal sedikit ke dalam mangkukku. "Kalau ada satu aja jadwal di bukuku yang geser, rasanya kayak susunan kartu domino yang roboh beruntun."
 
 Bima mendengarkan keluhanku dengan sabar sambil memindahkan satu pangsit rebus dari mangkuknya ke mangkuk Nino. Dia sama sekali tidak menertawakan sifatku seperti yang dulu sering dilakukan Fajar.
 
-"Wajar kalau pusing, namanya juga sudah capek ngajar dari pagi," kata Bima tenang. "Tapi kadang dalam hidup itu, Hana, belokan yang nggak kita tulis di buku rencana justru yang ngebawa kita ketemu mi ayam paling enak kayak malam ini."
+"Wajar kalau pusing, namanya juga sudah capek ngajar dari pagi," kata Bima tenang. "Tapi kadang belokan yang nggak ditulis di buku rencana justru ngebawa kita ketemu mi ayam paling enak, Hana."
 
 Aku tertegun menatapnya, lalu tersenyum kecil.
 
@@ -472,7 +508,7 @@ Saat pandanganku kembali jelas setelah mengelap lensa kacamata, aku mendapati Bi
 
 "Mas Bima ngapain nyalain kamera pas lagi makan mi?" tanyaku curiga sambil memakai kembali kacamataku.
 
-"Ini loh, ngerekam uap mangkuk mi ayam sama botol sambalnya sebentar," jawab Bima tanpa dosa sambil menepuk bodi kameranya. "Minggu lalu Cak Man pemilik kedai ini nanya bisa nggak kapan-kapan warungnya ikut dibikinin video pendek kayak gerobak kue pukis di Mayestik. Jadi saya ambil contoh gambar mangkuknya dulu."
+"Ngerekam uap mangkuk mi ayam sama botol sambalnya sebentar," jawab Bima tanpa dosa sambil menepuk bodi kameranya. "Cak Man pemilik kedai ini kemarin nanya soal video promosi warung, jadi saya ambil contoh gambarnya dulu."
 
 Aku menggelengkan kepala sambil tersenyum geli dan kembali menyantap mi ayamku, percaya seratus persen bahwa pria di depanku itu cuma sedang merekam mangkuk mi ayam dan botol sambal untuk contoh jualan warung.
 
@@ -484,39 +520,45 @@ Sebuah papan jalan berisi formulir daftar peserta Storytelling Day diletakkan Bu
 
 "Hana, saya mampir sebentar untuk mencatat judul resmi naskah yang akan dibawakan Nino bulan depan," kata Bu Maya sambil melirik Nino yang sedang duduk memegang spidol warna. "Kantor pusat juga baru mengabarkan kalau berkas pengajuan promosi kamu untuk cabang Surabaya sudah masuk tahap verifikasi akhir."
 
-Aku langsung berdiri dengan sikap rapi di samping mejaku. "Terima kasih infonya, Bu Maya. Kebetulan sore ini saya bersama Nino dan Mas Bima memang dijadwalkan menyusun kerangka naskah tiga menitnya."
+Aku langsung berdiri dengan sikap rapi di samping mejaku. "Terima kasih infonya, Bu Maya. Sore ini kami memang dijadwalkan menyusun kerangka naskah tiga menitnya."
 
-"Kalau untuk murid kelas dua SD yang baru mulai lancar bicara, saya sarankan pakai tema standar yang paling dekat dengan keseharian anak saja supaya mudah dihafal," kata Bu Maya memberi arahan. "Bagaimana kalau temanya tentang keluarga atau orang tua?"
+"Untuk murid kelas dua SD, pakai tema sederhana yang dekat dengan keseharian saja supaya mudah dihafal," kata Bu Maya memberi arahan. "Bagaimana kalau temanya tentang keluarga atau orang tua?"
 
 "Setuju, Bu. Judul resminya kita daftarkan My Parents saja," sahutku mantap.
 
-Bu Maya langsung menuliskan judul My Parents di kolom formulir sebelah nama Nino, lalu mengangguk puas. "Bagus. Berarti hari Senin minggu depan saat evaluasi tengah program, saya akan masuk lagi ke kelas ini untuk melihat latihan pertama Nino membacakan draf naskah My Parents itu ya."
+Bu Maya langsung menuliskan judul My Parents di kolom formulir sebelah nama Nino, lalu mengangguk puas. "Bagus. Hari Senin depan saat evaluasi tengah program, saya akan masuk lagi untuk melihat latihan pertama Nino ya."
 
 "Baik, Bu Maya," jawabku sopan sebelum beliau melangkah keluar ruangan.
 
-Setelah pintu kaca tertutup, aku mengajak Bima yang tadinya duduk di bangku luar untuk ikut duduk di kursi samping meja belajar Nino agar kami bisa menyusun kalimat pembuka naskahnya bersama-sama. Di kepalaku, menyusun sepuluh kalimat sederhana tentang ayah dan ibu seharusnya bisa selesai dalam lima belas menit.
+Setelah pintu kaca tertutup, aku mengajak Bima yang tadinya duduk di bangku luar untuk ikut duduk di kursi samping meja belajar Nino. Kami akan menyusun kalimat pembuka naskahnya bersama-sama. Di kepalaku, menyusun sepuluh kalimat sederhana tentang ayah dan ibu seharusnya bisa selesai dalam lima belas menit.
 
 Namun dugaanku meleset begitu aku mengajukan pertanyaan pertama.
 
-"Nah, Nino, karena judul cerita panggung Nino nanti adalah My Parents yang artinya Ayah dan Ibuku, kita tulis cerita yang gampang dulu ya," kataku sambil menyiapkan kertas bergaris baru dan bolpoin hitam. "Untuk kalimat pertama dan kedua, coba Nino ceritakan ke Miss Hana, kalau di rumah biasanya Ibu dan Ayah suka melakukan kegiatan apa sama Nino? Misalnya Ibu suka masak apa pagi-pagi, atau Ayah suka mengajak Nino main apa?"
+"Nah, Nino, judul cerita panggung kita nanti kan My Parents, artinya Ayah dan Ibuku," kataku sambil menyiapkan kertas bergaris baru dan bolpoin hitam. "Coba ceritakan ke Miss Hana, kalau di rumah biasanya Ibu suka masak apa pagi-pagi?"
+
+Aku tersenyum menunggu jawabannya. "Atau kalau hari libur, Ayah biasanya suka mengajak Nino main apa?"
 
 Tangan kecil Nino yang tadinya sedang asyik memutar-mutar tutup spidol merah mendadak berhenti total.
 
 Senyum di wajah bulat bocah itu perlahan memudar. Bukannya menjawab pertanyaanku seperti saat menebak gambar makanan atau binatang tadi, Nino justru menundukkan kepalanya dalam-dalam. Jemarinya meremas pinggiran kertas karton di atas meja, dan bibirnya kembali terkatup rapat.
 
-"Nino? Kok diam?" panggilku lembut karena kaget melihat perubahan raut wajahnya yang begitu mendadak. "Sebutkan pakai bahasa Indonesia dulu saja nggak apa-apa, nanti Miss Hana bantu terjemahkan ke bahasa Inggris."
+"Nino? Kok diam?" panggilku lembut karena kaget melihat perubahan raut wajahnya yang begitu mendadak. "Cerita pakai bahasa Indonesia dulu saja nggak apa-apa, nanti Miss Hana bantu terjemahkan."
 
 Nino tetap diam membisu, matanya menatap pangkuannya sendiri dengan sorot sedih yang belum pernah kulihat sejak minggu kedua.
 
 Belum sempat aku bertanya lebih jauh, Bima yang duduk di sebelah Nino langsung bergerak cepat merangkul bahu kecil keponakannya.
 
-"Wah, kalau ditanya soal masakan di rumah sekarang mah Nino bingung, Miss Hana," sela Bima cepat dengan nada bercanda yang terdengar agak dipaksakan. "Soalnya Ayah sama Ibunya Nino lagi sibuk kerja di luar kota, jadi sehari-hari di rumah yang masak ya koki amatir alias saya sendiri. Kalau ditulis di naskah nanti isinya cuma roti gosong sama telur dadar keasinan semua."
+"Wah, kalau ditanya soal masakan di rumah sekarang mah Nino bingung, Miss Hana," sela Bima cepat dengan nada bercanda yang terdengar agak dipaksakan. "Orang tuanya lagi sibuk kerja di luar kota, jadi di rumah yang masak ya koki amatir ini."
+
+Dia menepuk dadanya sendiri sambil nyengir tipis. "Kalau ditulis jujur, nanti isi naskahnya cuma roti gosong sama telur dadar keasinan semua."
 
 "Orang tuanya Nino dinas di luar kota?" tanyaku sambil menatap Bima dengan kening berkerut.
 
-"Iya, lagi ada urusan panjang," jawab Bima singkat sambil mengusap tengkuknya tanpa menatap mataku lama-lama. Dia langsung mengetukkan jari telunjuknya ke atas kertas bergaris di depanku untuk mengalihkan perhatianku. "Mending kita tulis kalimat yang umum aja buat paragraf pembukanya, Miss. Misalnya, I love my mother and my father very much. My mother is very kind, and my father is very strong. Gimana kalau gitu, No? Gampang diingat kan?"
+"Iya, lagi ada urusan panjang," jawab Bima singkat sambil mengusap tengkuknya tanpa menatap mataku lama-lama. Dia langsung mengetukkan jari telunjuknya ke atas kertas bergaris di depanku untuk mengalihkan perhatianku. "Mending kita tulis kalimat yang umum aja buat pembukanya, Miss."
 
-"Iya, Om. Pakai kalimat itu aja," sahut Nino patuh sambil mendongak menatap pamannya.
+Dia lalu membacakan contoh kalimat sederhana untuk keponakannya. "Misalnya, I love my mother and my father very much. Gimana kalau gitu, No? Gampang diingat kan?"
+
+"Iya, Om. Pakai kalimat itu aja," sahut Nino patuh sambil mendongak menatap pamannya, lalu mulai menyalin huruf demi huruf ke kertas bergarisnya.
 
 Melihat Nino sudah mau membuka suara lagi, aku akhirnya tidak jadi bertanya lebih lanjut dan menyelesaikan sepuluh kalimat naskah My Parents itu bersama mereka, meski sampai kelas berakhir rasa ganjil di kepalaku tidak mau hilang melihat betapa buru-burunya Bima menghindari topik tentang orang tua kandung Nino.
 
@@ -538,7 +580,7 @@ Nino menunduk sambil memainkan ujung penghapus karetnya. "Belum, Miss. Tadi mala
 
 Aku melirik kembali ke arah jendela kaca.
 
-Di sofa luar sana, kepala Bima miring ke sandaran sofa, mulutnya sedikit terbuka karena lelah, sementara kedua lengannya tetap memeluk erat tas kamera kanvas besarnya di depan dada.
+Di sofa luar sana, kepala Bima miring ke sandaran sofa. Mulutnya sedikit terbuka karena lelah, sementara kedua lengannya tetap memeluk erat tas kamera kanvas besarnya di depan dada.
 
 Kebetulan Meli yang sudah sembuh dari flunya lewat di lorong luar sambil membawa setumpuk buku kerja. Saat masuk sebentar ke kelasku untuk mengambil penghapus papan tulis, Meli melirik ke arah sofa tunggu lalu berbisik pelan di dekat mejaku.
 
@@ -552,13 +594,15 @@ Namun ketika jam kelas berakhir pukul lima kurang lima belas menit dan aku kelua
 
 Bima langsung tersentak bangun, mengerjap-ngerjapkan matanya yang memerah sambil mengusap wajahnya dengan telapak tangan. "Eh, maaf, ketiduran saya. Sudah jam lima kurang ya?"
 
-"Iya, Mas," kataku sambil memperlihatkan lembar kertas latihan Nino yang masih kosong. "Mas Bima, saya mau mengingatkan sedikit. Lembar PR latihan Nino dari hari Rabu lalu ternyata belum dikerjakan di rumah, dan hafalan paragraf keduanya masih belum lancar. Padahal hari Senin nanti Bu Maya akan masuk langsung ke kelas untuk evaluasi tengah program."
+"Iya, Mas. Lembar PR latihan Nino ternyata masih kosong dan hafalan paragraf keduanya belum lancar," kataku sambil memperlihatkan kertas latihan Nino. "Padahal hari Senin nanti Bu Maya mau masuk langsung ke kelas buat evaluasi tengah program."
 
 Di kepalaku, Bima setidaknya akan menjelaskan kesibukan kerjanya atau meminta maaf dengan serius.
 
 Kenyataannya, pria itu justru meregangkan otot bahunya yang kaku sambil nyengir lebar seperti orang yang baru bangun dari tidur siang yang nyaman di kursi pantai.
 
-"Waduh, kecolongan saya, Miss Hana," jawab Bima dengan nada bercanda yang ringan. "Semalam saya keasyikan melek sampai subuh di depan layar, jadi lupa belum ngecek PR-nya Nino. Tenang aja, akhir pekan ini kami kebut di rumah, hari Senin dijamin hafal luar kepala."
+"Waduh, kecolongan saya, Miss Hana," jawab Bima dengan nada bercanda yang ringan. "Semalam saya keasyikan melek sampai subuh di depan layar, jadi lupa ngecek PR-nya Nino."
+
+Dia menepuk pundak keponakannya dengan santai. "Tenang aja, akhir pekan ini kami kebut di rumah. Hari Senin dijamin hafal luar kepala."
 
 Mendengar kalimat melek sampai subuh di depan layar dengan gaya cengengesan begitu, rasa kasihan yang tadinya sempat muncul di hatiku langsung menguap berubah menjadi kesal.
 
@@ -578,7 +622,7 @@ Baru pada pukul empat lewat dua puluh lima menit, pintu kaca kelas terbuka terge
 
 "Maaf, Bu Maya, Miss Hana, tadi ada urusan mendadak di jalan," kata Bima sambil mengantar Nino duduk ke kursinya.
 
-"Waktu kelas tinggal dua puluh menit, Pak Bima," tegur Bu Maya dengan nada formal yang dingin. Beliau langsung menoleh ke arahku. "Silakan langsung dimulai, Hana. Saya ingin melihat perkembangan hafalan naskah My Parents yang sudah didaftarkan minggu lalu."
+"Waktu kelas tinggal dua puluh menit, Pak Bima," tegur Bu Maya dengan nada formal yang dingin. Beliau langsung menoleh ke arahku. "Silakan langsung dimulai, Hana. Saya ingin melihat perkembangan hafalan naskah My Parents."
 
 "Baik, Bu," sahutku cepat. Aku menoleh ke arah Nino yang duduk gelisah di kursinya. "Nino, keluarkan map latihan naskahnya ya."
 
@@ -586,7 +630,7 @@ Baru pada pukul empat lewat dua puluh lima menit, pintu kaca kelas terbuka terge
 
 Bima menepuk dahinya sendiri. "Aduh, maaf, Miss. Tadi pas berangkat buru-buru banget sampai lupa masukin mapnya ke tas Nino."
 
-Aku memejamkan mata sedetik untuk menahan luapan kesal, lalu mengambil salinan cadangan dari buku catatan cokelatku dan menyerahkannya kepada Nino. "Pakai punya Miss Hana dulu. Ayo berdiri di depan meja, bacakan paragraf pertama seperti latihan kita hari Jumat lalu."
+Aku memejamkan mata sedetik untuk menahan luapan kesal, lalu mengambil salinan cadangan dari buku catatan cokelatku dan menyerahkannya kepada Nino. "Pakai punya Miss Hana dulu. Ayo berdiri di depan meja, bacakan paragraf pertama kayak latihan kemarin."
 
 Nino berdiri memegang kertas itu dengan tangan gemetar. Baru saja bocah itu mengeja dua kalimat pembuka dengan suara terbata-bata, ponsel di saku celana Bima berdering keras memecah keheningan ruang kelas.
 
@@ -596,27 +640,33 @@ Lima detik kemudian, ponselnya kembali bergetar tanpa henti.
 
 Saat Bima mengintip layar ponselnya, wajahnya yang sudah tirus langsung berubah pucat pasi. Tanpa menunggu evaluasi selesai, Bima melangkah masuk menghampiriku dan Bu Maya.
 
-"Maaf sekali, Bu Maya, Miss Hana, saya benar-benar minta izin harus bawa Nino pulang sekarang juga soalnya ada urusan darurat yang nggak bisa ditinggal," kata Bima dengan suara terburu-buru.
+"Maaf sekali, Bu Maya, Miss Hana, saya harus bawa Nino pulang sekarang juga," kata Bima terburu-buru. "Ada urusan darurat di rumah yang nggak bisa ditinggal."
 
 "Evaluasi baru berjalan kurang dari sepuluh menit, Pak," tegur Bu Maya sambil menutup map penilaiannya dengan wajah tidak berkenan.
 
 "Saya tahu, Bu, maaf sekali, nanti saya yang tanggung jawab," sahut Bima cepat, lalu langsung menggandeng tangan Nino keluar ruang kelas.
 
-Begitu pintu tertutup, Bu Maya berdiri dan menatapku dengan sorot mata kecewa. "Hana, terus terang saya belum melihat kesiapan muridmu sore ini. Kalau dua minggu lagi di panggung Storytelling Day penampilannya masih berantakan seperti barusan, saya terpaksa meninjau ulang rekomendasi promosi kamu ke Surabaya."
+Begitu pintu tertutup, Bu Maya berdiri dan menatapku dengan sorot mata kecewa. "Hana, terus terang saya belum melihat kesiapan muridmu sore ini."
+
+Beliau merapikan map di tangannya sambil menatapku tajam. "Kalau dua minggu lagi di Storytelling Day masih berantakan begini, rekomendasi promosimu ke Surabaya terpaksa saya tinjau ulang."
 
 Aku hanya mampu mengangguk kaku saat Bu Maya melangkah keluar ruangan.
 
-Kemarahan, rasa malu, dan ketakutan kehilangan promosi yang sudah kukejar setahun penuh langsung mendidih jadi satu di kepalaku. Aku meraih buku catatan cokelatku, lalu berjalan cepat menyusul Bima yang baru saja memakaikan jaket ke tubuh Nino di teras samping gedung.
+Kemarahan, rasa malu, dan ketakutan kehilangan promosi yang sudah kukejar setahun penuh langsung mendidih jadi satu di kepalaku. Aku meraih buku catatan cokelatku, lalu berjalan cepat menyusul Bima yang baru saja memakaikan jaket ke tubuh Nino di teras samping gedung. Padahal akhir pekan kemarin PR Nino juga tidak dikerjakan gara-gara Bima mengaku keasyikan begadang di depan layar sampai subuh.
 
 "Mas Bima, tunggu!" panggilku dengan suara tertahan namun tajam.
 
 "Hana, maaf banget soal tadi di kelas, saya harus..." kata Bima sambil berbalik menatapku.
 
-"Bagi Mas Bima semuanya memang gampang diselesaikan pakai kata maaf ya?" potongku tanpa sanggup lagi menjaga nada sopanku. "Jumat lalu PR Nino nggak dikerjakan gara-gara Mas Bima keasyikan begadang sampai subuh. Hari ini jadwal evaluasi paling penting buat karier saya, Mas Bima datang telat hampir setengah jam, lupa bawa map latihan, terus seenaknya minta pulang di tengah penilaian Bu Maya!"
+"Bagi Mas Bima semuanya memang gampang diselesaikan pakai kata maaf ya?" potongku tanpa sanggup lagi menjaga nada sopanku. "Kemarin PR nggak dikerjakan gara-gara begadang. Hari ini jadwal evaluasi paling penting buat karier saya, Mas Bima malah telat!"
 
 Nino yang berdiri di samping Bima langsung memegang ujung kemeja pamannya dengan wajah ketakutan, tapi emosiku sudah terlanjur meluap keluar.
 
-"Saya sudah susun jadwal enam minggu ini rapi-rapi demi promosi saya, Mas!" kataku dengan napas memburu. "Cara hidup Mas Bima yang serba berantakan, suka bercanda, dan nggak pernah serius itu benar-benar nggak masuk akal buat saya! Mas Bima gampang banget menyepelekan waktu dan usaha orang lain karena hidup Mas Bima sendiri pasti enak dan nggak pernah punya masalah berat!"
+"Sudah lupa bawa map, sekarang seenaknya minta pulang di tengah penilaian Bu Maya!" lanjutku dengan suara bergetar menahan marah. "Saya sudah susun jadwal enam minggu ini rapi-rapi demi promosi saya, Mas!"
+
+Bima hanya terdiam menatapku di bawah mendung sore itu.
+
+"Cara hidup Mas Bima yang berantakan dan nggak pernah serius itu benar-benar nggak masuk akal buat saya!" kataku tajam. "Mas Bima gampang banget nyepelein waktu orang lain karena hidup Mas Bima sendiri pasti enak dan nggak punya beban!"
 
 Biasanya, setiap kali aku mengomel soal waktu atau aturan kelas, Bima selalu punya seribu satu candaan santai untuk mencairkan suasana. Namun sore itu, di bawah langit mendung teras samping, tidak ada senyum sedikit pun di wajahnya. Bima hanya berdiri diam menatapku dengan sepasang mata merah yang menyimpan kelelahan begitu dalam.
 
@@ -630,13 +680,13 @@ Namun Bima sama sekali tidak melakukan keduanya.
 
 Setelah menatapku diam selama beberapa detik yang begitu panjang, bahu tegap di balik kemeja flanel basah itu perlahan turun. Bima menundukkan kepalanya sedikit di depanku.
 
-"Maaf, Miss Hana," katanya dengan suara sangat rendah dan tenang, kembali memakai sapaan formal yang berjarak. "Miss Hana benar, saya yang salah karena sudah mengacaukan jadwal evaluasi Miss Hana hari ini. Saya janji hari Rabu nanti Nino tidak akan terlambat lagi. Kami permisi dulu."
+"Maaf, Miss Hana. Miss Hana benar, saya yang salah sudah mengacaukan jadwal evaluasi hari ini," katanya dengan suara sangat rendah dan tenang, kembali memakai sapaan formal yang berjarak. "Saya janji hari Rabu nanti Nino tidak akan terlambat lagi. Kami permisi dulu."
 
-Tanpa menambahkan satu kalimat pembelaan pun untuk dirinya sendiri, Bima merapatkan tudung jaket di kepala Nino agar keponakannya tidak kehujanan, lalu menggandeng tangan bocah itu berjalan cepat menembus rintik gerimis menuju jalan raya.
+Tanpa menambahkan satu kalimat pembelaan pun untuk dirinya sendiri, Bima merapatkan tudung jaket di kepala Nino agar keponakannya tidak kehujanan. Dia langsung menggandeng tangan bocah itu berjalan cepat menembus rintik gerimis menuju jalan raya.
 
 Aku berdiri sendirian di teras samping sambil memeluk buku catatan cokelatku. Anehnya, meskipun aku baru saja mengeluarkan semua unek-unek yang menumpuk di kepalaku sejak hari Jumat lalu, dadaku sama sekali tidak lega. Justru tatapan mata Bima yang lelah dan caranya meminta maaf tanpa melawan sedikit pun tadi meninggalkan ganjalan yang menyakitkan di ulu hatiku.
 
-Dengan langkah gontai, aku berbalik masuk ke gedung kursus dan kembali ke Ruang Kelas Nomor Dua untuk membereskan spidol serta mematikan AC ruangan. Suasana di dalam kelas yang sudah ditinggal pulang oleh murid-murid sore itu hening sekali, menyisakan bunyi dengung halus pendingin udara dan bayangan kursiku sendiri di dinding kaca.
+Dengan langkah gontai, aku berbalik masuk ke gedung kursus. Aku kembali ke Ruang Kelas Nomor Dua untuk membereskan spidol serta mematikan AC ruangan. Suasana di dalam kelas yang sudah ditinggal pulang oleh murid-murid sore itu hening sekali, menyisakan bunyi dengung halus pendingin udara dan bayangan kursiku sendiri di dinding kaca.
 
 Saat aku sedang menggeser kursi tempat Bima tadi meletakkan tas kameranya di dekat pintu kelas, ujung sepatuku tidak sengaja menyentuh sesuatu di kolong meja sudut.
 
@@ -680,25 +730,39 @@ Sebelum aku sempat mengetuk pintu pagar kayu yang setengah terbuka, pintu depan 
 
 Seorang pria berusia pertengahan tiga puluhan keluar ke teras sambil menjinjing sebuah tas pakaian berisi termos air panas dan lipatan selimut. Wajahnya ramah, tapi gurat kelelahan di sekitar matanya mirip orang yang sudah berminggu-minggu tidur di kursi tunggu rumah sakit.
 
-"Selamat malam, Pak. Saya Hana, guru bahasa Inggrisnya Nino di BrightStep English," kataku sopan sambil melangkah mendekat dan mengeluarkan buku gambar serta dompet plastik biru dari tasku. "Tadi waktu Mas Bima dan Nino buru-buru pulang dari tempat kursus, buku gambar dan dompet obat ini tidak sengaja terjatuh di kelas. Karena di bungkus obatnya tertulis harus diminum malam ini jam setengah delapan, saya langsung antar ke sini."
+"Selamat malam, Pak. Saya Hana, guru bahasa Inggrisnya Nino di BrightStep English," kataku sopan sambil mengeluarkan buku gambar serta dompet plastik biru dari tasku. "Tadi buku gambar sama dompet obat ini nggak sengaja terjatuh di kelas waktu Mas Bima buru-buru pulang."
 
-"Ya Allah, Mbak Hana... terima kasih banyak, Mbak!" seru pria itu lega begitu menerima dompet plastik biru dari tanganku. "Dari tadi Bima panik banget nyariin dompet obat Ibu di dalam tas kameranya sampai mau balik lagi ke Blok M habis nyuapin Ibu."
+Aku menyerahkan keduanya ke tangan pria itu. "Karena di bungkusnya tertulis harus diminum jam setengah delapan malam ini, saya langsung antar ke sini."
+
+"Ya Allah, Mbak Hana... terima kasih banyak, Mbak!" seru pria itu lega begitu menerima dompet plastik biru dari tanganku. "Dari tadi Bima panik banget nyariin dompet obat Ibu, sampai mau balik lagi ke Blok M habis ini."
 
 "Sama-sama, Pak. Bapak ini... Mas Hendra ya?" tanyaku sambil teringat nama kontak di layar ponsel Bima waktu di Pasar Mayestik minggu lalu.
 
-"Iya, Mbak. Saya Hendra, abang iparnya Bima, ayahnya Nino. Kebetulan saya mampir pulang sebentar ambil baju ganti sebelum balik jaga lagi ke rumah sakit malam ini," jawabnya sambil mengangguk sopan.
+"Iya, Mbak. Saya Hendra, abang iparnya Bima, ayahnya Nino," jawabnya sambil mengangguk sopan. "Saya cuma mampir sebentar ambil baju ganti sebelum balik jaga ke rumah sakit malam ini."
 
-"Ke rumah sakit?" tanyaku pelan sambil mengerutkan kening.
+"Ke rumah sakit?" tanyaku pelan sambil mengerutkan kening karena belum paham maksud ucapannya.
 
 Mas Hendra menoleh sekilas ke arah jendela tempat Bima sedang mengelap sudut bibir ibunya dengan penuh kasih sayang, lalu kembali menatapku dengan mata yang mulai berkaca-kaca.
 
-"Bima pasti nggak pernah cerita apa-apa ya di tempat les, Mbak?" kata Mas Hendra lirih. "Anak itu memang pantang banget ngeluh di depan orang. Beberapa tahun lalu, almarhum ayahnya Bima meninggal karena kecelakaan di jalan waktu pulang memotret acara bersama ibunya. Ibu selamat dari kecelakaan itu, tapi sejak saat itu kondisi jantung dan sarafnya menurun drastis dan sering sakit-sakitan sampai sekarang."
+"Bima pasti nggak pernah cerita apa-apa ya di tempat les, Mbak?" kata Mas Hendra lirih. "Anak itu memang pantang banget ngeluh di depan orang," tambahnya sambil bersandar lelah ke tiang teras.
+
+Dari cerita Mas Hendra di teras sempit malam itu, aku akhirnya tahu bahwa almarhum ayah Bima meninggal karena kecelakaan di jalan saat pulang memotret bersama ibunya. Ibu Bima memang selamat dari kecelakaan tersebut, tetapi sejak saat itu kondisi jantung dan sarafnya menurun drastis hingga sering sakit-sakitan sampai sekarang.
 
 Aku menggenggam gagang payungku erat-erat tanpa sanggup bersuara.
 
-"Lalu dua bulan lalu, cobaan kami datang lagi," lanjut Mas Hendra dengan suara bergetar menahan tangis. "Istri saya, Ratih, kakak kandung satu-satunya Bima sekaligus ibunya Nino, jatuh sakit keras dan harus dirawat intensif di rumah sakit. Saya sendiri terpaksa sering ambil izin kerja tanpa gaji dari kantor demi nungguin istri saya di ruang rawat, jadi saya benar-benar nggak sanggup kalau harus megang Nino sekaligus membiayai semuanya sendirian."
+"Lalu baru-baru ini, cobaan kami datang lagi," lanjut Mas Hendra dengan suara bergetar menahan tangis. "Istri saya, Ratih, kakaknya Bima sekaligus ibunya Nino, jatuh sakit keras dan harus dirawat di rumah sakit."
 
-Mas Hendra menyeka sudut matanya dengan punggung tangan. "Bima yang pasang badan buat keluarga kami, Mbak. Demi bantu biaya rumah sakit kakaknya, nebus obat Ibu, dan bayar lesnya Nino supaya keponakannya nggak sedih terus di rumah, Bima rela melepas sewa studio fotonya dan menjual satu per satu koleksi lensa kesayangannya sampai habis. Tiap hari dia ambil kerjaan foto sama video warung dari pagi, sorenya antar-jemput Nino, malamnya begadang ngedit video pesanan orang sambil jaga Ibu sampai jam tiga subuh. Tadi sore pun dia telat dan harus bawa Nino pulang cepat gara-gara Ibu mendadak sesak napas di rumah dan harus dibawa Bima ke klinik sendirian karena saya lagi di rumah sakit."
+Mas Hendra menarik napas berat sebelum melanjutkan. "Saya terpaksa sering izin kerja tanpa gaji buat nungguin Ratih, jadi nggak sanggup kalau harus megang semuanya sendirian."
+
+Pria itu menyeka sudut matanya dengan punggung tangan. "Bima yang pasang badan buat kami, Mbak. Dia rela melepas sewa studionya dan menjual semua koleksi lensa kesayangannya."
+
+"Demi bantu biaya rumah sakit kakaknya ya, Pak?" bisikku tercekat sambil memeluk buku catatan cokelatku lebih erat.
+
+"Iya, Mbak. Buat biaya kakaknya, nebus obat Ibu, sampai bayar lesnya Nino biar keponakannya nggak sedih terus di rumah," jawab Mas Hendra lirih. "Tiap pagi dia keliling ambil kerjaan video warung, sore antar Nino, malamnya begadang ngedit sambil jaga Ibu sampai subuh."
+
+Pandanganku mengabur menatap cahaya lampu dari jendela kontrakan di belakangnya.
+
+"Tadi sore pun dia telat dan buru-buru pulang gara-gara Ibu mendadak sesak napas," tambah Mas Hendra pelan, sementara dari dalam rumah terdengar suara Bima sedang membujuk Nino menghabiskan susunya. "Bima harus bawa Ibu ke klinik sendirian soalnya saya lagi jaga di rumah sakit."
 
 Lututku langsung lemas mendengar setiap patah kata itu.
 
@@ -716,29 +780,41 @@ Tangan Bima yang sedang mengelap lensa kamera tuanya di teras kontrakan langsung
 
 Semalaman penuh sepulang dari Cipete kemarin, aku hampir tidak bisa memejamkan mata di kamar kosku. Setiap kali kucoba berbaring, suara tajamku sendiri saat menuduh Bima di teras samping kembali terngiang di telinga, disusul pemandangan Bima yang sedang menyuapi ibunya dari balik jendela kontrakan sederhana ini. Makanya pada hari Selasa sore yang seharusnya bukan jadwal les Nino, begitu kelas regulerku selesai pukul setengah lima, aku langsung mengambil rantang berisi sup ayam hangat yang kumasak sejak siang di kos dan naik ojek kembali ke gang Cipete ini.
 
-"Mas Hendra cerita semalam kalau Ibu sama Nino lagi di rumah, jadi aku bawakan sup ayam hangat buat makan malam Ibu sama Nino," kataku pelan sambil membuka pagar dan menyerahkan rantang itu kepadanya.
+"Mas Hendra cerita semalam kalau Ibu sama Nino di rumah," kataku pelan sambil membuka pagar dan menyerahkan rantang itu kepadanya. "Jadi aku bawakan sup ayam hangat buat makan malam."
 
-Bima menerima rantang di tangannya dengan wajah terkejut sekaligus tersentuh. Setelah mengantarkan rantang itu ke meja makan di dalam dan berpesan pada ibunya bahwa dia mau duduk di depan sebentar, Bima mengajakku duduk di bangku taman kecil yang terletak tepat di ujung mulut gang dekat kontrakannya.
+Bima menerima rantang di tangannya dengan wajah terkejut sekaligus tersentuh. Setelah mengantarkan rantang itu ke meja makan di dalam dan berpesan pada ibunya bahwa dia mau duduk di depan sebentar, Bima mengajakku duduk di bangku taman kecil di ujung mulut gang dekat kontrakannya.
 
 Di atas bangku kayu di bawah pohon ketapang sore itu, aku menunduk menatap kedua tanganku sendiri yang saling bertaut di pangkuan.
 
-"Mas Bima, aku datang ke sini karena mau minta maaf. Aku malu banget sama diriku sendiri soalnya kemarin sore aku sudah ngomong kasar dan menuduh Mas Bima yang nggak-nggak tanpa tahu apa yang sebenarnya sedang Mas Bima sama keluarga hadapi," kataku dengan suara bergetar sambil menahan tangis.
+"Mas Bima, aku datang ke sini karena mau minta maaf," kataku dengan suara bergetar sambil menahan tangis. "Aku malu banget kemarin sore sudah ngomong kasar dan menuduh Mas Bima yang nggak-nggak."
+
+Aku menggigit bibir bawahku, tak sanggup menatap matanya. "Aku sama sekali nggak tahu beban berat yang sedang Mas Bima hadapi di rumah," bisikku penuh sesal.
 
 Setetes air mataku jatuh ke punggung tangan. Aku buru-buru menyekanya, namun di sebelahku, Bima justru tersenyum sangat teduh tanpa ada sedikit pun jejak kemarahan atau dendam di wajahnya.
 
-"Jangan nangis, Hana. Nanti kalau Nino lihat dari teras, saya dikira habis nyubit gurunya," gurau Bima lembut untuk menenangkanku. "Lagian kemarin kamu nggak salah kok kalau marah. Evaluasi itu kan syarat penting buat karier kamu di Surabaya, dan saya memang beneran telat. Saya nggak cerita soal kondisi Ibu sama Mbak Ratih soalnya saya nggak pengin orang lain mengasihani kami atau ngasih perlakuan khusus."
+"Jangan nangis, Hana. Nanti kalau Nino lihat dari teras, saya dikira habis nyubit gurunya," gurau Bima lembut untuk menenangkanku. "Lagian kamu nggak salah kok kalau marah. Evaluasi itu penting buat karier kamu, dan saya memang telat."
 
-"Tapi gimana caranya Mas Bima masih bisa senyum, bercanda, dan kelihatan santai terus setiap hari di saat keadaan lagi sesulit ini?" tanyaku sambil menoleh menatap wajahnya yang tirus namun tetap tenang. "Kalau aku jadi Mas Bima, mungkin aku sudah hancur dan marah-marah sama dunia setiap hari."
+Dia menatap lurus ke arah jalanan gang yang mulai teduh. "Saya sengaja nggak cerita soal Ibu sama Mbak Ratih, soalnya nggak pengin dikasihani atau dikasih perlakuan khusus," lanjutnya tenang tanpa sedikit pun nada mengeluh.
+
+"Tapi gimana caranya Mas Bima masih bisa senyum dan bercanda terus tiap hari?" tanyaku sambil menoleh menatap wajahnya yang tirus namun tetap tenang. "Kalau aku jadi Mas Bima, mungkin aku sudah hancur dan marah-marah sama dunia setiap hari."
 
 Bima terdiam sejenak. Pandangannya turun menatap kamera hitam tua peninggalan ayahnya yang masih berada di pangkuannya. Jemarinya mengusap bodi logam kamera yang cat sudutnya sudah memudar itu dengan gerakan penuh kenangan.
 
-"Dulu waktu saya masih remaja dan baru belajar memotret pakai kamera ini, almarhum ayah saya sering ngajak saya jalan kaki keliling pasar dan taman," kenang Bima dengan suara tenang yang membawa pikiranku ikut masuk ke masa lalunya. "Waktu itu saya suka kesal kalau orang yang mau saya foto tiba-tiba gerak atau belum siap senyum. Tapi Ayah selalu menepuk bahu saya dan bilang, foto sama rekaman paling indah di dunia ini justru bukan waktu orang pasang senyum kaku setelah dikasih aba-aba satu dua tiga, melainkan momen jujur yang kita tangkap diam-diam waktu mereka lupa lagi dilihat kamera."
+"Dulu waktu saya baru belajar memotret pakai kamera ini, almarhum Ayah sering ngajak keliling pasar dan taman," kenang Bima dengan suara tenang. "Saya dulu suka kesal kalau orang yang mau saya foto tiba-tiba gerak atau belum siap senyum," katanya sambil tersenyum mengingat masa remajanya.
 
-Aku mendengarkan setiap kalimatnya dalam diam.
+Bima tersenyum kecil sambil mengetuk pelan bodi kamera tua itu.
 
-"Sampai akhirnya sore itu Ayah sama Ibu kecelakaan di jalan dalam perjalanan pulang kerja," lanjut Bima pelan. "Pagi harinya kami masih sarapan bareng sambil merencanakan liburan akhir tahun, tapi sorenya Ayah sudah nggak ada dan Ibu harus masuk ruang operasi. Hari itu saya sadar, Hana, sekeras apa pun manusia menyusun jadwal dan rencana, hidup kita bisa jungkir balik cuma dalam satu detik tanpa minta izin."
+"Tapi Ayah selalu bilang, foto paling indah itu bukan waktu orang pasang senyum kaku habis aba-aba satu dua tiga," lanjutnya lembut, lalu menepuk tali kulit kameranya. "Melainkan momen jujur yang kita tangkap diam-diam waktu mereka lupa lagi dilihat kamera."
 
-"Sejak saat itu saya berjanji, sesulit apa pun keadaan kami, saya nggak mau menghabiskan hari ini cuma buat cemas atau cemberut," tambah Bima sambil menoleh menatap mataku dengan senyum hangat yang begitu tulus. "Apalagi di rumah ada Ibu yang lagi sakit dan ada Nino yang rindu ibunya. Kalau saya ikut-ikutan masang wajah mendung, siapa yang bakal bikin mereka ketawa? Jadi selagi masih dikasih napas hari ini, saya pilih menikmati hal-hal kecil yang masih bisa disyukuri."
+Aku mendengarkan setiap kalimatnya dalam diam. Bima lalu menceritakan kembali hari kecelakaan yang merenggut nyawa ayahnya beberapa tahun silam. Pagi harinya mereka masih sarapan bersama sambil merencanakan liburan akhir tahun, namun sorenya sang ayah sudah tiada dan ibunya harus masuk ruang operasi.
+
+"Hari itu saya sadar, Hana, sekeras apa pun kita menyusun rencana, hidup bisa jungkir balik dalam satu detik," ucap Bima pelan. "Makanya saya janji nggak mau menghabiskan hari ini cuma buat cemas atau cemberut," tambahnya sambil menatap langit sore di ujung gang.
+
+Dia menoleh menatap mataku dengan senyum hangat yang begitu tulus. "Apalagi di rumah ada Ibu sama Nino. Kalau saya ikut masang wajah mendung, siapa yang bakal bikin mereka ketawa?"
+
+"Jadi Mas Bima tahan semuanya sendirian?" bisikku lirih sambil menyeka sudut mataku yang basah.
+
+"Bukan ditahan, tapi disyukuri," jawab Bima tenang. "Selagi masih dikasih napas hari ini, saya pilih menikmati hal-hal kecil yang masih ada di depan mata," tutupnya sambil tersenyum hangat ke arahku.
 
 Air mataku kembali menggenang di pelupuk mata, namun kali ini bukan lagi karena rasa bersalah semata, melainkan karena rasa haru dan kagum yang meruntuhkan seluruh tembok kaku di dalam hatiku.
 
@@ -766,7 +842,9 @@ Matanya menatap barisan huruf di kertas dengan pandangan kosong, lalu jari telun
 
 Kalau ini terjadi dua minggu yang lalu, aku pasti sudah mengetukkan spidolku ke meja dan meminta Nino mengulang kalimat itu sampai lancar demi mengejar target halaman. Tapi sore ini, aku meletakkan bolpoinku dan menutup buku catatan cokelatku.
 
-"Nino, kita istirahat sebentar dari kertasnya yuk," ajakku lembut sambil menggeser kursiku mendekat. "Daripada cuma baca tulisan di kertas, gimana kalau Mas Bima nyalain kameranya, terus kita latihan ngobrol bahasa Inggris santai soal makanan kesukaan keluarga Nino di rumah? Nanti kalau Ibu Nino sudah sembuh dan pulang dari rumah sakit, Nino mau makan apa bareng Ibu?"
+"Nino, kita istirahat sebentar dari kertasnya yuk," ajakku lembut sambil menggeser kursiku mendekat. "Gimana kalau Mas Bima nyalain kameranya, terus kita ngobrol santai soal makanan kesukaan keluarga di rumah?"
+
+Aku tersenyum menatap mata bulat Nino. "Nanti kalau Ibu sudah sembuh dan pulang dari rumah sakit, Nino mau makan apa bareng Ibu?"
 
 Wajah Nino yang tadinya mendung langsung terangkat menatapku, sementara Bima di kursi sebelah menatapku dengan sorot mata penuh terima kasih.
 
@@ -774,11 +852,13 @@ Wajah Nino yang tadinya mendung langsung terangkat menatapku, sementara Bima di 
 
 "Nah, coba bilang pakai bahasa Inggris ke kamera Om Bima. I want to eat meatballs with my mother!" panduku sambil tersenyum.
 
-Dengan bantuan kamera tua Bima yang menyala merekam latihan kami, sisa tiga puluh menit pelajaran sore itu mengalir begitu cepat dan penuh tawa. Nino tidak lagi terbebani oleh kalimat yang kaku, dan suaranya kembali nyaring memenuhi ruang kelas.
+Dengan bantuan kamera tua Bima yang menyala merekam latihan kami, sisa tiga puluh menit pelajaran sore itu mengalir begitu cepat. Nino tidak lagi terbebani oleh kalimat yang kaku, dan suaranya kembali nyaring memenuhi ruang kelas.
 
 Tepat pukul lima lewat lima belas menit setelah sesi latihan tambahan selesai, kami bertiga keluar menuju lobi depan.
 
-"Terima kasih banyak untuk hari ini ya, Hana," kata Bima tulus saat kami berdiri di teras gedung. "Cara kamu menenangkan Nino di kelas tadi benar-benar bikin hati saya hangat. Kalau gitu kami langsung pamit pulang sekarang ya, biar nggak mengganggu jadwal sore kamu."
+"Terima kasih banyak untuk hari ini ya, Hana," kata Bima tulus saat kami berdiri di teras gedung. "Cara kamu menenangkan Nino di kelas tadi benar-benar bikin hati saya hangat."
+
+Dia lalu menyampirkan tas kameranya ke bahu. "Kami langsung pamit pulang sekarang ya, biar nggak mengganggu jadwal sore kamu."
 
 Baru saja Bima menyelesaikan kalimatnya, ponsel di dalam tas selempangku berdering memainkan nada pengingat pukul lima lewat lima belas menit.
 
@@ -792,7 +872,11 @@ Di depan mata Bima, ibu jariku menekan tombol matikan pengingat, lalu sekalian m
 
 "Loh, kok dimatiin alarmnya?" tanya Bima sambil mengerjap kaget.
 
-Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap nilainya bisa kukerjakan besok pagi di ruang guru, soalnya tadi di kelas kita habis ngomongin bakso pangsit goreng sampai bikin lapar. Mas Bima sama Nino belum makan sore kan? Ayo kita makan bakso di warung tenda sebelah dulu, hari ini giliranku yang traktir."
+Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap nilainya bisa kukerjakan besok pagi di ruang guru. Tadi di kelas kita ngomongin bakso sampai bikin lapar."
+
+"Terus?" tanya Bima masih setengah bengong.
+
+"Mas Bima sama Nino belum makan sore kan?" tanyaku sambil menunjuk warung tenda di sebelah gedung. "Ayo kita makan bakso dulu, hari ini giliranku yang traktir."
 
 Selama tiga detik penuh, Bima hanya berdiri tertegun menatapku seperti tidak percaya bahwa perempuan yang baru saja mematikan alarm jadwalnya sendiri demi makan bakso pinggir jalan adalah Miss Hana yang sama, sebelum akhirnya tawa hangatnya pecah di teras sore itu.
 
@@ -832,7 +916,7 @@ Setelah membeli tiga botol air mineral dingin dan baru berjalan setengah jalan k
 
 "Selamat sore, Bu Maya," sapaku sambil tetap melangkah pelan di jalur setapak taman.
 
-"Sore, Hana. Saya cuma mau mengabari singkat kalau berkas Surat Keputusan promosi kamu untuk cabang Surabaya sudah selesai ditandatangani direktur pusat sore ini," kata Bu Maya dari seberang telepon. "Kemungkinan hari Selasa atau Rabu depan map resminya sudah tiba di meja saya."
+"Sore, Hana. Surat Keputusan promosimu untuk cabang Surabaya sudah selesai ditandatangani direktur pusat sore ini," kata Bu Maya dari seberang telepon. "Kemungkinan hari Selasa atau Rabu depan map resminya sudah tiba di meja saya."
 
 Langkah kakiku melambat sedikit.
 
@@ -868,7 +952,11 @@ Aku menoleh ke samping rak. Di sana, pada hari Sabtu sore di akhir minggu keempa
 
 "Fajar?" kataku kaget soalnya sudah enam bulan penuh kami tidak pernah bertegur sapa. "Kamu lagi cari buku juga?"
 
-"Iya, tadi habis ketemu klien di sebelah, terus mampir cari buku keuangan," jawab Fajar sambil menatapku dari ujung kepala sampai ujung kaki dengan senyum lega. "Kebetulan banget kita ketemu di sini, Han. Kalau kamu nggak buru-buru, bisa kita ngobrol sebentar di kafe samping toko buku ini? Ada hal penting yang pengin aku omongin sama kamu."
+"Iya, tadi habis ketemu klien di sebelah, terus mampir cari buku keuangan," jawab Fajar sambil menatapku dari ujung kepala sampai ujung kaki dengan senyum lega. "Kebetulan banget ketemu di sini, Han. Kalau nggak buru-buru, bisa kita ngobrol sebentar di kafe sebelah?"
+
+"Ada urusan apa memangnya?" tanyaku sambil menahan jarak.
+
+"Ada hal penting yang pengin aku omongin sama kamu," jawabnya sungguh-sungguh.
 
 Aku sempat ragu sejenak. Namun karena aku merasa urusan masa lalu kami memang belum pernah ditutup dengan obrolan kepala dingin, akhirnya aku membayar buku cerita hadiah untuk Nino di kasir dan mengikuti Fajar duduk di meja sudut kafe sebelah.
 
@@ -878,17 +966,27 @@ Seorang pelayan mengantarkan dua cangkir kopi hangat ke meja kami. Fajar mengadu
 
 "Alhamdulillah Ibu sehat," jawabku singkat. "Ada apa, Jar? Katamu tadi ada hal penting yang mau dibicarakan."
 
-"Aku mau minta maaf soal keputusanku enam bulan lalu, Hana," kata Fajar sambil meletakkan kedua tangannya di atas meja.
+"Aku mau minta maaf soal keputusanku waktu kita batal lamaran dulu, Hana," kata Fajar sambil meletakkan kedua tangannya di atas meja.
 
-Aku menatapnya tanpa ekspresi.
+Aku menatapnya tanpa ekspresi. Waktu membatalkan lamaran kami setengah tahun lalu, dia sendiri yang mengeluh lelah hidup bersama perempuan yang apa-apa memakai pengingat ponsel dan buku jadwal seperti panitia tur.
 
-"Bukannya waktu itu kamu sendiri yang bilang sudah nggak tahan hidup sama perempuan yang apa-apa pakai pengingat ponsel dan catatan jadwal kayak panitia tur?" tanyaku datar.
+"Bukannya waktu itu kamu sendiri yang bilang nggak tahan hidup sama perempuan yang serba pakai jadwal?" tanyaku datar.
 
-"Waktu itu aku bodoh dan egois, Han," sahut Fajar dengan raut menyesal. "Aku pikir hidup yang spontan tanpa aturan itu lebih menyenangkan. Selama enam bulan kita pisah, aku sempat dekat sama seseorang yang sifatnya kebalikan banget dari kamu. Tapi ternyata aku salah besar."
+"Waktu itu aku bodoh dan egois, Han," sahut Fajar dengan raut menyesal. "Aku pikir hidup spontan tanpa aturan itu menyenangkan. Kemarin aku sempat dekat sama orang yang sifatnya kebalikan dari kamu."
 
-Fajar mencondongkan duduknya sedikit ke arahku. "Hidup sama orang yang nggak punya keteraturan itu bikin pusing setengah mati, Han. Jam makan nggak jelas, uang habis nggak ketahuan rimbanya, janji ketemu selalu ngaret berjam-jam. Di situ aku baru sadar betapa beruntungnya aku dulu punya kamu. Bersama kamu, semuanya terukur, rapi, tabungan tanggal dua puluh lima kamu selalu jalan, dan masa depan kita jelas arahnya."
+Dia menunduk sebentar dan menggelengkan kepala. "Tapi ternyata aku salah besar, Han. Hidup sama orang yang nggak teratur itu bikin pusing setengah mati."
 
-Fajar meraih buku catatan bersampul cokelatku yang tergeletak di pinggir meja. "Aku kangen keteraturan kamu, Hana. Aku kangen rencana lima tahunan yang dulu kita susun bareng. Ayo kita perbaiki semuanya dari awal. Bulan depan kita bisa lanjutkan lagi rencana pertunangan kita yang sempat tertunda."
+Aku hanya diam menatap cangkir kopiku.
+
+"Jam makan nggak jelas, uang habis nggak karuan, janji ketemu selalu ngaret berjam-jam," keluh Fajar lagi. "Di situ aku baru sadar betapa beruntungnya aku dulu punya kamu."
+
+Dia mencondongkan duduknya ke arahku. "Bersama kamu, semuanya terukur, tabungan tanggal dua puluh lima kamu jalan terus, dan masa depan kita jelas."
+
+Fajar meraih buku catatan bersampul cokelatku yang tergeletak di pinggir meja. "Aku kangen keteraturan kamu, Hana. Aku kangen rencana lima tahunan yang dulu kita susun bareng."
+
+"Maksud kamu apa, Jar?" tanyaku dingin.
+
+"Ayo kita perbaiki semuanya dari awal, Han. Bulan depan kita lanjutkan lagi rencana pertunangan kita yang sempat tertunda," ajaknya penuh harap.
 
 Aku menatap cangkir kopi di depanku yang uapnya mulai menipis.
 
@@ -896,7 +994,7 @@ Di kepalaku enam bulan yang lalu, ketika aku menangis sendirian di kamar kos sam
 
 Mendengar Fajar memuji sifat teraturku dan tabungan tanggal dua puluh limaku, aku sadar dia tidak sedang merindukan diriku sebagai manusia, melainkan hanya merindukan kenyamanan punya pendamping hidup yang bisa merapikan urusannya seperti mesin pengatur jadwal. Anehnya, yang melintas di kepalaku justru bayangan wajah lelah namun hangat milik Bima waktu menyodorkan es krim potong di tengah hujan dan mengajak makan bakso tanpa peduli jam pengingat.
 
-"Maaf, Jar," kataku tenang sambil menarik kembali buku catatan cokelatku dari dekat tangannya dan memasukkannya ke dalam tas. "Enam bulan itu bukan waktu yang sebentar. Sekarang fokusku cuma menyelesaikan tugas evaluasiku minggu depan dan mengurus kepindahanku ke Surabaya."
+"Maaf, Jar," kataku tenang sambil menarik kembali buku catatan cokelatku dari dekat tangannya dan memasukkannya ke dalam tas. "Kita sudah selesai dari dulu. Sekarang fokusku cuma menyelesaikan evaluasiku dan mengurus kepindahanku ke Surabaya."
 
 Aku berdiri dari kursi kafe sebelum kopi di cangkirku habis setengahnya dan melangkah keluar meninggalkan Fajar yang masih terpaku di mejanya.
 
@@ -912,13 +1010,13 @@ Di dalam Ruang Kelas Nomor Dua pada hari Senin sore di minggu kelima ini, tingga
 
 "Wah, bocah ini kalau sudah disogok buku dinosaurus langsung berubah jadi orang London ya," seloroh Bima sambil merapikan peralatan tulis keponakannya ke dalam tas.
 
-Aku tertawa sambil ikut berdiri mengambil tas selempangku. "Berarti hari Sabtu nanti Nino sudah siap seratus persen ya. Tinggal latihan ringan hari Rabu sama Jumat ini biar nggak grogi."
+Aku tertawa sambil ikut berdiri mengambil tas selempangku. "Berarti hari Sabtu nanti Nino sudah siap tampil ya. Tinggal latihan ringan hari Rabu sama Jumat ini aja."
 
 Kami bertiga melangkah keluar dari ruang kelas nomor dua sambil mengobrol hangat menuju lobi depan gedung kursus. Bima sedang menceritakan tingkah lucu Nino tadi pagi yang mencoba berbicara bahasa Inggris dengan kucing warung di depan gang rumah mereka, dan aku tertawa lepas mendengarkannya.
 
 Namun begitu langkah kami melewati pintu kaca penghubung menuju lobi utama, tawaku langsung terhenti.
 
-Di dekat meja resepsionis lobi depan, berdiri Fajar dengan setelan kemeja kerja rapi warna putih gading, celana bahan hitam licin, dan sepatu pantofel mengilap. Begitu melihatku keluar dari lorong kelas, dia langsung tersenyum lebar dan melangkah menghampiriku.
+Di dekat meja resepsionis lobi depan, berdiri Fajar. Dia mengenakan setelan kemeja kerja rapi warna putih gading, celana bahan hitam licin, dan sepatu pantofel mengilap. Begitu melihatku keluar dari lorong kelas, dia langsung tersenyum lebar dan melangkah menghampiriku.
 
 "Sore, Hana. Jam mengajarnya sudah selesai kan?" sapa Fajar akrab, bertingkah seperti penolakanku di kafe Senopati dua hari lalu tidak pernah terjadi.
 
@@ -934,13 +1032,15 @@ Fajar menoleh ke arah Bima dan Nino, mengamati kemeja flanel sederhana yang dipa
 
 "Saya Bima, wali muridnya Nino," sela Bima tenang sambil menyambut uluran tangan Fajar.
 
-"Oh, wali murid kelas privat yang jadi syarat evaluasi terakhir Hana ya?" kata Fajar ramah, namun nada bicaranya menyiratkan garis batas yang sangat jelas. "Terima kasih sudah bekerja sama dengan baik ya, Mas Bima. Soalnya bulan depan Hana harus segera berangkat ke Surabaya untuk menjabat sebagai Kepala Akademik cabang baru di sana, jadi kami memang sedang sibuk menyiapkan jadwal kepindahannya supaya semua rencana kami ke depannya berjalan rapi."
+"Oh, wali murid yang jadi syarat evaluasi terakhir Hana ya?" kata Fajar ramah, namun nada bicaranya menyiratkan garis batas yang sangat jelas. "Terima kasih kerja samanya ya, Mas Bima. Bulan depan Hana kan harus segera berangkat menjabat Kepala Akademik di Surabaya."
+
+Dia melirikku sambil tersenyum penuh klaim. "Makanya sekarang kami lagi sibuk nyiapin jadwal kepindahannya biar semua rencana masa depan kami jalan rapi."
 
 Udara di antara kami mendadak menegang.
 
 Dari tempatku berdiri, mataku menangkap pandangan Bima yang turun sekilas menatap kemeja rapi tanpa lipatan yang dikenakan Fajar dan kunci mobil yang tergantung di jari pria itu, lalu beralih melirik ujung lengan kemeja flanelnya sendiri yang benangnya sudah agak berbulu karena sering dicuci.
 
-"Ngomong-ngomong di luar mendung lagi tuh, Mas Bima," tambah Fajar sambil menunjuk kaca depan lobi tempat mobil sedannya terparkir. "Mas Bima sama adiknya ini pulang naik angkutan umum ke arah mana? Kalau searah ke selatan, ayo sekalian saya antar pakai mobil saya dan Hana."
+"Ngomong-ngomong di luar mendung lagi tuh, Mas Bima," tambah Fajar sambil menunjuk kaca depan lobi tempat mobil sedannya terparkir. "Mas Bima sama adiknya pulang naik angkutan umum ke arah mana? Kalau searah, ayo sekalian naik mobil kami."
 
 Senyum hangat yang sejak di lorong kelas tadi menghiasi wajah Bima perlahan meredup hingga lenyap. Pria itu mundur setengah langkah dari sampingku.
 
@@ -956,11 +1056,11 @@ Sebelum aku sempat membuka mulut untuk menjelaskan bahwa aku dan Fajar sudah tid
 
 Sebuah map plastik tebal berwarna biru tua dengan logo resmi kantor pusat BrightStep English sudah menunggu di tengah meja kayu Bu Maya saat aku melangkah masuk ke ruangannya pada hari Rabu siang.
 
-"Silakan duduk, Hana," kata Bu Maya sambil menggeser map biru itu ke hadapanku dengan senyum lebar. "Selamat ya. Tadi pagi kurir dari kantor pusat baru saja mengantarkan Surat Keputusan resmi pengangkatan kamu sebagai Kepala Akademik Cabang Surabaya yang akan diresmikan awal bulan depan."
+"Silakan duduk, Hana," kata Bu Maya sambil menggeser map biru itu ke hadapanku dengan senyum lebar. "Selamat ya. Kurir kantor pusat baru saja mengantarkan Surat Keputusan pengangkatan kamu sebagai Kepala Akademik Cabang Surabaya."
 
 Dua setengah jam sebelum jadwal kelas sore Nino dimulai, telepon di meja ruang guru memang berdering memintaku naik ke lantai dua. Aku duduk di kursi seberang meja Bu Maya, lalu membuka sampul map biru itu perlahan.
 
-Di dalamnya terdapat dua lembar kertas tebal bersegel resmi perusahaan, lengkap dengan rincian jabatan baru, tunjangan tempat tinggal di Surabaya, kenaikan gaji pokok yang selama ini kuhitung di buku catatan cokelatku, serta kolom tanda tangan persetujuan di sudut kanan bawah yang sudah mencantumkan nama lengkapku: Hana Pratiwi, S.Pd.
+Di dalamnya terdapat dua lembar kertas tebal bersegel resmi perusahaan, lengkap dengan rincian jabatan baru yang akan diresmikan awal bulan depan, tunjangan tempat tinggal di Surabaya, kenaikan gaji pokok yang selama ini kuhitung di buku catatan cokelatku, serta kolom tanda tangan persetujuan di sudut kanan bawah yang sudah mencantumkan nama lengkapku: Hana Pratiwi, S.Pd.
 
 Satu bulan yang lalu, kalau map biru ini diletakkan di depanku, aku pasti sudah langsung meraih bolpoin hitam dari saku blusku dan menandatanganinya detik itu juga tanpa berpikir dua kali. Bahkan di halaman depan buku catatan cokelatku, aku sudah menulis daftar barang yang harus dikemas ke dalam koper serta jadwal pencarian tempat kos baru di dekat kantor cabang Surabaya.
 
@@ -972,17 +1072,23 @@ Melihatku hanya terdiam menatap lembaran kertas itu tanpa senyum antusias sepert
 
 "Saya senang, Bu Maya. Saya hanya sedikit terkejut soalnya suratnya turun lebih cepat sebelum acara hari Sabtu," jawabku sambil menutup kembali map biru itu di pangkuanku.
 
-Bu Maya menyandarkan punggungnya ke kursi kulitnya, lalu menatapku dengan tegas. "Surat itu sengaja dikirim minggu ini supaya begitu evaluasi terakhir Nino selesai di panggung Storytelling Day hari Sabtu nanti, hari Senin paginya berkas yang sudah kamu tandatangani bisa langsung dikirim balik ke pusat."
+Bu Maya menyandarkan punggungnya ke kursi kulitnya, lalu menatapku dengan tegas. Beliau menjelaskan bahwa surat itu sengaja dikirim minggu ini supaya begitu evaluasi terakhir Nino selesai di panggung Storytelling Day hari Sabtu nanti, hari Senin paginya berkas yang sudah kutandatangani bisa langsung dikirim balik ke pusat.
 
-Bu Maya mengetukkan jari telunjuknya ke atas meja. "Tapi sebagai atasan yang sudah empat tahun membimbing kamu di cabang Kebayoran Baru ini, saya perlu mengingatkan aturan manajemen pusat sejak awal, Hana. Kantor pusat hanya memberikan satu kali penawaran promosi untuk setiap kandidat."
+Bu Maya mengetukkan jari telunjuknya ke atas meja. Sebagai atasan yang sudah empat tahun membimbingku di cabang Kebayoran Baru ini, beliau tahu persis betapa ketatnya aturan manajemen pusat.
+
+"Saya perlu mengingatkan aturan pusat sejak awal, Hana," kata Bu Maya serius. "Manajemen hanya memberikan satu kali penawaran promosi untuk setiap kandidat."
 
 Aku mendengarkan dengan punggung menegang.
 
-"Artinya, lembar persetujuan di dalam map biru itu harus sudah kamu serahkan kembali ke meja saya paling lambat hari Senin pagi pukul sembilan," tegas Bu Maya tanpa basa-basi. "Kalau sampai hari Senin kamu menolak penugasan ke Surabaya itu dengan alasan pribadi apa pun, maka kursi Kepala Akademik Surabaya akan langsung dialihkan kepada kandidat cabang lain, dan nama kamu otomatis dicoret permanen dari daftar promosi manajemen. Selama kamu tetap mengajar di cabang Jakarta ini, posisi kamu tidak akan pernah bisa naik jabatan lagi ke depannya. Kamu paham konsekuensinya kan, Hana?"
+"Lembar persetujuan di map biru itu harus kembali ke meja saya paling lambat Senin pagi jam sembilan," tegas Bu Maya tanpa basa-basi. "Kalau sampai Senin kamu menolak dengan alasan pribadi apa pun, kursi Surabaya langsung dialihkan ke kandidat cabang lain."
 
-"Paham, Bu Maya," jawabku dengan suara yang kuusahakan tetap mantap.
+"Dan posisi saya di sini bagaimana, Bu?" tanyaku pelan.
 
-"Bagus. Bawa map biru itu untuk kamu pelajari rincian kontraknya di rumah, dan pastikan penampilan muridmu hari Sabtu nanti berjalan lancar," tutup Bu Maya sambil kembali membuka layar laptopnya.
+"Namamu otomatis dicoret permanen dari daftar promosi manajemen," jawab Bu Maya lugas. "Selama tetap mengajar di cabang Jakarta ini, kamu tidak akan pernah bisa naik jabatan lagi. Kamu paham konsekuensinya kan?"
+
+"Paham, Bu Maya," jawabku dengan suara yang kuusahakan tetap mantap, meski jemariku di atas pangkuan mulai dingin menyentuh map plastik itu.
+
+"Bagus. Pelajari kontraknya di rumah, dan pastikan penampilan muridmu hari Sabtu nanti berjalan lancar," tutup Bu Maya sambil kembali membuka layar laptopnya.
 
 Aku berdiri, mengucapkan terima kasih dengan sopan, lalu keluar dari ruangan Bu Maya sambil mendekap map biru itu di depan dadaku. Di tanganku kini tergenggam masa depan aman dan bebas kejutan yang sudah kususun rapi selama empat tahun penuh, namun untuk pertama kalinya dalam hidupku, hati kecilku justru takut setengah mati jika harus meninggalkan kota ini.
 
@@ -998,13 +1104,13 @@ Saat itu sesi latihan hari Rabu sore sedang jeda istirahat sebentar. Sejak datan
 
 Di dalam kelas, aku meminta Nino mewarnai bingkai gambar di buku catatannya sambil menunggu latihan bagian penutup dimulai. Bocah itu sedang duduk tenang di pojok ruangan sambil memutar rautan pensil kecil untuk menajamkan pensil warna hijaunya ketika suara Meli tiba-tiba memenuhi ruangan.
 
-"Gila ya, akhirnya Surat Keputusan Kepala Akademik Cabang Surabaya yang lo tunggu-tunggu turun juga!" seru Meli dengan suara lantangnya yang khas sambil meletakkan map biru itu ke atas mejaku. "Selamat ya, sahabatku! Berarti habis acara panggung hari Sabtu ini beres, bulan depan lo beneran resmi pindah jauh ke Surabaya dong!"
+"Gila ya, akhirnya Surat Keputusan Kepala Akademik Cabang Surabaya yang lo tunggu-tunggu turun juga!" seru Meli dengan suara lantangnya yang khas sambil meletakkan map biru itu ke atas mejaku. "Selamat ya! Berarti habis acara Sabtu ini beres, bulan depan lo resmi pindah jauh ke Surabaya dong!"
 
 Jantungku langsung mencelos panik. Aku buru-buru menaruh jari telunjuk di depan bibirku memberi kode agar Meli mengecilkan suaranya. "Mel, jangan keras-keras, lagi ada murid."
 
-"Eh, iya, sori, gue kelewatan semangat lihat map biru lo. Pokoknya sebelum lo terbang ke Surabaya, awas aja kalau nggak traktir gue makan-makan dulu!" bisik Meli sambil nyengir dan menepuk bahuku sebelum berbalik keluar ruangan.
+"Eh, sori, gue kelewatan semangat lihat map biru lo," bisik Meli sambil nyengir dan menepuk bahuku. "Pokoknya sebelum terbang ke Surabaya, awas kalau nggak traktir gue dulu!"
 
-Tepat saat pintu kaca kelas tertutup kembali, terdengar bunyi benda plastik jatuh membentur lantai dari arah pojok ruangan.
+Tepat saat Meli keluar dan pintu kaca kelas tertutup kembali, terdengar bunyi benda plastik jatuh membentur lantai dari arah pojok ruangan.
 
 Klontang.
 
@@ -1018,15 +1124,17 @@ Bocah delapan tahun itu tidak menunduk memungut rautannya. Dia berdiri kaku di s
 
 "Miss Hana..." panggil Nino dengan suara bergetar yang sangat pelan.
 
-Aku melangkah mendekat dan berlutut di depannya agar sejajar dengan wajahnya. "Iya, Nino? Kenapa, Sayang?"
+Aku melangkah mendekat dan berlutut di depannya agar sejajar dengan wajahnya. "Iya, Nino? Kenapa, Sayang?" tanyaku lembut sambil menyentuh bahu kecilnya.
 
 Nino melangkah maju satu tindak, lalu jari-jari kecilnya menarik ujung lengan kemeja kerjaku erat-erat.
 
-"Tadi kata Tante Guru yang barusan masuk... habis aku tampil cerita hari Sabtu nanti, Miss Hana mau pindah jauh ke Surabaya ya?" tanya Nino polos, sementara sebutir air mata bening mulai menggenang di sudut matanya. "Surabaya itu jauh banget ya, Miss? Harus naik pesawat atau kereta api?"
+"Kata Tante Guru barusan... habis aku tampil hari Sabtu nanti, Miss Hana mau pindah ke Surabaya ya?" tanya Nino polos, sementara sebutir air mata bening mulai menggenang di sudut matanya. "Surabaya itu jauh banget ya, Miss? Harus naik pesawat atau kereta api?"
 
 Aku langsung kesulitan menelan ludah.
 
-"Kalau Miss Hana pindah ke Surabaya, nanti hari Senin depannya lagi siapa yang ngajarin aku bahasa Inggris pakai gambar dinosaurus?" lanjut Nino dengan suara yang mulai serak menahan tangis. "Waktu di sekolah baru, teman-teman ketawain aku kalau aku salah ngomong. Cuma Miss Hana sama Om Bima yang nggak pernah ketawain aku. Kalau aku pintar ngomong bahasa Inggris hari Sabtu nanti, Miss Hana malah mau pergi jauh ya? Miss Hana jangan pergi..."
+"Kalau Miss Hana pindah ke Surabaya, nanti hari Senin depannya lagi siapa yang ngajarin aku bahasa Inggris pakai gambar dinosaurus?" lanjut Nino dengan suara yang mulai serak menahan tangis. "Di sekolah baru, teman-teman ketawain aku kalau salah ngomong. Cuma Miss Hana sama Om Bima yang nggak pernah ketawain aku."
+
+Pegangan tangan kecil Nino di ujung lengan bajuku makin mengerat. "Kalau Sabtu nanti aku pintar ngomong bahasa Inggris, Miss Hana malah mau pergi jauh ya? Miss Hana jangan pergi..."
 
 Air mata bocah itu akhirnya jatuh menetes ke punggung tanganku yang sedang memegang lengannya.
 
@@ -1056,7 +1164,9 @@ Bima menatap map biru di tanganku. Raut wajahnya tenang, sulit sekali kutebak ap
 
 Ucapan selamat yang begitu datar dan resmi itu menghantam ulu hatiku. Aku menarik napas dalam-dalam, membuang semua gengsiku, dan menatap lurus ke matanya.
 
-"Hari Senin pagi nanti aku harus menyerahkan keputusan terakhirku ke Bu Maya," kataku dengan suara bergetar. "Tapi jujur, dari siang tadi hatiku berat banget buat tanda tangan. Mas Bima... kalau menurut Mas Bima sendiri, aku harus berangkat ke Surabaya atau tetap tinggal di Jakarta aja?"
+"Hari Senin pagi nanti aku harus menyerahkan keputusan terakhirku ke Bu Maya," kataku dengan suara bergetar. "Tapi jujur, dari siang tadi hatiku berat banget buat tanda tangan."
+
+Aku menatap lurus ke matanya, berharap dia menangkap arti di balik pertanyaanku. "Kalau menurut Mas Bima sendiri, aku harus berangkat ke Surabaya atau tetap tinggal di Jakarta aja?"
 
 Pertanyaan itu menggantung di udara sore di antara kami. Sebenarnya bukan pendapat karier yang sedang kuminta darinya. Aku hanya butuh satu alasan kecil darinya, satu kalimat saja yang mengatakan bahwa dia dan Nino masih membutuhkanku di Jakarta, maka aku siap mengembalikan map biru ini ke meja Bu Maya.
 
@@ -1066,7 +1176,9 @@ Bima terdiam cukup lama. Matanya menatap map biru di tanganku, lalu beralih mena
 
 Napasku langsung tertahan.
 
-"Itu kan rencana yang sudah Miss Hana susun rapi dari dulu, bahkan sebelum kenal kami," lanjut Bima dengan suara rendah yang stabil. "Di sana jabatannya bagus, masa depannya jelas, dan rencana hidup Miss Hana ke depannya sudah tertata semua. Jangan sampai semuanya berantakan cuma gara-gara ragu di menit terakhir. Urusan les privat Nino juga selesai hari Sabtu ini kok, jadi tidak ada lagi yang perlu Miss Hana pikirkan di sini."
+"Itu kan rencana yang sudah Miss Hana susun rapi dari dulu, bahkan sebelum kenal kami," lanjut Bima dengan suara rendah yang stabil. "Di sana jabatannya bagus, masa depannya jelas, dan rencana hidup Miss Hana sudah tertata semua."
+
+Dia memalingkan pandangannya sedikit ke arah jalan raya. "Jangan sampai berantakan gara-gara ragu di menit terakhir. Les Nino juga selesai Sabtu ini, jadi nggak ada tanggungan lagi."
 
 Setiap patah kata yang keluar dari mulutnya rasanya seperti air es yang disiramkan langsung ke kepalaku.
 
@@ -1092,7 +1204,9 @@ Aku menggeser tombol terima dengan malas dan menyalakan pengeras suara ponsel sa
 
 "Belum mulai, Jar, baru pulang ngajar kelas sore tadi," jawabku singkat.
 
-"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat hari Sabtu tanggal dua puluh delapan jam sembilan pagi, nanti jam sebelas sudah bisa serah terima kunci apartemen dekat kantor cabang baru kamu. Terus tiap dua minggu sekali di akhir pekan genap, aku sudah buat jadwal buat terbang nengok kamu ke Surabaya. Rapi banget kan hitungannya?"
+"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat Sabtu tanggal dua puluh delapan pagi, jam sebelas sudah bisa terima kunci apartemen dekat cabang baru."
+
+Tanpa menunggu tanggapanku, dia terus mengoceh di telepon tentang rencana jadwal terbang setiap dua minggu sekali di akhir pekan genap untuk menengokku di Surabaya. "Pokoknya semua jadwal kunjungan kita sudah aku susun. Rapi banget kan hitungannya?"
 
 Aku menatap langit-langit kamarku dengan pandangan hampa. Di kepalaku dulu, rencana yang serba terukur seperti ucapan Fajar barusan adalah puncak rasa aman yang paling kuimpikan. Kenyataannya, mendengarkan semua jadwal rapi itu sekarang malah membuatku ingin menutup telinga.
 
@@ -1114,7 +1228,7 @@ Keningku berkerut membaca pesan yang begitu formal dan panjang itu. Aku lalu men
 
 Dari pengeras suara ponselku, keluar suara Nino yang memang agak bindeng seperti anak yang habis menangis lama.
 
-"Selamat malam, Miss Hana... besok kita tetap ketemu di kelas ya, tapi aku izin simpan suara dulu kata Om Bima. Selamat tidur, Miss..."
+"Selamat malam, Miss Hana... besok kita tetap ketemu di kelas ya, tapi aku izin simpan suara dulu. Selamat tidur, Miss..."
 
 Namun tepat satu detik sebelum rekaman pesan suara itu terputus, telingaku menangkap bunyi lembaran kertas yang dibolak-balik dengan cepat di latar belakang, disusul bisikan pelan Bima yang ikut terekam gara-gara lupa menjauhkan mikrofon ponselnya: "Ayo, No, ulangi lagi hafalan kalimat nomor tiga yang baru tadi..."
 
@@ -1132,27 +1246,29 @@ Hana: Baik, Mas Bima. Sampai bertemu di kelas besok sore.
 
 Sejak duduk di kursinya pada pertemuan kelas terakhir kami hari Jumat sore ini, tangan kanan Nino tidak mau keluar sedikit pun dari dalam saku celana pendeknya.
 
-Setiap kali aku melangkah mendekati mejanya di Ruang Kelas Nomor Dua untuk mengambil spidol, bocah delapan tahun itu buru-buru menekan saku celananya lebih dalam, meski mataku masih sempat menangkap sudut kertas putih yang terlipat empat menyembul sedikit dari sana.
+Setiap kali aku melangkah mendekati mejanya di Ruang Kelas Nomor Dua untuk mengambil spidol, bocah delapan tahun itu buru-buru menekan saku celananya lebih dalam. Meski begitu, mataku masih sempat menangkap sudut kertas putih terlipat empat yang menyembul sedikit dari sana.
 
-Sementara itu, Bima yang tadi mengantarnya pukul empat tepat hanya mengangguk sopan dari ambang pintu dengan kedua bola mata yang memerah karena kurang tidur. Sesuai pesannya tadi malam, Bima hanya menitipkan pesan singkat agar hari ini Nino latihan ringan saja, lalu dia langsung duduk di kursi tunggu luar sambil mengetik di laptop tuanya tanpa ikut masuk ke dalam kelas seperti minggu lalu.
+Sementara itu, Bima yang tadi mengantarnya pukul empat tepat hanya mengangguk sopan dari ambang pintu dengan kedua bola mata yang memerah karena kurang tidur. Sesuai pesannya tadi malam, Bima hanya menitipkan pesan singkat agar hari ini Nino latihan ringan saja. Dia lalu langsung duduk di kursi tunggu luar sambil mengetik di laptop tuanya tanpa ikut masuk ke dalam kelas seperti minggu lalu.
 
-"Nino, tenggorokannya masih sakit?" tanyaku lembut sambil duduk di kursiku. "Kalau masih serak, hari ini kita nggak usah latihan teriak-teriak ya. Kita cuma cek urutan posisi berdiri di panggung buat besok pagi saja."
+"Nino, tenggorokannya masih sakit?" tanyaku lembut sambil duduk di kursiku. "Kalau masih serak, hari ini kita nggak usah latihan keras-keras ya. Kita cek posisi berdiri buat besok pagi aja."
 
 Nino langsung menggeleng cepat sambil tersenyum lebar seperti sedang menyimpan rahasia besar.
 
 "Tenggorokanku sudah nggak sakit kok, Miss, cuma kata Om Bima suaranya harus dihemat buat kejutan besok pagi!" ceplos Nino bersemangat, lalu dia langsung menutup mulutnya sendiri dengan kedua tangan sambil melirik ke arah jendela luar tempat pamannya duduk.
 
-"Kejutan apa? Kan besok Nino mau membawakan cerita My Parents yang sudah kita latih dari minggu ketiga," kataku sambil mengerutkan kening dan tersenyum kecil.
+"Kejutan apa? Kan besok Nino mau membawakan cerita My Parents yang sudah kita latih," kataku sambil mengerutkan kening dan tersenyum kecil.
 
 Aku membuka map latihan di mejaku dan mengeluarkan lembar cetak naskah My Parents yang sudah kuberi tanda warna stabilo kuning di setiap jeda kalimatnya.
 
-"Nih, lembar naskah My Parents yang ini besok pagi Miss Hana pegang di samping panggung ya," jelasku sambil memperlihatkan kertas itu kepada Nino. "Jadi kalau besok di depan mikrofon Nino tiba-tiba grogi atau lupa kalimat kedua dan ketiga, Nino tinggal melirik ke arah Miss Hana di pinggir panggung. Nanti Miss Hana kasih kode dari kertas ini."
+"Nih, lembar naskah My Parents ini besok pagi Miss Hana pegang di samping panggung ya," jelasku sambil memperlihatkan kertas itu kepada Nino. "Kalau besok di depan mikrofon Nino tiba-tiba grogi atau lupa kalimatnya, tinggal lirik Miss Hana di pinggir panggung."
 
-"Oke, Miss Hana! Tapi besok aku nggak bakal lupa kok, soalnya semalam aku sudah latihan keras banget sama Om Bima sampai jam sepuluh malam!" sahut Nino sambil menatap kertas bertuliskan My Parents di tanganku dengan senyum rahasia di bibirnya.
+Aku menunjuk baris kalimat yang sudah diberi warna stabilo. "Nanti Miss Hana kasih kode dari kertas ini."
+
+"Oke, Miss Hana! Tapi besok aku nggak bakal lupa kok," sahut Nino sambil menatap kertas bertuliskan My Parents di tanganku dengan senyum rahasia. "Semalam kan aku sudah latihan keras banget sama Om Bima sampai jam sepuluh malam!"
 
 Aku melirik ke arah Bima yang duduk di sofa luar dengan wajah mengantuk. Pantas saja malam tadi di pesan suara ada bunyi kertas latihan dibolak-balik, pikirku di dalam hati. Di kepalaku, mereka pasti hanya sedang berlatih ekstra di rumah demi mengejar kelulusan evaluasi besok pagi.
 
-Empat puluh lima menit pertemuan kedelapan belas itu berjalan begitu cepat. Ketika jam dinding menunjukkan pukul lima kurang lima belas menit dan aku menutup buku catatan cokelatku, hatiku mendadak perih karena sadar bahwa mulai hari Senin depan, kursi murid di seberang mejaku ini akan kembali kosong.
+Empat puluh lima menit pertemuan kedelapan belas itu berjalan begitu cepat. Ketika jam dinding menunjukkan pukul lima kurang lima belas menit, aku menutup buku catatan cokelatku. Hatiku mendadak perih karena sadar bahwa mulai hari Senin depan, kursi murid di seberang mejaku ini akan kembali kosong.
 
 Bima membuka pintu kaca kelas dan berdiri di ambang pintu. "Sudah selesai ya, Miss? Ayo, No, kita harus langsung pulang sore ini."
 
@@ -1162,11 +1278,17 @@ Aku terkesiap kaget.
 
 Kedua lengan kecil Nino melingkar kencang di pinggangku.
 
-"Terima kasih sudah sabar ngajarin aku selama ini ya, Miss Hana," kata Nino dengan suara teredam di bajuku, lalu mendongak menatapku dengan mata bulatnya yang berbinar sungguh-sungguh. "Besok pagi di panggung, Miss Hana harus janji dengerin ceritaku dari awal, terus harus nonton layar videonya sampai benar-benar habis ya! Jangan pergi dulu sebelum videonya mati!"
+"Terima kasih sudah sabar ngajarin aku selama ini ya, Miss Hana," kata Nino dengan suara teredam di bajuku, lalu mendongak menatapku dengan mata bulatnya yang berbinar sungguh-sungguh. "Besok pagi di panggung, Miss Hana janji ya harus dengerin ceritaku dari awal!"
+
+"Iya, pasti Miss Hana dengerin," jawabku sambil mengusap kepalanya.
+
+"Terus harus nonton layar videonya sampai benar-benar habis ya! Jangan pergi dulu sebelum videonya mati!" pintanya lagi penuh penekanan.
 
 Hatiku langsung menghangat haru. Aku mengusap puncak kepala Nino dengan sayang. "Iya, Miss Hana janji bakal berdiri di pinggir panggung dan nonton video Nino sampai detik terakhir."
 
-Di ambang pintu, Bima menatap kami berdua sekilas, lalu berdeham pelan sambil membetulkan tali tas kameranya. "Kami permisi pulang cepat sore ini ya, Miss Hana. Malam ini saya masih harus begadang menyatukan semua rekaman video dan foto buat layar panggung besok pagi. Sampai ketemu besok di aula."
+Di ambang pintu, Bima menatap kami berdua sekilas, lalu berdeham pelan sambil membetulkan tali tas kameranya. "Kami permisi pulang cepat sore ini ya, Miss Hana. Malam ini saya masih harus begadang nyatuin video buat besok pagi."
+
+Dia mengangguk sopan ke arahku sebelum menggandeng keponakannya. "Sampai ketemu besok di aula."
 
 Aku mengangguk pelan menatap punggung Bima dan Nino yang menjauh di lorong, masih mengira sikap terburu-buru Bima sore ini hanyalah caranya untuk segera mengakhiri urusan profesional kami sebagai guru dan wali murid.
 
@@ -1174,11 +1296,11 @@ Aku mengangguk pelan menatap punggung Bima dan Nino yang menjauh di lorong, masi
 
 ## Bab 26: Hari Penampilan
 
-"Han, murid privat lo si Nino nomor urut empat kan? Kok sampai jam sembilan kurang sepuluh menit begini belum daftar ulang di meja depan?"
+"Han, murid privat lo si Nino nomor urut empat kan? Kok jam sembilan kurang sepuluh gini belum daftar ulang?"
 
 Bisikan Meli yang pagi ini bertugas memegang mikrofon pembawa acara langsung membuat tanganku yang menggenggam map naskah bantu My Parents mendadak dingin.
 
-Di dalam Aula Lantai Dua gedung BrightStep English pada Sabtu pagi ini, sekitar empat puluh orang tua murid sudah duduk berderet rapi sambil menyiapkan ponsel untuk merekam penampilan putra-putri mereka di acara tahunan Storytelling Day. Di atas panggung kecil yang dihiasi balon biru dan putih, berdiri satu mikrofon tiang tepat di depan layar proyektor besar.
+Di dalam Aula Lantai Dua gedung BrightStep English pada Sabtu pagi ini, sekitar empat puluh orang tua murid sudah duduk berderet rapi. Mereka sibuk menyiapkan ponsel untuk merekam penampilan putra-putri mereka di acara tahunan Storytelling Day. Di atas panggung kecil yang dihiasi balon biru dan putih, berdiri satu mikrofon tiang tepat di depan layar proyektor besar.
 
 Sebenarnya sejak pukul delapan pagi tadi, ada dua hal yang sudah membuatku gelisah.
 
@@ -1190,25 +1312,29 @@ Aku langsung menoleh ke arah pintu.
 
 Bima melangkah masuk dengan napas sedikit terengah-engah memakai kemeja flanel bersih yang disetrika rapi, meski lingkaran hitam di bawah matanya menandakan dia belum memejamkan mata barang semenit pun semalaman. Namun yang membuat langkahku langsung bergerak menghampiri pintu bukanlah kedatangan Bima semata, melainkan sosok yang sedang didorongnya dengan hati-hati di atas kursi roda.
 
-"Selamat pagi, Mbak Hana. Akhirnya saya bisa ketemu langsung sama guru yang tiap hari diceritain Nino di ruang rawat," sapa perempuan muda berwajah lembut yang duduk di kursi roda itu sambil tersenyum hangat ke arahku. Wajahnya sangat mirip dengan Bima, memakai kardigan rajut hangat dengan bekas plester infus yang baru dilepas dari punggung tangannya.
+"Selamat pagi, Mbak Hana. Akhirnya saya bisa ketemu langsung sama guru yang tiap hari diceritain Nino," sapa perempuan muda berwajah lembut yang duduk di kursi roda itu sambil tersenyum hangat ke arahku. Wajahnya sangat mirip dengan Bima, memakai kardigan rajut hangat dengan bekas plester infus yang baru dilepas dari punggung tangannya.
 
 Di sebelahnya berdiri Mas Hendra yang menggandeng tangan Ibu Bima, sementara Nino berdiri tegap memakai kemeja putih dan dasi kupu-kupu kecil di leher.
 
 "Selamat pagi, Bu, Mas Hendra, Mas Bima... syukurlah akhirnya sampai tepat waktu," ucapku lega sambil menyambut uluran tangan perempuan di kursi roda itu.
 
-"Mbak Hana, kenalkan ini Ratih, kakaknya Bima, ibunya Nino," kata Ibu Bima sambil menggenggam tanganku dengan hangat. "Alhamdulillah kondisinya sudah jauh membaik minggu ini, makanya dokter mengizinkan keluar rumah sakit dua jam pagi ini khusus buat nonton Nino tampil."
+"Mbak Hana, kenalkan ini Ratih, kakaknya Bima, ibunya Nino," kata Ibu Bima sambil menggenggam tanganku dengan hangat. "Alhamdulillah kondisinya sudah jauh membaik, makanya dokter mengizinkan keluar dua jam pagi ini buat nonton Nino."
 
-"Terima kasih banyak sudah sabar membimbing Nino selama enam minggu ini ya, Mbak Hana," tambah Mbak Ratih tulus.
+"Terima kasih banyak sudah sabar membimbing Nino dari awal sampai berani tampil ya, Mbak Hana," tambah Mbak Ratih tulus.
 
 "Sama-sama, Mbak Ratih, saya senang sekali Mbak bisa hadir pagi ini," jawabku.
 
-Ibu Bima menoleh menatap putra bungsunya dengan tatapan iba sambil mengelus lengan Bima. "Kasihan ini si Bima, Mbak Hana, semalaman suntuk nggak tidur sama sekali di ruang tengah. Laptopnya baru mati jam empat subuh tadi gara-gara ngedit ulang video buat panggungnya Nino."
+Ibu Bima menoleh menatap putra bungsunya dengan tatapan iba sambil mengelus lengan Bima. "Kasihan ini si Bima, Mbak Hana, semalaman nggak tidur. Laptopnya baru mati jam empat subuh gara-gara ngedit video Nino."
 
 "Mas Bima baru selesai ngedit jam empat subuh tadi?" tanyaku kaget menatap mata merah Bima.
 
-Bima mengusap tengkuknya sambil mengeluarkan sebuah flash disk berwarna hitam dari saku kemejanya. "Iya, Miss Hana, ada perombakan mendadak yang harus dikebut semalaman. Untung keburu selesai diekspor jam empat subuh tadi sebelum berangkat jemput Mbak Ratih ke rumah sakit."
+Bima mengusap tengkuknya sambil mengeluarkan sebuah flash disk berwarna hitam dari saku kemejanya. "Iya, Miss Hana, ada perombakan mendadak yang harus dikebut semalaman. Untung selesai pas jam empat subuh sebelum jemput Mbak Ratih."
 
-Bima melirik meja operator teknis yang berada di pojok kiri aula. "Saya serahkan flash disk videonya ke meja operator dulu ya, Miss. Saking mepetnya waktu subuh tadi, hasil video gabungannya bahkan belum sempat saya putar ulang dari awal sampai ujung. Doakan nggak salah pencet ya."
+Bima melirik meja operator teknis yang berada di pojok kiri aula. "Saya serahkan flash disk ini ke operator dulu ya, Miss. Saking mepetnya subuh tadi, videonya belum sempat saya putar ulang."
+
+"Semoga lancar ya, Mas," kataku tulus.
+
+"Doakan nggak salah pencet ya," balas Bima sambil nyengir tipis.
 
 Aku mengangguk memperhatikan Bima berlari kecil menghampiri staf operator laptop proyektor, sementara Mas Hendra menempatkan kursi roda Mbak Ratih di barisan depan. Lima menit kemudian lampu aula diredupkan, peserta pertama sampai ketiga tampil bergantian, hingga akhirnya Meli maju ke tengah panggung membacakan urutan keempat yang membuat detak jantungku melonjak: "Peserta keempat kita pagi ini, mari kita beri tepuk tangan paling meriah untuk ananda Nino!"
 
@@ -1228,25 +1354,37 @@ Setelah menatap ibunya yang duduk di kursi roda barisan depan dan melirik Bima y
 
 Nino menarik napas dalam-dalam, menegakkan bahu kecilnya, lalu berbicara ke mikrofon dengan suara bahasa Inggris yang begitu lantang dan jernih ke seluruh penjuru aula.
 
-"Good morning, everyone. My name is Nino, and I am eight years old. Today, I will not read the old story on the paper. Today, I want to tell you about The Two People Who Taught Me to Speak: Uncle Bima and Miss Hana!" buka Nino tanpa gemetar sedikit pun.
+"Good morning, everyone. My name is Nino, and I am eight years old," buka Nino tanpa gemetar sedikit pun. "Today, I will not read the old story on the paper."
 
-Aku langsung terpaku di tepi panggung. Lembar naskah My Parents di tanganku perlahan turun ke sisi tubuhku. Di kursi penilai, Bu Maya langsung menegakkan duduknya dengan wajah terkejut, sementara aku menoleh cepat ke arah meja operator tempat Bima berdiri menatap keponakannya dengan senyum lembut.
+Dia mengangkat wajahnya menatap seluruh penonton. "I want to tell you about The Two People Who Taught Me to Speak: Uncle Bima and Miss Hana!"
 
-"Two months ago, my mother got very sick in the hospital, and I was very scared to speak English at school because my friends laughed at me," lanjut Nino dalam bahasa Inggris sederhana yang diucapkannya dengan sepenuh hati.
+Aku langsung terpaku di tepi panggung. Lembar naskah My Parents di tanganku perlahan turun ke sisi tubuhku. Di kursi penilai, Bu Maya langsung menegakkan duduknya dengan wajah terkejut. Aku menoleh cepat ke arah meja operator tempat Bima berdiri menatap keponakannya dengan senyum lembut.
+
+"When my mother got very sick in the hospital, I was very scared to speak at school," lanjut Nino dalam bahasa Inggris sederhana yang diucapkannya dengan sepenuh hati. "Because my friends laughed at me."
 
 Di kursi roda barisan depan, Mbak Ratih langsung menutup mulutnya dengan tangan sambil meneteskan air mata haru, sementara Mas Hendra merangkul bahu istrinya erat-erat.
 
-"Every day, my Uncle Bima works very hard taking pictures and videos until morning so I can go to school," kata Nino lantang sambil menunjuk ke arah Bima di pojok ruangan. "Even when Uncle Bima is very tired and sleepy on the sofa, he always makes funny jokes so my grandmother and I never feel sad."
+"Every day, my Uncle Bima works very hard taking pictures and videos until morning," kata Nino lantang sambil menunjuk ke arah Bima di pojok ruangan. "Even when Uncle Bima is sleepy on the sofa, he always makes funny jokes for my grandmother and me," tambahnya disambut senyum hangat para penonton.
 
 Seluruh orang tua murid di dalam aula terdiam menyimak setiap kalimat bocah delapan tahun itu dalam keheningan yang mengharukan. Nino kemudian memutar tubuhnya sedikit menghadap ke arahku yang berdiri mematung di tepi panggung.
 
-"And the second person is my teacher, Miss Hana," lanjut Nino sambil tersenyum tulus ke arahku. "On the first day, I did not want to speak at all. Miss Hana loves her brown schedule book very much, and she has many alarms on her phone. But for me, Miss Hana closed her guidebook. She sat on the green carpet with me to guess the green dinosaur, she ate chocolate ice cream with me in the rain, and she turned off her phone alarm so we could eat meatballs together."
+"And the second person is my teacher, Miss Hana," lanjut Nino sambil tersenyum tulus ke arahku. "On the first day, I did not want to speak at all."
+
+Nino melirik buku catatan bersampul cokelat yang masih terselip di mapku. "Miss Hana loves her brown schedule book and her phone alarms. But for me, she closed her guidebook," ucapnya jernih ke arah mikrofon.
+
+Tanganku yang memegang map bergetar pelan.
+
+"She sat on the green carpet with me to guess the green dinosaur," ucap Nino lancar dengan mata berbinar. "She ate chocolate ice cream with me in the rain, and she turned off her alarm to eat meatballs together."
 
 Setetes air mata hangat langsung lolos jatuh membasahi pipiku tanpa sempat kutahan.
 
 Di depan mikrofon, suara Nino mulai sedikit bergetar saat dia menatap lembaran kertas kusut di tangannya, lalu beralih menatapku dengan mata bulatnya yang berkaca-kaca.
 
-"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Dua hari yang lalu aku dengar Miss Hana mau pindah kerja jauh ke Surabaya. Aku nangis minta tolong sama Om Bima buat ganti seluruh ceritaku, dan aku hafalkan teks bahasa Inggris yang baru ini dua malam sampai suaraku serak... soalnya kalau nanti Miss Hana beneran pergi ke Surabaya, aku mau Miss Hana tahu kalau aku sudah berani bicara bahasa Inggris, dan aku mau Miss Hana selalu ingat aku sama Om Bima."
+"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Kemarin aku dengar Miss Hana mau pindah kerja jauh ke Surabaya," lanjutnya sambil menatapku lurus.
+
+Nino menyeka hidungnya yang mulai memerah dengan punggung tangan. "Aku nangis minta tolong Om Bima buat ganti ceritaku, terus aku hafalkan teks baru ini sampai suaraku serak..."
+
+Suara bocah delapan tahun itu bergetar menahan tangis di depan mikrofon. "Soalnya kalau Miss Hana pergi ke Surabaya, aku mau Miss Hana selalu ingat aku sama Om Bima."
 
 Air mataku pecah mengalir deras di pipi tepat saat tepuk tangan gemuruh dari empat puluh orang tua murid serta para guru langsung meledak memenuhi seluruh ruangan aula.
 
@@ -1262,7 +1400,7 @@ Namun begitu gambar pertama muncul memenuhi layar besar, napasku langsung tertah
 
 Gambar pertama yang terpampang di layar bukanlah pot tanaman lidah mertua yang berdebu di lobi depan seperti dugaanku di minggu pertama dulu, melainkan pantulan kaca pintu lobi pada hari Rabu yang memperlihatkan diriku sedang berjongkok membetulkan tali sepatu Nino dengan senyum kecil yang bahkan tidak kusadari pernah kulakukan.
 
-Gambar kedua berganti di layar. Bukan poster dinding atau rak mainan kayu di lorong luar, melainkan potret dari balik kaca Ruang Kelas Nomor Dua saat aku duduk bersila di atas karpet hijau bersama Nino, tertawa lepas sambil bertepuk tangan waktu Nino berhasil mengucapkan kata green dinosaur untuk pertama kalinya.
+Gambar kedua berganti di layar. Bukan poster dinding atau rak mainan kayu di lorong luar, melainkan potret dari balik kaca Ruang Kelas Nomor Dua. Di foto itu, aku sedang duduk bersila di atas karpet hijau bersama Nino, tertawa lepas waktu Nino berhasil mengucapkan kata green dinosaur.
 
 Gambar ketiga berubah menjadi potongan video pendek. Bukan rekaman talang air hujan di pinggir atap teras seperti alasan Bima waktu itu, melainkan rekaman wajahku dari sudut samping yang sedang menggigit es krim potong cokelat sambil tertawa membersihkan noda es krim di hidung Nino di tengah derasnya hujan Kebayoran Baru.
 
@@ -1274,7 +1412,7 @@ Ternyata selama enam minggu ini, setiap kali aku membatin bahwa Bima kurang kerj
 
 Layar proyektor kemudian menampilkan deretan video latihan Nino di taman hingga akhirnya perlahan meredup menjadi latar hitam dengan tulisan huruf putih sederhana di tengah layar: Thank You.
 
-Detik itu juga, seluruh orang tua murid, Bu Maya, Meli, dan para pengajar di dalam aula langsung berdiri memberikan tepuk tangan meriah karena mengira tayangan video sudah selesai. Di pojok kiri aula dekat meja operator, Bima mengembuskan napas panjang dengan wajah lega sambil ikut bertepuk tangan.
+Detik itu juga, seluruh orang tua murid, Bu Maya, Meli, dan para pengajar di dalam aula langsung berdiri memberikan tepuk tangan meriah karena mengira tayangan video sudah selesai. Di pojok kiri aula dekat meja operator, Bima tersenyum lega sambil ikut bertepuk tangan.
 
 Namun tepat tiga detik kemudian, di saat tepuk tangan penonton masih bergemuruh dan belum ada yang menekan tombol berhenti di laptop operator, layar proyektor besar di belakang panggung tiba-tiba berkedip dan menyala kembali!
 
@@ -1288,7 +1426,7 @@ Mata seluruh penonton di aula langsung membulat ke arah layar, sementara jantung
 
 Di dalam rekaman video hasil ulah Nino waktu aku pergi membeli air mineral di kios depan taman itu, terpampang jelas sosok Bima yang berdiri di bawah pohon kamboja sambil memungut setangkai bunga kamboja merah muda yang baru jatuh di dahan rendah. Di layar, Bima menatap bunga itu dengan senyum paling lembut dan penuh sayang, bahkan sempat berlatih mengulurkan bunga itu ke depan sambil bergumam pelan, "Hana, ini buat kamu..."
 
-Namun detik berikutnya di dalam video, suara bisikan Nino kembali menahan tawa: "Eh, Miss Hana sudah jalan balik dari warung air! Loh, kok bunganya nggak jadi dikasih Om? Kok malah dimasukin ke kantong kemeja?"
+Namun detik berikutnya di dalam video, suara bisikan Nino kembali menahan tawa: "Eh, Miss Hana sudah jalan balik! Loh, kok bunganya nggak jadi dikasih Om? Kok malah dimasukin ke kantong kemeja?"
 
 Dan persis seperti yang kulihat di taman waktu itu, video di layar memperlihatkan Bima yang mendadak panik saat melihatku berjalan mendekat dari kejauhan, lalu secepat kilat menjejalkan bunga kamboja merah muda itu ke dalam saku dada kemeja flanelnya dengan kedua telinga yang memerah!
 
@@ -1298,9 +1436,9 @@ Selama dua detik aula hening, lalu sedetik kemudian tawa hangat dan gemuruh tepu
 
 ## Bab 29: Pengakuan
 
-"Bahkan lima orang tua murid dari kelas reguler barusan menanyakan ke saya bagaimana caranya supaya anak mereka bisa diajar dengan metode cerita bergambar dan video seperti Nino!"
+"Lima orang tua murid reguler barusan sampai menanyakan metode cerita bergambar dan video yang kamu pakai buat Nino!"
 
-Bu Maya menjabat tanganku erat-erat di dekat tangga panggung begitu acara Storytelling Day resmi ditutup pada pukul sebelas siang.
+Bu Maya menjabat tanganku erat-erat di dekat tangga panggung begitu acara Storytelling Day resmi ditutup pada pukul sebelas siang. Bahkan kelima orang tua murid itu meminta nomor ponselku karena tertarik mendaftarkan anak-anak mereka ke kelas serupa.
 
 "Terima kasih banyak, Bu Maya. Itu semua juga berkat kerja keras Nino dan Mas Bima," jawabku tulus.
 
@@ -1308,19 +1446,19 @@ Setelah keluarga Mas Hendra dan Ibu Bima berpamitan lebih dulu di lobi untuk men
 
 Namun di lorong luar yang lengang itu, langkahku dihadang oleh Fajar yang berdiri bersandar di dinding sambil memegang buket mawar merah formalnya dengan wajah masam.
 
-"Acara evaluasinya sudah beres kan, Han? Ayo kita langsung turun ke mobil sekarang, kita makan siang sambil bahas jadwal keberangkatan kamu ke Surabaya," kata Fajar tanpa basa-basi.
+"Evaluasinya sudah beres kan, Han? Ayo turun ke mobil sekarang, kita makan siang sambil bahas jadwal keberangkatanmu ke Surabaya," kata Fajar tanpa basa-basi.
 
 "Kenapa buru-buru banget, Jar?" tanyaku tenang.
 
-"Aku cuma nggak suka lihat orang-orang di aula tadi heboh menertawakan video tidak profesional buatan paman muridmu itu," dengus Fajar sambil melirik ke arah pintu aula. "Untung saja mulai bulan depan kamu sudah pindah ke Surabaya. Orang yang hidupnya berantakan dan kerjanya serabutan begitu jelas nggak selevel sama rencana masa depan kita, Hana."
+"Aku cuma nggak suka lihat orang-orang di aula tadi heboh menertawakan video tidak profesional buatan paman muridmu itu," dengus Fajar sambil melirik ke arah pintu aula. "Untung bulan depan kamu sudah pindah ke Surabaya. Orang yang hidupnya serabutan begitu jelas nggak selevel sama rencana kita."
 
 Mendengar kalimat merendahkan itu keluar dari mulut Fajar, sisa keraguan terakhir di kepalaku langsung bersih tak berbekas.
 
-"Kita nggak akan ke mana-mana, Fajar," kataku tegas. "Terima kasih buat bunga mawarnya, tapi tolong simpan saja. Mulai hari ini, jangan pernah menjemputku lagi di kantor atau mengatur jadwal hidupku. Aku menolak ajakan kamu untuk kembali."
+"Kita nggak akan ke mana-mana, Fajar," kataku tegas. "Simpan saja bunga mawarmu. Mulai hari ini, jangan pernah menjemputku atau mengatur jadwal hidupku lagi. Aku menolak ajakanmu."
 
-Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Sabtu lalu di Senopati kan aku sudah minta maaf dan bilang kalau aku merindukan hidup kita yang teratur!"
+Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Di Senopati kemarin kan aku sudah minta maaf dan bilang kangen hidup kita yang teratur!"
 
-"Kamu cuma merindukan jadwal yang rapi di atas kertas, Jar, bukan merindukan aku," jawabku lugas. "Dan aku tidak mau lagi menghabiskan hidupku bersama orang yang menganggap remeh ketulusan hati orang lain. Selamat siang, Fajar."
+"Kamu cuma merindukan jadwal yang rapi di atas kertas, Jar, bukan merindukan aku," jawabku lugas. "Dan aku tidak mau lagi bersama orang yang menganggap remeh ketulusan orang lain. Selamat siang, Fajar."
 
 Tanpa menunggu Fajar membalas, aku berbalik melangkah meninggalkannya menuju balkon samping lantai dua yang menghadap ke pepohonan jalanan Kebayoran Baru.
 
@@ -1328,23 +1466,29 @@ Begitu aku mendorong pintu kaca balkon samping, langkahku terhenti.
 
 Di dekat pagar besi balkon yang teduh itu, Bima sedang berdiri sendirian sambil mengusap tengkuknya yang memerah, sementara kamera hitam tua peninggalan ayahnya tergantung di dadanya.
 
-"Eh... Hana," sapa Bima sambil berdeham canggung begitu menoleh ke arahku. "Keluarga sama Nino baru saja turun duluan ke lobi buat nganter Mbak Ratih balik ke rumah sakit. Saya masih ngumpulin nyawa di sini gara-gara malu mau keluar aula."
+"Eh... Hana," sapa Bima sambil berdeham canggung begitu menoleh ke arahku. "Keluarga sama Nino baru turun duluan buat nganter Mbak Ratih. Saya masih ngumpulin nyawa di sini gara-gara malu."
 
 Aku melangkah mendekat dan berhenti tepat di sebelahnya di tepi pagar balkon, menahan senyum melihat daun telinganya yang masih merah.
 
-"Jadi waktu aku beli air mineral di Taman Ayodya minggu lalu, yang buru-buru dimasukkan ke saku kemeja flanel itu beneran bunga kamboja buat aku ya, Mas?" godaku pelan.
+"Jadi waktu di Taman Ayodya kemarin, yang buru-buru dimasukkan ke saku flanel itu beneran bunga kamboja buat aku, Mas?" godaku pelan.
 
-Bima memejamkan matanya sesaat sambil tertawa pasrah dan mengusap wajahnya. "Sumpah demi Tuhan, Hana, saya beneran nggak tahu kalau waktu kamu ke kios air itu si Nino diam-diam nyalain tombol rekam dari balik bangku taman. Subuh tadi waktu saya gabungin semua klip video dari kartu memori, mata saya sudah tinggal lima watt, makanya klip paling buntut itu lupa nggak kepotong."
+Bima memejamkan matanya sesaat sambil tertawa pasrah dan mengusap wajahnya. "Sumpah, Hana, saya beneran nggak tahu kalau pas kamu ke kios air itu si Nino diam-diam nyalain tombol rekam."
 
-Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang sejak di taman itu Mas Bima punya perasaan yang sama kayak aku, terus kenapa hari Rabu lalu waktu aku tanya soal Surabaya, Mas Bima malah nyuruh aku pergi?"
+Dia menepuk pelan dahinya yang masih menyisakan gurat kantuk. "Subuh tadi pas gabungin semua klip video, mata saya sudah tinggal lima watt, makanya klip paling buntut lupa kepotong," tambahnya sambil meringis malu.
 
-Senyum gugup di wajah Bima perlahan berganti menjadi tatapan yang sangat dalam dan jujur. Dia berbalik menghadapku sepenuhnya.
+Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang Mas Bima punya perasaan yang sama, kenapa kemarin pas kutanya soal Surabaya malah nyuruh aku pergi?"
 
-"Karena waktu hari Senin saya lihat Fajar jemput kamu di lobi dengan pakaian rapi, terus hari Rabu kamu pegang map biru promosi yang sudah kamu perjuangkan bertahun-tahun, saya sadar diri, Hana," kata Bima dengan suara rendah. "Keadaan hidup saya sekarang masih berat. Saya masih harus bantu pengobatan Ibu sama Mbak Ratih, dan kerjaan saya cuma dari satu kamera tua ini. Saya takut kalau saya nahan kamu di Jakarta waktu itu, saya cuma jadi orang egois yang menghalangi masa depan kamu. Saya rela melepas kamu pergi ke Surabaya, Hana... asalkan di sana kamu benar-benar bahagia."
+Senyum gugup di wajah Bima perlahan berganti menjadi tatapan yang sangat dalam dan jujur. Dia berbalik menghadapku sepenuhnya. Teringat pertemuannya dengan Fajar yang berpakaian rapi di lobi hari Senin dan map biru promosi yang kupegang hari Rabu, Bima mengakui bahwa saat itu dia merasa harus tahu diri.
 
-Mataku kembali berkaca-kaca mendengar pengakuan itu. Aku menggeleng pelan di depannya.
+"Keadaan hidup saya sekarang masih berat, Hana. Saya masih bantu pengobatan Ibu sama Mbak Ratih bermodal kamera tua ini," kata Bima dengan suara rendah. "Saya takut kalau nahan kamu di Jakarta, saya cuma jadi orang egois yang menghalangi masa depan kamu."
 
-"Mas Bima tahu nggak kenapa dari hari Rabu lalu aku nggak sanggup tanda tangan di map biru itu?" kataku jujur sambil menatap lurus ke dalam matanya. "Selama empat tahun aku hidup diatur lima belas alarm HP, aku pikir rasa aman itu sama dengan bahagia. Padahal baru sejak ada Mas Bima sama Nino, aku akhirnya tahu rasanya tertawa lepas makan es krim pas hujan, berani mematikan alarm ponselku sendiri, dan bisa melupakan kerasnya dunia. Aku bahagianya di sini, Mas... kalau ada kamu di dekatku."
+Dia menatap mataku dengan sorot penuh kasih sayang. "Saya rela melepas kamu ke Surabaya, Hana... asalkan di sana kamu benar-benar bahagia."
+
+Mataku kembali berkaca-kaca mendengar pengakuan itu. Aku menggeleng pelan di depannya. Dulu selama bertahun-tahun hidup diatur lima belas alarm ponsel, aku selalu mengira rasa aman itu sama dengan bahagia.
+
+"Mas Bima tahu nggak kenapa dari kemarin aku nggak sanggup tanda tangan di map biru itu?" kataku jujur sambil menatap lurus ke dalam matanya. "Baru sejak ada Mas Bima sama Nino, aku tahu rasanya tertawa lepas makan es krim pas hujan."
+
+Air mataku menetes hangat saat aku tersenyum menatapnya. "Bersama Mas Bima, aku berani mematikan alarm ponselku sendiri. Aku bahagianya di sini, Mas... kalau ada kamu di dekatku."
 
 Mata Bima melebar menatapku, lalu dia mengulurkan tangannya menggenggam jemariku erat-erat di atas pagar balkon siang itu.
 
@@ -1360,35 +1504,41 @@ Di atas nama lengkapku, kolom tanda tangan persetujuan pengangkatan Kepala Akade
 
 Aku menegakkan punggungku di kursi seberang meja kerja Kepala Cabang itu dan menatap atasanku dengan penuh hormat.
 
-"Maafkan saya, Bu Maya. Setelah saya pikirkan matang-matang selama akhir pekan lalu, saya memutuskan untuk mengembalikan Surat Keputusan itu dan tidak mengambil penugasan promosi ke cabang Surabaya," kataku lugas dan mantap.
+"Maafkan saya, Bu Maya. Setelah saya pikirkan matang-matang, saya memutuskan untuk mengembalikan Surat Keputusan ini," kataku lugas dan mantap. "Saya memilih tidak mengambil penugasan promosi ke cabang Surabaya."
 
 Ruangan berpendingin udara itu mendadak hening selama beberapa detik.
 
-Bu Maya menutup map biru itu perlahan, lalu menatapku dengan sorot mata tegas seperti hari Rabu minggu lalu.
+Bu Maya menutup map biru itu perlahan, lalu menatapku dengan sorot mata tegas seperti minggu lalu.
 
-"Hana, kamu tidak sedang membuat keputusan emosional sesaat kan? Kamu masih ingat aturan manajemen pusat yang saya sampaikan hari Rabu lalu? Kalau kamu menolak Surat Keputusan Surabaya ini sekarang, maka jatah promosi kamu di BrightStep English otomatis hangus selamanya. Kursi itu akan langsung saya alihkan ke kandidat cabang Kelapa Gading siang ini juga, dan selama kamu tetap bekerja di cabang Jakarta, kamu tidak akan pernah bisa mendapatkan kenaikan jabatan lagi ke depannya," tanya Bu Maya serius.
+"Hana, kamu tidak sedang membuat keputusan emosional sesaat kan? Kamu masih ingat konsekuensi aturan pusat yang saya sampaikan?" tanya Bu Maya serius. "Kalau kamu menolak sekarang, jatah promosimu hangus selamanya dan kursinya langsung saya alihkan ke kandidat cabang Kelapa Gading."
 
-"Saya sangat ingat dan sadar penuh akan risiko itu, Bu Maya," jawabku tanpa keraguan sedikit pun di suaraku.
+Beliau menatapku tajam untuk memastikan aku tidak salah dengar. "Dan selama kamu tetap di cabang Jakarta ini, posisimu tidak akan pernah bisa naik jabatan lagi."
 
-Aku lalu menggeser selembar amplop putih bersih yang baru kuketik tadi malam di kamar kosku ke atas meja Bu Maya, tepat di sebelah map biru tadi.
+"Saya sangat ingat dan sadar penuh akan risiko itu, Bu Maya," jawabku tanpa keraguan sedikit pun di suaraku, lalu menegakkan dudukku di hadapan beliau.
 
-"Dan justru karena saya tidak ingin membebani cabang ini, selain mengembalikan map biru promosi Surabaya, pagi ini saya juga ingin menyerahkan surat pengunduran diri saya secara baik-baik terhitung mulai akhir bulan ini, sesuai aturan pemberitahuan tiga puluh hari kerja," lanjutku tenang.
+Aku lalu menggeser selembar amplop putih bersih yang baru kuketik tadi malam di kamar kosku ke atas meja Bu Maya, tepat di sebelah map biru tadi. Sesuai aturan pemberitahuan tiga puluh hari kerja yang berlaku di perusahaan kami, surat pengunduran diriku sudah kusiapkan secara resmi terhitung mulai akhir bulan ini agar manajemen punya waktu cukup mencari pengajar pengganti untuk kelas regulerku.
 
-"Kamu mengundurkan diri dari BrightStep English? Tapi kenapa, Hana? Kamu ini pengajar paling teratur dan paling disiplin yang pernah saya punya selama empat tahun terakhir!" seru Bu Maya dengan mata melebar terkejut.
+"Dan supaya tidak membebani cabang ini, pagi ini saya juga ingin menyerahkan surat pengunduran diri saya secara baik-baik, Bu," lanjutku tenang.
+
+"Kamu mengundurkan diri dari BrightStep English? Tapi kenapa, Hana?" seru Bu Maya dengan mata melebar terkejut. "Kamu ini pengajar paling teratur dan paling disiplin yang pernah saya punya di cabang ini!"
 
 Aku tersenyum hangat sambil menyentuh buku catatan bersampul cokelat yang ada di pangkuanku. Di kepalaku sebulan yang lalu, keluar dari pekerjaan tetap yang sudah kujalani empat tahun adalah hal paling nekat yang tidak mungkin berani kulakukan. Kenyataannya, pagi ini dadaku justru lapang sekali.
 
-"Selama empat tahun mengajar di sini, saya belajar banyak sekali dari Bu Maya," kataku tulus. "Tapi lewat kelas privat Nino selama enam minggu kemarin, saya baru menemukan cara mengajar yang benar-benar membuat hati saya hidup, Bu. Saya memutuskan untuk mengambil langkah di luar buku rencana lama saya. Saya mau membuka tempat kursus bahasa Inggris anak sendiri secara mandiri di Jakarta Selatan, khusus menggunakan metode cerita bergambar dan video keseharian seperti yang saya terapkan pada Nino."
+"Saya belajar banyak sekali dari Bu Maya di sini," kataku tulus. "Tapi lewat kelas privat Nino kemarin, saya baru menemukan cara mengajar yang benar-benar membuat hati saya hidup, Bu."
 
-Aku teringat percakapanku dengan lima orang tua murid di aula hari Sabtu lalu setelah acara panggung selesai. "Kebetulan lima orang tua murid yang hadir menonton penampilan Nino hari Sabtu lalu sudah menghubungi saya, soalnya mereka ingin mendaftarkan anak-anak mereka bersama teman-teman sekolahnya ke tempat kursus baru yang akan saya buka bulan depan."
+Aku menatap Bu Maya dengan mata berbinar yakin. "Saya mau membuka tempat kursus bahasa Inggris anak sendiri secara mandiri di Jakarta Selatan."
+
+"Pakai metode cerita bergambar dan video keseharian seperti waktu mengajar Nino?" tanya Bu Maya mulai menangkap arah rencanaku.
+
+"Betul, Bu. Kebetulan lima orang tua murid yang menonton penampilan Nino kemarin sudah menghubungi saya," jawabku sambil tersenyum. "Mereka ingin mendaftarkan anak-anak mereka ke tempat kursus baru yang akan saya buka bulan depan."
 
 Bu Maya terdiam lama menatap wajahku, mengamati ketenangan dan keyakinan yang dulu tidak pernah ada saat aku hanya mengejar angka evaluasi di atas kertas.
 
 Perlahan, raut keras di wajah atasanku itu melunak. Bu Maya tersenyum tulus sambil mengulurkan tangannya ke seberang meja.
 
-"Saya kehilangan salah satu guru terbaik saya hari ini," kata Bu Maya hangat sambil menjabat tanganku erat. "Tapi sebagai sesama pendidik, saya bangga melihat kamu akhirnya berani melangkah mengejar impianmu sendiri, Hana. Semoga tempat kursus barumu nanti sukses besar."
+"Saya kehilangan salah satu guru terbaik saya hari ini," kata Bu Maya hangat sambil menjabat tanganku erat. "Tapi sebagai sesama pendidik, saya bangga kamu berani mengejar impianmu sendiri, Hana. Semoga tempat kursus barumu sukses besar," ucap beliau tulus sambil menepuk punggung tanganku.
 
-Begitu aku keluar dari ruangan Bu Maya pagi itu tanpa map biru di tanganku, langkah kakiku menuruni tangga gedung langsung bergegas cepat karena di teras bawah, Bima sudah menunggu untuk menemaniku survei tempat kursus baruku di Cipete.
+Begitu aku keluar dari ruangan Bu Maya pagi itu tanpa map biru di tanganku, langkah kakiku menuruni tangga gedung langsung bergegas cepat karena di teras bawah, Bima sudah menunggu sambil menenteng kamera tuanya untuk menemaniku survei tempat kursus baruku di Cipete.
 
 ---
 
@@ -1412,19 +1562,25 @@ Nino langsung mencuci tangannya di keran halaman lalu menyambar pisang goreng de
 
 Aku mengambil selembar tisu bersih, lalu mengulurkan tanganku mengusap bercak cat putih yang menempel di pipi kiri Bima.
 
-"Ruangannya sudah siap seratus persen buat kelas perdana hari Sabtu depan, Bu Kepala Sekolah. Kalau lihat tempat sebagus ini sekarang, rasanya masih kayak mimpi ya, padahal dua minggu lalu kamu baru saja melepas jabatan Kepala Akademik di Surabaya," kata Bima sambil menatapku dengan senyum hangat setelah jemariku selesai membersihkan pipinya.
+"Ruangannya sudah siap seratus persen buat kelas perdana hari Sabtu depan, Bu Kepala Sekolah," kata Bima sambil menatapku dengan senyum hangat setelah jemariku selesai membersihkan pipinya. "Kalau lihat tempat sebagus ini sekarang, rasanya masih kayak mimpi ya."
 
 Aku menarik buku catatan bersampul cokelatku yang tergeletak di samping nampan, lalu membuka halaman belakang tempat deretan catatan tabunganku selama empat tahun tertulis rapi sebelum akhirnya ditutup dengan satu baris pengeluaran besar: Modal Rumah Belajar Langkah Kecil.
 
-Aku menatap buku cokelat itu sambil tersenyum lembut, lalu menoleh menatap Bima.
+Dulu waktu batal tunangan karena dibilang terlalu kaku seperti panitia studi tur, ditambah saat awal mengenal Bima yang begitu santai, aku sempat membenci sifatku sendiri yang serba terjadwal. Aku sempat mengira sifatku yang saklek pada catatan dan pengingat tanggal dua puluh lima itu cuma bikin orang lain lelah.
 
-"Jujur ya, Mas, waktu enam bulan lalu aku batal tunangan gara-gara dibilang hidupku terlalu teratur kayak panitia studi tur, terus waktu awal kenal Mas Bima yang santai banget, aku sempat benci sama sifat diriku sendiri," akuiku dengan suara tenang dari lubuk hatiku. "Aku sempat mikir jangan-jangan sifatku yang terlalu saklek sama jadwal dan apa-apa harus dicatat ini memang buruk dan cuma bikin orang lain capek."
+Namun menatap buku cokelat itu sore ini membuatku tersenyum lembut ke arah Bima.
+
+"Jujur ya, Mas, dulu aku sempat benci sama sifatku sendiri yang apa-apa harus dicatat dan dijadwal," akuiku dengan suara tenang dari lubuk hatiku. "Aku sempat mikir jangan-jangan sifatku yang terlalu teratur ini memang buruk."
 
 Bima mendengarkan ucapanku dengan saksama sambil memegang gelasnya.
 
-"Tapi hari ini, waktu aku melihat ruang kelas ini berdiri dari hasil keringatku sendiri, aku sadar satu hal, Mas," lanjutku sambil menepuk pelan sampul buku catatan cokelatku. "Ternyata sifatku yang terlalu teratur dan disiplin itu ada hasilnya juga. Kalau selama empat tahun kemarin aku nggak cerewet memasang pengingat tiap tanggal dua puluh lima dan nggak disiplin menabung sedikit demi sedikit, nggak mungkin hari ini aku punya tabungan yang cukup buat berani ambil risiko melepas promosi Surabaya dan membuka tempat kursus impianku sendiri di sini. Jadi ternyata, menjadi orang yang teratur itu nggak selamanya buruk."
+"Tapi hari ini, waktu melihat ruang kelas ini berdiri dari hasil tabunganku sendiri, aku sadar satu hal, Mas," lanjutku sambil menepuk pelan sampul buku catatan cokelatku. "Kalau dulu aku nggak cerewet memasang pengingat tanggal dua puluh lima, nggak mungkin hari ini tabunganku cukup buat modal."
 
-"Memang nggak pernah buruk, Hana," sahut Bima lembut sambil meletakkan gelasnya dan menggenggam tanganku yang memegang buku cokelat itu. "Dari awal saya nggak pernah pengin mengubah kamu jadi orang yang berantakan kayak saya. Kedisiplinan kamu itu justru kekuatan kamu yang paling hebat. Kamu cuma butuh sedikit ruang buat bernapas dan menikmati hari ini, selebihnya kamu sudah sempurna dengan caramu sendiri."
+Aku menatap deretan kursi kayu kecil di dalam paviliun kami dengan rasa syukur. "Ternyata, menjadi orang yang teratur itu nggak selamanya buruk," gumamku sambil mengelus sampul bukuku.
+
+"Memang nggak pernah buruk, Hana," sahut Bima lembut sambil meletakkan gelasnya dan menggenggam tanganku yang memegang buku cokelat itu. "Dari awal saya nggak pernah pengin mengubah kamu jadi orang yang berantakan kayak saya."
+
+Jemarinya mengusap punggung tanganku dengan hangat. "Kedisiplinan kamu itu justru kekuatan kamu yang paling hebat. Kamu cuma butuh sedikit ruang buat bernapas dan menikmati hari ini," katanya tulus di bawah teduhnya teras sore itu.
 
 Aku tersenyum menatap genggaman tangan Bima di atas buku cokelatku, sudah tidak sabar menantikan hari Sabtu depan saat ruang kelas baru kami akhirnya dipenuhi suara murid-murid pertama.
 
@@ -1438,11 +1594,11 @@ Aku menunjuk layar televisi di dinding samping kelas yang sedang memutar video k
 
 "The orange cat is sleepy!" seru Nino paling kencang sebagai asisten cilikku pada sesi kelas perdana Rumah Belajar Langkah Kecil hari Sabtu sore ini, yang langsung diikuti tawa kompak kelima teman barunya di atas karpet hijau.
 
-Tidak ada lagi meja kaku yang memisahkan guru dan murid seperti ruang ujian. Aku duduk bersila di atas karpet bersama Nino dan lima murid sekolah dasar yang didaftarkan oleh para orang tua dari acara panggung bulan lalu, sementara dinding kelas kami dihiasi deretan bingkai foto cerita sehari-hari hasil jepretan Bima. Bahkan murid-murid baruku yang tadinya malu-malu saat diantar masuk oleh orang tua mereka kini sudah berebut mengangkat tangan setiap kali video di layar berganti menampilkan gambar gerobak bakso dan tukang balon keliling.
+Tidak ada lagi meja kaku yang memisahkan guru dan murid seperti ruang ujian. Aku duduk bersila di atas karpet bersama Nino dan lima murid sekolah dasar yang didaftarkan oleh para orang tua dari acara panggung bulan lalu. Dinding kelas kami kini dihiasi deretan bingkai foto cerita sehari-hari hasil jepretan Bima. Bahkan murid-murid baruku yang tadinya malu-malu kini sudah berebut mengangkat tangan setiap kali video di layar berganti menampilkan gambar gerobak bakso dan tukang balon keliling.
 
 Dari balik jendela kaca besar yang menghadap ke teras paviliun yang asri, pemandangan di luar membuat hatiku begitu hangat.
 
-Di bangku teras luar, Ibu yang sengaja datang naik kereta dari Bogor pagi tadi sedang duduk mengobrol akrab bersama Ibu Bima sambil menikmati kue bolu syukuran yang dibawakan oleh Meli. Di sebelah mereka, Mas Hendra sedang mendampingi Mbak Ratih yang kini sudah keluar dari rumah sakit dan mulai belajar berjalan pelan di halaman rumput menggunakan tongkat penyangga sambil tersenyum bahagia melihat putranya begitu aktif di dalam kelas.
+Di bangku teras luar, Ibu yang sengaja datang naik kereta dari Bogor pagi tadi sedang duduk mengobrol akrab bersama Ibu Bima sambil menikmati kue bolu syukuran yang dibawakan oleh Meli. Di sebelah mereka, Mas Hendra sedang mendampingi Mbak Ratih yang kini sudah keluar dari rumah sakit. Dengan menggunakan tongkat penyangga, Mbak Ratih mulai belajar berjalan pelan di halaman rumput sambil tersenyum bahagia melihat putranya begitu aktif di dalam kelas.
 
 Sementara itu, di dekat pintu masuk ruang kelas, Bima berdiri bersandar dengan kemeja flanel birunya yang rapi sambil mengangkat kamera peninggalan almarhum ayahnya. Kali ini dia tidak lagi perlu bersembunyi di balik pot tanaman atau berpura-pura memotret uap mangkuk mi ayam untuk mengambil gambar senyumku, soalnya setiap kali lensa kameranya mengarah kepadaku, aku langsung membalasnya dengan senyum paling lepas.
 
@@ -1458,11 +1614,13 @@ Bima berhenti tepat di depanku.
 
 Tangan kirinya terangkat mengusap tengkuknya sebentar, lalu tangan kanannya perlahan merogoh ke dalam saku dada kemeja flanelnya. Dari dalam saku kemejanya itu, Bima mengeluarkan setangkai bunga kamboja merah muda yang masih sangat segar karena baru dipetik dari pohon halaman depan paviliun.
 
-"Kali ini nggak ada Nino yang ngumpet bawa kamera di balik bangku, dan nggak ada lagi yang perlu saya sembunyikan di saku kemeja," kata Bima tulus sambil mengulurkan bunga kamboja merah muda itu langsung ke hadapanku. "Ini buat kamu, Hana. Terima kasih sudah memilih tinggal dan mengizinkan saya yang berantakan ini masuk ke dalam hidup kamu yang rapi."
+"Kali ini nggak ada Nino yang ngumpet bawa kamera di balik bangku," kata Bima tulus sambil mengulurkan bunga kamboja merah muda itu langsung ke hadapanku. "Ini buat kamu, Hana. Terima kasih sudah memilih tinggal dan mengizinkan saya masuk ke dalam hidup kamu yang rapi."
 
 Aku menerima tangkai bunga kamboja merah muda itu dan menyelipkan kelopak bunganya yang lembut di antara halaman buku catatan bersampul cokelatku yang terbuka di atas meja. Di layar ponselku yang tergeletak di sebelah buku itu, lima belas pengingat harian yang dulu mengurung hidupku dari pagi sampai malam kini sudah kupangkas habis, hanya menyisakan pengingat mengajar dan pengingat tanggal dua puluh lima yang tetap kujaga.
 
-Aku mengambil bolpoin hitamku, membuka lembar halaman baru di buku catatan cokelatku, lalu menggenggam tangan Bima sambil tersenyum menatap mata teduhnya. "Dulu aku takut banget kalau ada hal dadakan yang merusak catatanku, Mas. Tapi sekarang, mau hujan deras, mau macet, atau mau rencana bergeser ke mana pun, aku nggak takut lagi... selama selalu ada kamu di jadwalku."
+Aku mengambil bolpoin hitamku, membuka lembar halaman baru di buku catatan cokelatku, lalu menggenggam tangan Bima sambil tersenyum menatap mata teduhnya.
+
+"Dulu aku takut banget kalau ada hal dadakan yang merusak catatanku, Mas," bisikku hangat. "Tapi sekarang, mau hujan deras atau rencana bergeser ke mana pun, aku nggak takut lagi... selama ada kamu di jadwalku."
 
 ---
 

@@ -10,7 +10,7 @@ Baru pada pukul empat lewat dua puluh lima menit, pintu kaca kelas terbuka terge
 
 "Maaf, Bu Maya, Miss Hana, tadi ada urusan mendadak di jalan," kata Bima sambil mengantar Nino duduk ke kursinya.
 
-"Waktu kelas tinggal dua puluh menit, Pak Bima," tegur Bu Maya dengan nada formal yang dingin. Beliau langsung menoleh ke arahku. "Silakan langsung dimulai, Hana. Saya ingin melihat perkembangan hafalan naskah My Parents yang sudah didaftarkan minggu lalu."
+"Waktu kelas tinggal dua puluh menit, Pak Bima," tegur Bu Maya dengan nada formal yang dingin. Beliau langsung menoleh ke arahku. "Silakan langsung dimulai, Hana. Saya ingin melihat perkembangan hafalan naskah My Parents."
 
 "Baik, Bu," sahutku cepat. Aku menoleh ke arah Nino yang duduk gelisah di kursinya. "Nino, keluarkan map latihan naskahnya ya."
 
@@ -18,7 +18,7 @@ Baru pada pukul empat lewat dua puluh lima menit, pintu kaca kelas terbuka terge
 
 Bima menepuk dahinya sendiri. "Aduh, maaf, Miss. Tadi pas berangkat buru-buru banget sampai lupa masukin mapnya ke tas Nino."
 
-Aku memejamkan mata sedetik untuk menahan luapan kesal, lalu mengambil salinan cadangan dari buku catatan cokelatku dan menyerahkannya kepada Nino. "Pakai punya Miss Hana dulu. Ayo berdiri di depan meja, bacakan paragraf pertama seperti latihan kita hari Jumat lalu."
+Aku memejamkan mata sedetik untuk menahan luapan kesal, lalu mengambil salinan cadangan dari buku catatan cokelatku dan menyerahkannya kepada Nino. "Pakai punya Miss Hana dulu. Ayo berdiri di depan meja, bacakan paragraf pertama kayak latihan kemarin."
 
 Nino berdiri memegang kertas itu dengan tangan gemetar. Baru saja bocah itu mengeja dua kalimat pembuka dengan suara terbata-bata, ponsel di saku celana Bima berdering keras memecah keheningan ruang kelas.
 
@@ -28,26 +28,32 @@ Lima detik kemudian, ponselnya kembali bergetar tanpa henti.
 
 Saat Bima mengintip layar ponselnya, wajahnya yang sudah tirus langsung berubah pucat pasi. Tanpa menunggu evaluasi selesai, Bima melangkah masuk menghampiriku dan Bu Maya.
 
-"Maaf sekali, Bu Maya, Miss Hana, saya benar-benar minta izin harus bawa Nino pulang sekarang juga soalnya ada urusan darurat yang nggak bisa ditinggal," kata Bima dengan suara terburu-buru.
+"Maaf sekali, Bu Maya, Miss Hana, saya harus bawa Nino pulang sekarang juga," kata Bima terburu-buru. "Ada urusan darurat di rumah yang nggak bisa ditinggal."
 
 "Evaluasi baru berjalan kurang dari sepuluh menit, Pak," tegur Bu Maya sambil menutup map penilaiannya dengan wajah tidak berkenan.
 
 "Saya tahu, Bu, maaf sekali, nanti saya yang tanggung jawab," sahut Bima cepat, lalu langsung menggandeng tangan Nino keluar ruang kelas.
 
-Begitu pintu tertutup, Bu Maya berdiri dan menatapku dengan sorot mata kecewa. "Hana, terus terang saya belum melihat kesiapan muridmu sore ini. Kalau dua minggu lagi di panggung Storytelling Day penampilannya masih berantakan seperti barusan, saya terpaksa meninjau ulang rekomendasi promosi kamu ke Surabaya."
+Begitu pintu tertutup, Bu Maya berdiri dan menatapku dengan sorot mata kecewa. "Hana, terus terang saya belum melihat kesiapan muridmu sore ini."
+
+Beliau merapikan map di tangannya sambil menatapku tajam. "Kalau dua minggu lagi di Storytelling Day masih berantakan begini, rekomendasi promosimu ke Surabaya terpaksa saya tinjau ulang."
 
 Aku hanya mampu mengangguk kaku saat Bu Maya melangkah keluar ruangan.
 
-Kemarahan, rasa malu, dan ketakutan kehilangan promosi yang sudah kukejar setahun penuh langsung mendidih jadi satu di kepalaku. Aku meraih buku catatan cokelatku, lalu berjalan cepat menyusul Bima yang baru saja memakaikan jaket ke tubuh Nino di teras samping gedung.
+Kemarahan, rasa malu, dan ketakutan kehilangan promosi yang sudah kukejar setahun penuh langsung mendidih jadi satu di kepalaku. Aku meraih buku catatan cokelatku, lalu berjalan cepat menyusul Bima yang baru saja memakaikan jaket ke tubuh Nino di teras samping gedung. Padahal akhir pekan kemarin PR Nino juga tidak dikerjakan gara-gara Bima mengaku keasyikan begadang di depan layar sampai subuh.
 
 "Mas Bima, tunggu!" panggilku dengan suara tertahan namun tajam.
 
 "Hana, maaf banget soal tadi di kelas, saya harus..." kata Bima sambil berbalik menatapku.
 
-"Bagi Mas Bima semuanya memang gampang diselesaikan pakai kata maaf ya?" potongku tanpa sanggup lagi menjaga nada sopanku. "Jumat lalu PR Nino nggak dikerjakan gara-gara Mas Bima keasyikan begadang sampai subuh. Hari ini jadwal evaluasi paling penting buat karier saya, Mas Bima datang telat hampir setengah jam, lupa bawa map latihan, terus seenaknya minta pulang di tengah penilaian Bu Maya!"
+"Bagi Mas Bima semuanya memang gampang diselesaikan pakai kata maaf ya?" potongku tanpa sanggup lagi menjaga nada sopanku. "Kemarin PR nggak dikerjakan gara-gara begadang. Hari ini jadwal evaluasi paling penting buat karier saya, Mas Bima malah telat!"
 
 Nino yang berdiri di samping Bima langsung memegang ujung kemeja pamannya dengan wajah ketakutan, tapi emosiku sudah terlanjur meluap keluar.
 
-"Saya sudah susun jadwal enam minggu ini rapi-rapi demi promosi saya, Mas!" kataku dengan napas memburu. "Cara hidup Mas Bima yang serba berantakan, suka bercanda, dan nggak pernah serius itu benar-benar nggak masuk akal buat saya! Mas Bima gampang banget menyepelekan waktu dan usaha orang lain karena hidup Mas Bima sendiri pasti enak dan nggak pernah punya masalah berat!"
+"Sudah lupa bawa map, sekarang seenaknya minta pulang di tengah penilaian Bu Maya!" lanjutku dengan suara bergetar menahan marah. "Saya sudah susun jadwal enam minggu ini rapi-rapi demi promosi saya, Mas!"
+
+Bima hanya terdiam menatapku di bawah mendung sore itu.
+
+"Cara hidup Mas Bima yang berantakan dan nggak pernah serius itu benar-benar nggak masuk akal buat saya!" kataku tajam. "Mas Bima gampang banget nyepelein waktu orang lain karena hidup Mas Bima sendiri pasti enak dan nggak punya beban!"
 
 Biasanya, setiap kali aku mengomel soal waktu atau aturan kelas, Bima selalu punya seribu satu candaan santai untuk mencairkan suasana. Namun sore itu, di bawah langit mendung teras samping, tidak ada senyum sedikit pun di wajahnya. Bima hanya berdiri diam menatapku dengan sepasang mata merah yang menyimpan kelelahan begitu dalam.

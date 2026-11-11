@@ -20,7 +20,9 @@ Matanya menatap barisan huruf di kertas dengan pandangan kosong, lalu jari telun
 
 Kalau ini terjadi dua minggu yang lalu, aku pasti sudah mengetukkan spidolku ke meja dan meminta Nino mengulang kalimat itu sampai lancar demi mengejar target halaman. Tapi sore ini, aku meletakkan bolpoinku dan menutup buku catatan cokelatku.
 
-"Nino, kita istirahat sebentar dari kertasnya yuk," ajakku lembut sambil menggeser kursiku mendekat. "Daripada cuma baca tulisan di kertas, gimana kalau Mas Bima nyalain kameranya, terus kita latihan ngobrol bahasa Inggris santai soal makanan kesukaan keluarga Nino di rumah? Nanti kalau Ibu Nino sudah sembuh dan pulang dari rumah sakit, Nino mau makan apa bareng Ibu?"
+"Nino, kita istirahat sebentar dari kertasnya yuk," ajakku lembut sambil menggeser kursiku mendekat. "Gimana kalau Mas Bima nyalain kameranya, terus kita ngobrol santai soal makanan kesukaan keluarga di rumah?"
+
+Aku tersenyum menatap mata bulat Nino. "Nanti kalau Ibu sudah sembuh dan pulang dari rumah sakit, Nino mau makan apa bareng Ibu?"
 
 Wajah Nino yang tadinya mendung langsung terangkat menatapku, sementara Bima di kursi sebelah menatapku dengan sorot mata penuh terima kasih.
 
@@ -28,11 +30,13 @@ Wajah Nino yang tadinya mendung langsung terangkat menatapku, sementara Bima di 
 
 "Nah, coba bilang pakai bahasa Inggris ke kamera Om Bima. I want to eat meatballs with my mother!" panduku sambil tersenyum.
 
-Dengan bantuan kamera tua Bima yang menyala merekam latihan kami, sisa tiga puluh menit pelajaran sore itu mengalir begitu cepat dan penuh tawa. Nino tidak lagi terbebani oleh kalimat yang kaku, dan suaranya kembali nyaring memenuhi ruang kelas.
+Dengan bantuan kamera tua Bima yang menyala merekam latihan kami, sisa tiga puluh menit pelajaran sore itu mengalir begitu cepat. Nino tidak lagi terbebani oleh kalimat yang kaku, dan suaranya kembali nyaring memenuhi ruang kelas.
 
 Tepat pukul lima lewat lima belas menit setelah sesi latihan tambahan selesai, kami bertiga keluar menuju lobi depan.
 
-"Terima kasih banyak untuk hari ini ya, Hana," kata Bima tulus saat kami berdiri di teras gedung. "Cara kamu menenangkan Nino di kelas tadi benar-benar bikin hati saya hangat. Kalau gitu kami langsung pamit pulang sekarang ya, biar nggak mengganggu jadwal sore kamu."
+"Terima kasih banyak untuk hari ini ya, Hana," kata Bima tulus saat kami berdiri di teras gedung. "Cara kamu menenangkan Nino di kelas tadi benar-benar bikin hati saya hangat."
+
+Dia lalu menyampirkan tas kameranya ke bahu. "Kami langsung pamit pulang sekarang ya, biar nggak mengganggu jadwal sore kamu."
 
 Baru saja Bima menyelesaikan kalimatnya, ponsel di dalam tas selempangku berdering memainkan nada pengingat pukul lima lewat lima belas menit.
 
@@ -46,6 +50,10 @@ Di depan mata Bima, ibu jariku menekan tombol matikan pengingat, lalu sekalian m
 
 "Loh, kok dimatiin alarmnya?" tanya Bima sambil mengerjap kaget.
 
-Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap nilainya bisa kukerjakan besok pagi di ruang guru, soalnya tadi di kelas kita habis ngomongin bakso pangsit goreng sampai bikin lapar. Mas Bima sama Nino belum makan sore kan? Ayo kita makan bakso di warung tenda sebelah dulu, hari ini giliranku yang traktir."
+Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap nilainya bisa kukerjakan besok pagi di ruang guru. Tadi di kelas kita ngomongin bakso sampai bikin lapar."
+
+"Terus?" tanya Bima masih setengah bengong.
+
+"Mas Bima sama Nino belum makan sore kan?" tanyaku sambil menunjuk warung tenda di sebelah gedung. "Ayo kita makan bakso dulu, hari ini giliranku yang traktir."
 
 Selama tiga detik penuh, Bima hanya berdiri tertegun menatapku seperti tidak percaya bahwa perempuan yang baru saja mematikan alarm jadwalnya sendiri demi makan bakso pinggir jalan adalah Miss Hana yang sama, sebelum akhirnya tawa hangatnya pecah di teras sore itu.

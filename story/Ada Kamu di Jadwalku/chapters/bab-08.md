@@ -6,9 +6,11 @@ Nino menarik-narik ujung kemeja flanel pamannya tepat saat bel selesai kelas har
 
 "Untuk minggu depan, kita memang mulai bikin buku cerita bergambar sederhana sebagai latihan awal menuju Storytelling Day," kataku kepada Bima dan Nino sambil membereskan spidol di meja. "Makanya Nino butuh karton manila tebal sama spidol warna yang ujungnya besar."
 
-Bima menoleh ke arahku sambil menyampirkan tas kamera kanvasnya ke bahu. "Miss Hana habis ini langsung pulang ke kos kan? Toko alat tulis langganan saya di kawasan Pasar Mayestik searah tuh sama jalan pulang Miss Hana. Mau ikut mampir sebentar nggak, Miss? Biar nggak salah beli ukuran kartonnya."
+Bima menoleh ke arahku sambil menyampirkan tas kamera kanvasnya ke bahu. "Miss Hana habis ini langsung pulang ke kos kan? Toko alat tulis langganan saya di Pasar Mayestik searah tuh."
 
-Aku melirik layar ponselku. Jadwal pengingat berikutnya baru pukul enam sore untuk makan malam. Karena Pasar Mayestik memang cuma berjarak sepuluh menit jalan kaki menyusuri trotoar Kebayoran Baru menuju arah tempat kosku, akhirnya aku mengangguk. "Boleh, Mas. Kebetulan saya juga mau beli isi ulang spidol papan tulis."
+"Mau ikut mampir sebentar nggak, Miss? Biar nggak salah beli ukuran kartonnya," tambahnya menawarkan.
+
+Aku melirik layar ponselku. Jadwal pengingat berikutnya baru pukul enam sore untuk makan malam. Pasar Mayestik memang cuma berjarak sepuluh menit jalan kaki menyusuri trotoar Kebayoran Baru menuju arah tempat kosku. Akhirnya aku mengangguk. "Boleh, Mas. Kebetulan saya juga mau beli isi ulang spidol papan tulis."
 
 Kami bertiga berjalan beriringan menyusuri trotoar sore yang mulai ramai oleh pekerja pulang kantor. Nino berjalan di tengah sambil bercerita tentang gambar kucing oranye yang tadi dia tulis di kelas, sementara Bima melangkah di sisi luar trotoar dekat jalan raya untuk menjaga kami dari lalu-lalang motor.
 
@@ -18,9 +20,13 @@ Begitu masuk ke lorong pertokoan luar Pasar Mayestik yang berderet rapi dengan t
 
 "Eh, Mas Bima! Pas banget lewat sini, panggangan pertama baru matang," sambut Bang Dedi semringah.
 
-Bima menoleh ke arahku sambil memasang wajah memohon. "Miss Hana, saya minta waktu sepuluh menit aja ya. Minggu lalu Bang Dedi pesan minta dibuatkan video pendek sama foto kue pukisnya buat dipasang di status WhatsApp dan media sosial warungnya."
+Bima menoleh ke arahku sambil memasang wajah memohon. "Miss Hana, saya minta waktu sepuluh menit aja ya. Bang Dedi minta dibuatkan video pendek sama foto kue pukisnya."
 
-"Mas Bima ngerjain video promosi gerobak kue juga?" tanyaku sambil mengerjap pelan.
+"Buat dipasang di status WhatsApp warung ya, Bang?" tanyaku sambil melirik gerobak kaca itu.
+
+"Iya, Neng, biar dagangan saya ikut kekinian," sahut Bang Dedi senang.
+
+"Mas Bima ngerjain video promosi gerobak kue juga?" tanyaku pada Bima sambil mengerjap pelan.
 
 "Apa aja yang menghasilkan gambar dan halal saya sikat, Miss. Saya kan paket hemat, fotografer merangkap videografer," jawab Bima sambil nyengir, lalu mengeluarkan kamera tuanya dari dalam tas.
 

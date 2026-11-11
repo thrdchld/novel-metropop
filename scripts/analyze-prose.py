@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-Analisis Mekanis Prosa Bahasa Indonesia — Novel MetroPop (v2.1)
+Analisis Mekanis Prosa Bahasa Indonesia — Novel MetroPop (v2.2)
 Menggabungkan pemeriksaan kaidah MetroPop Indonesia + metrik haowjy & Nanako0129/sepia:
   1. Rentang kata bab (600-900 standar; 901-1200 darurat) & 0 Em Dash (—)
   2. Deteksi Frasa AI Slop & Terjemahan Harfiah
   3. Rasio Paragraf Dialog & Kebiasaan Kutipan di Akhir Paragraf (Quote at Paragraph End >75%)
-  4. Distribusi Panjang Kalimat & Deteksi Deretan >=3 Kalimat Berurutan Panjang Seragam
-  5. Pola Sintaksis AI (Klausa "Sambil...", ", membuat...", & Rotasi Tag Buku Pelajaran "ujarnya/tuturnya/tukasnya")
-  6. Batas Sensasi Anatomi Tubuh (Over-Embodied <=2) & Indera Penciuman (Smell <=2)
-  7. Register Kausal Manusia Indonesia (soalnya/gara-gara/makanya/masalahnya/habisnya)
-  8. Jejak Kata Ganti POV 1 vs POV 3 & Pengulangan Kata (Window 5 Paragraf)
+  4. Uji Kelisanan Dialog (Batas Maksimal 20 Kata per Kutipan "..." & Anti-"As You Know, Bob" di Dialog)
+  5. Distribusi Panjang Kalimat & Deteksi Deretan >=3 Kalimat Berurutan Panjang Seragam
+  6. Pola Sintaksis AI (Klausa "Sambil...", ", membuat...", & Rotasi Tag Buku Pelajaran "ujarnya/tuturnya/tukasnya")
+  7. Batas Sensasi Anatomi Tubuh (Over-Embodied <=2) & Indera Penciuman (Smell <=2)
+  8. Register Kausal Manusia Indonesia (soalnya/gara-gara/makanya/masalahnya/habisnya)
+  9. Jejak Kata Ganti POV 1 vs POV 3 & Pengulangan Kata (Window 5 Paragraf)
 
 Cara pakai:
   python3 scripts/analyze-prose.py "story/Narik Ojol Cinta Pun Nongol/chapters/bab-01.md"
@@ -27,8 +28,17 @@ from pathlib import Path
 
 WORD_RE = re.compile(r"[A-Za-zÀ-ÿ]+(?:-[A-Za-zÀ-ÿ]+)?")
 SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?])(?:[”"\']*)\s+')
-QUOTE_RE = re.compile(r'[“"][^”"]+[”"]')
+QUOTE_RE = re.compile(r'[“"]([^”"]+)[”"]')
 PARA_END_QUOTE_RE = re.compile(r'[”"]\s*$')
+MAX_QUOTE_WORDS = 20
+
+# Pola eksposisi waktu/backstory "As You Know, Bob" yang tidak wajar diucapkan di dalam dialog
+AYKB_DIALOGUE_PATTERNS = [
+    r"\b(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|sepuluh|beberapa)\s+(?:hari|minggu|bulan|tahun)\s+(?:yang\s+)?lalu\b",
+    r"\b(?:senin|selasa|rabu|kamis|jumat|sabtu|minggu)\s+lalu\b",
+    r"\bselama\s+(?:satu|dua|tiga|empat|lima|enam|tujuh|delapan)\s+(?:hari|minggu|bulan|tahun)\b",
+    r"\bsebagai\s+atasan\s+yang\s+sudah\b",
+]
 
 ID_STOPWORDS = {
     "yang", "untuk", "dengan", "tidak", "dalam", "bukan", "sudah",
@@ -134,12 +144,26 @@ def analyze_chapter(path: Path, verbose: bool = True) -> dict:
         if re.search(pat, lower_raw):
             slop_hits.append(pat)
 
-    # 2. Rasio Dialog & Kebiasaan Kutipan di Akhir Paragraf (Discourse Position Tell)
+    # 2. Rasio Dialog, Kutipan di Akhir Paragraf, Batas 20 Kata per Kutipan, & Anti-"As You Know, Bob"
     dialogue_paras_list = [p for p in paras if QUOTE_RE.search(p)]
     dialogue_paras = len(dialogue_paras_list)
     dialogue_pct = (dialogue_paras / len(paras) * 100) if paras else 0.0
     end_quote_paras = sum(1 for p in dialogue_paras_list if PARA_END_QUOTE_RE.search(p))
     end_quote_pct = (end_quote_paras / dialogue_paras * 100) if dialogue_paras else 0.0
+
+    all_quotes = [m.group(1).strip() for p in paras for m in QUOTE_RE.finditer(p)]
+    long_quotes: list[tuple[int, str]] = []
+    aykb_quotes: list[tuple[str, str]] = []
+    for q in all_quotes:
+        q_words = get_words(q)
+        if len(q_words) > MAX_QUOTE_WORDS:
+            long_quotes.append((len(q_words), q))
+        q_low = q.lower()
+        for pat in AYKB_DIALOGUE_PATTERNS:
+            m_aykb = re.search(pat, q_low)
+            if m_aykb:
+                aykb_quotes.append((m_aykb.group(0), q))
+                break
 
     # 3. Deretan >=3 Kalimat Berurutan dengan Panjang Seragam (Sepia Style-Pass)
     mono_runs = detect_similar_length_runs(sent_lengths, tolerance=2, min_run=3)
@@ -181,7 +205,7 @@ def analyze_chapter(path: Path, verbose: bool = True) -> dict:
 
     if verbose:
         print("=" * 68)
-        print(f"  Analisis Mekanis Prosa (v2.1): {path.name}")
+        print(f"  Analisis Mekanis Prosa (v2.2): {path.name}")
         print("=" * 68)
         status = "OK (Standar 600-900)"
         if word_count < 600:
@@ -197,6 +221,14 @@ def analyze_chapter(path: Path, verbose: bool = True) -> dict:
             f"  Rasio Paragraf Dialog : {dialogue_paras}/{len(paras)} par ({dialogue_pct:.0f}%) | "
             f"Dialog di Akhir Par: {end_quote_paras}/{dialogue_paras} ({end_quote_pct:.0f}%)"
         )
+        print(
+            f"  Kelisanan Dialog      : Kutipan >{MAX_QUOTE_WORDS} kata = {len(long_quotes)} [{'LULUS' if not long_quotes else 'PERBAIKI!'}] | "
+            f"Eksposisi Waktu ('As You Know, Bob') = {len(aykb_quotes)} [{'LULUS' if not aykb_quotes else 'PERBAIKI!'}]"
+        )
+        for qw, qt in long_quotes[:5]:
+            print(f"    -> [>{MAX_QUOTE_WORDS}w: {qw} kata] \"{qt}\"")
+        for trig, qt in aykb_quotes[:5]:
+            print(f"    -> [AYKB: '{trig}'] \"{qt}\"")
         if sent_lengths:
             print(
                 f"  Panjang Kalimat       : rata-rata {statistics.fmean(sent_lengths):.1f} kata "
@@ -230,6 +262,8 @@ def analyze_chapter(path: Path, verbose: bool = True) -> dict:
         "slop": slop_hits,
         "dialogue_pct": dialogue_pct,
         "end_quote_pct": end_quote_pct,
+        "long_quotes": len(long_quotes),
+        "aykb_quotes": len(aykb_quotes),
         "mean_sent": statistics.fmean(sent_lengths) if sent_lengths else 0.0,
         "mono_runs": len(mono_runs),
         "embodied": embodied_count,
@@ -240,7 +274,7 @@ def analyze_chapter(path: Path, verbose: bool = True) -> dict:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Analisis mekanis prosa Bahasa Indonesia (v2.1).")
+    parser = argparse.ArgumentParser(description="Analisis mekanis prosa Bahasa Indonesia (v2.2).")
     parser.add_argument("target", help="File bab .md atau folder story/<Judul>")
     args = parser.parse_args()
 
@@ -257,14 +291,15 @@ def main() -> int:
 
     print(
         f"{'Bab':<10} | {'Kata':<5} | {'Em':<2} | {'Dlg%':<5} | {'EndQ%':<6} | "
-        f"{'Kal(Avg)':<8} | {'Mono':<4} | {'Tubuh':<5} | {'Bau':<3} | {'POV1%'}"
+        f"{'Dlg>20':<6} | {'AYKB':<4} | {'Kal(Avg)':<8} | {'Mono':<4} | {'Tubuh':<5} | {'Bau':<3} | {'POV1%'}"
     )
-    print("-" * 78)
+    print("-" * 92)
     for f in files:
         res = analyze_chapter(f, verbose=False)
         print(
             f"{res['name']:<10} | {res['words']:<5} | {res['em_dash']:<2} | "
             f"{res['dialogue_pct']:>4.0f}% | {res['end_quote_pct']:>4.0f}%  | "
+            f"{res['long_quotes']:>6} | {res['aykb_quotes']:>4} | "
             f"{res['mean_sent']:>8.1f} | {res['mono_runs']:>4} | "
             f"{res['embodied']:>5} | {res['smell']:>3} | {res['pov1_pct']:>4.1f}%"
         )

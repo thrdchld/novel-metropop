@@ -18,18 +18,20 @@ Nama Ibu muncul di sana.
 
 "Hari Sabtu ini kebetulan kosong, Bu. Kelas privat murid baru aku adanya tiap Senin, Rabu, sama Jumat sore," jawabku sambil menutup buku catatan cokelatku. "Tadi aku baru aja beres transfer tabungan bulanan."
 
-"Nabung itu bagus, Nak, Ibu bangga kamu bisa mandiri banget di Jakarta," tutur Ibu lembut dari seberang telepon. "Tapi jangan semuanya kamu tahan buat ditabung sampai kamu lupa nyenengin diri sendiri. Makanmu tetap teratur kan? Nggak cuma makan roti tawar di kosan?"
+"Nabung itu bagus, Nak, Ibu bangga kamu mandiri di Jakarta," kata Ibu lembut dari seberang telepon. "Tapi jangan ditahan semua sampai lupa nyenengin diri sendiri. Makanmu teratur kan? Nggak cuma makan roti tawar?"
 
 "Teratur kok, Bu. Kemarin sore aja habis hujan aku makan es krim roti," kataku spontan, lalu mendadak berhenti sendiri gara-gara bayangan wajah santai Bima dan celotehan Nino di teras kemarin sore melintas begitu saja di kepalaku.
 
-"Syukurlah kalau gitu," sahut Ibu lega. "Soalnya kemarin Tante Rini sempat nanya ke Ibu, katanya dia lihat Fajar jalan sama teman kantornya di mal. Ibu cuma takut kamu di Jakarta kepikiran terus, terus malah nyiksa diri pakai jadwal kerja dari pagi sampai malam."
+"Syukurlah kalau gitu," sahut Ibu lega. "Kemarin Tante Rini bilang ke Ibu, dia lihat Fajar jalan sama teman kantornya di mal."
+
+Suara Ibu terdengar agak ragu di ujung telepon. "Ibu cuma takut kamu kepikiran terus di sana, lalu malah nyiksa diri pakai jadwal kerja seharian."
 
 Senyum di bibirku meredup sedikit. Jemariku mengusap sampul kulit buku catatanku yang mulai agak aus di bagian sudutnya.
 
-Di kepalaku dulu, bertunangan dengan Fajar di usia dua puluh enam tahun adalah baris rencana yang paling rapi di buku ini. Kenyataannya, orang yang paling kupikir bakal berjalan sesuai rencana justru jadi orang pertama yang melompat turun di tengah jalan.
+Di kepalaku dulu, bertunangan dengan Fajar di usia dua puluh enam tahun adalah baris rencana yang paling rapi di buku ini. Kenyataannya, orang yang paling kupikir bakal berjalan sesuai rencana justru jadi orang pertama yang melompat turun di tengah jalan. Untung saja sekarang ada target promosi Kepala Akademik cabang baru di Surabaya yang tinggal menunggu hasil penampilan Nino di acara Storytelling Day bulan depan.
 
-"Aku beneran nggak apa-apa, Bu," kataku pelan namun mantap. "Aku sama Fajar memang nggak cocok aja dari cara jalanin hidup. Lagian bulan depan kalau evaluasi murid privatku lancar di acara Storytelling Day, surat promosiku buat jadi Kepala Akademik cabang baru di Surabaya langsung turun. Aku fokus ke situ aja sekarang."
+"Aku beneran nggak apa-apa, Bu," kataku pelan namun mantap. "Aku sama Fajar memang nggak cocok aja. Sekarang aku mau fokus ngejar promosiku ke Surabaya bulan depan."
 
-"Ya sudah, apa pun yang kamu pilih, doa Ibu selalu buat kamu, Han. Yang penting kamu bahagia dan jangan terlalu keras sama dirimu sendiri ya," pesan Ibu hangat sebelum menutup telepon beberapa menit kemudian.
+"Ya sudah, doa Ibu selalu buat kamu, Han. Yang penting jangan terlalu keras sama dirimu sendiri ya," pesan Ibu hangat sebelum menutup telepon beberapa menit kemudian.
 
 Aku meletakkan ponselku kembali ke atas meja, lalu menatap koper besar berwarna biru tua yang tersimpan rapi di atas lemari pakaianku. Tinggal lima minggu lagi sebelum koper itu kubawa pindah ke Surabaya, asalkan bocah delapan tahun pecinta dinosaurus dan pamannya yang serba dadakan itu tidak membuat kejutan baru di hari Senin nanti.
