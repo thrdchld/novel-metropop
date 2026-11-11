@@ -325,9 +325,10 @@ Setiap bab di `outline.md` ditulis dengan format **4 poin ringkas** yang langsun
 - **Detail Kecil / Planting-Callback:** [Kebiasaan unik, benda spesifik, atau obrolan sambil lalu yang ditanam/dibayar di bab ini]
 ```
 
-### Aturan Kepatuhan pada Outline:
+### Aturan Kepatuhan pada Outline & Sudut Pandang POV 1 ("Aku"):
 1. **Outline adalah Rel Cerita:** Setelah `outline.md` disetujui dan dikunci (`TERKUNCI v1.0`), AI **wajib mengikuti kejadian inti di tiap bab secara setia** dan dilarang berhalusinasi menambahkan konflik/aturan baru yang merusak bab-bab selanjutnya.
-2. **Panjang Bab Fleksibel Mengikuti Kewajaran Cerita:** Umumnya 25–34 bab untuk satu novel web, dengan setiap bab berisi satu kejadian utuh yang mengalir alami (600–900 kata per bab).
+2. **Aturan Mutlak Outline POV Orang Pertama ("Aku"):** Jika cerita menggunakan POV Orang Pertama ("Aku"), maka **seluruh isi `outline.md` (Premis, Alur Cerita Utuh, dan Rincian Per Bab) WAJIB ditulis menggunakan sudut pandang "Aku"** (bukan menyebut nama tokoh utama seperti narator orang ketiga), dan **seluruh alur kejadian, dialog, maupun rahasia di setiap bab wajib tunduk 100% pada batas penglihatan, pendengaran, dan pengetahuan tokoh "Aku" saat bab itu berlangsung**. Dilarang keras memasukkan adegan mahatahu POV 3 di luar jangkauan mata/telinga "Aku" (misal: menceritakan apa yang dilakukan tokoh lain saat "Aku" sedang pergi dari lokasi, atau membocorkan isi kepala/rahasia tokoh lain sebelum bab pengungkapannya). Rahasia tokoh lain di bab-bab awal hanya boleh tercatat di outline sebatas **petunjuk/gejala fisik yang dilihat atau didengar langsung oleh "Aku"**, dan baru terungkap utuh pada bab ketika "Aku" menyaksikannya atau mendengarnya sendiri.
+3. **Panjang Bab Fleksibel Mengikuti Kewajaran Cerita:** Umumnya 25–34 bab untuk satu novel web, dengan setiap bab berisi satu kejadian utuh yang mengalir alami (600–900 kata per bab).
 
 ### Ketentuan Subplot & Pembuka
 - **Subplot (Opsional):** Jangan dipaksakan jika cerita utama sudah kuat.

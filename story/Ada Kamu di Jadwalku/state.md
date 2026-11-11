@@ -2,13 +2,33 @@
 
 > File penjaga kondisi aktif garis depan penulisan. Diperbarui setiap selesai menulis bab.
 
-## Status Saat Ini
-- **Bab Terakhir Ditulis:** Belum ada (Siap menulis Bab 1)
-- **Minggu / Hari Cerita Aktif:** Minggu ke-1, Senin sore pukul 15.45
-- **Lokasi Terakhir:** Ruang Guru *BrightStep English*, Kebayoran Baru (dekat Blok M), Jakarta Selatan
-- **Status Hubungan Hana & Bima:** Belum bertemu (Pertemuan pertama di Bab 2 pukul 16.12)
+## I. Status Garis Depan Penulisan (Writing Frontier)
+- **Bab Terakhir Selesai:** Belum ada (Siap menulis Bab 1)
+- **Bab Aktif Berikutnya:** Bab 1 (`Si Paling Anti Dadakan`)
+- **POV:** Orang Pertama ("Aku" / Hana Pratiwi) - 100% terikat batas penglihatan, pendengaran, dan pengetahuan "Aku" saat ini.
+- **Minggu / Hari & Jam Cerita Aktif:** Minggu ke-1, Senin sore pukul 15.45 WIB
+- **Lokasi Aktif:** Ruang Guru *BrightStep English*, Kebayoran Baru (dekat Blok M), Jakarta Selatan
+- **Emosi Aktif "Aku":** Fokus, rapi, bertekad penuh menjaga jadwal enam minggu tanpa celah demi promosi Surabaya.
 
-## Inventaris Benda & Fakta Aktif
-1. **Buku Catatan Sampul Cokelat & Deretan Alarm HP Hana:** Dipakai Hana untuk mengatur hidupnya seperti *rundown* panitia studi tur, termasuk alarm tanggal 25 untuk setor rekening tabungan "Pos Masa Depan" (sudah berjalan disiplin selama 4 tahun).
-2. **Syarat Evaluasi Promosi Surabaya:** Hana harus membimbing Nino (8 tahun) di kelas privat Senin-Rabu-Jumat sore selama 6 minggu sampai berani tampil di acara *Storytelling Day* untuk mendapatkan SK Kepala Akademik Cabang Surabaya.
-3. **Rahasia Keluarga Bima (Belum Diketahui Hana sampai Bab 15):** Ayah Bima (fotografer) wafat dalam kecelakaan yang membuat Ibu Bima sakit-sakitan; kakak perempuan Bima (Mbak Ratih, ibu Nino) sedang dirawat karena sakit keras hingga abang ipar Bima (Mas Hendra) harus sering izin kerja tanpa gaji demi menjaga istrinya. Bima membantu biaya pengobatan keluarga (sampai melepas studio dan menjual lensa-lensanya) serta menjaga Nino di kontrakan Cipete.
+## II. Status Hubungan & Matriks Sapaan Sah
+- **Status Hubungan Aku & Bima:** Belum bertemu (Pertemuan pertama di Bab 2 pukul 16.12 WIB).
+- **Sapaan Sah di Bab 1:**
+  - Aku -> Meli: `Mel`, `Gue-Lo` (di narasi batin: `Meli`)
+  - Aku -> Bu Maya: `Bu Maya`, `Saya-Ibu` (di narasi batin: `Bu Maya`)
+  - Aku -> Ibu Kandung (di Bogor): `Bu`, `Aku-Ibu` (di narasi batin wajib: `Ibu` / `Ibuku`, dilarang menyebut nama pihak ketiga)
+  - Aku -> Fajar (mantan tunangan): `Fajar` / `Mas Fajar`
+
+## III. Inventaris Benda Fisik & Fakta Aktif di Tangan "Aku"
+1. **Ponsel dengan Lima Belas Alarm Aktif:** Termasuk pengingat harian dan alarm tanggal 25 (*"Setor Pos Masa Depan"*).
+2. **Buku Catatan Bersampul Cokelat:** Berisi jadwal harian dan catatan saldo rekening tabungan disiplin 4 tahun.
+3. **Syarat Evaluasi Terakhir Promosi Surabaya:** Bu Maya menugaskanku membimbing murid privat baru bernama Nino (8 tahun) setiap Senin, Rabu, dan Jumat pukul 16.00 selama 6 minggu sampai tampil di acara *Storytelling Day*.
+
+## IV. Batas Pengetahuan POV 1 ("Aku") & Rahasia yang DILARANG Bocor Prematur
+1. **[BELUM DIKETAHUI "AKU" SAMPAI BAB 15] Rahasia Keluarga Mas Bima:**
+   - Aku **sama sekali belum tahu** bahwa ayah Mas Bima (seorang fotografer) sudah meninggal karena kecelakaan yang membuat Ibu Mas Bima sakit-sakitan, atau bahwa kakak perempuan Mas Bima (Mbak Ratih, ibu Nino) sedang dirawat karena sakit keras di rumah sakit hingga abang iparnya (Mas Hendra) harus sering izin kerja tanpa gaji.
+   - Sebelum Bab 15, di mataku Mas Bima hanyalah paman bujangan yang hidupnya berantakan, santai, dan kukira tidak pernah punya masalah berat. Semua petunjuk di Bab 2, 7, 8, 11, dan 12 hanya boleh ditulis sebatas gejala fisik yang kulihat/kudengar langsung tanpa kutahu arti sebenarnya.
+2. **[BELUM DIKETAHUI "AKU" SAMPAI BAB 28] Rekaman Bunga di Kamera Nino:**
+   - Saat di Taman Ayodya Barito (Bab 18) aku pergi membeli air mineral, aku **tidak melihat** Mas Bima memetik bunga kamboja dan **tidak tahu** Nino merekamnya. Di Bab 18 aku hanya melihat Mas Bima buru-buru menjejalkan sesuatu ke saku flanelnya (dengan ujung kelopak merah muda menyembul sedikit) dan Nino cekikikan memegang kamera. Aku baru melihat rekaman itu di layar proyektor pada Bab 28 (`Ujung Video`).
+3. **[BELUM DIKETAHUI "AKU" SAMPAI BAB 27 & 29] Perubahan Naskah Panggung & Alasan Mas Bima:**
+   - Di Bab 23 aku mengira Mas Bima menyuruhku ke Surabaya karena ia tidak punya perasaan padaku (alasan sebenarnya baru kudengar dari mulut Mas Bima di Bab 29).
+   - Di Bab 24-26 aku masih mengira Nino akan membawakan naskah *"My Parents"* (kejutan naskah baru tentang Om Bima dan Miss Hana baru kuketahui di atas panggung pada Bab 27).
