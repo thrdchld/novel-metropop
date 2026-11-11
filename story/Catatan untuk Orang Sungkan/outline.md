@@ -106,7 +106,7 @@
 
 ### Bab 12: Cerita dari Yogyakarta dan Botol Penyok
 - **Waktu & Lokasi:** Senin petang pukul 18.15, Kedai Kopi Kecil dekat Stasiun Cikini.
-- **Kejadian Inti:** Alih-alih menceramahi Nadia, Saka untuk pertama kalinya bercerita tentang masa lalunya sendiri di Yogyakarta: dulu ia juga tipe orang yang tidak tegaan pada sahabat kuliahnya sendiri, sampai uang tabungan dan naskah bukunya dibawa kabur tanpa sisa. Saka juga menceritakan kenapa botol minum hitamnya penyok di bagian bawah karena terjatuh di peron saat ia pindahan naik kereta ke Jakarta dan sengaja tidak ia ganti sebagai pengingat.
+- **Kejadian Inti:** Alih-alih menceramahi Nadia, Saka untuk pertama kalinya bercerita tentang masa lalunya sendiri di Yogyakarta: dulu ia juga tipe orang yang tidak tegaan pada sahabat kuliahnya sendiri, sampai tabungannya terkuras karena ia terus menalangi sewa studio dan mengerjakan bagian pekerjaan temannya; studio akhirnya tutup karena utang sewa, sementara temannya lepas tangan begitu saja. Saka juga menceritakan kenapa botol minum hitamnya penyok di bagian bawah karena terjatuh di peron saat ia pindahan naik kereta ke Jakarta dan sengaja tidak ia ganti sebagai pengingat.
 - **Perkembangan Emosi / Hubungan:** Jarak formal di antara mereka runtuh; Nadia mengerti kenapa Saka begitu tegas menjaga batasan diri, dan kalimat Saka bahwa *"membantu keluarga itu baik, tapi mengorbankan alat kerja sendiri itu menyakiti diri sendiri"* meresap kuat di hati Nadia.
 - **Detail Kecil / Planting-Callback:** Asal-usul penyok di bagian bawah botol minum hitam Saka terungkap secara alami.
 
