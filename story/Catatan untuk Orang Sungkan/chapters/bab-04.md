@@ -1,6 +1,6 @@
 ## Bab 4: Peraturan Jam Lima Sore
 
-Selama hampir enam jam duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat, aku menemukan satu fakta ilmiah baru: laki-laki ini tidak suka basa-basi bukan karena sedang marah, melainkan karena pengaturan pabriknya memang begitu.
+Selama hampir delapan jam duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat, aku menemukan satu fakta ilmiah baru: laki-laki ini tidak suka basa-basi bukan karena sedang marah, melainkan karena pengaturan pabriknya memang begitu.
 
 Kalau rekan kerja lain di kantor biasanya membuka obrolan dengan menanyakan kabar cuaca atau gosip artis yang baru cerai, Saka berbicara padaku murni dalam format kalimat perintah dan kalimat tanya singkat.
 
