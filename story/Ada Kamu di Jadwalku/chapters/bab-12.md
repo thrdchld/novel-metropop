@@ -1,43 +1,41 @@
 ## Bab 12: Kelelahan
 
-Hari Jumat sore di akhir minggu ketiga, aku berdiri di dekat meja resepsionis sambil memegang map latihan Nino yang sudah berisi lembaran naskah My Parents. Tiga hari lagi, tepat pada hari Senin sore, Bu Maya akan masuk ke kelasku untuk meninjau evaluasi tengah program. Artinya, sore ini adalah kesempatan latihan terakhir kami sebelum penilaian resmi itu.
+Baris kedua sampai baris kelima di lembar PR Nino masih kosong melompong.
 
-Pukul empat kurang dua menit, pintu depan gedung terbuka. Bima melangkah masuk sambil menggandeng Nino.
+Aku mengangkat wajah dari kertas tugas itu, lalu menoleh ke arah jendela kaca Ruang Kelas Nomor Dua pada hari Jumat sore di akhir minggu ketiga ini. Di sofa panjang area tunggu luar sana, orang yang seharusnya mendampingi Nino belajar di rumah justru sedang tertidur pulas dalam posisi duduk menyandar.
 
-Begitu melihat wajah Bima dari jarak dekat di bawah lampu lobi, langkahku sempat terhenti. Wajah pria itu tampak jauh lebih tirus dibandingkan awal minggu ini. Di bawah kedua matanya terdapat lingkaran hitam yang sangat tebal, dan kemeja flanel abu-abu yang dipakainya tampak belum disetrika sama sekali.
+Tadi waktu datang mengantar Nino pukul empat kurang dua menit, wajah Bima memang jauh lebih tirus dibandingkan awal minggu ini. Di bawah kedua matanya ada lingkaran hitam yang sangat tebal, dan kemeja flanel abu-abu yang dipakainya kusut seperti belum sempat menyentuh setrika. Waktu kusapa di lobi apakah dia sedang kurang enak badan, dia hanya menguap kecil sambil menjawab santai bahwa dia cuma kurang minum kopi.
 
-"Sore, Hana," sapa Bima dengan suara agak parau sambil menguap kecil yang buru-buru ditutupi dengan punggung tangannya. "Nino sudah siap tempur nih buat latihan baca teks."
+Masalahnya, tiga hari lagi, tepat pada hari Senin sore, Bu Maya akan masuk ke kelasku untuk meninjau evaluasi tengah program. Artinya, sore ini adalah kesempatan latihan terakhir kami sebelum penilaian resmi itu, namun saat kuminta membaca paragraf kedua naskah My Parents dengan suara lantang, Nino masih terbata-bata gara-gara belum sempat menghafalnya di rumah.
 
-"Sore, Mas Bima. Mas kelihatan kurang tidur banget hari ini, lagi kurang enak badan?" tanyaku.
+"Nino, kemarin malam di rumah belum sempat latihan baca kalimat ini sama Om Bima ya?" tanyaku pelan sambil menunjuk baris ketiga di kertasnya.
 
-"Cuma kurang kopi aja kok, aman," sahut Bima enteng sambil menepuk pundak Nino agar masuk ke Ruang Kelas Nomor Dua bersamaku, sementara dia sendiri langsung menjatuhkan tubuhnya duduk di sofa panjang area tunggu luar.
+Nino menunduk sambil memainkan ujung penghapus karetnya. "Belum, Miss. Tadi malam Om Bima sibuk terus di meja pojok sampai aku ketiduran duluan."
 
-Di dalam kelas, aku membuka map latihan Nino dan meminta bocah itu mengeluarkan lembar PR menulis ulang kalimat pertama sampai kalimat kelima yang kutugaskan hari Rabu lalu.
+Aku melirik kembali ke arah jendela kaca.
 
-Nino membuka tas sekolahnya, mengeluarkan lembar kertas PR itu, lalu menyerahkannya ke atas mejaku dengan wajah agak takut.
+Di sofa luar sana, kepala Bima miring ke sandaran sofa, mulutnya sedikit terbuka karena lelah, sementara kedua lengannya tetap memeluk erat tas kamera kanvas besarnya di depan dada.
 
-Aku memeriksa kertas itu dan mendapati baris kedua sampai baris kelima masih kosong melompong. Bahkan ketika kuminta membaca paragraf kedua naskah My Parents dengan suara lantang, Nino masih terbata-bata karena belum sempat menghafalnya di rumah.
+Kebetulan Meli yang sudah sembuh dari flunya lewat di lorong luar sambil membawa setumpuk buku kerja. Saat masuk sebentar ke kelasku untuk mengambil penghapus papan tulis, Meli melirik ke arah sofa tunggu lalu berbisik pelan di dekat mejaku.
 
-Aku menghela napas panjang sambil melirik ke arah jendela kaca kelas yang menghadap ke area tunggu.
-
-Di sofa luar sana, Bima ternyata sudah tertidur pulas dalam posisi duduk menyandar. Kepalanya miring ke sandaran sofa, mulutnya sedikit terbuka karena lelah, sementara kedua lengannya tetap memeluk erat tas kamera kanvas besarnya di depan dada seolah takut terjatuh.
-
-Kebetulan Meli yang sudah sembuh dari flunya lewat di lorong luar sambil membawa setumpuk buku kerja. Saat masuk sebentar ke kelasku untuk mengambil penghapus papan tulis, Meli berbisik pelan di dekat mejaku, "Han, itu Om-nya murid privat lo kasihan banget lihatnya. Tidurnya pules bener di sofa tunggu kayak orang habis kerja rodi tiga malam nggak ketemu kasur."
+"Han, itu Om-nya murid privat lo kasihan banget lihatnya," bisik Meli sambil menggeleng prihatin. "Tidurnya pules bener di sofa tunggu kayak orang habis kerja rodi tiga malam nggak ketemu kasur."
 
 Aku menatap sosok Bima yang tertidur di luar kaca itu. Rasa iba sempat menyelinap di dadaku melihat kantung matanya yang menghitam. Mungkin dia memang sedang kelelahan mengejar tenggat pekerjaan videonya.
 
 Namun ketika jam kelas berakhir pukul lima kurang lima belas menit dan aku keluar bersama Nino untuk membangunkannya, rasa ibaku langsung diuji.
 
-"Mas Bima," panggilku sambil mengetuk pelan sandaran kayu sofa tunggu. "Kelasnya Nino sudah selesai."
+"Mas Bima, kelasnya Nino sudah selesai," panggilku sambil mengetuk pelan sandaran kayu sofa tunggu.
 
 Bima langsung tersentak bangun, mengerjap-ngerjapkan matanya yang memerah sambil mengusap wajahnya dengan telapak tangan. "Eh, maaf, ketiduran saya. Sudah jam lima kurang ya?"
 
 "Iya, Mas," kataku sambil memperlihatkan lembar kertas latihan Nino yang masih kosong. "Mas Bima, saya mau mengingatkan sedikit. Lembar PR latihan Nino dari hari Rabu lalu ternyata belum dikerjakan di rumah, dan hafalan paragraf keduanya masih belum lancar. Padahal hari Senin nanti Bu Maya akan masuk langsung ke kelas untuk evaluasi tengah program."
 
-Alih-alih tampak menyesal atau menjelaskan kesibukan kerjanya, Bima justru meregangkan otot bahunya yang kaku sambil nyengir lebar seolah baru saja bangun dari tidur siang yang nyaman di pantai.
+Di kepalaku, Bima setidaknya akan menjelaskan kesibukan kerjanya atau meminta maaf dengan serius.
+
+Kenyataannya, pria itu justru meregangkan otot bahunya yang kaku sambil nyengir lebar seperti orang yang baru bangun dari tidur siang yang nyaman di kursi pantai.
 
 "Waduh, kecolongan saya, Miss Hana," jawab Bima dengan nada bercanda yang ringan. "Semalam saya keasyikan melek sampai subuh di depan layar, jadi lupa belum ngecek PR-nya Nino. Tenang aja, akhir pekan ini kami kebut di rumah, hari Senin dijamin hafal luar kepala."
 
 Mendengar kalimat melek sampai subuh di depan layar dengan gaya cengengesan begitu, rasa kasihan yang tadinya sempat muncul di hatiku langsung menguap berubah menjadi kesal.
 
-Di kepalaku, orang yang begadang sampai subuh di depan layar lalu bangun sambil tertawa-tawa santai begitu pastilah habis begadang menonton pertandingan bola atau bermain gim semalaman. Aku menutup buku catatan cokelatku dengan gerakan tegas, benar-benar tidak habis pikir bagaimana bisa aku menaruh harapan evaluasi promosiku pada paman yang bahkan untuk mendampingi keponakannya mengerjakan PR lima baris saja masih kalah oleh urusan begadang santainya.
+Orang yang begadang sampai subuh di depan layar lalu bangun sambil tertawa-tawa santai begitu pastilah habis begadang menonton pertandingan bola atau bermain gim semalaman. Aku menutup buku catatan cokelatku dengan gerakan tegas, cemas setengah mati membayangkan apa yang bakal terjadi pada evaluasi hari Senin nanti kalau wali muridnya saja masih menganggap sepele tenggat sepenting itu.

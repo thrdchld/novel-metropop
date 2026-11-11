@@ -1,24 +1,24 @@
 ## Bab 17: Mematikan Alarm
 
-Hari Rabu sore setelah kunjunganku ke Cipete kemarin, suasana di Ruang Kelas Nomor Dua terasa sangat berbeda.
+"Sore, Miss Hana! Terima kasih sup ayamnya yang kemarin ya, kata Nenek sup buatan Miss Hana enak banget!"
 
-Begitu Bima dan Nino tiba sepuluh menit sebelum pukul empat, aku tidak lagi menyambut mereka dengan buku catatan cokelat dan tatapan pengawas ujian. Aku bahkan sudah menyiapkan sekotak biskuit cokelat kesukaan Nino di atas meja belajar.
+Suara nyaring Nino langsung memenuhi Ruang Kelas Nomor Dua begitu pintu kaca digeser terbuka sepuluh menit sebelum pukul empat pada hari Rabu sore ini.
 
-"Sore, Miss Hana! Terima kasih sup ayamnya yang kemarin ya, kata Nenek sup buatan Miss Hana enak banget!" seru Nino begitu masuk ke dalam kelas.
+Aku tidak lagi menyambut mereka dengan buku catatan cokelat dan tatapan pengawas ujian seperti minggu-minggu sebelumnya. Di atas meja belajar, aku bahkan sudah menyiapkan sekotak biskuit cokelat kesukaan Nino.
 
 "Sama-sama, Nino. Senang kalau Nenek sama Nino suka," jawabku sambil tersenyum hangat dan melirik Bima yang berdiri di dekat pintu dengan kemeja flanel birunya. "Mas Bima duduk di kursi dalam saja sore ini, biar kita latihan sama-sama."
 
-"Siap, Bu Guru," sahut Bima dengan senyum cerah yang kali ini terasa jauh lebih dekat di hatiku.
+"Siap, Bu Guru," sahut Bima dengan senyum cerah yang kali ini jauh lebih dekat di hatiku.
 
-Kami mulai berlatih membaca draf naskah My Parents untuk persiapan acara Storytelling Day dua minggu lagi. Di paragraf pertama yang menceritakan kalimat umum tentang keluarga, suara Nino terdengar lantang dan pengucapannya sudah jauh lebih rapi dibandingkan hari Senin lalu.
+Kami mulai berlatih membaca draf naskah My Parents untuk persiapan acara Storytelling Day dua minggu lagi. Di paragraf pertama yang menceritakan kalimat umum tentang keluarga, suara Nino cukup lantang dan pengucapannya sudah jauh lebih rapi dibandingkan hari Senin lalu.
 
 Namun begitu masuk ke paragraf kedua yang berisi kalimat My mother always hugs me before I sleep, suara Nino perlahan melemah.
 
-Bocah delapan tahun itu berhenti membaca. Matanya menatap barisan huruf di kertas dengan pandangan kosong, lalu jari telunjuknya menyentuh kata mother berulang kali. Aku tahu persis apa yang sedang dipikirkannya sekarang. Sudah dua bulan ibunya terbaring di rumah sakit dan belum bisa memeluknya sebelum tidur seperti di kalimat itu.
+Bocah delapan tahun itu berhenti membaca.
 
-Kalau ini terjadi dua minggu yang lalu, aku pasti sudah mengetukkan spidolku ke meja dan meminta Nino mengulang kalimat itu sampai lancar demi mengejar target halaman.
+Matanya menatap barisan huruf di kertas dengan pandangan kosong, lalu jari telunjuknya menyentuh kata mother berulang kali. Aku tahu persis apa yang sedang dipikirkannya sekarang. Sudah dua bulan ibunya terbaring di rumah sakit dan belum bisa memeluknya sebelum tidur seperti di kalimat itu.
 
-Tapi sore ini, aku meletakkan bolpoinku dan menutup buku catatan cokelatku.
+Kalau ini terjadi dua minggu yang lalu, aku pasti sudah mengetukkan spidolku ke meja dan meminta Nino mengulang kalimat itu sampai lancar demi mengejar target halaman. Tapi sore ini, aku meletakkan bolpoinku dan menutup buku catatan cokelatku.
 
 "Nino, kita istirahat sebentar dari kertasnya yuk," ajakku lembut sambil menggeser kursiku mendekat. "Daripada cuma baca tulisan di kertas, gimana kalau Mas Bima nyalain kameranya, terus kita latihan ngobrol bahasa Inggris santai soal makanan kesukaan keluarga Nino di rumah? Nanti kalau Ibu Nino sudah sembuh dan pulang dari rumah sakit, Nino mau makan apa bareng Ibu?"
 
@@ -28,7 +28,7 @@ Wajah Nino yang tadinya mendung langsung terangkat menatapku, sementara Bima di 
 
 "Nah, coba bilang pakai bahasa Inggris ke kamera Om Bima. I want to eat meatballs with my mother!" panduku sambil tersenyum.
 
-Dengan bantuan kamera tua Bima yang menyala merekam latihan kami, sisa tiga puluh menit pelajaran sore itu mengalir begitu cepat dan penuh tawa. Nino tidak lagi merasa terbebani oleh kalimat yang kaku, dan suaranya kembali terdengar nyaring memenuhi ruang kelas.
+Dengan bantuan kamera tua Bima yang menyala merekam latihan kami, sisa tiga puluh menit pelajaran sore itu mengalir begitu cepat dan penuh tawa. Nino tidak lagi terbebani oleh kalimat yang kaku, dan suaranya kembali nyaring memenuhi ruang kelas.
 
 Tepat pukul lima lewat lima belas menit setelah sesi latihan tambahan selesai, kami bertiga keluar menuju lobi depan.
 
@@ -38,14 +38,14 @@ Baru saja Bima menyelesaikan kalimatnya, ponsel di dalam tas selempangku berderi
 
 Aku mengeluarkan ponselku. Di layarnya terpampang pengingat rutin hari Rabu sore: Pulang Kos & Rekap Nilai Kelas Reguler.
 
-Bima ikut melirik layar ponselku yang berbunyi, lalu tersenyum maklum. "Tuh, komandan jadwalnya sudah bunyi. Hati-hati di jalan ya, Hana."
+"Tuh, komandan jadwalnya sudah bunyi. Hati-hati di jalan ya, Hana," goda Bima sambil melirik layar ponselku dengan senyum maklum.
 
-Aku menatap deretan huruf pengingat di layar ponselku itu, lalu menatap wajah Bima dan Nino yang berdiri di depanku. Untuk pertama kalinya selama empat tahun terakhir, dering pengingat itu tidak lagi terasa seperti perintah mutlak yang harus kupatuhi detik itu juga.
+Aku menatap deretan huruf pengingat di layar ponselku itu, lalu menatap wajah Bima dan Nino yang berdiri di depanku. Untuk pertama kalinya selama empat tahun terakhir, dering pengingat itu bukan lagi perintah mutlak yang harus kupatuhi detik itu juga.
 
 Di depan mata Bima, ibu jariku menekan tombol matikan pengingat, lalu sekalian menggeser sakelar pengingat pukul enam malamku menjadi nonaktif.
 
-Mata Bima mengerjap kaget melihat tindakanku. "Loh, kok dimatiin alarmnya?"
+"Loh, kok dimatiin alarmnya?" tanya Bima sambil mengerjap kaget.
 
-Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap nilainya bisa kukerjakan besok pagi di ruang guru. Tadi di kelas kan kita habis ngomongin bakso pangsit goreng sampai bikin lapar. Mas Bima sama Nino belum makan sore kan? Ayo kita makan bakso di warung tenda sebelah dulu, hari ini giliranku yang traktir."
+Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap nilainya bisa kukerjakan besok pagi di ruang guru, soalnya tadi di kelas kita habis ngomongin bakso pangsit goreng sampai bikin lapar. Mas Bima sama Nino belum makan sore kan? Ayo kita makan bakso di warung tenda sebelah dulu, hari ini giliranku yang traktir."
 
-Selama tiga detik penuh, Bima hanya berdiri tertegun menatapku seolah tidak percaya bahwa perempuan yang baru saja mematikan alarm jadwalnya sendiri demi makan bakso pinggir jalan adalah Miss Hana yang sama, sebelum akhirnya tawa hangatnya pecah dan dia mengangguk paling lebar sore itu.
+Selama tiga detik penuh, Bima hanya berdiri tertegun menatapku seperti tidak percaya bahwa perempuan yang baru saja mematikan alarm jadwalnya sendiri demi makan bakso pinggir jalan adalah Miss Hana yang sama, sebelum akhirnya tawa hangatnya pecah di teras sore itu.

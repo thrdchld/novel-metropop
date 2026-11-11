@@ -1,20 +1,20 @@
 ## Bab 5: Saat Jadwal Dikacaukan Hujan
 
-Pukul setengah enam sore, jadwal di buku catatan cokelatku seharusnya sudah masuk ke baris berikutnya: naik ojek online ke kos, mampir membeli nasi ayam panggang di dekat gang, lalu pukul enam lewat lima belas menit sudah duduk rapi di kamar sambil memeriksa draf materi minggu depan.
+Lingkaran pencari pengemudi di layar ponselku sudah berputar lima belas menit penuh tanpa hasil, sementara cipratan hujan deras terus menyerbu sampai ke ubin teras depan gedung BrightStep English.
 
-Sayangnya, langit kawasan Kebayoran Baru sore itu punya rencana lain.
+Di kepalaku, pukul setengah enam di hari Jumat sore seharusnya berjalan tertib sesuai baris catatan di buku cokelatku: naik ojek online ke kos, mampir membeli nasi ayam panggang di mulut gang, lalu duduk rapi di kamar sebelum pukul enam lewat lima belas menit.
 
-Begitu aku keluar ke teras depan gedung BrightStep English setelah membereskan kelas terakhirku, hujan deras mengguyur jalanan tanpa ampun. Angin sore membawa cipratan air sampai ke ubin teras, sedangkan deretan mobil dan motor di jalan raya menuju arah Blok M sudah macet mengular di bawah guyuran hujan.
+Kenyataannya? Langit kawasan Kebayoran Baru sore ini jelas tidak sudi membaca buku jadwalku.
 
-Aku berdiri di dekat pilar teras sambil menatap layar ponselku dengan kening berkerut. Sudah lima belas menit lingkaran pencari pengemudi di aplikasi ojek online berputar-putar tanpa hasil. Tarifnya bahkan sudah melonjak dua kali lipat, tapi tetap tidak ada satu pun pengemudi yang mengambil pesananku.
+Angin sore membawa bau tanah basah dan deru klakson dari jalan raya menuju arah Blok M yang sudah macet mengular di bawah guyuran hujan. Tarif di aplikasi ojek online bahkan sudah melonjak dua kali lipat, tapi tetap tidak ada satu pun pengemudi yang mengambil pesananku.
 
 "Belum dapat ojek juga, Miss Hana?"
 
-Aku menoleh ke bangku kayu panjang di sudut teras. Bima dan Nino ternyata masih duduk berteduh di sana. Nino sedang asyik mengayun-ayunkan kedua kakinya yang memakai sepatu sekolah sambil bersenandung kecil, sementara tas kamera kanvas besar Bima diletakkan di tengah bangku.
+Aku menoleh ke bangku kayu panjang di sudut teras. Bima dan Nino masih duduk berteduh di sana. Nino sedang asyik mengayun-ayunkan kedua kakinya yang memakai sepatu sekolah sambil bersenandung kecil, sementara tas kamera kanvas besar Bima diletakkan di tengah bangku.
 
 "Belum, Mas. Kalau hujan deras jam pulang kantor begini biasanya susah dapat pengemudi," jawabku sambil kembali melirik jam di pojok layar ponsel. Pukul lima lewat empat puluh menit. Jadwal makan malam dan beberes kamarku sudah dipastikan bakal mundur satu jam penuh. Tanpa sadar, jari telunjukku kembali mengetuk-ngetuk sampul buku catatan cokelat yang kupegang.
 
-Bima memperhatikan jari telunjukku yang mengetuk buku itu, lalu tersenyum kecil. "Kayaknya buku cokelat Miss Hana mulai berasap tuh gara-gara jam pulangnya melenceng."
+"Kayaknya buku cokelat Miss Hana mulai berasap tuh gara-gara jam pulangnya melenceng," goda Bima sambil tersenyum kecil memperhatikan jari telunjukku.
 
 "Saya cuma kurang suka kalau waktu terbuang sia-sia di teras begini, Mas," sahutku jujur. "Harusnya jam enam kurang seperempat saya sudah sampai di tempat kos."
 
@@ -30,9 +30,9 @@ Dari dalam kantong itu, Bima mengeluarkan tiga bungkus es krim potong rasa cokel
 
 Aku menatap es krim potong di tanganku, lalu melirik layar ponselku yang baru saja memunculkan pemberitahuan bahwa pencarian pengemudi kembali gagal.
 
-Akhirnya aku menghela napas kecil, memasukkan ponsel ke dalam tas selempangku, dan ikut duduk di ujung bangku kayu teras. Saat kugigit ujung roti dan es krim cokelat yang dingin itu, rasa manisnya perlahan membuat bahuku yang tegang sejak tadi sedikit mengendur.
+Akhirnya aku memasukkan ponsel ke dalam tas selempangku dan ikut duduk di ujung bangku kayu teras. Saat kugigit ujung roti dan es krim cokelat yang dingin itu, manisnya cokelat perlahan membuat bahuku yang tegang sejak tadi sedikit mengendur.
 
-"Enak kan, Miss?" tanya Nino sambil memamerkan kumis tipis dari lelehan cokelat di atas bibirnya. "Ini bahasa Inggrisnya brown ice cream!"
+"Enak kan, Miss? Ini bahasa Inggrisnya brown ice cream!" seru Nino sambil memamerkan kumis tipis dari lelehan cokelat di atas bibirnya.
 
 Aku tertawa kecil melihat wajah belepotan muridku itu, lalu mengambil selembar tisu dari tasku untuk mengelap sudut bibirnya. "Betul, brown ice cream. Nino pintar sekali hari ini, sudah berani ngomong banyak di kelas."
 
@@ -42,6 +42,6 @@ Aku baru mau membalas ledekannya ketika Bima meletakkan sisa bungkus rotinya, la
 
 "Lagi hujan begini masih sempat-sempatnya ngerekam talang air, Mas?" tanyaku heran melihat lampu kecil di kameranya menyala beberapa detik.
 
-Bima menurunkan kameranya sambil mengusap tengkuknya dan tertawa ringan. "Buat koleksi suara hujan sama gambar air jatuh aja, Miss. Kadang gambar yang nggak direncanain malah bagus kalau dilihat lagi nanti."
+"Buat koleksi suara hujan sama gambar air jatuh aja, Miss. Kadang gambar yang nggak direncanain malah bagus kalau dilihat lagi nanti," jawab Bima sambil menurunkan kameranya dan mengusap tengkuknya dengan tawa ringan.
 
-Aku hanya menggeleng pelan sambil menghabiskan potongan terakhir es krimku, masih menganggap hobi memotret benda-benda remeh milik wali muridku itu agak aneh, meski harus kuakui es krim cokelat di tengah hujan sore ini ternyata tidak seburuk yang kubayangkan.
+Aku hanya menggeleng pelan sambil menghabiskan potongan terakhir es krimku, masih menganggap hobi memotret talang air hujan milik wali muridku itu agak aneh, meski diam-diam aku mulai bertanya-tanya kejutan apa lagi yang bakal dibawa paman dan keponakan ini minggu depan.

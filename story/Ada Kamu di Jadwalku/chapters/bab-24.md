@@ -1,20 +1,18 @@
 ## Bab 24: Rahasia
 
-Kamis malam pukul setengah sembilan, kamar kosku terasa jauh lebih sunyi dari biasanya.
+Sudah setengah jam koper biru tua itu terbuka lebar di lantai sudut kamarku, namun belum ada satu helai baju pun yang berhasil kulipat masuk ke dalamnya.
 
-Di atas meja belajarku, map biru Surat Keputusan promosi Surabaya terletak berdampingan dengan buku catatan bersampul cokelatku. Koper biru tua yang tadinya berada di atas lemari sudah kuturunkan ke lantai sudut kamar untuk mulai kuisi dengan pakaian musim hujan, namun sejak setengah jam yang lalu belum ada satu helai baju pun yang berhasil kulipat masuk ke dalamnya.
-
-Ponsel di dekat bantal bergetar menampilkan panggilan masuk dari Fajar. Sejak bertemu di lobi tempat kursus hari Senin lalu, Fajar jadi rajin menelepon setiap malam seolah yakin seratus persen bahwa aku sudah setuju kembali kepadanya.
+Di atas meja belajarku pada Kamis malam ini, map biru Surat Keputusan promosi Surabaya terletak berdampingan dengan buku catatan bersampul cokelatku. Ponsel di dekat bantal bergetar menampilkan panggilan masuk dari Fajar. Sejak bertemu di lobi tempat kursus hari Senin lalu, Fajar jadi rajin menelepon setiap malam seperti orang yang sudah yakin seratus persen bahwa aku setuju kembali kepadanya.
 
 Aku menggeser tombol terima dengan malas dan menyalakan pengeras suara ponsel sambil duduk bersandar di tepi ranjang.
 
-"Malam, Han. Lagi beres-beres koper?" terdengar suara Fajar dari seberang telepon.
+"Malam, Han. Lagi beres-beres koper?" sapa Fajar dari seberang telepon.
 
 "Belum mulai, Jar, baru pulang ngajar kelas sore tadi," jawabku singkat.
 
-"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," ujar Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat hari Sabtu tanggal dua puluh delapan jam sembilan pagi, nanti jam sebelas sudah bisa serah terima kunci apartemen dekat kantor cabang baru kamu. Terus tiap dua minggu sekali di akhir pekan genap, aku sudah buat jadwal buat terbang nengok kamu ke Surabaya. Rapi banget kan hitungannya?"
+"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat hari Sabtu tanggal dua puluh delapan jam sembilan pagi, nanti jam sebelas sudah bisa serah terima kunci apartemen dekat kantor cabang baru kamu. Terus tiap dua minggu sekali di akhir pekan genap, aku sudah buat jadwal buat terbang nengok kamu ke Surabaya. Rapi banget kan hitungannya?"
 
-Aku menatap langit-langit kamarku dengan pandangan hampa. Semua jadwal yang disebutkan Fajar itu terdengar begitu terukur dan aman, persis seperti yang dulu selalu kuimpikan. Tapi anehnya, mendengarkan semua rencana rapi itu sekarang malah membuat dadaku terasa sesak seperti kehabisan udara.
+Aku menatap langit-langit kamarku dengan pandangan hampa. Di kepalaku dulu, rencana yang serba terukur seperti ucapan Fajar barusan adalah puncak rasa aman yang paling kuimpikan. Kenyataannya, mendengarkan semua jadwal rapi itu sekarang malah membuatku ingin menutup telinga.
 
 "Nanti aja bahas jadwal pesawatnya ya, Jar. Aku masih harus fokus nyiapin acara evaluasi panggung hari Sabtu lusa," potongku pelan. "Aku tutup dulu ya, mau istirahat."
 
@@ -22,7 +20,7 @@ Setelah mematikan telepon Fajar, aku menarik lututku ke depan dada. Ingatanku ke
 
 Urusan les privat Nino juga selesai hari Sabtu ini kok, jadi tidak ada lagi yang perlu Miss Hana pikirkan di sini.
 
-Aku menghela napas panjang yang terasa berat. Tinggal satu kali pertemuan kelas terakhir besok sore, lalu acara panggung hari Sabtu pagi, dan sesudah itu aku benar-benar tidak punya alasan lagi untuk bertemu dengan paman berkemeja flanel kusut dan bocah pecinta dinosaurus itu.
+Tinggal satu kali pertemuan kelas terakhir besok sore, lalu acara panggung hari Sabtu pagi, dan sesudah itu aku benar-benar tidak punya alasan lagi untuk bertemu dengan paman berkemeja flanel kusut dan bocah pecinta dinosaurus itu.
 
 Tepat pukul sembilan malam, layar ponselku tiba-tiba menyala memunculkan pemberitahuan pesan baru. Nama Mas Bima muncul di layar setelah kemarin pagi aku sempat menyimpan nomornya untuk koordinasi jadwal panggung.
 
@@ -32,18 +30,16 @@ Mas Bima: Selamat malam, Miss Hana. Maaf mengganggu malam-malam. Untuk pertemuan
 
 Keningku berkerut membaca pesan yang begitu formal dan panjang itu. Aku lalu menekan tombol putar pada kiriman pesan suara di bawahnya.
 
-Dari pengeras suara ponselku, terdengar suara Nino yang memang agak bindeng seperti anak yang habis menangis lama.
+Dari pengeras suara ponselku, keluar suara Nino yang memang agak bindeng seperti anak yang habis menangis lama.
 
 "Selamat malam, Miss Hana... besok kita tetap ketemu di kelas ya, tapi aku izin simpan suara dulu kata Om Bima. Selamat tidur, Miss..."
 
-Namun tepat satu detik sebelum rekaman pesan suara itu terputus, telingaku menangkap bunyi lembaran kertas yang dibolak-balik dengan cepat di latar belakang, disusul suara bisikan pelan Bima yang terdengar samar karena lupa menjauhkan mikrofon ponselnya: "Ayo, No, ulangi lagi hafalan kalimat nomor tiga yang baru tadi..."
+Namun tepat satu detik sebelum rekaman pesan suara itu terputus, telingaku menangkap bunyi lembaran kertas yang dibolak-balik dengan cepat di latar belakang, disusul bisikan pelan Bima yang ikut terekam gara-gara lupa menjauhkan mikrofon ponselnya: "Ayo, No, ulangi lagi hafalan kalimat nomor tiga yang baru tadi..."
 
 Rekaman suara itu berhenti.
 
-Aku menatap layar ponselku dengan penuh tanda tanya. Kalau tenggorokan Nino memang sedang serak dan disuruh istirahat menyimpan suara, kenapa jam sembilan malam begini di rumahnya justru terdengar bunyi kertas latihan dibolak-balik dan Bima menyuruhnya mengulang hafalan kalimat baru?
+Aku menatap layar ponselku dengan penuh tanda tanya. Kalau tenggorokan Nino memang sedang serak dan disuruh istirahat menyimpan suara, kenapa jam sembilan malam begini di rumahnya justru ada bunyi kertas latihan dibolak-balik dan Bima menyuruhnya mengulang hafalan kalimat baru?
 
-Namun rasa perih akibat penolakan halus Bima kemarin petang membuatku segera menepis rasa penasaran itu. Mungkin Bima hanya sedang melatih ulang naskah My Parents di rumah agar dia tidak perlu berlama-lama mengobrol denganku di kelas besok sore.
-
-Dengan jari yang terasa kaku, aku mengetikkan balasan singkat yang sama formalnya.
+Namun perih akibat penolakan halus Bima kemarin petang membuatku segera menepis rasa penasaran itu. Mungkin Bima hanya sedang melatih ulang naskah My Parents di rumah agar dia tidak perlu berlama-lama mengobrol denganku di kelas besok sore. Aku pun mengetikkan balasan singkat yang sama formalnya.
 
 Hana: Baik, Mas Bima. Sampai bertemu di kelas besok sore.
