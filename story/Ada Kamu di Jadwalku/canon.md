@@ -49,7 +49,7 @@
   2. Merapikan letak spidol dan kotak tempat pensil di meja sampai berbaris lurus sebelum mulai berbicara serius.
 
 #### Bima Raharja (Love Interest)
-- **Kesan Unik:** Selalu membawa tas kamera kanvas besar yang kelihatan berat sebelah (karena isinya tinggal satu kamera peninggalan ayahnya после lensa-lensa lainnya dijual demi biaya rumah sakit keluarga), dengan senyum hangat yang membuat orang mengira hidupnya tidak punya beban.
+- **Kesan Unik:** Selalu membawa tas kamera kanvas besar yang kelihatan berat sebelah (karena isinya tinggal satu kamera peninggalan ayahnya setelah lensa-lensa lainnya dijual demi biaya rumah sakit keluarga), dengan senyum hangat yang membuat orang mengira hidupnya tidak punya beban.
 - **Kebiasaan Kecil (*Micro-Tell* & *Planting*):**
   1. Suka mengangkat kameranya secara diam-diam (*candid*) untuk memotret atau merekam video pendek saat orang lain sedang lengah atau tertawa jujur, sesuai ajaran almarhum ayahnya.
   2. Mengusap tengkuknya sambil tersenyum tipis setiap kali sedang menyembunyikan rasa lelah atau salah tingkah.
