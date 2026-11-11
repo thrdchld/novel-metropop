@@ -276,7 +276,7 @@ Aku berdiri di pinggir trotoar Cikini, meraba ujung kertas kuning itu dengan ibu
 
 ---
 
-## Bab 5: Latihan Pertama dan Utang Ayam Bakar
+## Bab 5: Latihan dan Utang Ayam Bakar
 
 Begitu tiba di meja nomor empat Rabu pagi tadi, hal pertama yang kulakukan adalah melepas kertas post-it kuning pemberian Saka dari sampul buku sketsaku dan menempelkannya rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
 
@@ -598,7 +598,7 @@ Aku menatap senyum tipis yang cuma bertahan tiga detik di wajah Saka itu, dan en
 
 ---
 
-## Bab 10: Anak Tengah di Meja Makan Keluarga
+## Bab 10: Anak Tengah di Meja Makan
 
 Kalau ada orang yang bertanya dari mana asal-usul penyakit nggak enakanku yang sudah stadium empat ini, jawabannya terletak di sebuah rumah berpagar hijau daun di kawasan Rawamangun.
 
@@ -702,7 +702,7 @@ Di seberang meja, Saka tidak langsung menjawab dengan kalimat ledekan pedas sepe
 
 ---
 
-## Bab 12: Cerita dari Yogyakarta dan Botol Penyok
+## Bab 12: Cerita Yogyakarta dan Botol Penyok
 
 Hujan di luar kedai kopi mulai mereda menjadi rintik sedang saat cangkir teh hangat kami tinggal setengah.
 
@@ -1048,7 +1048,7 @@ Aku berdiri di teras kos sambil memeluk kotak martabak hangat itu di dadaku. Mal
 
 ---
 
-## Bab 18: Pergeseran Kecil di Meja Nomor Empat
+## Bab 18: Pergeseran Kecil di Meja Empat
 
 Sejak rahasia tutup botol minum hitamnya terbongkar di teras kosku malam Jumat lalu, Saka resmi berhenti mengarang alasan promo minimarket atau abang warung salah hitung.
 
@@ -1330,7 +1330,7 @@ Di saat hatiku sedang perih dan hampa karena jawaban dingin Saka kemarin sore so
 
 ---
 
-## Bab 23: Bujukan Ibu dan Hati yang Goyah
+## Bab 23: Bujukan Ibu dan Hati Goyah
 
 Menjelang pukul lima sore, keadaan Ibu sudah jauh membaik setelah minum obat dari klinik dan beristirahat di kamarnya.
 
@@ -1666,7 +1666,7 @@ Sekarang, hanya tinggal satu orang yang harus kutemui besok pagi di meja nomor e
 
 ---
 
-## Bab 29: Kursi Kosong dan Penyesalan yang Terlambat
+## Bab 29: Kursi Kosong dan Penyesalan Terlambat
 
 Rabu pagi pukul delapan lewat lima belas menit, aku sudah keluar dari pintu lift lantai tiga dengan napas sedikit terengah-engah karena setengah berlari dari Stasiun Cikini.
 

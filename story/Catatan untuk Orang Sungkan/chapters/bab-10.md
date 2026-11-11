@@ -1,4 +1,4 @@
-## Bab 10: Anak Tengah di Meja Makan Keluarga
+## Bab 10: Anak Tengah di Meja Makan
 
 Kalau ada orang yang bertanya dari mana asal-usul penyakit nggak enakanku yang sudah stadium empat ini, jawabannya terletak di sebuah rumah berpagar hijau daun di kawasan Rawamangun.
 

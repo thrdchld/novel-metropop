@@ -1,4 +1,4 @@
-## Bab 18: Pergeseran Kecil di Meja Nomor Empat
+## Bab 18: Pergeseran Kecil di Meja Empat
 
 Sejak rahasia tutup botol minum hitamnya terbongkar di teras kosku malam Jumat lalu, Saka resmi berhenti mengarang alasan promo minimarket atau abang warung salah hitung.
 

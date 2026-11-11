@@ -1,4 +1,4 @@
-## Bab 23: Bujukan Ibu dan Hati yang Goyah
+## Bab 23: Bujukan Ibu dan Hati Goyah
 
 Menjelang pukul lima sore, keadaan Ibu sudah jauh membaik setelah minum obat dari klinik dan beristirahat di kamarnya.
 

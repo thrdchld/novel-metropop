@@ -1,4 +1,4 @@
-## Bab 12: Cerita dari Yogyakarta dan Botol Penyok
+## Bab 12: Cerita Yogyakarta dan Botol Penyok
 
 Hujan di luar kedai kopi mulai mereda menjadi rintik sedang saat cangkir teh hangat kami tinggal setengah.
 

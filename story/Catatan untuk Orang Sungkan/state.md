@@ -3,7 +3,7 @@
 > **Potret Kondisi Aktif Cerita**
 
 ## 1. Status Penulisan Saat Ini
-- **Bab Terakhir Selesai:** Bab 32 (Catatan *Post-it* Terakhir) - **TAMAT (32/32 Bab)**
+- **Bab Terakhir Selesai:** Bab 32 (Catatan Post-it Terakhir) - **TAMAT (32/32 Bab)**
 - **Bab Berikutnya:** Selesai (Tamat)
 - **Waktu & Lokasi Terkini:** Senin sore pukul 17.01 (tiga hari pasca peluncuran buku *Sela Waktu*), Meja Proyek Nomor 4, Penerbit Aksara Senja, Cikini
 - **POV Aktif:** Nadia Putri (POV 1 "Aku")
