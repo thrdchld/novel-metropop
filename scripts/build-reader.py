@@ -1749,7 +1749,12 @@ def generate_html(stories: list) -> str:
     function triggerManuscriptDownload(story) {{
       let content = story.manuscript;
       if (!content || !content.trim()) {{
-        content = `# ${{story.title}}\n\n` + story.chapters.map(c => `## ${{c.title}}\n\n${{c.content}}`).join("\n\n---\n\n");
+        const nl = String.fromCharCode(10);
+        const parts = ["# " + (story.title || "Naskah")];
+        (story.chapters || []).forEach(c => {{
+          parts.push("## " + c.title + nl + nl + (c.content || ""));
+        }});
+        content = parts.join(nl + nl + "---" + nl + nl);
       }}
       const blob = new Blob([content], {{ type: "text/markdown;charset=utf-8" }});
       const url = URL.createObjectURL(blob);
@@ -1970,7 +1975,25 @@ def main():
     html_content = generate_html(stories)
     OUTPUT_FILE.write_text(html_content, encoding="utf-8")
     INDEX_FILE.write_text(html_content, encoding="utf-8")
-    print(f"Selesai! Ukuran file: {OUTPUT_FILE.stat().st_size / 1024:.1f} KB.")
+
+    # Validasi sintaks JSON & JS
+    import shutil, subprocess
+    scripts = re.findall(r"<script(?:\s+[^>]*)?>(.*?)</script>", html_content, re.DOTALL)
+    if len(scripts) < 2:
+        raise RuntimeError("HTML output kehilangan script data atau engine!")
+    json.loads(scripts[0])
+    if shutil.which("node"):
+        tmp_check = REPO_ROOT / ".tmp_check_build.js"
+        try:
+            tmp_check.write_text(scripts[1], encoding="utf-8")
+            chk = subprocess.run(["node", "-c", str(tmp_check)], capture_output=True, text=True)
+            if chk.returncode != 0:
+                raise RuntimeError(f"Sintaks JavaScript web reader cacat:\n{chk.stderr}")
+        finally:
+            if tmp_check.exists():
+                tmp_check.unlink()
+
+    print(f"Selesai! Ukuran file: {OUTPUT_FILE.stat().st_size / 1024:.1f} KB. Sintaks JS tervalidasi 100%.")
 
 
 if __name__ == "__main__":

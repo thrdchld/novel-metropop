@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -253,7 +254,28 @@ def check_and_sync_reader(repo_root: Path, files: list[Path], fix: bool = False)
             return False, f"Gagal memperbarui reader.html: {proc.stderr}"
         return False, "reader.html / index.html lebih lama dari file bab terkini (perlu di-build ulang)"
 
-    return True, "reader.html dan index.html (GitHub Pages) mutakhir"
+    # Validasi integritas JSON & JS di reader.html dan index.html
+    for html_file in [reader_path, index_path]:
+        html_txt = html_file.read_text(encoding="utf-8", errors="ignore")
+        scripts = re.findall(r"<script(?:\s+[^>]*)?>(.*?)</script>", html_txt, re.DOTALL)
+        if len(scripts) < 2:
+            return False, f"{html_file.name} kehilangan script engine"
+        try:
+            json.loads(scripts[0])
+        except Exception as e:
+            return False, f"JSON data di {html_file.name} rusak: {e}"
+        if shutil.which("node"):
+            tmp_val = repo_root / f".tmp_val_{html_file.stem}.js"
+            try:
+                tmp_val.write_text(scripts[1], encoding="utf-8")
+                res = subprocess.run(["node", "-c", str(tmp_val)], capture_output=True, text=True)
+                if res.returncode != 0:
+                    return False, f"Sintaks JavaScript di {html_file.name} error: {res.stderr.strip()}"
+            finally:
+                if tmp_val.exists():
+                    tmp_val.unlink()
+
+    return True, "reader.html dan index.html (GitHub Pages) mutakhir & valid"
 
 
 def check_and_sync_registry(repo_root: Path, story_dir: Path, files: list[Path], fix: bool = False) -> tuple[bool, str]:

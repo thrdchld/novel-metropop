@@ -2392,15 +2392,12 @@
     function triggerManuscriptDownload(story) {
       let content = story.manuscript;
       if (!content || !content.trim()) {
-        content = `# ${story.title}
-
-` + story.chapters.map(c => `## ${c.title}
-
-${c.content}`).join("
-
----
-
-");
+        const nl = String.fromCharCode(10);
+        const parts = ["# " + (story.title || "Naskah")];
+        (story.chapters || []).forEach(c => {
+          parts.push("## " + c.title + nl + nl + (c.content || ""));
+        });
+        content = parts.join(nl + nl + "---" + nl + nl);
       }
       const blob = new Blob([content], { type: "text/markdown;charset=utf-8" });
       const url = URL.createObjectURL(blob);
