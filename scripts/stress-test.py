@@ -230,28 +230,29 @@ def check_and_sync_manuscript(story_dir: Path, files: list[Path], fix: bool = Fa
 
 def check_and_sync_reader(repo_root: Path, files: list[Path], fix: bool = False) -> tuple[bool, str]:
     reader_path = repo_root / "reader.html"
+    index_path = repo_root / "index.html"
     builder_script = repo_root / "scripts" / "build-reader.py"
 
-    if not reader_path.is_file():
+    if not reader_path.is_file() or not index_path.is_file():
         if fix and builder_script.is_file():
             proc = subprocess.run([sys.executable, str(builder_script)], capture_output=True, text=True)
             if proc.returncode == 0:
-                return True, "reader.html berhasil dibuat ulang"
+                return True, "reader.html dan index.html (GitHub Pages) berhasil dibuat ulang"
             return False, f"Gagal membuat reader.html: {proc.stderr}"
-        return False, "reader.html belum dibuat di root repositori"
+        return False, "reader.html / index.html belum dibuat di root repositori"
 
-    reader_mtime = reader_path.stat().st_mtime
+    reader_mtime = min(reader_path.stat().st_mtime, index_path.stat().st_mtime)
     newest_chap = max((f.stat().st_mtime for f in files), default=0)
 
     if reader_mtime < newest_chap:
         if fix and builder_script.is_file():
             proc = subprocess.run([sys.executable, str(builder_script)], capture_output=True, text=True)
             if proc.returncode == 0:
-                return True, "reader.html berhasil diperbarui dengan bab terbaru"
+                return True, "reader.html dan index.html berhasil diperbarui dengan bab terbaru"
             return False, f"Gagal memperbarui reader.html: {proc.stderr}"
-        return False, "reader.html lebih lama dari file bab terkini (perlu di-build ulang)"
+        return False, "reader.html / index.html lebih lama dari file bab terkini (perlu di-build ulang)"
 
-    return True, "reader.html mutakhir"
+    return True, "reader.html dan index.html (GitHub Pages) mutakhir"
 
 
 def check_and_sync_registry(repo_root: Path, story_dir: Path, files: list[Path], fix: bool = False) -> tuple[bool, str]:
@@ -399,14 +400,14 @@ def main() -> int:
             total_errors.append(f"[manuscript.md] {manu_msg}")
             print(f"  4. Naskah Gabungan manuscript.md               : {FAIL_ICON} ({manu_msg})")
 
-        # 5. reader.html Sync
+        # 5. reader.html & index.html Sync
         reader_ok, reader_msg = check_and_sync_reader(repo_root, files, fix=args.fix)
         if reader_ok:
             icon = FIXED_ICON if (args.fix and "berhasil" in reader_msg) else PASS_ICON
-            print(f"  5. Ebook Web Reader reader.html                : {icon}")
+            print(f"  5. Ebook Web Reader (reader & index.html)      : {icon}")
         else:
             total_errors.append(f"[reader.html] {reader_msg}")
-            print(f"  5. Ebook Web Reader reader.html                : {FAIL_ICON} ({reader_msg})")
+            print(f"  5. Ebook Web Reader (reader & index.html)      : {FAIL_ICON} ({reader_msg})")
 
         # 6. universe-registry.md Sync
         reg_ok, reg_msg = check_and_sync_registry(repo_root, story_dir, files, fix=args.fix)

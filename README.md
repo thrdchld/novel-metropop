@@ -25,6 +25,7 @@ GEMINI.md              # Pointer protokol untuk Gemini / Antigravity
 CLAUDE.md              # Pointer protokol untuk Claude Code
 STANDALONE.md          # Panduan ringkas mandiri untuk pengguna Web Chat (ChatGPT/Claude/Gemini Web)
 acuan-bahasa.docx      # Acuan utama gaya bahasa, diksi, dan tone bercerita (Resign! - Almira Bastari)
+index.html             # Entry point web reader untuk GitHub Pages (https://thrdchld.github.io/novel-metropop/)
 reader.html            # Aplikasi pembaca web novel offline untuk layar HP (hasil generate scripts/build-reader.py)
 .agent/skills/         # Workspace skill untuk Antigravity CLI (metropop-novel)
 engine/                # Otak panduan penulisan (1 file pemilik per topik, tanpa duplikasi):
@@ -68,7 +69,7 @@ python3 scripts/audit-continuity.py "story/Narik Ojol Cinta Pun Nongol"
 # Analisis kualitas prosa & deteksi AI slop
 python3 scripts/analyze-prose.py "story/Narik Ojol Cinta Pun Nongol"
 
-# Perbarui tampilan baca HP (reader.html)
+# Perbarui tampilan baca HP & GitHub Pages (reader.html & index.html)
 python3 scripts/build-reader.py
 ```
 

@@ -222,8 +222,8 @@
   },
   {
    "key": "reader",
-   "title": "reader.html sinkron dengan bab",
-   "rule": "reader.html identik dengan hasil build-reader.py dari bab terkini."
+   "title": "reader.html & index.html (GitHub Pages) sinkron",
+   "rule": "reader.html dan index.html identik dengan hasil build-reader.py dari bab terkini."
   },
   {
    "key": "registry",

@@ -51,7 +51,7 @@ python3 scripts/stress-test.py --fix "story/<Judul Novel>"
 | 2 | `numbering` | Penomoran & judul bab sinkron dengan outline | bab-NN.md berurutan tanpa lompat; header bab = judul di outline.md. |
 | 3 | `ledger_state` | ledger.md & state.md sinkron dengan jumlah bab | ledger.md punya satu baris per bab; state.md menyebut bab terakhir yang benar. |
 | 4 | `manuscript` | manuscript.md sinkron dengan bab | manuscript.md identik dengan gabungan seluruh bab. |
-| 5 | `reader` | reader.html sinkron dengan bab | reader.html identik dengan hasil build-reader.py dari bab terkini. |
+| 5 | `reader` | reader.html & index.html (GitHub Pages) sinkron | reader.html dan index.html identik dengan hasil build-reader.py dari bab terkini. |
 | 6 | `registry` | universe-registry.md sinkron | Jumlah bab dan total kata di registry sama dengan kenyataan. |
 | 7 | `rules_doc` | Dokumen aturan sinkron dengan rules.json | engine/12-stress-rules.md identik dengan hasil generate dari rules.json; jumlah kategori yang disebut di AGENTS.md/workflow/SKILL benar. |
 | 8 | `continuity` | Audit kontinuitas | audit-continuity.py melaporkan 0 isu. |

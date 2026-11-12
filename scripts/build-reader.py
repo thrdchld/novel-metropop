@@ -14,6 +14,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 STORY_DIR = REPO_ROOT / "story"
 OUTPUT_FILE = REPO_ROOT / "reader.html"
+INDEX_FILE = REPO_ROOT / "index.html"
 
 
 def parse_story(folder: Path) -> dict:
@@ -1922,9 +1923,10 @@ def main():
     for s in stories:
         print(f"  - {s['title']}: {s['chapterCount']} bab, {s['totalWords']} kata")
 
-    print(f"Menulis file web app mandiri ke: {OUTPUT_FILE}...")
+    print(f"Menulis file web app mandiri ke: {OUTPUT_FILE} dan {INDEX_FILE}...")
     html_content = generate_html(stories)
     OUTPUT_FILE.write_text(html_content, encoding="utf-8")
+    INDEX_FILE.write_text(html_content, encoding="utf-8")
     print(f"Selesai! Ukuran file: {OUTPUT_FILE.stat().st_size / 1024:.1f} KB.")
 
 
