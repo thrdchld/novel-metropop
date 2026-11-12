@@ -2,7 +2,7 @@
 
 Sudah setengah jam koper biru tua itu terbuka lebar di lantai sudut kamarku, namun belum ada satu helai baju pun yang berhasil kulipat masuk ke dalamnya.
 
-Di atas meja belajarku pada Kamis malam ini, map biru Surat Keputusan promosi Surabaya terletak berdampingan dengan buku catatan bersampul cokelatku. Ponsel di dekat bantal bergetar menampilkan panggilan masuk dari Fajar. Sejak bertemu di lobi tempat kursus hari Senin lalu, Fajar jadi rajin menelepon setiap malam seperti orang yang sudah yakin seratus persen bahwa aku setuju kembali kepadanya.
+Di atas meja belajarku pada Kamis malam ini, map biru Surat Keputusan promosi Surabaya terletak berdampingan dengan buku catatan bersampul cokelatku. Ponsel di dekat bantal bergetar menampilkan panggilan masuk dari Fajar. Sejak bertemu di lobi tempat kursus hari Senin lalu, Fajar rajin menelepon setiap malam, yakin sekali bahwa aku bakal setuju kembali kepadanya.
 
 Aku menggeser tombol terima dengan malas dan menyalakan pengeras suara ponsel sambil duduk bersandar di tepi ranjang.
 
@@ -10,11 +10,11 @@ Aku menggeser tombol terima dengan malas dan menyalakan pengeras suara ponsel sa
 
 "Belum mulai, Jar, baru pulang ngajar kelas sore tadi," jawabku singkat.
 
-"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias yang teratur seperti sedang membacakan laporan rapat. "Kalau kamu berangkat Sabtu tanggal dua puluh delapan pagi, jam sebelas sudah bisa terima kunci apartemen dekat cabang baru."
+"Aku sudah cek jadwal penerbangan ke Surabaya buat akhir bulan ini," kata Fajar dengan nada antusias dan kaku, persis saat membacakan laporan pekerjaan. "Kalau kamu berangkat Sabtu tanggal dua puluh delapan pagi, jam sebelas sudah bisa terima kunci apartemen dekat cabang baru."
 
 Tanpa menunggu tanggapanku, dia terus mengoceh di telepon tentang rencana jadwal terbang setiap dua minggu sekali di akhir pekan genap untuk menengokku di Surabaya. "Pokoknya semua jadwal kunjungan kita sudah aku susun. Rapi banget kan hitungannya?"
 
-Aku menatap langit-langit kamarku dengan pandangan hampa. Di kepalaku dulu, rencana yang serba terukur seperti ucapan Fajar barusan adalah puncak rasa aman yang paling kuimpikan. Kenyataannya, mendengarkan semua jadwal rapi itu sekarang malah membuatku ingin menutup telinga.
+Aku menatap langit-langit kamarku dengan pandangan hampa. Di kepalaku dulu, rencana serba terukur yang diucapkan Fajar barusan adalah puncak rasa aman yang paling kuimpikan. Kenyataannya, mendengarkan semua jadwal rapi itu sekarang malah membuatku ingin menutup telinga.
 
 "Nanti aja bahas jadwal pesawatnya ya, Jar. Aku masih harus fokus nyiapin acara evaluasi panggung hari Sabtu lusa," potongku pelan. "Aku tutup dulu ya, mau istirahat."
 
@@ -32,7 +32,7 @@ Mas Bima: Selamat malam, Miss Hana. Maaf mengganggu malam-malam. Untuk pertemuan
 
 Keningku berkerut membaca pesan yang begitu formal dan panjang itu. Aku lalu menekan tombol putar pada kiriman pesan suara di bawahnya.
 
-Dari pengeras suara ponselku, keluar suara Nino yang memang agak bindeng seperti anak yang habis menangis lama.
+Dari pengeras suara ponselku, keluar suara Nino yang terdengar bindeng, kentara habis menangis lama.
 
 "Selamat malam, Miss Hana... besok kita tetap ketemu di kelas ya, tapi aku izin simpan suara dulu. Selamat tidur, Miss..."
 

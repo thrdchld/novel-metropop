@@ -22,7 +22,7 @@ Aku membuka tas selempangku dan baru sadar botol air minumku sudah kosong gara-g
 
 "Om, sambil nunggu Miss Hana beli minum, aku pinjam kameranya ya! Mau rekam ikan sama burung di dekat bangku situ!" pinta Nino sambil menarik lengan kemeja pamannya.
 
-Bima tersenyum dan mengalungkan tali kamera tuanya ke leher Nino seperti waktu di taman samping tempat kursus dua minggu lalu. "Boleh, tapi ingat jangan lari-lari dekat pinggir kolam ya. Tombol merahnya masih ingat kan yang mana?"
+Bima tersenyum dan mengalungkan tali kamera tuanya ke leher Nino, persis yang dia lakukan di taman samping tempat kursus dua minggu lalu. "Boleh, tapi ingat jangan lari-lari dekat pinggir kolam ya. Tombol merahnya masih ingat kan yang mana?"
 
 "Masih dong! Yang bundar di atas ini!" jawab Nino bangga.
 
@@ -44,7 +44,7 @@ Begitu aku menutup telepon Bu Maya dan mengangkat pandanganku ke arah pohon kamb
 
 Di bawah dahan pohon kamboja yang bunganya sedang bermekaran itu, Bima berdiri menghadap ke arahku dengan sikap yang sangat gugup. Begitu sadar aku sudah berjalan mendekat sambil menatapnya, tangan kanan Bima langsung bergerak secepat kilat menjejalkan sesuatu yang barusan dipegangnya ke dalam saku dada kemeja flanel kotak-kotaknya!
 
-Sementara itu, hanya berjarak tiga meter di belakang punggung Bima, Nino sedang berjongkok sembunyi-sembunyi di balik sandaran bangku kayu taman sambil buru-buru menurunkan kamera dari depan wajahnya dan menutup mulutnya dengan satu tangan, cekikikan sendiri seperti baru saja menangkap basah rahasia paling lucu sedunia.
+Sementara itu, hanya berjarak tiga meter di belakang punggung Bima, Nino sedang berjongkok sembunyi-sembunyi di balik sandaran bangku kayu taman sambil buru-buru menurunkan kamera dari depan wajahnya dan menutup mulutnya dengan satu tangan, cekikikan sendiri sambil menahan tawa.
 
 "Kalian lagi ngapain sih?" tanyaku penasaran begitu tiba di bawah pohon kamboja sambil membagikan botol air mineral.
 

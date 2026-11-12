@@ -40,7 +40,7 @@ Aku menatap es krim potong di tanganku. Di layar ponselku, pemberitahuan baru sa
 
 Aku tertawa kecil melihat wajah belepotan muridku itu, lalu mengambil selembar tisu dari tasku untuk mengelap sudut bibirnya. "Betul, brown ice cream. Nino pintar sekali hari ini, sudah berani ngomong banyak di kelas."
 
-"Iyalah, kan belajarnya pakai dinosaurus di karpet, bukan pakai kertas ujian SIM lagi," celetuk Bima sambil nyengir lebar ke arahku.
+"Iyalah, kan belajarnya pakai dinosaurus di karpet, bukan pakai kertas hafalan lagi," celetuk Bima sambil nyengir lebar ke arahku.
 
 Aku baru mau membalas ledekannya ketika Bima meletakkan sisa bungkus rotinya. Dia mengangkat kamera tuanya yang sejak tadi ada di pangkuan, lalu menyalakannya dengan satu tangan. Lensa kameranya diarahkan miring ke pinggiran atap teras di sebelahku, tempat air hujan mengalir deras dari ujung talang seng ke semak-semak halaman depan.
 

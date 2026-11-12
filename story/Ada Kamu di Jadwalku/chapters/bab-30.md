@@ -12,13 +12,13 @@ Aku menegakkan punggungku di kursi seberang meja kerja Kepala Cabang itu dan men
 
 Ruangan berpendingin udara itu mendadak hening selama beberapa detik.
 
-Bu Maya menutup map biru itu perlahan, lalu menatapku dengan sorot mata tegas seperti minggu lalu.
+Bu Maya menutup map biru itu perlahan, lalu menatapku dengan sorot mata tegas.
 
 "Hana, kamu tidak sedang membuat keputusan emosional sesaat kan? Kamu masih ingat konsekuensi aturan pusat yang saya sampaikan?" tanya Bu Maya serius. "Kalau kamu menolak sekarang, jatah promosimu hangus selamanya dan kursinya langsung saya alihkan ke kandidat cabang Kelapa Gading."
 
 Beliau menatapku tajam untuk memastikan aku tidak salah dengar. "Dan selama kamu tetap di cabang Jakarta ini, posisimu tidak akan pernah bisa naik jabatan lagi."
 
-"Saya sangat ingat dan sadar penuh akan risiko itu, Bu Maya," jawabku tanpa keraguan sedikit pun di suaraku, lalu menegakkan dudukku di hadapan beliau.
+"Saya sangat ingat dan sadar penuh akan risiko itu, Bu Maya," jawabku tanpa keraguan sedikit pun di suaraku, lalu menegakkan dudukku di hadapan beliau. Keputusan ini bukan lahir dari emosi sesaat, melainkan dari apa yang benar-benar ingin kujalani ke depan.
 
 Aku lalu menggeser selembar amplop putih bersih yang baru kuketik tadi malam di kamar kosku ke atas meja Bu Maya, tepat di sebelah map biru tadi. Sesuai aturan pemberitahuan tiga puluh hari kerja yang berlaku di perusahaan kami, surat pengunduran diriku sudah kusiapkan secara resmi terhitung mulai akhir bulan ini agar manajemen punya waktu cukup mencari pengajar pengganti untuk kelas regulerku.
 
@@ -32,7 +32,7 @@ Aku tersenyum hangat sambil menyentuh buku catatan bersampul cokelat yang ada di
 
 Aku menatap Bu Maya dengan mata berbinar yakin. "Saya mau membuka tempat kursus bahasa Inggris anak sendiri secara mandiri di Jakarta Selatan."
 
-"Pakai metode cerita bergambar dan video keseharian seperti waktu mengajar Nino?" tanya Bu Maya mulai menangkap arah rencanaku.
+"Pakai metode cerita bergambar dan rekaman video yang kamu terapkan ke Nino?" tanya Bu Maya mulai menangkap arah rencanaku.
 
 "Betul, Bu. Kebetulan lima orang tua murid yang menonton penampilan Nino kemarin sudah menghubungi saya," jawabku sambil tersenyum. "Mereka ingin mendaftarkan anak-anak mereka ke tempat kursus baru yang akan saya buka bulan depan."
 

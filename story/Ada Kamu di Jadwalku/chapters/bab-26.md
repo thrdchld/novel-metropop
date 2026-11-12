@@ -38,6 +38,6 @@ Bima melirik meja operator teknis di pojok kiri aula. "Saya serahkan flash disk 
 
 "Semoga lancar ya, Mas," kataku tulus.
 
-"Doakan nggak salah pencet ya," balas Bima sambil nyengir tipis.
+"Doakan nggak salah pencet ya," balas Bima sambil tersenyum tipis.
 
 Aku mengangguk memperhatikan Bima berlari kecil menghampiri staf operator laptop proyektor, sementara Mas Hendra menempatkan kursi roda Mbak Ratih di barisan depan. Lima menit kemudian lampu aula diredupkan, peserta pertama sampai ketiga tampil bergantian, hingga akhirnya Meli maju ke tengah panggung membacakan urutan keempat yang membuat detak jantungku melonjak: "Peserta keempat kita pagi ini, mari kita beri tepuk tangan paling meriah untuk ananda Nino!"

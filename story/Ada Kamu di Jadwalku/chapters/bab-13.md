@@ -4,7 +4,7 @@ Bu Maya sudah dua kali melirik jam tangan peraknya di pojok belakang Ruang Kelas
 
 Telapak tanganku yang menggenggam buku catatan cokelat mulai dingin. Hari Senin sore di minggu keempat ini adalah jadwal evaluasi tengah program yang sudah kulingkari spidol merah sejak bulan lalu, namun sampai pukul empat lewat lima belas menit, baik Nino maupun Bima belum juga menampakkan batang hidungnya.
 
-Setiap kali Bu Maya menggeser posisi duduknya dan mengetukkan pulpen ke papan jalan, nilai evaluasiku untuk promosi cabang Surabaya seperti ikut terpangkas satu angka.
+Setiap kali Bu Maya menggeser posisi duduknya dan mengetukkan pulpen ke papan jalan, peluang promosiku ke cabang Surabaya rasanya semakin terancam.
 
 Baru pada pukul empat lewat dua puluh lima menit, pintu kaca kelas terbuka tergesa-gesa. Bima muncul dengan napas terengah-engah, rambut berantakan, dan punggung kemeja flanelnya basah oleh keringat.
 
@@ -56,4 +56,4 @@ Bima hanya terdiam menatapku di bawah mendung sore itu.
 
 "Cara hidup Mas Bima yang berantakan dan nggak pernah serius itu benar-benar nggak masuk akal buat saya!" kataku tajam. "Mas Bima gampang banget nyepelein waktu orang lain karena hidup Mas Bima sendiri pasti enak dan nggak punya beban!"
 
-Biasanya, setiap kali aku mengomel soal waktu atau aturan kelas, Bima selalu punya seribu satu candaan santai untuk mencairkan suasana. Namun sore itu, di bawah langit mendung teras samping, tidak ada senyum sedikit pun di wajahnya. Bima hanya berdiri diam menatapku dengan sepasang mata merah yang menyimpan kelelahan begitu dalam.
+Biasanya, setiap kali aku mengomel soal waktu atau aturan kelas, Bima selalu punya candaan santai untuk mencairkan suasana. Namun sore itu, di bawah langit mendung teras samping, tidak ada senyum sedikit pun di wajahnya. Bima hanya berdiri diam menatapku dengan sepasang mata merah yang menyimpan kelelahan begitu dalam.

@@ -12,7 +12,7 @@ Sebelum aku sempat mengetuk pintu pagar kayu yang setengah terbuka, pintu depan 
 
 "Selamat malam, Mbak. Cari siapa ya?"
 
-Seorang pria berusia pertengahan tiga puluhan keluar ke teras sambil menjinjing sebuah tas pakaian berisi termos air panas dan lipatan selimut. Wajahnya ramah, tapi gurat kelelahan di sekitar matanya mirip orang yang sudah berminggu-minggu tidur di kursi tunggu rumah sakit.
+Seorang pria berusia pertengahan tiga puluhan keluar ke teras sambil menjinjing sebuah tas pakaian berisi termos air panas dan lipatan selimut. Wajahnya ramah, tetapi kedua matanya memperlihatkan keletihan orang yang sudah berminggu-minggu menjaga keluarga di rumah sakit.
 
 "Selamat malam, Pak. Saya Hana, guru bahasa Inggrisnya Nino di BrightStep English," kataku sopan sambil mengeluarkan buku gambar serta dompet plastik biru dari tasku. "Tadi buku gambar sama dompet obat ini nggak sengaja terjatuh di kelas waktu Mas Bima buru-buru pulang."
 

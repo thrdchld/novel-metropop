@@ -4,7 +4,7 @@ Tiga spidol papan tulis di atas mejaku baru saja berbaris lurus sempurna dengan 
 
 "Hana, kantor pusat sudah menyetujui namamu sebagai kandidat tunggal Kepala Akademik untuk cabang baru kita di Surabaya," kata Bu Maya tanpa basa-basi.
 
-Suara kunyahan keripik singkong di meja sebelahku mendadak berhenti. Aku langsung berdiri dan merapikan ujung blus kerjaku di hadapan kepala cabang BrightStep English Kebayoran Baru itu. Posisi Kepala Akademik di Surabaya sudah kukejar sejak awal tahun. Selain gajinya naik cukup besar untuk menambah saldo tabungan masa depanku, pindah ke kota baru juga cara paling masuk akal untuk menutup lembaran lama di Jakarta.
+Suara ketikan di meja sebelahku mendadak berhenti. Aku langsung berdiri dan merapikan ujung blus kerjaku di hadapan kepala cabang BrightStep English Kebayoran Baru itu. Posisi Kepala Akademik di Surabaya sudah kukejar sejak awal tahun. Selain gajinya naik cukup besar untuk menambah saldo tabungan masa depanku, pindah ke kota baru juga cara paling masuk akal untuk menutup lembaran lama di Jakarta.
 
 "Terima kasih banyak, Bu Maya," kataku mantap.
 
@@ -24,15 +24,15 @@ Aku mendekap map pendaftaran itu bersama buku catatan cokelatku. "Modul enam min
 
 Begitu pintu ruangan tertutup, ponsel di sebelah kotak tempat pensilku bergetar tepat pukul tiga lewat empat puluh lima menit sore. Tanpa perlu melirik layarnya, aku sudah hafal bunyi pengingat itu: lima belas menit menuju kelas privat pukul empat.
 
-Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang kembali mengunyah keripik singkong dari laci mejanya langsung melongok ke arah ponselku sambil menggelengkan kepala. Matanya menyapu deretan lima belas alarm harian yang berjejer di layarku, mulai dari jam bangun pagi, jadwal seduh teh, sampai pengingat keramat tiap tanggal dua puluh lima untuk transfer tabungan.
+Aku menggeser tombol matikan di layar. Di kursi sebelahku, Meli yang sedang merapikan lembar tugas murid langsung melongok ke arah ponselku sambil menggelengkan kepala. Matanya menyapu deretan lima belas alarm harian yang berjejer di layarku, mulai dari jam bangun pagi, jadwal seduh teh, sampai pengingat keramat tiap tanggal dua puluh lima untuk transfer tabungan.
 
-"Sehari semalam HP lo bunyi melulu kayak pos ronda, Han," komentar Meli geli. "Lo sebenarnya guru bahasa Inggris atau panitia studi tur anak SMP sih?"
+"Sehari semalam HP lo getar melulu, Han," komentar Meli geli. "Lo sebenarnya guru bahasa Inggris atau operator jadwal sih?"
 
 "Kalau nggak dipasang pengingat gini, urusan harian gampang keteteran, Mel," jawabku sambil mengecek daftar materi hari pertama. "Aku cuma nggak suka hal dadakan."
 
 "Pantesan dulu si Fajar angkat tangan," celetuk Meli tanpa dosa. "Orang mau ngajak beli sate aja kudu daftar sehari sebelumnya."
 
-Meli mendadak kicep. Dia langsung menutup mulutnya rapat-rapat dengan punggung tangan. "Eh, sori, Han. Mulut gue licin banget habis makan keripik pedas."
+Meli mendadak kicep. Dia langsung menutup mulutnya dengan telapak tangan. "Eh, sori, Han. Keceplosan gue."
 
 "Santai aja," sahutku pendek.
 

@@ -36,7 +36,7 @@ Napasku langsung tertahan.
 
 Dia memalingkan pandangannya sedikit ke arah jalan raya. "Jangan sampai berantakan gara-gara ragu di menit terakhir. Les Nino juga selesai Sabtu ini, jadi nggak ada tanggungan lagi."
 
-Setiap patah kata yang keluar dari mulutnya rasanya seperti air es yang disiramkan langsung ke kepalaku.
+Setiap patah kata yang keluar dari mulutnya terasa menghantam dadaku tanpa ampun.
 
 Ambil Surabaya. Urusan les Nino juga selesai hari Sabtu ini kok.
 

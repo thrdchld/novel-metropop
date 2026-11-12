@@ -14,7 +14,7 @@ Bocah itu menggeleng kuat-kuat sambil menunduk. Dari sela jari tangannya yang me
 
 Aku terdiam di samping mejanya. Spidol biru di tanganku perlahan kuturunkan.
 
-Jadi itu masalahnya. Di berkas pendaftaran memang tertulis Nino baru pindah sekolah bulan lalu, tapi tidak ada catatan bahwa bocah ini pernah ditertawakan teman sekelasnya gara-gara salah mengucapkan kata bahasa Inggris. Pantas saja setiap kali melihat daftar kata yang berjejer seperti kertas ujian, dia langsung mengunci mulutnya.
+Jadi itu masalahnya. Di berkas pendaftaran memang tertulis Nino baru pindah sekolah bulan lalu, tapi tidak ada catatan bahwa bocah ini pernah ditertawakan teman sekelasnya gara-gara salah mengucapkan kata bahasa Inggris. Pantas saja setiap kali melihat daftar kata yang berjejer rapat, dia langsung mengunci mulutnya.
 
 Mataku melirik buku paket panduan pengajar yang terbuka di atas mejaku. Di halaman empat tertulis instruksi tegas bahwa pengajar wajib menuntaskan pengenalan dua puluh kata benda sebelum masuk ke materi warna dan kalimat sederhana. Namun di saat yang sama, ucapan menyebalkan Bima di sofa ruang tunggu hari Rabu lalu tiba-tiba terngiang lagi di telingaku.
 
@@ -34,7 +34,7 @@ Meski masih malu-malu, Nino turun dari kursinya dan ikut duduk bersila di atas k
 
 "Wah, yang ini bagus banget warnanya," pujiku sambil menunjuk gambar dinosaurus berleher panjang yang diwarnai krayon hijau muda. "Kalau bahasa Indonesia kan warna hijau. Kalau bahasa Inggrisnya hijau, Nino tahu nggak?"
 
-Nino menatap gambar buatannya sendiri, lalu jemarinya menyentuh ujung ekor dinosaurus itu. Tanpa rasa takut seperti saat menatap papan tulis tadi, bibirnya bergerak pelan. "Green."
+Nino menatap gambar buatannya sendiri, lalu jemarinya menyentuh ujung ekor dinosaurus itu. Tanpa ragu, bibirnya bergerak pelan. "Green."
 
 Mataku langsung melebar senang. "Betul! Pintar banget, Green! Kalau digabung sama dinosaurus, jadinya apa?"
 

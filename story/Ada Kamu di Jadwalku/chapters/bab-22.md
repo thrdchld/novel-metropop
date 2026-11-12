@@ -4,7 +4,7 @@
 
 Pintu kaca Ruang Kelas Nomor Dua digeser terbuka dari luar, dan Meli melongok masuk sambil mengacungkan map biru tebal yang tadi siang kutaruh di meja ruang guru.
 
-Saat itu sesi latihan hari Rabu sore sedang jeda istirahat sebentar. Sejak datang mengantar Nino pukul empat tadi, sikap Bima kepadaku benar-benar berubah formal dan menjaga jarak gara-gara pertemuan di lobi hari Senin lalu. Tidak ada lagi sapaan hangat atau lelucon soal kancing seragam seperti biasanya. Begitu mengantar Nino masuk ke kelas, Bima langsung duduk diam di bangku tunggu luar, dan lima menit yang lalu dia baru saja izin berjalan ke ujung lorong untuk mengangkat telepon dari Mas Hendra.
+Saat itu sesi latihan hari Rabu sore sedang jeda istirahat sebentar. Sejak datang mengantar Nino pukul empat tadi, sikap Bima kepadaku benar-benar berubah formal dan menjaga jarak gara-gara pertemuan di lobi hari Senin lalu. Tidak ada lagi sapaan hangat atau lelucon santai soal kancing seragam yang biasa ia lontarkan. Begitu mengantar Nino masuk ke kelas, Bima langsung duduk diam di bangku tunggu luar, dan lima menit yang lalu dia baru saja izin berjalan ke ujung lorong untuk mengangkat telepon dari Mas Hendra.
 
 Di dalam kelas, aku meminta Nino mewarnai bingkai gambar di buku catatannya sambil menunggu latihan bagian penutup dimulai. Bocah itu sedang duduk tenang di pojok ruangan sambil memutar rautan pensil kecil untuk menajamkan pensil warna hijaunya ketika suara Meli tiba-tiba memenuhi ruangan.
 

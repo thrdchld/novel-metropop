@@ -44,8 +44,8 @@ Senyum lebar di wajah Bima lenyap seketika.
 
 "Nino, masuk duluan ke toko alat tulis itu sama Miss Hana ya, Om angkat telepon sebentar," kata Bima dengan suara yang mendadak berubah sangat serius.
 
-Aku menggandeng tangan Nino masuk ke pintu toko alat tulis, namun dari balik etalase kaca depan toko, mataku masih bisa melihat Bima berdiri membelakangi kami di dekat tiang lorong. Punggungnya menegang kaku, kepalanya tertunduk rapat saat berbicara dengan suara rendah di telepon, dan tangan kirinya memijat pangkal hidungnya berkali-kali seperti orang yang sedang menahan beban pikiran yang amat berat.
+Aku menggandeng tangan Nino masuk ke pintu toko alat tulis, namun dari balik etalase kaca depan toko, mataku masih bisa melihat Bima berdiri membelakangi kami di dekat tiang lorong. Punggungnya menegang kaku, kepalanya tertunduk rapat saat berbicara dengan suara rendah di telepon, dan tangan kirinya memijat pangkal hidung dengan raut cemas.
 
-Anehnya, begitu panggilan telepon itu berakhir dan Bima berbalik masuk ke dalam toko menghampiri kami, raut tegang di wajahnya langsung hilang seperti disulap.
+Anehnya, begitu panggilan telepon itu berakhir dan Bima berbalik masuk ke dalam toko menghampiri kami, raut tegang di wajahnya langsung menghilang.
 
-"Ayo, karton warna apa yang mau dipilih? Jangan warna hitam ya, nanti gambar dinosaurusnya kayak lagi mati lampu," celetuk Bima sambil tertawa lebar seperti biasa, menyisakan tanda tanya di benakku telepon apa sebenarnya yang barusan membuat bahunya setegang itu.
+"Ayo, karton warna apa yang mau dipilih? Jangan warna hitam ya, nanti gambar dinosaurusnya nggak kelihatan," celetuk Bima sambil tertawa lebar seperti biasa, menyisakan tanda tanya di benakku telepon apa sebenarnya yang barusan membuat bahunya setegang itu.

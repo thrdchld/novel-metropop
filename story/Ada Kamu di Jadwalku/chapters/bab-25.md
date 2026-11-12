@@ -4,11 +4,11 @@ Sejak duduk di kursinya pada pertemuan kelas terakhir kami hari Jumat sore ini, 
 
 Setiap kali aku melangkah mendekati mejanya di Ruang Kelas Nomor Dua untuk mengambil spidol, bocah delapan tahun itu buru-buru menekan saku celananya lebih dalam. Meski begitu, mataku masih sempat menangkap sudut kertas putih terlipat empat yang menyembul sedikit dari sana.
 
-Sementara itu, Bima yang tadi mengantarnya pukul empat tepat hanya mengangguk sopan dari ambang pintu dengan kedua bola mata yang memerah karena kurang tidur. Sesuai pesannya tadi malam, Bima hanya menitipkan pesan singkat agar hari ini Nino latihan ringan saja. Dia lalu langsung duduk di kursi tunggu luar sambil mengetik di laptop tuanya tanpa ikut masuk ke dalam kelas seperti minggu lalu.
+Sementara itu, Bima yang tadi mengantarnya pukul empat tepat hanya mengangguk sopan dari ambang pintu dengan kedua bola mata yang memerah karena kurang tidur. Sesuai pesannya tadi malam, Bima hanya menitipkan pesan singkat agar hari ini Nino latihan ringan saja. Dia lalu langsung duduk di kursi tunggu luar sambil mengetik di laptop tuanya tanpa ikut masuk ke dalam kelas.
 
 "Nino, tenggorokannya masih sakit?" tanyaku lembut sambil duduk di kursiku. "Kalau masih serak, hari ini kita nggak usah latihan keras-keras ya. Kita cek posisi berdiri buat besok pagi aja."
 
-Nino langsung menggeleng cepat sambil tersenyum lebar seperti sedang menyimpan rahasia besar.
+Nino langsung menggeleng cepat sambil tersenyum lebar, tampak menyimpan rahasia besar.
 
 "Tenggorokanku sudah nggak sakit kok, Miss, cuma kata Om Bima suaranya harus dihemat buat kejutan besok pagi!" ceplos Nino bersemangat, lalu dia langsung menutup mulutnya sendiri dengan kedua tangan sambil melirik ke arah jendela luar tempat pamannya duduk.
 

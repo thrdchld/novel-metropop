@@ -34,4 +34,4 @@ Di kepalaku dulu, bertunangan dengan Fajar di usia dua puluh enam tahun adalah b
 
 "Ya sudah, doa Ibu selalu buat kamu, Han. Yang penting jangan terlalu keras sama dirimu sendiri ya," pesan Ibu hangat sebelum menutup telepon beberapa menit kemudian.
 
-Aku meletakkan ponselku kembali ke atas meja, lalu menatap koper besar berwarna biru tua yang tersimpan rapi di atas lemari pakaianku. Tinggal lima minggu lagi sebelum koper itu kubawa pindah ke Surabaya, asalkan bocah delapan tahun pecinta dinosaurus dan pamannya yang serba dadakan itu tidak membuat kejutan baru di hari Senin nanti.
+Aku meletakkan ponselku kembali ke atas meja, lalu menatap koper besar berwarna biru tua yang tersimpan rapi di atas lemari pakaianku. Di dalam buku cokelatku, seluruh rencana hidup sudah kususun rapi hingga akhir tahun. Tinggal lima minggu lagi sebelum koper itu kubawa pindah ke Surabaya, asalkan bocah delapan tahun pecinta dinosaurus dan pamannya yang serba dadakan itu tidak membuat kejutan baru di kelas hari Senin nanti.

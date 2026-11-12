@@ -16,9 +16,9 @@ Namun begitu langkah kami melewati pintu kaca penghubung menuju lobi utama, tawa
 
 Di dekat meja resepsionis lobi depan, berdiri Fajar. Dia mengenakan setelan kemeja kerja rapi warna putih gading, celana bahan hitam licin, dan sepatu pantofel mengilap. Begitu melihatku keluar dari lorong kelas, dia langsung tersenyum lebar dan melangkah menghampiriku.
 
-"Sore, Hana. Jam mengajarnya sudah selesai kan?" sapa Fajar akrab, bertingkah seperti penolakanku di kafe Senopati dua hari lalu tidak pernah terjadi.
+"Sore, Hana. Jam mengajarnya sudah selesai kan?" sapa Fajar akrab, seolah penolakanku di kafe Senopati dua hari lalu tidak pernah terjadi sama sekali.
 
-"Fajar? Kamu ngapain di sini?" tanyaku kaget sambil menghentikan langkahku.
+"Fajar? Kamu ngapain di sini?" tanyaku kaget sambil menghentikan langkahku. "Kan sudah kubilang di kafe kemarin kalau urusan kita sudah selesai."
 
 Di sebelah kiriku, Bima ikut berhenti melangkah. Tangan Bima secara refleks menarik bahu kecil Nino agar berdiri lebih dekat di samping kakinya.
 
@@ -26,7 +26,7 @@ Fajar menoleh ke arah Bima dan Nino, mengamati kemeja flanel sederhana yang dipa
 
 "Selamat sore, Mas. Saya Fajar, calon tunangannya Hana," kata Fajar memperkenalkan diri tanpa meminta persetujuanku lebih dulu.
 
-"Jar, kita sudah..." potongku cepat sambil menoleh tajam.
+"Jar, kita sudah nggak ada hubungan apa-apa lagi!" potongku cepat sambil menatapnya tajam.
 
 "Saya Bima, wali muridnya Nino," sela Bima tenang sambil menyambut uluran tangan Fajar.
 
@@ -42,7 +42,7 @@ Dari tempatku berdiri, mataku menangkap pandangan Bima yang turun sekilas menata
 
 Senyum hangat yang sejak di lorong kelas tadi menghiasi wajah Bima perlahan meredup hingga lenyap. Pria itu mundur setengah langkah dari sampingku.
 
-"Terima kasih tawarannya, Mas Fajar, nggak usah repot-repot," jawab Bima dengan suara datar namun tetap sopan. Dia lalu menoleh ke arahku, dan untuk pertama kalinya sejak kami berbaikan di Cipete minggu lalu, mata Bima kembali memasang tembok formal seperti di hari ia meminta maaf di bawah gerimis dulu.
+"Terima kasih tawarannya, Mas Fajar, nggak usah repot-repot," jawab Bima dengan suara datar namun tetap sopan. Dia lalu menoleh ke arahku, dan untuk pertama kalinya sejak kami berbaikan di Cipete minggu lalu, tatapan Bima kembali berjarak, persis hari ketika ia meminta maaf di bawah gerimis dulu.
 
 "Kami langsung pamit pulang duluan, Miss Hana. Sampai bertemu di kelas hari Rabu," kata Bima resmi.
 

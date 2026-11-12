@@ -2,7 +2,7 @@
 
 Dua jari membentuk huruf V menempel di balik kaca pintu Ruang Kelas Nomor Dua, diikuti telunjuk tangan satunya yang mengetuk-ngetuk jam dinding lorong dengan gaya pamer.
 
-Aku mendongak dari buku catatan cokelatku. Di luar kaca sana, Bima sedang nyengir bangga seperti bocah SD yang baru dapat nilai seratus hanya karena hari Rabu sore ini dia datang tiga menit sebelum pukul empat.
+Aku mendongak dari buku catatan cokelatku. Di luar kaca sana, Bima sedang nyengir bangga karena sore ini dia berhasil datang tiga menit sebelum pukul empat.
 
 "Selamat sore, Mas Bima, Nino. Hari ini tepat waktu," sapaku saat menggeser pintu kelas.
 
@@ -26,7 +26,7 @@ Mendengar kata halaman dua, bahu kecil Nino justru makin merosot. Dia menarik bu
 
 Hening.
 
-Selama sisa empat puluh menit berikutnya, suasana di dalam ruang kelas nomor dua rasanya seperti ruang sidang yang kehabisan saksi. Hanya suaraku sendiri yang terdengar membaca kata demi kata dari nomor satu sampai nomor dua puluh, sedangkan Nino tetap membisu seribu bahasa sampai bel tanda selesai berbunyi.
+Selama sisa empat puluh menit berikutnya, suasana di dalam ruang kelas nomor dua benar-benar hening dan kaku. Hanya suaraku sendiri yang terdengar membaca kata demi kata dari nomor satu sampai nomor dua puluh, sedangkan Nino tetap menunduk diam sampai bel tanda selesai berbunyi.
 
 Begitu keluar dari ruang kelas untuk mengantar Nino ke area tunggu depan, aku mendapati Bima sedang duduk berselonjor santai di sofa lobi sambil membolak-balik brosur kursus. Padahal menurut buku panduan, target minggu pertama mewajibkan murid menghafal dua puluh kosakata benda di kelas agar jadwal latihan Storytelling Day tidak mundur.
 
@@ -34,7 +34,7 @@ Begitu keluar dari ruang kelas untuk mengantar Nino ke area tunggu depan, aku me
 
 Aku mendekap buku catatan cokelatku dan menggeleng pelan. "Nino masih belum mau bersuara sama sekali, Mas Bima. Kalau Jumat lusa halaman pertama belum beres, jadwal latihannya bakal mundur."
 
-"Wah, pantesan bocahnya mingkem, Miss," komentar Bima sambil melirik lembar daftar dua puluh kata di tanganku, lalu mengusap tengkuknya dengan senyum miring. "Kertasnya penuh tulisan berbaris kayak soal ujian SIM begitu."
+"Wah, pantesan bocahnya mingkem, Miss," komentar Bima sambil melirik lembar daftar dua puluh kata di tanganku, lalu mengusap tengkuknya dengan senyum miring. "Kertasnya penuh tulisan berbaris rapat kayak soal ujian begitu."
 
 Alisku langsung terangkat. "Ini modul resmi standar cabang kami, Mas."
 

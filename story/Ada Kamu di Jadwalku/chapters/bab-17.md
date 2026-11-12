@@ -4,7 +4,7 @@
 
 Suara nyaring Nino langsung memenuhi Ruang Kelas Nomor Dua begitu pintu kaca digeser terbuka sepuluh menit sebelum pukul empat pada hari Rabu sore ini.
 
-Aku tidak lagi menyambut mereka dengan buku catatan cokelat dan tatapan pengawas ujian seperti minggu-minggu sebelumnya. Di atas meja belajar, aku bahkan sudah menyiapkan sekotak biskuit cokelat kesukaan Nino.
+Aku tidak lagi menyambut mereka dengan sikap kaku atau memeriksa jam setiap menit. Di atas meja belajar, aku bahkan sudah menyiapkan sekotak biskuit cokelat kesukaan Nino.
 
 "Sama-sama, Nino. Senang kalau Nenek sama Nino suka," jawabku sambil tersenyum hangat dan melirik Bima yang berdiri di dekat pintu dengan kemeja flanel birunya. "Mas Bima duduk di kursi dalam saja sore ini, biar kita latihan sama-sama."
 
@@ -56,4 +56,4 @@ Aku memasukkan kembali ponselku ke dalam tas, lalu tersenyum menatapnya. "Rekap 
 
 "Mas Bima sama Nino belum makan sore kan?" tanyaku sambil menunjuk warung tenda di sebelah gedung. "Ayo kita makan bakso dulu, hari ini giliranku yang traktir."
 
-Selama tiga detik penuh, Bima hanya berdiri tertegun menatapku seperti tidak percaya bahwa perempuan yang baru saja mematikan alarm jadwalnya sendiri demi makan bakso pinggir jalan adalah Miss Hana yang sama, sebelum akhirnya tawa hangatnya pecah di teras sore itu.
+Bima berdiri tertegun menatapku, heran melihat perempuan yang baru saja mematikan alarm jadwalnya demi makan bakso pinggir jalan adalah Hana yang biasanya serbakaku. Detik berikutnya, tawa hangatnya pecah di teras sore itu.

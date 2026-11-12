@@ -4,7 +4,7 @@ Baris kedua sampai baris kelima di lembar PR Nino masih kosong melompong.
 
 Aku mengangkat wajah dari kertas tugas itu, lalu menoleh ke arah jendela kaca Ruang Kelas Nomor Dua pada hari Jumat sore di akhir minggu ketiga ini. Di sofa panjang area tunggu luar sana, orang yang seharusnya mendampingi Nino belajar di rumah justru sedang tertidur pulas dalam posisi duduk menyandar.
 
-Tadi waktu datang mengantar Nino pukul empat kurang dua menit, wajah Bima memang jauh lebih tirus dibandingkan awal minggu ini. Di bawah kedua matanya ada lingkaran hitam tebal, dan kemeja flanel abu-abunya kusut seperti belum menyentuh setrika. Waktu kusapa di lobi apakah dia sedang kurang enak badan, dia hanya menguap kecil sambil menjawab santai bahwa dia cuma kurang minum kopi.
+Tadi waktu datang mengantar Nino pukul empat kurang dua menit, wajah Bima memang jauh lebih tirus dibandingkan awal minggu ini. Di bawah kedua matanya ada lingkaran hitam tebal, dan kemeja flanel abu-abunya kusut dan berantakan. Waktu kusapa di lobi apakah dia sedang kurang enak badan, dia hanya menguap kecil sambil menjawab santai bahwa dia cuma kurang minum kopi.
 
 Masalahnya, tiga hari lagi, tepat pada hari Senin sore, Bu Maya akan masuk ke kelasku untuk meninjau evaluasi tengah program. Artinya, sore ini adalah kesempatan latihan terakhir kami sebelum penilaian resmi itu, namun saat kuminta membaca paragraf kedua naskah My Parents dengan suara lantang, Nino masih terbata-bata gara-gara belum sempat menghafalnya di rumah.
 
@@ -18,7 +18,7 @@ Di sofa luar sana, kepala Bima miring ke sandaran sofa. Mulutnya sedikit terbuka
 
 Kebetulan Meli yang sudah sembuh dari flunya lewat di lorong luar sambil membawa setumpuk buku kerja. Saat masuk sebentar ke kelasku untuk mengambil penghapus papan tulis, Meli melirik ke arah sofa tunggu lalu berbisik pelan di dekat mejaku.
 
-"Han, itu Om-nya murid privat lo kasihan banget lihatnya," bisik Meli sambil menggeleng prihatin. "Tidurnya pules bener di sofa tunggu kayak orang habis kerja rodi tiga malam nggak ketemu kasur."
+"Han, itu Om-nya murid privat lo kasihan banget lihatnya," bisik Meli sambil menggeleng prihatin. "Tidurnya pules bener di sofa tunggu kayak orang kecapekan tiga malam nggak ketemu kasur."
 
 Aku menatap sosok Bima yang tertidur di luar kaca itu. Rasa iba sempat menyelinap di dadaku melihat kantung matanya yang menghitam. Mungkin dia memang sedang kelelahan mengejar tenggat pekerjaan videonya.
 
@@ -32,12 +32,12 @@ Bima langsung tersentak bangun, mengerjap-ngerjapkan matanya yang memerah sambil
 
 Di kepalaku, Bima setidaknya akan menjelaskan kesibukan kerjanya atau meminta maaf dengan serius.
 
-Kenyataannya, pria itu justru meregangkan otot bahunya yang kaku sambil nyengir lebar seperti orang yang baru bangun dari tidur siang yang nyaman di kursi pantai.
+Kenyataannya, pria itu justru meregangkan otot bahunya yang kaku sambil tersenyum santai tanpa beban.
 
 "Waduh, kecolongan saya, Miss Hana," jawab Bima dengan nada bercanda yang ringan. "Semalam saya keasyikan melek sampai subuh di depan layar, jadi lupa ngecek PR-nya Nino."
 
 Dia menepuk pundak keponakannya dengan santai. "Tenang aja, akhir pekan ini kami kebut di rumah. Hari Senin dijamin hafal luar kepala."
 
-Mendengar kalimat melek sampai subuh di depan layar dengan gaya cengengesan begitu, rasa kasihan yang tadinya sempat muncul di hatiku langsung menguap berubah menjadi kesal.
+Mendengar kalimat melek sampai subuh di depan layar dengan gaya santai begitu, rasa kasihan yang tadinya sempat muncul di hatiku langsung menguap berubah menjadi kesal.
 
-Orang yang begadang sampai subuh di depan layar lalu bangun sambil tertawa-tawa santai begitu pastilah habis begadang menonton pertandingan bola atau bermain gim semalaman. Aku menutup buku catatan cokelatku dengan gerakan tegas, cemas setengah mati membayangkan apa yang bakal terjadi pada evaluasi hari Senin nanti kalau wali muridnya saja masih menganggap sepele tenggat sepenting itu.
+Orang yang begadang sampai subuh di depan layar lalu bangun sambil tertawa-tawa santai begitu pastilah habis menonton bola atau bermain gim semalaman. Padahal masa depan anak orang lain sedang dipertaruhkan di sini. Aku menutup buku catatan cokelatku dengan gerakan tegas, cemas membayangkan apa yang bakal terjadi pada evaluasi hari Senin nanti kalau wali muridnya saja masih menganggap sepele tenggat sepenting itu.

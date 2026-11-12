@@ -1,24 +1,24 @@
 ## **Bab 2: Wali Murid Paling Berantakan**
 
-"Sore, Miss! Maaf banget kami telat dua belas menit, tadi di perempatan depan lampu merahnya lama banget kayak nunggu jodoh!"
+"Sore, Miss! Maaf banget kami telat dua belas menit, tadi di perempatan depan macet parah gara-gara angkot ngetem!"
 
-Pintu kaca Ruang Kelas Nomor Dua berderit terbuka. Suara ceria tanpa beban dosa itu langsung memenuhi ruangan.
+Pintu kaca Ruang Kelas Nomor Dua berderit terbuka. Suara ceria tanpa beban itu langsung memenuhi ruangan.
 
-Aku berdiri dari kursi pengajar sambil melirik jam tanganku yang sudah menunjukkan pukul empat lewat dua belas menit. Di ambang pintu, berdiri seorang pria jangkung berkemeja flanel kotak-kotak agak kusut dengan tas kamera kanvas besar yang miring berat sebelah di bahu kirinya. Dia tipe orang yang biarpun datang terlambat di hari pertama tetap memasang senyum secerah peserta jalan sehat kelurahan yang baru menang undian kipas angin.
+Aku berdiri dari kursi pengajar sambil melirik jam tanganku yang sudah menunjukkan pukul empat lewat dua belas menit. Di ambang pintu, berdiri seorang pria jangkung berkemeja flanel kotak-kotak agak kusut dengan tas kamera kanvas besar yang miring berat sebelah di bahu kirinya. Meskipun datang terlambat di hari pertama, dia tetap memasang senyum santai tanpa rasa bersalah sedikit pun.
 
 "Selamat sore, Pak," kataku formal, sengaja membiarkan lirikan mataku ke arah jam tangan terbaca jelas. "Kelas privat Nino dijadwalkan mulai tepat pukul empat sore."
 
-"Panggil Bima aja, Miss. Kalau dipanggil Bapak berasa lagi antre perpanjang STNK," balasnya santai sambil mendorong pelan bahu bocah laki-laki berseragam sekolah dasar yang berdiri di depannya. "Saya pamannya Nino. Mulai hari ini, tiap Senin, Rabu, sama Jumat sore saya yang kebagian tugas antar-jemput bocah ini."
+"Panggil Bima aja, Miss. Jangan panggil Bapak, belum setua itu," balasnya santai sambil mendorong pelan bahu bocah laki-laki berseragam sekolah dasar yang berdiri di depannya. "Saya pamannya Nino. Mulai hari ini, tiap Senin, Rabu, sama Jumat sore saya yang kebagian tugas antar-jemput bocah ini."
 
 Aku menatap paman muda bernama Bima itu, lalu menurunkan pandanganku ke arah Nino. Dalam waktu kurang dari lima detik, mataku langsung menangkap tiga hal yang membuat ujung alisku berkedut.
 
-Pertama, pemasangan kancing seragam putih Nino miring satu tingkat dari atas sampai bawah, makanya kerah bajunya tinggi sebelah. Kedua, di tangan kiri Nino ada kotak makan plastik bening yang isinya berupa sepotong roti panggang dengan pinggiran gosong menghitam seperti habis disambar petir. Dan ketiga, paman yang bertanggung jawab atas dua kekacauan itu masih bisa berdiri nyengir santai di depanku.
+Pertama, pemasangan kancing seragam putih Nino miring satu tingkat dari atas sampai bawah, makanya kerah bajunya tinggi sebelah. Kedua, di tangan kiri Nino ada kotak makan plastik bening yang isinya berupa sepotong roti panggang dengan pinggiran gosong menghitam. Dan ketiga, paman yang bertanggung jawab atas dua kekacauan itu masih bisa berdiri nyengir santai di depanku.
 
 "Halo, Nino. Nama saya Miss Hana. How are you today?" sapaku ramah sambil sedikit membungkuk agar sejajar dengan tinggi badannya.
 
 Nino tidak menjawab.
 
-Bocah delapan tahun itu langsung menunduk dalam-dalam, merapatkan bibirnya, dan memeluk sebuah buku gambar bersampul dinosaurus hijau erat-erat di depan dadanya seperti perisai.
+Bocah delapan tahun itu langsung menunduk dalam-dalam, merapatkan bibirnya, dan memeluk sebuah buku gambar bersampul dinosaurus hijau erat-erat di depan dadanya.
 
 "Ayo, No, disapa dulu Miss Hana-nya," bujuk Bima sambil menepuk pundak keponakannya pelan. Bukannya menyapa, Nino malah bergeser bersembunyi di balik paha pamannya.
 

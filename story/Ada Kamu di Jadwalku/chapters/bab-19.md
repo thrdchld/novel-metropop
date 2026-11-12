@@ -16,7 +16,7 @@ Aku menoleh ke samping rak. Di sana, pada hari Sabtu sore di akhir minggu keempa
 
 Aku sempat ragu sejenak. Namun karena aku merasa urusan masa lalu kami memang belum pernah ditutup dengan obrolan kepala dingin, akhirnya aku membayar buku cerita hadiah untuk Nino di kasir dan mengikuti Fajar duduk di meja sudut kafe sebelah.
 
-Seorang pelayan mengantarkan dua cangkir kopi hangat ke meja kami. Fajar mengaduk kopinya dengan gerakan terukur seperti kebiasaannya dulu, lalu menatapku dengan wajah serius.
+Seorang pelayan mengantarkan dua cangkir kopi hangat ke meja kami. Fajar mengaduk kopinya perlahan, persis kebiasaannya dulu, lalu menatapku dengan wajah serius.
 
 "Kamu kelihatan lebih segar sekarang, Han. Ibu kamu di Bogor sehat?" buka Fajar pelan.
 
@@ -24,7 +24,7 @@ Seorang pelayan mengantarkan dua cangkir kopi hangat ke meja kami. Fajar mengadu
 
 "Aku mau minta maaf soal keputusanku waktu kita batal lamaran dulu, Hana," kata Fajar sambil meletakkan kedua tangannya di atas meja.
 
-Aku menatapnya tanpa ekspresi. Waktu membatalkan lamaran kami setengah tahun lalu, dia sendiri yang mengeluh lelah hidup bersama perempuan yang apa-apa memakai pengingat ponsel dan buku jadwal seperti panitia tur.
+Aku menatapnya tanpa ekspresi. Waktu membatalkan lamaran kami setengah tahun lalu, dia sendiri yang mengeluh lelah hidup bersama perempuan yang apa-apa memakai pengingat ponsel dan buku jadwal tanpa henti.
 
 "Bukannya waktu itu kamu sendiri yang bilang nggak tahan hidup sama perempuan yang serba pakai jadwal?" tanyaku datar.
 
@@ -46,9 +46,9 @@ Fajar meraih buku catatan bersampul cokelatku yang tergeletak di pinggir meja. "
 
 Aku menatap cangkir kopi di depanku yang uapnya mulai menipis.
 
-Di kepalaku enam bulan yang lalu, ketika aku menangis sendirian di kamar kos sambil mencoret jadwal sewa tempat lamaran dari buku catatanku, aku pernah mengira bahwa permintaan maaf seperti yang barusan diucapkan Fajar adalah satu-satunya hal yang paling kuinginkan di dunia. Kenyataannya, saat kalimat itu benar-benar diucapkan di depanku sore ini, dadaku justru hampa.
+Di kepalaku enam bulan yang lalu, ketika aku menangis sendirian di kamar kos sambil mencoret jadwal sewa tempat lamaran dari buku catatanku, aku pernah mengira bahwa permintaan maaf yang barusan diucapkan Fajar adalah satu-satunya hal yang paling kuinginkan di dunia. Kenyataannya, saat kalimat itu benar-benar diucapkan di depanku sore ini, dadaku justru hampa.
 
-Mendengar Fajar memuji sifat teraturku dan tabungan tanggal dua puluh limaku, aku sadar dia tidak sedang merindukan diriku sebagai manusia, melainkan hanya merindukan kenyamanan punya pendamping hidup yang bisa merapikan urusannya seperti mesin pengatur jadwal. Anehnya, yang melintas di kepalaku justru bayangan wajah lelah namun hangat milik Bima waktu menyodorkan es krim potong di tengah hujan dan mengajak makan bakso tanpa peduli jam pengingat.
+Mendengar Fajar memuji sifat teraturku dan tabungan tanggal dua puluh limaku, aku sadar dia tidak sedang merindukan diriku sebagai manusia, melainkan hanya merindukan kenyamanan punya pendamping hidup yang selalu merapikan dan mengatur segala urusannya. Anehnya, yang melintas di kepalaku justru bayangan wajah lelah namun hangat milik Bima waktu menyodorkan es krim potong di tengah hujan dan mengajak makan bakso tanpa peduli jam pengingat.
 
 "Maaf, Jar," kataku tenang sambil menarik kembali buku catatan cokelatku dari dekat tangannya dan memasukkannya ke dalam tas. "Kita sudah selesai dari dulu. Sekarang fokusku cuma menyelesaikan evaluasiku dan mengurus kepindahanku ke Surabaya."
 

@@ -12,7 +12,7 @@ Satu bulan yang lalu, kalau map biru ini diletakkan di depanku, aku pasti sudah 
 
 Namun siang ini, jemariku hanya berhenti menyentuh tepi kertas itu. Di kepalaku, bukannya terbayang ruang kerja baru di Surabaya, yang muncul justru bayangan wajah Bima yang mundur selangkah di lobi hari Senin lalu dan suara tawa Nino saat belajar di karpet kelas.
 
-Melihatku hanya terdiam menatap lembaran kertas itu tanpa senyum antusias seperti biasanya, senyum di wajah Bu Maya perlahan berganti menjadi tatapan serius.
+Melihatku hanya terdiam menatap lembaran kertas itu tanpa senyum antusias yang biasa kuperlihatkan, tatapan di wajah Bu Maya perlahan berganti menjadi serius.
 
 "Hana, kamu kenapa? Kok malah ragu begitu?" tanya Bu Maya tajam. "Bukannya posisi di Surabaya ini yang kamu kejar mati-matian sejak awal tahun?"
 
@@ -32,7 +32,7 @@ Aku mendengarkan dengan punggung menegang.
 
 "Namamu otomatis dicoret permanen dari daftar promosi manajemen," jawab Bu Maya lugas. "Selama tetap mengajar di cabang Jakarta ini, kamu tidak akan pernah bisa naik jabatan lagi. Kamu paham konsekuensinya kan?"
 
-"Paham, Bu Maya," jawabku dengan suara yang kuusahakan tetap mantap, meski jemariku di atas pangkuan mulai dingin menyentuh map plastik itu.
+"Paham, Bu Maya," jawabku dengan suara yang kuusahakan tetap mantap, meski jemariku di atas pangkuan mulai dingin menyentuh map plastik itu. Taruhannya terlalu besar untuk karier yang sudah kurintis bertahun-tahun.
 
 "Bagus. Pelajari kontraknya di rumah, dan pastikan penampilan muridmu hari Sabtu nanti berjalan lancar," tutup Bu Maya sambil kembali membuka layar laptopnya.
 

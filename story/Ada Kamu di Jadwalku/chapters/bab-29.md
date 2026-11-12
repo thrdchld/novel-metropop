@@ -38,7 +38,7 @@ Aku melangkah mendekat dan berhenti tepat di sebelahnya di tepi pagar balkon, me
 
 Bima memejamkan matanya sesaat sambil tertawa pasrah dan mengusap wajahnya. "Sumpah, Hana, saya beneran nggak tahu kalau pas kamu ke kios air itu si Nino diam-diam nyalain tombol rekam."
 
-Dia menepuk pelan dahinya yang masih menyisakan gurat kantuk. "Subuh tadi pas gabungin semua klip video, mata saya sudah tinggal lima watt, makanya klip paling buntut lupa kepotong," tambahnya sambil meringis malu.
+Dia menepuk pelan dahinya yang masih menyisakan gurat kantuk. "Subuh tadi pas gabungin semua klip video, mata saya sudah berat banget sampai hampir merem, makanya klip paling buntut lupa kepotong," tambahnya sambil tersenyum malu.
 
 Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang Mas Bima punya perasaan yang sama, kenapa kemarin pas kutanya soal Surabaya malah nyuruh aku pergi?"
 

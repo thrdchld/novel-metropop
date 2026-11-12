@@ -6,17 +6,17 @@ Aku masih berdiri di tepi kanan panggung sambil menyeka pipiku yang basah. Di ke
 
 Namun begitu gambar pertama muncul memenuhi layar besar, napasku langsung tertahan di dada.
 
-Gambar pertama yang terpampang di layar bukanlah pot tanaman lidah mertua yang berdebu di lobi depan seperti dugaanku di minggu pertama dulu, melainkan pantulan kaca pintu lobi pada hari Rabu yang memperlihatkan diriku sedang berjongkok membetulkan tali sepatu Nino dengan senyum kecil yang bahkan tidak kusadari pernah kulakukan.
+Gambar pertama yang terpampang di layar bukanlah pot tanaman lidah mertua berdebu di lobi depan, melainkan pantulan kaca pintu lobi pada hari Rabu yang memperlihatkan diriku sedang berjongkok membetulkan tali sepatu Nino dengan senyum kecil yang bahkan tidak kusadari pernah kulakukan.
 
 Gambar kedua berganti di layar. Bukan poster dinding atau rak mainan kayu di lorong luar, melainkan potret dari balik kaca Ruang Kelas Nomor Dua. Di foto itu, aku sedang duduk bersila di atas karpet hijau bersama Nino, tertawa lepas waktu Nino berhasil mengucapkan kata green dinosaur.
 
-Gambar ketiga berubah menjadi potongan video pendek. Bukan rekaman talang air hujan di pinggir atap teras seperti alasan Bima waktu itu, melainkan rekaman wajahku dari sudut samping yang sedang menggigit es krim potong cokelat sambil tertawa membersihkan noda es krim di hidung Nino di tengah derasnya hujan Kebayoran Baru.
+Gambar ketiga berubah menjadi potongan video pendek. Bukan rekaman talang air hujan di pinggir atap teras yang dulu dijadikan alasan oleh Bima, melainkan rekaman wajahku dari sudut samping yang sedang menggigit es krim potong cokelat sambil tertawa membersihkan noda es krim di hidung Nino di tengah derasnya hujan Kebayoran Baru.
 
 Dan potongan video berikutnya menampilkan rekaman tiga detik di kedai mi ayam Cak Man. Bukan rekaman uap mangkuk mi atau botol sambal, melainkan wajahku sendiri yang sedang tertawa geli melepas kacamata bacaku yang putih tertutup embun kuah mi ayam!
 
 Tanganku terangkat menutupi mulutku yang bergetar menahan haru.
 
-Ternyata selama enam minggu ini, setiap kali aku membatin bahwa Bima kurang kerjaan gara-gara hobi memotret benda-benda sepele yang tidak penting di sekitar kami, lensa kamera peninggalan almarhum ayahnya itu sebenarnya sedang menangkap diriku. Persis seperti pesan terakhir ayahnya yang dia ceritakan di bangku taman Cipete: tangkapan kamera paling indah adalah momen jujur yang diambil diam-diam saat orangnya lupa sedang diperhatikan kamera.
+Ternyata selama enam minggu ini, setiap kali aku membatin bahwa Bima kurang kerjaan gara-gara hobi memotret benda-benda sepele yang tidak penting di sekitar kami, lensa kamera peninggalan almarhum ayahnya itu sebenarnya sedang menangkap diriku. Persis pesan terakhir ayahnya yang dia ceritakan di bangku taman Cipete: tangkapan kamera paling indah adalah momen jujur yang diambil diam-diam saat orangnya lupa sedang diperhatikan kamera.
 
 Layar proyektor kemudian menampilkan deretan video latihan Nino di taman, lalu perlahan meredup menjadi latar hitam bertuliskan huruf putih sederhana: Thank You.
 
@@ -30,12 +30,12 @@ Di layar besar, muncul sebuah rekaman video yang sudut pandangnya agak rendah da
 
 "Lihat tuh, kamera rahasia Nino nyala... Om Bima lagi metik bunga kamboja di pohon buat dikasih ke Miss Hana!" terdengar jelas suara bisikan polos Nino yang sangat dekat dengan mikrofon kamera melalui pengeras suara aula.
 
-Mata seluruh penonton di aula langsung membulat ke arah layar, sementara jantungku seperti berhenti berdetak.
+Mata seluruh penonton di aula langsung tertuju ke arah layar, sementara dadaku berdegup kencang.
 
 Di dalam rekaman video hasil ulah Nino waktu aku pergi membeli air mineral di kios depan taman itu, terpampang jelas sosok Bima yang berdiri di bawah pohon kamboja sambil memungut setangkai bunga kamboja merah muda yang baru jatuh di dahan rendah. Di layar, Bima menatap bunga itu dengan senyum paling lembut dan penuh sayang, bahkan sempat berlatih mengulurkan bunga itu ke depan sambil bergumam pelan, "Hana, ini buat kamu..."
 
 Namun detik berikutnya di dalam video, suara bisikan Nino kembali menahan tawa: "Eh, Miss Hana sudah jalan balik! Loh, kok bunganya nggak jadi dikasih Om? Kok malah dimasukin ke kantong kemeja?"
 
-Dan persis seperti yang kulihat di taman waktu itu, video di layar memperlihatkan Bima yang mendadak panik saat melihatku berjalan mendekat dari kejauhan, lalu secepat kilat menjejalkan bunga kamboja merah muda itu ke dalam saku dada kemeja flanelnya dengan kedua telinga yang memerah!
+Dan persis apa yang kulihat di taman waktu itu, video di layar memperlihatkan Bima yang mendadak panik saat melihatku berjalan mendekat dari kejauhan, lalu secepat kilat menjejalkan bunga kamboja merah muda itu ke dalam saku dada kemeja flanelnya dengan kedua telinga yang memerah!
 
 Selama dua detik aula hening, lalu sedetik kemudian tawa hangat dan gemuruh tepuk tangan yang dua kali lipat lebih meriah langsung meledak memenuhi seluruh ruangan, sementara di dekat meja operator teknis, Bima yang baru sadar klip paling buntut di kartu memorinya lupa terpotong subuh tadi langsung melompat panik hendak menutup layar laptop dengan wajah dan leher yang merah padam!

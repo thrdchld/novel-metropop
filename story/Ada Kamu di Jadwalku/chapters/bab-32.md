@@ -6,7 +6,7 @@ Aku menunjuk layar televisi di dinding samping kelas yang sedang memutar video k
 
 "The orange cat is sleepy!" seru Nino paling kencang sebagai asisten cilikku pada sesi kelas perdana Rumah Belajar Langkah Kecil hari Sabtu sore ini, yang langsung diikuti tawa kompak kelima teman barunya di atas karpet hijau.
 
-Tidak ada lagi meja kaku yang memisahkan guru dan murid seperti ruang ujian. Aku duduk bersila di atas karpet bersama Nino dan lima murid sekolah dasar yang didaftarkan oleh para orang tua dari acara panggung bulan lalu. Dinding kelas kami kini dihiasi deretan bingkai foto cerita sehari-hari hasil jepretan Bima. Bahkan murid-murid baruku yang tadinya malu-malu kini sudah berebut mengangkat tangan setiap kali video di layar berganti menampilkan gambar gerobak bakso dan tukang balon keliling.
+Tidak ada lagi meja kaku yang memisahkan guru dan murid. Aku duduk bersila di atas karpet bersama Nino dan lima murid sekolah dasar yang didaftarkan oleh para orang tua dari acara panggung bulan lalu. Dinding kelas kami kini dihiasi deretan bingkai foto cerita sehari-hari hasil jepretan Bima. Bahkan murid-murid baruku yang tadinya malu-malu kini sudah berebut mengangkat tangan setiap kali video di layar berganti menampilkan gambar gerobak bakso dan tukang balon keliling.
 
 Dari balik jendela kaca besar yang menghadap ke teras paviliun yang asri, pemandangan di luar membuat hatiku begitu hangat.
 

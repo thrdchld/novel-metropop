@@ -36,4 +36,4 @@ Tangannya yang sedang memegang pinggiran tas kamera di atas meja langsung berger
 
 "Sama-sama, Miss. Kalau gitu saya nunggu di kursi luar dulu ya. Semangat, No!" pamit Bima sambil menyampirkan kembali tas kanvas besarnya yang kempis itu ke bahu dan melangkah keluar ruang kelas.
 
-Aku menatap pintu kaca yang baru tertutup sambil memegang sepuluh kartu pos foto itu, menyimpan tanda tanya kecil di kepalaku kenapa fotografer berbakat seperti dia membawa tas kamera sebesar koper kalau isinya cuma satu kamera tua.
+Aku menatap pintu kaca yang baru tertutup sambil memegang sepuluh kartu pos foto itu, menyimpan tanda tanya kecil di kepalaku kenapa fotografer berbakat seperti dia membawa tas kamera sebesar itu kalau isinya cuma satu kamera tua.

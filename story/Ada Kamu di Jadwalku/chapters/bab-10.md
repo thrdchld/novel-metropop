@@ -22,7 +22,7 @@ Aku sempat melirik jam di ponselku. Di buku catatanku, pukul tujuh malam seharus
 
 Lima menit kemudian, kami bertiga sudah duduk di kedai mi ayam pinggir jalan yang diterangi lampu kuning hangat. Begitu tiga mangkuk mi ayam panas dengan taburan daun bawang dan pangsit rebus disajikan di meja, lelah di pundakku langsung menguap setengah.
 
-"Jujur ya, Mas, tadi sore aku sempat pusing banget pas tahu harus gantiin kelas Meli mendadak," curhatku sambil mengaduk sambal sedikit ke dalam mangkukku. "Kalau ada satu aja jadwal di bukuku yang geser, rasanya kayak susunan kartu domino yang roboh beruntun."
+"Jujur ya, Mas, tadi sore aku sempat pusing banget pas tahu harus gantiin kelas Meli mendadak," curhatku sambil mengaduk sambal sedikit ke dalam mangkukku. "Kalau ada satu aja jadwal di bukuku yang geser, rencanaku seharian rasanya langsung berantakan."
 
 Bima mendengarkan keluhanku dengan sabar sambil memindahkan satu pangsit rebus dari mangkuknya ke mangkuk Nino. Dia sama sekali tidak menertawakan sifatku seperti yang dulu sering dilakukan Fajar.
 
