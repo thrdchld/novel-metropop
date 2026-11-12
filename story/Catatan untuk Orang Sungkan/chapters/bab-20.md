@@ -36,7 +36,7 @@ Saat aku duduk di kursiku dan meletakkan map kosong ke atas meja, pandanganku ta
 
 Terselip di bawah buku catatan hitam milik Saka, ada sepucuk amplop cokelat panjang resmi yang sebagian ujungnya menyembul keluar. Di sudut kiri atas amplop itu, tercetak jelas logo Kantor Pusat Penerbit Aksara Senja Cabang Yogyakarta, dengan perihal surat yang separuh tertutup buku: Verifikasi Masa Tugas dan Pelepasan Pegawai.
 
-Jantungku rasanya mencelos jatuh ke dasar perut.
+Dadaku mendadak terasa nyeri dan perih.
 
 Tanganku meraih pensil gambar dari tempat pensil. Ujung karet penghapusnya yang sudah lama tidak kugigit kini kuangkat ke dekat bibir.
 

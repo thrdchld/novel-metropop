@@ -1,6 +1,6 @@
 ## **Bab 26: Meja Kerja yang Membeku**
 
-Jika hari Senin kemarin suasana di meja proyek nomor empat kaku seperti papan tripleks, maka Selasa pagi ini suhunya resmi turun menyamai kulkas daging beku.
+Suasana di meja proyek nomor empat pada Selasa pagi ini benar-benar membeku.
 
 Sejak datang pukul sembilan pagi tadi, Saka sama sekali tidak menoleh ke arahku. Tidak ada lagi segelas kopi susu dingin di sebelah tempat pensilku, tidak ada juga komentar soal gambar kucing atau warna gerobak bakso.
 
@@ -10,7 +10,7 @@ Saat menyerahkan lembar persetujuan naik cetak untuk kutandatangani pukul sepulu
 
 "Baik, Mas," jawabku pelan.
 
-Sementara kursi sebelahku sedingin kutub utara, dari arah divisi pemasaran justru ada orang yang mondar-mandir ke mejaku dengan wajah berseri-seri seperti baru menang undian berhadiah.
+Di saat kursi sebelahku begitu sunyi, Dimas justru bolak-balik melintasi meja nomor empat dengan wajah semringah.
 
 Sudah tiga kali sepanjang pagi sampai siang itu Dimas sengaja mampir ke meja nomor empat.
 
@@ -22,7 +22,7 @@ Dari ekor mataku, aku melihat gerakan jari Saka di atas keyboard laptopnya berhe
 
 "Oke, Mas. Nanti sore kabari aja kalau udah siap jalan," sahutku kepada Dimas dengan senyum tipis yang kupaksakan.
 
-Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam istirahat makan siang, Tari langsung menarik kursinya merapat ke mejaku. Kali ini sahabatku itu tidak membawa stoples makaroni pedasnya. Wajahnya serius sekali.
+Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam istirahat makan siang, Tari langsung menarik kursinya merapat ke mejaku. Wajahnya serius sekali.
 
 "Nad, lo beneran mau balikan sama si Dimas nanti malam?" tanya Tari tanpa tedeng aling-aling.
 

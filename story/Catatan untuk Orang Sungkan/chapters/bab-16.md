@@ -30,7 +30,7 @@ Meskipun payung itu ukurannya lumayan lebar untuk satu orang, begitu dipakai ber
 
 Anehnya, suasana canggung tidak menyelimuti kami berdua. Udara petang yang sejuk bercampur suara rintik gerimis di atas kain payung justru membuat langkah kami berayun santai.
 
-"Tadi di ruang rapat, muka Mas Dimas beneran kayak kepiting rebus waktu Mas Saka buka tabel penjualan," kataku sambil tersenyum kecil mengingat kejadian sore tadi. "Dia pasti nggak nyangka Mas Saka sampai hafal isi laporan divisinya."
+"Tadi di ruang rapat, Mas Dimas langsung mati kutu waktu Mas Saka buka tabel penjualan," kataku sambil tersenyum kecil mengingat kejadian sore tadi. "Dia pasti nggak nyangka Mas Saka sampai hafal isi laporan divisinya."
 
 "Saya sebenarnya paling malas debat di rapat," sahut Saka. Layar lampu jalanan yang mulai menyala memantul di garis wajahnya yang tenang. "Tapi saya nggak bisa diam kalau orang nyerang kerjaan tim pakai alasan mengada-ada."
 

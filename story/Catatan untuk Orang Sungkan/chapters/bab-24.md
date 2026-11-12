@@ -2,7 +2,7 @@
 
 Senin sore pukul empat tepat, kurir dari percetakan rekanan mengantarkan dua eksemplar buku cetak percobaan Sela Waktu yang masih hangat ke meja proyek nomor empat.
 
-Seharusnya ini menjadi sore yang paling membahagiakan buatku dan Saka setelah sebulan penuh berjibaku dengan sketsa dan naskah. Namun sejak pagi tadi aku datang ke kantor, udara di antara kursi kami rasanya lebih kaku daripada papan tripleks.
+Seharusnya ini menjadi sore yang paling membahagiakan buatku dan Saka setelah sebulan penuh berjibaku dengan sketsa dan naskah. Namun sejak pagi tadi aku datang ke kantor, suasana di antara kami terasa sangat kaku dan dingin.
 
 Aku memasang earphone sepanjang hari. Menjawab semua pertanyaan Saka seperlunya, dan sengaja memilih makan siang bersama Tari. Aku pikir, semakin cepat aku membiasakan diri menjaga jarak darinya sebelum dia kembali ke Yogyakarta akhir minggu ini, semakin sedikit rasa sakit yang harus kutanggung nanti.
 
@@ -30,11 +30,11 @@ Aku baru ingat bahwa pada Jumat sore lalu, sebelum mengirimkan file terakhir ke 
 
 Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
 
-Jantungku berdebar kencang di balik tulang rusukku. Aku ingin sekali merebut buku itu dari tangannya dan bilang bahwa gambar itu cuma coretan iseng yang lupa kuhapus, tapi lidahku kelu.
+Jantungku berdegup kencang menahan malu. Aku ingin sekali merebut buku itu dari tangannya dan bilang bahwa gambar itu cuma coretan iseng yang lupa kuhapus, tapi lidahku kelu.
 
 Saka menatap gambar kursi kosong dan bayangan botol minum itu lama sekali. Jari telunjuk kanannya terangkat menyentuh permukaan kertas tempat bayangan botol itu berada.
 
-Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya hening dan serius. Dia seperti baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak sore itu.
+Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya hening dan serius. Dia seolah memahami kenapa aku bersikap dingin sejak Jumat lalu.
 
 "Nad," panggil Saka pelan seraya menatapku lekat. "Gambar kursi kosong di halaman terakhir ini... kamu bikin waktu saya turun ke lantai dua?"
 

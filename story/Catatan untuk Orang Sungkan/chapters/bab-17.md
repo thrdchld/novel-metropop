@@ -60,7 +60,7 @@ Suara jangkrik dari pot tanaman ibu kos di pojok teras terdengar mengisi jeda di
 
 Untuk pertama kalinya sejak aku mengenal editor pindahan dari cabang Yogyakarta ini, wajah datar yang biasanya dingin dan tak tergoyahkan itu berubah warna. Di bawah sinar lampu teras yang kekuningan, rona kemerahan merambat naik dengan jelas dari leher sampai ke kedua daun telinga Saka.
 
-Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya seperti botol itu baru saja menyengat jarinya.
+Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya.
 
 "Enggak ada hubungannya," sanggah Saka seraya membuang pandangan ke arah pot lidah mertua di samping pagar. "Tutup botolnya emang agak dol karetnya. Makanya sering saya kencangkan."
 
@@ -72,4 +72,4 @@ Saka tidak menjawab. Dia hanya berdeham sekali lagi, membetulkan tali tas selemp
 
 Namun tepat saat dia berbalik badan dan membuka gerbang besi kosku untuk melangkah keluar ke jalan gang, aku sempat melihat pantulan wajahnya dari kaca jendela pos depan. Laki-laki kaku itu sedang menahan senyum tipis di sudut bibirnya sambil menggelengkan kepala pelan-pelan.
 
-Aku berdiri di teras kos sambil memeluk kotak martabak hangat itu di dadaku. Malam itu, bukan cuma perutku yang kenyang oleh cokelat keju, tapi hatiku juga penuh oleh bunyi klik dua kali yang paling manis sedunia.
+Aku berdiri di teras kos sambil memeluk kotak martabak hangat itu di dada. Malam itu, di kamar kos yang hening, aroma manis cokelat keju bercampur bunyi klik dua kali yang terus terngiang di kepalaku membuat senyumku tak kunjung padam.

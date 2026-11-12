@@ -20,7 +20,7 @@ Seluruh pasang mata di ruangan itu langsung tertuju kepadaku.
 
 Sejujurnya, ujung jariku yang memegang mikrofon saat ini masih agak dingin. Sejak kemarin malam aku sudah berlatih bicara berkali-kali di depan cermin kamar dan mencatat poin-poin bahasan di kartu kecil supaya tidak panik seperti yang diejekkan Dimas di rumah makan Selasa malam lalu.
 
-Namun saat aku melirik catatan kecil di pangkuanku lalu menatap kursi kosong di sebelah kananku, aku menarik napas panjang untuk menenangkan gugupku. Aku tidak perlu terdengar seperti pembicara hebat sore ini; aku hanya perlu bercerita jujur tanpa bersembunyi di balik kalimat robot lagi.
+Namun saat aku melirik catatan kecil di pangkuanku lalu menatap kursi kosong di sebelah kananku, aku menarik napas panjang untuk menenangkan gugupku. Aku tidak perlu terdengar seperti pembicara hebat sore ini; aku hanya perlu bercerita jujur tanpa bersembunyi di balik kalimat kaku lagi.
 
 "Dua meja kerja di halaman terakhir itu meja proyek nomor empat di kantor kami," bukaku seraya memegang mikrofon erat.
 

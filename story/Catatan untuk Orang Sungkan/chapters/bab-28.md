@@ -46,7 +46,7 @@ Untuk terakhir kalinya, aku tersenyum sangat sopan kepadanya. Senyum seorang ope
 
 "Terima kasih banyak atas ketertarikan Anda untuk kembali, Mas Dimas," ucapku dengan diksi baku yang sangat jernih. "Namun mohon maaf, layanan sabar tanpa batas yang Anda hubungi sudah ditutup permanen. Selamat malam."
 
-Dimas ternganga di kursinya. Wajahnya pucat pasi seperti kertas tisu, mulutnya terbuka sedikit tanpa ada satu kata pun yang berhasil keluar.
+Dimas ternganga di kursinya. Wajahnya pucat pasi, mulutnya terbuka tanpa ada satu kata pun yang berhasil keluar.
 
 Di seberang meja, Ibu langsung ikut berdiri sambil mengambil tas tangannya. Ibu menghampiriku dan menggenggam erat tangan kiriku dengan mata berkaca-kaca.
 

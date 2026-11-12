@@ -1,6 +1,6 @@
 ## **Bab 5: Latihan dan Utang Ayam Bakar**
 
-Kertas catatan tempel warna kuning dari Saka akhirnya berpindah dari sampul buku sketsaku ke sudut kiri bingkai monitor, tepat di samping tombol daya. Tulisan tegak berbunyi Bilang enggak itu nggak bikin langit runtuh sengaja kupasang sejajar dengan arah pandang. Hasilnya nyata. Setiap kali Mbak Dinda melintas di belakang mejaku sambil melempar lirikan masam karena urusan flash disk kemarin sore, kalimat pendek itu sukses mengunci mulutku agar tidak latah meminta maaf.
+Kertas catatan tempel warna kuning dari Saka akhirnya berpindah dari sampul buku sketsaku ke sudut kiri bingkai monitor, tepat di samping tombol daya. Tulisan tegak Bilang enggak itu nggak bikin langit runtuh kupasang sejajar mata. Hasilnya nyata. Setiap kali Mbak Dinda melintas di belakang mejaku sambil melempar lirikan masam karena urusan flash disk kemarin sore, kalimat pendek itu sukses mengunci mulutku agar tidak latah meminta maaf.
 
 Menjelang jam dua belas siang, Tari sudah berdiri di samping kubikelku sambil menenteng dompet, siap menarikku ke warung ayam bakar di gang belakang gedung kantor. Karena aku dan Saka masih tanggung mendiskusikan tata letak bab dua, Saka ikut berjalan di belakang kami sambil menyimak ocehan Tari soal teman kencannya yang pelit minta ampun.
 
@@ -26,7 +26,7 @@ Aku menoleh sedikit. Saka yang duduk di sebelah kananku tampak sibuk menatap pir
 
 Jantungku seketika berdegup kencang.
 
-Kutatap wajah Riko yang menunggu dengan cengiran tanpa beban, lalu kulirik Saka yang duduk tenang di sampingku. Kalau hari ini aku kembali menalangi makan siangnya, uang sakuku berkurang dan aku resmi menjadi orang paling payah yang tidak bisa memegang prinsip sendiri.
+Kutatap cengiran Riko, lalu kulirik Saka di sampingku. Kalau hari ini aku menalangi lagi, aku resmi jadi orang paling payah yang tidak punya pendirian.
 
 Kutarik napas perlahan, lalu menutup kembali dompetku rapat-rapat.
 
@@ -70,4 +70,4 @@ Namun mataku menangkap gerakan jemari kanannya.
 
 Ibu jari Saka tanpa sadar memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya lagi sampai terdengar bunyi klik pelan dua kali.
 
-Kulihat gelas es jeruk dingin berembun di depanku, lalu kulirik jempol Saka yang masih bertumpu di tutup botolnya. Senyum geli tak kuasa kutahan. Tanpa banyak komentar lagi, kuraih sedotan dan kusesap es jeruk itu perlahan, menikmati rasa manis asamnya yang terasa begitu menyegarkan di tenggorokan.
+Kulihat gelas es jeruk dingin di depanku, lalu kulirik jempol Saka di tutup botolnya. Senyum geli tak kuasa kutahan. Kuraih sedotan dan kusesap es jeruk itu perlahan. Segar sekali.

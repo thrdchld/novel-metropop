@@ -16,7 +16,7 @@ Aku meringis kecil, tidak sanggup membela diri. "Maaf, Mas. Aku perbaiki sekaran
 
 Sebenarnya bukan salah gerobak baksonya. Sejak Senin pagi tadi duduk di meja nomor empat, konsentrasiku buyar gara-gara pesan singkat dari Mbak Raras. Kakak sulungku itu terus menanyakan transfer uang empat juta rupiah, lengkap dengan kiriman foto keponakanku memeluk pelampung bebek.
 
-Parahnya lagi, setiap sepuluh menit sekali kabel papan gambar lamaku kumat penyakitnya. Kalau tersenggol siku sedikit saja, kursor di layar langsung meloncat liar seperti cacing kepanasan.
+Parahnya lagi, setiap sepuluh menit sekali kabel papan gambar lamaku kumat penyakitnya. Kalau tersenggol siku sedikit saja, kursor di layar langsung melompat-lompat tak terkendali.
 
 Saka memperhatikan caraku mengganjal pangkal kabel papan gambar itu dengan kotak pensil, lalu melirik jam dinding pukul lima sore tepat.
 
@@ -44,7 +44,7 @@ Begitu telepon ditutup, aku meletakkan ponsel ke meja sambil menatap kabel papan
 
 "Jadi itu yang dari tadi bikin kucing kampung jadi hijau stabilo?" buka Saka menggeser piring tahu isi.
 
-Saka menatapku lurus. "Mau minjemin uang liburan, padahal kabel sendiri udah kayak perban mumi?"
+Saka menatapku lurus. "Mau minjemin uang liburan orang lain, padahal kabel alat kerjamu sendiri udah terlilit lakban begitu?"
 
 Aku menunduk menatap permukaan teh hangat di cangkirku. Beban yang sejak kemarin sore mengganjal di kerongkonganku akhirnya tumpah juga.
 

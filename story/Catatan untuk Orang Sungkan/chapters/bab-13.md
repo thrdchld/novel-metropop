@@ -2,7 +2,7 @@
 
 Jam setengah sembilan malam di kamar kosku di Cikini, aku duduk bersila di atas kasur tipis sambil memelototi layar ponselku yang menyala.
 
-Di depanku, papan gambar digital lamaku tergeletak di atas meja lipat kayu. Kabel hitamnya yang dililit lakban listrik mirip pasien gawat darurat yang cuma bertahan hidup berkat doa.
+Di depanku, papan gambar digital lamaku tergeletak di atas meja lipat kayu. Kabel hitamnya yang dililit lakban listrik tampak kusam dan sudah hampir putus.
 
 Lima menit yang lalu, pesan dari Mbak Raras masuk lagi ke WhatsApp-ku: Nad, jadi gimana uang empat jutanya? Batas bayar hotel murahnya sampai jam sepuluh malam ini loh.
 

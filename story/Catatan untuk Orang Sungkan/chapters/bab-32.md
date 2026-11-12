@@ -16,7 +16,7 @@ Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, 
 
 "Ini sampul buku resep masakan minggu depan tinggal dirapikan tata letak belakangnya dikit kok, Nad," kata Mbak Dinda sambil tersenyum manis dan mulai mengulurkan map hijau itu ke arah papan gambarku. "Anak gue sore ini ada jadwal imunisasi di rumah sakit, gue harus cabut duluan. Tolong bantuin sejam aja ya?"
 
-Di kursi sebelah kananku, Saka tidak memotong pembicaraan seperti sebulan yang lalu. Dia hanya bersandar tenang sambil memegang botol minum hitam penyoknya, melirikku dengan tatapan santai seperti ingin menonton hasil ujian akhir muridnya.
+Di kursi sebelah kananku, Saka tidak memotong pembicaraan seperti sebulan yang lalu. Dia hanya bersandar tenang sambil memegang botol minum hitam penyoknya, melirikku santai menunggu reaksiku.
 
 Aku mematikan papan gambar digitalku, lalu menatap Mbak Dinda dan Riko dengan senyum ramah yang tulus. Bukan senyum kaku karena takut dimusuhi, melainkan senyum orang yang tahu persis di mana batas jam kerjanya.
 
@@ -36,7 +36,7 @@ Riko langsung tersedak ludahnya sendiri, sementara Mbak Dinda tertegun dua detik
 
 "Oke deh, besok pagi aja kalau gitu," gumam Mbak Dinda sambil buru-buru berbalik pergi diikuti Riko yang langsung kabur ke mejanya.
 
-Dari kubikel sebelah, Tari memberikan tepuk tangan tanpa suara sambil mengunyah makaroni pedasnya dengan wajah bangga luar biasa.
+Dari kubikel sebelah, Tari memberikan tepuk tangan tanpa suara dengan wajah bangga luar biasa.
 
 Tepat saat itu, jarum jam dinding kantor menyentuh angka lima sore lewat satu menit.
 

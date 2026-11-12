@@ -34,7 +34,7 @@ Riko berbalik menuju mejanya. "Katanya urusan di sini udah nggak ada yang perlu 
 
 Urusan di sininya udah nggak ada yang perlu ditungguin lagi.
 
-Aku terduduk lemas di kursiku sendiri, menatap kursi kerja kosong di sebelahku dengan dada yang rasanya seperti diremas kuat-kuat.
+Aku terduduk lemas di kursiku sendiri, menatap kursi kerja kosong di sebelahku dengan dada yang terasa sesak dan nyeri.
 
 Kemarin sore jam setengah enam. Itu tepat setelah aku pergi meninggalkan kantor untuk menghadiri makan malam bersama Dimas di Rawamangun.
 

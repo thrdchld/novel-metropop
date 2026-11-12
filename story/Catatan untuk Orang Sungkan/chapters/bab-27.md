@@ -40,7 +40,7 @@ Dia menatapku santai. "Kamu temani aku ke sana ya? Sekalian kukenalkan sama istr
 
 Aku menoleh cepat menatap Dimas. "Jumat sore jam empat?" tanyaku kaget. "Itu jadwal peluncuran buku Sela Waktu di Cikini. Aku harus duduk di panggung bareng Mas Saka."
 
-Dimas mengibaskan tangan kirinya di udara dengan enteng, seperti acara peluncuran buku yang kukerjakan siang malam selama sebulan itu cuma arisan RT.
+Dimas mengibaskan tangan kirinya di udara dengan enteng, seolah peluncuran buku yang kukerjakan sebulan penuh itu sama sekali tidak penting.
 
 "Buku esai kecil gitu biar diurus editor Jogja itu sendiri aja di panggung," kata Dimas enteng.
 
@@ -54,7 +54,7 @@ Suara bising pengunjung rumah makan di sekeliling kami mendadak lenyap dari pend
 
 Aku menatap wajah Dimas yang sedang tersenyum penuh kemenangan sambil mengunyah ikan bakarnya.
 
-Detik itu juga, rasanya seperti ada seseorang yang menyiramkan seember air dingin tepat ke wajahku, menyapu bersih seluruh kabut kebingungan dan rasa bersalah yang menyelimuti kepalaku selama tiga hari terakhir.
+Detik itu juga, seluruh keraguan yang membebani kepalaku selama tiga hari terakhir lenyap tak bersisa.
 
 Tari benar.
 

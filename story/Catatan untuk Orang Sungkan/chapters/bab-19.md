@@ -68,7 +68,7 @@ Dimas melipat tangannya di dada. "Begitu buku Sela Waktu beres, tugas perbantuan
 
 Dimas menatap mataku lurus. "Memangnya selama ini dia pernah ngajak kamu bahas kelanjutan hubungan kalian?"
 
-Aku terdiam seribu bahasa.
+Aku terdiam kaku di tempatku.
 
 Ingatanku langsung berputar cepat ke empat minggu terakhir. Saka memang baik, perhatian lewat tindakan kecil, dan selalu membela karyaku. Tapi Dimas benar: tidak sekali pun Saka pernah menyebut apa yang akan terjadi pada kami setelah proyek buku Sela Waktu selesai.
 

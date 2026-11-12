@@ -24,7 +24,7 @@ Aku baru saja menarik napas untuk menjawab argumen Dimas ketika Saka lebih dulu 
 
 "Sebelum kita mengubah sampul buatan Nadia, saya tampilkan data laporan penjualan kuartal lalu dari divisi pemasaran sendiri," kata Saka.
 
-Suaranya sama sekali tidak tinggi. Datar, jernih, dan tenang seperti penyiar berita malam.
+Suaranya sama sekali tidak tinggi. Datar, jernih, dan tenang tanpa emosi.
 
 Layar proyektor di depan ruangan berganti menampilkan tabel angka resmi berlogo Aksara Senja yang rupanya sudah disiapkan Saka sejak siang tadi.
 
@@ -42,7 +42,7 @@ Saka menoleh menatap Dimas yang duduk kaku di seberang meja.
 
 Saka membiarkan layar proyektor menampilkan nama pemeriksa berkas. "Jadi kalau bilang gaya Nadia kurang menjual, berarti kamu belum membaca laporan divisimu sendiri."
 
-Wajah Dimas langsung berubah semerah tomat rebus. Bolpoin yang tadi dipegangnya untuk menunjuk-nunjuk layar kini diturunkan pelan-pelan ke atas meja.
+Wajah Dimas seketika memerah menahan malu. Bolpoin yang tadi dipegangnya untuk menunjuk-nunjuk layar kini diturunkan pelan-pelan ke atas meja.
 
 "Eh... maksud saya kan cuma sebagai opsi pembanding aja, Pak," kilah Dimas gugup sambil menoleh ke arah Pak Ramdan. "Kalau memang datanya mendukung gaya arsiran tangan, saya ikut keputusan redaksi saja."
 

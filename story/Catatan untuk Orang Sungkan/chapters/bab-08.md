@@ -56,6 +56,6 @@ Aku menerima buku yang sudah bersih itu, tapi belum sempat membukanya, Saka suda
 
 "Mas Saka aja yang bawa?" tanyaku.
 
-"Tangan kamu kan cuma dua, Nad. Mau gambar sambil akrobat bawa kamus?" sahutnya lempeng sambil menumpuk ketiga buku tebal itu di satu lengannya seperti membawa kerupuk kaleng.
+"Tangan kamu kan cuma dua, Nad. Masa mau gambar sambil megangin buku tebal?" sahutnya lempeng sambil menumpuk ketiga buku itu di lengannya.
 
-Selama satu jam berikutnya, kami tenggelam di antara rak-rak buku sempit itu. Dan untuk pertama kalinya sejak mengenal Mesin Pemotong Basa-Basi dari Jogja ini, aku sadar bahwa berada di dekatnya ternyata tidak semenakutkan yang kubayangkan di hari pertama.
+Selama satu jam berikutnya, kami tenggelam di antara rak-rak buku sempit itu. Untuk pertama kalinya sejak mengenal editor asal Jogja ini, aku sadar bahwa berada di dekatnya ternyata tidak semenakutkan bayanganku di hari pertama.

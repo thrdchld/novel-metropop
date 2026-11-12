@@ -2,17 +2,17 @@
 
 Hujan deras di luar kedai kopi mulai mereda menjadi rintik sedang saat cangkir teh hangat kami tinggal setengah. Dari balik kaca jendela, tempias air masih membasahi aspal trotoar Cikini yang lengang.
 
-Aku tadinya mengira Saka akan langsung menceramahiku dengan kalimat singkat yang pedas seperti waktu dia menyuruhku menyingkirkan map titipan teman-teman kantor dari meja nomor empat. Biasanya editor Jogja ini tidak pernah menyisakan ruang untuk basa-basi atau penghiburan manis. Nyatanya, sore ini gerak-geriknya jauh lebih tenang dari biasanya.
+Aku tadinya mengira Saka akan langsung menceramahiku dengan kalimat singkat yang pedas seperti waktu dia menyuruhku menyingkirkan map titipan teman-teman kantor dari meja nomor empat. Biasanya editor asal Jogja ini tidak pernah menyisakan ruang untuk basa-basi atau penghiburan manis. Namun sore ini, nada bicara dan gerak-geriknya jauh lebih tenang dari hari-hari sebelumnya saat kami bekerja di meja nomor empat.
 
 Namun Saka justru meraih botol minum hitamnya yang tergeletak di pinggir meja, lalu memutar bagian bawahnya yang penyok sedikit ke arahku.
 
-"Kamu tahu kenapa orang-orang di cabang Jogja ngasih saya julukan Mesin Pemotong Basa-Basi?" tanya Saka tenang.
+"Kamu tahu kenapa orang-orang di kantor sering bilang saya ini kaku dan nggak punya perasaan?" tanya Saka tenang.
 
-Aku menggeleng pelan. "Kata Tari sih gara-gara Mas Saka dari lahir nggak dikasih kelenjar rasa sungkan."
+Aku menggeleng pelan. "Kata Tari sih gara-gara Mas Saka dari lahir emang nggak punya rasa sungkan."
 
-Sudut bibir Saka bergerak tipis mendengar kalimat itu. "Salah," katanya santai. "Dulu waktu baru lulus kuliah di Jogja, saya itu sebelas dua belas sama kamu sekarang."
+Sudut bibir Saka bergerak tipis mendengar kalimat itu. "Salah," katanya santai. "Dulu waktu baru lulus kuliah di Jogja, saya itu persis kayak kamu sekarang."
 
-Aku langsung tertegun tidak percaya. Membayangkan seorang Saka Wijaya yang kaku dan tegaan ini pernah menjadi manusia nggak enakan rasanya lebih mustahil daripada membayangkan kucing kampung berwarna hijau stabilo tadi benar-benar ada di dunia nyata.
+Aku langsung tertegun. Membayangkan Saka Wijaya yang selalu tegas ini pernah jadi orang yang nggak enakan rasanya sulit dipercaya.
 
 "Masa sih, Mas? Mas Saka pernah nggak enakan juga sama orang?" tanyaku sangsi.
 

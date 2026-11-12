@@ -18,7 +18,7 @@ Memasuki minggu keempat kami duduk semeja, suasana di meja proyek nomor empat ra
 
 Kalau dulu aku duduk di kursi ini dengan bahu tegang seperti tersangka yang mau diinterogasi, sekarang meja nomor empat adalah tempat paling nyaman di seluruh lantai tiga. Draf naskah dan ilustrasi buku Sela Waktu sudah rampung hampir sembilan puluh persen. Tinggal bagian halaman pengantar dan halaman ucapan terima kasih yang sedang kurapikan tata letaknya pagi ini.
 
-Saat jam istirahat makan siang tiba dan Saka sedang dipanggil Pak Ramdan ke ruangannya sebentar, Tari langsung menggeser kursi berodanya merapat ke mejaku sambil membawa stoples makaroni pedasnya.
+Saat jam istirahat makan siang tiba dan Saka sedang dipanggil Pak Ramdan ke ruangannya sebentar, Tari langsung menggeser kursi berodanya merapat ke mejaku sambil membawa selembar kertas hasil cetak warna.
 
 "Nad, jujur sama gue," bisik Tari sambil menyipitkan mata menatap gelas kopi susu di mejaku. "Lo sama Mas Saka tuh sebenarnya udah jadian atau masih tahap magang pendekatan sih?"
 
@@ -26,7 +26,7 @@ Saat jam istirahat makan siang tiba dan Saka sedang dipanggil Pak Ramdan ke ruan
 
 "Rekan satu proyek gundulmu!" dengus Tari seraya memelototiku. "Tiap pagi ada aja makanan atau minuman nangkring di meja lo."
 
-Tari meletakkan stoplesnya. "Kemarin sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
+Tari meletakkan kertasnya ke meja. "Kemarin sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
 
 Dia berbisik heboh. "Padahal waktu Riko minta nebeng payung, Mas Saka bilang payungnya cuma muat ranselnya sendiri!"
 
@@ -34,7 +34,7 @@ Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung 
 
 "Dia emang orangnya baik kok kalau udah kenal, Tar," kataku pelan, mataku melirik ke arah botol minum hitam penyok yang berdiri di meja sebelah. "Cuma caranya aja yang nggak pakai bungkus manis."
 
-"Yang penting, penyakit customer service lo berkurang drastis," tambah Tari sambil mengunyah makaroninya.
+"Yang penting, penyakit customer service lo berkurang drastis," tambah Tari.
 
 Dia melongok ke arah lorong lantai dua. "Kemarin waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
 

@@ -8,7 +8,7 @@ Bukan karena Mbak Dinda dan Riko mendadak tobat, melainkan karena setiap kali me
 
 Setidaknya, aku belajar bahwa dicemberuti orang sedikit itu jauh lebih sehat daripada lembur sambil menangis di tangga darurat.
 
-"Nad, kucing di sketsa bab lima itu gemuk banget kayak bantal guling," celetuk Saka pada Kamis siang itu. Dia menunjuk layar monitorku dengan ujung pulpen.
+"Nad, kucing di sketsa bab lima itu gemuk banget," celetuk Saka pada Kamis siang itu. Dia menunjuk layar monitorku dengan ujung pulpen.
 
 "Loh, kucing pasar di Jakarta emang makmur-makmur, Mas," belaku sambil menahan tawa. "Lagian kalau kurus nanti pembacanya kasihan, bukannya fokus baca esai Mas Saka malah pengin donasi makanan kucing."
 
@@ -22,7 +22,7 @@ Saka langsung menutup tab peramban itu dengan satu klik cepat. "Bukan buat saya,
 
 Dari kubikel sebelah, terdengar bunyi jepretan kamera ponsel yang lupa dimatikan suaranya.
 
-Aku menoleh dan mendapati Tari sedang buru-buru menurunkan ponselnya ke balik stoples makaroni sambil nyengir lebar ke arahku. Bukan cuma Tari yang rupanya memperhatikan meja kami. Dari lorong divisi pemasaran, Dimas sedang berjalan mendekat sambil menenteng cangkir kopi.
+Aku menoleh dan mendapati Tari sedang buru-buru menurunkan ponselnya ke samping monitor sambil nyengir lebar ke arahku. Bukan cuma Tari yang rupanya memperhatikan meja kami. Dari lorong divisi pemasaran, Dimas sedang berjalan mendekat sambil menenteng cangkir kopi.
 
 Wajah mantan pacarku agak kusut beberapa hari terakhir. Kabar burung yang beredar dari dapur kantor menyebutkan bahwa Vanya kemarin sempat ngambek dan menolak membantu Dimas menyiapkan laporan bulanan karena merasa itu bukan tugas anak magang.
 

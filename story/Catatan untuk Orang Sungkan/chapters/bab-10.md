@@ -4,13 +4,13 @@ Kalau ada orang yang bertanya dari mana asal-usul penyakit nggak enakanku yang s
 
 Minggu siang pukul dua belas tepat, aku duduk di kursi kayu meja makan rumah orang tuaku sambil menyendok sayur asem. Di ruang tengah yang terhubung langsung dengan meja makan, terpasang figura kayu foto wisuda keluargaku yang sudut kanan atasnya ada noda kuning bekas cipratan kuah gulai tiga tahun lalu yang tidak pernah bisa hilang.
 
-Sebagai anak tengah di antara kakak sulung yang suaranya paling lantang dan adik bungsu laki-laki yang masih kuliah di Bandung, posisiku di rumah ini sejak kecil mirip ban serep di bagasi mobil. Jarang ditanya kabarnya kalau jalanan mulus, tapi wajib selalu siap sedia kapan pun ada yang kempes.
+Sebagai anak tengah di antara kakak sulung yang suaranya paling dominan dan adik bungsu laki-laki yang masih kuliah di Bandung, posisiku di rumah ini selalu dituntut jadi pihak yang paling pengertian. Jarang ditanya kabarnya, tapi giliran ada urusan merepotkan, aku yang pertama kali diminta mengalah.
 
 "Nad, kok Dimas nggak diajak makan siang ke sini?" tanya Ibu sambil meletakkan piring ikan goreng hangat ke tengah meja. "Ibu udah gorengin ikan nila kesukaan dia loh."
 
 Ibu tersenyum mengenang. "Dia kan pernah janji mau bawain Ibu bibit tanaman gelombang cinta."
 
-Sendok di tanganku berhenti di udara. Nasi di mulutku mendadak seret seperti kapas.
+Sendok di tanganku berhenti di udara. Nasi di mulutku mendadak terasa seret.
 
 "Dimas lagi sibuk ngurus acara kantor akhir pekan ini, Bu," jawabku pelan sambil menunduk menatap piring.
 

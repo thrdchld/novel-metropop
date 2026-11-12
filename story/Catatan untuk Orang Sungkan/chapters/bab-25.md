@@ -56,7 +56,7 @@ Pilihan paling masuk akal. Dia bahkan tidak berusaha menahanku barang sedetik pu
 
 "Baguslah. Urusan cetak percobaan Sela Waktu tadi juga sudah beres semua," kata Saka datar.
 
-Tanpa menunggu jawabanku lagi, Saka langsung berbalik badan dan melangkah cepat melewati pintu samping lobi menuju arah stasiun. Waktu dia mendorong pintu kaca keluar, aku sempat melihat tangannya yang tergantung di samping celana bahan gelapnya terkepal erat sampai buku-buku jarinya memutih.
+Tanpa menunggu jawabanku lagi, Saka langsung berbalik badan dan melangkah cepat melewati pintu samping lobi menuju arah stasiun. Langkahnya panjang dan tergesa, tanpa menoleh sedikit pun ke belakang.
 
 Begitu punggung Saka menghilang di balik pintu kaca, Dimas menghampiriku dengan senyum lembut yang begitu kontras dengan sikap dingin Saka barusan.
 

@@ -2,7 +2,7 @@
 
 Jam satu siang, perutku mulai mengeluarkan bunyi keroncongan yang untungnya kalah keras oleh suara klakson angkot Senen.
 
-Kami mampir ke warung soto ayam. Atap terpal birunya menaungi deretan bangku kayu panjang. Di sudut, sebuah kipas angin berdiri menggeleng malas seperti orang menolak fitnah. Aku duduk di sebelah dalam sambil meletakkan buku sketsa. Saka duduk di seberangku, menaruh kantong buku tebal di dekat kakinya.
+Kami mampir ke warung soto ayam beratap terpal biru dengan deretan bangku kayu panjang. Kipas angin dinding di sudut berdengung mengusir gerah. Aku duduk di sebelah dalam sambil meletakkan buku sketsa, sementara Saka duduk di seberangku, menaruh tas berisi tumpukan buku di dekat kakinya.
 
 "Soto ayam dua, Pak. Nasi pisah, yang satu nggak pakai seledri," pesan Saka kepada bapak penjual soto.
 
@@ -38,7 +38,7 @@ Jantungku langsung berhenti berdetak sedetik.
 
 Sebelum tanganku sempat menyambar buku sketsa itu untuk menutupnya, mata Saka sudah lebih dulu tertuju ke halaman belakang yang terbuka lebar di depannya.
 
-Di halaman kertas tebal itu, ada deretan gambar karikatur penghuni lantai tiga Penerbit Aksara Senja hasil karya tanganku waktu lagi suntuk. Di pojok kiri atas ada gambar Riko sedang meraba saku celana yang bolong, di sebelahnya ada Mbak Dinda yang membawa tumpukan map setinggi menara, dan tepat di tengah halaman dengan ukuran paling besar, ada gambar seorang laki-laki berkemeja flanel kotak-kotak yang sedang memeluk botol minum penyok dengan wajah datar seperti tembok semen. Di bawah gambar laki-laki itu, ada tulisan kecil hasil goresan pensilku hari Rabu lalu: Si Raja Tega dari Jogja.
+Di halaman kertas tebal itu, ada deretan gambar karikatur penghuni lantai tiga Penerbit Aksara Senja hasil karya tanganku waktu lagi suntuk. Di pojok kiri atas ada gambar Riko sedang meraba saku celana yang bolong, di sebelahnya ada Mbak Dinda yang membawa tumpukan map setinggi menara, dan tepat di tengah halaman dengan ukuran paling besar, ada gambar seorang laki-laki berkemeja flanel kotak-kotak yang sedang memeluk botol minum penyok dengan wajah datar tanpa senyum. Di bawah gambar laki-laki itu, ada tulisan kecil hasil goresan pensilku hari Rabu lalu: Si Raja Tega dari Jogja.
 
 Mataku membelalak panik. Tanganku yang hendak menarik buku itu membeku di udara.
 
@@ -64,4 +64,4 @@ Saka mendongak dari buku sketsaku. Untuk pertama kalinya sejak kami bertemu di t
 
 "Gambarnya mirip kok," katanya tenang sambil menggeser kembali buku sketsa itu ke depanku tepat saat dua mangkuk soto ayam pesanan kami tiba di meja. "Apalagi bagian Riko nyari dompet. Itu akurat seratus persen."
 
-Aku menatap senyum tipis yang cuma bertahan tiga detik di wajah Saka itu, dan entah kenapa kuah soto ayam di depanku mendadak dua kali lebih hangat dari biasanya.
+Aku menatap senyum tipis yang cuma bertahan tiga detik di wajah Saka itu, dan entah kenapa rasa canggungku padanya mendadak menguap begitu saja.
