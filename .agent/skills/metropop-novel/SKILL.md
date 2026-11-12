@@ -15,4 +15,6 @@ Skill ini memandu AI menyusun cerita harian Indonesia yang sederhana, masuk akal
    - **Tahap 1:** Susun Premis ABCD simpel (4 kalimat).
    - **Tahap 2:** Tulis **Alur Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf bahasa manusia biasa)** dan pastikan logika ceritanya masuk akal 100% sebelum membuat daftar bab.
    - **Tahap 3:** Susun `outline.md` dengan **4 poin ringkas per bab** (Waktu & Lokasi, Kejadian Inti, Perkembangan Emosi/Hubungan, Detail Kecil/Planting-Callback).
-   - **Tahap 4:** Tulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring) mengikuti outline secara setia dengan gaya bercerita sederhana & *to the point* (`engine/05-style.md`), lalu jalankan Gatekeeper Terpadu `python3 scripts/stress-test.py "story/<Judul>"` hingga lulus 100% (0 pelanggaran di seluruh 22 pemeriksaan). Gunakan `--fix` untuk sinkronisasi otomatis aset turunan.
+   - **Tahap 4:** Tulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring) mengikuti outline secara setia, lalu wajib lulus **Dua Pilar Uji Kelayakan**:
+     - *Pilar 1 (Uji Teknis):* Jalankan `python3 scripts/stress-test.py "story/<Judul>"` (22 pemeriksaan) sampai lulus 100% (0 pelanggaran). Gunakan `--fix` untuk sinkronisasi otomatis aset turunan.
+     - *Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi):* AI wajib memoles naskah dan menguji akal sehatnya sebelum menyetorkan bab (Sebab-akibat nyata, psikologi manusiawi, bebas celetukan garing/cringe, dialog lisan alami, dan irama musikalitas kalimat).

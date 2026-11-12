@@ -24,7 +24,7 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 | **Tahap 1: Premis ABCD Simpel** | Tulis 4 kalimat sederhana: **A (Tokoh)**, **B (Keseharian)**, **C (Kejadian Pemicu)**, **D (Tindakan Utama)**. | Jika pekerjaan/rutinitas di **B** atau pemicu di **C** tidak wajar dialami orang Indonesia sehari-hari -> **BUANG IDENYA, jangan dilanjut!** |
 | **Tahap 2: Cerita Utuh Awal-Tengah-Akhir (4-5 Paragraf)** | Sebelum membuat daftar bab, tulis dulu **jalan cerita utuh dari Awal, Tengah, sampai Akhir dalam 4-5 paragraf bahasa manusia biasa**. | Uji pakai akal sehat: Apakah reaksi tokoh wajar sebagai manusia? Apakah ada bagian yang dipaksakan? Jika terasa mengada-ada -> **BERHENTI & GANTI CERITA di tahap ini.** |
 | **Tahap 3: Outline Per Bab Simpel (4 Poin per Bab)** | Setelah Cerita Utuh 4-5 paragraf disetujui pengguna, pecah menjadi daftar bab (misal 25-34 bab). **Setiap bab cukup 4 poin singkat** (bukan 18 kolom!): (1) Waktu & Tempat, (2) Kejadian Inti, (3) Perubahan Emosi/Hubungan, (4) Detail Kecil / *Planting-Callback*. | Kunci `outline.md` (**TERKUNCI v1.0**). Outline ini menjadi rel tetap yang wajib diikuti 100% saat menulis bab. |
-| **Tahap 4: Menulis Bab (1 per 1)** | Tulis 1 bab (600-900 kata, teks polos tanpa bintang tebal/miring, 0 em dash) mengikuti `outline.md` secara lurus dengan gaya bercerita sederhana & *to the point* (`05-style.md`). Perbarui `state.md` & `ledger.md`. | Cerita mengalir sesuai outline tanpa mengarang konflik baru di luar outline. |
+| **Tahap 4: Menulis Bab (1 per 1)** | Tulis 1 bab (600-900 kata, teks polos tanpa bintang tebal/miring, 0 em dash) mengikuti `outline.md` secara lurus dengan gaya bercerita sederhana & *to the point* (`05-style.md`). Perbarui `state.md` & `ledger.md`. | **Wajib Lolos Dua Pilar Uji Kelayakan:** Pilar 1 (Uji Kelayakan Teknis via `stress-test.py`) + Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi: sebab-akibat nyata, psikologi manusiawi, anti-garing, keluwesan tutur lisan, dan irama musikalitas). |
 
 ---
 
@@ -48,6 +48,15 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 Setiap selesai menulis satu bab ke `story/<Judul>/chapters/bab-NN.md`:
 1. **Tampilkan teks bab** (`## Bab N: Judul`, 600-900 kata, teks polos, 0 em dash, 0 quote pembuka).
 2. **Catatan kontinuitas singkat (3-5 baris):** waktu/lokasi, kejadian baru, dan benih *planting/callback* yang ditanam atau dibayar.
-3. **Perbarui `state.md` & `ledger.md`**, lalu **WAJIB** jalankan satu perintah Gatekeeper Terpadu:
-   `python3 scripts/stress-test.py "story/<Judul>"`
-   *(Skrip ini otomatis menguji seluruh 22 pemeriksaan sekaligus: 8 sinkronisasi aset & dokumen pilar + 14 aturan prosa/gaya/dialog dari rentang kata 600-900, 100% teks polos, judul bab tanpa nama tokoh, pembuka In Medias Res, dialog <=20 kata, 0 eksposisi AYKB, 0 kata filter persepsi, 0 stock tells, 0 sintaksis AI, 0 tag buku pelajaran, 0 AI slop/klinis, batas anatomi/bau <=2, EndQ <=75%, 0 deret kalimat seragam, serta kontinuitas penuh. Gunakan `--fix` untuk sinkronisasi otomatis aset turunan).* AI dilarang mengirim hasil atau melakukan commit jika `stress-test.py` masih mengembalikan `[GAGAL]`.
+3. **Perbarui `state.md` & `ledger.md`**, lalu **WAJIB** jalankan **Dua Pilar Uji Kelayakan**:
+   - **Pilar 1 (Uji Kelayakan Teknis):**
+     `python3 scripts/stress-test.py "story/<Judul>"`
+     *(Skrip ini otomatis menguji 22 pemeriksaan teknis: 8 sinkronisasi aset + 14 aturan format prosa polos, batas dialog, 0 em dash, dan header). Wajib berstatus `[LULUS]` (0 pelanggaran). Gunakan `--fix` untuk sinkronisasi otomatis aset turunan.*
+   - **Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi):**
+     AI wajib melakukan audit pemolesan mandiri berfokus 100% pada kelayakan baca sebelum menyetorkan bab:
+     a. *Sebab-Akibat Nyata:* Alasan keberadaan & tindakan tokoh masuk akal di dunia nyata.
+     b. *Psikologi Manusiawi:* Emosi & reaksi tokoh jujur sesuai kondisi psikologisnya.
+     c. *Anti-Garing & Konteks:* Buang celetukan yang hanya "pengin melucu" tapi merusak suasana atau analogi aneh.
+     d. *Kewajaran Tutur Lisan:* Dialog mengalir santai & luwes seperti manusia Jakarta asli.
+     e. *Musikalitas & Irama Prosa:* Kalimat memiliki variasi panjang-pendek yang enak didengar.
+   AI dilarang mengirim hasil atau melakukan commit jika salah satu pilar belum lulus 100%.

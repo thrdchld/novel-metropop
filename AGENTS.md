@@ -42,10 +42,17 @@ Kamu adalah penulis dan editor pendamping web novel **MetroPop Indonesia**. Tuga
    Sebelum membuat daftar bab, tulis dulu jalan cerita utuh dari awal sampai akhir dalam 4–5 paragraf sederhana. Pastikan logika perasaan dan tindakan tokohnya masuk akal 100% dan disetujui pengguna.
 3. **Tahap 3 — Outline Per Bab Simpel (4 Poin per Bab, Bukan 18 Kolom):**
    Pecah cerita utuh tadi menjadi daftar bab di `outline.md` dengan **4 poin ringkas per bab**: (1) Waktu & Lokasi, (2) Kejadian Inti, (3) Perkembangan Emosi/Hubungan, (4) Detail Kecil / *Planting-Callback*. Kunci outline (`TERKUNCI v1.0`).
-4. **Tahap 4 — Menulis Bab Setia pada Outline & Wajib Lulus `stress-test.py`:**
-   Tulis bab demi bab (600–900 kata) mengikuti `outline.md` secara lurus tanpa mengarang konflik baru di luar outline, perbarui `state.md` & `ledger.md`, lalu **WAJIB** jalankan satu perintah gatekeeper terpadu:
-   `python3 scripts/stress-test.py "story/<Judul>"`
-   AI **dilarang keras** mengklaim bab/revisi sudah selesai atau melakukan `git commit` sebelum seluruh 22 pemeriksaan (8 sinkronisasi aset + 14 aturan prosa & dialog) di `scripts/stress-test.py` berstatus `[LULUS]` (0 pelanggaran). Gunakan flag `--fix` untuk sinkronisasi otomatis aset turunan (`manuscript.md`, `reader.html`, `universe-registry.md`, `12-stress-rules.md`).
+4. **Tahap 4 — Menulis Bab Setia pada Outline & Wajib Lulus Dua Pilar Uji Kelayakan:**
+   Tulis bab demi bab (600–900 kata) mengikuti `outline.md` secara lurus tanpa mengarang konflik baru di luar outline, perbarui `state.md` & `ledger.md`, lalu **WAJIB** lulus **Dua Pilar Uji Kelayakan**:
+   - **Pilar 1: Uji Kelayakan Teknis (Otomatis via Python):**
+     Jalankan `python3 scripts/stress-test.py "story/<Judul>"` (22 pemeriksaan sinkronisasi aset, rentang kata, 0 em dash, 100% teks polos, format judul). Wajib berstatus `[LULUS]` (0 pelanggaran). Gunakan `--fix` untuk sinkronisasi aset turunan.
+   - **Pilar 2: Uji Kelayakan Baca & Finishing Manusiawi (Audit Akal Sehat & Rasa Bahasa):**
+     AI wajib melakukan *finishing polish* mandiri dari kacamata pembaca manusia kritis sebelum menyetorkan bab:
+     1. *Sebab-Akibat Nyata:* Setiap keberadaan dan tindakan tokoh di suatu lokasi pada jam tertentu harus punya alasan konkret dunia nyata (contoh: Saka ada di tangga darurat jam 19.30 karena pompa air kosannya mati sampai jam delapan, bukan nongkrong tanpa alasan).
+     2. *Psikologi Manusiawi:* Emosi dan respons tokoh harus jujur sesuai keadaannya (orang patah hati/syok tidak melempar lelucon slapstick).
+     3. *Anti-Garing & Konteks:* Hapus celetukan yang "terlalu ingin melucu padahal merusak suasana" atau analogi aneh yang tidak nyambung.
+     4. *Kewajaran Tutur Lisan:* Dialog mengalir santai dan luwes seperti orang asli Jakarta berbicara, bukan terjemahan mesin kaku.
+     5. *Irama & Musikalitas Prosa:* Kalimat memiliki ayunan variasi panjang-pendek yang enak didengar, bukan kalimat pendek patah-patah (*staccato*).
 
 ---
 

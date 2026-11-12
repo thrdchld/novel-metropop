@@ -27,6 +27,28 @@ Bab lulus jika **tidak ada nilai di bawah 4** dan **total minimal 34/40**. Jika 
 
 ---
 
+## 1B. Pilar 2: Uji Kelayakan Baca (Finishing Manusiawi & Audit Akal Sehat)
+
+Skrip teknis otomatis (`stress-test.py`) hanya menguji parameter biner (panjang kata, em dash, teks polos, sinkronisasi file). Namun sebuah bab **hanya boleh diserahkan ke pengguna setelah dipoles melalui Uji Kelayakan Baca (Pilar 2)** dengan 5 filter mutlak:
+
+1. **Uji Sebab-Akibat Nyata (*Cause & Effect Plausibility*):**
+   - Mengapa tokoh A berada di lokasi B pada jam C?
+   - Harus ada alasan konkret dunia nyata (contoh: Saka ada di tangga darurat jam 19.30 karena pompa air kosannya mati sampai jam 8 malam, bukan sekadar kebetulan lewat demi plot).
+   - Tindakan tokoh harus masuk akal sebagai manusia biasa, bukan bertingkah aneh hanya agar cerita berjalan.
+2. **Uji Psikologi Manusiawi (*Psychological Truth*):**
+   - Apakah reaksi tokoh jujur sesuai kondisi mentalnya?
+   - Karakter orang syok patah hati minta maaf karena kebiasaan mengalah, bukan melempar lelucon stand-up comedy yang konyol.
+3. **Uji Anti-Garing & Konteks (*The Cringe & Context Filter*):**
+   - Apakah celetukannya pas dengan suasana, atau terkesan "maksa melucu padahal merusak momen"?
+   - Jika ada celetukan aneh, analogi yang tidak nyambung, atau lelucon yang bikin pembaca mengernyitkan dahi, **WAJIB dibuang langsung**.
+4. **Uji Kewajaran Tutur Lisan (*Spoken-Word Reality Test*):**
+   - Jika dialog ini diucapkan oleh aktor/orang asli di Jakarta, apakah terdengar mengalir dan luwes?
+   - Hindari dialog yang dipotong-potong kaku atau terdengar seperti buku pelajaran.
+5. **Uji Irama & Musikalitas Prosa (*Flow & Cadence*):**
+   - Kalimat harus memiliki variasi panjang-pendek yang harmonis di telinga pembaca, bukan kalimat pendek patah-patah (*staccato*) yang monoton.
+
+---
+
 ## 2. Sepuluh Uji Logika Alur Cerita (Standar Anti Plot Hole)
 
 Gunakan 10 uji ini untuk menilai premis, outline, maupun naskah novel yang sedang dievaluasi/direvisi. **Satu uji yang gagal berarti ada plot hole yang wajib diperbaiki:**
