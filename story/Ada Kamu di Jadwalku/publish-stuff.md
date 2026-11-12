@@ -2,11 +2,11 @@
 
 ## Blurb
 
-Di layar ponsel Hana, ada lima belas alarm yang mengatur hidupnya dari jam bangun pagi sampai jadwal menabung tiap bulan. Saking anti dengan hal dadakan dan apa-apa harus tercatat seperti rundown panitia studi tur, mantan tunangannya sendiri sampai menyerah karena merasa mau mampir beli sate saja harus daftar dari kemarin.
+Di ponsel Hana, ada lima belas alarm aktif yang mengatur hidupnya sampai ke menit paling detail. Bagi Hana, hidup tanpa jadwal tertulis adalah bencana, alasan yang sama kenapa mantan tunangannya dulu angkat kaki.
 
-Demi meraih promosi ke cabang baru di Surabaya, Hana tinggal menuntaskan satu tugas terakhir: melatih bocah delapan tahun bernama Nino yang mogok bicara bahasa Inggris sampai berani tampil di panggung enam minggu lagi. Masalahnya, wali murid yang mengantar Nino setiap minggu adalah Bima, paman bungsu si bocah yang berprofesi sebagai fotografer dan videografer lepas, yang di hari pertama saja sudah datang terlambat dengan kemeja kusut, kancing baju keponakan miring sebelah, dan bekal roti gosong.
+Demi mengamankan promosi impiannya, Hana hanya perlu melatih seorang anak delapan tahun yang mogok bicara. Rencananya tampak sempurna, sampai Bima muncul sebagai wali murid. Pria berantakan dengan kemeja kusut dan senyum kelewat santai itu adalah definisi nyata dari kata "spontan".
 
-Hana tadinya yakin pria santai yang hobi memotret diam-diam dan mengajak makan es krim di tengah hujan itu hanyalah bujangan beruntung yang hidupnya tidak pernah punya beban berat. Sampai sebuah pertengkaran sore hari membuka rahasia besar yang selama ini disembunyikan Bima di balik senyum hangatnya, sekaligus membuat seluruh rencana rapi di buku catatan Hana goyah satu per satu.
+Berurusan dengan Bima jelas mengancam seluruh keteraturan hidup Hana. Namun di balik segala kekacauan jadwal itu, mungkinkah pria ini satu-satunya orang yang bisa membuat Hana lupa melihat jam?
 
 ---
 

@@ -15,13 +15,11 @@
 
 ### Sinopsis Utama (Blurb Platform)
 
-Hari itu, niat Ayu cuma satu: mengantar pesanan makanan ke gedung perkantoran Sudirman, lalu lanjut narik ojol keliling Jakarta.
+Niat Ayu siang itu sangat sederhana: mengantar sekotak nasi pesanan ke kawasan perkantoran Sudirman, lalu lanjut narik ojol keliling Jakarta.
 
-Sialnya, nasib malah membawanya terjebak di tengah pesta pernikahan keluarga konglomerat. Dalam kondisi panik, seorang bos muda bernama Rian mendadak menggandeng tangannya dan mengenalkannya ke semua orang sebagai pacar baru.
+Sialnya, nasib malah menyeretnya masuk ke pesta pernikahan mewah di hotel bintang lima. Demi kabur dari jebakan perjodohan keluarga, seorang bos muda necis bernama Rian mendadak menggandeng tangan Ayu dan mengenalkannya sebagai pacar baru.
 
-Demi bayaran yang bisa menyelamatkan keuangan keluarganya, Ayu nekat memperpanjang sandiwara itu. Dia pikir tugasnya bakal gampang: tinggal pasang senyum manis di depan keluarga besar Rian, lalu bawa pulang uangnya.
-
-Kenyataannya? Hidup Ayu justru makin runyam. Masalah berdatangan dari segala penjuru, mulai dari keluarga Rian yang hobi menyelidik, tatapan curiga orang-orang berduit, sampai kehidupan aslinya sebagai driver ojol yang terancam berantakan. Dan yang paling gawat, si bos kaku itu pelan-pelan mulai bikin Ayu lupa kalau semua ini cuma akting belaka.
+Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pikir tugasnya gampang: cukup pasang senyum manis dan berakting dua jam saja. Masalahnya, bagaimana kalau sandiwara ini menolak berakhir, sementara identitas aslinya di balik helm hijau terancam terbongkar kapan saja?
 
 ---
 

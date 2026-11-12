@@ -2,11 +2,11 @@
 
 ## Blurb
 
-Niat Ayu siang itu cuma satu: mengantar pesanan makanan ke lobi gedung perkantoran Sudirman, lalu lanjut narik ojol keliling Jakarta demi membantu dapur kue ibunya.
+Niat Ayu siang itu sangat sederhana: mengantar sekotak nasi pesanan ke kawasan perkantoran Sudirman, lalu lanjut narik ojol keliling Jakarta.
 
-Siapa sangka satu orderan itu malah menyeretnya masuk ke pesta pernikahan mewah dan membuat Rian, seorang bos muda yang sedang terpojok urusan perjodohan, mendadak mengenalkannya sebagai pacar baru di depan seluruh keluarga besar.
+Sialnya, nasib malah menyeretnya masuk ke pesta pernikahan mewah di hotel bintang lima. Demi kabur dari jebakan perjodohan keluarga, seorang bos muda necis bernama Rian mendadak menggandeng tangan Ayu dan mengenalkannya sebagai pacar baru.
 
-Tergiur kesepakatan yang bisa menyelamatkan keluarganya dari lilitan utang, Ayu nekat menerima peran sandiwara itu. Dia pikir tugasnya sederhana: cukup pasang senyum manis di acara keluarga Rian, lalu kembali memakai jaket hijaunya seperti biasa. Sayangnya, menyembunyikan dua kehidupan di balik selembar masker ternyata jauh lebih rumit dari dugaannya, terlebih saat tatapan curiga mulai mengintai dan si bos kaku itu pelan-pelan bikin Ayu lupa mana yang akting dan mana yang sungguhan.
+Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pikir tugasnya gampang: cukup pasang senyum manis dan berakting dua jam saja. Masalahnya, bagaimana kalau sandiwara ini menolak berakhir, sementara identitas aslinya di balik helm hijau terancam terbongkar kapan saja?
 
 ---
 

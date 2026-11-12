@@ -2,11 +2,11 @@
 
 ## Blurb
 
-Kalau kakinya terinjak orang di dalam KRL, Nadia bakal refleks minta maaf duluan. Saking tidak pernah berani bilang "tidak", meja kerjanya selalu jadi tempat limpahan lemburan satu kantor, dan pacarnya sendiri malah memutuskan hubungan karena bosan punya kekasih yang terlalu sabar mirip operator customer service.
+Bagi Nadia, bilang "enggak" rasanya jauh lebih menakutkan daripada gempa bumi. Akibatnya gampang ditebak: meja kerjanya jadi tempat buangan lemburan kantor, dan pacarnya sendiri tega minta putus karena bosan punya pasangan yang kelewat pasrah.
 
-Niat hati cuma ingin menumpahkan kesal sendirian di tangga darurat gedung, omelan rahasia Nadia justru dipergoki penghuni baru kantornya. Sialnya lagi, besok paginya dia malah dipindah duduk satu meja dengan pria itu: Saka, editor pindahan dari Jogja yang terkenal paling blak-blakan, paling anti basa-basi, dan tepat jam lima sore langsung menutup laptop tanpa peduli tatapan siapa pun.
+Sialnya, omelan rahasia Nadia di tangga darurat malah dipergoki Saka, editor baru yang super ketus, anti-basa-basi, dan pantang lembur sedetik pun.
 
-Geregetan melihat rekan semejanya terus-terusan dimanfaatkan orang, Saka menantang Nadia melakukan satu hal yang paling ditakutinya seumur hidup: belajar bilang "enggak". Masalahnya, makin jago Nadia menjaga batas dirinya, makin sulit pula dia menjaga hatinya sendiri dari pria kaku yang diam-diam punya seribu alasan aneh untuk memperhatikannya itu. Apalagi ketika masa lalunya tiba-tiba kembali mengetuk pintu dengan wajah penuh penyesalan.
+Kini, mereka dipaksa duduk semeja. Menghadapi pria paling tega di kantor jelas mimpi buruk bagi Nadia. Tapi bagaimana kalau Saka justru satu-satunya orang yang bisa mengajarinya cara punya harga diri?
 
 ---
 
