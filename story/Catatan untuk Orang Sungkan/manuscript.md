@@ -6,23 +6,23 @@
 
 Suaraku menggema nyaring, memantul di antara dinding semen dingin dan anak tangga besi lantai tiga Gedung Penerbit Aksara Senja. Napasku memburu. Ujung sepatu kerjaku baru saja menendang anak tangga semen di depanku sampai jempol kakiku berdenyut nyeri.
 
-"Siapa yang kayak operator customer service?! Hah?! Kalau gue customer service, akun lo udah gue suspend dari dulu, Dimas!"
+"Siapa yang kayak operator customer service?! Hah?! Kalau gue customer service, telepon lo udah gue matiin dari dulu, Dimas!"
 
 Sepi. Tentu saja tidak ada jawaban. Di lorong tangga darurat yang remang-remang ini, hanya ada aku, tumpukan debu di sudut bordes, dan pintu besi tebal bertuliskan EXIT yang mengunci seluruh kekacauan di dalam kepalaku dari lantai kantor yang mulai lengang.
 
 Pukul tujuh malam lewat sedikit. Seharusnya jam segini aku sudah duduk manis di dalam gerbong KRL menuju kosan di Cikini, atau paling tidak sedang merebus mi instan sambil menonton drama Korea. Tapi di kenyataan hidupku yang menyedihkan, layar monitorku di lantai tiga masih menyala terang, memamerkan tumpukan revisi tata letak sampul novel titipan Mbak Dinda yang belum tersentuh, ditambah selembar draf poster acara bincang buku titipan mantan pacarku yang ditaruh begitu saja di atas mejaku tanpa rasa bersalah.
 
-Diputuskan pacar setelah dua tahun bersama itu rasanya perih. Tapi diputuskan dengan alasan kamu terlalu sopan itu rasanya mirip saldo e-wallet mendadak terpotong langganan otomatis tahunan yang lupa kamu batalkan: menyebalkan, memalukan, dan kamu tidak tahu harus mengajukan komplain ke siapa.
+Diputuskan pacar setelah dua tahun bersama itu rasanya perih. Tapi diputuskan dengan alasan kamu terlalu baik itu rasanya membingungkan setengah mati. Kamu mau marah, tapi tidak tahu harus melampiaskannya ke siapa. Masa kamu mau memaki diri sendiri karena tidak bisa jadi orang jahat?
 
 Jumat malam lalu, di parkiran basement kantor yang basah oleh sisa hujan gerimis, Dimas menatapku dengan wajah serbasalah yang luar biasa menjengkelkan.
 
 "Aku capek, Nad," katanya waktu itu sambil memegang tali helm. "Kamu tuh terlalu baik. Nggak pernah protes, nggak pernah nolak. Semuanya diiyain. Lama-lama rasanya kayak pacaran sama operator customer service, tahu nggak?"
 
-Dan hal paling konyol dari seluruh kejadian itu? Alih-alih melempar helm ke arah kaca mobilnya atau memakinya habis-habisan, mulutku yang terkutuk ini malah menjawab pelan, "Maaf ya, Mas, kalau selama ini pelayanannya kurang memuaskan."
+Dan hal paling menyedihkan dari seluruh kejadian itu? Alih-alih marah atau melempar helm ke arahnya, mulutku yang bodoh ini malah refleks menjawab pelan, "Iya, Mas... maaf ya kalau selama ini aku bikin kamu capek."
 
-Tuhan, kalau waktu bisa diputar balik, aku ingin menenggelamkan kepalaku sendiri ke dalam wastafel toilet kantor.
+Saking terbiasanya mengalah, aku bahkan meminta maaf untuk kesalahan yang tidak pernah kubuat. Dimas cuma menghela napas, menatapku seolah membuktikan ucapannya bahwa aku memang tidak punya taring, lalu menyalakan motornya dan pergi begitu saja.
 
-Mengingat kalimat itu membuat darahku kembali mendidih sampai ke ubun-ubun. Rasa panas yang seharian ini kutahan di balik senyum ramah mendadak meluap keluar tanpa kendali. Aku menarik napas dalam-dalam, menatap tembok kusam di depanku, lalu kembali berteriak sekuat tenaga sambil mengayunkan tinju ke udara kosong.
+Mengingat kejadian itu membuat darahku kembali mendidih sampai ke ubun-ubun. Rasa panas yang seharian ini kutahan di balik senyum ramah mendadak meluap keluar tanpa kendali. Aku menarik napas dalam-dalam, menatap tembok kusam di depanku, lalu kembali berteriak sekuat tenaga sambil mengayunkan tinju ke udara kosong.
 
 "Gue desainer sampul buku, Dimas! Bukan robot penjawab otomatis bank!"
 
@@ -32,7 +32,7 @@ Aku mondar-mandir di bordes tangga yang sempit, menirukan gaya bicara Dimas saat
 
 Gema suaraku memantul liar di dinding semen. Napasku terengah-engah. Keringat dingin mulai merembes di pelipisku.
 
-"Dan buat lo, Mbak Dinda!" teriakku lagi, belum puas menumpahkan racun di kepalaku. "Anak lo itu baru umur dua tahun! Nggak ada anak umur dua tahun yang ambil rapor tengah semester di sekolah! Kalau mau cabut ke mal nggak usah bawa-bawa rapor anak!"
+"Dan buat lo, Mbak Dinda!" teriakku lagi, belum puas menumpahkan racun di kepalaku. "Anak lo itu baru umur dua tahun! Nggak ada anak umur dua tahun yang ambil rapor tengah semester di sekolah! Kalau mau cabut nonton bioskop sama suami nggak usah bawa-bawa rapor anak!"
 
 Hening kembali merayap pelan. Tenggorokanku perih. Lututku lemas.
 
@@ -62,9 +62,9 @@ Wajahnya benar-benar lempeng, seperti patung manekin yang tidak punya beban hidu
 
 "Maaf, Mas!"
 
-Kalimat terkutuk itu meluncur begitu saja dari bibirku sebelum otakku sempat berpikir logis. Aku menundukkan kepala dalam-dalam, menangkupkan kedua tangan di depan dada seperti pegawai restoran yang baru saja menumpahkan sup panas ke celana tamu VIP.
+Kalimat terkutuk itu meluncur begitu saja dari bibirku sebelum otakku sempat berpikir logis. Aku menundukkan kepala dalam-dalam, menangkupkan kedua tangan di depan dada seperti pegawai restoran yang baru saja menumpahkan mangkuk sup panas ke celana tamu VIP.
 
-"Saya benar-benar minta maaf! Sumpah, saya nggak tahu kalau di atas ada orang. Suara saya pasti berisik banget ya, Mas? Maaf banget, jangan diaduin ke manajer gedung ya, Mas?"
+"Saya benar-benar minta maaf! Sumpah, saya nggak tahu kalau di atas ada orang. Suara saya pasti berisik banget ya, Mas? Maaf banget, tolong jangan diadukan ke pengelola gedung ya, Mas?"
 
 Pria berkemeja flanel itu tidak langsung menyahut. Dia hanya menghela napas pendek, lalu perlahan bangkit berdiri. Badannya cukup jangkung. Saat dia melangkah menuruni anak tangga dengan santai, bayangannya yang jatuh ke dinding semen membuat lorong tangga darurat ini terasa makin sempit.
 
@@ -72,7 +72,7 @@ Di tangan kanannya, botol minum hitam legam itu bergoyang pelan. Bagian bawahnya
 
 "Telinga saya nggak rusak," kata pria itu santai saat kakinya berhenti di bordes yang sama denganku. Jarak kami sekarang tidak lebih dari dua meter. "Tapi daripada jempol kaki kamu bengkak gara-gara nendang semen, mending kalimat tadi kamu omongin langsung ke orang yang namanya Dimas sama Dinda."
 
-Aku tersedak ludahku sendiri. Mukaku mendadak panas, pasti sudah semerah kepiting rebus.
+Aku tersedak ludahku sendiri. Pipiku mendadak panas, pasti sudah semerah kepiting rebus.
 
 Dia benar-benar mendengar semuanya. Setiap kata, setiap makian, sampai alasan konyol soal anak dua tahun yang ambil rapor tengah semester.
 
@@ -82,15 +82,17 @@ Pria itu menaikkan sebelah alisnya tipis. "Latihan vokal yang bagus. Nada tinggi
 
 Bibirku terkatup rapat, rasanya ingin ambles menembus lantai semen sampai ke dasar bumi.
 
-"Mas... Mas ini dari divisi mana ya?" tanyaku ragu-ragu, mencoba mengalihkan pembicaraan. Mataku melirik kemeja flanelnya yang rapi tapi santai, jelas bukan seragam staf sekuriti atau teknisi gedung. "Staf magang baru di lantai empat?"
+"Mas... Mas sendiri ngapain duduk di tangga darurat jam segini?" tanyaku memberanikan diri, mencoba mengalihkan pembicaraan dari aibku sendiri. "Masih lembur?"
 
-Pria itu tidak menjawab. Dia hanya melirik jam tangan peraknya sekilas, lalu mengangkat botol minum hitamnya dan menyesap air dari sana.
+"Saya nggak pernah lembur kalau itu yang kamu pikirkan," jawabnya lempeng tanpa ragu. "Saya baru pindah ke Jakarta kemarin lusa. Kosan saya di belakang stasiun Cikini pompanya lagi dibongkar sampai jam delapan malam. Daripada nunggu di kafe berisik atau kena desak-desakan KRL jam pulang kantor, di sini lebih tenang."
 
-"Kalau di depan orangnya mulut kamu cuma bisa mengiyakan semuanya, nggak ada gunanya teriak-teriak ke tembok jam segini," katanya datar, suaranya tenang tanpa nada menghakimi, tapi kata-katanya nancep tepat di ulu hatiku.
+Pria itu melirik anak tangga yang tadi kutendang.
 
-Pria itu menurunkan botol minumnya, lalu menunjuk pintu besi darurat di belakangku dengan dagunya.
+"Tadinya lebih tenang," tambahnya datar. "Sebelum kamu masuk dan mulai teriak-teriak memaki tembok."
 
-"Pulang sana. Tumpukan map di meja kamu nggak bakal beres cuma karena kamu nangis di tangga."
+Aku menelan ludah susah payah. Pria ini bicaranya luar biasa jujur tanpa filter, tapi kalimatnya masuk akal seratus persen sampai aku tidak bisa membantah sepatah kata pun.
+
+"Kalau di depan orangnya mulut kamu cuma bisa mengiyakan semuanya, nggak ada gunanya teriak-teriak ke tembok jam segini," lanjutnya lagi sambil melirik jam tangan peraknya. "Pulang sana. Tumpukan map di meja kamu nggak bakal beres cuma karena kamu nangis di tangga."
 
 Sebelum aku sempat membalas, pria itu sudah melangkah melewatiku. Bahunya yang tegap menyenggol udara di sebelah kiriku, aroma sabun mandi yang segar dan bersih samar-samar tercium di hidungku. Dia mendorong pintu besi bertuliskan EXIT dengan telapak tangannya, melangkah keluar ke lorong kantor, dan membiarkan pintu berdebam menutup rapat di belakangnya.
 
@@ -124,11 +126,15 @@ Belum sempat Tari bertanya lebih lanjut, Mbak Dinda sudah melesat dari lorong re
 
 "Sudah, Mbak. Tadi pagi jam tujuh lewat lima belas sudah saya kirim ke email Mbak Dinda," jawabku sopan, lengkap dengan senyum ramah yang otomatis terpasang di bibirku.
 
-"Aduh, makasih banyak ya, Nad! Lo emang malaikat penyelamat gue!" seru Mbak Dinda riang sebelum kembali melesat ke kubikelnya.
+"Aduh, makasih banyak ya, Nad! Lo emang penyelamat hidup gue!" seru Mbak Dinda riang sebelum kembali melesat ke kubikelnya.
 
-Tari melirikku sambil berdecak pelan. "Malaikat penyelamat tapi sendirinya masuk angin."
+Tari melirik map itu, lalu mendengus pelan. "Mbak Dinda tuh tahu lo nggak bakalan bisa nolak, Nad. Kalau dipuji dikit aja lo langsung rela ngerjain tugas negara, padahal dia mau cabut nonton bioskop sama suaminya. Kemarin gue dengar sendiri di pantry."
 
-Aku cuma bisa tersenyum pasrah. Dari arah pantry, Dimas melangkah santai menuju kubikel pemasaran sambil menenteng tumbler minumnya. Saat berpapasan dengan mejaku, dia mengacungkan jempol ke arahku.
+Aku cuma bisa tersenyum pasrah. "Udah terlanjur gue iyain, Tar..."
+
+"Ya terserah lo deh," balas Tari santai. "Nanti kalau jam sembilan malam lo masih di sini sendirian, jangan curhat ke gue."
+
+Dari arah pantry, Dimas melangkah santai menuju kubikel pemasaran sambil menenteng tumbler minumnya. Saat berpapasan dengan mejaku, dia mengacungkan jempol ke arahku.
 
 "Makasih posternya ya, Nad! Bagus banget, Vanya suka warnanya," katanya santai tanpa dosa.
 
@@ -160,7 +166,7 @@ Rapat selesai lima belas menit kemudian. Begitu semua orang beranjak berdiri, Ri
 
 "Mas Saka, mumpung baru masuk, naskah terjemahan ini tinggal sedikit lagi kok. Boleh tolong bantu sisir bab akhirnya nggak? Kepala saya pusing banget seminggu ini."
 
-Nadia menahan napas. Di kantor ini, tidak ada yang pernah bisa menolak rengekan Riko.
+Aku menahan napas. Di kantor ini, tidak ada yang pernah bisa menolak rengekan Riko.
 
 Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum, tanpa basa-basi, dan tanpa ekspresi bersalah sedikit pun, dia menatap mata Riko lurus-lurus.
 

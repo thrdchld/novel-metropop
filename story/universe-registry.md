@@ -19,7 +19,7 @@
 | ID Proyek | ID Premis | Judul Novel | Status | Jumlah Bab | Total Kata | Latar Utama | Tahun Cerita | Tanggal Selesai |
 |---|---|---|---|---:|---:|---|---|---|
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.447 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
-| `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.694 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
+| `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.816 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 | `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `TAMAT` | 32 | 21.704 | Jakarta Selatan (Kebayoran Baru, Mayestik, Cipete) | 2026 | 2026-11-11 |
 
 ---

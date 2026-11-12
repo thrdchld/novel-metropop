@@ -8,9 +8,9 @@ Wajahnya benar-benar lempeng, seperti patung manekin yang tidak punya beban hidu
 
 "Maaf, Mas!"
 
-Kalimat terkutuk itu meluncur begitu saja dari bibirku sebelum otakku sempat berpikir logis. Aku menundukkan kepala dalam-dalam, menangkupkan kedua tangan di depan dada seperti pegawai restoran yang baru saja menumpahkan sup panas ke celana tamu VIP.
+Kalimat terkutuk itu meluncur begitu saja dari bibirku sebelum otakku sempat berpikir logis. Aku menundukkan kepala dalam-dalam, menangkupkan kedua tangan di depan dada seperti pegawai restoran yang baru saja menumpahkan mangkuk sup panas ke celana tamu VIP.
 
-"Saya benar-benar minta maaf! Sumpah, saya nggak tahu kalau di atas ada orang. Suara saya pasti berisik banget ya, Mas? Maaf banget, jangan diaduin ke manajer gedung ya, Mas?"
+"Saya benar-benar minta maaf! Sumpah, saya nggak tahu kalau di atas ada orang. Suara saya pasti berisik banget ya, Mas? Maaf banget, tolong jangan diadukan ke pengelola gedung ya, Mas?"
 
 Pria berkemeja flanel itu tidak langsung menyahut. Dia hanya menghela napas pendek, lalu perlahan bangkit berdiri. Badannya cukup jangkung. Saat dia melangkah menuruni anak tangga dengan santai, bayangannya yang jatuh ke dinding semen membuat lorong tangga darurat ini terasa makin sempit.
 
@@ -18,7 +18,7 @@ Di tangan kanannya, botol minum hitam legam itu bergoyang pelan. Bagian bawahnya
 
 "Telinga saya nggak rusak," kata pria itu santai saat kakinya berhenti di bordes yang sama denganku. Jarak kami sekarang tidak lebih dari dua meter. "Tapi daripada jempol kaki kamu bengkak gara-gara nendang semen, mending kalimat tadi kamu omongin langsung ke orang yang namanya Dimas sama Dinda."
 
-Aku tersedak ludahku sendiri. Mukaku mendadak panas, pasti sudah semerah kepiting rebus.
+Aku tersedak ludahku sendiri. Pipiku mendadak panas, pasti sudah semerah kepiting rebus.
 
 Dia benar-benar mendengar semuanya. Setiap kata, setiap makian, sampai alasan konyol soal anak dua tahun yang ambil rapor tengah semester.
 
@@ -28,15 +28,17 @@ Pria itu menaikkan sebelah alisnya tipis. "Latihan vokal yang bagus. Nada tinggi
 
 Bibirku terkatup rapat, rasanya ingin ambles menembus lantai semen sampai ke dasar bumi.
 
-"Mas... Mas ini dari divisi mana ya?" tanyaku ragu-ragu, mencoba mengalihkan pembicaraan. Mataku melirik kemeja flanelnya yang rapi tapi santai, jelas bukan seragam staf sekuriti atau teknisi gedung. "Staf magang baru di lantai empat?"
+"Mas... Mas sendiri ngapain duduk di tangga darurat jam segini?" tanyaku memberanikan diri, mencoba mengalihkan pembicaraan dari aibku sendiri. "Masih lembur?"
 
-Pria itu tidak menjawab. Dia hanya melirik jam tangan peraknya sekilas, lalu mengangkat botol minum hitamnya dan menyesap air dari sana.
+"Saya nggak pernah lembur kalau itu yang kamu pikirkan," jawabnya lempeng tanpa ragu. "Saya baru pindah ke Jakarta kemarin lusa. Kosan saya di belakang stasiun Cikini pompanya lagi dibongkar sampai jam delapan malam. Daripada nunggu di kafe berisik atau kena desak-desakan KRL jam pulang kantor, di sini lebih tenang."
 
-"Kalau di depan orangnya mulut kamu cuma bisa mengiyakan semuanya, nggak ada gunanya teriak-teriak ke tembok jam segini," katanya datar, suaranya tenang tanpa nada menghakimi, tapi kata-katanya nancep tepat di ulu hatiku.
+Pria itu melirik anak tangga yang tadi kutendang.
 
-Pria itu menurunkan botol minumnya, lalu menunjuk pintu besi darurat di belakangku dengan dagunya.
+"Tadinya lebih tenang," tambahnya datar. "Sebelum kamu masuk dan mulai teriak-teriak memaki tembok."
 
-"Pulang sana. Tumpukan map di meja kamu nggak bakal beres cuma karena kamu nangis di tangga."
+Aku menelan ludah susah payah. Pria ini bicaranya luar biasa jujur tanpa filter, tapi kalimatnya masuk akal seratus persen sampai aku tidak bisa membantah sepatah kata pun.
+
+"Kalau di depan orangnya mulut kamu cuma bisa mengiyakan semuanya, nggak ada gunanya teriak-teriak ke tembok jam segini," lanjutnya lagi sambil melirik jam tangan peraknya. "Pulang sana. Tumpukan map di meja kamu nggak bakal beres cuma karena kamu nangis di tangga."
 
 Sebelum aku sempat membalas, pria itu sudah melangkah melewatiku. Bahunya yang tegap menyenggol udara di sebelah kiriku, aroma sabun mandi yang segar dan bersih samar-samar tercium di hidungku. Dia mendorong pintu besi bertuliskan EXIT dengan telapak tangannya, melangkah keluar ke lorong kantor, dan membiarkan pintu berdebam menutup rapat di belakangnya.
 

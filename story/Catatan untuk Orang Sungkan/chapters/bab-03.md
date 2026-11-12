@@ -16,11 +16,15 @@ Belum sempat Tari bertanya lebih lanjut, Mbak Dinda sudah melesat dari lorong re
 
 "Sudah, Mbak. Tadi pagi jam tujuh lewat lima belas sudah saya kirim ke email Mbak Dinda," jawabku sopan, lengkap dengan senyum ramah yang otomatis terpasang di bibirku.
 
-"Aduh, makasih banyak ya, Nad! Lo emang malaikat penyelamat gue!" seru Mbak Dinda riang sebelum kembali melesat ke kubikelnya.
+"Aduh, makasih banyak ya, Nad! Lo emang penyelamat hidup gue!" seru Mbak Dinda riang sebelum kembali melesat ke kubikelnya.
 
-Tari melirikku sambil berdecak pelan. "Malaikat penyelamat tapi sendirinya masuk angin."
+Tari melirik map itu, lalu mendengus pelan. "Mbak Dinda tuh tahu lo nggak bakalan bisa nolak, Nad. Kalau dipuji dikit aja lo langsung rela ngerjain tugas negara, padahal dia mau cabut nonton bioskop sama suaminya. Kemarin gue dengar sendiri di pantry."
 
-Aku cuma bisa tersenyum pasrah. Dari arah pantry, Dimas melangkah santai menuju kubikel pemasaran sambil menenteng tumbler minumnya. Saat berpapasan dengan mejaku, dia mengacungkan jempol ke arahku.
+Aku cuma bisa tersenyum pasrah. "Udah terlanjur gue iyain, Tar..."
+
+"Ya terserah lo deh," balas Tari santai. "Nanti kalau jam sembilan malam lo masih di sini sendirian, jangan curhat ke gue."
+
+Dari arah pantry, Dimas melangkah santai menuju kubikel pemasaran sambil menenteng tumbler minumnya. Saat berpapasan dengan mejaku, dia mengacungkan jempol ke arahku.
 
 "Makasih posternya ya, Nad! Bagus banget, Vanya suka warnanya," katanya santai tanpa dosa.
 
@@ -52,7 +56,7 @@ Rapat selesai lima belas menit kemudian. Begitu semua orang beranjak berdiri, Ri
 
 "Mas Saka, mumpung baru masuk, naskah terjemahan ini tinggal sedikit lagi kok. Boleh tolong bantu sisir bab akhirnya nggak? Kepala saya pusing banget seminggu ini."
 
-Nadia menahan napas. Di kantor ini, tidak ada yang pernah bisa menolak rengekan Riko.
+Aku menahan napas. Di kantor ini, tidak ada yang pernah bisa menolak rengekan Riko.
 
 Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum, tanpa basa-basi, dan tanpa ekspresi bersalah sedikit pun, dia menatap mata Riko lurus-lurus.
 
