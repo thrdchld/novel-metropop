@@ -1,75 +1,61 @@
-## **Bab 3: Meja Sebelah yang Tanpa Basa-Basi**
+## **Bab 3: Meja Sebelah Si Raja Tega**
 
-Doaku semalam ternyata langsung ditolak mentah-mentah oleh semesta.
+Semalaman suntuk, aku hampir tidak bisa memejamkan mata.
 
-Selasa pagi pukul sembilan lewat sepuluh menit, laki-laki berkemeja flanel dari tangga darurat semalam sudah berdiri tegak di depan papan tulis ruang rapat redaksi. Dia masih memegang botol minum hitam legam yang bagian bawahnya penyok sedikit itu, sementara Pak Ramdan, kepala redaksi kami yang kumisnya selalu rapi seperti habis diukur penggaris, menepuk bahunya dengan bangga.
+Setiap kali kelopak mataku tertutup, wajah lempeng pria di tangga darurat itu mendadak muncul di kegelapan, lengkap dengan kalimatnya yang menohok telak: Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf.
 
-"Jadi mulai minggu ini, Saka Wijaya resmi bergabung dengan tim redaksi Jakarta," kata Pak Ramdan kepada kami semua yang duduk mengelilingi meja lonjong. "Saka ini editor senior kita dari cabang Yogyakarta. Dia yang memegang proyek buku unggulan Sela Waktu."
+Alhasil, Selasa pagi ini aku tiba di lantai tiga Kantor Penerbit Aksara Senja dengan kantung mata tebal dan langkah gontai. Di kepalaku, aku hanya punya satu doa sederhana: semoga pria berbotol penyok itu cuma tamu nyasar atau staf vendor yang tidak akan pernah kutemui lagi seumur hidupku.
 
-Aku yang duduk di pojok meja langsung merosot dua sentimeter di kursiku. Buku sketsa kugunakan untuk menutupi separuh wajahku, berharap kacamata atau poni rambutku tiba-tiba punya kekuatan menghilang.
+"Muka lo kusut banget, Nad," tegur Tari begitu aku mendaratkan bokong di kursi kubikelku. Sahabatku itu sedang sibuk mengecek palet warna di komputernya. "Gara-gara lembur ngerjain poster mantan ya?"
 
-Di sebelahku, Tari menyenggol lenganku sambil menyelundupkan sebutir makaroni pedas ke mulutnya di bawah meja. "Eh, Nad, itu Mas Saka yang dari Jogja," bisik Tari pelan. "Julukannya Mesin Pemotong Basa-Basi."
+Aku meringis pelan, menyalakan monitor sambil pura-pura sibuk merapikan kotak pensil. "Bukan... semalam cuma susah tidur aja."
 
-Tari merapatkan tubuhnya ke arah mejaku. "Katanya mulutnya nggak ada saringan tahu, langsung ampas semua."
+Belum sempat Tari bertanya lebih lanjut, Mbak Dinda sudah melesat dari lorong redaksi dan mendarat di samping mejaku.
 
-"Masa sih?" bisikku balik, makin ciut.
+"Nad! Revisi warna font Mas Budi udah beres, kan?" tanyanya dengan senyum manis andalannya. "Percetakan udah nanyain dari jam delapan nih."
 
-"Mas Bagas masuk rumah sakit kena demam berdarah semalam," lanjut Pak Ramdan sambil melirik catatannya. "Nadia yang ambil alih ilustrasi Sela Waktu."
+"Sudah, Mbak. Tadi pagi jam tujuh lewat lima belas sudah saya kirim ke email Mbak Dinda," jawabku sopan, lengkap dengan senyum ramah yang otomatis terpasang di bibirku.
 
-Pak Ramdan menatap kami berdua. "Buku ini punya empat puluh ilustrasi penuh."
+"Aduh, makasih banyak ya, Nad! Lo emang malaikat penyelamat gue!" seru Mbak Dinda riang sebelum kembali melesat ke kubikelnya.
 
-Beliau menunjuk meja besar di dekat jendela. "Nadia pindah duduk semeja dengan Saka di meja empat biar koordinasinya cepat."
+Tari melirikku sambil berdecak pelan. "Malaikat penyelamat tapi sendirinya masuk angin."
 
-Aku hampir tersedak ludah sendiri.
+Aku cuma bisa tersenyum pasrah. Dari arah pantry, Dimas melangkah santai menuju kubikel pemasaran sambil menenteng tumbler minumnya. Saat berpapasan dengan mejaku, dia mengacungkan jempol ke arahku.
 
-Spontan aku mendongak. Di depan papan tulis, pandangan Saka langsung bertemu dengan mataku. Wajahnya tetap tenang tanpa riak, sama sekali tidak menunjukkan ekspresi kaget, senang, atau keberatan. Dia cuma mengangguk sekali ke arah Pak Ramdan.
+"Makasih posternya ya, Nad! Bagus banget, Vanya suka warnanya," katanya santai tanpa dosa.
 
-"Baik, Pak. Siang ini saya langsung cek draf sketsa awalnya," kata Saka singkat.
+Tenggorokanku tercekat. Ingin rasanya aku berteriak seperti semalam di tangga darurat, tapi lidahku yang kelu ini malah refleks membalas, "Iya, Mas, sama-sama."
 
-Rapat pagi itu bubar lima belas menit kemudian. Aku masih sibuk membereskan perlengkapan gambarku. Gerakanku sengaja kuperlambat agar tidak perlu keluar berbarengan.
+Tepat pukul sembilan pagi, lonceng pemanggil rapat redaksi berbunyi dari ruang tengah. Seluruh staf lantai tiga berbondong-bondong melangkah menuju Ruang Rapat Kartini yang berdinding kaca. Pak Ramdan, kepala redaksi kami yang berkacamata tebal, sudah berdiri di depan proyektor dengan map putih di tangannya.
 
-Namun belum sempat Saka melangkah keluar pintu, Riko dari divisi redaksi umum sudah menghadang langkahnya. Riko ini terkenal paling jago melempar kerjaan ke orang baru dengan jurus senyum ramah dan tepuk bahu akrab.
+"Selamat pagi semuanya," buka Pak Ramdan saat kami semua sudah duduk melingkari meja rapat panjang. "Sebelum kita membahas progres naskah akhir tahun, kita kedatangan rekan senior baru dari cabang Yogyakarta. Mulai hari ini, Saka Wijaya resmi bergabung dengan tim redaksi kita di Jakarta."
 
-"Wah, selamat datang di Jakarta, Mas Saka!" sapa Riko riang.
+Pintu ruang rapat berderit pelan.
 
-Riko merangkul bahu Saka akrab. "Gue lagi pegang naskah terjemahan, tapi sore ini harus pergi. Boleh minta tolong bantu cek dua bab terakhir nggak, Mas?"
+Seorang pria bertubuh jangkung melangkah masuk. Dia mengenakan kemeja katun abu-abu rapi dan ransel hitam di pundak kirinya. Langkah kakinya tenang, tanpa senyum, dan matanya menyapu seisi ruangan dengan sorot lurus.
 
-Riko menyengir lebar. "Sekalian Mas Saka pemanasan adaptasi gaya sini, hehe."
+Begitu dia menarik kursi di sisi kanan meja dan meletakkan sebuah botol minum hitam legam yang bagian bawahnya penyok ke atas meja rapat, nafasku tersendat seketika.
 
-Aku dan Tari otomatis menahan napas. Kalau aku yang ditembak kalimat begitu, detik itu juga aku pasti langsung mengangguk pasrah.
+Tuhan... itu dia!
 
-Saka menatap tangan Riko yang menempel di bahunya, lalu menatap wajah Riko datar. Tidak ada senyum sungkan di bibirnya.
+Jantungku berdegup kencang seperti baru saja kepergok mencontek saat ujian nasional. Aku buru-buru menundukkan kepala sedalam-dalamnya, pura-pura mencatat sesuatu yang sangat penting di atas kertas buku sketsaku.
 
-"Enggak bisa," jawab Saka.
+"Untuk proyek buku esai dan ilustrasi kota Sela Waktu lima minggu ke depan," lanjut suara Pak Ramdan, memecah kepanikanku, "Saka akan bertanggung jawab penuh sebagai editor kepala. Dan untuk visualnya, Saka akan dipasangkan langsung dengan Nadia dari tim desain."
 
-Senyum lebar di wajah Riko langsung membeku. "Eh, gimana, Mas? Cuma dua bab pendek kok, paling sejam kelar."
+Pena di tanganku mendadak terlepas dari jemari.
 
-"Jadwal kerja saya di sini buat ngedit Sela Waktu, bukan buat ngurus urusan kamu," kata Saka tenang. Suaranya datar seperti pengumuman stasiun kereta. "Kalau kamu nggak sempat ngerjain tugasmu sendiri, lapor ke Pak Ramdan biar dialihkan resmi, jangan dititip di pintu."
+"Supaya koordinasinya cepat dan efektif," tambah Pak Ramdan tanpa rasa bersalah, "kalian berdua akan duduk semeja di Meja Proyek Nomor Empat."
 
-Saka menggeser bahunya sedikit sampai tangan Riko terlepas, lalu berjalan keluar ruang rapat menuju area meja kerja tanpa menoleh lagi.
+Duniaku mendadak gelap gulita. Duduk semeja dengan pria yang tadi malam mendengarkan seluruh aib makianku di tangga darurat?!
 
-Ruang rapat langsung hening. Riko berdiri mematung dengan mulut sedikit terbuka, wajahnya merah padam menahan malu.
+Rapat selesai lima belas menit kemudian. Begitu semua orang beranjak berdiri, Riko, editor fiksi yang terkenal hobi melimpahkan kerjaan, langsung mencegat Saka di dekat pintu sambil menyodorkan bundel naskah tebal.
 
-Aku melongo menatap punggung kemeja flanel Saka yang menjauh. Tiga detik. Dia baru saja menolak permintaan senior satu divisi cuma dalam tiga detik, tanpa minta maaf, tanpa mengarang alasan kucing tetangga melahirkan, dan tanpa kelihatan merasa berdosa sedikit pun.
+"Mas Saka, mumpung baru masuk, naskah terjemahan ini tinggal sedikit lagi kok. Boleh tolong bantu sisir bab akhirnya nggak? Kepala saya pusing banget seminggu ini."
 
-"Gila," bisik Tari sambil menatapku dengan mata berbinar. "Nad, lo harus berguru sama dia. Itu manusia kayaknya waktu lahir nggak dikasih kelenjar rasa sungkan."
+Nadia menahan napas. Di kantor ini, tidak ada yang pernah bisa menolak rengekan Riko.
 
-Lima menit kemudian, dengan langkah seberat menyeret karung beras, aku membawa papan gambar digital dan tempat pensilku pindah ke meja proyek nomor empat di dekat jendela besar.
+Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum, tanpa basa-basi, dan tanpa ekspresi bersalah sedikit pun, dia menatap mata Riko lurus-lurus.
 
-Saka sudah duduk di kursi sebelah, membuka laptop perak miliknya dan meletakkan botol minum hitam penyoknya di sudut meja. Begitu aku meletakkan barang-barangku, matanya melirik tumpukan tiga map plastik berbeda warna yang ikut kubawa di pelukanku.
+"Nggak bisa. Jadwal proyek saya sudah penuh."
 
-"Itu semua draf Sela Waktu?" tanya Saka.
-
-"Bukan, Mas," jawabku pelan sambil menata tempat pensil. "Yang Sela Waktu baru satu map kuning ini."
-
-Aku menunjuk map sisanya dengan canggung. "Yang biru punya Mbak Dinda, yang merah titipan Bang Riko, terus kertas coretan ini poster Mas Dimas."
-
-Saka berhenti mengetik. Dia menoleh penuh ke arahku, menatap tumpukan map itu, lalu menatap wajahku.
-
-"Gaji kamu di kantor ini dibayar empat kali lipat?" tanyanya lugas.
-
-"Enggak lah, Mas. Gaji standar," jawabku bingung.
-
-"Terus kenapa meja kamu kayak loket penampungan barang hilang?" Saka menunjuk map kuning di paling bawah tumpukan. "Singkirkan yang tiga itu dari meja ini. Di meja nomor empat cuma boleh ada kerjaan kita."
-
-Aku menelan ludah, menatap pria Jogja di sebelahku ini dengan rasa ngeri bercampur takjub. Baru hari pertama duduk sebelahan, hidupku yang penuh basa-basi selama dua tahun di kantor ini bakal segera jungkir balik.
+Riko tertegun kaku dengan mulut setengah terbuka. Dan tanpa menunggu balasan apa pun, Saka melangkah santai melewatinya menuju meja proyek nomor empat, tepat di seberang tempat dudukku.

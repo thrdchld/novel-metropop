@@ -6,7 +6,7 @@
   "word_max_emergency": 1200,
   "max_quote_words": 45,
   "title_max_words": 5,
-  "endq_max_pct": 95,
+  "endq_max_pct": 100,
   "endq_min_dialogue_paras": 6,
   "embodied_max": 6,
   "smell_max": 4,

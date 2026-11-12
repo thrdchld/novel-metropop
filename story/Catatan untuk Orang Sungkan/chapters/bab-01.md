@@ -1,67 +1,49 @@
-## **Bab 1: Operator Layanan Patah Hati**
+## **Bab 1: Jeritan di Tangga Darurat**
 
-Diputuskan pacar setelah dua tahun bersama itu rasanya pahit. Tapi diputuskan dengan alasan kamu terlalu sopan itu rasanya seperti ditampar pakai buku telepon tebal: membingungkan, memalukan, dan kamu tidak tahu harus marah kepada siapa.
+"Brengsek lo, Dimas!"
 
-Jumat malam lalu, di samping motor matikku di parkiran basement kantor, Dimas menatapku dengan wajah serbasalah yang luar biasa menyebalkan.
+Suaraku menggema nyaring, memantul di antara dinding semen dingin dan anak tangga besi lantai tiga Gedung Penerbit Aksara Senja. Napasku memburu. Ujung sepatu kerjaku baru saja menendang anak tangga semen di depanku sampai jempol kakiku berdenyut nyeri.
 
-"Aku capek, Nad," katanya pelan, tangannya masih memegang helm. "Kamu tuh terlalu baik. Nggak pernah protes, nggak pernah nolak. Semuanya diiyain. Lama-lama rasanya kayak pacaran sama operator customer service, tahu nggak?"
+"Siapa yang kayak operator customer service?! Hah?! Kalau gue customer service, akun lo udah gue suspend dari dulu, Dimas!"
 
-Waktu itu aku cuma bisa mematung. Dan hal paling konyol dari semuanya? Alih-alih melempar helm ke arahnya atau menyuruhnya jalan kaki ke kosannya, mulutku yang terkutuk ini malah menjawab, "Maaf ya, Mas, kalau selama ini pelayanannya kurang memuaskan."
+Sepi. Tentu saja tidak ada jawaban. Di lorong tangga darurat yang remang-remang ini, hanya ada aku, tumpukan debu di sudut bordes, dan pintu besi tebal bertuliskan EXIT yang mengunci seluruh kekacauan di dalam kepalaku dari lantai kantor yang mulai lengang.
 
-Dimas menghela napas, lalu pergi begitu saja. Dan resmi sudah, aku kembali menyandang status lajang di usia dua puluh enam tahun.
+Pukul tujuh malam lewat sedikit. Seharusnya jam segini aku sudah duduk manis di dalam gerbong KRL menuju kosan di Cikini, atau paling tidak sedang merebus mi instan sambil menonton drama Korea. Tapi di kenyataan hidupku yang menyedihkan, layar monitorku di lantai tiga masih menyala terang, memamerkan tumpukan revisi tata letak sampul novel titipan Mbak Dinda yang belum tersentuh, ditambah selembar draf poster acara bincang buku titipan mantan pacarku yang ditaruh begitu saja di atas mejaku tanpa rasa bersalah.
 
-Masalahnya, putus cinta versi orang kantoran tidak pernah sesederhana menghapus foto di feed Instagram. Di dunia nyata, Dimas masih bekerja di divisi pemasaran Penerbit Aksara Senja. Dan meja kerjaku di tim desain sampul hanya berjarak lima belas langkah dari jalurnya menuju dispenser air minum.
+Diputuskan pacar setelah dua tahun bersama itu rasanya perih. Tapi diputuskan dengan alasan kamu terlalu sopan itu rasanya mirip saldo e-wallet mendadak terpotong langganan otomatis tahunan yang lupa kamu batalkan: menyebalkan, memalukan, dan kamu tidak tahu harus mengajukan komplain ke siapa.
 
-"Lo dari jam delapan pagi ngeliatin dispenser kayak orang mau nyantet galon, Nad," suara Tari menyentak lamunanku.
+Jumat malam lalu, di parkiran basement kantor yang basah oleh sisa hujan gerimis, Dimas menatapku dengan wajah serbasalah yang luar biasa menjengkelkan.
 
-Aku menoleh cepat. Sahabatku yang duduk di seberang kubikel itu sedang sibuk mencocokkan bagan warna di layar komputernya. Ujung karet penghapus di pensil kayuku memang sudah gompal separuh gara-gara kugigiti sejak pagi.
+"Aku capek, Nad," katanya waktu itu sambil memegang tali helm. "Kamu tuh terlalu baik. Nggak pernah protes, nggak pernah nolak. Semuanya diiyain. Lama-lama rasanya kayak pacaran sama operator customer service, tahu nggak?"
 
-"Gue nggak ngeliatin dispenser," elakku sambil buru-buru menarik pensil dari mulut.
+Dan hal paling konyol dari seluruh kejadian itu? Alih-alih melempar helm ke arah kaca mobilnya atau memakinya habis-habisan, mulutku yang terkutuk ini malah menjawab pelan, "Maaf ya, Mas, kalau selama ini pelayanannya kurang memuaskan."
 
-"Iya, tapi lo ngeliatin Dimas yang bolak-balik ngisi tumbler tiap sepuluh menit," sahut Tari santai tanpa mengalihkan pandangan dari monitor. "Tadi dia lewat bawa kopi susu. Di cup-nya ada stiker nama Vanya, anak magang baru itu. Udah, gausah dipikirin. Cowok kayak gitu emang dasarnya pengin dicariin perkara melulu biar ngerasa hidupnya ada tantangan."
+Tuhan, kalau waktu bisa diputar balik, aku ingin menenggelamkan kepalaku sendiri ke dalam wastafel toilet kantor.
 
-Aku menunduk menatap papan gambar digitalku. Dadaku berdenyut nyeri, tapi aku menolak mengakuinya. Penyakit nggak enakanku ini memang sudah di tahap akut. Sejak kecil, sebagai anak tengah di keluarga yang serbaribut, aku terbiasa jadi peredam. Kalau ada sisa makanan di meja, aku yang mengalah. Kalau ada piring pecah, aku yang buru-buru menyapu sebelum Ibu mulai mengomel. Lama-lama, mengalah berubah jadi refleks bawah sadar. Kalau kakiku diinjak orang asing di KRL yang sesak, kepalaku otomatis menunduk dan bibirku minta maaf duluan.
+Mengingat kalimat itu membuat darahku kembali mendidih sampai ke ubun-ubun. Rasa panas yang seharian ini kutahan di balik senyum ramah mendadak meluap keluar tanpa kendali. Aku menarik napas dalam-dalam, menatap tembok kusam di depanku, lalu kembali berteriak sekuat tenaga sambil mengayunkan tinju ke udara kosong.
 
-"Nadia! Ya ampun, untung lo belum ke kantin!"
+"Gue desainer sampul buku, Dimas! Bukan robot penjawab otomatis bank!"
 
-Langkah tergesa Mbak Dinda dari tim redaksi fiksi memecah lamunanku. Belum sempat aku membalas sapaannya, sebuah map tebal sudah mendarat di atas mejaku.
+Aku mondar-mandir di bordes tangga yang sempit, menirukan gaya bicara Dimas saat tadi sore mampir ke mejaku sambil menenteng es kopi susu berpita merah muda.
 
-"Nad, tolong banget ya," kata Mbak Dinda dengan senyum manis yang aromanya selalu berarti bencana lembur. "Tata letak sampul novelnya Mas Budi ini font-nya masih kurang sreg sama penulisnya. Minta tolong diganti tiga opsi warna lagi ya? Jam empat sore ini harus masuk percetakan."
+"Tolong bikinin poster ya, Nad, soalnya Vanya belum ngerti ukuran," cibirku dengan suara sengau yang kubuat-buat sejelek mungkin. "Enak banget hidup lo! Habis mutusin anak orang di parkiran, sekarang nyuruh mantan ngerjain tugas gebetan baru! Otak lo ditaruh di mana, Mas Dimas?!"
 
-"Tapi Mbak, antrean naskah anak-anak desain hari ini..."
+Gema suaraku memantul liar di dinding semen. Napasku terengah-engah. Keringat dingin mulai merembes di pelipisku.
 
-"Gue tahu lo paling cepat dan paling rapi kalau ngerjain beginian," potong Mbak Dinda sigap, menepuk bahuku dua kali. "Nanti sore gue bawain siomay depan kwitang deh. Makasih ya, Nad, lo emang penyelamat!"
+"Dan buat lo, Mbak Dinda!" teriakku lagi, belum puas menumpahkan racun di kepalaku. "Anak lo itu baru umur dua tahun! Nggak ada anak umur dua tahun yang ambil rapor tengah semester di sekolah! Kalau mau cabut ke mal nggak usah bawa-bawa rapor anak!"
 
-Mbak Dinda langsung melesat pergi sebelum aku sempat menyelesaikan kalimat penolakanku.
+Hening kembali merayap pelan. Tenggorokanku perih. Lututku lemas.
 
-Tari melirik map itu, lalu melirikku dengan tatapan prihatin. "Kan. Mulai lagi jadi keset selamat datang."
+Rasanya campur aduk antara lega yang luar biasa dan rasa malu yang menusuk dada. Beginilah nasib seorang anak tengah yang mengidap penyakit nggak enakan kronis. Di depan rekan sekantor, aku cuma bisa tersenyum manis dan bilang iya untuk semua hal yang merugikan diriku sendiri. Tapi begitu ingin meluapkan amarah, aku harus menyelinap ke tangga darurat berdebu seperti buronan kelas teri yang takut ketahuan satpam.
 
-"Cuma ganti warna font kok," gumamku pasrah.
+Aku menghela napas panjang, bersandar lemas pada pegangan tangga besi yang dingin, lalu bersiap menenggelamkan wajah di kedua lututku untuk menangis sepuasnya.
 
-"Bulan lalu lo bilang cuma ganti warna font, ujung-ujungnya lo ngedesain ulang dari nol sampai jam sembilan malam sendirian di kantor ini," balas Tari datar.
+"Kalau marahnya sama tembok tangga darurat, sampai tahun depan juga temboknya nggak bakal minta maaf."
 
-Aku belum sempat membela diri saat aroma parfum maskulin yang sangat kuhafal mendadak mendekat. Langkah kaki seseorang berhenti tepat di depan kubikelku.
+Sebuah suara pria yang tenang, berat, dan datar mendadak membelah keheningan dari arah bordes tangga tepat di atas kepalaku.
 
-Dimas berdiri di sana. Dia memakai kemeja biru muda yang dulu kupilihkan waktu ulang tahunnya. Di tangan kirinya, ada segelas es kopi susu dengan stiker nama yang persis dibilang Tari tadi.
+Detik itu juga, seluruh darah di tubuhku rasanya berhenti mengalir.
 
-"Pagi, Nad," sapanya santai. Santai sekali, seolah Jumat malam lalu kami cuma membicarakan ramalan cuaca.
+Aku mematung. Kepalaku perlahan terangkat ke atas dengan gerakan kaku seperti engsel pintu karatan. Di anak tangga lantai tiga menuju lantai empat yang remang-remang, seorang pria berkemeja flanel gelap sedang duduk bersila santai sambil menatapku lurus.
 
-Aku menegakkan punggung seketika. "Pagi, Mas Dimas. Ada keperluan apa ya?"
-
-Setiap kali aku gugup atau menahan marah, kalimat yang keluar dari mulutku selalu berubah jadi sangat baku seperti mesin penjawab otomatis bank.
-
-"Nad, tolong bikinin desain poster buat acara bincang buku divisi pemasaran hari Sabtu nanti dong," pinta Dimas tanpa beban. Dia meletakkan selembar kertas coretan ke atas map biru titipan Mbak Dinda. "Pakai template lama kamu aja. Soalnya Vanya baru pegang akun promosi, dia belum paham ukuran poster."
-
-Tanganku di bawah meja langsung mencengkeram rok kerja erat-erat. Enak saja. Sudah memutuskan aku Jumat malam lalu, pagi-pagi membelikan kopi buat gebetan barunya, dan sekarang dengan wajah tanpa dosa menyuruhku mengerjakan tugas gebetannya itu?
-
-Di dalam kepalaku, aku ingin meremas kertas coretan itu dan melemparnya tepat ke kemeja birunya.
-
-"Gimana, Nad? Bisa kan dikirim ke email aku sebelum jam pulang?" tanyanya sambil menyeruput kopi, menatapku penuh keyakinan bahwa aku tidak akan pernah punya keberanian untuk menolak.
-
-Aku menatap wajah mantanku itu. Aku melirik Tari yang memberi kode gelengan kepala tegas dari seberang meja, lalu menatap tumpukan berkas yang menindih mejaku. Aku menarik napas panjang untuk mengatakan kata tidak.
-
-"Baik, Mas Dimas," kata bibirku dengan nada paling santun yang bisa kurangkai. "Akan segera saya proses setelah antrean desain sebelumnya selesai. Terima kasih."
-
-Dimas tersenyum puas, menepuk meja dua kali, lalu berbalik pergi sambil bersiul pelan.
-
-Begitu langkah kakinya menghilang di balik pintu kaca, aku langsung menelungkupkan wajah ke atas papan gambar digitalku. Aku benar-benar tidak tertolong lagi.
+Di tangan kanannya, ada sebuah botol minum hitam legam yang bagian bawahnya penyok sedikit.

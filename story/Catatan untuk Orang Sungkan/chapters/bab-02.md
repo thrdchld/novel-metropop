@@ -1,73 +1,51 @@
-## **Bab 2: Tangga Darurat Jam Tujuh Malam**
+## **Bab 2: Pria Berbotol Minum Penyok**
 
-Jam tujuh malam di lantai tiga gedung Penerbit Aksara Senja itu suasananya mirip ruang tunggu dokter gigi pas hari libur. Sepi, dingin, dan bikin merinding tanpa alasan.
+Telingaku berdenging. Seluruh bulu kuduk di tengkukku meremang seketika.
 
-Lampu di deretan kubikel pemasaran sudah dimatikan sejak pukul setengah enam sore tadi. Hanya lampu neon di atas mejaku yang masih menyala terang, menyorot dua cangkir bekas kopi dan bungkus roti cokelat minimarket yang isinya sudah tandas sejak jam lima.
+Selama dua puluh enam tahun bernapas di muka bumi, aku belum pernah merasakan level panik yang sanggup membuat lututku bergetar sehebat ini. Pria itu masih duduk di sana, di anak tangga semen yang remang-remang, menatapku dengan sorot mata lurus tanpa kedipan sedikit pun.
 
-Aku mengklik tombol kirim di layar laptopku, lalu menyandarkan punggung ke kursi kerja sampai rodanya berdecit pelan.
+Wajahnya benar-benar lempeng, seperti patung manekin yang tidak punya beban hidup. Dan yang paling mengerikan, aku tidak tahu sudah berapa lama dia duduk di sana mendengarkan seluruh amukanku.
 
-Selesai juga. Revisi warna sampul novel titipan Mbak Dinda sudah masuk ke folder redaksi, dan desain poster acara bincang buku pesanan Dimas baru saja mendarat di kotak masuk email mantanku itu. Bahkan di kalimat pengantar emailnya, aku masih sempat-sempatnya menulis: Berikut terlampir draf poster acara hari Sabtu, mohon koreksinya apabila ada bagian yang kurang berkenan.
+"Maaf, Mas!"
 
-Aku menatap kalimat itu di layar monitor, lalu menjambak rambutku sendiri pelan-pelan.
+Kalimat terkutuk itu meluncur begitu saja dari bibirku sebelum otakku sempat berpikir logis. Aku menundukkan kepala dalam-dalam, menangkupkan kedua tangan di depan dada seperti pegawai restoran yang baru saja menumpahkan sup panas ke celana tamu VIP.
 
-"Kurang berkenan apanya, Nadia bodoh!" gerutuku pada layar monitor.
+"Saya benar-benar minta maaf! Sumpah, saya nggak tahu kalau di atas ada orang. Suara saya pasti berisik banget ya, Mas? Maaf banget, jangan diaduin ke manajer gedung ya, Mas?"
 
-Sejak Tari pulang jam lima sore tadi sambil meninggalkan pesan agar aku jangan mau diperbudak mantan, tidak ada lagi teman mengobrol di ruangan ini. Sementara itu, balasan dari Dimas masuk ke ponselku tidak sampai dua menit setelah email itu terkirim.
+Pria berkemeja flanel itu tidak langsung menyahut. Dia hanya menghela napas pendek, lalu perlahan bangkit berdiri. Badannya cukup jangkung. Saat dia melangkah menuruni anak tangga dengan santai, bayangannya yang jatuh ke dinding semen membuat lorong tangga darurat ini terasa makin sempit.
 
-Dimas: Sip, makasih ya Nad. Besok kalau Vanya minta ubah ukuran buat Instagram Story tolong sekalian bantuin ya.
+Di tangan kanannya, botol minum hitam legam itu bergoyang pelan. Bagian bawahnya memang penyok sedikit di sisi kiri, seolah pernah jatuh terbanting di atas aspal keras berkali-kali.
 
-Aku menatap baris pesan itu lama sekali. Napasku mulai memburu. Bukan cuma tidak berterima kasih dengan benar, dia malah sudah memesan tenagaku untuk hari esok demi gebetan barunya.
+"Telinga saya nggak rusak," kata pria itu santai saat kakinya berhenti di bordes yang sama denganku. Jarak kami sekarang tidak lebih dari dua meter. "Tapi daripada jempol kaki kamu bengkak gara-gara nendang semen, mending kalimat tadi kamu omongin langsung ke orang yang namanya Dimas sama Dinda."
 
-Kalau aku terus duduk di depan meja ini, bisa-bisa papan ketik kantor yang tidak berdosa ini kubanting ke lantai. Aku butuh tempat buat berteriak, atau minimal mengomel keras-keras tanpa terekam kamera CCTV ruang tengah.
+Aku tersedak ludahku sendiri. Mukaku mendadak panas, pasti sudah semerah kepiting rebus.
 
-Aku berdiri dari kursi, berjalan cepat melintasi lorong kubikel yang gelap, lalu mendorong pintu besi berat bertuliskan Tangga Darurat di sudut ruangan.
+Dia benar-benar mendengar semuanya. Setiap kata, setiap makian, sampai alasan konyol soal anak dua tahun yang ambil rapor tengah semester.
 
-Begitu pintu besi itu menutup kembali dengan bunyi gedebuk pelan, udara pengap khas lorong beton langsung menyambutku. Aku berdiri di bordes tangga lantai tiga, menghadap tembok cat putih yang agak mengelupas, lalu menarik napas panjang.
+"I-itu cuma... saya cuma lagi latihan vokal, Mas," dustaku panik, berusaha mati-matian menyelamatkan secuil sisa harga diriku yang sudah tercecer di lantai. "Bukan maksud saya mau maki-maki siapa pun."
 
-"Enggak bisa, Mas Dimas!" seruku lantang ke arah tembok sambil mengacungkan telunjuk galak.
+Pria itu menaikkan sebelah alisnya tipis. "Latihan vokal yang bagus. Nada tingginya cukup meyakinkan buat membatalkan pernikahan orang."
 
-Suaraku menggema di lorong tangga yang kosong. "Kamu pikir aku ini staf pribadi gebetan baru kamu?!"
+Bibirku terkatup rapat, rasanya ingin ambles menembus lantai semen sampai ke dasar bumi.
 
-Darahku mendidih mengingat pesan tadi. "Kalau Vanya belum ngerti ukuran poster, suruh dia belajar pakai Google!"
+"Mas... Mas ini dari divisi mana ya?" tanyaku ragu-ragu, mencoba mengalihkan pembicaraan. Mataku melirik kemeja flanelnya yang rapi tapi santai, jelas bukan seragam staf sekuriti atau teknisi gedung. "Staf magang baru di lantai empat?"
 
-Dadaku naik turun. Rasanya lumayan lega juga mengeluarkan kalimat yang sejak pagi tadi nyangkut di tenggorokan.
+Pria itu tidak menjawab. Dia hanya melirik jam tangan peraknya sekilas, lalu mengangkat botol minum hitamnya dan menyesap air dari sana.
 
-Aku menyeka poni yang menutupi dahi, lalu beralih menunjuk sudut tembok sebelah kiri, membayangkan Mbak Dinda berdiri di sana.
+"Kalau di depan orangnya mulut kamu cuma bisa mengiyakan semuanya, nggak ada gunanya teriak-teriak ke tembok jam segini," katanya datar, suaranya tenang tanpa nada menghakimi, tapi kata-katanya nancep tepat di ulu hatiku.
 
-"Dan buat Mbak Dinda, berhenti pakai alasan ambil rapor tiap minggu!" teriakku lagi ke arah sudut.
+Pria itu menurunkan botol minumnya, lalu menunjuk pintu besi darurat di belakangku dengan dagunya.
 
-Aku berkacak pinggang di depan tembok beton. "Anak Mbak itu baru bisa jalan, rapor apa yang mau diambil?!"
+"Pulang sana. Tumpukan map di meja kamu nggak bakal beres cuma karena kamu nangis di tangga."
 
-Lalu aku membusungkan dada. "Mulai besok, kalau ada yang titip kerjaan di luar jam kantor, jawabanku cuma satu: enggak mau!"
+Sebelum aku sempat membalas, pria itu sudah melangkah melewatiku. Bahunya yang tegap menyenggol udara di sebelah kiriku, aroma sabun mandi yang segar dan bersih samar-samar tercium di hidungku. Dia mendorong pintu besi bertuliskan EXIT dengan telapak tangannya, melangkah keluar ke lorong kantor, dan membiarkan pintu berdebam menutup rapat di belakangnya.
 
-Hening.
+Meninggalkanku sendirian yang masih mematung dengan mulut ternganga.
 
-Hanya suara dengung lampu neon tangga darurat yang terdengar di atas kepalaku. Dadaku akhirnya melonggar, merasa agak konyol sekaligus puas. Setidaknya di depan tembok tangga darurat, aku bukan operator customer service yang lembek.
+"Sialan," gumamku pelan saat detak jantungku mulai kembali normal. "Siapa sih cowok aneh itu?!"
 
-"Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf."
+Rasa malu yang membakar membuatku tidak tahan berlama-lama lagi di tangga darurat. Aku mendorong pintu besi itu cepat-cepat, melangkah setengah berlari kembali ke kubikel desainku. Layar monitorku masih menyala, map Mbak Dinda masih tergeletak bisu, dan kertas coretan Dimas masih menatapku dengan angkuh.
 
-Jantungku rasanya langsung anjlok ke mata kaki.
+Bodo amat. Malam ini aku tidak peduli lagi.
 
-Aku membeku di tempat, lalu mendongak pelan-pelan ke arah deretan anak tangga yang menuju lantai empat.
-
-Di anak tangga kelima dari atas, seorang laki-laki sedang duduk bersandar ke dinding sambil selonjoran satu kaki. Dia memakai kemeja flanel kotak-kotak gelap yang lengannya digulung rapi sampai siku. Di tangan kanannya ada sebuah botol minum logam warna hitam legam yang bagian bawahnya penyok sedikit.
-
-Aku sama sekali tidak tahu dia sudah duduk di sana sejak tadi. Pria itu menyatu dengan bayangan tangga, persis manekin toko pakaian.
-
-Wajahku langsung panas sampai ke daun telinga. "Sejak... sejak kapan Mas di situ?" tanyaku gugup.
-
-Laki-laki itu melirik jam tangan hitam di pergelangan kirinya. Wajahnya bersih dengan garis rahang yang tegas, tapi ekspresinya datar sekali seperti orang yang baru bangun tidur dan belum sempat mengumpulkan nyawa.
-
-"Sejak bagian Vanya disuruh belajar pakai Google," jawabnya tenang.
-
-Aku ingin sekali membuka pintu besi di belakangku lalu terjun bebas ke tempat sampah gedung. Dari sekian banyak tempat di Jakarta Pusat, kenapa harus ada saksi hidup waktu aku sedang latihan mengamuk sendirian?
-
-Dia berdiri dari anak tangga, menepuk sedikit debu di belakang celana bahan gelapnya, lalu turun tiga langkah mendekatiku. Tingginya mungkin sekitar seratus tujuh puluh delapan sentimeter, cukup bikin aku harus sedikit mendongak waktu dia berhenti di anak tangga terakhir.
-
-"Tadi di ruang desain saya lihat kamu ngetik email sambil senyum sopan," katanya tenang tanpa nada menghakimi, lebih mirip orang yang sedang membaca laporan cuaca. "Kirain emang ikhlas lembur. Tahunya ngamuknya dicicil di tangga."
-
-Otakku yang panik langsung menyalakan mode pertahanan diri paling buruk yang kupunya. Aku merapatkan kedua tangan di depan perut dan membungkuk sedikit.
-
-"Mohon maaf apabila suara saya mengganggu waktu istirahat Mas di tangga darurat," ucapku cepat dengan kalimat paling baku dan resmi yang bisa dirangkai lidahku. "Saya pastikan kejadian serupa tidak akan terulang kembali. Permisi, selamat malam."
-
-Tanpa menunggu balasannya, aku langsung menarik gagang pintu besi tangga darurat, berlari kembali ke mejaku untuk menyambar tas ransel, lalu kabur menuju lift dengan wajah sepanas setrikaan. Aku bahkan tidak tahu siapa laki-laki berkemeja flanel itu, dan aku berdoa keras-keras semoga dia cuma tamu nyasar yang tidak akan pernah kutemui lagi di gedung ini.
+Aku menyambar tas selempangku dari laci, mematikan sakelar monitor dengan sekali tekan, lalu melesat kabur menuju lobi bawah sebelum aku berpapasan lagi dengan si pria berbotol penyok itu.

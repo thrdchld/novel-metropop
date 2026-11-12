@@ -38,23 +38,23 @@
 
 ## 4. Rincian per Bab (32 Bab - 4 Poin Inti per Bab)
 
-### Bab 1: Operator Layanan Patah Hati
-- **Waktu & Lokasi:** Senin pagi, Kantor Penerbit Aksara Senja, Cikini.
-- **Kejadian Inti:** Tiga hari setelah diputuskan oleh Dimas dengan alasan "terlalu baik dan sopan kayak operator *customer service*", Nadia masih harus bekerja satu lantai dengan mantannya itu. Pagi itu, Mbak Dinda menitipkan revisi sampul buku karena mau pulang cepat, dan Dimas tanpa rasa bersalah datang ke meja Nadia meminta tolong dibuatkan poster acara divisinya sambil memamerkan kopi pemberian gebetan barunya, Vanya.
-- **Perkembangan Emosi / Hubungan:** Nadia mendidih dan menggerutu panjang lebar di dalam kepalanya, tapi mulutnya tetap refleks tersenyum sopan dan menjawab "Bisa, Mas" karena penyakit nggak enakannya.
-- **Detail Kecil / Planting-Callback:** Penanaman kebiasaan Nadia yang kalau marah atau gugup malah bicara sangat baku seperti *customer service*, dan kesal pada dirinya sendiri sambil menggigit ujung karet penghapus pensilnya.
+### Bab 1: Jeritan di Tangga Darurat
+- **Waktu & Lokasi:** Senin malam pukul 19.30, Tangga Darurat Lantai 3, Penerbit Aksara Senja, Cikini.
+- **Kejadian Inti:** Nadia yang lembur sendirian menyelinap ke tangga darurat lantai tiga dan berteriak memaki tembok semen, meluapkan amarah pada mantan pacarnya (Dimas) yang memutuskannya karena dianggap terlalu sopan seperti operator customer service, serta Mbak Dinda yang menitipkan revisi dengan alasan anak umur dua tahun ambil rapor. Di puncak amukannya, sebuah suara pria datar menegur dari bordes atas tangga.
+- **Perkembangan Emosi / Hubungan:** In medias res hooking: Pembaca langsung dilempar ke puncak frustrasi dan histeria Nadia tanpa pengenalan membosankan, lalu diakhiri guncangan kaget saat aksinya dipergoki orang asing.
+- **Detail Kecil / Planting-Callback:** Kesan visual pertama botol minum hitam legam yang bagian bawahnya penyok sedikit di tangan pria itu, dan alasan putus "operator customer service".
 
-### Bab 2: Tangga Darurat Jam Tujuh Malam
-- **Waktu & Lokasi:** Senin malam pukul 19.00, Ruang Desain & Tangga Darurat Lantai 3 Penerbit Aksara Senja.
-- **Kejadian Inti:** Nadia lembur sendirian di kantor yang sudah sepi demi menyelesaikan kerjaan titipan Mbak Dinda dan poster Dimas. Karena muak pada kelemahannya sendiri, Nadia masuk ke tangga darurat dan berlatih marah-marah memaki Dimas dan Mbak Dinda di depan tembok, tanpa sadar di anak tangga atas ada pria berkemeja flanel yang sedang duduk diam memegang botol minum hitam yang bagian bawahnya penyok sedikit.
-- **Perkembangan Emosi / Hubungan:** Pertemuan pertama yang memalukan antara Nadia dan Saka Wijaya; Saka menanggapi latihan marah-marah Nadia dengan komentar datar yang menohok: *"Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf."*
-- **Detail Kecil / Planting-Callback:** Pengenalan kesan visual Saka (wajah datar seperti manekin toko baju diskon) dan botol minum hitam legam yang bagian bawahnya penyok sedikit.
+### Bab 2: Pria Berbotol Minum Penyok
+- **Waktu & Lokasi:** Senin malam pukul 19.45, Tangga Darurat Lantai 3, Penerbit Aksara Senja.
+- **Kejadian Inti:** Nadia panik setengah mati dan refleks meminta maaf secara berlebihan karena merasa mengganggu. Pria di bordes atas (Saka) menuruni tangga dengan tenang, menanggapi amukan Nadia dengan komentar logis yang menohok: bahwa memaki tembok tidak akan menyelesaikan masalah jika di meja kerja mulutnya selalu mengiyakan titipan orang. Nadia yang malu luar biasa kabur kembali ke meja kerjanya dan langsung bergegas pulang.
+- **Perkembangan Emosi / Hubungan:** Gesekan pertama yang tajam dan memalukan; Nadia ngeri pada pria yang mulutnya tanpa filter itu, sementara Saka mulai mengamati tingkah laku Nadia yang aneh.
+- **Detail Kecil / Planting-Callback:** Gaya bicara Saka yang lempeng tanpa intonasi basa-basi, dan bunyi botol minum penyok saat digenggamnya.
 
-### Bab 3: Meja Sebelah yang Tanpa Basa-Basi
-- **Waktu & Lokasi:** Selasa pagi, Ruang Rapat Redaksi Penerbit Aksara Senja.
-- **Kejadian Inti:** Dalam rapat pagi, Pak Ramdan memperkenalkan Saka Wijaya sebagai editor senior pindahan cabang Yogyakarta dan memasangkan Nadia duduk semeja dengan Saka untuk menggarap buku esai bergambar *Sela Waktu* selama lima minggu. Selesai rapat, ketika Riko mencoba merayu Saka agar mau mengeditkan naskah bagiannya dengan alasan klasik, Saka menolaknya dalam tiga detik dengan kalimat lugas tanpa rasa bersalah sedikit pun.
-- **Perkembangan Emosi / Hubungan:** Nadia terpana sekaligus ngeri melihat ada manusia yang bisa bilang "Enggak" segampang bernapas, sementara Saka mulai memperhatikan meja Nadia yang penuh tumpukan kerjaan orang lain.
-- **Detail Kecil / Planting-Callback:** Sahabat Nadia, Tari, berbisik sambil ngemil makaroni pedas bahwa Saka punya julukan "Mesin Pemotong Basa-Basi" sejak di Jogja.
+### Bab 3: Meja Sebelah Si Raja Tega
+- **Waktu & Lokasi:** Selasa pagi, Ruang Rapat Redaksi & Kubikel Desain Lantai 3.
+- **Kejadian Inti:** Keesokan paginya, terkuak konteks kantor tempat Nadia bekerja: mantan pacar yang bersikap tanpa dosa dan rekan kerja yang gampang memanfaatkan sifat sungkannya. Dalam rapat redaksi, Pak Ramdan memperkenalkan Saka Wijaya sebagai editor senior pindahan cabang Yogyakarta dan memasangkan Nadia duduk semeja dengannya untuk buku Sela Waktu. Selesai rapat, Saka menolak titipan naskah Riko dalam tiga detik.
+- **Perkembangan Emosi / Hubungan:** Nadia syok dan ingin menghilang dari bumi karena orang yang mendengar aib teriakannya semalam kini duduk tepat di hadapannya, sementara Saka menolak titipan orang dengan santai di depan mata Nadia.
+- **Detail Kecil / Planting-Callback:** Tari berbisik bahwa Saka dijuluki "Mesin Pemotong Basa-Basi" sejak di Jogja, mempertegas kontras 180 derajat dengan Nadia.
 
 ### Bab 4: Peraturan Jam Lima Sore
 - **Waktu & Lokasi:** Selasa sore pukul 17.00, Meja Proyek Nadia & Saka.
