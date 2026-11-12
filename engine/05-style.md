@@ -10,7 +10,7 @@
 - **Natural Code-Switching:** Selipkan istilah bahasa Inggris dunia kerja/perkotaan dan referensi digital modern yang memang lazim dipakai sehari-hari sesuai tahun latar cerita tanpa terdengar kaku atau sok keminggris:
   *outlier, drawer, walkout, lunch break, urgent, meeting, resign, CV, flash disk, awkward, simple truth, done, cubicle, fitting room, quick call, unfollow, Close Friends, second account, playlist Spotify, Google Docs*.
 - **Kalimat dan paragraf pendek yang jernih:** Hindari kalimat majemuk bertingkat yang berbelit-belit. Nyatakan aksi, situasi, dan perasaan secara lugas.
-- **Humor situasional & pikiran liar yang tidak memaksa:** Lahir secara alami dari ironi keadaan, nasib apes tokoh (*self-deprecating humor*), celetukan batin spontan (*deadpan wild thoughts*), perumpamaan keseharian yang menggelitik, dan saling ledek (*banter*) antarrekan tanpa merusak ritme atau bobot emosi cerita.
+- **Humor situasional membumi & ironi nyata:** Lahir murni dari situasi konkret keseharian (jam pulang kantor mepet, antrean KRL desak-desakan, patungan makan yang ngaco, chat kerjaan di hari libur, watak sungkan tokoh), saling ledek (*banter*) antarrekan, dan kontras ekspektasi vs realitas—BUKAN dari perumpamaan ajaib atau celetukan stand-up comedy di dalam kepala.
 
 ---
 
@@ -27,7 +27,7 @@ Untuk menghindari sindrom **AI Slop Mekanis & Sintaksis Kering**, seluruh proses
    - *Benar (MetroPop Asli):* Humor lahir dari frustrasi nyata dunia kerja, ekspektasi vs realitas, dan celetukan batin spontan:
      > *"Gantian aku yang melongo. Dari tadi nenek moyangmu, Tigran! Aku keluar dari ruangannya saja belum ada lima menit!"*
      > *"Pak, komputer saya saja belum panas setelah ditinggal ngobrol sejam di ruangan Bapak."*
-   - **Batas perumpamaan:** Maksimal 1–2 perumpamaan wajar per bab. Jangan paksakan komedi jika adegan butuh keheningan.
+   - **Prinsip Zero-Majas (Utamakan Kalimat Harafiah):** Hindari majas dan perumpamaan imajinatif. Tulis 100% fakta situasi dan tindakan konkret. Jika tokoh kesal atau lelah, tunjukkan perilakunya, jangan bikin metafora panggung.
 3. **Bebas Kloning Adegan Klise (*No More Snack-Eating Sidekick Clones*):**
    - Dilarang keras mengulang formula: *"sahabat di kubikel sebelah mengunyah makaroni/keripik pedas dari stoples sambil menyindir mantan"*.
    - Ciptakan rekan kerja dan interaksi yang memiliki kesibukan riil, urusan pekerjaan nyata, dan dinamika sosial yang beragam.
@@ -94,7 +94,7 @@ Dilarang menggunakan frasa puitis buatan mesin (*AI slop*), terjemahan harfiah b
 | *Bibirnya bersiap menyemburkan caci maki jilid dua.* | *Mulutnya yang tadi siap ngomel langsung kicep.* | Mengganti metafora mesin ke bahasa tutur. |
 | *Selempang Cum Laude melingkar anggun di pundakku.* | *Gue lulus FEB dua tahun lalu, IPK 3,85 cumlaude.* | Menghapus deskripsi puitis klise. |
 | *Dua hati kini bersatu dalam janji suci yang sesungguhnya.* | *Tanpa sadar, gue udah nggak menganggap ini sandiwara lagi.* | Menghindari gombalan sinetron. |
-| *Mata seberat gerbang tol jam lima sore.* | *Matanya udah berat banget.* | Membuang perumpamaan yang dipaksakan (maks 1–2 simile wajar per bab). |
+| *Mata seberat gerbang tol jam lima sore.* | *Matanya udah berat banget.* | Terapkan Zero-Majas: buang perumpamaan yang dipaksakan. |
 | *Quick call itu adalah penculikan waktu.* | *Quick call lima menit nggak pernah beneran lima menit.* | Humor dari observasi nyata, bukan metafora aneh. |
 | *Dia merasa sangat lelah dan gugup.* | *Sepatunya masih nempel di satu kaki; sendok di tangannya jatuh dua kali.* | Terapkan *Show, Don't Tell* lewat tindakan konkret. |
 | *Arah jam sebelas / Izin diberikan / Kecilkan suaramu.* | *Di sebelah kiri tuh / Boleh, Mas / Jangan teriak-teriak.* | Hindari terjemahan harfiah idiom Inggris (*eleven o'clock / permission granted / lower your voice*). |
@@ -208,54 +208,49 @@ Gaya dasar tetap ringan, mengalir, dan mudah dipahami; sesuaikan kosakata dengan
 
 ---
 
-## 8. Teknik Bercerita Sederhana (*To The Point*), Deskripsi Ber-Sudut Pandang, & Humor Pikiran Liar
+## 8. Gaya Bercerita Membumi: Harafiah, Fungsional, dan Bebas Majas Teatrikal (Zero-Majas)
 
-Bagian ini menyatukan cara bercerita yang sederhana, lugas, dan punya karakter kuat agar cerita enak dibaca dari kalimat pertama sampai akhir tanpa terasa berat atau dibuat-buat:
+Bagian ini adalah **kitab rujukan mutlak** untuk memastikan novel MetroPop tetap solid, manusiawi, dan bebas dari sindrom AI Slop / sitkom:
 
-### 8.1 Cara Bercerita Sederhana & *To The Point* (Tanpa Bunga Sastra Semu)
-1. **Langsung ke Inti Situasi dan Perasaan:**
-   - Jangan membungkus kejadian sederhana dengan kalimat mendayu-dayu. Jika tokoh sedang patah hati, kesal, atau merasa bodoh, nyatakan secara lugas lalu tunjukkan tindakannya:
-     > *Sekarang, dia sedang patah hati.*
-     > *Dia langsung menutup teleponnya, kesal. Di bagian mana dari kalimat "datang sendiri" yang temannya itu tidak paham?*
-     > *Aku mulai merasa bodoh.*
-2. **Ketukan Satu Kalimat Mandiri (*Single-Line Beat*):**
-   - Gunakan paragraf yang hanya berisi satu kalimat pendek (bahkan satu kata) untuk memberi jeda hening, efek komedi datar (*deadpan*), atau pukulan emosi:
-     > *Hening.*
-     > *Dia mengangguk.*
-     > *Tidak ada yang menjawab.*
-3. **Tag Dialog Transparan:**
-   - Gunakan tag dialog paling sederhana dan tidak mencolok seperti `kata [Nama]`, `tanyaku`, `jawab [Nama], singkat`. Biarkan kekuatan dialog dan tindakan kecil tokoh yang bekerja, bukan kata kerja pengiring yang dramatis.
+### 8.1 Prinsip Bicara Harafiah & Membumi (Zero-Majas Policy)
+1. **Tulis Fakta, Bukan Perumpamaan:**
+   - Manusia perkotaan di dunia kerja nyata berpikir dan berbicara dalam ranah fakta konkret: cicilan, jam pulang kantor, laptop lemot, uang makan siang, dan harga ojek online.
+   - Dilarang membumbui naskah dengan analogi unik buatan atau metafora puitis. Nyatakan secara lugas apa yang terjadi, apa yang dirasakan, dan apa yang dilakukan tokoh.
+2. **Daya Tarik dari Situasi Nyata, Bukan Stand-up Comedy:**
+   - Kehangatan dan kelucuan cerita MetroPop lahir dari **ironi situasi yang relate**:
+     - Ditodong lembur lima menit sebelum jam lima sore.
+     - Teman kantor yang pura-pura lupa dompet saat giliran bayar makan siang.
+     - Mantan pacar yang tidak tahu malu meminta bantuan kerjaan di depan gebetan barunya.
+     - Konflik batin orang sungkan yang ingin menolak tapi takut dikira jahat.
 
-### 8.2 Deskripsi Karakter, Benda, & Latar Lewat "Satu Detail Spesifik + Satu Sudut Pandang Unik"
-Hindari mendeskripsikan tokoh, benda, atau ruangan seperti daftar inventaris. Gunakan rumus **1–2 detail visual/fisik spesifik + 1 penilaian atau sudut pandang subjektif yang berkarakter**:
+### 8.2 Empat Biang Kerok Slop Teatrikal (DILARANG KERAS)
+1. **Hiperbola Sitkom / Istilah Bombastis:**
+   - Mengganti kejadian kantor sepele dengan istilah perang, sejarah, atau bencana alam (*kerja rodi, martir, pahlawan kesiangan, perang dunia, lemari besi*).
+2. **Analogi Aneh / Mengada-ada:**
+   - Mengasosiasikan emosi wajar dengan hal tak masuk akal yang tidak pernah diucapkan manusia nyata (*ayam berkokok di perut, telinga parabola, kanebo kering dilaminating, bola tapioka*).
+3. **Personifikasi Benda Mati:**
+   - Memberikan jiwa, sifat malas, atau relasi sosial pada benda mati (*botol saus dan sahabat karibnya sambal, kipas angin yang malas berputar*).
+4. **Monolog Batin YouTuber / Stand-up:**
+   - Monolog tokoh yang melantur seolah sedang membuat konten digital fiktif (*tutorial uninstall perasaan, bikin vlog kucing*).
 
-1. **Mendeskripsikan Karakter (Lewat Kesan Kehadiran & Ironi Visual):**
-   - Jangan mendaftar tinggi badan, bentuk hidung, dan warna pakaian dari ujung rambut ke ujung kaki. Gambarkan tokoh lewat **bagaimana orang lain mengalami kehadirannya** atau **satu detail yang langsung membedakan dia dari tokoh lain**:
-     - *Lewat kesan keberadaan:* Dia tipe orang yang kalau berpapasan denganmu di lorong supermarket, kamu tidak akan pernah ingat pernah berpapasan dengannya. Menyatu dengan oksigen.
-     - *Lewat julukan visual yang spesifik:* Wajahnya seperti orang yang lolos audisi model majalah remaja, tapi gagal masuk ke putaran berikutnya. "Ganteng nanggung" mungkin adalah frasa yang tepat.
-     - *Lewat pakaian yang menyatu dengan watak:* Dia memakai kaus kuning bergambar *The Simpsons*. Orang dewasa lain mungkin bakal kelihatan aneh memakai baju kartun seperti itu, tapi entah kenapa di badannya terlihat cocok.
-2. **Mendeskripsikan Benda & Latar (Lewat Jejak Pemakaian & Memori):**
-   - Jangan memotret seluruh isi kamar atau kafe. Pilih **1–2 benda yang punya "jejak hidup"** (noda, cacat kecil, atau kebiasaan pemiliknya):
-     - *Latar rumah/kamar:* Figura kayu foto keluarga dengan noda kopi di sudut kanan atas; piano sumbang di ruang tengah yang selalu ditunda untuk dibenarkan; piama SpongeBob yang bagian bahunya kena lunturan baju lain.
-     - *Meja makan/kafe:* Di atas meja hanya ada satu botol saus tomat, dan teman akrabnya, satu botol sambal.
+### 8.3 Tabel Kontras Emas: AI Slop Teatrikal vs Prosa Manusia Membumi
 
-### 8.3 Selipan Humor Ringan: Celetukan Pikiran Liar & Perumpamaan Menggelitik (*Unforced Humor*)
-Humor di dalam cerita tidak boleh terasa memaksa melucu (*trying too hard*) atau berubah menjadi komedi slapstick yang merusak suasana. Humor terbaik muncul sebagai **warna tambahan yang ringan** dari dua sumber:
+| Kategori | DILARANG (AI Slop / Teatrikal / Sitkom) | WAJIB (Manusia Nyata / Solid & Membumi) |
+|---|---|---|
+| **Pekerjaan Kantor** | *"Buku ini tentang orang yang lupa bernapas. Mau kerja rodi kamu?"* | *"Buku ini kan tentang orang yang kecapekan kerja sampai lupa waktu. Kalau kamu sendiri lembur pas akhir pekan, ya sama aja bohong."* |
+| **Deskripsi Tokoh** | *"Laki-laki ini kaku karena pengaturan pabriknya memang begitu."* | *"Dia memang bukan tipe orang yang suka basa-basi."* |
+| **Teguran Sepele** | *"Penghapus pensil jangan digigit terus. Karet bukan cemilan."* | *"Jangan digigit terus penghapusnya, nanti cepat rusak."* |
+| **Reaksi Kaget** | *"Dia mengerjap kaget, mirip orang mendengar ayam berkokok di perutnya."* | *"Dia mengerjap kaget, tidak menyangka penolakanku barusan."* |
+| **Tekanan Batin** | *"Dadaku rasanya seperti baru saja ditindih lemari besi."* | *"Tenggorokanku tercekat menahan kesal."* |
+| **Benda / Makanan** | *"Di meja hanya ada botol kecap dan sahabat karibnya, stoples sambal."* | *"Di atas meja cuma ada botol kecap dan stoples sambal."* |
+| **Nasihat / Catatan** | *"Baca itu tiap kali kamu mulai gatal pengin jadi martir."* | *"Baca itu tiap kali kamu mulai nggak enakan nolak orang."* |
+| **Menyimak Diam-diam** | *"Telinga sahabatku mekar selebar parabola televisi."* | *"Tari mendadak berhenti mengetik, memasang radar penuh menyimak obrolan kami."* |
+| **Patah Hati** | *"Melihat mantan itu seperti tersedak kerikil tajam di nasi goreng."* | *"Melihat mantan jalan berdua dengan rekan baru membuat perutku mual seketika."* |
+| **Penolakan Tegas** | *"Jangan jadikan aku keset selamat datang untuk urusanmu."* | *"Aku nggak mau lagi disuruh-suruh ngerjain tugasmu."* |
+| **Beban Pikiran** | *"Pikiranku seperti benang kusut yang diaduk badai."* | *"Kepalaku pening memikirkan tenggat besok pagi."* |
+| **Gerakan Tubuh** | *"Ibu jari meremas botol hingga buku jarinya memutih pasi."* | *"Tangannya memegang botol minum itu erat-erat."* |
 
-1. **Perumpamaan Keseharian yang Menggelitik (*Tickling Everyday Analogies*):**
-   - Bandingkan situasi emosional, kecanggungan, atau benda di depan mata dengan realitas sehari-hari yang sangat akrab tetapi tak terduga (cukup 1–2 kali di momen yang pas, lalu cerita langsung lanjut):
-     - *Soal makanan/benda:* Roti bakar yang sudah dingin itu keras dan kaku, teksturnya mirip kanebo kering yang dilaminating.
-     - *Soal mantan pacar:* Bertemu mantan pacar secara tidak sengaja itu rasanya seperti melihat hantu: sesuatu yang dulunya pernah hidup, tapi sekarang cuma gentayangan.
-     - *Soal orang yang lepas tangan setelah bikin masalah:* Sikapnya persis seperti orang yang habis menabrakkan mobil ke warung sampai warungnya hancur rata dengan tanah, lalu dia turun dan bertanya polos ke ibu pemilik warung, "Gimana dong, Bu?"
-     - *Soal dua karakter yang bertolak belakang:* Kami berdua ini seperti es kopi susu kekinian dan bola tapioka hitam yang mengendap di dasar gelasnya.
-     - *Soal pendekatan hidup yang terlalu kaku:* Proses mencari pasangan hidup aku perlakukan persis seperti orang yang sedang mencari rekan bisnis: penuh uji kelayakan dan permintaan rekomendasi dari orang lain.
-2. **Celetukan & Pikiran Liar Sekelebat (*Deadpan Wild Thoughts*):**
-   - Saat menghadapi kejadian absurd atau kalimat klise orang lain, biarkan batin tokoh melempar satu komentar datar sekelebat (1–2 kalimat saja) sebelum kembali ke obrolan nyata:
-     - Saat teman datang ke rumah memanggil julukan *"Kampret ada, Om?"* dan Bapak malah menjawab santai *"Oh, ada tuh di dalam"*, batin tokoh nyeletuk: *seolah Bapak mengamini bahwa anaknya memang sejenis kelelawar pemakan buah*.
-     - Saat disindir kenapa belum bisa menghilangkan perasaan ke sahabat sendiri: *Ya maaf deh, masalahnya di YouTube nggak ada video Tutorial Uninstall Perasaan ke Sahabat Sendiri*.
-     - Saat berbicara serius pada kucing peliharaan di teras: *Kalau sampai kucing ini tiba-tiba menjawab, "Gak apa-apa, cuy," detik ini juga aku bikin kanal YouTube khusus buat minta kucing ajaib ini nge-vlog.*
-
-### 8.4 Referensi Modern yang Kontekstual dengan Waktu Latar
-Gunakan detail budaya pop, aplikasi, dan kebiasaan warga kota sesuai tahun latar cerita secara organik (tidak berlebihan dan menyatu dengan konflik):
-- **Kebiasaan Relasi Digital:** Di zaman sekarang, putus cinta dianggap belum sah secara de facto dan de jure kalau foto berdua di Instagram belum dihapus dan akun belum saling *unfollow*; memasang foto di *Close Friends* (lingkaran hijau) yang isinya sebenarnya cuma satu orang yang ingin dipameri; memakai *second account* untuk belanja atau memantau mantan.
-- **Keseharian Urban:** Mendengarkan *playlist* lagu sedih atau rekaman pengantar tidur di Spotify, menulis draf kerjaan di Google Docs, memesan kopi lewat aplikasi, atau gaya pekerja kantoran SCBD yang ke mana-mana menenteng tumbler mahal.
+### 8.4 Referensi Keseharian Urban yang Alami
+Gunakan detail budaya perkotaan sesuai latar waktu tanpa dipamerkan secara teatrikal:
+- **Keseharian Kantor & Transportasi:** Antrean KRL Stasiun Juanda/Cikini, saldo e-money habis di gerbang tol, driver ojol yang tersesat mencari lobi, kopi saset di pantry lantai tiga, AC kantor yang terlalu dingin.
+- **Dunia Digital Nyata:** Mention WhatsApp grup kantor di luar jam kerja, folder Google Drive bersama, scan QRIS m-banking, story Instagram teman yang liburan saat kita lembur.

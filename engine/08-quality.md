@@ -38,9 +38,10 @@ Skrip teknis otomatis (`stress-test.py`) hanya menguji parameter biner (panjang 
 2. **Uji Psikologi Manusiawi (*Psychological Truth*):**
    - Apakah reaksi tokoh jujur sesuai kondisi mentalnya?
    - Karakter orang syok patah hati minta maaf karena kebiasaan mengalah, bukan melempar lelucon stand-up comedy yang konyol.
-3. **Uji Anti-Garing & Konteks (*The Cringe & Context Filter*):**
-   - Apakah celetukannya pas dengan suasana, atau terkesan "maksa melucu padahal merusak momen"?
-   - Jika ada celetukan aneh, analogi yang tidak nyambung, atau lelucon yang bikin pembaca mengernyitkan dahi, **WAJIB dibuang langsung**.
+3. **Uji Anti-Garing & Zero-Majas (*The Cringe & Zero-Metaphor Filter*):**
+   - Terapkan kebijakan Zero-Majas: buang semua perumpamaan puitis buatan atau analogi mengada-ada (*ayam berkokok di perut, kerja rodi, martir, pengaturan pabrik, lemari besi, parabola*).
+   - Pastikan humor lahir murni dari ironi situasi nyata dan sifat manusia sehari-hari, bukan dari celetukan stand-up comedy di kepala tokoh.
+   - Jika ada celetukan aneh atau kalimat yang terdengar sok puitis/teatrikal, **WAJIB diturunkan (*tone-down*) menjadi bahasa harafiah biasa**.
 4. **Uji Kewajaran Tutur Lisan (*Spoken-Word Reality Test*):**
    - Jika dialog ini diucapkan oleh aktor/orang asli di Jakarta, apakah terdengar mengalir dan luwes?
    - Hindari dialog yang dipotong-potong kaku atau terdengar seperti buku pelajaran.

@@ -81,9 +81,9 @@ python3 scripts/stress-test.py --fix "story/<Judul Novel>"
 
 ## 5. Bank Pola Regex & Kata Terlarang (`patterns`)
 
-### Pola `ai_slop` (13 pola)
+### Pola `ai_slop` (26 pola)
 ```
-arah jam sebelas, izin diberikan, kecilkan suaramu, papan tombol, sepeda kargo, penghangat kabin, menulis cek, atmosfer membeku, bak disambar petir, mengukir senyum, menyemburkan caci maki, janji suci, selempang cum laude melingkar
+arah jam sebelas, izin diberikan, kecilkan suaramu, papan tombol, sepeda kargo, penghangat kabin, menulis cek, atmosfer membeku, bak disambar petir, mengukir senyum, menyemburkan caci maki, janji suci, selempang cum laude melingkar, kerja rodi, lupa bernapas, pengaturan pabrik, pahlawan kesiangan, \bmartir\b, ayam berkokok, lemari besi, \bparabola\b, sahabat karibnya, teman akrabnya, kanebo kering, kasta manusia, keset selamat datang
 ```
 
 ### Pola `clinical` (7 pola)

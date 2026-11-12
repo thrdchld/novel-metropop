@@ -1,6 +1,6 @@
 ## **Bab 4: Peraturan Jam Lima Sore**
 
-Duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat membuatku sadar satu hal: laki-laki ini irit bicara bukan karena sedang kesal, melainkan karena setelan bawaannya memang begitu.
+Duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat membuatku paham satu hal: dia memang bukan tipe orang yang suka basa-basi.
 
 Kalau orang lain di kantor biasanya basa-basi menanyakan kabar atau membicarakan gosip terbaru sebelum mulai meminta bantuan, Saka berbicara murni dalam kalimat instruksi yang sangat ringkas.
 
@@ -66,7 +66,7 @@ Saka yang menunggu lampu penyeberangan pejalan kaki berubah hijau di sampingku m
 
 Dia mencoretkan satu kalimat cepat di atas kertas persegi kecil itu, mencabut selembar, lalu menempelkannya tepat di tengah sampul depan buku sketsaku.
 
-"Baca itu tiap kali kamu mulai gatal pengin jadi martir," kata Saka singkat sebelum melangkah menyeberangi jalan menuju arah stasiun.
+"Baca itu tiap kali kamu mulai nggak enakan nolak orang," kata Saka singkat sebelum melangkah menyeberangi jalan menuju arah stasiun.
 
 Aku menunduk memperhatikan kertas kuning yang melekat di buku sketsaku. Tulisan tangannya tegak, rapi, dan tegas:
 

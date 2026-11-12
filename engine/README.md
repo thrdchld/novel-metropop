@@ -20,7 +20,7 @@ Folder ini adalah panduan utama untuk merancang dan menulis web novel **MetroPop
 | `02-premise.md` | Rumus ABCD simpel, Filter Anti-Yes-Man (3 Uji Mati/Lanjut), & penyusunan Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf). |
 | `03-structure.md` | 8 Kerangka Plot Terbukti, *Invisible Planting & Callback*, & Format Outline Simpel (4 Poin per Bab). |
 | `04-character.md` | Karakter, psikologi manusiawi, deskripsi ber-sudut pandang unik, *silent callback tells*, & matriks sapaan. |
-| `05-style.md` | Cara bercerita sederhana & *to the point*, deskripsi konkret, humor pikiran liar/perumpamaan menggelitik, referensi modern, & aturan teks polos. |
+| `05-style.md` | Gaya bercerita membumi & *to the point*, Zero-Majas, deskripsi konkret, humor situasi nyata, referensi modern, & aturan teks polos. |
 | `06-chapter.md` | Kerajinan menulis bab (600-900 kata, satu adegan utuh yang mengalir alami). |
 | `07-continuity.md` | Kontinuitas (`canon.md`, `state.md`, `ledger.md`). |
 | `08-quality.md` | Uji kewajaran cerita & kualitas prosa. |

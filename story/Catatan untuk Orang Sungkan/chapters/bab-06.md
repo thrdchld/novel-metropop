@@ -12,7 +12,7 @@ Sejak berhasil menolak jurus dompet tertinggal Riko di warung ayam bakar dua har
 
 "Sabtu kita survei buku lawas ke Kwitang dua jam," balas Saka menatapku lurus. "Sisanya buat istirahat."
 
-Saka melipat kedua tangan di atas meja. "Buku Sela Waktu itu bercerita tentang orang kota yang lupa bernapas. Masa ilustratornya sendiri mau kerja rodi?"
+Saka melipat kedua tangan di atas meja. "Buku Sela Waktu itu kan tentang orang kota yang kecapekan kerja sampai lupa waktu. Kalau ilustratornya sendiri lembur di akhir pekan, ya sama aja bohong."
 
 Aku menyengir kecil, baru hendak menutup buku sketsaku ketika tawa renyah seorang perempuan terdengar mendekat dari arah lorong divisi pemasaran.
 

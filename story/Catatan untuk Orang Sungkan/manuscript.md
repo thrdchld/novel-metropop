@@ -178,7 +178,7 @@ Riko tertegun kaku dengan mulut setengah terbuka. Dan tanpa menunggu balasan apa
 
 ## **Bab 4: Peraturan Jam Lima Sore**
 
-Duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat membuatku sadar satu hal: laki-laki ini irit bicara bukan karena sedang kesal, melainkan karena setelan bawaannya memang begitu.
+Duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat membuatku paham satu hal: dia memang bukan tipe orang yang suka basa-basi.
 
 Kalau orang lain di kantor biasanya basa-basi menanyakan kabar atau membicarakan gosip terbaru sebelum mulai meminta bantuan, Saka berbicara murni dalam kalimat instruksi yang sangat ringkas.
 
@@ -244,7 +244,7 @@ Saka yang menunggu lampu penyeberangan pejalan kaki berubah hijau di sampingku m
 
 Dia mencoretkan satu kalimat cepat di atas kertas persegi kecil itu, mencabut selembar, lalu menempelkannya tepat di tengah sampul depan buku sketsaku.
 
-"Baca itu tiap kali kamu mulai gatal pengin jadi martir," kata Saka singkat sebelum melangkah menyeberangi jalan menuju arah stasiun.
+"Baca itu tiap kali kamu mulai nggak enakan nolak orang," kata Saka singkat sebelum melangkah menyeberangi jalan menuju arah stasiun.
 
 Aku menunduk memperhatikan kertas kuning yang melekat di buku sketsaku. Tulisan tangannya tegak, rapi, dan tegas:
 
@@ -344,7 +344,7 @@ Sejak berhasil menolak jurus dompet tertinggal Riko di warung ayam bakar dua har
 
 "Sabtu kita survei buku lawas ke Kwitang dua jam," balas Saka menatapku lurus. "Sisanya buat istirahat."
 
-Saka melipat kedua tangan di atas meja. "Buku Sela Waktu itu bercerita tentang orang kota yang lupa bernapas. Masa ilustratornya sendiri mau kerja rodi?"
+Saka melipat kedua tangan di atas meja. "Buku Sela Waktu itu kan tentang orang kota yang kecapekan kerja sampai lupa waktu. Kalau ilustratornya sendiri lembur di akhir pekan, ya sama aja bohong."
 
 Aku menyengir kecil, baru hendak menutup buku sketsaku ketika tawa renyah seorang perempuan terdengar mendekat dari arah lorong divisi pemasaran.
 
