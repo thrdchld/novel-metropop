@@ -8,7 +8,7 @@ Aku mengangguk pelan, meraba gelang emas berukir daun di pergelangan tanganku, d
 
 Begitu kami menginjakkan kaki di teras belakang yang berbatasan langsung dengan kolam ikan koi, Indah langsung berlari kecil menyambutku dengan wajah berseri-seri.
 
-"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir hari Rabu lalu sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji katanya cara motong jalur distributornya masuk akal banget!"
+"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir kemarin sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji cara motong jalur distributornya!"
 
 "Syukurlah kalau kepakai, Indah. Kebetulan aku sudah biasa ngitung bahan baku kue tiap hari di rumah." Aku tersenyum di balik masker dan melirik Rian yang berdiri di samping kursi Oma dengan wajah bangga.
 
@@ -32,7 +32,9 @@ Rian berdehem pelan untuk menutupi salah tingkahnya, lalu mengambilkan kerupuk u
 
 Aku menahan senyum di balik masker dan memeluk gagang rantang hangat yang baru digeser Ibu Hartini ke dekatku. Perhatian tulus keluarga ini mengingatkan hatiku pada suasana meja makan kontrakan kami dulu waktu almarhum Bapak masih ada.
 
-"Jangan panggil Tante lagi ya, Ayu. Panggil Ibu saja, biar sama kayak Rian dan Indah. Rian sudah cerita kalau Bapak kamu sudah berpulang dua tahun lalu dan sekarang kamu yang bantu Ibu kamu di rumah. Ibu sama Oma selalu doain semoga almarhum Bapak kamu tenang di sana, dan Ibu kamu sehat terus." Ibu Hartini mengusap bahuku dengan lembut.
+"Jangan panggil Tante lagi ya, Ayu. Panggil Ibu saja, biar sama kayak Rian dan Indah," kata Ibu Hartini lembut sambil mengusap bahuku.
+
+Ibu Hartini tersenyum hangat. "Rian sudah cerita perjuangan kamu bantu Ibu di rumah. Ibu sama Oma selalu doain semoga almarhum Bapak kamu tenang di sana, dan Ibu kamu sehat terus."
 
 Tenggorokanku mendadak tercekat. Aku menatap wajah teduh Ibu Hartini dan senyum hangat Oma Ratna yang memandangku tanpa sedikit pun prasangka buruk.
 

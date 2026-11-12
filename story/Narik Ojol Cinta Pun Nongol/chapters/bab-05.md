@@ -10,7 +10,7 @@ Gemuruh tepuk tangan dan siulan menggema memenuhi seluruh sudut ballroom Hotel G
 
 Mau tak mau, aku melangkah mengikuti tuntunan Rian membelah kerumunan tamu yang membuka jalan dan bertepuk tangan. Saat melewati deretan meja VIP di sisi kiri panggung, pandanganku tak sengaja bertemu dengan seorang perempuan bergaun merah menyala berbelahan tinggi. Wajahnya cantik dengan riasan tajam, tapi kuku-kuku panjangnya mencengkeram taplak meja begitu keras sampai buku jarinya memutih. Di sebelahnya, Tante Henny mengipas-ngipas leher dengan wajah masam.
 
-Tidak salah lagi. Perempuan bergaun merah yang menatapku galak macam mau menelanku bulat-bulat itu pasti Vina, mantan pacar Rian yang disebut Tante Henny tadi.
+Tidak salah lagi. Perempuan bergaun merah yang menatapku tajam itu pasti Vina, mantan pacar Rian yang disebut Tante Henny tadi.
 
 Namun, belum sempat aku memikirkan tatapan permusuhan itu, tiga orang perempuan dari meja kehormatan keluarga inti sudah berdiri menyambut kami dengan senyum lebar.
 
@@ -18,7 +18,7 @@ Namun, belum sempat aku memikirkan tatapan permusuhan itu, tiga orang perempuan 
 
 "Ibu, Oma, Indah... kenalin, ini Ayu Anindya," ucap Rian. Nada suaranya jauh lebih lembut daripada saat bicara di kantor. "Ayu, ini Ibu aku, Ibu Hartini. Yang sebelah kiri ini adik bungsuku, Indah. Dan yang duduk di tengah ini Oma Ratna."
 
-"Kak Rian pinter banget nyembunyiin Mbak Ayu! Kenalin, Mbak, aku Indah. Tadi aku lihat dari jauh waktu Mbak Ayu ngobrol sama Tante Henny, keren banget bisa bikin Tante Henny langsung mingkem!" Gadis muda berusia sekitar dua puluh satu tahun itu menyubit pelan lengan kakaknya dan nyengir lebar.
+"Kak Rian pinter banget nyembunyiin Mbak Ayu! Kenalin, Mbak, aku Indah. Tadi aku lihat dari jauh waktu Mbak Ayu ngobrol sama Tante Henny, keren banget bisa bikin Tante Henny langsung mingkem!" Gadis muda berusia sekitar dua puluh satu tahun itu menyubit pelan lengan kakaknya dan tersenyum lebar.
 
 Aku tersenyum sopan dan menundukkan badan, menyalami Ibu Hartini dan Indah, sebelum akhirnya membungkuk hormat meraih tangan keriput Oma Ratna. Wanita sepuh berusia tujuh puluhan tahun itu begitu anggun dengan sanggul perak rapi dan selendang sutra di bahunya.
 
@@ -28,7 +28,7 @@ Oma Ratna tidak langsung melepas tanganku. Beliau menatap mataku lama dengan sor
 
 "Tangan kamu hangat, Nak Ayu. Cara kamu berdiri dan nyapa orang tua juga sopan, nggak dibuat-buat," kata Oma Ratna dengan suara lembut. "Sudah lama Oma berdoa supaya Rian bawa perempuan yang pembawaannya tenang kayak kamu, bukan yang cuma ribut urusan pesta sama belanjaan."
 
-Jujur, aku langsung mati kutu. Di kepalaku tadinya keluarga orang kaya bakal sombong semua kayak Tante Henny. Kenyataannya, pujian tulus dari seorang nenek yang mengingatkanku pada almarhum Bapak di rumah ini justru menghantam pertahananku lebih keras daripada omelan siapa pun.
+Jujur, aku langsung mati kutu. Di kepalaku tadinya keluarga orang kaya bakal sombong semua seperti Tante Henny. Kenyataannya, kehangatan tulus dari seorang nenek yang mengingatkanku pada almarhum Bapak di rumah ini justru menyentuh hatiku.
 
 Sebelum aku sempat menjawab, Oma Ratna melepas sebuah gelang emas berukir motif daun klasik dari pergelangan tangannya sendiri. Tanpa kuduga, beliau meraih tangan kananku dan mengaitkan pengunci gelang pusaka itu di pergelangan tanganku.
 
@@ -36,7 +36,7 @@ Sebelum aku sempat menjawab, Oma Ratna melepas sebuah gelang emas berukir motif 
 
 "Jangan ditolak, Nak. Ini tanda sayang dari Oma buat calon cucu mantu yang sudah menangkap bunga sore ini," potong Oma Ratna haru. Ibu Hartini di samping beliau ikut mengangguk setuju sambil mengusap bahuku. "Minggu depan kamu harus mampir minum teh sore di rumah Oma di Kebayoran Baru, ya. Jangan sampai nggak datang."
 
-Aku hanya sanggup mengangguk kaku. Lingkaran emas dingin di pergelangan tanganku ini beratnya minta ampun, soalnya ada beban rasa bersalah yang ikut mengikat di sana. Membohongi tante julid seperti Tante Henny sih gampang, tapi membohongi mata jernih Oma Ratna dan senyum tulus Ibu Hartini beneran bikin ulu hatiku perih.
+Aku hanya sanggup mengangguk kaku. Lingkaran emas dingin di pergelangan tanganku ini terasa begitu berat karena ada beban rasa bersalah yang ikut mengikat di sana. Membohongi tante julid seperti Tante Henny sih gampang, tapi membohongi mata jernih Oma Ratna dan senyum tulus Ibu Hartini beneran bikin ulu hatiku perih.
 
 Lima belas menit kemudian, ketika acara makan malam resmi dimulai dan perhatian tamu kembali ke panggung pengantin, Rian akhirnya meminta izin kepada keluarganya untuk mengantarku pulang lebih dulu dengan alasan aku masih harus mengawasi pengiriman gudang malam ini.
 

@@ -16,11 +16,13 @@ Aku tersenyum melihat keakraban mereka, lalu membukakan pintu pagar kayu teras r
 
 "Waalaikumsalam, Nak Rian. Ayo masuk, duduk di dalam," sambut Ibu hangat.
 
-Di ruang tamu sempit kami yang hanya beralas karpet bersih dan empat kursi kayu rotan, Rian duduk dengan sikap yang sangat santun. Di kepalaku dulu, kalau Rian sampai masuk ke rumah kontrakan yang atap dapurnya masih seng sederhana ini, bakal ada rasa canggung yang menghimpit. Kenyataannya, Rian justru mengobrol begitu luwes dengan Ibu, mulai dari menanyakan kabar kesehatan Ibu hingga mendengarkan cerita Ibu soal almarhum Bapak waktu pertama kali membuatkan gerobak etalase kue di depan.
+Di ruang tamu sempit kami yang hanya beralas karpet bersih dan empat kursi kayu rotan, Rian duduk dengan sikap yang sangat santun. Di kepalaku dulu, kalau Rian sampai masuk ke rumah kontrakan yang atap dapurnya masih seng sederhana ini, kami pasti bakal canggung. Kenyataannya, Rian justru mengobrol begitu luwes dengan Ibu, mulai dari menanyakan kabar kesehatan Ibu hingga mendengarkan cerita Ibu soal almarhum Bapak waktu pertama kali membuatkan gerobak etalase kue di depan.
 
-"Bu, kedatangan saya sore ini secara resmi mau meminta maaf karena kesepakatan awal saya dan Ayu sempat membuat keluarga Ibu terkena imbas fitnah dua hari lalu," ucap Rian jujur seraya menatap Ibu dengan sorot mata tulus. "Sekaligus saya mau berterima kasih karena Ibu sudah membesarkan perempuan sehebat dan sejujur Ayu."
+"Bu, kedatangan saya sore ini mau meminta maaf karena kesepakatan awal saya dan Ayu sempat membuat keluarga Ibu terkena imbas fitnah kemarin," ucap Rian jujur seraya menatap Ibu dengan tulus. "Sekaligus saya mau berterima kasih karena Ibu sudah membesarkan perempuan sehebat dan sejujur Ayu."
 
-Mata Ibu berkaca-kaca lembut. Beliau menepuk pelan lengan Rian. "Ibu sudah dengar semuanya dari Ayu Selasa malam, Nak Rian. Ibu juga nonton di berita waktu Nak Rian membela Ayu dan usaha kue Ibu di depan banyak orang. Buat Ibu, yang penting sekarang semuanya sudah jujur dan terang. Ini, dicicipi dulu kue talam pandan yang baru Ibu angkat dari kukusan dapur khusus buat Nak Rian."
+Mata Ibu berkaca-kaca lembut. Beliau menepuk pelan lengan Rian. "Ibu sudah dengar semuanya dari Ayu, Nak Rian. Ibu juga nonton waktu Nak Rian membela Ayu dan usaha kue Ibu di berita."
+
+Ibu tersenyum seraya menyodorkan piring saji. "Buat Ibu, yang penting sekarang semuanya sudah jujur dan terang. Ini, dicicipi dulu kue talam pandan yang baru Ibu angkat dari kukusan dapur khusus buat Nak Rian."
 
 Rian menerima piring kecil itu dengan kedua tangan dan memakannya sampai habis dengan wajah berseri-seri. Bahkan ketika Ibu bercerita bahwa mulai minggu depan ada tiga ibu pejabat kelurahan yang memesan kue basah untuk acara pengajian bulanan, Rian ikut mendengarkan dengan antusias dan menawarkan bantuan menyusun kartu pesanan baru untuk warung Ibu. Jujur, melihat dua orang yang paling kuhormati dan kusayangi bisa duduk tertawa bersama di ruang tamu kecil ini bikin dadaku penuh oleh rasa syukur yang sulit dilukiskan dengan kata-kata.
 

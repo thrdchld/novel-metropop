@@ -2,7 +2,7 @@
 
 Sabtu sore pukul lima, kepulan uap kaldu dari panci besar gerobak Mi Ayam Pakde Slamet di dekat Lapangan Ros Tebet tampak berbaur dengan cahaya matahari senja. Aku duduk di bangku plastik biru di bawah tenda terpal sambil mengelap keningku yang berkeringat sehabis narik ojol sejak pagi.
 
-Sejak tahu orang suruhan Vina sudah mengantongi nomor pelat motorku dari data parkir gedung hari Kamis kemarin, jujur pikiranku nggak bisa tenang. Kemarin seharian aku bahkan sengaja membalas pesan Rian seperlunya saja karena takut kalau kami terlalu sering terlihat bersama, detektif bayaran Vina bakal makin cepat menemukan celah untuk menyeret Rian dan keluarganya ke dalam masalah.
+Sejak tahu orang suruhan Vina sudah mengantongi nomor pelat motorku dari data parkir gedung hari Kamis lalu, jujur pikiranku nggak bisa tenang. Kemarin seharian aku bahkan sengaja membalas pesan Rian seperlunya saja karena takut kalau kami terlalu sering terlihat bersama, detektif bayaran Vina bakal makin cepat menemukan celah untuk menyeret Rian dan keluarganya ke dalam masalah.
 
 Namun, bos muda itu rupanya paling tidak suka dihindari. Tiga puluh menit lalu, Rian tiba-tiba mengirim pesan bahwa dia sudah menunggu di dekat Stasiun Tebet memakai kaus kerah abu-abu santai dan celana jins, lalu memintaku mengajaknya makan sore di tempat langgananku.
 
@@ -20,7 +20,9 @@ Aku memperhatikannya makan dari samping, lalu tersenyum kecil. Di kepalaku dulu,
 
 Aku terdiam sejenak. Jari tanganku memutar-mutar gelas es teh tawar yang berembun di atas meja kayu. "Aku cuma nggak mau bikin posisi Mas Rian makin sulit di kantor maupun di keluarga. Keluarga Vina kan punya pengaruh bisnis di mana-mana, Mas. Kalau sampai ketahuan kalau aku aslinya cuma tukang ojol..."
 
-"Dengerin aku, Ayu," sela Rian tenang namun tegas. "Kamu nggak perlu pusing mikirin bisnis keluarga Vina. Waktu Papa aku meninggal empat tahun lalu, Tante Henny sama keluarga Pak Wijaya, ayahnya Vina, memang sengaja mau nyatuin saham lewat perjodohan kami. Masalahnya, waktu kami masih pacaran dulu, aku memergoki sendiri Vina merendahkan staf magang di kantorku dan cuma peduli sama status harta keluarga. Makanya aku putusin dia setahun lalu."
+"Dengerin aku, Ayu," sela Rian tenang namun tegas. "Kamu nggak perlu pusing mikirin bisnis keluarga Vina. Sejak Papa meninggal, Tante Henny sama keluarga Vina memang mau menyatukan saham lewat perjodohan kami."
+
+Rian menatap mangkuknya sesaat sebelum melanjutkan, "Masalahnya, waktu pacaran dulu, aku memergoki sendiri Vina merendahkan staf magang di kantorku dan cuma peduli harta. Makanya aku putusin dia."
 
 Aku menatap Rian dengan kening berkerut tipis. Baru kali ini Rian membuka cerita soal luka masa lalunya dan alasan kenapa dia begitu keras menolak perjodohan tantenya.
 

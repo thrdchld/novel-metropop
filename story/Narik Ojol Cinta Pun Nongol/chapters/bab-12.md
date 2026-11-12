@@ -20,7 +20,7 @@ Telingaku langsung panas mendengarnya menghina warung Ibu, tetapi aku menjaga ta
 
 "Standar kebersihan kami bisa dicek langsung kok, Mas," sahutku lugas namun sopan. "Semua kue lumpur, talam pandan, dan lemper ayam ini baru diangkat dari kukusan jam sembilan pagi tadi tanpa bahan pengawet, dikemas pakai kotak food grade bersegel, dan harganya empat puluh persen lebih hemat dibanding pastri hotel yang biasanya cuma dipanasin ulang dari stok beku kemarin."
 
-Dua manajer senior yang duduk di dekat meja langsung manggut-manggut setuju. Salah satu manajer perempuan bahkan membuka satu kotak sampel dan mencicipi kue lumpur kentang buatan Ibu. "Eh, tapi ini beneran enak banget lho, Damar. Masih hangat dan kentangnya terasa asli, nggak bikin enek kayak roti keju minggu lalu. Malah pas banget buat teman ngopi siang-siang begini."
+Dua manajer senior yang duduk di dekat meja langsung manggut-manggut setuju. Salah satu manajer perempuan bahkan membuka satu kotak sampel dan mencicipi kue lumpur kentang buatan Ibu. "Eh, tapi ini beneran enak banget lho, Damar. Masih hangat dan kentangnya terasa asli, nggak bikin enek kayak pesanan roti kemarin. Malah pas banget buat teman ngopi siang-siang begini."
 
 Damar tampak hendak menyanggah lagi, namun tepat pada detik itu pintu ruang rapat terbuka dan Rian melangkah masuk membawa map kerja.
 
@@ -28,7 +28,9 @@ Damar tampak hendak menyanggah lagi, namun tepat pada detik itu pintu ruang rapa
 
 Wajah Damar seketika berubah pucat. "Eh, Pak Rian... bukan masalah besar, Pak. Saya cuma lagi nanyain pergantian vendor konsumsi rapat hari ini."
 
-"Saya sendiri yang menginstruksikan pergantiannya," tegas Rian di depan seluruh manajer yang hadir. "Mulai bulan ini, saya memangkas anggaran konsumsi yang digelembungkan tanpa alasan jelas di bagian pengadaan kamu. Kue Basah Bu Sumi ini saya pilih karena kualitas bahannya segar dan rincian harganya transparan. Kalau kamu keberatan dengan efisiensi anggaran divisi saya, silakan jelaskan laporan selisih harga katering bulan lalu di meja saya sore ini."
+"Saya sendiri yang menginstruksikan pergantiannya," tegas Rian di hadapan seluruh manajer yang hadir. "Mulai bulan ini, saya memangkas anggaran konsumsi yang digelembungkan di bagian pengadaan kamu. Kue Basah Bu Sumi saya pilih karena kualitas bahannya segar dan rincian harganya transparan."
+
+Rian menatap Damar tajam. "Kalau kamu keberatan dengan efisiensi divisi saya, silakan jelaskan laporan selisih harga katering bulan lalu di meja saya sore ini."
 
 Damar langsung menelan ludah, mukanya pucat pasi sampai tak sanggup mengeluarkan satu huruf pun. "Si-siap, Pak Rian. Sudah sangat jelas, Pak."
 

@@ -16,13 +16,17 @@ Aku meletakkan kain lap bersih di sudut meja, lalu berdiri tegak menatapnya tanp
 
 Senyum sinis Vina langsung luntur. Di kepalanya mungkin aku bakal langsung nangis atau bersimpuh minta ampun begitu didatangi ke rumah. Kenyataannya, melihatku berdiri lempeng tanpa gemetar sedikit pun justru bikin mukanya makin kesal. Dengan gerakan kasar, dia mengambil amplop cokelat tebal dari tas kulitnya lalu melemparkannya ke atas kaca etalase hingga lembaran isinya berhamburan keluar.
 
-"Nggak usah sok pasang muka lempeng di depan gue!" hardik Vina tajam. "Lihat tuh foto-fotonya! Dari data kartu parkir VIP Rian di Menara Astra malam itu, orang suruhan gue lacak pelat motor butut lo sampai ke gang ini. Gue udah kantongin semuanya: profil akun driver ojol lo, foto KTP lo, sampai bukti kalau lo cuma tukang ojol merangkap bakul kue pasar yang nyamar pakai masker di kantor Rian!"
+"Nggak usah sok pasang muka lempeng di depan gue!" hardik Vina tajam. "Lihat tuh foto-fotonya! Dari data kartu parkir VIP Rian malam itu, orang suruhan gue lacak pelat motor butut lo sampai ke gang ini."
+
+Vina menunjuk lembaran foto di atas etalase. "Gue udah kantongin semuanya: profil ojol lo, foto KTP, sampai bukti kalau lo cuma tukang ojol merangkap bakul kue yang nyamar pakai masker di kantor Rian!"
 
 Aku melirik deretan foto cetakan mengilap di atas etalase. Ada fotoku saat mengenakan gaun biru dongker di panggung ballroom Grand Hyatt, yang disandingkan dengan foto hasil intaian kemarin saat aku baru turun dari motor matik B 4892 TBT milikku memakai jaket ojol dan helm kusam di depan teras rumah Tebet.
 
 "Terus kalau Mbak Vina udah pegang semua foto ini, Mbak mau apa?" tanyaku dengan nada rata. Kutepuk tas selempang di pinggangku sekali.
 
-Vina mencondongkan tubuhnya, mengetukkan kuku panjang merahnya ke atas meja kaca. "Gue kasih lo waktu sampai besok sore buat tanda tangan surat pengakuan kalau lo yang menipu Rian demi ngincer hartanya, habis itu lo angkat kaki selamanya dari hidup Rian dan keluarganya. Kalau sampai besok sore lo masih berani nongol di dekat Rian, semua foto ini bakal gue kirim langsung ke tangan Oma Ratna dan gue sebar ke grup keluarga besar!"
+Vina mencondongkan tubuhnya, mengetukkan kuku panjang merahnya ke meja kaca. "Gue kasih waktu sampai besok sore buat tanda tangan surat pengakuan. Lo ngaku udah nipu Rian, habis itu angkat kaki selamanya dari hidup keluarganya."
+
+Mata Vina berkilat dingin. "Kalau besok sore lo masih berani nongol di dekat Rian, semua foto ini bakal gue kirim langsung ke tangan Oma Ratna dan gue sebar ke grup keluarga besar!"
 
 "Mbak Vina tahu Oma Ratna punya riwayat penyakit jantung dan darah tinggi, kan? Kalau Mbak sengaja ngirim kabar mendadak kayak gitu cuma buat melampiaskan kekesalan Mbak, yang bahaya itu kesehatan Oma." Aku menatap tajam menembus matanya.
 

@@ -12,7 +12,7 @@ Mas-mas itu mendadak kicep. Mulutnya yang tadi sudah siap ngomel panjang lebar l
 
 "Kalau memang ada lauk yang tumpah atau kotaknya penyok murni karena cara bawa saya, saya ganti rugi penuh pakai uang saya sekarang juga. Gimana, Mas? Kita buka bareng-bareng?" Aku menepuk tas selempang di pinggang dan langsung merogoh dompet kain lusuh dari dalamnya.
 
-Dua resepsionis di balik konter menunduk, jelas-jelas menahan tawa. Mas-mas ber-ID card itu menelan ludah, melirik uang pecahan sepuluh ribuan di tanganku dengan muka salah tingkah. Tanpa membantah sepatah kata pun, dia buru-buru menyambar dua kantong plastik itu lalu melangkah cepat ke arah deretan lift eksekutif. Persis orang yang baru mergokin hantu di siang bolong.
+Dua resepsionis di balik konter menunduk, jelas-jelas menahan tawa. Mas-mas ber-ID card itu menelan ludah, melirik uang pecahan sepuluh ribuan di tanganku dengan muka salah tingkah. Tanpa membantah sepatah kata pun, dia buru-buru menyambar dua kantong plastik itu lalu melangkah cepat ke arah deretan lift eksekutif tanpa menoleh lagi.
 
 Aku mengembuskan napas lega dan memasukkan kembali dompet tipisku ke saku. Di kepalaku dulu waktu lulus kuliah, hidup setelah menyandang gelar sarjana harusnya keren: ngantor pakai blazer rapi, duduk di kursi putar empuk, bukan malah didebat staf sombong di lobi gedung orang. Dua tahun lalu pas wisuda dari Fakultas Ekonomi dan Bisnis universitas negeri ternama, predikat cumlaude dengan IPK 3,85 mentereng di ijazahku. Bapak bangga bukan main, Ibu sampai nangis sesenggukan di barisan bangku undangan. Masalahnya, realitas hidup ternyata nggak seindah foto studio. Begitu Bapak meninggal dunia gara-gara lonjakan darah tinggi yang memicu serangan jantung dan meninggalkan tumpukan tagihan rumah sakit serta utang bank keliling, lembaran ijazah itu terpaksa kusimpan rapi di lemari kayu kontrakan Tebet.
 
@@ -22,7 +22,7 @@ Baru saja aku hendak memutar badan menuju pintu kaca lobi, suara langkah terburu
 
 "Mbak! Tunggu sebentar!"
 
-Aku menghentikan langkah lalu menoleh. Seorang pria berjas navy melangkah cepat menghampiriku. Tubuhnya jangkung, potongan rambutnya rapi khas eksekutif muda, dengan jam tangan perak berkelas melingkar di pergelangan tangannya. Wajahnya tampan dan klimis, tapi raut mukanya panik luar biasa, mirip orang yang baru saja kehilangan ponsel penting berisi dokumen tender kantor.
+Aku menghentikan langkah lalu menoleh. Seorang pria berjas navy melangkah cepat menghampiriku. Tubuhnya jangkung, potongan rambutnya rapi khas eksekutif muda, dengan jam tangan perak berkelas melingkar di pergelangan tangannya. Wajahnya tampan dan klimis, tapi raut mukanya tampak tegang dan cemas.
 
 "Ada pesanan lain yang kurang, Mas?" tanyaku formal. Tanganku mengayun ringan menenteng helm kusamku.
 
@@ -38,6 +38,6 @@ Rian membetulkan posisi jam tangan peraknya dengan gerakan gugup, lalu menatapku
 
 "Saya butuh seseorang yang bisa berdiri di samping saya dan akting jadi pacar saya di pesta pernikahan keluarga tiga puluh menit lagi."
 
-Aku terbelalak menatapnya lurus-lurus. Jujur, aku sempat curiga jangan-jangan ada kamera tersembunyi di balik pot tanaman lobi.
+Aku terbelalak menatapnya lurus-lurus. Aku sempat bengong, mengira pria di depanku ini sedang melantur.
 
 "Mas... kepala Mas habis kepentok pintu lift, ya?"

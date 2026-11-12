@@ -6,7 +6,7 @@ Langkahku sempat melambat setengah detik di atas karpet merah tebal. Selama ini,
 
 "Ayu," bisik Rian pelan di sampingku. Tangannya terangkat sedikit di dekat sikuku dengan gerak ragu. "Sesuai syarat pertama kamu di parkiran tadi... boleh aku gandeng tangan kamu sekarang? Tante Henny udah berdiri di dekat meja tamu sebelah kiri tuh, matanya langsung ngelirik ke sini."
 
-Aku melirik tangan Rian, lalu mengangguk singkat. "Boleh, Mas. Gandeng biasa aja ya, jangan kaku-kaku amat kayak lagi nyeret tahanan."
+Aku melirik tangan Rian, lalu mengangguk singkat. "Boleh, Mas. Gandeng biasa aja ya, jangan kaku-kaku amat."
 
 Sudut bibir Rian terangkat tipis. Jemarinya menggenggam tanganku dengan hangat dan mantap, cukup memberi sinyal ke seluruh ruangan bahwa kami datang sebagai pasangan.
 

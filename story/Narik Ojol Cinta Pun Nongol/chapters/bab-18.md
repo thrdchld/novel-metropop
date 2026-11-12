@@ -12,7 +12,9 @@ Aku menarik napas dalam-dalam, lalu merogoh tas selempangku. Aku mengeluarkan ko
 
 Rian menghentikan tangannya, menatap kotak beludru dan lembar bukti transfer itu dengan kening berkerut tajam. "Apa maksudnya ini, Ayu?"
 
-"Kesepakatan kita terpaksa harus kita sudahi malam ini, Mas Rian," ucapku lirih namun tegas. "Sisa uang muka yang belum kepakai udah aku transfer balik barusan, dan yang udah telanjur kepakai bayar utang Bapak bakal aku cicil sesuai surat ini. Kalau kita nekat lanjutin sandiwara ini, besok sore Vina beneran bakal ngirim foto-foto itu ke Oma Ratna. Bapakku dulu meninggal gara-gara tensinya melonjak mendadak, Mas. Aku nggak sanggup kalau Oma sampai kolaps gara-gara aku."
+"Kesepakatan kita terpaksa harus kita sudahi malam ini, Mas Rian," ucapku lirih namun tegas. "Sisa uang muka yang belum kepakai sudah aku transfer balik barusan, dan yang sudah terpakai bakal kucicil."
+
+Kutatap mata Rian sungguh-sungguh. "Kalau kita nekat lanjutin sandiwara ini, besok sore Vina beneran bakal ngirim foto itu ke Oma Ratna. Aku nggak sanggup kalau Oma sampai sakit gara-gara aku."
 
 Wajah Rian seketika berubah tegang. Tanpa menyentuh kotak gelang maupun bukti transfer itu, dia justru mendorong keduanya kembali ke arahku dengan gerakan tegas.
 
@@ -20,7 +22,9 @@ Wajah Rian seketika berubah tegang. Tanpa menyentuh kotak gelang maupun bukti tr
 
 "Bukan gitu maksud aku, Mas..." Aku menunduk menatap meja kayu.
 
-"Dengerin aku dulu, Yu," potong Rian dengan nada suara yang jauh lebih lembut namun tak terbantahkan. "Yang mulai ide nekat di lobi Menara Astra hari Jumat itu aku. Yang maksa kamu masuk ke ballroom Grand Hyatt sampai dapat gelang Oma itu juga aku. Kalau sekarang aku biarin kamu mundur terus dicap penipu sama Vina dan Tante Henny, aku nggak bakal pernah bisa maafin diriku sendiri."
+"Yang mulai ide nekat di lobi Menara Astra itu aku," sela Rian dengan nada lembut namun tak terbantahkan. "Yang mengajak kamu masuk ke ballroom Grand Hyatt sampai dapat gelang Oma juga aku."
+
+Rian menatapku lurus. "Kalau sekarang aku biarin kamu mundur terus dicap penipu sama Vina dan Tante Henny, aku nggak bakal pernah bisa memaafkan diriku sendiri."
 
 Aku menatap pria di seberangku ini. Di balik setelan jas mahalnya, Rian benar-benar bertanggung jawab atas setiap ucapannya.
 

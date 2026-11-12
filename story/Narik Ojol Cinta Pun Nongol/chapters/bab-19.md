@@ -12,7 +12,9 @@ Tante Henny langsung menegakkan punggungnya, melirikku dari ujung kepala sampai 
 
 Di bawah meja, jemari Rian meremas pelan tanganku sebentar sebelum dia berdiri tegak menghadapi Oma Ratna dan Ibu Hartini.
 
-"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt Jumat minggu lalu, Rian sebenarnya belum punya pacar. Karena Rian tertekan diancam mau dijodohkan paksa sama Vina di depan Oma, Rian nekat menyewa Ayu tiga puluh menit sebelum acara buat pura-pura jadi pasangan Rian."
+"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt kemarin, Rian sebenarnya belum punya pasangan."
+
+Rian menatap Oma Ratna sungguh-sungguh. "Karena tertekan mau dijodohkan paksa sama Vina, Rian nekat menyewa Ayu sebelum acara buat pura-pura jadi pasangan Rian."
 
 Ibu Hartini menutup mulutnya kaget, sementara Indah membelalak tak percaya. Di sudut sofa, Tante Henny langsung bertepuk tangan satu kali dengan suara nyaring.
 
@@ -22,9 +24,13 @@ Aku menarik napas panjang, lalu berdiri di samping Rian. Dengan gerakan tenang, 
 
 Tanpa selembar kain pun yang menutupi wajahku lagi, aku melangkah maju setengah tapak, lalu meletakkan kotak beludru berisi gelang emas pusaka Oma Ratna di atas meja kaca, berdampingan dengan kartu identitas mitra ojolku dan map berisi salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude yang kubawa di dalam tas jinjingku.
 
-"Nama lengkap saya Ayu Anindya, Oma, Ibu," ucapku tenang, menundukkan kepala penuh hormat. "Hari Minggu lalu waktu saya datang ke sini pakai masker, sebenarnya saya nggak lagi sakit flu, Oma. Saya pakai masker ke mana-mana gara-gara saya takut ada kenalan keluarga atau staf kantor Mas Rian yang mengenali kalau saya ini tukang ojol yang biasa mangkal di depan gedung kantor. Dua tahun lalu, setelah lulus kuliah dengan IPK 3,85, Bapak saya meninggal dunia dan meninggalkan utang biaya rumah sakit yang cukup besar. Buat melunasi utang Bapak dan bantu Ibu saya jualan kue basah di Tebet, saya memang kerja narik ojol setiap hari."
+"Nama lengkap saya Ayu Anindya, Oma, Ibu," ucapku tenang, menundukkan kepala penuh hormat. "Waktu datang ke sini pakai masker, sebenarnya saya nggak lagi sakit flu, Oma. Saya pakai masker karena takut ada yang mengenali saya sebagai tukang ojol."
 
-Aku menatap mata teduh Oma Ratna lurus-lurus tanpa menghindar. "Saya minta maaf sebesar-besarnya karena udah lancang pakai masker dan ikut berbohong di depan Oma sama Ibu. Gelang pusaka Oma saya kembalikan utuh hari ini. Waktu Minggu lalu Ibu sama Oma ikut mendoakan almarhum Bapak di meja makan, jujur dada saya sesak banget, Oma. Oma dan Ibu terlalu baik buat terus-terusan saya bohongi."
+Kutatap mata Oma Ratna tanpa menghindar. "Setelah lulus kuliah, Bapak saya meninggal dan meninggalkan utang biaya rumah sakit. Demi melunasi utang almarhum dan bantu Ibu jualan kue di Tebet, saya kerja narik ojol setiap hari."
+
+"Saya minta maaf sebesar-besarnya karena sudah berbohong di depan Oma dan Ibu," lanjutku dengan suara bergetar. "Gelang pusaka Oma saya kembalikan utuh hari ini."
+
+Air mataku mulai menggenang di pelupuk mata. "Waktu Ibu sama Oma ikut mendoakan almarhum Bapak di meja makan, dada saya sesak sekali. Oma dan Ibu terlalu baik buat terus-terusan saya bohongi."
 
 "Halah, alasan klasik orang butuh duit! Udah ketahuan belangnya baru pura-pura ngaku polos! Berani-beraninya tukang ojol..." Tante Henny langsung berdiri dari sofa dan menunjuk wajahku dengan sinis.
 

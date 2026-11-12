@@ -14,7 +14,7 @@ Mas-mas itu mendadak kicep. Mulutnya yang tadi sudah siap ngomel panjang lebar l
 
 "Kalau memang ada lauk yang tumpah atau kotaknya penyok murni karena cara bawa saya, saya ganti rugi penuh pakai uang saya sekarang juga. Gimana, Mas? Kita buka bareng-bareng?" Aku menepuk tas selempang di pinggang dan langsung merogoh dompet kain lusuh dari dalamnya.
 
-Dua resepsionis di balik konter menunduk, jelas-jelas menahan tawa. Mas-mas ber-ID card itu menelan ludah, melirik uang pecahan sepuluh ribuan di tanganku dengan muka salah tingkah. Tanpa membantah sepatah kata pun, dia buru-buru menyambar dua kantong plastik itu lalu melangkah cepat ke arah deretan lift eksekutif. Persis orang yang baru mergokin hantu di siang bolong.
+Dua resepsionis di balik konter menunduk, jelas-jelas menahan tawa. Mas-mas ber-ID card itu menelan ludah, melirik uang pecahan sepuluh ribuan di tanganku dengan muka salah tingkah. Tanpa membantah sepatah kata pun, dia buru-buru menyambar dua kantong plastik itu lalu melangkah cepat ke arah deretan lift eksekutif tanpa menoleh lagi.
 
 Aku mengembuskan napas lega dan memasukkan kembali dompet tipisku ke saku. Di kepalaku dulu waktu lulus kuliah, hidup setelah menyandang gelar sarjana harusnya keren: ngantor pakai blazer rapi, duduk di kursi putar empuk, bukan malah didebat staf sombong di lobi gedung orang. Dua tahun lalu pas wisuda dari Fakultas Ekonomi dan Bisnis universitas negeri ternama, predikat cumlaude dengan IPK 3,85 mentereng di ijazahku. Bapak bangga bukan main, Ibu sampai nangis sesenggukan di barisan bangku undangan. Masalahnya, realitas hidup ternyata nggak seindah foto studio. Begitu Bapak meninggal dunia gara-gara lonjakan darah tinggi yang memicu serangan jantung dan meninggalkan tumpukan tagihan rumah sakit serta utang bank keliling, lembaran ijazah itu terpaksa kusimpan rapi di lemari kayu kontrakan Tebet.
 
@@ -24,7 +24,7 @@ Baru saja aku hendak memutar badan menuju pintu kaca lobi, suara langkah terburu
 
 "Mbak! Tunggu sebentar!"
 
-Aku menghentikan langkah lalu menoleh. Seorang pria berjas navy melangkah cepat menghampiriku. Tubuhnya jangkung, potongan rambutnya rapi khas eksekutif muda, dengan jam tangan perak berkelas melingkar di pergelangan tangannya. Wajahnya tampan dan klimis, tapi raut mukanya panik luar biasa, mirip orang yang baru saja kehilangan ponsel penting berisi dokumen tender kantor.
+Aku menghentikan langkah lalu menoleh. Seorang pria berjas navy melangkah cepat menghampiriku. Tubuhnya jangkung, potongan rambutnya rapi khas eksekutif muda, dengan jam tangan perak berkelas melingkar di pergelangan tangannya. Wajahnya tampan dan klimis, tapi raut mukanya tampak tegang dan cemas.
 
 "Ada pesanan lain yang kurang, Mas?" tanyaku formal. Tanganku mengayun ringan menenteng helm kusamku.
 
@@ -40,7 +40,7 @@ Rian membetulkan posisi jam tangan peraknya dengan gerakan gugup, lalu menatapku
 
 "Saya butuh seseorang yang bisa berdiri di samping saya dan akting jadi pacar saya di pesta pernikahan keluarga tiga puluh menit lagi."
 
-Aku terbelalak menatapnya lurus-lurus. Jujur, aku sempat curiga jangan-jangan ada kamera tersembunyi di balik pot tanaman lobi.
+Aku terbelalak menatapnya lurus-lurus. Aku sempat bengong, mengira pria di depanku ini sedang melantur.
 
 "Mas... kepala Mas habis kepentok pintu lift, ya?"
 
@@ -56,7 +56,9 @@ Aku langsung membalikkan badan dan melangkah cepat ke arah tangga parkiran basem
 
 "Terus apa urusannya sama saya, Mas Rian? Di gedung Astra gini kan banyak staf cewek yang cakep dan modis. Kenapa nggak ajak sekretaris Mas saja?" Aku menuruni tangga menuju parkiran motor dan meliriknya sekilas.
 
-"Nggak mungkin!" potong Rian cepat, jemarinya membetulkan letak jam tangan peraknya. "Kalau bawa orang kantor, besok pagi satu gedung bakal penuh gosip. Lagian Tante Henny punya incaran sore ini: dia mau maksa jodohin saya sama Vina, mantan pacar saya. Tante Henny sudah ngancam, kalau saya datang sendirian lagi, dia bakal ngumumin pertunangan saya sama Vina di meja keluarga di depan Oma."
+"Nggak mungkin!" potong Rian cepat, jemarinya membetulkan letak jam tangan peraknya. "Kalau bawa orang kantor, besok pagi satu gedung bakal penuh gosip. Lagian Tante Henny mau maksa jodohin saya sama Vina, mantan pacar saya."
+
+Rian menarik napas berat. "Tante Henny sudah ngancam, kalau saya datang sendirian lagi, dia bakal ngumumin pertunangan saya sama Vina di meja keluarga di depan Oma."
 
 Langkahku terhenti di samping motor matik tua berpelat B 4892 TBT milikku. Helm kuletakkan di atas jok yang kulitnya agak robek di ujung.
 
@@ -72,7 +74,9 @@ Penjelasan itu masuk akal dan bikin curigaku surut. Dia sudah memikirkan urusan 
 
 "Berapa lama acaranya, dan Mas Rian berani bayar berapa? Soalnya kalau saya matiin aplikasi ojol jam segini, saya kehilangan setoran harian," tanyaku langsung ke inti urusan.
 
-Mata Rian seketika berbinar lega. "Cuma dua jam! Kamu cukup berdiri tenang di samping saya pas salaman sama pengantin dan keluarga, habis itu kita balik ke sini. Saya bayar satu juta rupiah buat dua jam. Lima ratus ribu saya kasih tunai sekarang sebagai uang muka, sisanya yang lima ratus ribu lagi saya lunasi begitu acara selesai."
+Mata Rian seketika berbinar lega. "Cuma dua jam! Kamu cukup berdiri tenang di samping saya pas salaman sama pengantin dan keluarga, habis itu kita balik ke sini."
+
+Rian menatapku sungguh-sungguh. "Saya bayar satu juta rupiah buat dua jam. Lima ratus ribu saya kasih tunai sekarang sebagai uang muka, sisanya yang lima ratus ribu lagi saya lunasi begitu acara selesai."
 
 Satu juta rupiah untuk kerja dua jam, dengan lima ratus ribu tunai di tangan sekarang juga.
 
@@ -82,7 +86,9 @@ Otak dagangku berhitung cepat. Uang satu juta itu setara narik ojol lima hari ke
 
 "Sebutin. Saya ikutin semuanya."
 
-"Pertama, jangan pegang-pegang tanpa izin saya. Kedua, pas dua jam sejak masuk ballroom, tugas saya kelar dan Mas harus antar saya balik ke gedung ini. Ketiga, motor saya ini parkir di jalur kurir yang batasnya cuma dua puluh menit. Kalau ditinggal dua jam pasti digembok. Jadi Mas Rian harus urus titip motor saya ke satpam parkiran sini dan tanggung biayanya."
+"Pertama, jangan pegang-pegang tanpa izin saya. Kedua, pas dua jam sejak masuk ballroom, tugas saya kelar dan Mas harus antar saya balik ke gedung ini," beberku tanpa ragu.
+
+Aku menunjuk motorku di ujung jalur. "Ketiga, motor saya ini parkir di jalur kurir yang batasnya cuma dua puluh menit. Kalau ditinggal dua jam pasti digembok. Jadi Mas Rian harus urus titip motor saya ke satpam parkiran sini dan tanggung biayanya."
 
 Rian mendengus lega. Dia segera merogoh dompet kulitnya, menyerahkan lima lembar seratus ribuan untuk uang muka ke tanganku, lalu melambai memanggil kepala satpam basement yang sedang berpatroli di dekat jalur kurir.
 
@@ -108,9 +114,11 @@ Aku menarik napas panjang, menatap jok kulit SUV mewah yang begitu kontras denga
 
 ## **Bab 3: Transformasi Singkat di Butik**
 
-Perjalanan dari basement Menara Astra menuju Bundaran HI hanya memakan waktu kurang dari sepuluh menit, tapi rasanya seperti pindah planet. Di dalam kabin SUV hitam Rian yang sejuk dan wangi kayu cendana, aku duduk agak kaku di tepi jok kulit agar jaket ojolku yang lembap tidak menempel penuh ke sandaran kursi.
+Perjalanan dari basement Menara Astra menuju Bundaran HI hanya memakan waktu kurang dari sepuluh menit, tapi suasananya langsung berubah drastis. Di dalam kabin SUV hitam Rian yang sejuk dan wangi kayu cendana, aku duduk agak kaku di tepi jok kulit agar jaket ojolku yang lembap tidak menempel penuh ke sandaran kursi.
 
-Sepanjang jalan, jari-jari Rian mengetuk lingkar kemudi dan sesekali melirik spion tengah. "Nanti di dalam, panggil aku Mas Rian aja, jangan pakai 'saya' terus biar nggak kaku di depan keluarga. Kalau Tante Henny nanya kita kenal di mana, bilang aja ketemu waktu ngurus pesanan katering acara kantor tiga bulan lalu. Nggak usah ngarang cerita panjang-panjang, jawab santai aja."
+Sepanjang jalan, jari-jari Rian mengetuk lingkar kemudi. "Nanti di dalam, panggil aku Mas Rian aja, jangan pakai saya terus biar luwes."
+
+Rian melirik spion tengah sekilas. "Kalau Tante Henny nanya kita kenal di mana, bilang aja ketemu waktu ngurus katering kantor. Jawab santai aja, nggak usah ngarang panjang-panjang."
 
 "Siap, Mas Rian. Kalau soal urusan dapur sama anter makanan sih, aku udah di luar kepala," sahutku. Kubetulkan tali tas selempang di pangkuanku yang terasa agak miring.
 
@@ -134,11 +142,11 @@ Selesai mandi dan mengeringkan rambut sebahu dengan hairdryer, aku dibantu staf 
 
 Saat tirai beludru ruang ganti dibuka, suasana di ruang tunggu butik mendadak hening.
 
-Rian yang sedang berdiri melihat jam tangannya di dekat sofa kulit seketika terpaku. Tangannya berhenti bergerak. Tatapannya terkunci lurus ke arahku, mengerjap dua kali seperti masih belum percaya bahwa perempuan bergaun biru dongker dengan rambut hitam rapi di depannya adalah driver ojol yang dua puluh menit lalu berdebat soal nasi kotak di lobi kantornya.
+Rian yang sedang berdiri melihat jam tangannya di dekat sofa kulit seketika terpaku. Tangannya berhenti bergerak. Tatapannya terkunci lurus ke arahku, mengerjap dua kali, menatap perempuan bergaun biru dongker dengan rambut hitam rapi di depannya.
 
 Bahkan pramuniaga yang tadi menyindirku kini berdiri mematung memeluk baki di depan dada.
 
-"Gimana, Mas Rian? Udah cukup pantes jalan di sebelah bos besar, atau masih kelihatan kayak mau nganter paket?" tanyaku santai sambil merapikan lipatan rok di sisi paha.
+"Gimana, Mas Rian? Udah cukup pantas jalan di sebelah bos besar?" tanyaku santai sambil merapikan lipatan rok di sisi paha.
 
 Rian berdehem pelan, buru-buru mengalihkan pandangannya sesaat untuk menyembunyikan muka salah tingkahnya. "Lebih dari pantes. Kamu... kelihatan beda banget, Yu."
 
@@ -156,7 +164,7 @@ Langkahku sempat melambat setengah detik di atas karpet merah tebal. Selama ini,
 
 "Ayu," bisik Rian pelan di sampingku. Tangannya terangkat sedikit di dekat sikuku dengan gerak ragu. "Sesuai syarat pertama kamu di parkiran tadi... boleh aku gandeng tangan kamu sekarang? Tante Henny udah berdiri di dekat meja tamu sebelah kiri tuh, matanya langsung ngelirik ke sini."
 
-Aku melirik tangan Rian, lalu mengangguk singkat. "Boleh, Mas. Gandeng biasa aja ya, jangan kaku-kaku amat kayak lagi nyeret tahanan."
+Aku melirik tangan Rian, lalu mengangguk singkat. "Boleh, Mas. Gandeng biasa aja ya, jangan kaku-kaku amat."
 
 Sudut bibir Rian terangkat tipis. Jemarinya menggenggam tanganku dengan hangat dan mantap, cukup memberi sinyal ke seluruh ruangan bahwa kami datang sebagai pasangan.
 
@@ -218,7 +226,7 @@ Gemuruh tepuk tangan dan siulan menggema memenuhi seluruh sudut ballroom Hotel G
 
 Mau tak mau, aku melangkah mengikuti tuntunan Rian membelah kerumunan tamu yang membuka jalan dan bertepuk tangan. Saat melewati deretan meja VIP di sisi kiri panggung, pandanganku tak sengaja bertemu dengan seorang perempuan bergaun merah menyala berbelahan tinggi. Wajahnya cantik dengan riasan tajam, tapi kuku-kuku panjangnya mencengkeram taplak meja begitu keras sampai buku jarinya memutih. Di sebelahnya, Tante Henny mengipas-ngipas leher dengan wajah masam.
 
-Tidak salah lagi. Perempuan bergaun merah yang menatapku galak macam mau menelanku bulat-bulat itu pasti Vina, mantan pacar Rian yang disebut Tante Henny tadi.
+Tidak salah lagi. Perempuan bergaun merah yang menatapku tajam itu pasti Vina, mantan pacar Rian yang disebut Tante Henny tadi.
 
 Namun, belum sempat aku memikirkan tatapan permusuhan itu, tiga orang perempuan dari meja kehormatan keluarga inti sudah berdiri menyambut kami dengan senyum lebar.
 
@@ -226,7 +234,7 @@ Namun, belum sempat aku memikirkan tatapan permusuhan itu, tiga orang perempuan 
 
 "Ibu, Oma, Indah... kenalin, ini Ayu Anindya," ucap Rian. Nada suaranya jauh lebih lembut daripada saat bicara di kantor. "Ayu, ini Ibu aku, Ibu Hartini. Yang sebelah kiri ini adik bungsuku, Indah. Dan yang duduk di tengah ini Oma Ratna."
 
-"Kak Rian pinter banget nyembunyiin Mbak Ayu! Kenalin, Mbak, aku Indah. Tadi aku lihat dari jauh waktu Mbak Ayu ngobrol sama Tante Henny, keren banget bisa bikin Tante Henny langsung mingkem!" Gadis muda berusia sekitar dua puluh satu tahun itu menyubit pelan lengan kakaknya dan nyengir lebar.
+"Kak Rian pinter banget nyembunyiin Mbak Ayu! Kenalin, Mbak, aku Indah. Tadi aku lihat dari jauh waktu Mbak Ayu ngobrol sama Tante Henny, keren banget bisa bikin Tante Henny langsung mingkem!" Gadis muda berusia sekitar dua puluh satu tahun itu menyubit pelan lengan kakaknya dan tersenyum lebar.
 
 Aku tersenyum sopan dan menundukkan badan, menyalami Ibu Hartini dan Indah, sebelum akhirnya membungkuk hormat meraih tangan keriput Oma Ratna. Wanita sepuh berusia tujuh puluhan tahun itu begitu anggun dengan sanggul perak rapi dan selendang sutra di bahunya.
 
@@ -236,7 +244,7 @@ Oma Ratna tidak langsung melepas tanganku. Beliau menatap mataku lama dengan sor
 
 "Tangan kamu hangat, Nak Ayu. Cara kamu berdiri dan nyapa orang tua juga sopan, nggak dibuat-buat," kata Oma Ratna dengan suara lembut. "Sudah lama Oma berdoa supaya Rian bawa perempuan yang pembawaannya tenang kayak kamu, bukan yang cuma ribut urusan pesta sama belanjaan."
 
-Jujur, aku langsung mati kutu. Di kepalaku tadinya keluarga orang kaya bakal sombong semua kayak Tante Henny. Kenyataannya, pujian tulus dari seorang nenek yang mengingatkanku pada almarhum Bapak di rumah ini justru menghantam pertahananku lebih keras daripada omelan siapa pun.
+Jujur, aku langsung mati kutu. Di kepalaku tadinya keluarga orang kaya bakal sombong semua seperti Tante Henny. Kenyataannya, kehangatan tulus dari seorang nenek yang mengingatkanku pada almarhum Bapak di rumah ini justru menyentuh hatiku.
 
 Sebelum aku sempat menjawab, Oma Ratna melepas sebuah gelang emas berukir motif daun klasik dari pergelangan tangannya sendiri. Tanpa kuduga, beliau meraih tangan kananku dan mengaitkan pengunci gelang pusaka itu di pergelangan tanganku.
 
@@ -244,7 +252,7 @@ Sebelum aku sempat menjawab, Oma Ratna melepas sebuah gelang emas berukir motif 
 
 "Jangan ditolak, Nak. Ini tanda sayang dari Oma buat calon cucu mantu yang sudah menangkap bunga sore ini," potong Oma Ratna haru. Ibu Hartini di samping beliau ikut mengangguk setuju sambil mengusap bahuku. "Minggu depan kamu harus mampir minum teh sore di rumah Oma di Kebayoran Baru, ya. Jangan sampai nggak datang."
 
-Aku hanya sanggup mengangguk kaku. Lingkaran emas dingin di pergelangan tanganku ini beratnya minta ampun, soalnya ada beban rasa bersalah yang ikut mengikat di sana. Membohongi tante julid seperti Tante Henny sih gampang, tapi membohongi mata jernih Oma Ratna dan senyum tulus Ibu Hartini beneran bikin ulu hatiku perih.
+Aku hanya sanggup mengangguk kaku. Lingkaran emas dingin di pergelangan tanganku ini terasa begitu berat karena ada beban rasa bersalah yang ikut mengikat di sana. Membohongi tante julid seperti Tante Henny sih gampang, tapi membohongi mata jernih Oma Ratna dan senyum tulus Ibu Hartini beneran bikin ulu hatiku perih.
 
 Lima belas menit kemudian, ketika acara makan malam resmi dimulai dan perhatian tamu kembali ke panggung pengantin, Rian akhirnya meminta izin kepada keluarganya untuk mengantarku pulang lebih dulu dengan alasan aku masih harus mengawasi pengiriman gudang malam ini.
 
@@ -274,11 +282,15 @@ Aku menoleh cepat, keningku berkerut. "Maksud Mas nggak sesederhana itu gimana? 
 
 Rian membelokkan mobilnya masuk kembali ke area basement Menara Astra. Dia menghentikan SUV-nya di dekat pos tempat motorku dititipkan pada Pak Darto, lalu memindahkan tuas transmisi ke posisi parkir dan memutar badannya menghadapku.
 
-"Gelang daun itu peninggalan mendiang Kakek buat Oma Ratna," jelas Rian tenang. "Selama dua puluh tujuh tahun aku hidup, Oma belum pernah sekalipun ngasih gelang itu ke perempuan mana pun, termasuk waktu aku masih pacaran sama Vina dulu. Di mata keluarga besarku, kalau Oma udah masangin gelang itu ke tangan kamu di depan orang banyak, artinya Oma udah ngasih restu penuh."
+"Gelang daun itu peninggalan mendiang Kakek buat Oma Ratna," jelas Rian pelan. "Oma belum pernah ngasih gelang itu ke perempuan mana pun, termasuk waktu aku masih pacaran sama Vina."
+
+Rian menatap gelang di konsol lekat-lekat. "Di mata keluarga besarku, kalau Oma udah masangin gelang itu ke tangan kamu di depan orang banyak, artinya Oma udah ngasih restu penuh."
 
 "Ya terus? Tinggal Mas Rian bilang aja ke Oma kalau ternyata kita nggak cocok terus putus minggu depan," sahutku mencoba mencari jalan keluar paling praktis.
 
-"Nggak bisa secepat itu," sela Rian, kepalanya menggeleng tegas. "Oma Ratna punya riwayat darah tinggi sama pembengkakan jantung. Tante Henny dan Vina tadi jelas-jelas ngawasin kita dari meja VIP. Kalau minggu depan kamu mendadak hilang pas Oma ngundang minum teh di Kebayoran Baru, Tante Henny bakal langsung curiga kalau aku cuma nyewa orang buat nipu Oma. Kalau Oma sampai tahu beliau dibohongi malam ini, tensinya bisa langsung naik drastis."
+"Nggak bisa secepat itu," sela Rian, kepalanya menggeleng tegas. "Oma punya riwayat darah tinggi sama jantung. Tante Henny dan Vina tadi jelas ngawasin kita dari meja VIP."
+
+Rian menatapku cemas. "Kalau kamu mendadak hilang pas Oma ngundang minum teh, Tante Henny bakal langsung curiga kalau aku cuma nyewa orang. Kalau Oma sampai tahu dibohongi, tensinya bisa langsung naik drastis."
 
 Aku terdiam, punggungku bersandar kaku ke jok kulit. Mendengar kata darah tinggi dan jantung disebut, jantungku langsung mencelos perih. Dua tahun lalu, almarhum Bapak juga kolaps dan berpulang gara-gara tensinya melonjak mendadak saat kaget. Bayangan wajah teduh Oma Ratna dan genggaman tangannya yang hangat tadi bikin aku ngeri membayangkan kalau beliau sampai mengalami hal yang sama.
 
@@ -286,17 +298,21 @@ Aku terdiam, punggungku bersandar kaku ke jok kulit. Mendengar kata darah tinggi
 
 Rian menarik napas panjang, lalu membetulkan posisi jam tangannya. "Aku mau minta bantuan kamu lagi pakai kontrak resmi, Yu. Tiga bulan aja. Cukup sampai rangkaian acara keluarga besar selesai dan kita bisa ngatur alasan pisah baik-baik secara wajar tanpa bikin Oma kaget."
 
-"Tiga bulan?" Aku mendengus pendek. "Mas, aku ini tulang punggung rumah. Aku nggak punya waktu luang buat ikut drama orang kaya selama tiga bulan."
+"Tiga bulan?" Aku mendengus pendek. "Mas, aku ini tulang punggung rumah. Aku nggak punya waktu luang buat ikut drama orang kaya berbulan-bulan begini."
 
-"Aku bayar lima belas juta sebulan," ucap Rian lugas. "Total empat puluh lima juta buat tiga bulan. Setengah dari bulan pertama langsung aku transfer Senin siang pas kita tanda tangan surat kesepakatan, sisanya jalan tiap awal bulan. Kamu cuma perlu datang di tiga atau empat acara keluarga dan sesekali mampir ke kantor biar Tante Henny sama Vina nggak curiga."
+"Aku bayar lima belas juta sebulan," ucap Rian lugas. "Total empat puluh lima juta untuk seluruh acara. Setengah dari bulan pertama langsung kutransfer Senin siang pas kita tanda tangan surat kesepakatan."
+
+Rian menambahkan dengan nada meyakinkan, "Sisanya jalan tiap awal bulan. Kamu cuma perlu datang di tiga atau empat acara keluarga dan sesekali mampir ke kantor biar mereka nggak curiga."
 
 Angka empat puluh lima juta rupiah itu langsung berdengung di telingaku.
 
 Otak dagangku otomatis menghitung cepat di kepala. Sisa pokok utang biaya rumah sakit almarhum Bapak ke rentenir dan koperasi masih tiga puluh delapan juta rupiah. Kalau ditambah tujuh juta sisanya, Ibu akhirnya bisa ganti atap seng dapur kue kami yang bocor tiap hujan deras dan beli kukusan aluminium besar baru tanpa harus gali lubang tutup lubang lagi. Kalau cuma mengandalkan tarikan ojol sepuluh jam sehari, butuh waktu hampir dua tahun buat ngumpulin uang segitu.
 
-"Kalau aku terima," kataku pelan tapi tegas, "keluargaku nggak boleh sampai diganggu. Terus, kalau aku harus sesekali mampir ke kantor Mas Rian, kita butuh alasan kerja yang masuk akal. Waktu aku bilang ke Tante Henny tadi kalau aku lulusan Manajemen Bisnis dan ngurus usaha kuliner keluarga, itu beneran, Mas, bukan karangan. Ibuku memang jualan kue basah rumahan di Tebet. Jadi Senin siang aku datang ke kantor Mas bawa sampel kue Ibu buat alasan daftar vendor konsumsi rapat."
+"Kalau aku terima," kataku pelan tapi tegas, "keluargaku nggak boleh sampai diganggu. Terus, kalau aku harus sesekali mampir ke kantor Mas Rian, kita butuh alasan kerja yang masuk akal."
 
-Rian tertegun sejenak mendengar pengakuanku, lalu mengangguk mantap dan mengulurkan tangan kanannya. "Ide bagus. Senin siang bawa sampel sama daftar harga kue Ibu kamu buat arsip vendor, sekalian fotokopi KTP buat lampiran surat kesepakatan kita. Selama tiga bulan ini, gelang Oma tetap kamu pegang dulu."
+Aku menatap matanya tanpa ragu. "Waktu aku bilang ke Tante Henny tadi kalau aku ngurus usaha kuliner keluarga, itu beneran, bukan karangan. Ibuku memang jualan kue basah di Tebet. Jadi Senin siang aku datang bawa sampel kue Ibu buat daftar vendor rapat."
+
+Rian tertegun sejenak mendengar pengakuanku, lalu mengangguk mantap dan mengulurkan tangan kanannya. "Ide bagus. Senin siang bawa sampel sama daftar harga kue Ibu kamu buat arsip vendor, sekalian fotokopi KTP. Sampai urusan ini beres, gelang Oma tetap kamu pegang dulu."
 
 Aku menatap uluran tangan Rian di depanku, lalu melirik kilau gelang emas di atas konsol mobil. Demi melunasi sisa utang Bapak dan menyelamatkan dapur Ibu, aku akhirnya menjabat tangannya erat-erat.
 
@@ -324,7 +340,9 @@ Uap harum santan pandan dan daun pisang kukus memenuhi dapur sempit kontrakan ka
 
 Ibu mengelap tangannya yang berlumur tepung ke celemek kain, lalu menatap amplop itu dengan kening berkerut cemas. "Lho, kok tumben banyak banget, Nduk? Kemarin kamu narik ojol sampai jam berapa? Jangan diforsir badanmu, Ayu, Ibu nggak tega lihat kamu pulang malam terus."
 
-Aku tersenyum menenangkan dan meraih termos teh hangat. "Aku nggak lembur di jalan kok, Bu. Kemarin pas nganter pesanan makan siang ke gedung kantor di Sudirman, aku ketemu kepala divisi operasional yang kebetulan lagi butuh asisten lepas buat merapikan manajemen logistik katering dan acara mereka selama tiga bulan ke depan. Karena aku lulusan Manajemen Bisnis, aku ditawari kontrak proyek lepas."
+Aku tersenyum menenangkan dan meraih termos teh hangat. "Aku nggak lembur di jalan kok, Bu. Kemarin pas nganter pesanan makan siang ke Sudirman, aku ketemu kepala divisi yang lagi butuh asisten lepas."
+
+Ibu mendengarkan dengan saksama saat kuteruskan, "Kebetulan divisinya butuh orang buat merapikan manajemen logistik dan acara kantor. Karena aku sarjana bisnis, aku langsung ditawari kontrak proyek lepas."
 
 Separo kalimat itu memang fakta, separonya lagi terpaksa kupoles manis. Kalau Ibu sampai tahu anak tunggalnya disewa jadi pacar sandiwara buat menghalau tante-tante sosialita galak, bisa-bisa Ibu langsung menyuruhku memulangkan uang itu detik ini juga.
 
@@ -352,13 +370,13 @@ Di dalam ruang kerja sudut yang berdinding kaca lebar, Rian mendongak dari balik
 
 "Kenapa pakai masker, Yu? Kamu lagi flu?" tanya Rian seraya berdiri menyambutku.
 
-Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan Jumat lalu aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau di kantor aku pakai masker dengan alasan alergi debu kambuh, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
+Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan kemarin aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau aku pakai masker begini, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
 
-Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut kebawa di belakang kertas katalog. IPK 3,85, predikat cumlaude dari Fakultas Ekonomi dan Bisnis? Jadi waktu kamu ngomong ke Tante Henny di ballroom Jumat lalu itu beneran?"
+Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut terselip di belakang kertas katalog. IPK 3,85, predikat cumlaude? Jadi waktu kamu ngomong ke Tante Henny di ballroom kemarin itu beneran?"
 
 Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!
 
-"Aduh, maaf Mas, tadi di rumah aku buru-buru karena dipanggil Ibu dan pakai map bekas, makanya ikut kebawa," ucapku agak salah tingkah sambil menarik dan menyimpan kembali lembar ijazah itu ke dalam map. "Tapi soal jurusanku ya memang beneran, Mas. Memangnya muka aku kelihatan kayak tukang ngibul?"
+"Aduh, maaf Mas, tadi di rumah aku buru-buru karena dipanggil Ibu dan pakai map bekas, makanya ikut kebawa," ucapku agak salah tingkah sambil menarik dan menyimpan kembali lembar ijazah itu ke dalam map. "Tapi soal jurusanku ya memang beneran, Mas. Memangnya mukaku kelihatan tukang bohong?"
 
 Sudut bibir Rian melengkung membentuk senyum kagum. Dia membuka kotak kue basah buatan Ibu dan mencicipi sepotong kue lumpur kentang yang masih hangat.
 
@@ -404,7 +422,7 @@ Begitu motor Pak Harun melaju meninggalkan gang, Bang Bobi langsung bersiul panj
 
 "Makasih banyak ya, Bang Bobi. Nanti kalau adonan kue sore udah matang, aku anterin lemper hangat buat Abang sama teman-teman di depan," janjiku tulus.
 
-Setelah Bang Bobi kembali ke pangkalan, aku menoleh ke arah Ibu yang masih berdiri terpaku di dekat etalase, lalu mengeluarkan selembar formulir pemesanan berlogo perusahaan dari map plastikku. "Bu, tadi sampel kue lumpur sama lemper buatan Ibu dicicipi langsung sama Pak Rian di kantornya. Beliau suka banget. Hari Kamis besok, divisi kantornya resmi pesan tiga puluh kotak kue basah kita buat rapat evaluasi bulanan!"
+Setelah Bang Bobi kembali ke pangkalan, aku menoleh ke arah Ibu yang masih berdiri terpaku di dekat etalase, lalu mengeluarkan selembar formulir pemesanan berlogo perusahaan dari map plastikku. "Bu, tadi sampel kue lumpur sama lemper buatan Ibu dicicipi langsung sama Pak Rian di kantornya. Beliau suka banget. Hari Kamis nanti, divisi kantornya resmi pesan tiga puluh kotak kue basah kita buat rapat evaluasi bulanan!"
 
 Ibu menutup mulutnya dengan kedua tangan. Matanya langsung berkaca-kaca menatap kertas pesanan resmi itu. "Tiga puluh kotak buat gedung kantor sebesar itu, Nduk? Ya Allah, Ayu... kue buatan Ibu masuk kantor Sudirman?"
 
@@ -430,7 +448,7 @@ Rian mengangkat sebelah alisnya, terkesan. "Cepat juga kamu ngafalin catatan yan
 
 "Ngafalin catatan tiga lembar mah belum ada apa-apanya dibanding ngafalin rumus statistik pas kuliah, Bos. Sekarang giliran Mas Rian. Kalau Oma Ratna nanya di mana rumahku dan kenapa Bapak nggak pernah disebut, Mas jawab apa?" Tanganku memutar-mutar gelas kopi di atas tatakan kayu.
 
-Tatapan Rian langsung melunak. Nada bercandanya lenyap, digantikan suara rendah yang penuh hormat. "Aku bakal jawab jujur sesuai batas yang kamu izinkan, Yu. Kamu tinggal berdua sama Ibu kamu di daerah Tebet, almarhum Bapak udah berpulang dua tahun lalu, dan kamu ngerintis usaha kue tradisional keluarga dari nol. Nggak ada satu kata pun yang merendahkan keluarga kamu."
+Tatapan Rian langsung melunak. Nada bercandanya lenyap, digantikan suara rendah yang penuh hormat. "Aku bakal jawab jujur sesuai batas yang kamu izinkan, Yu. Kamu tinggal berdua sama Ibu di Tebet, almarhum Bapak sudah berpulang, dan kamu merintis usaha kue tradisional dari nol. Nggak ada satu kata pun yang merendahkan keluarga kamu."
 
 Aku terdiam sejenak, menatap titik-titik embun di gelas kopiku. Di kepalaku tadinya orang selevel dia bakal menyuruhku mengarang cerita kalau Bapakku pengusaha daerah biar kelihatan keren. Kenyataannya, cara Rian menyebut nama Ibu dan almarhum Bapak dengan nada hormat begitu justru bikin pertahananku sedikit goyah.
 
@@ -448,13 +466,17 @@ Lima puluh detik kemudian, aku langsung ketemu biang keroknya.
 
 "Terus solusinya gimana kalau modal awalnya pas-pasan?" Rian menatap layar tablet, lalu beralih menatap mataku dengan kening berkerut.
 
-"Potong jalur tengkulaknya, Mas. Bahan kering kayak tepung, gula halus, sama kotak kemasan itu kan awet disimpan lama. Belanja tunai aja langsung ke grosir pasar induk tiap dua minggu sekali, ongkos bahannya langsung hemat enam belas persen. Terus buat roti yang belum laku di atas jam tujuh malam, jangan dibuang jadi barang rugi, tapi bikin paket hemat diskon tiga puluh persen khusus mahasiswa yang lagi begadang ngerjain tugas. Uang modal hariannya langsung muter balik malam itu juga." Tanganku bergerak cepat mencoret-coret kertas tisu makan pakai pulpen Rian.
+"Potong jalur tengkulaknya, Mas," saranku cepat. "Bahan kering kayak tepung, gula halus, sama kotak kemasan kan awet. Belanja tunai langsung ke grosir pasar induk, ongkos bahannya langsung hemat enam belas persen."
+
+Kugoreskan pulpen ke kertas tisu makan di mejaku. "Terus buat roti yang belum laku malam hari, bikin paket diskon khusus mahasiswa yang lagi begadang. Uang modal hariannya langsung muter balik malam itu juga."
 
 Aku menyerahkan kertas tisu penuh coretan hitungan itu ke hadapan Rian. Saat aku mendongak, aku baru sadar Rian sama sekali tidak sedang melihat kertas tisu itu.
 
 Dia sedang menatapku lekat-lekat tanpa berkedip.
 
-"Kalau aja staf analis di kantorku punya mata setajam kamu, Yu, aku nggak perlu pusing nolak berkas vendor iklan titipan kayak BuzzMedia Digital punya Reza Mahendra, sepupunya Vina ini. Coba kamu lihat format kode tagihan mereka di sudut atas ini, pakai kode INV/BMD-JKT dan akhiran VIP, tapi harga paket kampanyenya digelembungin hampir dua kali lipat." Rian memperlihatkan satu berkas penawaran vendor iklan di tabletnya yang baru saja dia tolak.
+"Kalau staf analis di kantorku seteliti kamu, Yu, aku nggak perlu pusing nolak vendor iklan titipan begini," gumam Rian sambil memperlihatkan layar tabletnya.
+
+Rian menunjuk sudut atas layar. "Coba lihat kode tagihannya, pakai kode INV/BMD-JKT dan akhiran VIP. Harga paket kampanyenya digelembungkan hampir dua kali lipat."
 
 Aku melirik sekilas kode tagihan berkepala INV/BMD-JKT dengan akhiran VIP di layar tablet Rian itu dan memperbaiki letak masker kainku. "Itu mah hitungan dasar pedagang kue pasar, Mas Rian. Kalau harga digelembungin nggak wajar gitu, dari kodenya aja udah kelihatan polanya."
 
@@ -580,7 +602,7 @@ Telingaku langsung panas mendengarnya menghina warung Ibu, tetapi aku menjaga ta
 
 "Standar kebersihan kami bisa dicek langsung kok, Mas," sahutku lugas namun sopan. "Semua kue lumpur, talam pandan, dan lemper ayam ini baru diangkat dari kukusan jam sembilan pagi tadi tanpa bahan pengawet, dikemas pakai kotak food grade bersegel, dan harganya empat puluh persen lebih hemat dibanding pastri hotel yang biasanya cuma dipanasin ulang dari stok beku kemarin."
 
-Dua manajer senior yang duduk di dekat meja langsung manggut-manggut setuju. Salah satu manajer perempuan bahkan membuka satu kotak sampel dan mencicipi kue lumpur kentang buatan Ibu. "Eh, tapi ini beneran enak banget lho, Damar. Masih hangat dan kentangnya terasa asli, nggak bikin enek kayak roti keju minggu lalu. Malah pas banget buat teman ngopi siang-siang begini."
+Dua manajer senior yang duduk di dekat meja langsung manggut-manggut setuju. Salah satu manajer perempuan bahkan membuka satu kotak sampel dan mencicipi kue lumpur kentang buatan Ibu. "Eh, tapi ini beneran enak banget lho, Damar. Masih hangat dan kentangnya terasa asli, nggak bikin enek kayak pesanan roti kemarin. Malah pas banget buat teman ngopi siang-siang begini."
 
 Damar tampak hendak menyanggah lagi, namun tepat pada detik itu pintu ruang rapat terbuka dan Rian melangkah masuk membawa map kerja.
 
@@ -588,7 +610,9 @@ Damar tampak hendak menyanggah lagi, namun tepat pada detik itu pintu ruang rapa
 
 Wajah Damar seketika berubah pucat. "Eh, Pak Rian... bukan masalah besar, Pak. Saya cuma lagi nanyain pergantian vendor konsumsi rapat hari ini."
 
-"Saya sendiri yang menginstruksikan pergantiannya," tegas Rian di depan seluruh manajer yang hadir. "Mulai bulan ini, saya memangkas anggaran konsumsi yang digelembungkan tanpa alasan jelas di bagian pengadaan kamu. Kue Basah Bu Sumi ini saya pilih karena kualitas bahannya segar dan rincian harganya transparan. Kalau kamu keberatan dengan efisiensi anggaran divisi saya, silakan jelaskan laporan selisih harga katering bulan lalu di meja saya sore ini."
+"Saya sendiri yang menginstruksikan pergantiannya," tegas Rian di hadapan seluruh manajer yang hadir. "Mulai bulan ini, saya memangkas anggaran konsumsi yang digelembungkan di bagian pengadaan kamu. Kue Basah Bu Sumi saya pilih karena kualitas bahannya segar dan rincian harganya transparan."
+
+Rian menatap Damar tajam. "Kalau kamu keberatan dengan efisiensi divisi saya, silakan jelaskan laporan selisih harga katering bulan lalu di meja saya sore ini."
 
 Damar langsung menelan ludah, mukanya pucat pasi sampai tak sanggup mengeluarkan satu huruf pun. "Si-siap, Pak Rian. Sudah sangat jelas, Pak."
 
@@ -614,7 +638,7 @@ Aku refleks menghentikan troli kueku di dekat partisi kaca samping meja sekretar
 
 Tanpa mengetuk pintu, Vina langsung mendorong pintu ruang kerja Rian hingga terbuka lebar. Dari posisi berdiriku yang hanya berjarak empat langkah dari ambang pintu yang menganga, suara melengking Vina terdengar jelas.
 
-"Rian! Lo sengaja ya mau mempermalukan gue sama keluarga gue di depan Oma Ratna?!" sembur Vina. Dia membanting tas kulit mahalnya ke atas meja tamu Rian. "Siapa cewek nggak jelas yang lo bawa ke Grand Hyatt minggu lalu?! Gue tanya ke semua lingkaran teman kuliah dan rekan bisnis kita, nggak ada satu pun yang kenal nama Ayu Anindya di bisnis distribusi pangan!"
+"Rian! Lo sengaja ya mau mempermalukan gue sama keluarga gue di depan Oma Ratna?!" sembur Vina. Dia membanting tas kulit mahalnya ke atas meja tamu Rian. "Siapa cewek nggak jelas yang lo bawa ke Grand Hyatt kemarin?! Gue tanya ke semua lingkaran teman kuliah dan rekan bisnis kita, nggak ada satu pun yang kenal nama Ayu Anindya!"
 
 Di dalam ruangan, Rian berdiri dari kursinya dengan wajah dingin. Dia membetulkan posisi jam tangannya, lalu berjalan mendekati pintu untuk meredam keributan.
 
@@ -628,13 +652,13 @@ Vina memutar tubuhnya dengan kasar dan melangkah keluar dari ruangan Rian. Saat 
 
 Aku hanya menunduk diam dan menepuk tas selempang di pinggangku, menahan sabar agar tidak membalas. Di kepalaku sih pengin banget rasanya kubalas satu kalimat biar dia kicep kayak Tante Henny. Masalahnya, kalau suaraku dikenali di sini, penyamaranku tamat detik ini juga. Namun, saat Vina berdiri menunggu lift eksekutif di ujung koridor yang sepi, dia langsung menempelkan ponsel ke telinganya. Karena koridor lantai dua puluh empat itu cukup lengang di jam rapat, suaranya yang melengking terdengar jelas sampai ke tempatku berdiri.
 
-"Halo, Bang Dion? Gue bayar dua kali lipat hari ini juga," desis Vina di telepon dengan nada penuh emosi. "Pakai kenalan orang dalam lo di bagian parkir gedung sama hotel. Cek semua data tap kartu parkir VIP punya Rian Pratama hari Jumat sore minggu lalu. Gue mau tahu cewek itu datang naik apa!"
+"Halo, Bang Dion? Gue bayar dua kali lipat hari ini juga," desis Vina di telepon dengan nada penuh emosi. "Pakai kenalan orang dalam lo di bagian parkir gedung sama hotel. Cek data kartu parkir VIP punya Rian Pratama waktu acara nikahan itu. Gue mau tahu cewek itu datang naik apa!"
 
 Pintu lift terbuka, dan Vina melangkah masuk dengan senyum sinis sebelum pintu lift itu tertutup rapat.
 
 Tanganku mendadak dingin sampai ke ujung jari. Aku buru-buru mendorong troli kue masuk ke dalam ruang kerja Rian dan menutup pintunya rapat-rapat.
 
-"Mas Rian! Di luar tadi Vina langsung nelepon orang suruhannya buat ngecek data kartu parkir VIP Mas Rian hari Jumat lalu!" panggilku setengah berbisik begitu pintu terkunci.
+"Mas Rian! Di luar tadi Vina langsung nelepon orang suruhannya buat ngecek data kartu parkir VIP waktu acara nikahan!" panggilku setengah berbisik begitu pintu terkunci.
 
 Raut wajah Rian seketika menegang. Belum sempat dia meraih ponselnya untuk menghubungi bagian pengelola gedung, telepon meja kerjanya lebih dulu berdering nyaring.
 
@@ -646,7 +670,7 @@ Aku berdiri kaku di depan meja Rian, memperhatikan perubahan raut muka Rian yang
 
 Rian meletakkan gagang telepon dengan gerakan berat, lalu menatapku lurus-lurus.
 
-"Keluarga Vina punya saham di pengelola parkir kawasan ini, Yu," kata Rian tegang. "Lima menit sebelum Vina naik ke lantai ini, orang suruhannya ternyata udah lebih dulu nanyain satpam parkiran hari Jumat lalu dan minta cetakan data palang keluar kartu VIP aku... termasuk nomor pelat motor kamu yang dicatat Pak Darto sore itu."
+"Keluarga Vina punya saham di pengelola parkir kawasan ini, Yu," kata Rian tegang. "Lima menit sebelum Vina naik ke sini, orang suruhannya ternyata udah lebih dulu nanyain satpam parkiran dan minta cetakan data palang keluar kartu VIP aku... termasuk nomor pelat motor kamu yang dicatat Pak Darto sore itu."
 
 Jujur, lututku langsung lemas mendengarnya. Kalau mereka sudah mengantongi nomor pelat B 4892 TBT milikku, melacak alamat rumahku di Tebet hanya tinggal hitungan hari.
 
@@ -656,7 +680,7 @@ Jujur, lututku langsung lemas mendengarnya. Kalau mereka sudah mengantongi nomor
 
 Sabtu sore pukul lima, kepulan uap kaldu dari panci besar gerobak Mi Ayam Pakde Slamet di dekat Lapangan Ros Tebet tampak berbaur dengan cahaya matahari senja. Aku duduk di bangku plastik biru di bawah tenda terpal sambil mengelap keningku yang berkeringat sehabis narik ojol sejak pagi.
 
-Sejak tahu orang suruhan Vina sudah mengantongi nomor pelat motorku dari data parkir gedung hari Kamis kemarin, jujur pikiranku nggak bisa tenang. Kemarin seharian aku bahkan sengaja membalas pesan Rian seperlunya saja karena takut kalau kami terlalu sering terlihat bersama, detektif bayaran Vina bakal makin cepat menemukan celah untuk menyeret Rian dan keluarganya ke dalam masalah.
+Sejak tahu orang suruhan Vina sudah mengantongi nomor pelat motorku dari data parkir gedung hari Kamis lalu, jujur pikiranku nggak bisa tenang. Kemarin seharian aku bahkan sengaja membalas pesan Rian seperlunya saja karena takut kalau kami terlalu sering terlihat bersama, detektif bayaran Vina bakal makin cepat menemukan celah untuk menyeret Rian dan keluarganya ke dalam masalah.
 
 Namun, bos muda itu rupanya paling tidak suka dihindari. Tiga puluh menit lalu, Rian tiba-tiba mengirim pesan bahwa dia sudah menunggu di dekat Stasiun Tebet memakai kaus kerah abu-abu santai dan celana jins, lalu memintaku mengajaknya makan sore di tempat langgananku.
 
@@ -674,7 +698,9 @@ Aku memperhatikannya makan dari samping, lalu tersenyum kecil. Di kepalaku dulu,
 
 Aku terdiam sejenak. Jari tanganku memutar-mutar gelas es teh tawar yang berembun di atas meja kayu. "Aku cuma nggak mau bikin posisi Mas Rian makin sulit di kantor maupun di keluarga. Keluarga Vina kan punya pengaruh bisnis di mana-mana, Mas. Kalau sampai ketahuan kalau aku aslinya cuma tukang ojol..."
 
-"Dengerin aku, Ayu," sela Rian tenang namun tegas. "Kamu nggak perlu pusing mikirin bisnis keluarga Vina. Waktu Papa aku meninggal empat tahun lalu, Tante Henny sama keluarga Pak Wijaya, ayahnya Vina, memang sengaja mau nyatuin saham lewat perjodohan kami. Masalahnya, waktu kami masih pacaran dulu, aku memergoki sendiri Vina merendahkan staf magang di kantorku dan cuma peduli sama status harta keluarga. Makanya aku putusin dia setahun lalu."
+"Dengerin aku, Ayu," sela Rian tenang namun tegas. "Kamu nggak perlu pusing mikirin bisnis keluarga Vina. Sejak Papa meninggal, Tante Henny sama keluarga Vina memang mau menyatukan saham lewat perjodohan kami."
+
+Rian menatap mangkuknya sesaat sebelum melanjutkan, "Masalahnya, waktu pacaran dulu, aku memergoki sendiri Vina merendahkan staf magang di kantorku dan cuma peduli harta. Makanya aku putusin dia."
 
 Aku menatap Rian dengan kening berkerut tipis. Baru kali ini Rian membuka cerita soal luka masa lalunya dan alasan kenapa dia begitu keras menolak perjodohan tantenya.
 
@@ -700,7 +726,7 @@ Aku mengangguk pelan, meraba gelang emas berukir daun di pergelangan tanganku, d
 
 Begitu kami menginjakkan kaki di teras belakang yang berbatasan langsung dengan kolam ikan koi, Indah langsung berlari kecil menyambutku dengan wajah berseri-seri.
 
-"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir hari Rabu lalu sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji katanya cara motong jalur distributornya masuk akal banget!"
+"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir kemarin sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji cara motong jalur distributornya!"
 
 "Syukurlah kalau kepakai, Indah. Kebetulan aku sudah biasa ngitung bahan baku kue tiap hari di rumah." Aku tersenyum di balik masker dan melirik Rian yang berdiri di samping kursi Oma dengan wajah bangga.
 
@@ -724,7 +750,9 @@ Rian berdehem pelan untuk menutupi salah tingkahnya, lalu mengambilkan kerupuk u
 
 Aku menahan senyum di balik masker dan memeluk gagang rantang hangat yang baru digeser Ibu Hartini ke dekatku. Perhatian tulus keluarga ini mengingatkan hatiku pada suasana meja makan kontrakan kami dulu waktu almarhum Bapak masih ada.
 
-"Jangan panggil Tante lagi ya, Ayu. Panggil Ibu saja, biar sama kayak Rian dan Indah. Rian sudah cerita kalau Bapak kamu sudah berpulang dua tahun lalu dan sekarang kamu yang bantu Ibu kamu di rumah. Ibu sama Oma selalu doain semoga almarhum Bapak kamu tenang di sana, dan Ibu kamu sehat terus." Ibu Hartini mengusap bahuku dengan lembut.
+"Jangan panggil Tante lagi ya, Ayu. Panggil Ibu saja, biar sama kayak Rian dan Indah," kata Ibu Hartini lembut sambil mengusap bahuku.
+
+Ibu Hartini tersenyum hangat. "Rian sudah cerita perjuangan kamu bantu Ibu di rumah. Ibu sama Oma selalu doain semoga almarhum Bapak kamu tenang di sana, dan Ibu kamu sehat terus."
 
 Tenggorokanku mendadak tercekat. Aku menatap wajah teduh Ibu Hartini dan senyum hangat Oma Ratna yang memandangku tanpa sedikit pun prasangka buruk.
 
@@ -806,13 +834,17 @@ Aku meletakkan kain lap bersih di sudut meja, lalu berdiri tegak menatapnya tanp
 
 Senyum sinis Vina langsung luntur. Di kepalanya mungkin aku bakal langsung nangis atau bersimpuh minta ampun begitu didatangi ke rumah. Kenyataannya, melihatku berdiri lempeng tanpa gemetar sedikit pun justru bikin mukanya makin kesal. Dengan gerakan kasar, dia mengambil amplop cokelat tebal dari tas kulitnya lalu melemparkannya ke atas kaca etalase hingga lembaran isinya berhamburan keluar.
 
-"Nggak usah sok pasang muka lempeng di depan gue!" hardik Vina tajam. "Lihat tuh foto-fotonya! Dari data kartu parkir VIP Rian di Menara Astra malam itu, orang suruhan gue lacak pelat motor butut lo sampai ke gang ini. Gue udah kantongin semuanya: profil akun driver ojol lo, foto KTP lo, sampai bukti kalau lo cuma tukang ojol merangkap bakul kue pasar yang nyamar pakai masker di kantor Rian!"
+"Nggak usah sok pasang muka lempeng di depan gue!" hardik Vina tajam. "Lihat tuh foto-fotonya! Dari data kartu parkir VIP Rian malam itu, orang suruhan gue lacak pelat motor butut lo sampai ke gang ini."
+
+Vina menunjuk lembaran foto di atas etalase. "Gue udah kantongin semuanya: profil ojol lo, foto KTP, sampai bukti kalau lo cuma tukang ojol merangkap bakul kue yang nyamar pakai masker di kantor Rian!"
 
 Aku melirik deretan foto cetakan mengilap di atas etalase. Ada fotoku saat mengenakan gaun biru dongker di panggung ballroom Grand Hyatt, yang disandingkan dengan foto hasil intaian kemarin saat aku baru turun dari motor matik B 4892 TBT milikku memakai jaket ojol dan helm kusam di depan teras rumah Tebet.
 
 "Terus kalau Mbak Vina udah pegang semua foto ini, Mbak mau apa?" tanyaku dengan nada rata. Kutepuk tas selempang di pinggangku sekali.
 
-Vina mencondongkan tubuhnya, mengetukkan kuku panjang merahnya ke atas meja kaca. "Gue kasih lo waktu sampai besok sore buat tanda tangan surat pengakuan kalau lo yang menipu Rian demi ngincer hartanya, habis itu lo angkat kaki selamanya dari hidup Rian dan keluarganya. Kalau sampai besok sore lo masih berani nongol di dekat Rian, semua foto ini bakal gue kirim langsung ke tangan Oma Ratna dan gue sebar ke grup keluarga besar!"
+Vina mencondongkan tubuhnya, mengetukkan kuku panjang merahnya ke meja kaca. "Gue kasih waktu sampai besok sore buat tanda tangan surat pengakuan. Lo ngaku udah nipu Rian, habis itu angkat kaki selamanya dari hidup keluarganya."
+
+Mata Vina berkilat dingin. "Kalau besok sore lo masih berani nongol di dekat Rian, semua foto ini bakal gue kirim langsung ke tangan Oma Ratna dan gue sebar ke grup keluarga besar!"
 
 "Mbak Vina tahu Oma Ratna punya riwayat penyakit jantung dan darah tinggi, kan? Kalau Mbak sengaja ngirim kabar mendadak kayak gitu cuma buat melampiaskan kekesalan Mbak, yang bahaya itu kesehatan Oma." Aku menatap tajam menembus matanya.
 
@@ -842,7 +874,9 @@ Aku menarik napas dalam-dalam, lalu merogoh tas selempangku. Aku mengeluarkan ko
 
 Rian menghentikan tangannya, menatap kotak beludru dan lembar bukti transfer itu dengan kening berkerut tajam. "Apa maksudnya ini, Ayu?"
 
-"Kesepakatan kita terpaksa harus kita sudahi malam ini, Mas Rian," ucapku lirih namun tegas. "Sisa uang muka yang belum kepakai udah aku transfer balik barusan, dan yang udah telanjur kepakai bayar utang Bapak bakal aku cicil sesuai surat ini. Kalau kita nekat lanjutin sandiwara ini, besok sore Vina beneran bakal ngirim foto-foto itu ke Oma Ratna. Bapakku dulu meninggal gara-gara tensinya melonjak mendadak, Mas. Aku nggak sanggup kalau Oma sampai kolaps gara-gara aku."
+"Kesepakatan kita terpaksa harus kita sudahi malam ini, Mas Rian," ucapku lirih namun tegas. "Sisa uang muka yang belum kepakai sudah aku transfer balik barusan, dan yang sudah terpakai bakal kucicil."
+
+Kutatap mata Rian sungguh-sungguh. "Kalau kita nekat lanjutin sandiwara ini, besok sore Vina beneran bakal ngirim foto itu ke Oma Ratna. Aku nggak sanggup kalau Oma sampai sakit gara-gara aku."
 
 Wajah Rian seketika berubah tegang. Tanpa menyentuh kotak gelang maupun bukti transfer itu, dia justru mendorong keduanya kembali ke arahku dengan gerakan tegas.
 
@@ -850,7 +884,9 @@ Wajah Rian seketika berubah tegang. Tanpa menyentuh kotak gelang maupun bukti tr
 
 "Bukan gitu maksud aku, Mas..." Aku menunduk menatap meja kayu.
 
-"Dengerin aku dulu, Yu," potong Rian dengan nada suara yang jauh lebih lembut namun tak terbantahkan. "Yang mulai ide nekat di lobi Menara Astra hari Jumat itu aku. Yang maksa kamu masuk ke ballroom Grand Hyatt sampai dapat gelang Oma itu juga aku. Kalau sekarang aku biarin kamu mundur terus dicap penipu sama Vina dan Tante Henny, aku nggak bakal pernah bisa maafin diriku sendiri."
+"Yang mulai ide nekat di lobi Menara Astra itu aku," sela Rian dengan nada lembut namun tak terbantahkan. "Yang mengajak kamu masuk ke ballroom Grand Hyatt sampai dapat gelang Oma juga aku."
+
+Rian menatapku lurus. "Kalau sekarang aku biarin kamu mundur terus dicap penipu sama Vina dan Tante Henny, aku nggak bakal pernah bisa memaafkan diriku sendiri."
 
 Aku menatap pria di seberangku ini. Di balik setelan jas mahalnya, Rian benar-benar bertanggung jawab atas setiap ucapannya.
 
@@ -884,7 +920,9 @@ Tante Henny langsung menegakkan punggungnya, melirikku dari ujung kepala sampai 
 
 Di bawah meja, jemari Rian meremas pelan tanganku sebentar sebelum dia berdiri tegak menghadapi Oma Ratna dan Ibu Hartini.
 
-"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt Jumat minggu lalu, Rian sebenarnya belum punya pacar. Karena Rian tertekan diancam mau dijodohkan paksa sama Vina di depan Oma, Rian nekat menyewa Ayu tiga puluh menit sebelum acara buat pura-pura jadi pasangan Rian."
+"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt kemarin, Rian sebenarnya belum punya pasangan."
+
+Rian menatap Oma Ratna sungguh-sungguh. "Karena tertekan mau dijodohkan paksa sama Vina, Rian nekat menyewa Ayu sebelum acara buat pura-pura jadi pasangan Rian."
 
 Ibu Hartini menutup mulutnya kaget, sementara Indah membelalak tak percaya. Di sudut sofa, Tante Henny langsung bertepuk tangan satu kali dengan suara nyaring.
 
@@ -894,9 +932,13 @@ Aku menarik napas panjang, lalu berdiri di samping Rian. Dengan gerakan tenang, 
 
 Tanpa selembar kain pun yang menutupi wajahku lagi, aku melangkah maju setengah tapak, lalu meletakkan kotak beludru berisi gelang emas pusaka Oma Ratna di atas meja kaca, berdampingan dengan kartu identitas mitra ojolku dan map berisi salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude yang kubawa di dalam tas jinjingku.
 
-"Nama lengkap saya Ayu Anindya, Oma, Ibu," ucapku tenang, menundukkan kepala penuh hormat. "Hari Minggu lalu waktu saya datang ke sini pakai masker, sebenarnya saya nggak lagi sakit flu, Oma. Saya pakai masker ke mana-mana gara-gara saya takut ada kenalan keluarga atau staf kantor Mas Rian yang mengenali kalau saya ini tukang ojol yang biasa mangkal di depan gedung kantor. Dua tahun lalu, setelah lulus kuliah dengan IPK 3,85, Bapak saya meninggal dunia dan meninggalkan utang biaya rumah sakit yang cukup besar. Buat melunasi utang Bapak dan bantu Ibu saya jualan kue basah di Tebet, saya memang kerja narik ojol setiap hari."
+"Nama lengkap saya Ayu Anindya, Oma, Ibu," ucapku tenang, menundukkan kepala penuh hormat. "Waktu datang ke sini pakai masker, sebenarnya saya nggak lagi sakit flu, Oma. Saya pakai masker karena takut ada yang mengenali saya sebagai tukang ojol."
 
-Aku menatap mata teduh Oma Ratna lurus-lurus tanpa menghindar. "Saya minta maaf sebesar-besarnya karena udah lancang pakai masker dan ikut berbohong di depan Oma sama Ibu. Gelang pusaka Oma saya kembalikan utuh hari ini. Waktu Minggu lalu Ibu sama Oma ikut mendoakan almarhum Bapak di meja makan, jujur dada saya sesak banget, Oma. Oma dan Ibu terlalu baik buat terus-terusan saya bohongi."
+Kutatap mata Oma Ratna tanpa menghindar. "Setelah lulus kuliah, Bapak saya meninggal dan meninggalkan utang biaya rumah sakit. Demi melunasi utang almarhum dan bantu Ibu jualan kue di Tebet, saya kerja narik ojol setiap hari."
+
+"Saya minta maaf sebesar-besarnya karena sudah berbohong di depan Oma dan Ibu," lanjutku dengan suara bergetar. "Gelang pusaka Oma saya kembalikan utuh hari ini."
+
+Air mataku mulai menggenang di pelupuk mata. "Waktu Ibu sama Oma ikut mendoakan almarhum Bapak di meja makan, dada saya sesak sekali. Oma dan Ibu terlalu baik buat terus-terusan saya bohongi."
 
 "Halah, alasan klasik orang butuh duit! Udah ketahuan belangnya baru pura-pura ngaku polos! Berani-beraninya tukang ojol..." Tante Henny langsung berdiri dari sofa dan menunjuk wajahku dengan sinis.
 
@@ -924,7 +966,7 @@ Namun, tepat saat aku mengembuskan napas lega di pelukan Ibu Hartini, wajah Inda
 
 ## **Bab 20: Badai Malam di Gang Tebet**
 
-Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa seperti merangkak di atas bara api. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
+Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa begitu lambat dan menegangkan. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
 
 "Matikan saja dulu ponsel kamu, Yu. Biar nomornya nggak diserbu bot terus," pinta Rian tegas sambil memutar kemudi membelok ke jalan raya Tebet. Tangannya sempat meraih jemariku yang gemetar dan menggenggamnya erat. "Pak Darmawan sama tim IT kantor udah aku hubungi barusan. Malam ini mereka langsung mulai nyari jejak digital siapa yang nyebar video itu."
 
@@ -938,7 +980,9 @@ Begitu melihatku turun dari mobil diikuti oleh Rian, Bang Bobi langsung bergegas
 
 "Bang Bobi! Ibu di dalam aman, kan?" tanyaku setengah berlari mendekatinya.
 
-"Tenang, Yu. Ibu lu aman di dalam rumah ditemenin Bu RT," jawab Bang Bobi mantap. "Begitu video fitnah sampah itu lewat di grup anak-anak ojol sore tadi, gue langsung panggil temen-temen pangkalan buat nutup mulut gang. Tadi sempat ada dua bocah tengil bawa kamera HP mau nyelonong bikin konten di depan warung kue Ibu lu, langsung kami usir balik."
+"Tenang, Yu. Ibu lu aman di dalam rumah ditemenin Bu RT," jawab Bang Bobi mantap. "Begitu video fitnah itu lewat di grup ojol sore tadi, gue langsung panggil temen-temen buat nutup mulut gang."
+
+Bang Bobi menambahkan geram, "Tadi sempat ada dua bocah tengil bawa kamera mau bikin konten di depan warung kue Ibu lu, langsung kami usir balik."
 
 Jujur, dadaku langsung hangat bukan main mendengar ucapan itu. Di kepalaku tadi sepanjang jalan, rumah kontrakanku sudah dikerubungi orang-orang jahat yang meneriaki Ibu. Kenyataannya, solidaritas teman-teman jalanan yang setiap hari berpanas-panasan bersamaku justru menjadi benteng pertama yang melindungi keluargaku.
 
@@ -994,7 +1038,7 @@ Aku mencondongkan tubuh ke depan meja, menyipitkan mata memperhatikan sudut kana
 
 Gerakan tanganku yang sedang memutar cangkir kopi langsung berhenti mendadak. Ingatanku seketika melompat pada berkas penawaran vendor iklan milik sepupu Vina yang pernah ditunjukkan Rian di tabletnya waktu kami mengobrol di kafe Senopati minggu lalu.
 
-"Tunggu sebentar, Mas," potongku cepat dan menunjuk deretan huruf di sudut gambar itu. "Kode tagihan INV/BMD-JKT pakai akhiran VIP ini... bukannya persis sama berkas vendor iklan punya sepupu Vina yang Mas Rian tolak minggu lalu?!"
+"Tunggu sebentar, Mas," potongku cepat dan menunjuk deretan huruf di sudut gambar itu. "Kode tagihan INV/BMD-JKT pakai akhiran VIP ini... bukannya persis sama berkas vendor iklan punya sepupu Vina yang Mas Rian tolak waktu itu?!"
 
 Rian langsung menoleh ke arahku, matanya menyala tajam. "Bener! BuzzMedia Digital punya Reza Mahendra!"
 
@@ -1014,9 +1058,11 @@ Namun, senyum di wajah Reza langsung luntur. Tak ada satu pun orang di ruangan i
 
 "Kami tidak memanggil Anda untuk kontrak iklan, Saudara Reza, melainkan untuk konfirmasi barang bukti pidana pencemaran nama baik dan perusakan usaha UMKM," ucap Pak Darmawan dingin.
 
-Wajah Reza seketika memucat seperti kertas. Keringat dingin langsung muncul di pelipisnya saat matanya membaca kode tagihan di sudut tangkapan layar tersebut. "I-ini maksudnya apa ya, Pak? Bang Rian, gue nggak ngerti..."
+Wajah Reza seketika memucat pasi. Keringat dingin langsung muncul di pelipisnya saat matanya membaca kode tagihan di sudut tangkapan layar tersebut. "I-ini maksudnya apa ya, Pak? Bang Rian, gue nggak ngerti..."
 
-"Nggak usah pura-pura bodoh di depan aku, Za," potong Rian tajam, menatapnya lurus tanpa berkedip. "Kode tagihan di tangkapan layar instruksi buzzer yang nyerang Ayu dan usaha kue ibunya kemarin sore itu persis sama dengan format penawaran resmi BuzzMedia Digital yang kamu masukin ke divisiku minggu lalu. Kalau dalam lima menit kamu nggak jujur siapa yang pesan dan bayar paket serangan itu, detik ini juga perusahaan kamu masuk daftar hitam seluruh grup bisnis kami dan nama kamu langsung terdaftar sebagai tersangka utama di kepolisian."
+"Nggak usah pura-pura bodoh di depan aku, Za," potong Rian tajam, menatapnya lurus tanpa berkedip. "Kode tagihan di tangkapan layar instruksi buzzer yang nyerang Ayu dan usaha ibunya persis sama dengan format penawaran BuzzMedia Digital yang kamu ajukan."
+
+Rian menatapnya dingin. "Kalau dalam lima menit kamu nggak jujur siapa yang pesan dan bayar serangan itu, detik ini juga perusahaan kamu masuk daftar hitam dan nama kamu langsung terdaftar sebagai tersangka utama di kepolisian."
 
 Aku menatap Reza yang tangannya mulai gemetar hebat di atas meja. "Pilihannya cuma dua, Mas Reza. Mau pasang badan masuk penjara sendirian buat nutupin ulah sepupu Mas, atau serahkan bukti pemesan aslinya sekarang sebagai saksi yang bekerja sama?"
 
@@ -1054,7 +1100,9 @@ Aku menarik napas tenang dan menepuk tas selempang kecilku sebelum melangkah ke 
 
 Aku menekan tombol pointer di tanganku. Layar LED raksasa di belakang panggung langsung menampilkan foto salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude milikku berdampingan dengan foto spanduk sederhana Kue Basah Bu Sumi.
 
-"Dua tahun lalu ayah saya meninggal dunia gara-gara lonjakan darah tinggi yang memicu serangan jantung dan meninggalkan tanggungan utang biaya rumah sakit," lanjutku tanpa suara bergetar. "Buat saya dan ibu saya, pakai jaket ojol di jalanan Jakarta atau bangun jam tiga subuh buat ngukus kue demi melunasi utang secara halal itu sama sekali bukan aib. Yang memalukan itu justru kalau punya banyak uang tapi dipakai buat memfitnah dan mematikan usaha kecil orang lain."
+"Ayah saya meninggal dunia gara-gara serangan jantung dan meninggalkan tanggungan utang rumah sakit," lanjutku tanpa suara bergetar.
+
+Kutatapi kamera wartawan di hadapanku dengan tegak. "Buat saya dan Ibu, pakai jaket ojol di jalanan atau bangun jam tiga subuh demi melunasi utang secara halal itu bukan aib. Yang memalukan justru punya uang banyak tapi dipakai buat memfitnah usaha kecil orang lain."
 
 Di bagian belakang ruangan, Vina mendengus keras dan melangkah maju setengah tapak dengan tangan terlipat di dada.
 
@@ -1102,11 +1150,13 @@ Aku tersenyum melihat keakraban mereka, lalu membukakan pintu pagar kayu teras r
 
 "Waalaikumsalam, Nak Rian. Ayo masuk, duduk di dalam," sambut Ibu hangat.
 
-Di ruang tamu sempit kami yang hanya beralas karpet bersih dan empat kursi kayu rotan, Rian duduk dengan sikap yang sangat santun. Di kepalaku dulu, kalau Rian sampai masuk ke rumah kontrakan yang atap dapurnya masih seng sederhana ini, bakal ada rasa canggung yang menghimpit. Kenyataannya, Rian justru mengobrol begitu luwes dengan Ibu, mulai dari menanyakan kabar kesehatan Ibu hingga mendengarkan cerita Ibu soal almarhum Bapak waktu pertama kali membuatkan gerobak etalase kue di depan.
+Di ruang tamu sempit kami yang hanya beralas karpet bersih dan empat kursi kayu rotan, Rian duduk dengan sikap yang sangat santun. Di kepalaku dulu, kalau Rian sampai masuk ke rumah kontrakan yang atap dapurnya masih seng sederhana ini, kami pasti bakal canggung. Kenyataannya, Rian justru mengobrol begitu luwes dengan Ibu, mulai dari menanyakan kabar kesehatan Ibu hingga mendengarkan cerita Ibu soal almarhum Bapak waktu pertama kali membuatkan gerobak etalase kue di depan.
 
-"Bu, kedatangan saya sore ini secara resmi mau meminta maaf karena kesepakatan awal saya dan Ayu sempat membuat keluarga Ibu terkena imbas fitnah dua hari lalu," ucap Rian jujur seraya menatap Ibu dengan sorot mata tulus. "Sekaligus saya mau berterima kasih karena Ibu sudah membesarkan perempuan sehebat dan sejujur Ayu."
+"Bu, kedatangan saya sore ini mau meminta maaf karena kesepakatan awal saya dan Ayu sempat membuat keluarga Ibu terkena imbas fitnah kemarin," ucap Rian jujur seraya menatap Ibu dengan tulus. "Sekaligus saya mau berterima kasih karena Ibu sudah membesarkan perempuan sehebat dan sejujur Ayu."
 
-Mata Ibu berkaca-kaca lembut. Beliau menepuk pelan lengan Rian. "Ibu sudah dengar semuanya dari Ayu Selasa malam, Nak Rian. Ibu juga nonton di berita waktu Nak Rian membela Ayu dan usaha kue Ibu di depan banyak orang. Buat Ibu, yang penting sekarang semuanya sudah jujur dan terang. Ini, dicicipi dulu kue talam pandan yang baru Ibu angkat dari kukusan dapur khusus buat Nak Rian."
+Mata Ibu berkaca-kaca lembut. Beliau menepuk pelan lengan Rian. "Ibu sudah dengar semuanya dari Ayu, Nak Rian. Ibu juga nonton waktu Nak Rian membela Ayu dan usaha kue Ibu di berita."
+
+Ibu tersenyum seraya menyodorkan piring saji. "Buat Ibu, yang penting sekarang semuanya sudah jujur dan terang. Ini, dicicipi dulu kue talam pandan yang baru Ibu angkat dari kukusan dapur khusus buat Nak Rian."
 
 Rian menerima piring kecil itu dengan kedua tangan dan memakannya sampai habis dengan wajah berseri-seri. Bahkan ketika Ibu bercerita bahwa mulai minggu depan ada tiga ibu pejabat kelurahan yang memesan kue basah untuk acara pengajian bulanan, Rian ikut mendengarkan dengan antusias dan menawarkan bantuan menyusun kartu pesanan baru untuk warung Ibu. Jujur, melihat dua orang yang paling kuhormati dan kusayangi bisa duduk tertawa bersama di ruang tamu kecil ini bikin dadaku penuh oleh rasa syukur yang sulit dilukiskan dengan kata-kata.
 
@@ -1134,7 +1184,9 @@ Di sebelahku, Rian duduk santai tanpa setelan jas resminya. Lengan kemeja putihn
 
 Aku menepuk tas selempang di pangkuanku, lalu mengeluarkan selembar struk bukti transfer balik sebesar dua setengah juta rupiah beserta catatan cicilan untuk lima juta sisanya yang sempat terpakai membayar utang Bapak, lalu meletakkannya di atas bangku di antara kami.
 
-"Ini bukti transfer sama jadwal cicilanku yang Senin malam sempat Mas tolak di Cikini," ucapku tenang. "Soalnya hari Selasa lalu kita udah jujur ke Oma Ratna dan urusan pacar sewaan kita resmi selesai sebelum sebulan, jadi aku nggak berhak nyimpan uang kontrak itu. Sisa utang almarhum Bapak biar aku cicil pelan-pelan dari pesanan kue Ibu yang sekarang udah mulai ramai sama hasil narik aku sendiri."
+"Ini bukti transfer sama jadwal cicilanku yang sempat Mas tolak di Cikini," ucapku tenang.
+
+Aku menatap Rian sungguh-sungguh. "Kita kan udah jujur ke Oma Ratna dan urusan sandiwara ini resmi selesai, jadi aku nggak berhak nyimpan uang kontrak itu. Sisa utang almarhum Bapak biar kucicil pelan-pelan dari pesanan kue Ibu."
 
 Rian menatap lembar struk itu sejenak, lalu merogoh tas kerja kulit di kakinya. Bukannya mengambil struk dariku, dia malah mengeluarkan map berisi dua rangkap surat kontrak bermeterai yang kami tanda tangani di ruang kerjanya hari Senin minggu lalu.
 
@@ -1148,9 +1200,11 @@ Jantungku mendadak berdegup kencang, hangatnya merambat sampai ke telinga. "Maks
 
 Perlahan, tangan Rian bergerak meraih jemariku di atas bangku kayu, menggenggamnya dengan hangat dan hati-hati.
 
-"Aku sayang sama kamu, Ayu Anindya. Aku jatuh cinta beneran sama kamu," ungkap Rian mantap tanpa sedikit pun keraguan. "Bukan jatuh cinta sama cewek bergaun biru dongker di pesta Grand Hyatt, tapi sama sarjana berjaket hijau yang berani mendebat stafku demi menjaga harga diri kerjaannya. Cewek yang tiap subuh bangun ngitung adonan kue ibunya, yang rela pasang badan demi kesehatan Oma, dan yang nggak pernah silau sama uangku."
+"Aku sayang sama kamu, Ayu Anindya. Aku jatuh cinta beneran sama kamu," ungkap Rian mantap tanpa keraguan. "Bukan sama cewek bergaun biru dongker di Grand Hyatt, tapi sama sarjana berjaket hijau yang mendebat stafku demi harga diri."
 
-Napasku tercekat. Semua perhatian kecilnya selama dua minggu ini, mulai dari payung yang dimiringkan saat hujan deras di Senopati, kertas tisu yang dia simpan di saku kemeja, hingga kemarahannya saat rumahku diteror Vina, berputar kembali di kepalaku seperti kepingan teka-teki yang akhirnya menyatu utuh.
+Rian menatapku dengan sorot mata penuh kasih. "Cewek yang tiap subuh bangun ngitung adonan kue ibunya, yang pasang badan demi kesehatan Oma, dan nggak pernah silau sama uangku."
+
+Napasku tercekat. Semua perhatian kecilnya selama dua minggu ini, mulai dari payung yang dimiringkan saat hujan deras di Senopati, kertas tisu yang dia simpan di saku kemeja, hingga kemarahannya saat rumahku diteror Vina, terbayang kembali di kepalaku dan terasa begitu nyata.
 
 "Oma Ratna bener soal satu hal," lanjut Rian dengan senyum lembut. "Kamu itu hal paling tulus yang pernah datang ke hidupku, Yu. Jadi... kamu mau kan mulai semuanya dari nol sama aku? Bukan sebagai bos Menara Astra dan driver ojol yang diikat kontrak, tapi sebagai dua orang yang beneran saling sayang?"
 

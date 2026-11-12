@@ -1,8 +1,10 @@
 ## **Bab 3: Transformasi Singkat di Butik**
 
-Perjalanan dari basement Menara Astra menuju Bundaran HI hanya memakan waktu kurang dari sepuluh menit, tapi rasanya seperti pindah planet. Di dalam kabin SUV hitam Rian yang sejuk dan wangi kayu cendana, aku duduk agak kaku di tepi jok kulit agar jaket ojolku yang lembap tidak menempel penuh ke sandaran kursi.
+Perjalanan dari basement Menara Astra menuju Bundaran HI hanya memakan waktu kurang dari sepuluh menit, tapi suasananya langsung berubah drastis. Di dalam kabin SUV hitam Rian yang sejuk dan wangi kayu cendana, aku duduk agak kaku di tepi jok kulit agar jaket ojolku yang lembap tidak menempel penuh ke sandaran kursi.
 
-Sepanjang jalan, jari-jari Rian mengetuk lingkar kemudi dan sesekali melirik spion tengah. "Nanti di dalam, panggil aku Mas Rian aja, jangan pakai 'saya' terus biar nggak kaku di depan keluarga. Kalau Tante Henny nanya kita kenal di mana, bilang aja ketemu waktu ngurus pesanan katering acara kantor tiga bulan lalu. Nggak usah ngarang cerita panjang-panjang, jawab santai aja."
+Sepanjang jalan, jari-jari Rian mengetuk lingkar kemudi. "Nanti di dalam, panggil aku Mas Rian aja, jangan pakai saya terus biar luwes."
+
+Rian melirik spion tengah sekilas. "Kalau Tante Henny nanya kita kenal di mana, bilang aja ketemu waktu ngurus katering kantor. Jawab santai aja, nggak usah ngarang panjang-panjang."
 
 "Siap, Mas Rian. Kalau soal urusan dapur sama anter makanan sih, aku udah di luar kepala," sahutku. Kubetulkan tali tas selempang di pangkuanku yang terasa agak miring.
 
@@ -26,11 +28,11 @@ Selesai mandi dan mengeringkan rambut sebahu dengan hairdryer, aku dibantu staf 
 
 Saat tirai beludru ruang ganti dibuka, suasana di ruang tunggu butik mendadak hening.
 
-Rian yang sedang berdiri melihat jam tangannya di dekat sofa kulit seketika terpaku. Tangannya berhenti bergerak. Tatapannya terkunci lurus ke arahku, mengerjap dua kali seperti masih belum percaya bahwa perempuan bergaun biru dongker dengan rambut hitam rapi di depannya adalah driver ojol yang dua puluh menit lalu berdebat soal nasi kotak di lobi kantornya.
+Rian yang sedang berdiri melihat jam tangannya di dekat sofa kulit seketika terpaku. Tangannya berhenti bergerak. Tatapannya terkunci lurus ke arahku, mengerjap dua kali, menatap perempuan bergaun biru dongker dengan rambut hitam rapi di depannya.
 
 Bahkan pramuniaga yang tadi menyindirku kini berdiri mematung memeluk baki di depan dada.
 
-"Gimana, Mas Rian? Udah cukup pantes jalan di sebelah bos besar, atau masih kelihatan kayak mau nganter paket?" tanyaku santai sambil merapikan lipatan rok di sisi paha.
+"Gimana, Mas Rian? Udah cukup pantas jalan di sebelah bos besar?" tanyaku santai sambil merapikan lipatan rok di sisi paha.
 
 Rian berdehem pelan, buru-buru mengalihkan pandangannya sesaat untuk menyembunyikan muka salah tingkahnya. "Lebih dari pantes. Kamu... kelihatan beda banget, Yu."
 

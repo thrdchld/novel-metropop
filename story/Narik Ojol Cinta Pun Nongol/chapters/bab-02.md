@@ -8,7 +8,9 @@ Aku langsung membalikkan badan dan melangkah cepat ke arah tangga parkiran basem
 
 "Terus apa urusannya sama saya, Mas Rian? Di gedung Astra gini kan banyak staf cewek yang cakep dan modis. Kenapa nggak ajak sekretaris Mas saja?" Aku menuruni tangga menuju parkiran motor dan meliriknya sekilas.
 
-"Nggak mungkin!" potong Rian cepat, jemarinya membetulkan letak jam tangan peraknya. "Kalau bawa orang kantor, besok pagi satu gedung bakal penuh gosip. Lagian Tante Henny punya incaran sore ini: dia mau maksa jodohin saya sama Vina, mantan pacar saya. Tante Henny sudah ngancam, kalau saya datang sendirian lagi, dia bakal ngumumin pertunangan saya sama Vina di meja keluarga di depan Oma."
+"Nggak mungkin!" potong Rian cepat, jemarinya membetulkan letak jam tangan peraknya. "Kalau bawa orang kantor, besok pagi satu gedung bakal penuh gosip. Lagian Tante Henny mau maksa jodohin saya sama Vina, mantan pacar saya."
+
+Rian menarik napas berat. "Tante Henny sudah ngancam, kalau saya datang sendirian lagi, dia bakal ngumumin pertunangan saya sama Vina di meja keluarga di depan Oma."
 
 Langkahku terhenti di samping motor matik tua berpelat B 4892 TBT milikku. Helm kuletakkan di atas jok yang kulitnya agak robek di ujung.
 
@@ -24,7 +26,9 @@ Penjelasan itu masuk akal dan bikin curigaku surut. Dia sudah memikirkan urusan 
 
 "Berapa lama acaranya, dan Mas Rian berani bayar berapa? Soalnya kalau saya matiin aplikasi ojol jam segini, saya kehilangan setoran harian," tanyaku langsung ke inti urusan.
 
-Mata Rian seketika berbinar lega. "Cuma dua jam! Kamu cukup berdiri tenang di samping saya pas salaman sama pengantin dan keluarga, habis itu kita balik ke sini. Saya bayar satu juta rupiah buat dua jam. Lima ratus ribu saya kasih tunai sekarang sebagai uang muka, sisanya yang lima ratus ribu lagi saya lunasi begitu acara selesai."
+Mata Rian seketika berbinar lega. "Cuma dua jam! Kamu cukup berdiri tenang di samping saya pas salaman sama pengantin dan keluarga, habis itu kita balik ke sini."
+
+Rian menatapku sungguh-sungguh. "Saya bayar satu juta rupiah buat dua jam. Lima ratus ribu saya kasih tunai sekarang sebagai uang muka, sisanya yang lima ratus ribu lagi saya lunasi begitu acara selesai."
 
 Satu juta rupiah untuk kerja dua jam, dengan lima ratus ribu tunai di tangan sekarang juga.
 
@@ -34,7 +38,9 @@ Otak dagangku berhitung cepat. Uang satu juta itu setara narik ojol lima hari ke
 
 "Sebutin. Saya ikutin semuanya."
 
-"Pertama, jangan pegang-pegang tanpa izin saya. Kedua, pas dua jam sejak masuk ballroom, tugas saya kelar dan Mas harus antar saya balik ke gedung ini. Ketiga, motor saya ini parkir di jalur kurir yang batasnya cuma dua puluh menit. Kalau ditinggal dua jam pasti digembok. Jadi Mas Rian harus urus titip motor saya ke satpam parkiran sini dan tanggung biayanya."
+"Pertama, jangan pegang-pegang tanpa izin saya. Kedua, pas dua jam sejak masuk ballroom, tugas saya kelar dan Mas harus antar saya balik ke gedung ini," beberku tanpa ragu.
+
+Aku menunjuk motorku di ujung jalur. "Ketiga, motor saya ini parkir di jalur kurir yang batasnya cuma dua puluh menit. Kalau ditinggal dua jam pasti digembok. Jadi Mas Rian harus urus titip motor saya ke satpam parkiran sini dan tanggung biayanya."
 
 Rian mendengus lega. Dia segera merogoh dompet kulitnya, menyerahkan lima lembar seratus ribuan untuk uang muka ke tanganku, lalu melambai memanggil kepala satpam basement yang sedang berpatroli di dekat jalur kurir.
 

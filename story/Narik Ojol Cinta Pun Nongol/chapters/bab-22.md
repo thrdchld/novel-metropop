@@ -20,7 +20,9 @@ Aku menarik napas tenang dan menepuk tas selempang kecilku sebelum melangkah ke 
 
 Aku menekan tombol pointer di tanganku. Layar LED raksasa di belakang panggung langsung menampilkan foto salinan ijazah sarjana Manajemen Bisnis berpredikat cumlaude milikku berdampingan dengan foto spanduk sederhana Kue Basah Bu Sumi.
 
-"Dua tahun lalu ayah saya meninggal dunia gara-gara lonjakan darah tinggi yang memicu serangan jantung dan meninggalkan tanggungan utang biaya rumah sakit," lanjutku tanpa suara bergetar. "Buat saya dan ibu saya, pakai jaket ojol di jalanan Jakarta atau bangun jam tiga subuh buat ngukus kue demi melunasi utang secara halal itu sama sekali bukan aib. Yang memalukan itu justru kalau punya banyak uang tapi dipakai buat memfitnah dan mematikan usaha kecil orang lain."
+"Ayah saya meninggal dunia gara-gara serangan jantung dan meninggalkan tanggungan utang rumah sakit," lanjutku tanpa suara bergetar.
+
+Kutatapi kamera wartawan di hadapanku dengan tegak. "Buat saya dan Ibu, pakai jaket ojol di jalanan atau bangun jam tiga subuh demi melunasi utang secara halal itu bukan aib. Yang memalukan justru punya uang banyak tapi dipakai buat memfitnah usaha kecil orang lain."
 
 Di bagian belakang ruangan, Vina mendengus keras dan melangkah maju setengah tapak dengan tangan terlipat di dada.
 

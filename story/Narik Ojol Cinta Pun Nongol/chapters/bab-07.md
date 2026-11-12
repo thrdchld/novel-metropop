@@ -6,7 +6,9 @@ Uap harum santan pandan dan daun pisang kukus memenuhi dapur sempit kontrakan ka
 
 Ibu mengelap tangannya yang berlumur tepung ke celemek kain, lalu menatap amplop itu dengan kening berkerut cemas. "Lho, kok tumben banyak banget, Nduk? Kemarin kamu narik ojol sampai jam berapa? Jangan diforsir badanmu, Ayu, Ibu nggak tega lihat kamu pulang malam terus."
 
-Aku tersenyum menenangkan dan meraih termos teh hangat. "Aku nggak lembur di jalan kok, Bu. Kemarin pas nganter pesanan makan siang ke gedung kantor di Sudirman, aku ketemu kepala divisi operasional yang kebetulan lagi butuh asisten lepas buat merapikan manajemen logistik katering dan acara mereka selama tiga bulan ke depan. Karena aku lulusan Manajemen Bisnis, aku ditawari kontrak proyek lepas."
+Aku tersenyum menenangkan dan meraih termos teh hangat. "Aku nggak lembur di jalan kok, Bu. Kemarin pas nganter pesanan makan siang ke Sudirman, aku ketemu kepala divisi yang lagi butuh asisten lepas."
+
+Ibu mendengarkan dengan saksama saat kuteruskan, "Kebetulan divisinya butuh orang buat merapikan manajemen logistik dan acara kantor. Karena aku sarjana bisnis, aku langsung ditawari kontrak proyek lepas."
 
 Separo kalimat itu memang fakta, separonya lagi terpaksa kupoles manis. Kalau Ibu sampai tahu anak tunggalnya disewa jadi pacar sandiwara buat menghalau tante-tante sosialita galak, bisa-bisa Ibu langsung menyuruhku memulangkan uang itu detik ini juga.
 
@@ -34,13 +36,13 @@ Di dalam ruang kerja sudut yang berdinding kaca lebar, Rian mendongak dari balik
 
 "Kenapa pakai masker, Yu? Kamu lagi flu?" tanya Rian seraya berdiri menyambutku.
 
-Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan Jumat lalu aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau di kantor aku pakai masker dengan alasan alergi debu kambuh, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
+Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan kemarin aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau aku pakai masker begini, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
 
-Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut kebawa di belakang kertas katalog. IPK 3,85, predikat cumlaude dari Fakultas Ekonomi dan Bisnis? Jadi waktu kamu ngomong ke Tante Henny di ballroom Jumat lalu itu beneran?"
+Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut terselip di belakang kertas katalog. IPK 3,85, predikat cumlaude? Jadi waktu kamu ngomong ke Tante Henny di ballroom kemarin itu beneran?"
 
 Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!
 
-"Aduh, maaf Mas, tadi di rumah aku buru-buru karena dipanggil Ibu dan pakai map bekas, makanya ikut kebawa," ucapku agak salah tingkah sambil menarik dan menyimpan kembali lembar ijazah itu ke dalam map. "Tapi soal jurusanku ya memang beneran, Mas. Memangnya muka aku kelihatan kayak tukang ngibul?"
+"Aduh, maaf Mas, tadi di rumah aku buru-buru karena dipanggil Ibu dan pakai map bekas, makanya ikut kebawa," ucapku agak salah tingkah sambil menarik dan menyimpan kembali lembar ijazah itu ke dalam map. "Tapi soal jurusanku ya memang beneran, Mas. Memangnya mukaku kelihatan tukang bohong?"
 
 Sudut bibir Rian melengkung membentuk senyum kagum. Dia membuka kotak kue basah buatan Ibu dan mencicipi sepotong kue lumpur kentang yang masih hangat.
 

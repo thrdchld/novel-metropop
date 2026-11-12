@@ -1,6 +1,6 @@
 ## **Bab 20: Badai Malam di Gang Tebet**
 
-Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa seperti merangkak di atas bara api. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
+Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa begitu lambat dan menegangkan. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
 
 "Matikan saja dulu ponsel kamu, Yu. Biar nomornya nggak diserbu bot terus," pinta Rian tegas sambil memutar kemudi membelok ke jalan raya Tebet. Tangannya sempat meraih jemariku yang gemetar dan menggenggamnya erat. "Pak Darmawan sama tim IT kantor udah aku hubungi barusan. Malam ini mereka langsung mulai nyari jejak digital siapa yang nyebar video itu."
 
@@ -14,7 +14,9 @@ Begitu melihatku turun dari mobil diikuti oleh Rian, Bang Bobi langsung bergegas
 
 "Bang Bobi! Ibu di dalam aman, kan?" tanyaku setengah berlari mendekatinya.
 
-"Tenang, Yu. Ibu lu aman di dalam rumah ditemenin Bu RT," jawab Bang Bobi mantap. "Begitu video fitnah sampah itu lewat di grup anak-anak ojol sore tadi, gue langsung panggil temen-temen pangkalan buat nutup mulut gang. Tadi sempat ada dua bocah tengil bawa kamera HP mau nyelonong bikin konten di depan warung kue Ibu lu, langsung kami usir balik."
+"Tenang, Yu. Ibu lu aman di dalam rumah ditemenin Bu RT," jawab Bang Bobi mantap. "Begitu video fitnah itu lewat di grup ojol sore tadi, gue langsung panggil temen-temen buat nutup mulut gang."
+
+Bang Bobi menambahkan geram, "Tadi sempat ada dua bocah tengil bawa kamera mau bikin konten di depan warung kue Ibu lu, langsung kami usir balik."
 
 Jujur, dadaku langsung hangat bukan main mendengar ucapan itu. Di kepalaku tadi sepanjang jalan, rumah kontrakanku sudah dikerubungi orang-orang jahat yang meneriaki Ibu. Kenyataannya, solidaritas teman-teman jalanan yang setiap hari berpanas-panasan bersamaku justru menjadi benteng pertama yang melindungi keluargaku.
 

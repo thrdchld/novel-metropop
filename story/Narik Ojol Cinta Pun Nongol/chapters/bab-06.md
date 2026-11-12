@@ -18,11 +18,15 @@ Aku menoleh cepat, keningku berkerut. "Maksud Mas nggak sesederhana itu gimana? 
 
 Rian membelokkan mobilnya masuk kembali ke area basement Menara Astra. Dia menghentikan SUV-nya di dekat pos tempat motorku dititipkan pada Pak Darto, lalu memindahkan tuas transmisi ke posisi parkir dan memutar badannya menghadapku.
 
-"Gelang daun itu peninggalan mendiang Kakek buat Oma Ratna," jelas Rian tenang. "Selama dua puluh tujuh tahun aku hidup, Oma belum pernah sekalipun ngasih gelang itu ke perempuan mana pun, termasuk waktu aku masih pacaran sama Vina dulu. Di mata keluarga besarku, kalau Oma udah masangin gelang itu ke tangan kamu di depan orang banyak, artinya Oma udah ngasih restu penuh."
+"Gelang daun itu peninggalan mendiang Kakek buat Oma Ratna," jelas Rian pelan. "Oma belum pernah ngasih gelang itu ke perempuan mana pun, termasuk waktu aku masih pacaran sama Vina."
+
+Rian menatap gelang di konsol lekat-lekat. "Di mata keluarga besarku, kalau Oma udah masangin gelang itu ke tangan kamu di depan orang banyak, artinya Oma udah ngasih restu penuh."
 
 "Ya terus? Tinggal Mas Rian bilang aja ke Oma kalau ternyata kita nggak cocok terus putus minggu depan," sahutku mencoba mencari jalan keluar paling praktis.
 
-"Nggak bisa secepat itu," sela Rian, kepalanya menggeleng tegas. "Oma Ratna punya riwayat darah tinggi sama pembengkakan jantung. Tante Henny dan Vina tadi jelas-jelas ngawasin kita dari meja VIP. Kalau minggu depan kamu mendadak hilang pas Oma ngundang minum teh di Kebayoran Baru, Tante Henny bakal langsung curiga kalau aku cuma nyewa orang buat nipu Oma. Kalau Oma sampai tahu beliau dibohongi malam ini, tensinya bisa langsung naik drastis."
+"Nggak bisa secepat itu," sela Rian, kepalanya menggeleng tegas. "Oma punya riwayat darah tinggi sama jantung. Tante Henny dan Vina tadi jelas ngawasin kita dari meja VIP."
+
+Rian menatapku cemas. "Kalau kamu mendadak hilang pas Oma ngundang minum teh, Tante Henny bakal langsung curiga kalau aku cuma nyewa orang. Kalau Oma sampai tahu dibohongi, tensinya bisa langsung naik drastis."
 
 Aku terdiam, punggungku bersandar kaku ke jok kulit. Mendengar kata darah tinggi dan jantung disebut, jantungku langsung mencelos perih. Dua tahun lalu, almarhum Bapak juga kolaps dan berpulang gara-gara tensinya melonjak mendadak saat kaget. Bayangan wajah teduh Oma Ratna dan genggaman tangannya yang hangat tadi bikin aku ngeri membayangkan kalau beliau sampai mengalami hal yang sama.
 
@@ -30,17 +34,21 @@ Aku terdiam, punggungku bersandar kaku ke jok kulit. Mendengar kata darah tinggi
 
 Rian menarik napas panjang, lalu membetulkan posisi jam tangannya. "Aku mau minta bantuan kamu lagi pakai kontrak resmi, Yu. Tiga bulan aja. Cukup sampai rangkaian acara keluarga besar selesai dan kita bisa ngatur alasan pisah baik-baik secara wajar tanpa bikin Oma kaget."
 
-"Tiga bulan?" Aku mendengus pendek. "Mas, aku ini tulang punggung rumah. Aku nggak punya waktu luang buat ikut drama orang kaya selama tiga bulan."
+"Tiga bulan?" Aku mendengus pendek. "Mas, aku ini tulang punggung rumah. Aku nggak punya waktu luang buat ikut drama orang kaya berbulan-bulan begini."
 
-"Aku bayar lima belas juta sebulan," ucap Rian lugas. "Total empat puluh lima juta buat tiga bulan. Setengah dari bulan pertama langsung aku transfer Senin siang pas kita tanda tangan surat kesepakatan, sisanya jalan tiap awal bulan. Kamu cuma perlu datang di tiga atau empat acara keluarga dan sesekali mampir ke kantor biar Tante Henny sama Vina nggak curiga."
+"Aku bayar lima belas juta sebulan," ucap Rian lugas. "Total empat puluh lima juta untuk seluruh acara. Setengah dari bulan pertama langsung kutransfer Senin siang pas kita tanda tangan surat kesepakatan."
+
+Rian menambahkan dengan nada meyakinkan, "Sisanya jalan tiap awal bulan. Kamu cuma perlu datang di tiga atau empat acara keluarga dan sesekali mampir ke kantor biar mereka nggak curiga."
 
 Angka empat puluh lima juta rupiah itu langsung berdengung di telingaku.
 
 Otak dagangku otomatis menghitung cepat di kepala. Sisa pokok utang biaya rumah sakit almarhum Bapak ke rentenir dan koperasi masih tiga puluh delapan juta rupiah. Kalau ditambah tujuh juta sisanya, Ibu akhirnya bisa ganti atap seng dapur kue kami yang bocor tiap hujan deras dan beli kukusan aluminium besar baru tanpa harus gali lubang tutup lubang lagi. Kalau cuma mengandalkan tarikan ojol sepuluh jam sehari, butuh waktu hampir dua tahun buat ngumpulin uang segitu.
 
-"Kalau aku terima," kataku pelan tapi tegas, "keluargaku nggak boleh sampai diganggu. Terus, kalau aku harus sesekali mampir ke kantor Mas Rian, kita butuh alasan kerja yang masuk akal. Waktu aku bilang ke Tante Henny tadi kalau aku lulusan Manajemen Bisnis dan ngurus usaha kuliner keluarga, itu beneran, Mas, bukan karangan. Ibuku memang jualan kue basah rumahan di Tebet. Jadi Senin siang aku datang ke kantor Mas bawa sampel kue Ibu buat alasan daftar vendor konsumsi rapat."
+"Kalau aku terima," kataku pelan tapi tegas, "keluargaku nggak boleh sampai diganggu. Terus, kalau aku harus sesekali mampir ke kantor Mas Rian, kita butuh alasan kerja yang masuk akal."
 
-Rian tertegun sejenak mendengar pengakuanku, lalu mengangguk mantap dan mengulurkan tangan kanannya. "Ide bagus. Senin siang bawa sampel sama daftar harga kue Ibu kamu buat arsip vendor, sekalian fotokopi KTP buat lampiran surat kesepakatan kita. Selama tiga bulan ini, gelang Oma tetap kamu pegang dulu."
+Aku menatap matanya tanpa ragu. "Waktu aku bilang ke Tante Henny tadi kalau aku ngurus usaha kuliner keluarga, itu beneran, bukan karangan. Ibuku memang jualan kue basah di Tebet. Jadi Senin siang aku datang bawa sampel kue Ibu buat daftar vendor rapat."
+
+Rian tertegun sejenak mendengar pengakuanku, lalu mengangguk mantap dan mengulurkan tangan kanannya. "Ide bagus. Senin siang bawa sampel sama daftar harga kue Ibu kamu buat arsip vendor, sekalian fotokopi KTP. Sampai urusan ini beres, gelang Oma tetap kamu pegang dulu."
 
 Aku menatap uluran tangan Rian di depanku, lalu melirik kilau gelang emas di atas konsol mobil. Demi melunasi sisa utang Bapak dan menyelamatkan dapur Ibu, aku akhirnya menjabat tangannya erat-erat.
 

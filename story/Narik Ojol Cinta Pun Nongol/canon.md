@@ -41,7 +41,7 @@
 | **Pelat Motor `B 4892 TBT` & Kartu VIP E-Money** | **Bab 2 & Bab 6:** Rian meminta satpam Pak Darto memindahkan motor Honda Beat `B 4892 TBT` ke blok VIP dan men-*tap* keluar dengan kartu VIP miliknya. | **Bab 7 & 13:** Ayu tetap narik ojol di sekitar koridor Sudirman-Thamrin dengan masker kain sambil sesekali keluar-masuk akses gedung. | **Bab 16-17:** Rekaman pelat motor `B 4892 TBT` di log parkir VIP menjadi bukti yang dipakai Vina untuk membongkar identitas Ayu dan meneror warung kue Tebet. |
 | **Kompetensi Manajemen FEB *Cumlaude* (IPK 3,85) & Usaha Kue Ibu** | **Bab 1 & 4:** Ayu lulusan FEB *cumlaude* yang menghitung cepat arus kas kue pasar ibunya dan membungkam staf pengadaan (Damar) serta Tante Henny. | **Bab 9, 11, & 12:** Ayu membedah efisiensi proposal toko roti Indah di atas kertas tisu (serta melihat kode faktur `INV/BMD-JKT` milik BuzzMedia Digital), menemani belanja grosir di Pasar Jatinegara, dan membungkam Damar di ruang rapat lantai 24. | **Bab 19, 21, & 22:** Membuktikan kualitas Ayu di hadapan Oma Ratna serta menjadi kunci kejelian Ayu membaca celah *invoice* agensi *buzzer* BuzzMedia Digital milik Reza Mahendra di konferensi pers. |
 
-## Cast
+## Cast & Profil Karakter Lengkap (Character Sheet)
 
 | Tokoh | Peran | Umur | Pekerjaan | Fungsi dramatik |
 |---|---|---:|---|---|

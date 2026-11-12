@@ -30,7 +30,7 @@ Begitu motor Pak Harun melaju meninggalkan gang, Bang Bobi langsung bersiul panj
 
 "Makasih banyak ya, Bang Bobi. Nanti kalau adonan kue sore udah matang, aku anterin lemper hangat buat Abang sama teman-teman di depan," janjiku tulus.
 
-Setelah Bang Bobi kembali ke pangkalan, aku menoleh ke arah Ibu yang masih berdiri terpaku di dekat etalase, lalu mengeluarkan selembar formulir pemesanan berlogo perusahaan dari map plastikku. "Bu, tadi sampel kue lumpur sama lemper buatan Ibu dicicipi langsung sama Pak Rian di kantornya. Beliau suka banget. Hari Kamis besok, divisi kantornya resmi pesan tiga puluh kotak kue basah kita buat rapat evaluasi bulanan!"
+Setelah Bang Bobi kembali ke pangkalan, aku menoleh ke arah Ibu yang masih berdiri terpaku di dekat etalase, lalu mengeluarkan selembar formulir pemesanan berlogo perusahaan dari map plastikku. "Bu, tadi sampel kue lumpur sama lemper buatan Ibu dicicipi langsung sama Pak Rian di kantornya. Beliau suka banget. Hari Kamis nanti, divisi kantornya resmi pesan tiga puluh kotak kue basah kita buat rapat evaluasi bulanan!"
 
 Ibu menutup mulutnya dengan kedua tangan. Matanya langsung berkaca-kaca menatap kertas pesanan resmi itu. "Tiga puluh kotak buat gedung kantor sebesar itu, Nduk? Ya Allah, Ayu... kue buatan Ibu masuk kantor Sudirman?"
 

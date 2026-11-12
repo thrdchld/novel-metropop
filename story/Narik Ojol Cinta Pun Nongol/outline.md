@@ -1,5 +1,6 @@
 # Outline — Narik Ojol Cinta pun Nongol
 
+> Status: TERKUNCI (Sesuai Kit Perancangan Penulis & Engine v2.1)
 > Kit Perancangan Lengkap Web Novel Metropop Indonesia
 > Sumber: `narik-ojol-cinta-pun-nongol-outline.docx` (Dikembangkan ke Edisi 24 Bab Utuh sesuai Engine v2.1)
 > Format: 24 Bab Lengkap (POV 1 Murni "Aku" / Ayu Anindya)
@@ -127,7 +128,7 @@ Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pi
 - **Strategi Masker & Ijazah A4:** Fotokopi ijazah A4 tak sengaja tersapu masuk ke map bekas bersama katalog kue A4 saat Ibu memanggil ke dapur. Rian melihat ijazah *cumlaude* FEB Ayu, mencicipi kue Ibu, mentransfer DP Rp7,5 juta, dan memesan 30 kotak kue untuk rapat Kamis.
 - **Hook:** Aku siap menghadapi penagih utang di rumah dengan kepala tegak sore ini.
 
-### Bab 8: Gebrakan Dapur Tebet *(Bab Sisipan Baru)*
+### Bab 8: Gebrakan Dapur Tebet
 - **Latar:** Teras Warung Kue Basah Bu Sumi, Tebet (Senin Sore)
 - **Pelunasan Sebagian Pokok Utang:** Aku membayar langsung Rp5 juta lewat *m-banking* kepada Pak Harun (penagih utang) di depan Ibu dan Bang Bobi hingga saldo pokok turun dari Rp38 juta ke Rp33 juta, serta menyampaikan kabar pesanan resmi 30 kotak kue dari kantor Rian.
 - **Hook:** Aku membuka lembar biodata hafalan untuk pertemuan besok di Senopati dan melihat nama *Vina Rosalinda* digarisbawahi tebal oleh Rian.
@@ -142,12 +143,12 @@ Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pi
 - **Payung & Percikan Cemburu Awal:** Rian memiringkan payung demi melindungiku dan mengantar sampai depan minimarket Tebet. Bang Bobi datang membawa payung cadangan; Rian dan Bang Bobi beradu tatap.
 - **Hook:** Keesokan paginya, adik bungsu Rian menyeretku dan Rian ke tempat yang paling tak terduga.
 
-### Bab 11: Bos Necis Masuk Pasar *(Bab Sisipan Baru)*
+### Bab 11: Bos Necis Masuk Pasar
 - **Latar:** Lorong Grosir Bahan Kue Pasar Jatinegara (Rabu Pagi)
 - **Komedi Dua Dunia & Micro-Shift:** Indah minta ditemani belanja bahan roti skripsinya sesuai rumus kertas tisu, dan Rian memaksa ikut mengantar karena masih cemburu soal Bang Bobi. Rian yang berkemeja necis mengangkat sendiri kardus mentega dan karung tepung 25 kg hingga lengan kemejanya terkena bercak tepung, lalu meminta Ayu tidak hanya mengandalkan Bang Bobi.
 - **Hook:** Rian mengingatkan jadwal pengantaran 30 kotak kue Ibu untuk rapat evaluasi besok siang di lantai 24.
 
-### Bab 12: Kue Pasar di Meja Direksi *(Bab Sisipan Baru)*
+### Bab 12: Kue Pasar di Meja Direksi
 - **Latar:** Ruang Rapat Lantai 24 Menara Astra (Kamis Siang)
 - **Membungkam Staf Sombong Kedua Kalinya:** Saat aku menata 25 kotak kue Ibu di ruang rapat dengan masker kain, Damar (staf pengadaan dari Bab 1) menyindir kemasan kue UMKM Tebet. Aku dan Rian mematahkan argumennya soal kesegaran bahan dan pembengkakan anggaran katering lama di depan para manajer sampai Damar pucat dan kicep.
 - **Hook:** Aku mendorong troli berisi 5 kotak kue sisanya keluar ruang rapat menuju ruang kerja Rian, tepat saat langkah sepatu hak tinggi terdengar dari arah lift.
@@ -157,7 +158,7 @@ Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pi
 - **Vina Melabrak & Lacak Parkir VIP:** Vina menerobos masuk memarahi Rian, menyenggol troliku saat keluar, dan menelepon Bang Dion di depan lift untuk mengecek data *tap* kartu parkir VIP Rian. Pak Hendra mengonfirmasi data palang keluar `B 4892 TBT` sudah ditarik orang properti keluarga Vina.
 - **Hook:** Nomor pelat motorku sudah dikantongi pihak Vina; melacak rumahku di Tebet tinggal hitungan hari.
 
-### Bab 14: Mi Ayam Pinggir Jalan *(Bab Sisipan Baru)*
+### Bab 14: Mi Ayam Pinggir Jalan
 - **Latar:** Warung Tenda Mi Ayam Pakde Slamet, Lapangan Ros Tebet (Sabtu Sore)
 - **Membuka Luka Masa Lalu:** Karena cemas soal pelat motor yang bocor, aku sempat menjaga jarak. Rian datang menjemputku selepas narik ojol dan minta diajak makan mi ayam gerobak langganan almarhum Bapakku. Di bangku plastik pinggir jalan, Rian menceritakan beban hidupnya sejak ayahnya meninggal dan alasan ia memutuskan Vina setahun lalu.
 - **Hook:** Rasa cemasku meluruh; kami siap menghadapi jamuan keluarga di rumah Oma Ratna besok sore.
@@ -187,7 +188,7 @@ Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pi
 - **Melepas Masker & Restu Sejati:** Di depan Oma Ratna, Ibu Hartini, Indah, dan Tante Henny, Rian dan aku mengakui seluruh kebenaran. Aku melepas masker, mengembalikan gelang, dan menunjukkan KTP ojol beserta ijazah *cumlaude* FEB. Oma Ratna membentak Tante Henny, memuji kejujuranku, dan menyematkan kembali gelang pusaka itu.
 - **Hook:** Indah terpekik pucat melihat ponselnya: Vina baru saja menyebarkan video fitnah di akun gosip nasional dan mengerahkan akun bodong menyerang warung kue Ibu!
 
-### Bab 20: Badai Malam di Gang Tebet *(Bab Sisipan Baru)*
+### Bab 20: Badai Malam di Gang Tebet
 - **Latar:** Mulut Gang & Kontrakan Tebet (Selasa Malam)
 - **Solidaritas Ojol & Rian Pasang Badan:** Aku dan Rian memacu mobil ke Tebet di tengah serbuan telepon gelap dan pembatalan 2 pesanan arisan. Di mulut gang, Bang Bobi bersama belasan driver ojol pangkalan Tebet sudah memarkir motor berjejer menjaga rumah Ibu dari pembuat konten iseng. Rian berjabat tangan erat dengan Bang Bobi sebagai sekutu dan mengabarkan tim IT sudah menemukan petunjuk awal tangkapan layar yang bocor.
 - **Hook:** Rian berjanji menjemputku jam delapan pagi besok untuk membalikkan keadaan di ruang rapat lantai 24.
@@ -202,7 +203,7 @@ Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pi
 - **Pembongkaran di Depan Media:** Vina datang bersama pengacara karena mengira Rian akan memutuskanku. Di depan puluhan kamera media, aku dan Pak Darmawan menampilkan pengakuan bermeterai Reza Mahendra, bukti transfer Rp35 juta dari rekening Vina, serta tanda terima laporan pidana UU ITE di Polda Metro Jaya hingga Vina kabur dikerubungi wartawan.
 - **Hook:** Rian menggenggam tanganku di balik podium dan meminta izin untuk datang resmi menghadap Ibu di Tebet sore ini tanpa sembunyi-sembunyi di mulut gang lagi.
 
-### Bab 23: Tamu Kehormatan di Dapur Ibu *(Bab Sisipan Baru)*
+### Bab 23: Tamu Kehormatan di Dapur Ibu
 - **Latar:** Pangkalan Ojol & Ruang Tamu Kontrakan Tebet (Kamis Sore)
 - **Payoff Gang Tebet & Restu Ibu:** Untuk pertama kalinya Rian berjalan kaki menyusuri gang sempit Tebet membawa buah tangan, mentraktir kopi susu untuk Bang Bobi dan rekan pangkalan, lalu mencium tangan Ibu dengan takzim. Di ruang tamu sederhana, Rian meminta maaf sekaligus berterima kasih kepada Ibu, mencicipi kue talam hangat langsung dari kukusan dapur, dan meminta izin resmi mengajakku ke Taman Menteng malam itu.
 - **Hook:** Ibu memberikan restu hangat dan melepas kami berangkat menuju Taman Menteng.

@@ -12,7 +12,9 @@ Di sebelahku, Rian duduk santai tanpa setelan jas resminya. Lengan kemeja putihn
 
 Aku menepuk tas selempang di pangkuanku, lalu mengeluarkan selembar struk bukti transfer balik sebesar dua setengah juta rupiah beserta catatan cicilan untuk lima juta sisanya yang sempat terpakai membayar utang Bapak, lalu meletakkannya di atas bangku di antara kami.
 
-"Ini bukti transfer sama jadwal cicilanku yang Senin malam sempat Mas tolak di Cikini," ucapku tenang. "Soalnya hari Selasa lalu kita udah jujur ke Oma Ratna dan urusan pacar sewaan kita resmi selesai sebelum sebulan, jadi aku nggak berhak nyimpan uang kontrak itu. Sisa utang almarhum Bapak biar aku cicil pelan-pelan dari pesanan kue Ibu yang sekarang udah mulai ramai sama hasil narik aku sendiri."
+"Ini bukti transfer sama jadwal cicilanku yang sempat Mas tolak di Cikini," ucapku tenang.
+
+Aku menatap Rian sungguh-sungguh. "Kita kan udah jujur ke Oma Ratna dan urusan sandiwara ini resmi selesai, jadi aku nggak berhak nyimpan uang kontrak itu. Sisa utang almarhum Bapak biar kucicil pelan-pelan dari pesanan kue Ibu."
 
 Rian menatap lembar struk itu sejenak, lalu merogoh tas kerja kulit di kakinya. Bukannya mengambil struk dariku, dia malah mengeluarkan map berisi dua rangkap surat kontrak bermeterai yang kami tanda tangani di ruang kerjanya hari Senin minggu lalu.
 
@@ -26,9 +28,11 @@ Jantungku mendadak berdegup kencang, hangatnya merambat sampai ke telinga. "Maks
 
 Perlahan, tangan Rian bergerak meraih jemariku di atas bangku kayu, menggenggamnya dengan hangat dan hati-hati.
 
-"Aku sayang sama kamu, Ayu Anindya. Aku jatuh cinta beneran sama kamu," ungkap Rian mantap tanpa sedikit pun keraguan. "Bukan jatuh cinta sama cewek bergaun biru dongker di pesta Grand Hyatt, tapi sama sarjana berjaket hijau yang berani mendebat stafku demi menjaga harga diri kerjaannya. Cewek yang tiap subuh bangun ngitung adonan kue ibunya, yang rela pasang badan demi kesehatan Oma, dan yang nggak pernah silau sama uangku."
+"Aku sayang sama kamu, Ayu Anindya. Aku jatuh cinta beneran sama kamu," ungkap Rian mantap tanpa keraguan. "Bukan sama cewek bergaun biru dongker di Grand Hyatt, tapi sama sarjana berjaket hijau yang mendebat stafku demi harga diri."
 
-Napasku tercekat. Semua perhatian kecilnya selama dua minggu ini, mulai dari payung yang dimiringkan saat hujan deras di Senopati, kertas tisu yang dia simpan di saku kemeja, hingga kemarahannya saat rumahku diteror Vina, berputar kembali di kepalaku seperti kepingan teka-teki yang akhirnya menyatu utuh.
+Rian menatapku dengan sorot mata penuh kasih. "Cewek yang tiap subuh bangun ngitung adonan kue ibunya, yang pasang badan demi kesehatan Oma, dan nggak pernah silau sama uangku."
+
+Napasku tercekat. Semua perhatian kecilnya selama dua minggu ini, mulai dari payung yang dimiringkan saat hujan deras di Senopati, kertas tisu yang dia simpan di saku kemeja, hingga kemarahannya saat rumahku diteror Vina, terbayang kembali di kepalaku dan terasa begitu nyata.
 
 "Oma Ratna bener soal satu hal," lanjut Rian dengan senyum lembut. "Kamu itu hal paling tulus yang pernah datang ke hidupku, Yu. Jadi... kamu mau kan mulai semuanya dari nol sama aku? Bukan sebagai bos Menara Astra dan driver ojol yang diikat kontrak, tapi sebagai dua orang yang beneran saling sayang?"
 

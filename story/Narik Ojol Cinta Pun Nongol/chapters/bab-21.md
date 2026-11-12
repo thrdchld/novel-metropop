@@ -20,7 +20,7 @@ Aku mencondongkan tubuh ke depan meja, menyipitkan mata memperhatikan sudut kana
 
 Gerakan tanganku yang sedang memutar cangkir kopi langsung berhenti mendadak. Ingatanku seketika melompat pada berkas penawaran vendor iklan milik sepupu Vina yang pernah ditunjukkan Rian di tabletnya waktu kami mengobrol di kafe Senopati minggu lalu.
 
-"Tunggu sebentar, Mas," potongku cepat dan menunjuk deretan huruf di sudut gambar itu. "Kode tagihan INV/BMD-JKT pakai akhiran VIP ini... bukannya persis sama berkas vendor iklan punya sepupu Vina yang Mas Rian tolak minggu lalu?!"
+"Tunggu sebentar, Mas," potongku cepat dan menunjuk deretan huruf di sudut gambar itu. "Kode tagihan INV/BMD-JKT pakai akhiran VIP ini... bukannya persis sama berkas vendor iklan punya sepupu Vina yang Mas Rian tolak waktu itu?!"
 
 Rian langsung menoleh ke arahku, matanya menyala tajam. "Bener! BuzzMedia Digital punya Reza Mahendra!"
 
@@ -40,9 +40,11 @@ Namun, senyum di wajah Reza langsung luntur. Tak ada satu pun orang di ruangan i
 
 "Kami tidak memanggil Anda untuk kontrak iklan, Saudara Reza, melainkan untuk konfirmasi barang bukti pidana pencemaran nama baik dan perusakan usaha UMKM," ucap Pak Darmawan dingin.
 
-Wajah Reza seketika memucat seperti kertas. Keringat dingin langsung muncul di pelipisnya saat matanya membaca kode tagihan di sudut tangkapan layar tersebut. "I-ini maksudnya apa ya, Pak? Bang Rian, gue nggak ngerti..."
+Wajah Reza seketika memucat pasi. Keringat dingin langsung muncul di pelipisnya saat matanya membaca kode tagihan di sudut tangkapan layar tersebut. "I-ini maksudnya apa ya, Pak? Bang Rian, gue nggak ngerti..."
 
-"Nggak usah pura-pura bodoh di depan aku, Za," potong Rian tajam, menatapnya lurus tanpa berkedip. "Kode tagihan di tangkapan layar instruksi buzzer yang nyerang Ayu dan usaha kue ibunya kemarin sore itu persis sama dengan format penawaran resmi BuzzMedia Digital yang kamu masukin ke divisiku minggu lalu. Kalau dalam lima menit kamu nggak jujur siapa yang pesan dan bayar paket serangan itu, detik ini juga perusahaan kamu masuk daftar hitam seluruh grup bisnis kami dan nama kamu langsung terdaftar sebagai tersangka utama di kepolisian."
+"Nggak usah pura-pura bodoh di depan aku, Za," potong Rian tajam, menatapnya lurus tanpa berkedip. "Kode tagihan di tangkapan layar instruksi buzzer yang nyerang Ayu dan usaha ibunya persis sama dengan format penawaran BuzzMedia Digital yang kamu ajukan."
+
+Rian menatapnya dingin. "Kalau dalam lima menit kamu nggak jujur siapa yang pesan dan bayar serangan itu, detik ini juga perusahaan kamu masuk daftar hitam dan nama kamu langsung terdaftar sebagai tersangka utama di kepolisian."
 
 Aku menatap Reza yang tangannya mulai gemetar hebat di atas meja. "Pilihannya cuma dua, Mas Reza. Mau pasang badan masuk penjara sendirian buat nutupin ulah sepupu Mas, atau serahkan bukti pemesan aslinya sekarang sebagai saksi yang bekerja sama?"
 
