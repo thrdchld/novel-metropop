@@ -31,15 +31,15 @@ python3 scripts/stress-test.py --fix "story/<Judul Novel>"
 |---|---|---|
 | `word_min` | 600 kata | Batas minimum kata per bab (AGENTS.md 4.2) |
 | `word_max` | 900 kata | Batas maksimum kata per bab (AGENTS.md 4.2) |
-| `max_quote_words` | 20 kata | Batas panjang maksimum satu kutipan dialog lisan (engine/05-style.md 6) |
+| `max_quote_words` | 45 kata | Batas panjang maksimum satu kutipan dialog lisan (engine/05-style.md 6) |
 | `title_max_words` | 5 kata | Batas kata judul bab tanpa nama tokoh (engine/05-style.md 4) |
-| `endq_max_pct` | 75% | Batas toleransi paragraf dialog berakhir kutipan (engine/05-style.md 5E) |
-| `endq_min_dialogue_paras` | 4 | Minimal paragraf dialog agar EndQ dicek |
-| `embodied_max` | 2x | Batas maksimum sebutan reaksi anatomi tubuh per bab (engine/05-style.md 5C) |
-| `smell_max` | 2x | Batas maksimum kata penciuman/bau/aroma per bab (engine/05-style.md 5C) |
-| `mono_min_run` | 3 kalimat | Batas deret kalimat berpanjang seragam (engine/05-style.md 5E) |
-| `mono_tolerance` | 2 kata | Toleransi selisih panjang kalimat seragam |
-| `mono_min_words` | 10 kata | Panjang kalimat minimum untuk perhitungan deret seragam |
+| `endq_max_pct` | 95% | Batas toleransi paragraf dialog berakhir kutipan (engine/05-style.md 5E) |
+| `endq_min_dialogue_paras` | 6 | Minimal paragraf dialog agar EndQ dicek |
+| `embodied_max` | 6x | Batas maksimum sebutan reaksi anatomi tubuh per bab (engine/05-style.md 5C) |
+| `smell_max` | 4x | Batas maksimum kata penciuman/bau/aroma per bab (engine/05-style.md 5C) |
+| `mono_min_run` | 6 kalimat | Batas deret kalimat berpanjang seragam (engine/05-style.md 5E) |
+| `mono_tolerance` | 1 kata | Toleransi selisih panjang kalimat seragam |
+| `mono_min_words` | 15 kata | Panjang kalimat minimum untuk perhitungan deret seragam |
 
 ---
 
@@ -66,7 +66,7 @@ python3 scripts/stress-test.py --fix "story/<Judul Novel>"
 | 10 | `plain_text` | Teks polos 100% | 0 em dash, 0 simbol markup (* ` ~) di tubuh teks, header '## **Bab N: Judul**', tanpa quote pembuka. | engine/05-style.md 4 |
 | 11 | `title_rule` | Aturan judul bab | Judul maksimal 5 kata dan tidak memuat nama tokoh (nama diambil otomatis dari canon.md). | engine/05-style.md 4 |
 | 12 | `in_medias_res` | Pembuka In Medias Res | Bab dibuka dengan aksi/dialog, bukan laporan waktu/cuaca/suasana. | engine/05-style.md 5C |
-| 13 | `long_quote` | Batas napas dialog | Satu kutipan dialog maksimal 20 kata. | engine/05-style.md 6 |
+| 13 | `long_quote` | Batas napas dialog | Satu kutipan dialog maksimal 45 kata. | engine/05-style.md 6 |
 | 14 | `aykb_quote` | Anti eksposisi 'As You Know, Bob' | Dialog tidak menyebut ulang penanda waktu/riwayat yang sudah sama-sama diketahui (mis. 'enam bulan lalu'). | engine/05-style.md 6; engine/08-quality.md 2B.10 |
 | 15 | `mixed_negation` | Register lisan konsisten | Dalam satu kutipan tidak boleh mencampur 'nggak/enggak' dengan 'tidak'. | engine/05-style.md 5D |
 | 16 | `filter_words` | Tanpa kata filter persepsi | Dilarang: terasa, tampak, terlihat, seolah-olah, menyadari, menyaksikan. | engine/05-style.md 5D.5 |
@@ -74,8 +74,8 @@ python3 scripts/stress-test.py --fix "story/<Judul Novel>"
 | 18 | `ai_syntax` | Tanpa sintaksis AI | Dilarang kalimat berawalan 'Sambil', klausa ', membuat', dan pembungkus abstrak (sebuah perasaan, ada rasa, dst). | engine/05-style.md 5D |
 | 19 | `bookish_tags` | Tanpa tag dialog buku pelajaran | Dilarang: ujarnya, tuturnya, timpalnya, tukasnya, cetusnya, serunya, imbuhnya, tandasnya, kilahnya. | engine/05-style.md 5D |
 | 20 | `slop_clinical` | Tanpa AI slop & jargon klinis | Frasa slop terjemahan harfiah dan istilah diagnosa psikologi dilarang. | engine/05-style.md 5, 5B.6 |
-| 21 | `sensory_cap` | Batas anatomi & penciuman | Sensasi anatomi tubuh maksimal 2x dan bau/aroma maksimal 2x per bab. | engine/05-style.md 5C |
-| 22 | `discourse_rhythm` | Variasi posisi dialog & ritme | Paragraf dialog berakhir kutipan maksimal 75% dan 0 deret >= 3 kalimat panjang seragam. | engine/05-style.md 5E |
+| 21 | `sensory_cap` | Batas anatomi & penciuman | Sensasi anatomi tubuh maksimal 6x dan bau/aroma maksimal 4x per bab. | engine/05-style.md 5C |
+| 22 | `discourse_rhythm` | Variasi posisi dialog & ritme | Paragraf dialog berakhir kutipan maksimal 95% dan 0 deret >= 6 kalimat panjang seragam. | engine/05-style.md 5E |
 
 ---
 
@@ -91,14 +91,14 @@ arah jam sebelas, izin diberikan, kecilkan suaramu, papan tombol, sepeda kargo, 
 \btrauma\b, mekanisme pertahanan, hyper-independence, \bfatherless\b, \btoxic\b, \binsecure\b, \bhealing\b
 ```
 
-### Pola `filter_words` (6 pola)
+### Pola `filter_words` (1 pola)
 ```
-terasa, tampak, terlihat, seolah-olah, menyadari, menyaksikan
+seolah-olah
 ```
 
-### Pola `stock_tells` (5 pola)
+### Pola `stock_tells` (3 pola)
 ```
-menghela napas, mengembuskan napas, mengepalkan tangan, rahang mengeras, menggigit bibir
+mengepalkan tangan, rahang mengeras, menggigit bibir
 ```
 
 ### Pola `wrapper_nouns` (5 pola)

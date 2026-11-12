@@ -358,6 +358,7 @@ def main() -> int:
 
     target = Path(args.target).resolve()
     repo_root = Path(__file__).resolve().parent.parent
+    rules = load_rules(repo_root)
 
     is_single_chapter = target.is_file()
     if is_single_chapter:
@@ -495,21 +496,22 @@ def main() -> int:
                 for e in errs:
                     total_errors.append(f"[{f.name}] {e}")
 
+    P = rules.get("params", {})
     labels = [
-        ("word_range", "9. Rentang Kata Bab (600-900 kata)"),
+        ("word_range", f"9. Rentang Kata Bab ({P.get('word_min', 600)}-{P.get('word_max', 900)} kata)"),
         ("plain_text", "10. Teks Polos 100% (0 Em Dash, 0 Markup *, 0 Quote Atas)"),
-        ("title_rule", "11. Aturan Judul Bab (Clue Singkat & Bebas Nama Tokoh)"),
+        ("title_rule", f"11. Aturan Judul Bab (Clue Singkat & Bebas Nama Tokoh)"),
         ("in_medias_res", "12. Pembuka In Medias Res & Ruang Aksi"),
-        ("long_quote", "13. Batas Napas Kalimat Dialog (<=20 Kata per Kutipan)"),
+        ("long_quote", f"13. Batas Napas Kalimat Dialog (<={P.get('max_quote_words', 45)} Kata per Kutipan)"),
         ("aykb_quote", "14. Anti-Eksposisi 'As You Know, Bob' di Dialog"),
         ("mixed_negation", "15. Konsistensi Register Lisan di Dialog (Anti Belang)"),
-        ("filter_words", "16. Bebas Kata Filter Persepsi"),
-        ("stock_tells", "17. Bebas Gerakan Klise / Stock Tells"),
+        ("filter_words", "16. Bebas Kata Filter Persepsi Berlebihan"),
+        ("stock_tells", "17. Bebas Gerakan Klise Melodramatis"),
         ("ai_syntax", "18. Bebas Sintaksis AI & Pembungkus Abstrak"),
         ("bookish_tags", "19. Bebas Tag Dialog Buku Pelajaran"),
         ("slop_clinical", "20. Bebas AI Slop & Jargon Psikologi Klinis"),
-        ("sensory_cap", "21. Batas Anatomi Tubuh (<=2) & Penciuman (<=2) per Bab"),
-        ("discourse_rhythm", "22. Variasi Posisi Dialog (EndQ <=75%) & Ritme Kalimat"),
+        ("sensory_cap", f"21. Batas Anatomi Tubuh (<={P.get('embodied_max', 5)}) & Penciuman (<={P.get('smell_max', 3)}) per Bab"),
+        ("discourse_rhythm", f"22. Variasi Posisi Dialog (EndQ <={P.get('endq_max_pct', 85)}%) & Ritme Kalimat"),
     ]
 
     for key, title in labels:

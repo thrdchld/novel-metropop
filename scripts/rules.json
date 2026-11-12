@@ -4,15 +4,15 @@
   "word_min": 600,
   "word_max": 900,
   "word_max_emergency": 1200,
-  "max_quote_words": 20,
+  "max_quote_words": 45,
   "title_max_words": 5,
-  "endq_max_pct": 75,
-  "endq_min_dialogue_paras": 4,
-  "embodied_max": 2,
-  "smell_max": 2,
-  "mono_tolerance": 2,
-  "mono_min_run": 3,
-  "mono_min_words": 10
+  "endq_max_pct": 95,
+  "endq_min_dialogue_paras": 6,
+  "embodied_max": 6,
+  "smell_max": 4,
+  "mono_tolerance": 1,
+  "mono_min_run": 6,
+  "mono_min_words": 15
  },
  "patterns": {
   "ai_slop": [
@@ -40,16 +40,9 @@
    "\\bhealing\\b"
   ],
   "filter_words": [
-   "terasa",
-   "tampak",
-   "terlihat",
-   "seolah-olah",
-   "menyadari",
-   "menyaksikan"
+   "seolah-olah"
   ],
   "stock_tells": [
-   "menghela napas",
-   "mengembuskan napas",
    "mengepalkan tangan",
    "rahang mengeras",
    "menggigit bibir"

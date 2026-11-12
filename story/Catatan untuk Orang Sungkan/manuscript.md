@@ -2,75 +2,71 @@
 
 ## **Bab 1: Operator Layanan Patah Hati**
 
-Tiga hari yang lalu, aku baru saja dicampakkan oleh pacarku gara-gara aku terlalu sopan.
+Diputuskan pacar setelah dua tahun bersama itu rasanya pahit. Tapi diputuskan dengan alasan kamu terlalu sopan itu rasanya seperti ditampar pakai buku telepon tebal: membingungkan, memalukan, dan kamu tidak tahu harus marah kepada siapa.
 
-Bukan karena aku selingkuh. Bukan juga karena aku hobi berutang atau diam-diam ikut aliran sesat. Dimas memutuskanku setelah dua tahun pacaran di parkiran motor kantor pada Jumat malam lalu dengan kalimat yang sampai pagi ini masih terngiang di kepalaku.
+Jumat malam lalu, di samping motor matikku di parkiran basement kantor, Dimas menatapku dengan wajah serbasalah yang luar biasa menyebalkan.
 
-"Aku capek pacaran sama kamu, Nad," kata Dimas waktu itu, memasang wajah prihatin mirip korban bencana alam. "Kamu tuh nggak pernah marah, nggak pernah nolak, semuanya diiyain. Lama-lama rasanya kayak pacaran sama operator customer service, tahu nggak?"
+"Aku capek, Nad," katanya pelan, tangannya masih memegang helm. "Kamu tuh terlalu baik. Nggak pernah protes, nggak pernah nolak. Semuanya diiyain. Lama-lama rasanya kayak pacaran sama operator customer service, tahu nggak?"
 
-Sekarang, di Senin pagi yang mendung ini, aku sedang menatap punggung mantan pacarku itu dari balik layar monitorku di lantai tiga Kantor Penerbit Aksara Senja.
+Waktu itu aku cuma bisa mematung. Dan hal paling konyol dari semuanya? Alih-alih melempar helm ke arahnya atau menyuruhnya jalan kaki ke kosannya, mulutku yang terkutuk ini malah menjawab, "Maaf ya, Mas, kalau selama ini pelayanannya kurang memuaskan."
 
-Punya mantan satu kantor itu rasanya mirip punya sariawan gede di ujung lidah. Mau didiamkan tetap berdenyut nyeri, mau digigit malah makin berdarah. Meja divisi pemasaran tempatnya duduk cuma berjarak lima belas langkah dari kubikel desain tempatku bekerja. Di zaman sekarang, putus cinta mungkin baru dianggap sah kalau foto berdua di media sosial sudah dihapus dan akun sudah saling blokir. Masalahnya, bagaimana mau menghindar di kehidupan nyata kalau orangnya masih mondar-mandir di depan mejaku setiap dua puluh menit sekali?
+Dimas menghela napas, lalu pergi begitu saja. Dan resmi sudah, aku kembali menyandang status lajang di usia dua puluh enam tahun.
 
-"Lo kalau ngeliatin punggungnya terus sambil gigit pensil gitu, lama-lama tuh penghapus ketelan beneran, Nad," bisik Tari dari kursi sebelah.
+Masalahnya, putus cinta versi orang kantoran tidak pernah sesederhana menghapus foto di feed Instagram. Di dunia nyata, Dimas masih bekerja di divisi pemasaran Penerbit Aksara Senja. Dan meja kerjaku di tim desain sampul hanya berjarak lima belas langkah dari jalurnya menuju dispenser air minum.
 
-Aku tersentak. Pensil gambar langsung kutarik dari mulut. Sahabatku yang menjabat staf media sosial di kantor ini sedang mengunyah makaroni pedas dari stoples plastik sambil melirik ke arah kubikel pemasaran. Ujung karet penghapus di pensilku memang sudah gompal separuh gara-gara kugigiti sejak jam delapan pagi.
+"Lo dari jam delapan pagi ngeliatin dispenser kayak orang mau nyantet galon, Nad," suara Tari menyentak lamunanku.
 
-"Gue nggak ngeliatin dia," sanggahku pelan.
+Aku menoleh cepat. Sahabatku yang duduk di seberang kubikel itu sedang sibuk mencocokkan bagan warna di layar komputernya. Ujung karet penghapus di pensil kayuku memang sudah gompal separuh gara-gara kugigiti sejak pagi.
 
-"Terus ngeliatin apa? Dispenser?" Tari mendengus, lalu menyodorkan layar ponselnya. "Tuh, lihat story Instagram si Vanya anak magang pemasaran. Pagi-pagi udah pamer es kopi susu gula aren di mejanya."
+"Gue nggak ngeliatin dispenser," elakku sambil buru-buru menarik pensil dari mulut.
 
-Tari mengunyah makaroninya lagi. "Tulisannya makasih orang baik. Siapa lagi kalau bukan mantan lo yang baru putus itu?"
+"Iya, tapi lo ngeliatin Dimas yang bolak-balik ngisi tumbler tiap sepuluh menit," sahut Tari santai tanpa mengalihkan pandangan dari monitor. "Tadi dia lewat bawa kopi susu. Di cup-nya ada stiker nama Vanya, anak magang baru itu. Udah, gausah dipikirin. Cowok kayak gitu emang dasarnya pengin dicariin perkara melulu biar ngerasa hidupnya ada tantangan."
 
-Aku melirik layar ponsel Tari sekilas, lalu buru-buru membuang muka ke papan gambar digitalku. Dadaku panas. Pantas saja. Jumat malam lalu dia mendadak alergi pada sifat sabarku.
+Aku menunduk menatap papan gambar digitalku. Dadaku berdenyut nyeri, tapi aku menolak mengakuinya. Penyakit nggak enakanku ini memang sudah di tahap akut. Sejak kecil, sebagai anak tengah di keluarga yang serbaribut, aku terbiasa jadi peredam. Kalau ada sisa makanan di meja, aku yang mengalah. Kalau ada piring pecah, aku yang buru-buru menyapu sebelum Ibu mulai mengomel. Lama-lama, mengalah berubah jadi refleks bawah sadar. Kalau kakiku diinjak orang asing di KRL yang sesak, kepalaku otomatis menunduk dan bibirku minta maaf duluan.
 
-Bukannya aku tidak mau jadi perempuan galak yang berani membanting map kerja. Namun sejak kecil, sebagai anak tengah, aku terbiasa mengalah. Semua demi rumah yang tenang. Lama-lama kebiasaan itu menjelma jadi penyakit nggak enakan kronis. Aku ini tipe orang yang kalau kakinya terinjak sepatu pantofel orang lain di dalam KRL yang penuh sesak, aku yang refleks minta maaf duluan sambil tersenyum ramah.
+"Nadia! Ya ampun, untung lo belum ke kantin!"
 
-"Nad, makan siang nanti gue yang beliin bakso deh, tapi tolong banget ya?"
+Langkah tergesa Mbak Dinda dari tim redaksi fiksi memecah lamunanku. Belum sempat aku membalas sapaannya, sebuah map tebal sudah mendarat di atas mejaku.
 
-Suara cempreng itu datang tiba-tiba. Belum sempat aku menarik napas, sebuah map plastik biru sudah mendarat di atas papan gambarku, tepat menutupi sketsa sampul buku yang sedang kukerjakan. Mbak Dinda sudah berdiri di sampingku. Padahal jam dinding kantor baru menunjukkan pukul sebelas siang.
+"Nad, tolong banget ya," kata Mbak Dinda dengan senyum manis yang aromanya selalu berarti bencana lembur. "Tata letak sampul novelnya Mas Budi ini font-nya masih kurang sreg sama penulisnya. Minta tolong diganti tiga opsi warna lagi ya? Jam empat sore ini harus masuk percetakan."
 
-"Ini revisi tata letak sampul novelnya Mbak Laras tinggal ganti warna font dikit kok," kata Mbak Dinda cepat tanpa memberiku jeda.
+"Tapi Mbak, antrean naskah anak-anak desain hari ini..."
 
-Dia menepuk bahuku sekilas. "Anak gue ada ambil rapor siang ini, udah izin pulang duluan. Tolong beresin sebelum jam empat ya, Nad?"
+"Gue tahu lo paling cepat dan paling rapi kalau ngerjain beginian," potong Mbak Dinda sigap, menepuk bahuku dua kali. "Nanti sore gue bawain siomay depan kwitang deh. Makasih ya, Nad, lo emang penyelamat!"
 
-Mbak Dinda mengatupkan kedua tangan di depan dada. "Makasih banget loh, lo emang penyelamat gue!"
+Mbak Dinda langsung melesat pergi sebelum aku sempat menyelesaikan kalimat penolakanku.
 
-Di dalam kepalaku, aku sudah berdiri di atas kursi. Aku ingin berteriak bahwa minggu lalu dia juga pakai alasan ambil rapor, padahal anaknya baru umur dua tahun dan belum sekolah.
+Tari melirik map itu, lalu melirikku dengan tatapan prihatin. "Kan. Mulai lagi jadi keset selamat datang."
 
-Namun mulutku memilih jalan lain.
+"Cuma ganti warna font kok," gumamku pasrah.
 
-"Iya, Mbak. Nanti saya bantu sesuaikan warnanya," jawabku sopan, lengkap dengan senyum tipis.
+"Bulan lalu lo bilang cuma ganti warna font, ujung-ujungnya lo ngedesain ulang dari nol sampai jam sembilan malam sendirian di kantor ini," balas Tari datar.
 
-Mbak Dinda langsung melenggang pergi dengan langkah riang.
+Aku belum sempat membela diri saat aroma parfum maskulin yang sangat kuhafal mendadak mendekat. Langkah kaki seseorang berhenti tepat di depan kubikelku.
 
-"Nad, sumpah ya, lama-lama lo bukan cuma kayak operator customer service, tapi keset selamat datang," komentar Tari sambil menepuk jidatnya sendiri.
+Dimas berdiri di sana. Dia memakai kemeja biru muda yang dulu kupilihkan waktu ulang tahunnya. Di tangan kirinya, ada segelas es kopi susu dengan stiker nama yang persis dibilang Tari tadi.
 
-Aku baru mau membalas waktu bau parfum menyengat tercium di dekatku. Langkah kaki seseorang berhenti tepat di depan meja.
+"Pagi, Nad," sapanya santai. Santai sekali, seolah Jumat malam lalu kami cuma membicarakan ramalan cuaca.
 
-Dimas berdiri di sana. Dia memakai kemeja biru muda yang dulu kupilihkan waktu ulang tahunnya. Di tangan kirinya, ada segelas es kopi susu dengan merek yang persis sama seperti di story Instagram Vanya tadi.
-
-"Pagi, Nad," sapanya santai. Santai sekali, persis seperti penabrak tiang listrik yang turun dari mobil lalu bertanya polos ke orang sekitar.
-
-Aku menegakkan punggung. "Pagi, Mas. Ada keperluan apa ya?"
+Aku menegakkan punggung seketika. "Pagi, Mas Dimas. Ada keperluan apa ya?"
 
 Setiap kali aku gugup atau menahan marah, kalimat yang keluar dari mulutku selalu berubah jadi sangat baku seperti mesin penjawab otomatis bank.
 
-"Nad, tolong bikinin desain poster buat acara bincang buku divisi pemasaran hari Sabtu nanti dong," pinta Dimas santai. Dia meletakkan selembar kertas coretan ke atas map biru titipan Mbak Dinda. "Pakai template lama kamu aja. Soalnya Vanya baru pegang akun promosi, dia belum ngerti ukuran poster."
+"Nad, tolong bikinin desain poster buat acara bincang buku divisi pemasaran hari Sabtu nanti dong," pinta Dimas tanpa beban. Dia meletakkan selembar kertas coretan ke atas map biru titipan Mbak Dinda. "Pakai template lama kamu aja. Soalnya Vanya baru pegang akun promosi, dia belum paham ukuran poster."
 
-Tanganku di bawah meja langsung mencengkeram pensil gambar erat-erat. Enak saja. Sudah memutuskan aku Jumat malam lalu, pagi-pagi membelikan kopi buat gebetan barunya, dan sekarang dengan wajah tanpa dosa menyuruhku mengerjakan tugas gebetannya itu?
+Tanganku di bawah meja langsung mencengkeram rok kerja erat-erat. Enak saja. Sudah memutuskan aku Jumat malam lalu, pagi-pagi membelikan kopi buat gebetan barunya, dan sekarang dengan wajah tanpa dosa menyuruhku mengerjakan tugas gebetannya itu?
 
-Di kepalaku, aku ingin meremas kertas coretan itu dan menjejalkannya ke gelas kopinya.
+Di dalam kepalaku, aku ingin meremas kertas coretan itu dan melemparnya tepat ke kemeja birunya.
 
-"Gimana, Nad? Bisa kan dikirim ke email aku sebelum jam pulang?" tanyanya sambil menyeruput kopi, menatapku penuh keyakinan bahwa aku tidak akan pernah menolak.
+"Gimana, Nad? Bisa kan dikirim ke email aku sebelum jam pulang?" tanyanya sambil menyeruput kopi, menatapku penuh keyakinan bahwa aku tidak akan pernah punya keberanian untuk menolak.
 
-Aku menatap wajah mantanku itu. Aku melirik Tari yang melotot dari kursi sebelah, lalu menatap tumpukan kerjaan di mejaku. Aku menarik napas panjang untuk mengatakan kata tidak.
+Aku menatap wajah mantanku itu. Aku melirik Tari yang memberi kode gelengan kepala tegas dari seberang meja, lalu menatap tumpukan berkas yang menindih mejaku. Aku menarik napas panjang untuk mengatakan kata tidak.
 
-"Baik, Mas Dimas," kata mulutku dengan nada paling santun. "Akan segera saya proses setelah antrean desain sebelumnya selesai. Terima kasih."
+"Baik, Mas Dimas," kata bibirku dengan nada paling santun yang bisa kurangkai. "Akan segera saya proses setelah antrean desain sebelumnya selesai. Terima kasih."
 
-Dimas berbalik pergi sambil bersiul pelan.
+Dimas tersenyum puas, menepuk meja dua kali, lalu berbalik pergi sambil bersiul pelan.
 
-Begitu dia menjauh, aku langsung menelungkupkan wajah ke atas meja kerja. Aku benar-benar tidak tertolong lagi.
+Begitu langkah kakinya menghilang di balik pintu kaca, aku langsung menelungkupkan wajah ke atas papan gambar digitalku. Aku benar-benar tidak tertolong lagi.
 
 ---
 

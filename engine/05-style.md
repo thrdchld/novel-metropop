@@ -14,6 +14,30 @@
 
 ---
 
+## 1B. Benchmark Prosa Manusia Bernapas (Acuan Utama: Almira Bastari - *Resign!*)
+
+Untuk menghindari sindrom **AI Slop Mekanis & Sintaksis Kering**, seluruh proses penulisan bab wajib mengacu pada kualitas prosa manusia nyata dari novel MetroPop terlaris GPU (*acuan-bahasa.docx*).
+
+### Karakteristik Utama Prosa Manusia Hidup:
+1. **Musikalitas & Ritme Kalimat Alami (Bukan Staccato Mekanis):**
+   - Kalimat manusia memiliki ayunan: ada kalimat panjang yang mengalir bebas, lalu disusul kalimat pendek yang menohok.
+   - Jangan memotong kalimat menjadi serba pendek dan kaku hanya demi menghindari kata hubung.
+2. **Humor dari Ironi Situasi, BUKAN Inflasi Perumpamaan (*Stop Simile Spamming*):**
+   - *Buruk (AI Slop):* Memasang metafora bombastis setiap dua paragraf (*"memasang wajah mirip korban bencana alam"*, *"kayak sariawan gede di ujung lidah"*).
+   - *Benar (MetroPop Asli):* Humor lahir dari frustrasi nyata dunia kerja, ekspektasi vs realitas, dan celetukan batin spontan:
+     > *"Gantian aku yang melongo. Dari tadi nenek moyangmu, Tigran! Aku keluar dari ruangannya saja belum ada lima menit!"*
+     > *"Pak, komputer saya saja belum panas setelah ditinggal ngobrol sejam di ruangan Bapak."*
+   - **Batas perumpamaan:** Maksimal 1–2 perumpamaan wajar per bab. Jangan paksakan komedi jika adegan butuh keheningan.
+3. **Bebas Kloning Adegan Klise (*No More Snack-Eating Sidekick Clones*):**
+   - Dilarang keras mengulang formula: *"sahabat di kubikel sebelah mengunyah makaroni/keripik pedas dari stoples sambil menyindir mantan"*.
+   - Ciptakan rekan kerja dan interaksi yang memiliki kesibukan riil, urusan pekerjaan nyata, dan dinamika sosial yang beragam.
+4. **Dialog Lisan yang Mengalir Bebas (Hingga 45 Kata):**
+   - Manusia perkotaan berbicara mengalir. Jangan memotong dialog orang menjadi potongan 5 kata yang patah-patah. Berikan ruang bernapas pada dialog.
+5. **Interioritas Batin yang Jujur & Rapuh:**
+   - Berikan tokoh ruang hening untuk merasa lelah, sedih, atau bimbang tanpa harus buru-buru melucu atau menutup adegan dengan nasihat moral.
+
+---
+
 ## 2. Sudut Pandang (POV), Jarak Batin (*Psychic Distance*), dan Monolog Batin
 
 - **POV Utama (Rekomendasi): Orang Pertama ("Aku" / "Gue")**
