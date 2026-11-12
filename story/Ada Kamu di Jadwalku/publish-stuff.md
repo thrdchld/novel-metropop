@@ -2,11 +2,11 @@
 
 ## Blurb
 
-Di ponsel Hana, ada lima belas alarm aktif yang mengatur hidupnya sampai ke menit paling detail. Bagi Hana, hidup tanpa jadwal tertulis adalah bencana, alasan yang sama kenapa mantan tunangannya dulu angkat kaki.
+Di ponsel Hana, ada lima belas alarm aktif yang mengatur hidupnya sampai ke menit paling detail. Bagi Hana, hidup tanpa jadwal tertulis adalah bencana, alasan yang sama kenapa mantan tunangannya dulu memilih angkat kaki.
 
-Demi mengamankan promosi impiannya, Hana hanya perlu melatih seorang anak delapan tahun yang mogok bicara. Rencananya tampak sempurna, sampai Bima muncul sebagai wali murid. Pria berantakan dengan kemeja kusut dan senyum kelewat santai itu adalah definisi nyata dari kata "spontan".
+Demi mengamankan promosi impian yang sudah ia kejar bertahun-tahun, Hana hanya punya satu tugas terakhir: melatih seorang anak delapan tahun yang mogok bicara sampai berani tampil di panggung. Masalahnya, wali si anak adalah Bima, fotografer berantakan dengan kemeja kusut yang hidupnya seratus persen spontan dan tidak pernah peduli waktu.
 
-Berurusan dengan Bima jelas mengancam seluruh keteraturan hidup Hana. Namun di balik segala kekacauan jadwal itu, mungkinkah pria ini satu-satunya orang yang bisa membuat Hana lupa melihat jam?
+Ketika setiap pertemuannya dengan Bima selalu berujung mengacaukan seluruh agenda rapinya, sanggupkah Hana menjaga kewarasannya dan merebut promosi itu? Atau, hidup yang selama ini ia kunci rapat-rapat dalam jadwal justru akan runtuh berantakan?
 
 ---
 

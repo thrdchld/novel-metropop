@@ -2,11 +2,11 @@
 
 ## Blurb
 
-Bagi Nadia, bilang "enggak" rasanya jauh lebih menakutkan daripada gempa bumi. Akibatnya gampang ditebak: meja kerjanya jadi tempat buangan lemburan kantor, dan pacarnya sendiri tega minta putus karena bosan punya pasangan yang kelewat pasrah.
+Bagi Nadia, bilang "enggak" rasanya jauh lebih menakutkan daripada gempa bumi. Akibatnya gampang ditebak: meja kerjanya selalu jadi tempat buangan lemburan kantor, dan pacarnya sendiri tega minta putus karena bosan punya pasangan yang kelewat pasrah.
 
-Sialnya, omelan rahasia Nadia di tangga darurat malah dipergoki Saka, editor baru yang super ketus, anti-basa-basi, dan pantang lembur sedetik pun.
+Puncaknya, omelan rahasia Nadia di tangga darurat malah dipergoki Saka, editor baru yang super ketus, anti-basa-basi, dan pantang lembur sedetik pun.
 
-Kini, mereka dipaksa duduk semeja. Menghadapi pria paling tega di kantor jelas mimpi buruk bagi Nadia. Tapi bagaimana kalau Saka justru satu-satunya orang yang bisa mengajarinya cara punya harga diri?
+Kini, atasan justru memaksa mereka duduk semeja untuk menggarap proyek penting. Terjebak di samping pria paling tidak kenal kompromi sedunia, sanggupkah Nadia bertahan tanpa kehilangan akal sehatnya? Atau kali ini, dia akhirnya dipaksa belajar bersuara sebelum dirinya benar-benar habis dimanfaatkan orang?
 
 ---
 
