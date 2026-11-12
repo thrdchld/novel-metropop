@@ -12,11 +12,15 @@ Aku berdiri di teras kecil dekat rak sepatu kos, menerima kembali tabung gambar 
 
 Namun dia belum langsung berbalik pergi. Tangan kanannya terulur menyodorkan kantong plastik berisi kotak martabak manis yang masih hangat itu ke arahku.
 
-"Sekalian bawa masuk ini," kata Saka singkat.
+"Sekalian bawa masuk ini," kata Saka seraya menyodorkan bungkusan plastik hangat itu ke arahku.
 
 Aku menatap bungkusan itu lalu menatap wajahnya dengan kening berkerut. "Loh, bukannya Mas Saka tadi berhenti di gerobak depan karena mau cari makan malam buat sendiri?"
 
-"Tadi niatnya cuma mau beli martabak telur satu buat makan di kereta," kata Saka dengan wajah lempeng tanpa dosa. "Tahunya kata abangnya lagi ada promo malam Jumat, beli martabak telur gratis martabak manis cokelat keju satu loyang. Saya kan udah bilang minggu lalu kalau saya nggak suka makanan manis. Daripada dibuang di stasiun, kamu aja yang habisin."
+"Tadi niatnya beli martabak telur buat makan di kereta," kata Saka dengan wajah lempeng.
+
+Dia mengangkat bungkusan itu sedikit. "Kata abangnya ada promo malam Jumat, dapat bonus martabak manis seloyang."
+
+Saka melirik ke arah jalan gang. "Saya kan nggak suka makanan manis. Daripada dibuang di stasiun, kamu aja yang habisin."
 
 Aku menatap kotak martabak itu. Di bagian atas kardusnya, tertulis jelas dengan spidol hitam oleh abang penjualnya: Martabak Manis Cokelat Keju Spesial. Dan di dalam kantong plastik yang dibawa Saka sendiri, sama sekali tidak ada kotak kedua yang katanya berisi martabak telur itu.
 
@@ -36,13 +40,19 @@ Kening Saka berkerut tipis melihatku tertawa. "Kenapa ketawa? Ada yang salah sam
 
 "Bukan martabaknya yang salah, Mas," kataku di sela sisa tawaku. Aku mengangkat jari telunjukku, menunjuk tepat ke arah tangan kirinya yang masih bertengger di atas tutup botol minum hitam penyoknya. "Tangan Mas Saka tuh yang bocorin rahasia."
 
-Saka menunduk melihat tangannya sendiri dengan tatapan bingung. "Kenapa tangan saya?"
+Saka menunduk melihat tangannya sendiri dengan tatapan bingung. "Kenapa tangan saya?" tanyanya keheranan.
 
-"Mas Saka sadar nggak sih?" Aku melangkah setengah tapak lebih dekat, menatapnya dengan senyum geli. "Setiap kali Mas Saka habis ngarang alasan bohong buat nutupin kebaikan Mas Saka ke aku, jempol Mas Saka itu pasti refleks muter tutup botol minum hitam itu sampai bunyi klik dua kali."
+"Mas Saka sadar nggak sih?" Aku melangkah setengah tapak lebih dekat, menatapnya dengan senyum geli. "Tiap kali Mas Saka ngarang alasan bohong, jempol Mas Saka refleks muter tutup botol hitam itu."
+
+Aku tersenyum menahan geli. "Sampai bunyi klik dua kali."
 
 Mata Saka langsung mengerjap sekali.
 
-"Waktu di warung ayam bakar hari Rabu, Mas Saka ngaku abang warungnya salah hitung es jeruk sambil muter tutup botol itu dua kali," hitungku sambil mengacungkan jari satu per satu. "Hari Jumat sore waktu ngasih cokelat minimarket karena tanganku gemetaran habis nolak Mas Dimas, Mas Saka juga bilang itu hadiah beli kopi sambil muter tutup botol dua kali. Dan barusan, ngaku dapat promo martabak gaib sambil bunyi klik dua kali lagi."
+"Waktu di warung ayam bakar, Mas Saka ngaku abangnya salah hitung es jeruk sambil muter tutup botol," hitungku.
+
+Aku mengacungkan dua jari di depannya. "Waktu ngasih cokelat sehabis nolak Dimas, Mas Saka ngaku dapat hadiah beli kopi sambil muter botol."
+
+Aku menunjuk kotak martabak di tanganku. "Dan barusan, ngaku dapat promo martabak gaib sambil klik dua kali lagi."
 
 Hening.
 
@@ -50,15 +60,15 @@ Suara jangkrik dari pot tanaman ibu kos di pojok teras terdengar mengisi jeda di
 
 Untuk pertama kalinya sejak aku mengenal editor pindahan dari cabang Yogyakarta ini, wajah datar yang biasanya dingin dan tak tergoyahkan itu berubah warna. Di bawah sinar lampu teras yang kekuningan, rona kemerahan merambat naik dengan jelas dari leher sampai ke kedua daun telinga Saka.
 
-Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya seolah botol itu baru saja nyetrum jarinya.
+Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya seperti botol itu baru saja menyengat jarinya.
 
-"Enggak ada hubungannya," sanggah Saka cepat. Suaranya terdengar agak kaku, lalu dia berdeham pendek sambil membuang pandangan ke arah pot tanaman lidah mertua di samping pagar. "Tutup botolnya emang agak dol karetnya. Makanya sering saya kencangkan."
+"Enggak ada hubungannya," sanggah Saka seraya membuang pandangan ke arah pot lidah mertua di samping pagar. "Tutup botolnya emang agak dol karetnya. Makanya sering saya kencangkan."
 
-"Oh, karetnya dol ya," godaku sambil menerima kantong plastik martabak manis hangat itu dari tangannya. "Berarti karetnya pilih kasih ya, Mas. Cuma dol tiap kali Mas Saka habis beliin aku makanan."
+"Oh, karetnya dol ya," godaku seraya menerima kantong plastik martabak manis hangat itu dari tangannya. "Berarti karetnya pilih kasih ya, Mas. Cuma dol tiap kali Mas Saka habis beliin aku makanan."
 
 Saka tidak menjawab. Dia hanya berdeham sekali lagi, membetulkan tali tas selempang di bahunya yang sebenarnya sudah rapi.
 
-"Udah malam. Masuk sana, makan selagi hangat," katanya singkat tanpa menatap mataku.
+"Udah malam. Masuk sana, makan selagi hangat," kata Saka tanpa menatap mataku lagi.
 
 Namun tepat saat dia berbalik badan dan membuka gerbang besi kosku untuk melangkah keluar ke jalan gang, aku sempat melihat pantulan wajahnya dari kaca jendela pos depan. Laki-laki kaku itu sedang menahan senyum tipis di sudut bibirnya sambil menggelengkan kepala pelan-pelan.
 

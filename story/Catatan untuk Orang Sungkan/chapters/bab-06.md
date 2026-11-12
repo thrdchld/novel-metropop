@@ -2,7 +2,7 @@
 
 Hari Jumat sore di kantor penerbitan biasanya punya dua kasta manusia: kasta yang sejak jam tiga sore sudah sibuk merapikan meja sambil memantau aplikasi ojek online, dan kasta yang mejanya masih dikepung tumpukan kertas revisi.
 
-Selama dua tahun bekerja di Aksara Senja, aku selalu menjadi warga tetap kasta kedua. Tapi Jumat sore ini, untuk pertama kalinya meja kerjaku di nomor empat terlihat bersih dan manusiawi.
+Selama dua tahun bekerja di Aksara Senja, aku selalu menjadi warga tetap kasta kedua. Tapi Jumat sore ini, untuk pertama kalinya meja kerjaku di nomor empat bersih dan manusiawi.
 
 Sejak berhasil menolak jurus dompet ketinggalan Riko di warung ayam bakar hari Rabu lalu, aku mulai ketagihan mengucapkan kalimat penolakan kecil. Kemarin siang waktu staf administrasi minta tolong dipotongkan kupon diskon manual sebanyak dua ratus lembar, aku berani bilang sedang mengejar tenggat sketsa bab tiga. Langit Cikini ternyata memang tidak runtuh, dan plafon kantor juga tidak tiba-tiba roboh menimpa kepalaku.
 
@@ -10,9 +10,11 @@ Sejak berhasil menolak jurus dompet ketinggalan Riko di warung ayam bakar hari R
 
 "Beneran nggak usah dibawa pulang, Mas?" tanyaku sambil merapikan kotak pensil. "Kalau aku tebalkan malam Minggu di kos kan Senin pagi kita bisa langsung masuk bab empat."
 
-Saka menoleh, menatapku dengan ekspresi datarnya yang khas. "Sabtu kita sudah ada jadwal survei referensi buku lawas ke Kwitang dua jam. Sisanya itu akhir pekan. Buku Sela Waktu itu tentang orang kota yang lupa cara istirahat, masa ilustratornya sendiri nggak punya jam istirahat?"
+"Sabtu kita survei buku lawas ke Kwitang dua jam," kata Saka menatapku lurus. "Sisanya itu akhir pekan."
 
-Aku nyengir kecil, baru saja hendak menutup buku sketsaku ketika suara tawa perempuan yang agak dibuat-buat terdengar mendekat dari lorong divisi pemasaran.
+Saka melipat tangan di meja. "Buku Sela Waktu itu tentang orang kota yang lupa istirahat. Masa ilustratornya sendiri nggak istirahat?"
+
+Aku menyengir kecil, baru saja hendak menutup buku sketsaku ketika suara tawa perempuan yang agak dibuat-buat terdengar mendekat dari lorong divisi pemasaran.
 
 Aku menoleh, dan senyum di wajahku langsung luntur.
 
@@ -28,15 +30,21 @@ Saka hanya mengangguk singkat setengah sentimeter tanpa membuka suara, lalu kemb
 
 "Iya, sama-sama," jawabku singkat. Punggungku otomatis menegak kaku di kursi.
 
-Dimas menumpukan satu tangannya ke pinggiran mejaku dengan gaya akrab seolah-olah kami masih sepasang kekasih yang biasa pulang bareng tiap malam Sabtu.
+Dimas menumpukan satu tangannya ke pinggiran mejaku dengan gaya akrab seperti kami masih sepasang kekasih yang biasa pulang bareng tiap malam Sabtu.
 
-"Gini, Nad," kata Dimas dengan nada manis yang dulu selalu berhasil meluluhkan hatiku. "Besok siang kan acara bincang bukunya jadi pindah ke aula kafe bawah. Ternyata panggungnya butuh desain latar belakang ukuran tiga kali dua meter buat dicetak malam ini juga di percetakan langganan."
+"Acara bincang buku besok pindah ke aula bawah," kata Dimas dengan nada manis yang dulu selalu berhasil meluluhkan hatiku.
+
+Dimas mencondongkan badan. "Panggungnya butuh latar tiga kali dua meter buat dicetak malam ini di percetakan langganan."
 
 Aku menatap Dimas tidak percaya. "Malam ini? Sekarang kan udah jam empat lewat dua puluh, Mas."
 
-"Makanya itu, Nad," sahut Dimas sambil tersenyum memelas. "Tadi Vanya udah coba bikin pakai aplikasi instan, tapi resolusinya pecah waktu diperbesar. Aku langsung kepikiran kamu. Cuma kamu di kantor ini yang paling hafal selera warnaku, Nad. Dari dulu kan kalau aku ada acara mendadak, kamu selalu paling sigap nolongin aku."
+"Vanya coba bikin tapi resolusinya pecah," bujuk Dimas tersenyum memelas. "Aku langsung kepikiran kamu."
 
-Di sebelahnya, Vanya ikut mengangguk-angguk. "Iya, Kak Nadia. Kata Mas Dimas, Kak Nadia tuh orangnya paling baik dan nggak pernah tega lihat tim pemasaran kesusahan. Tolongin kita sekali lagi ya, Kak? Biar aku sama Mas Dimas bisa langsung ke tempat katering sore ini."
+Dimas melirik mejaku penuh harap. "Cuma kamu yang paling hafal selera warnaku, Nad. Kamu kan selalu sigap nolongin aku."
+
+Di sebelahnya, Vanya ikut mengangguk. "Iya, Kak Nadia. Kata Mas Dimas, Kak Nadia paling baik dan nggak tega lihat kami kesusahan."
+
+Vanya memilin ujung rambutnya manja. "Tolongin kita ya, Kak? Biar aku sama Mas Dimas bisa langsung ke katering sore ini."
 
 Dadaku rasanya seperti baru saja ditindih lemari besi.
 
@@ -50,4 +58,4 @@ Namun sebelum jariku menyentuh gulungan kertas di tangan Dimas, sudut mataku men
 
 Saka tidak lagi menatap layar laptopnya. Dia sedang bersandar tenang di kursinya sambil melipat kedua lengan di depan dada. Wajahnya mengarah tepat kepadaku.
 
-Berbeda dengan Selasa sore lalu saat menghadapi Mbak Dinda, kali ini Saka sama sekali tidak membuka mulut untuk memotong ucapan Dimas. Dia tidak pasang badan, tidak juga mengambil alih pembicaraan. Dia hanya menatapku lurus-lurus dalam diam, seolah sedang menunggu apakah aku akan kembali menjadi keset selamat datang untuk mantan pacarku sendiri, atau berani berdiri di atas kakiku sendiri.
+Berbeda dengan Selasa sore lalu saat menghadapi Mbak Dinda, kali ini Saka sama sekali tidak membuka mulut untuk memotong ucapan Dimas. Dia tidak pasang badan, tidak juga mengambil alih pembicaraan. Dia hanya menatapku lurus dalam diam, seolah sedang menunggu apakah aku akan kembali menjadi keset selamat datang untuk mantan pacarku sendiri, atau berani berdiri di atas kakiku sendiri.

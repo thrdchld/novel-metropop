@@ -8,25 +8,29 @@ Aku tidak mau lagi memakai kalimat baku atau bersembunyi di balik gengsi. Aku ma
 
 Namun begitu aku melangkah mendekati meja proyek nomor empat di dekat jendela besar, langkah kakiku melambat.
 
-Meja sebelah kananku tampak terlalu bersih.
+Meja sebelah kananku terlalu bersih.
 
 Tidak ada tumpukan naskah referensi. Tidak ada kabel pengisi daya laptop yang biasanya tergulung rapi di dekat stopkontak. Bahkan kotak tempat bolpoin dan buku catatan hitam yang biasanya ditinggal Saka di sudut meja itu sudah lenyap tak berbekas.
 
 Meja itu kosong melompong, persis seperti sketsa yang kugambar sendiri di halaman penutup buku Sela Waktu hari Jumat lalu.
 
-"Pagi, Nad. Tumben udah sampai jam segini?"
+"Pagi, Nad. Tumben udah sampai jam segini?" sapa Riko yang baru keluar dari dapur kantor sambil membawa cangkir kopi.
 
-Suara Riko yang baru keluar dari dapur kantor sambil membawa cangkir kopi membuatku menoleh cepat.
+"Pagi, Bang Riko," sapaku seraya memegang erat gelas kopi hitam yang kubeli untuk Saka. "Mas Saka belum datang ya? Mejanya kok bersih banget?"
 
-"Pagi, Bang Riko," sapaku sementara tanganku masih memegang gelas kopi hitam yang kubeli untuk Saka. "Mas Saka... belum datang ya? Kok mejanya bersih banget?"
+Riko menatapku heran lalu menunjuk meja itu dengan dagunya. "Lo belum dikasih tahu?"
 
-Riko menatapku heran, lalu menunjuk meja kosong itu dengan dagunya. "Lah, lo belum dikasih tahu? Mas Saka kan kemarin sore jam setengah enam udah pamitan sama Pak Ramdan buat berangkat ke Jogja lebih awal."
+Dia menyeruput kopinya sejenak. "Mas Saka kemarin pamit ke Jogja lebih awal."
 
 Tanganku yang memegang gelas kertas kopi hitam itu langsung melemas, hampir saja menjatuhkan isinya ke karpet.
 
-"Berangkat ke Jogja kemarin sore?" ulangku dengan suara tercekat. "Bukannya jadwal penugasan dia baru habis akhir minggu ini setelah acara peluncuran buku hari Jumat?"
+"Berangkat ke Jogja kemarin sore?" ulangku dengan suara tercekat di tenggorokan. "Bukannya jadwal penugasan dia baru habis akhir minggu ini?"
 
-"Kata Pak Ramdan sih karena berkas naik cetak Sela Waktu udah beres ditandatangani kemarin siang, Mas Saka minta izin balik ke Jogja duluan pakai kereta malam buat ngurus berkas kantornya di sana," jelas Riko santai sebelum berjalan menuju mejanya sendiri. "Katanya urusan di sininya udah nggak ada yang perlu ditungguin lagi."
+"Berkas naik cetak kan udah beres kemarin," jelas Riko santai.
+
+Dia menatap meja kosong itu. "Mas Saka izin balik ke Jogja naik kereta malam buat ngurus berkas kantor."
+
+Riko berbalik menuju mejanya. "Katanya urusan di sini udah nggak ada yang perlu ditunggu."
 
 Urusan di sininya udah nggak ada yang perlu ditungguin lagi.
 
@@ -56,4 +60,10 @@ Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-bu
 
 Tadi malam, setelah pulang dari Rawamangun, aku sempat mengirim pesan kepada Tari. Kuceritakan bahwa aku menolak Dimas di depan Ibu dan tidak akan kembali kepadanya.
 
-"Lo tenang dulu, Nad. Gue barusan udah kirim pesan panjang ke WhatsApp Mas Saka buat ngasih tahu kalau semalam lo udah nolak Dimas di depan nyokap lo," kata Tari yang tahu-tahu sudah berdiri di samping mejaku sambil menepuk pundakku pelan. "Begitu ponselnya nyala di Jogja nanti, dia pasti baca. Dan kalau dia emang peduli sama buku ini, hari Jumat nanti di panggung peluncuran Sela Waktu dia nggak mungkin absen."
+"Lo tenang dulu, Nad," bisik Tari yang tahu-tahu sudah berdiri di samping meja seraya meremas pundakku.
+
+Dia melirik gelas kopi dingin di depanku. "Gue udah kirim pesan ke WhatsApp Mas Saka soal lo nolak Dimas semalam."
+
+Tari mengangguk yakin. "Begitu ponselnya nyala di Jogja, dia pasti baca."
+
+"Kalau dia peduli sama buku ini, di panggung peluncuran Jumat nanti dia nggak bakal absen," tambah Tari menenangkan hatiku.

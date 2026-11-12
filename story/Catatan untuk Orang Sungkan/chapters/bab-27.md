@@ -6,7 +6,7 @@ Ibu duduk di seberang kami dengan wajah cerah dan segar, sementara aku duduk di 
 
 Selama setengah jam pertama, Dimas memainkan perannya sebagai calon menantu idaman dengan nilai sempurna. Dia yang menyendokkan nasi ke piring Ibu, memisahkan duri ikan gurame dari bagian tengahnya, dan terus menanyakan apakah pusing Ibu sudah benar-benar hilang.
 
-"Alhamdulillah udah enteng banget kepala Ibu sekarang, Nak Dimas," kata Ibu sambil tersenyum senang menatap kami berdua. "Ibu tuh lega banget akhirnya kalian berdua duduk bareng lagi kayak gini. Namanya orang pacaran lama kan wajar kalau ada salah paham dikit."
+"Alhamdulillah udah enteng banget kepala Ibu sekarang, Nak Dimas," kata Ibu tersenyum senang. "Ibu lega kalian duduk bareng lagi. Namanya pacaran kan wajar kalau ada salah paham dikit."
 
 Dimas tersenyum sopan kepada Ibu, lalu menoleh ke arahku. Di atas meja, tangannya bergeser mendekati tanganku.
 
@@ -24,7 +24,9 @@ Namun tepat di detik aku hendak membuka mulut, seorang pelayan rumah makan datan
 
 Begitu petugas rumah makan itu berbalik pergi, Dimas tiba-tiba terkekeh geli sambil menyandarkan punggungnya ke kursi dengan gaya santai yang sangat kuhafal. Merasa bahwa di detik itu aku sudah resmi kembali ke dalam genggamannya dan Ibu sudah berada di pihaknya, topeng merendah yang dipakainya sejak hari Rabu lalu mulai melorot tanpa ia sadari.
 
-"Tuh kan, Bu, lihat deh Nadia. Dari dulu emang nggak berubah ya, Bu. Sama orang salah antar minum aja ngomongnya masih kaku dan nggak enakan begitu. Untung sekarang udah balik sama saya lagi, jadi ada yang ngarahin," kata Dimas kepada Ibu sambil tertawa kecil.
+"Tuh kan, Bu, lihat deh Nadia," kata Dimas kepada Ibu seraya terkekeh. "Sama orang salah antar minum aja ngomongnya masih kaku begitu."
+
+Dimas melirikku santai. "Untung udah balik sama saya lagi, jadi ada yang ngarahin."
 
 Gerakan kepalaku yang tadinya hampir mengangguk langsung berhenti di tengah jalan.
 
@@ -32,13 +34,21 @@ Keningku berkerut tipis. Nada bicara Dimas barusan bukan nada seseorang yang men
 
 Belum sempat aku mencerna perubahan nadanya itu, Dimas sudah meraih gelas es teh manisnya sambil berbicara lagi dengan enteng.
 
-"Oh iya, Nad, ngomong-ngomong soal jadwal minggu ini," kata Dimas santai sambil menyendok gurame bakar ke piringnya sendiri. "Jumat sore nanti jam empat kan Pak Manajer Pemasaran ngadain acara syukuran ulang tahun pernikahannya di restoran daerah Senayan. Kamu temenin aku datang ke sana ya? Sekalian aku kenalin lagi sama istri bosku."
+"Jumat sore jam empat, bos pemasaran ngadain acara syukuran pernikahan di Senayan," kata Dimas seraya menyendok gurame.
 
-Aku menoleh cepat menatap Dimas. "Jumat sore jam empat? Mas, Jumat sore jam empat ini kan jadwal acara peluncuran dan bincang buku Sela Waktu di Cikini. Aku udah dijadwalkan duduk di panggung bareng Mas Saka sebagai ilustratornya."
+Dia menatapku santai. "Kamu temani aku ke sana ya? Sekalian kukenalkan sama istri bosku."
 
-Dimas mengibaskan tangan kirinya di udara dengan enteng, seolah acara peluncuran buku yang kukerjakan siang malam selama sebulan itu cuma arisan RT.
+Aku menoleh cepat menatap Dimas. "Jumat sore jam empat?" tanyaku kaget. "Itu jadwal peluncuran buku Sela Waktu di Cikini. Aku harus duduk di panggung bareng Mas Saka."
 
-"Yah, Nad, buku esai kecil gitu kan biar diurus sama editor Jogja itu sendiri aja di panggung," kata Dimas ringan, lalu menoleh mencari dukungan kepada Ibu dengan senyum manisnya. "Iya kan, Bu? Lagian Nadia itu dari dulu paling lembek dan gugup kalau disuruh ngomong di depan orang banyak, yang ada nanti malah kaku kayak robot. Lebih penting Nadia nemenin saya ke acara bos pemasaran buat masa depan karier saya. Soal izin ke Pak Ramdan biar besok pagi saya yang bilangin kalau Nadia nggak usah tampil."
+Dimas mengibaskan tangan kirinya di udara dengan enteng, seperti acara peluncuran buku yang kukerjakan siang malam selama sebulan itu cuma arisan RT.
+
+"Buku esai kecil gitu biar diurus editor Jogja itu sendiri aja di panggung," kata Dimas enteng.
+
+Dia menoleh ke arah Ibu. "Lagian Nadia kan dari dulu gugup kalau ngomong depan orang banyak."
+
+Dimas mengunyah nasinya. "Lebih penting nemenin saya ke acara bos pemasaran buat karier saya."
+
+Dia tersenyum percaya diri. "Soal izin ke Pak Ramdan, besok biar saya yang bilang kalau Nadia nggak usah tampil."
 
 Suara bising pengunjung rumah makan di sekeliling kami mendadak lenyap dari pendengaranku.
 

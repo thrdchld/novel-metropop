@@ -10,11 +10,11 @@ Saka melirik jam tangannya sekilas. "Enggak. Kamu datang lima menit sebelum jam 
 
 Aku tertegun sejenak, lalu tersenyum kecut. Benar juga. Kebiasaan minta maaf bahkan waktu tidak melakukan kesalahan apa-apa memang sudah mendarah daging di tubuhku.
 
-Kami mulai berjalan menyusuri trotoar kawasan Kwitang menuju deretan kios buku bekas yang berjejer di pinggir jalan. Matahari Jakarta Pusat siang itu sedang terik-teriknya, memantul dari kaca-kaca mobil yang merayap padat di jalan raya sebelah kami.
+Kami menyusuri trotoar kawasan Kwitang. Deretan kios buku bekas berjejer di pinggir jalan. Matahari Jakarta Pusat sedang terik-teriknya. Panasnya memantul dari kaca mobil yang merayap padat di aspal sebelah kami.
 
-Baru berjalan sepuluh langkah, tiba-tiba sebuah motor kurir barang melaju agak mepet ke bibir trotoar untuk menghindari kemacetan.
+Baru berjalan sepuluh langkah, sebuah motor kurir melaju mepet ke bibir trotoar.
 
-Belum sempat aku menghindar, Saka yang tadinya berjalan di sisi dalam dekat tembok ruko langsung bergeser memutar ke belakang punggungku. Tanpa menyentuh bahuku dan tanpa mengatakan apa-apa, dia bertukar posisi denganku sehingga tubuhnya yang tinggi sekarang berada di sisi luar trotoar yang berbatasan langsung dengan aspal jalan raya.
+Saka langsung bergeser ke belakang punggungku. Tanpa menyentuh bahuku dan tanpa bicara, dia bertukar posisi denganku. Tubuhnya yang tinggi kini menghalangi sisi jalan raya.
 
 Aku menoleh ke samping, menatap profil wajahnya dari bawah bayangan topi ruko.
 
@@ -22,7 +22,7 @@ Aku menoleh ke samping, menatap profil wajahnya dari bawah bayangan topi ruko.
 
 "Motor kurir di jalur ini suka ngebut mepet trotoar. Kamu jalan di sebelah dalam aja biar aman," jawab Saka singkat, pandangannya lurus ke depan.
 
-Aku mengerjap pelan, lalu menahan senyum kecil. Dulu waktu masih pacaran sama Dimas, kalau kami jalan di trotoar lalu dia pindah ke sisi luar, Dimas pasti langsung merangkul bahuku sambil pengumuman keras-keras: Lihat nih, Nad, aku jagain kamu biar nggak keserempet motor, kurang romantis apa coba pacar kamu ini?
+Aku mengerjap pelan, lalu menahan senyum kecil. Dulu waktu masih pacaran sama Dimas, kalau kami jalan di trotoar lalu dia pindah ke sisi luar, Dimas pasti langsung merangkul bahuku sambil pamer: Lihat nih, Nad, aku jagain kamu biar nggak keserempet motor, kurang romantis apa coba pacar kamu ini?
 
 Sementara laki-laki di sebelahku ini cuma bergeser tenang tanpa merasa perlu pamer apa-apa.
 
@@ -30,7 +30,9 @@ Kami berhenti di salah satu kios buku tua yang bagian depannya dipenuhi tumpukan
 
 "Buat bab empat sama lima nanti, kita butuh referensi gaya papan nama toko-toko lama di Jakarta tahun delapan puluhan," kata Saka sambil berjongkok di depan rak kayu paling bawah. "Di naskah kan ada bagian yang bahas bioskop tua sama toko roti zaman dulu."
 
-Aku ikut berjongkok di sebelahnya, menarik buku sketsaku dari dalam tas. "Kalau aku bikin gaya arsirannya agak kasar pakai tekstur pensil arang kayak gini menurut Mas Saka gimana? Kemarin Mas Dimas sempat bilang gaya gambarku yang kayak gini kelihatan kusam dan kurang komersial."
+Aku ikut berjongkok di sebelahnya, menarik buku sketsaku dari dalam tas. "Gaya arsiran kasar pakai pensil arang begini cocok nggak, Mas?"
+
+Aku meringis canggung. "Kemarin Dimas bilang gaya kayak gini kusam dan kurang komersial."
 
 Tangan Saka yang sedang menarik sebuah buku kumpulan foto Jakarta tempo dulu berhenti bergerak. Dia menoleh menatap halaman buku sketsaku.
 
@@ -38,11 +40,13 @@ Tangan Saka yang sedang menarik sebuah buku kumpulan foto Jakarta tempo dulu ber
 
 "Staf pemasaran, Mas."
 
-"Berarti yang tahu cocok atau enggaknya gambar itu sama isi naskah Sela Waktu itu saya sama kamu, bukan dia," kata Saka lugas. Dia menunjuk goresan pensil arang di kertas sketsaku. "Arsiran kasar kamu di bagian bayangan gedung ini justru yang bikin gambarnya kelihatan hidup. Jangan diubah jadi licin kayak brosur perumahan. Pertahankan gaya kamu sendiri."
+"Berarti yang tahu cocok atau enggaknya gambar itu sama isi naskah Sela Waktu itu saya sama kamu, bukan dia," kata Saka lugas.
+
+Dia menunjuk kertas sketsaku. "Arsiran kasar bayangan gedung ini justru bikin gambarnya hidup. Jangan diubah jadi licin kayak brosur perumahan. Pertahankan gayamu sendiri."
 
 Dadaku menghangat mendengar kalimat itu. Selama dua tahun di kantor, setiap kali aku menunjukkan sketsa pribadi ke Dimas, selalu ada saja yang disuruh ubah supaya mirip tren desain orang lain. Baru kali ini ada orang yang menyuruhku mempertahankan goresan tanganku sendiri.
 
-Saka mengambil buku tebal bersampul kain beludru pudar dari rak bawah. Debu tipis langsung mengepul dari punggung buku itu.
+Saka mengambil buku tebal bersampul kain beludru pudar dari rak bawah. Debu tipis mengepul dari punggung buku itu.
 
 Sebelum menyerahkan buku itu kepadaku, Saka merogoh saku celana jinsnya, mengeluarkan sebungkus tisu lipat, lalu mengelap permukaan sampul depan dan belakang buku tua itu sampai bersih dari debu.
 

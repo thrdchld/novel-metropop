@@ -1,43 +1,55 @@
 ## Bab 23: Bujukan Ibu dan Hati Goyah
 
-Menjelang pukul lima sore, keadaan Ibu sudah jauh membaik setelah minum obat dari klinik dan beristirahat di kamarnya.
+Menjelang pukul lima sore, keadaan Ibu berangsur membaik setelah meminum obat dari klinik dan beristirahat cukup di kamar.
 
-Aku mengantar Dimas keluar menuju teras depan rumah sambil membawa nampan cangkir teh kosong. Langit Rawamangun sore itu berwarna jingga pucat setelah angin sore berembus pelan.
+Aku mengantar Dimas ke teras depan. Di tanganku bertengger nampan berisi cangkir kosong. Udara Rawamangun sore itu cukup sejuk oleh semilir angin yang menggoyangkan dedaunan mangga di pekarangan. Bau minyak kayu putih dari kamar tidur masih samar tercium di baju rumahanku.
 
-"Makasih banyak ya, Mas Dimas, udah repot-repot nganterin Ibu ke klinik sampai sore gini," kataku tulus sambil berdiri di dekat tiang teras. "Nanti uang obat klinik, bubur, sama bensinnya aku ganti lewat m-banking ya."
+"Makasih banyak ya, Mas Dimas, udah repot nganterin Ibu ke klinik sampai sore gini," kataku tulus di dekat tiang teras. "Nanti uang obat klinik sama bensinnya aku ganti lewat transfer m-banking."
 
-Dimas menggeleng pelan, menatapku dengan pandangan teduh yang sama sekali tidak menyisakan kesombongan lamanya.
+Dimas menggeleng pelan seraya menatapku dengan sorot mata teduh. Sikap jemawa yang dulu melekat padanya kini lenyap tak berbekas.
 
-"Jangan diganti, Nad. Aku ikhlas kok buat Ibu kamu. Tadi waktu Ibu istirahat di kamar sehabis minum obat, sebenarnya aku udah ngaku jujur sama Ibu kalau hampir sebulan lalu kita sempat putus gara-gara keegoisanku," kata Dimas lembut sambil berhenti di anak tangga teras.
+"Jangan diganti, Nad. Aku ikhlas membantu Ibu," tolak Dimas halus. Dia berhenti tepat di anak tangga teras. "Waktu Ibu istirahat di kamar sehabis minum obat racikan, aku sudah terus terang soal hubungan kita."
 
-Aku terkesiap kecil. "Mas Dimas cerita ke Ibu?"
+Gelas kaca di nampanku berdenting pelan. "Mas Dimas cerita apa ke Ibu?"
 
-"Iya," jawab Dimas sambil menunduk. "Waktu Ibu nanya kenapa kita kelihatan agak canggung di klinik tadi, aku nggak tega bohongin Ibu kamu. Aku bilang ke Ibu kalau waktu itu aku yang salah dan terlalu kekanak-kanakan sampai nyakitin kamu. Tapi aku juga bilang ke Ibu kalau aku bener-bener nyesel dan pengin memperbaiki semuanya dari nol."
+"Semuanya," aku Dimas seraya menundukkan kepala. "Waktu Ibu tanya kenapa sikap kita agak berjarak di klinik, aku nggak tega terus-terusan berbohong."
 
-Dimas melangkah mendekat satu tapak, namun tetap menjaga jarak sopan tanpa memaksaku.
+Dia terdiam dua detik sebelum menyambung ucapannya. "Aku bilang kalau waktu itu aku bersikap keliru dan kekanak-kanakan sampai menyakiti hatimu."
 
-"Nad, dua tahun yang kita lewati bareng itu bukan waktu yang sebentar," ucap Dimas dengan suara rendah yang terdengar tulus. "Aku udah kenal keluarga kamu, Ibu udah cocok sama aku, dan aku janji nggak akan pernah ngeremehin sabar kamu lagi. Kasih aku satu kesempatan lagi buat buktiin kalau aku bisa berubah jadi pasangan yang baik buat kamu, ya?"
+Dimas memandangku lagi dengan tatapan memohon yang jarang sekali kulihat. "Aku benar-benar menyesal dan berniat memperbaiki semuanya dari awal."
 
-Aku berdiri membisu di teras, mencengkeram pinggiran nampan plastik di tanganku.
+Langkah kakinya maju setapak mendekat ke teras, namun dia tetap menjaga jarak aman tanpa bersikap lancang.
 
-"Aku... aku belum bisa jawab sekarang, Mas," kataku pelan.
+"Waktu dua tahun yang pernah kita jalani bukan perkara sepele, Nad," tutur Dimas dengan nada rendah bergetar. "Aku sudah paham kebiasaan keluargamu, Ibu juga menyukai caraku menjaga rumah, dan aku berjanji tidak akan meremehkan kesabaranmu lagi."
 
-"Enggak apa-apa, aku tunggu," sahut Dimas sabar. Tangan kanannya terulur menyentuh punggung tanganku yang memegang nampan selama dua detik dengan sangat hati-hati. Kali ini, aku tidak menepis tangannya. "Senin sore aku jemput kamu pulang kantor ya? Sekalian aku mau titip buah buat Ibu."
+Dia mengamati reaksiku dengan waswas. "Beri aku satu kesempatan untuk membuktikan niat baikku ini, ya?" pinta Dimas seraya menunggu jawabanku.
 
-Setelah mobil yang dibawa Dimas melaju meninggalkan gang rumah, aku masuk kembali ke dalam kamar Ibu untuk mengantarkan air hangat.
+Aku terpaku di teras depan sambil meremas tepi nampan erat-erat. Lidahku kelu.
 
-Ibu sudah duduk bersandar di bantal kasurnya. Begitu aku duduk di tepi ranjang, tangan Ibu yang hangat langsung meraih telapak tanganku dan menggenggamnya erat.
+"Aku belum bisa memberi kepastian sekarang, Mas," bisikku pelan.
 
-"Nad," panggil Ibu lembut. "Tadi Dimas udah cerita semuanya sama Ibu."
+"Tidak masalah, aku akan menunggu sampai kamu siap," sahut Dimas penuh kesabaran. Tangan kanannya terulur menyentuh punggung tanganku yang memegang baki selama dua detik dengan sangat hati-hati. Gerakannya lembut sekali. Kali ini, tanganku tidak lekas menarik diri. "Senin sore nanti aku jemput kamu di lobi kantor ya? Sekalian aku mau titip buah pir untuk Ibu."
 
-"Iya, Bu. Tadi di teras dia juga baru bilang," gumamku sambil menunduk menatap motif seprai kasur.
+Setelah mobil silver yang dikemudikan Dimas melaju pelan keluar dari mulut gang, aku kembali masuk ke dalam rumah. Langkah kakiku berderap menuju kamar depan untuk membawakan segelas air hangat baru.
 
-Ibu mengelus punggung tanganku pelan-pelan. Tidak ada nada kaku seperti waktu membahas urusan Mbak Raras minggu lalu; kali ini suara Ibu murni penuh kekhawatiran seorang ibu yang baru saja ketakutan karena jatuh sakit sendirian di rumah.
+Ibu rupanya sudah duduk bersandar di tumpukan bantal kapuk. Begitu aku meletakkan gelas ke nakas dan duduk di tepi dipan, jemari Ibu yang hangat segera meraih telapak tanganku lalu menggenggamnya erat.
 
-"Ibu bukannya mau membela Dimas waktu dia berbuat salah dulu, Nak," kata Ibu pelan. "Tapi cari laki-laki yang udah kenal dekat sama keluarga kita selama dua tahun, yang langsung datang bawa mobil waktu orang tuamu sakit pagi-pagi dan mau nungguin di klinik berjam-jam kayak tadi, itu nggak gampang di Jakarta, Nad. Kalau dia udah berani ngaku salah di depan orang tuamu, apa nggak sebaiknya kamu pertimbangkan lagi?"
+"Nad," panggil Ibu dengan suara serak khas orang baru bangun tidur. "Tadi Nak Dimas sudah bicara terus terang sama Ibu."
 
-Kata-kata lembut Ibu meresap masuk ke celah hatiku yang sedang paling rapuh. Sejak dulu, kelemahan terbesarku memang rasa takut mengecewakan Ibu dan takut ditinggalkan sendirian.
+"Iya, Bu. Tadi di luar dia juga sempat bilang," jawabku lirih seraya menatap motif bunga di seprai ranjang.
 
-Malam itu, saat aku menginap di kamar lamaku di Rawamangun, aku berbaring menatap layar ponselku. Ruang obrolan dengan Saka masih sepi sejak kemarin sore. Sebaliknya, tepat pukul delapan malam, pesan dari Dimas masuk menanyakan keadaan Ibu dan mengingatkanku soal janji jemputan Senin sore.
+Ibu membelai punggung tanganku perlahan. Tak ada ketegangan kaku seperti saat kami memperdebatkan permintaan Mbak Raras minggu lalu. Nada bicara Ibu sore ini murni mencerminkan kecemasan seorang ibu yang baru saja melewati masa genting saat tubuhnya mendadak tumbang.
 
-Di antara bayangan perpisahan meja nomor empat yang tinggal menghitung hari dan harapan Ibu yang baru saja pulih dari sakitnya, pertahananku akhirnya goyah. Dengan jari yang terasa berat, aku membalas pesan Dimas: mengiyakan ajakannya bertemu di lobi hari Senin sore.
+"Ibu bukannya berniat membela kesalahan Dimas di masa lalu, Nak," nasihat Ibu lembut.
+
+Beliau menatap mataku lekat-lekat. "Tapi mencari pria yang sigap datang membawa kendaraan saat orang tuamu ambruk mendadak tidak mudah di Jakarta."
+
+Ibu membenahi selimut di pangkuannya. "Dia rela menunggu berjam-jam di apotek klinik dan berani mengakui kekeliruannya langsung di hadapan Ibu."
+
+"Apa tidak ada ruang untuk mempertimbangkannya kembali?" bujuk Ibu dengan tatapan penuh harap.
+
+Petuah lembut dari Ibu perlahan menembus pertahanan batinku yang sedang ringkih. Sejak masa kanak-kanak, titik terlemah dalam diriku memang ketakutan membuat Ibu kecewa serta kekhawatiran berakhir sendirian di perantauan.
+
+Malam itu, ketika merebahkan diri di atas ranjang kamar lamaku di Rawamangun, aku terus menatap layar ponsel yang menyala temaram. Percakapan terakhir dengan Saka masih membisu sejak Jumat sore. Nada bicaranya yang kaku tentang urusan surat tugas di Yogyakarta terus terngiang di kepalaku. Sebaliknya, tepat pukul delapan malam, pesan ramah dari Dimas masuk menanyakan kondisi kesehatan Ibu dan mengonfirmasi janji temu di lobi kantor pada awal pekan.
+
+Di tengah bayangan perpisahan meja kerja nomor empat yang kian dekat serta harapan tulus Ibu yang baru sembuh, keyakinanku mulai terbelah dua. Jemariku bergerak pelan di atas papan ketik ponsel: menyetujui ajakan Dimas untuk berjumpa di lobi pada Senin sore nanti.

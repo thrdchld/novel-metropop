@@ -6,9 +6,9 @@ Senin pagi pukul sembilan kurang sepuluh menit, aku sengaja datang lebih awal da
 
 Dua menit kemudian, Saka datang dari arah lift sambil menenteng tas kanvasnya. Langkahnya sempat terhenti melihat cangkir kopi hitam dan biskuit asin di mejanya, sementara tangan kanannya sendiri ternyata sedang membawa segelas es kopi susu berlabel kedai bawah untukku.
 
-"Tumben ada biskuit asin," kata Saka sambil meletakkan es kopi susu itu di sebelah tempat pensilku.
+"Tumben ada biskuit asin," kata Saka seraya menaruh es kopi susu di sebelah tempat pensilku.
 
-"Kemarin Mas Saka bilang nggak suka makanan manis, jadi jangan diputar lagi tutup botolnya," godaku sambil menahan senyum.
+"Kemarin Mas Saka bilang nggak suka makanan manis," godaku sambil menahan senyum. "Makanya jangan diputar lagi tutup botolnya."
 
 Saka menarik kursinya, duduk di sebelahku, lalu membuka bungkusan biskuit gandum itu tanpa mengarang alasan apa-apa lagi. "Makasih. Pas banget saya belum sarapan tadi."
 
@@ -24,13 +24,21 @@ Saat jam istirahat makan siang tiba dan Saka sedang dipanggil Pak Ramdan ke ruan
 
 "Apaan sih, Tar, orang cuma rekan satu proyek kok," elakku sambil pura-pura sibuk mengatur ukuran huruf di layar monitor.
 
-"Rekan satu proyek gundulmu!" dengus Tari. "Gue perhatiin dari minggu lalu ya, tiap pagi ada aja makanan atau minuman nangkring di meja lo. Kemarin sore waktu hujan juga gue lihat dari jendela atas, Mas Saka balik lagi dari arah stasiun cuma buat mayungin lo jalan kaki. Padahal dulu waktu Riko kehujanan di teras lobi minta nebeng payung, Mas Saka dengan santainya bilang payungnya cuma muat buat satu orang dan satu tas ransel!"
+"Rekan satu proyek gundulmu!" dengus Tari seraya memelototiku. "Tiap pagi ada aja makanan atau minuman nangkring di meja lo."
+
+Tari meletakkan stoplesnya. "Kemarin sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
+
+Dia berbisik heboh. "Padahal waktu Riko minta nebeng payung, Mas Saka bilang payungnya cuma muat ranselnya sendiri!"
 
 Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung gara-gara kalah penting sama tas ransel kanvas Saka memang terdengar sangat khas Saka Wijaya.
 
 "Dia emang orangnya baik kok kalau udah kenal, Tar," kataku pelan, mataku melirik ke arah botol minum hitam penyok yang berdiri di meja sebelah. "Cuma caranya aja yang nggak pakai bungkus manis."
 
-"Dan yang paling penting, sejak duduk sama dia, penyakit customer service lo berkurang drastis," tambah Tari sambil mengunyah makaroninya setelah selesai curhat soal komentar netizen di akun Instagram kantor yang protes pengumuman pemenang kuis buku. "Eh, ngomong-ngomong, kemarin waktu gue turun ke lantai dua antar berkas ke bagian personalia, gue lihat Mas Saka lagi nyerahin map formulir permohonan kepegawaian gitu ke Mbak Sinta HRD loh. Lo tahu dia lagi ngurus surat apa?"
+"Yang penting, penyakit customer service lo berkurang drastis," tambah Tari sambil mengunyah makaroninya.
+
+Dia melongok ke arah lorong lantai dua. "Kemarin waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
+
+Tari menatapku penasaran. "Lo tahu dia lagi ngurus surat apa?"
 
 "Kurang tahu gue, Tar. Mungkin laporan proyek buku kali," jawabku, tidak terlalu memikirkan ucapan Tari waktu itu.
 

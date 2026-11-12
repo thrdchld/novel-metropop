@@ -8,11 +8,13 @@ Begitu draf ilustrasi sampul buku Sela Waktu buatanku ditampilkan di layar proye
 
 "Izin memberi masukan dari sisi pemasaran ya, Pak Ramdan," sela Dimas sambil mengangkat tangannya dari seberang meja rapat.
 
-Aku melirik ke arah kursi sebelahku. Saka tetap duduk bersandar dengan tenang, jarinya mengetuk pelan permukaan meja kayu seolah dia memang sudah menunggu adegan ini dimulai sejak sepuluh menit lalu.
+Aku melirik ke arah kursi sebelahku. Saka tetap duduk bersandar dengan tenang, jarinya mengetuk pelan permukaan meja kayu seperti dia memang sudah menunggu adegan ini dimulai sejak sepuluh menit lalu.
 
 "Silakan, Dimas. Gimana menurut tim pemasaran?" tanya Pak Ramdan.
 
-Dimas menegakkan duduknya, merapikan kerah kemejanya, lalu menunjuk layar proyektor dengan bolpoin. "Kalau dari kacamata penjualan di toko buku, Pak, kami khawatir warna sampul yang agak redup dan arsiran kasar begini kurang menarik perhatian pembeli muda. Sekarang trennya kan ilustrasi vektor yang warnanya cerah mencolok. Sayang banget kalau naskah bagus dari cabang Jogja tapi sampulnya kelihatan murahan dan kurang menjual."
+Dimas menegakkan duduknya, merapikan kerah kemejanya, lalu menunjuk layar proyektor dengan bolpoin. "Dari kacamata penjualan toko buku, kami khawatir warna redup begini kurang menarik pembeli muda."
+
+Dia berdeham sejenak sebelum menambahkan komentarnya. "Tren sekarang kan ilustrasi vektor cerah. Sayang kalau naskah bagus dari cabang Jogja sampulnya kelihatan murahan."
 
 Kata murahan itu diucapkannya sambil melirik sekilas ke arahku.
 
@@ -26,19 +28,27 @@ Suaranya sama sekali tidak tinggi. Datar, jernih, dan tenang seperti penyiar ber
 
 Layar proyektor di depan ruangan berganti menampilkan tabel angka resmi berlogo Aksara Senja yang rupanya sudah disiapkan Saka sejak siang tadi.
 
-"Tiga buku kita kuartal lalu yang memakai sampul vektor warna mencolok seperti usulan Dimas barusan, rata-rata penjualannya berhenti di angka delapan ratus eksemplar dan kembali dari toko buku bulan lalu," papar Saka sambil menggerakkan kursor di layar. "Sebaliknya, dua buku esai terbitan cabang Yogyakarta dan Bandung yang memakai sampul ilustrasi tangan bertekstur pensil seperti gaya Nadia ini habis cetak ulang dua kali dalam tiga bulan."
+"Tiga buku bersampul vektor warna mencolok kuartal lalu hanya laku delapan ratus eksemplar," papar Saka sambil menggerakkan kursor di layar.
+
+Dia menggeser tampilan ke baris berikutnya. "Sebagian besar stoknya malah diretur dari toko buku."
+
+Saka melirik catatan di mejanya. "Sebaliknya, dua buku berarsiran pensil terbitan cabang Yogyakarta dan Bandung habis cetak ulang dua kali."
 
 Ruangan rapat langsung hening. Beberapa staf redaksi manggut-manggut memperhatikan angka di layar.
 
 Saka menoleh menatap Dimas yang duduk kaku di seberang meja.
 
-"Data ini saya unduh dari bundel laporan evaluasi triwulan yang dibagikan Pak Ramdan ke seluruh editor proyek minggu lalu, lengkap dengan tanda tangan kamu di halaman terakhir, Dimas," lanjut Saka tanpa ekspresi menyindir, murni menyampaikan fakta. "Jadi kalau kamu bilang gaya arsiran tangan Nadia ini kurang menjual, berarti kamu belum membaca laporan evaluasi divisimu sendiri."
+"Data ini saya unduh dari bundel laporan triwulan divisi pemasaran," lanjut Saka seraya menatap Dimas lurus. "Lengkap dengan tanda tangan kamu sendiri di lembar terakhir."
+
+Saka membiarkan layar proyektor menampilkan nama pemeriksa berkas. "Jadi kalau bilang gaya Nadia kurang menjual, berarti kamu belum membaca laporan divisimu sendiri."
 
 Wajah Dimas langsung berubah semerah tomat rebus. Bolpoin yang tadi dipegangnya untuk menunjuk-nunjuk layar kini diturunkan pelan-pelan ke atas meja.
 
 "Eh... maksud saya kan cuma sebagai opsi pembanding aja, Pak," kilah Dimas gugup sambil menoleh ke arah Pak Ramdan. "Kalau memang datanya mendukung gaya arsiran tangan, saya ikut keputusan redaksi saja."
 
-Pak Ramdan tertawa kecil sambil menepuk meja. "Wah, untung Saka rajin baca tabel pemasaran. Kalau gitu sudah jelas ya, sampul buatan Nadia ini langsung kita kunci tanpa revisi tambahan. Minggu depan kita sudah bisa masuk tahap cetak percobaan."
+Pak Ramdan tertawa kecil sambil menepuk meja. "Untung Saka rajin baca tabel pemasaran. Sampul buatan Nadia langsung kita kunci tanpa revisi tambahan."
+
+Beliau merapikan map berkas di depannya. "Jadwal berikutnya langsung masuk tahap cetak percobaan."
 
 "Terima kasih, Pak," ucapku lega.
 

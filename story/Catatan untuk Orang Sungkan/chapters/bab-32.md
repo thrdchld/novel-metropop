@@ -12,19 +12,25 @@ Sementara itu, di meja nomor empat dekat jendela besar, tumpukan buku referensi 
 
 Suara cempreng yang sangat kukenal itu muncul dari samping mejaku pada Senin sore pukul lima kurang lima menit.
 
-Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, sementara tiga langkah di belakangnya ada Riko yang tampak sedang bersiap-siap ikut menitipkan berkas koreksiannya. Rupanya setelah beberapa hari libur mengganggu mejaku, mereka pikir pertahananku sudah kembali kendur.
+Mbak Dinda berdiri di sana sambil memegang sebuah map plastik warna hijau muda, sementara tiga langkah di belakangnya ada Riko yang sedang bersiap-siap ikut menitipkan berkas koreksiannya. Rupanya setelah beberapa hari libur mengganggu mejaku, mereka pikir pertahananku sudah kembali kendur.
 
 "Ini sampul buku resep masakan minggu depan tinggal dirapikan tata letak belakangnya dikit kok, Nad," kata Mbak Dinda sambil tersenyum manis dan mulai mengulurkan map hijau itu ke arah papan gambarku. "Anak gue sore ini ada jadwal imunisasi di rumah sakit, gue harus cabut duluan. Tolong bantuin sejam aja ya?"
 
-Di kursi sebelah kananku, Saka tidak memotong pembicaraan seperti sebulan yang lalu. Dia hanya bersandar tenang sambil memegang botol minum hitam penyoknya, melirikku dengan tatapan santai seolah ingin menonton hasil ujian akhir muridnya.
+Di kursi sebelah kananku, Saka tidak memotong pembicaraan seperti sebulan yang lalu. Dia hanya bersandar tenang sambil memegang botol minum hitam penyoknya, melirikku dengan tatapan santai seperti ingin menonton hasil ujian akhir muridnya.
 
 Aku mematikan papan gambar digitalku, lalu menatap Mbak Dinda dan Riko dengan senyum ramah yang tulus. Bukan senyum kaku karena takut dimusuhi, melainkan senyum orang yang tahu persis di mana batas jam kerjanya.
 
-"Wah, semoga lancar ya imunisasi anaknya, Mbak Dinda," kataku santai. "Tapi maaf banget, sore ini aku nggak bisa bantu pegang berkas di luar proyekku. Jam kerjaku udah habis tiga menit lagi. Mbak Dinda bisa langsung titipkan ke staf piket sore atau lanjutkan besok pagi aja ya."
+"Wah, semoga lancar ya imunisasi anaknya, Mbak Dinda," kataku santai.
+
+Kutatap wajahnya tanpa ragu. "Tapi sore ini aku nggak bisa bantu berkas di luar proyekku."
+
+"Jam kerjaku habis tiga menit lagi. Mbak Dinda bisa titipkan ke staf piket atau besok pagi ya."
 
 Aku lalu menoleh ke arah Riko yang masih memegang bundelan kertas di belakang Mbak Dinda.
 
-"Dan Bang Riko, kalau mau nitip koreksi infografis, langsung masukkan ke keranjang antrean meja redaksi besok pagi ya. Sekalian jangan lupa uang ayam bakar yang sembilan puluh ribu dari bulan lalu ditransfer ke nomor m-banking aku malam ini."
+"Dan Bang Riko, kalau mau nitip infografis, masukkan ke keranjang antrean redaksi besok pagi ya," lanjutku.
+
+Kutatap Riko lekat-lekat. "Sekalian jangan lupa uang ayam bakar sembilan puluh ribu ditransfer ke m-banking aku malam ini."
 
 Riko langsung tersedak ludahnya sendiri, sementara Mbak Dinda tertegun dua detik sebelum akhirnya menarik kembali map hijaunya tanpa bisa mendebat apa-apa lagi.
 
@@ -46,11 +52,11 @@ Saka berdiri dari kursinya, menyampirkan tali tas ke bahunya, lalu menatapku. Me
 
 "Malam ini Ibu kamu di Rawamangun masak ikan nila goreng lagi nggak?" tanya Saka.
 
-"Kata Ibu tadi siang sih masak, malahan sengaja beli ikannya lebih banyak," jawabku sambil tersenyum. "Kenapa? Mas Saka mau ikut makan malam di rumah?"
+"Kata Ibu masak nila," jawabku tersenyum. "Mas Saka mau ikut ke rumah?"
 
-"Kalau nggak ngerepotin warga Rawamangun," kata Saka lempeng. "Sekalian saya mau nganterin buku Sela Waktu yang udah ditandatangani buat Ibu kamu."
+"Kalau warga Rawamangun nggak keberatan," sahut Saka lempeng. "Saya mau antar buku bertanda tangan buat Ibu."
 
-"Sama sekali nggak ngerepotin kok, Mas. Ibu malah udah nanyain dari kemarin kapan editor Jogja yang di panggung waktu itu mau mampir ke rumah."
+"Sama sekali nggak ngerepotin kok, Mas," jawabku senang. "Ibu malah nanyain kapan editor Jogja yang di panggung waktu itu mau mampir ke rumah."
 
 Sebelum aku berdiri mengambil tas selempangku, aku menarik selembar kertas post-it kuning dari tumpukan di mejaku dan mengambil pulpen hitam.
 
@@ -60,4 +66,4 @@ Saka menunduk, membaca tulisan tanganku di kertas kuning yang menempel di laptop
 
 Bilang enggak memang nggak bikin langit runtuh. Tapi kalau yang ngajak makan malam itu Mas Saka, jawaban saya selalu iya.
 
-Untuk kesekian kalinya, telinga editor paling kaku di Jakarta Pusat itu memerah tipis. Namun kali ini, Saka tidak lagi memutar tutup botol minum hitamnya untuk berbohong. Dia justru mengulurkan tangan kirinya, menggenggam jemariku dengan hangat, lalu mengajakku melangkah keluar dari ruang redaksi menuju langit sore Cikini yang cerah.
+Telinga editor paling kaku itu memerah tipis. Kali ini, Saka tidak lagi memutar tutup botol minum hitamnya untuk berbohong. Dia justru mengulurkan tangan kirinya, menggenggam jemariku dengan hangat, lalu mengajakku melangkah keluar dari ruang redaksi menuju langit sore Cikini yang cerah.

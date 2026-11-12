@@ -2,7 +2,7 @@
 
 Jam setengah sembilan malam di kamar kosku di Cikini, aku duduk bersila di atas kasur tipis sambil memelototi layar ponselku yang menyala.
 
-Di depanku, papan gambar digital lamaku tergeletak di atas meja lipat kayu. Kabel hitamnya yang sudah koyak sedikit dan dililit lakban listrik tampak seperti pasien gawat darurat yang cuma bertahan hidup berkat doa.
+Di depanku, papan gambar digital lamaku tergeletak di atas meja lipat kayu. Kabel hitamnya yang dililit lakban listrik mirip pasien gawat darurat yang cuma bertahan hidup berkat doa.
 
 Lima menit yang lalu, pesan dari Mbak Raras masuk lagi ke WhatsApp-ku: Nad, jadi gimana uang empat jutanya? Batas bayar hotel murahnya sampai jam sepuluh malam ini loh.
 
@@ -24,11 +24,19 @@ Hening langsung menyergap dari seberang telepon. Suara televisi ruang tengah rum
 
 "Kok gitu, Nad?" suara Ibu berubah agak kaget, jelas tidak menyangka anak tengahnya yang selalu patuh tiba-tiba menolak. "Kemarin siang kan kamu bilangnya mau cek saldo dulu. Memangnya uang tabungan kamu nggak ada segitu?"
 
-"Uangnya ada, Bu," jawabku jujur. "Tapi uang empat juta itu tabungan yang aku kumpulin sepuluh bulan buat beli papan gambar kerja yang baru minggu ini. Papan gambar lamaku di kos udah rusak kabelnya, tadi siang aja di kantor kerjaanku berantakan gara-gara alatnya mati-mati terus."
+"Uangnya ada, Bu," jawabku jujur.
+
+Aku meremas ujung seprai. "Tapi uang empat juta itu tabunganku buat beli papan gambar baru minggu ini."
+
+Suaraku bergetar sedikit. "Alat lamaku udah rusak kabelnya, mati-mati terus pas kerja."
 
 "Ya kan bisa ditunda bulan depan belinya, Nad. Kasihan Mbakmu udah telanjur janji sama Daffa..."
 
-"Kalau aku nggak beli alat gambar baru minggu ini, aku nggak bisa ngerjain proyek buku baruku di kantor, Bu," potongku, tetap dengan nada rendah yang sopan. "Ini alatku buat cari makan sehari-hari di Jakarta. Tapi karena aku juga sayang sama Daffa, malam ini aku transfer lima ratus ribu ya ke rekening Mbak Raras buat tambah-tambah uang jajan Daffa di sana. Aku ikhlas ngasih segitu nggak usah diganti, tapi sisa tabunganku harus kupakai beli alat kerja."
+"Kalau nggak beli alat baru, aku nggak bisa kerja naskah buku, Bu," potongku pelan.
+
+"Ini alatku buat cari makan di Jakarta," lanjutku membela diri.
+
+Napas cemas berkejaran di dadaku. "Malam ini aku transfer lima ratus ribu buat jajan Daffa ya, Bu? Uang itu nggak usah diganti."
 
 Tidak ada suara dari seberang selama hampir sepuluh detik.
 
@@ -36,30 +44,32 @@ Aku menahan napas, bersiap mendengar Ibu marah atau menyebutku anak yang pelit d
 
 Namun yang terdengar adalah suara Mbak Raras di latar belakang yang menyahut ketus, "Tuh kan, Bu, Raras bilang juga apa. Baru pegang proyek buku satu aja sekarang udah hitung-hitungan sama saudara sendiri!"
 
-Dadaku langsung terasa perih mendengar sindiran kakakku itu. Aku hampir saja goyah dan meralat ucapanku, namun aku menggigit bibirku kuat-kuat agar tetap diam.
+Dadaku langsung perih mendengar sindiran kakakku itu. Aku hampir goyah dan meralat ucapanku, namun aku meremas kain seprai kuat-kuat agar tetap diam.
 
-Di seberang telepon, Ibu mengembuskan napas panjang. Nada suaranya terdengar kaku dan agak kecewa karena tidak terbiasa ditolak olehku.
+Di seberang telepon, desah napas Ibu terdengar berat dan kecewa.
 
 "Alat gambar kamu yang lama beneran udah rusak parah ya, Nad?" tanya Ibu akhirnya.
 
-"Iya, Bu. Udah dililit lakban dari dua bulan lalu," jawabku dengan suara bergetar menahan tangis.
+"Iya, Bu. Kabelnya udah dililit lakban hitam bolak-balik," jawabku lirih menahan tangis.
 
-"Ya udah kalau memang uang kamu nggak bisa dipinjam kakakmu," kata Ibu datar. "Ibu juga nggak mau maksa kalau memang buat beli alat kerja. Biar nanti Mbakmu cari penginapan yang lebih dekat di Puncak aja sesuai uang yang ada. Uang lima ratus ribu buat jajan Daffa tadi terserah kamu mau transfer kapan."
+"Ya udah kalau memang uangmu nggak bisa dipinjam," kata Ibu datar.
 
-"Makasih ya, Bu... maaf Nadia belum bisa bantu banyak," bisikku lirih sebelum Ibu menutup telepon lebih dulu.
+Ibu terdiam sejenak. "Biar Mbakmu liburan ke Puncak aja sesuai uang yang ada. Uang jajan Daffa terserah kamu transfer kapan."
 
-Begitu sambungan terputus, aku meletakkan ponselku ke atas kasur, lalu menutup wajahku dengan kedua telapak tangan.
+"Makasih ya, Bu... maaf Nadia belum bisa bantu banyak," bisikku sebelum Ibu menutup telepon.
 
-Air mataku langsung tumpah di sela-sela jari. Jujur, rasanya tetap sakit dan tidak nyaman mendengar nada dingin Ibu serta sindiran Mbak Raras barusan. Ternyata menjaga batasan diri di depan keluarga sendiri itu tidak langsung disambut pelukan hangat seperti di iklan televisi. Ada rasa bersalah yang masih menyengat di ulu hatiku. Namun di balik rasa perih itu, untuk pertama kalinya dalam dua puluh enam tahun hidupku, aku merasa bisa bernapas lega karena tidak lagi mengorbankan diriku sendiri.
+Begitu sambungan terputus, aku meletakkan ponsel ke kasur dan menunduk.
 
-Setelah menyeka pipiku dengan punggung tangan dan mentransfer uang jajan lima ratus ribu untuk keponakanku, aku membuka ruang obrolan WhatsApp dengan nomor Saka yang selama ini hanya berisi kiriman file naskah kerjaan.
+Air mataku tumpah di sela-sela jari. Tetap sakit mendengar nada dingin Ibu barusan. Menjaga batasan di depan keluarga sendiri ternyata tidak mudah. Rasa bersalah masih menyengat di ulu hatiku. Namun untuk pertama kalinya, dadaku plong. Aku tidak lagi mengorbankan diriku sendiri.
+
+Setelah menyeka pipi dan mentransfer lima ratus ribu untuk keponakanku, aku membuka obrolan WhatsApp dengan Saka.
 
 Nadia: Mas Saka, aku udah telepon Ibu barusan. Aku udah jujur soal uang papan gambar itu, dan ternyata Ibu ngerti. Makasih banyak ya, Mas, buat ceritanya sama tahu isinya tadi sore.
 
-Aku menatap tanda centang dua di layar, mengira orang yang sudah berubah jadi warga sipil sejak jam lima sore itu baru akan membalas pesanku besok pagi di kantor.
+Aku menatap centang dua di layar, mengira orang yang sudah jadi warga sipil itu baru akan membalas besok pagi.
 
-Ternyata belum genap satu menit, balasan darinya sudah muncul di layar.
+Ternyata belum genap satu menit, balasan darinya muncul.
 
 Saka: Bagus. Sekarang tidur. Besok pagi gerobak bakso bab dua harus udah balik warna cokelat sebelum jam sepuluh.
 
-Aku memeluk bantal di dadaku dan tertawa kecil sendirian di dalam kamar kos yang hening.
+Aku memeluk bantal di dada dan tertawa kecil sendirian di kamar kos yang hening.

@@ -103,9 +103,10 @@ def inspect_chapter_rules(path: Path, char_names: set[str] | None = None) -> dic
         "discourse_rhythm": [],
     }
 
-    # 1. Word range (600-900 standar)
-    if word_count < P["word_min"] or word_count > P["word_max"]:
-        errors["word_range"].append(f"Jumlah kata {word_count} (wajib {P['word_min']}-{P['word_max']} kata)")
+    # 1. Word range (600-900 standar, darurat <=1200)
+    word_max_limit = P.get("word_max_emergency", P["word_max"])
+    if word_count < P["word_min"] or word_count > word_max_limit:
+        errors["word_range"].append(f"Jumlah kata {word_count} (wajib {P['word_min']}-{word_max_limit} kata)")
 
     # 2. Plain text: 0 em dash, 0 markup (*, **, ~~, `), 0 quote pembuka di atas judul
     if "—" in raw:

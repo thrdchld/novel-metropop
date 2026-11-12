@@ -14,13 +14,17 @@ Pintu kayu ruangan Pak Ramdan tidak tertutup rapat, menyisakan celah selebar tel
 
 Aku menurunkan tanganku yang hendak mengetuk pintu, menunggu Pak Ramdan menyelesaikan teleponnya.
 
-Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terasa terpaku di atas karpet lorong.
+Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terpaku di atas karpet lorong.
 
-"Soal jadwal Saka, iya, sesuai surat tugas awal dari cabang Yogyakarta kan masa perbantuannya di Jakarta memang cuma lima minggu sampai Sela Waktu beres," lanjut Pak Ramdan. "Berarti akhir minggu depan masa tugas sementaranya di sini sudah habis. Soal berkas kepegawaian yang dia urus ke HRD barusan, nanti biar Saka sendiri yang pulang menghadap ke Yogyakarta buat minta tanda tangan Pak Bambang ya."
+"Soal Saka, masa perbantuannya di Jakarta memang lima minggu sampai proyek beres," lanjut Pak Ramdan.
+
+Pak Ramdan menyandarkan punggungnya ke kursi. "Berarti akhir minggu depan masa tugas sementaranya sudah habis."
+
+Beliau mengangguk ke arah map di mejanya. "Nanti biar Saka sendiri yang pulang ke Yogyakarta minta tanda tangan Pak Bambang."
 
 Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan dengan salam hangat.
 
-Aku berdiri diam di depan celah pintu itu. Napasku terasa pendek.
+Aku berdiri diam di depan celah pintu itu. Dadaku mendadak menyempit sesak.
 
 Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
@@ -34,9 +38,9 @@ Terselip di bawah buku catatan hitam milik Saka, ada sepucuk amplop cokelat panj
 
 Jantungku rasanya mencelos jatuh ke dasar perut.
 
-Tanpa sadar, tangan kananku meraih pensil gambar dari dalam tempat pensil, lalu mengangkat ujung karet penghapusnya yang sudah lama tidak kugigit ke dekat bibirku.
+Tanganku meraih pensil gambar dari tempat pensil. Ujung karet penghapusnya yang sudah lama tidak kugigit kini kuangkat ke dekat bibir.
 
-Hanya karena Saka membelikanku es jeruk, memberiku cokelat waktu tanganku gemetar, dan memayungiku sepanjang jalan Cikini, aku sudah terlalu cepat melambung tinggi. Padahal dari awal sampai hari ini, Saka tidak pernah sekali pun mengucapkan kata suka atau mengajakku membicarakan hubungan di luar meja nomor empat.
+Hanya karena Saka membelikanku es jeruk, memberiku cokelat saat tanganku gemetar, dan memayungiku sepanjang Cikini, aku sudah terlalu cepat melambung tinggi. Padahal dari awal sampai hari ini, Saka tidak pernah sekali pun mengucapkan kata suka atau mengajakku membicarakan hubungan di luar meja nomor empat.
 
 Jangan-jangan, bagi laki-laki yang paling taat aturan jam kerja itu, semua perhatian kecilnya selama ini hanyalah bentuk tanggung jawab seorang editor proyek agar ilustratornya tidak mogok kerja sebelum bukunya terbit? Dan begitu jam lima sore di hari terakhir proyek nanti tiba, dia akan menutup laptopnya, lalu pulang ke kotanya tanpa menoleh lagi.
 

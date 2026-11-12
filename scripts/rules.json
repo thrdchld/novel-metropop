@@ -3,6 +3,7 @@
  "params": {
   "word_min": 600,
   "word_max": 900,
+  "word_max_emergency": 1200,
   "max_quote_words": 20,
   "title_max_words": 5,
   "endq_max_pct": 75,
@@ -117,7 +118,7 @@
    "key": "word_range",
    "title": "Rentang kata bab",
    "doc": "AGENTS.md 4.2; engine/06-chapter.md",
-   "rule": "Setiap bab {word_min}-{word_max} kata."
+   "rule": "Setiap bab {word_min}-{word_max} kata (darurat maks {word_max_emergency} kata)."
   },
   {
    "key": "plain_text",

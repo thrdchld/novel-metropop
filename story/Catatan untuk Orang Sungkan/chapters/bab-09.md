@@ -2,17 +2,17 @@
 
 Jam satu siang, perutku mulai mengeluarkan bunyi keroncongan yang untungnya kalah keras oleh suara klakson angkot Senen.
 
-Sehabis membayar empat buku referensi lawas menggunakan uang kas proyek dari Pak Ramdan, Saka mengajakku mampir ke warung soto ayam di dekat mulut gang sebelum halte TransJakarta. Warungnya sederhana, cuma beratap terpal biru dengan bangku-bangku kayu panjang dan kipas angin berdiri yang kepalanya menggeleng ke kiri dan kanan seperti orang lagi menolak fitnah.
-
-Aku duduk di bangku sebelah dalam sambil meletakkan buku sketsaku di atas meja, sementara Saka duduk di seberangku dan meletakkan kantong plastik berisi buku-buku tebal tadi di samping kakinya.
+Kami mampir ke warung soto ayam. Atap terpal birunya menaungi deretan bangku kayu panjang. Di sudut, sebuah kipas angin berdiri menggeleng malas seperti orang menolak fitnah. Aku duduk di sebelah dalam sambil meletakkan buku sketsa. Saka duduk di seberangku, menaruh kantong buku tebal di dekat kakinya.
 
 "Soto ayam dua, Pak. Nasi pisah, yang satu nggak pakai seledri," pesan Saka kepada bapak penjual soto.
 
 Aku mengerjap kaget menatapnya. "Loh, Mas Saka tahu dari mana aku nggak suka daun seledri?"
 
-"Hari Rabu waktu makan ayam bakar, kamu nyisihin daun kemangi sama seledri dari lalapan ke pinggir piring sampai numpuk kayak bukit kecil," jawab Saka santai sambil menuang air teh tawar dari teko plastik ke gelas kami. "Kemarin waktu makan bakso di kantin bawah juga kamu minta kuah kosongan."
+"Waktu makan ayam bakar, kamu nyisihin seledri ke pinggir piring sampai numpuk," jawab Saka santai.
 
-Aku terdiam. Padahal selama dua tahun pacaran sama Dimas, setiap kali Dimas membelikanku bubur ayam atau bakso, mangkukku selalu penuh taburan seledri sampai hijau semua. Kalau kuingatkan, Dimas cuma tertawa sambil bilang: Ya tinggal disingkirin pakai sendok, Nad, gitu aja repot.
+Saka menuang air teh tawar ke gelas kami. "Waktu makan bakso di kantin juga kamu minta kuah kosongan."
+
+Aku terdiam. Selama dua tahun pacaran sama Dimas, mangkukku selalu penuh taburan seledri sampai hijau semua. Kalau kuingatkan, Dimas cuma tertawa sambil bilang: Ya tinggal disingkirin pakai sendok, Nad, gitu aja repot.
 
 Sementara laki-laki yang baru lima hari duduk di sebelah mejaku ini bahkan memperhatikan tumpukan daun di pinggir piringku tanpa pernah bertanya.
 
@@ -42,24 +42,26 @@ Di halaman kertas tebal itu, ada deretan gambar karikatur penghuni lantai tiga P
 
 Mataku membelalak panik. Tanganku yang hendak menarik buku itu membeku di udara.
 
-Mati aku. Tamat sudah riwayat kerjaku di meja nomor empat.
+Tamat sudah riwayat kerjaku di meja nomor empat.
 
 Saka tidak bergerak. Dia malah menarik buku sketsaku sedikit lebih dekat ke arahnya, lalu menunduk mengamati gambar karikatur dirinya itu dengan kening berkerut serius.
 
-"Mas, maaf banget, Mas," cerocosku panik, suara operator layanan pelangganku hampir keluar lagi. "Itu aku gambarnya waktu hari kedua kita semeja kok, waktu Mas Saka baru nyuruh aku singkirin map dari meja. Aku cuma iseng latihan ekspresi wajah, nggak ada maksud mengejek sama sekali, sumpah!"
+"Mas, maaf banget, Mas," cerocosku panik. Suara operator layananku hampir keluar lagi.
 
-Saka masih diam menatap gambar itu selama lima detik yang rasanya seperti lima abad.
+Napas cemas berkejaran di dadaku. "Itu gambar waktu hari kedua kita semeja kok. Aku cuma latihan ekspresi. Nggak ada maksud mengejek, sumpah!"
+
+Saka masih diam menatap gambar itu selama lima detik panjang.
 
 "Ini botol minum saya?" tanya Saka akhirnya sambil menunjuk gambar tabung hitam di tangan karikatur itu.
 
 "I... iya, Mas."
 
-"Kurang penyok dikit bagian kiri bawahnya," kata Saka. Dia menunjuk garis lengkung di bagian dasar botol gambaranku dengan ujung telunjuknya. "Aslinya penyoknya agak miring ke dalam gara-gara kebentur besi peron. Terus alis saya perasaan nggak setebal ulat bulu kayak gini."
+"Kurang penyok dikit bagian kiri bawahnya," kata Saka sambil menunjuk garis dasar botol. "Aslinya agak miring ke dalam gara-gara kebentur peron. Terus alis saya perasaan nggak setebal ini."
 
-Aku menatap wajahnya dengan mulut sedikit terbuka. "Mas Saka nggak marah?"
+Aku menatap wajahnya kaget. "Mas Saka nggak marah?"
 
 Saka mendongak dari buku sketsaku. Untuk pertama kalinya sejak kami bertemu di tangga darurat Senin malam lalu, garis kaku di sekitar wajah datarnya melunak. Sudut bibir kanannya terangkat tipis sekali, nyaris cuma dua milimeter, tapi cukup jelas untuk disebut sebagai sebuah senyuman.
 
 "Gambarnya mirip kok," katanya tenang sambil menggeser kembali buku sketsa itu ke depanku tepat saat dua mangkuk soto ayam pesanan kami tiba di meja. "Apalagi bagian Riko nyari dompet. Itu akurat seratus persen."
 
-Aku menatap senyum tipis yang cuma bertahan tiga detik di wajah Saka itu, dan entah kenapa kuah soto ayam di depanku mendadak terasa dua kali lebih hangat dari biasanya.
+Aku menatap senyum tipis yang cuma bertahan tiga detik di wajah Saka itu, dan entah kenapa kuah soto ayam di depanku mendadak dua kali lebih hangat dari biasanya.

@@ -26,13 +26,15 @@ Aku menoleh bingung ke arahnya. "Terus Mas Saka gimana? Kos Mas Saka kan arahnya
 
 Aku melangkah turun dari teras lobi dan masuk ke bawah naungan payung hitam milik Saka.
 
-Meskipun payung itu ukurannya lumayan lebar untuk satu orang, begitu dipakai berjalan berdua, ruang di bawahnya mendadak terasa sempit. Setiap kali kami melangkah melewati trotoar yang menyempit karena gerobak pedagang kaki lima, bahu kiriku tanpa sengaja bersentuhan dengan lengan kemeja flanel Saka.
+Meskipun payung itu ukurannya lumayan lebar untuk satu orang, begitu dipakai berjalan berdua, ruang di bawahnya mendadak sempit. Setiap kali kami melangkah melewati trotoar yang menyempit karena gerobak pedagang kaki lima, bahu kiriku tanpa sengaja bersentuhan dengan lengan kemeja flanel Saka.
 
-Anehnya, tidak ada rasa canggung yang menyiksa. Udara petang yang sejuk bercampur suara rintik gerimis di atas kain payung justru membuat langkah kami terasa santai.
+Anehnya, suasana canggung tidak menyelimuti kami berdua. Udara petang yang sejuk bercampur suara rintik gerimis di atas kain payung justru membuat langkah kami berayun santai.
 
 "Tadi di ruang rapat, muka Mas Dimas beneran kayak kepiting rebus waktu Mas Saka buka tabel penjualan," kataku sambil tersenyum kecil mengingat kejadian sore tadi. "Dia pasti nggak nyangka Mas Saka sampai hafal isi laporan divisinya."
 
-"Saya sebenarnya paling malas debat di rapat," sahut Saka. Layar lampu jalanan yang mulai menyala memantul di garis wajahnya yang tenang. "Tapi kalau ada orang yang nyerang kerjaan tim saya pakai alasan mengada-ada, saya nggak bisa diam aja. Apalagi sampul itu kamu kerjakan sampai ganti warna berkali-kali."
+"Saya sebenarnya paling malas debat di rapat," sahut Saka. Layar lampu jalanan yang mulai menyala memantul di garis wajahnya yang tenang. "Tapi saya nggak bisa diam kalau orang nyerang kerjaan tim pakai alasan mengada-ada."
+
+Saka melirik tabung gambar di tangannya. "Apalagi sampul itu kamu kerjakan sampai ganti warna berkali-kali."
 
 Sudut bibirku terangkat tipis mendengar kalimat itu. Aku menoleh sedikit, memperhatikannya dari samping.
 

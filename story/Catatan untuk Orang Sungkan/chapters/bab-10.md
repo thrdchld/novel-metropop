@@ -2,13 +2,15 @@
 
 Kalau ada orang yang bertanya dari mana asal-usul penyakit nggak enakanku yang sudah stadium empat ini, jawabannya terletak di sebuah rumah berpagar hijau daun di kawasan Rawamangun.
 
-Minggu siang pukul dua belas tepat, aku duduk di kursi kayu meja makan rumah orang tuaku sambil menyendok sayur asem. Di ruang tengah yang terhubung langsung dengan meja makan, tampak figura kayu foto wisuda keluargaku yang sudut kanan atasnya ada noda kuning bekas cipratan kuah gulai tiga tahun lalu yang tidak pernah bisa hilang.
+Minggu siang pukul dua belas tepat, aku duduk di kursi kayu meja makan rumah orang tuaku sambil menyendok sayur asem. Di ruang tengah yang terhubung langsung dengan meja makan, terpasang figura kayu foto wisuda keluargaku yang sudut kanan atasnya ada noda kuning bekas cipratan kuah gulai tiga tahun lalu yang tidak pernah bisa hilang.
 
 Sebagai anak tengah di antara kakak sulung yang suaranya paling lantang dan adik bungsu laki-laki yang masih kuliah di Bandung, posisiku di rumah ini sejak kecil mirip ban serep di bagasi mobil. Jarang ditanya kabarnya kalau jalanan mulus, tapi wajib selalu siap sedia kapan pun ada yang kempes.
 
-"Nad, kok Dimas nggak diajak makan siang ke sini?" tanya Ibu sambil meletakkan piring ikan goreng hangat ke tengah meja. "Ibu udah gorengin ikan nila kesukaan dia loh. Minggu lalu kan dia janji mau bawain Ibu bibit tanaman gelombang cinta."
+"Nad, kok Dimas nggak diajak makan siang ke sini?" tanya Ibu sambil meletakkan piring ikan goreng hangat ke tengah meja. "Ibu udah gorengin ikan nila kesukaan dia loh."
 
-Sendok di tanganku berhenti di udara. Nasi di mulutku mendadak terasa seret seperti kapas.
+Ibu tersenyum mengenang. "Dia kan pernah janji mau bawain Ibu bibit tanaman gelombang cinta."
+
+Sendok di tanganku berhenti di udara. Nasi di mulutku mendadak seret seperti kapas.
 
 "Dimas lagi sibuk ngurus acara kantor akhir pekan ini, Bu," jawabku pelan sambil menunduk menatap piring.
 
@@ -22,7 +24,11 @@ Belum sempat aku menjawab, kakak sulungku, Mbak Raras, keluar dari kamar depan s
 
 "Wah, seru dong, Mbak. Daffa pasti senang lihat pantai," sahutku tulus.
 
-"Iya, makanya Mbak udah pesan tiket pesawat dari kemarin," lanjut Mbak Raras santai. Dia menyuapi anaknya sesendok nasi, lalu menoleh ke arahku dengan senyum penuh arti. "Cuma pas Mbak hitung-hitung lagi tadi pagi, uang buat bayar hotel sama sewa mobil di sana masih kurang empat juta nih, Nad. Gaji Mas Hendra baru turun tanggal dua puluh delapan. Mbak pinjam uang tabungan kamu dulu ya empat juta? Nanti dicicil kalau ada rezeki lebih."
+"Iya, makanya Mbak udah pesan tiket pesawat dari kemarin," lanjut Mbak Raras santai.
+
+Dia menatapku dengan senyum penuh arti. "Cuma uang hotel sama sewa mobil di sana masih kurang empat juta nih, Nad."
+
+Mbak Raras menyuapi anaknya sesendok nasi. "Mbak pinjam tabungan kamu dulu ya empat juta? Nanti dicicil kalau ada rezeki lebih."
 
 Aku langsung terdiam.
 
@@ -30,11 +36,15 @@ Empat juta rupiah. Itu hampir seluruh uang tabungan yang kukumpulkan sedikit dem
 
 "Mbak, kalau empat juta... itu uang tabungan buat beli tablet gambar baru aku bulan ini," kataku hati-hati, berusaha menjaga suaraku tetap lembut. "Tablet gambar yang lama udah sering rusak garisnya waktu dipakai kerja."
 
-Wajah Mbak Raras langsung berubah cemberut. "Yah, Nad, tablet gambar lama kamu kan masih nyala kalau kabelnya diganjal buku. Liburan Daffa ini kan setahun sekali, kasihan keponakan kamu udah telanjur Mbak janjiin naik pesawat."
+Wajah Mbak Raras langsung berubah cemberut. "Tablet gambar lama kamu kan masih nyala kalau diganjal buku, Nad."
+
+Mbak Raras merengut menuntut. "Liburan Daffa kan setahun sekali, kasihan keponakan kamu udah telanjur dijanyiin naik pesawat."
 
 Ibu yang duduk di ujung meja langsung menatapku dengan pandangan membujuk yang sudah kuhafal sejak aku duduk di bangku sekolah dasar.
 
-"Iya, Nad, ngalah dulu sama kakaknya," kata Ibu lembut tapi menekan. "Kamu kan masih sendiri di kos, kebutuhanmu belum banyak kayak Mbakmu yang udah punya anak. Soal alat gambar kan bisa nabung lagi bulan-bulan depan. Masa sama kakak sama keponakan sendiri nggak tega?"
+"Iya, Nad, ngalah dulu sama kakaknya," kata Ibu lembut tapi menekan. "Kamu kan masih sendiri di kos, kebutuhanmu belum banyak kayak Mbakmu."
+
+Ibu mengusap lenganku pelan. "Soal alat gambar kan bisa nabung lagi bulan-bulan depan. Masa sama keponakan sendiri nggak tega?"
 
 Kalimat itu lagi. Kamu kan anak yang paling ngerti, Nad. Kamu kan paling sabar, Nad. Ngalah sedikit ya biar rumah adem.
 

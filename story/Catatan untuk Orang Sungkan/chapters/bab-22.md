@@ -1,16 +1,22 @@
 ## Bab 22: Tamu yang Sigap di Rawamangun
 
-Sabtu pagi pukul sembilan, telepon dari tetangga sebelah rumah orang tuaku di Rawamangun membuatku langsung melompat turun dari kasur kos.
+Dering telepon dari tetangga Rawamangun mengejutkanku pada Sabtu pagi pukul sembilan. Aku langsung melompat turun dari kasur kos.
 
-Kata Bu RT di telepon, sejak subuh tadi penyakit vertigo Ibu kambuh lumayan berat sampai Ibu tidak kuat berdiri untuk memasak air. Sementara itu, Mbak Raras dan keluarganya sedang berada di Bandung sejak Jumat sore kemarin, dan adik bungsuku sedang ujian di kampusnya.
+Kata Bu RT di telepon, sejak subuh tadi penyakit vertigo Ibu kambuh lumayan berat sampai Ibu tidak kuat berdiri untuk memasak air. Mbak Raras sedang berada di Bandung bersama keluarganya sejak Jumat sore kemarin. Sementara adik bungsuku sedang ujian di kampusnya.
 
 Setengah jam kemudian aku sudah turun dari ojek online di depan pagar hijau rumah orang tuaku dengan napas ngos-ngosan.
 
-Begitu masuk ke kamar Ibu yang lampunya diredupkan, aku mendapati Ibu sedang berbaring miring sambil memejamkan mata. Wajahnya tampak pucat dan keningnya ditempeli koyo pereda pusing.
+Begitu masuk ke kamar Ibu yang lampunya diredupkan, aku mendapati Ibu sedang berbaring miring sambil memejamkan mata. Wajahnya pucat dan keningnya ditempeli koyo pereda pusing.
 
 "Bu, kita ke klinik depan jalan raya sekarang ya? Biar disuntik obat pusingnya," bujukku sambil menggenggam tangan Ibu yang agak dingin.
 
-"Kepala Ibu rasanya muter banget kalau dipakai duduk, Nad," keluh Ibu lirih. "Tadi jam setengah tujuh pagi Ibu telepon ke nomor kamu tiga kali nggak diangkat-angkat. Karena Ibu panik dan kebetulan semalam Dimas baru aja kirim pesan nanyain kabar Ibu, jadi Ibu sempat telepon ke nomor Dimas nanyain kamu lagi di mana. Habis itu Ibu minta tolong Bu RT buat hubungin kamu lagi."
+"Kepala Ibu rasanya muter banget kalau dipakai duduk, Nad," keluh Ibu lirih.
+
+Ibu berbisik lemah. "Tadi setengah tujuh pagi Ibu telepon kamu tiga kali nggak diangkat."
+
+"Semalam Dimas sempat kirim pesan nanya kabar Ibu."
+
+Ibu melanjutkan pelan. "Makanya Ibu sempat telepon Dimas nanya kamu, terus baru minta tolong Bu RT."
 
 Aku tertegun. Pantas saja ada tiga panggilan tak terjawab dari nomor rumah saat ponselku masih dalam mode senyap di kamar kos tadi pagi. Karena selama hampir sebulan ini aku belum tega memberi tahu Ibu bahwa aku sudah putus dari Dimas, Ibu tentu saja masih menganggap Dimas tempat pertama yang bisa dihubungi saat darurat.
 

@@ -4,9 +4,11 @@ Senin sore pukul empat tepat, kurir dari percetakan rekanan mengantarkan dua eks
 
 Seharusnya ini menjadi sore yang paling membahagiakan buatku dan Saka setelah sebulan penuh berjibaku dengan sketsa dan naskah. Namun sejak pagi tadi aku datang ke kantor, udara di antara kursi kami rasanya lebih kaku daripada papan tripleks.
 
-Aku sengaja memasang earphone sepanjang hari, menjawab semua pertanyaan Saka dengan kalimat pendek seperlunya, dan memilih makan siang di meja bersama Tari daripada ikut ke warung belakang gedung. Aku pikir, semakin cepat aku membiasakan diri menjaga jarak darinya sebelum dia kembali ke Yogyakarta akhir minggu ini, semakin sedikit rasa sakit yang harus kutanggung nanti.
+Aku memasang earphone sepanjang hari. Menjawab semua pertanyaan Saka seperlunya, dan sengaja memilih makan siang bersama Tari. Aku pikir, semakin cepat aku membiasakan diri menjaga jarak darinya sebelum dia kembali ke Yogyakarta akhir minggu ini, semakin sedikit rasa sakit yang harus kutanggung nanti.
 
-"Cek bagian warna ilustrasinya dari bab satu sampai akhir, Nad," kata Saka sambil meletakkan satu buku cetak percobaan itu ke depanku dan memegang satu eksemplar lagi di tangannya. "Kalau ada halaman yang cetakannya miring atau warnanya meleset, tandai pakai pensil merah."
+"Cek warna ilustrasinya dari bab satu sampai akhir, Nad," kata Saka.
+
+Dia meletakkan satu buku cetak percobaan itu ke depanku. "Kalau ada halaman yang cetakannya miring atau meleset, tandai pakai pensil merah."
 
 "Baik, Mas," jawabku singkat tanpa menoleh ke arahnya.
 
@@ -26,19 +28,23 @@ Aku langsung menahan napas.
 
 Aku baru ingat bahwa pada Jumat sore lalu, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
 
-Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya tampak kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
+Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
 
 Jantungku berdebar kencang di balik tulang rusukku. Aku ingin sekali merebut buku itu dari tangannya dan bilang bahwa gambar itu cuma coretan iseng yang lupa kuhapus, tapi lidahku kelu.
 
 Saka menatap gambar kursi kosong dan bayangan botol minum itu lama sekali. Jari telunjuk kanannya terangkat menyentuh permukaan kertas tempat bayangan botol itu berada.
 
-Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya tampak hening dan serius, seolah dia baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak Jumat sore lalu.
+Ketika Saka akhirnya menoleh ke arahku, raut dingin yang sejak pagi tadi menghiasi wajah datarnya sudah hilang. Pandangannya hening dan serius. Dia seperti baru saja menemukan potongan teka-teki kenapa aku tiba-tiba berubah kaku sejak sore itu.
 
-"Nad," panggil Saka pelan. Suaranya rendah, tidak lagi terdengar seperti editor yang sedang memeriksa cetakan buku. "Gambar kursi kosong di halaman terakhir ini... kamu bikin hari Jumat lalu waktu saya turun ke lantai dua?"
+"Nad," panggil Saka pelan seraya menatapku lekat. "Gambar kursi kosong di halaman terakhir ini... kamu bikin waktu saya turun ke lantai dua?"
 
-Aku menggigit bibir bagian dalamku, meremas pensil merah di tanganku. "Itu... itu cuma ilustrasi pelengkap buat nutup halaman kosong, Mas. Nggak ada maksud apa-apa."
+Aku menahan napas sejenak, meremas pensil merah di tanganku. "Itu cuma ilustrasi pelengkap buat nutup halaman kosong, Mas," belaku seraya mengalihkan tatapan.
 
-"Kamu nggak pandai bohong, Nad," potong Saka tenang. Dia menutup buku cetak percobaan itu perlahan, lalu memutar kursinya menghadapku sepenuhnya. "Sejak Jumat sore kamu ngomong baku kayak operator bank lagi ke saya. Sekarang di halaman terakhir ada gambar meja saya kosong. Kamu sebenarnya lagi mikirin soal..."
+"Kamu nggak pandai bohong, Nad," potong Saka tenang.
+
+Dia menutup buku cetak percobaan itu perlahan. "Sejak kemarin kamu ngomong kaku banget ke saya."
+
+Saka menunjuk gambar kursi kosong itu. "Sekarang ada gambar meja saya kosong. Kamu sebenarnya mikirin apa?"
 
 Kalimat Saka terpotong oleh suara getaran panjang dari ponselku yang tergeletak di samping papan gambar.
 

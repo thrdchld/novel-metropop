@@ -24,17 +24,25 @@ Aku berdiri dari kursi, berjalan cepat melintasi lorong kubikel yang gelap, lalu
 
 Begitu pintu besi itu menutup kembali dengan bunyi gedebuk pelan, udara pengap khas lorong beton langsung menyambutku. Aku berdiri di bordes tangga lantai tiga, menghadap tembok cat putih yang agak mengelupas, lalu menarik napas panjang.
 
-"Enggak bisa, Mas Dimas!" seruku lantang ke arah tembok, lengkap dengan telunjuk yang mengacung galak. Suaraku menggema di lorong tangga yang kosong. "Kamu pikir aku ini staf pribadi gebetan baru kamu?! Kalau Vanya belum ngerti ukuran poster, suruh dia belajar pakai Google, jangan nyuruh mantan kamu yang baru kamu putusin tiga hari lalu!"
+"Enggak bisa, Mas Dimas!" seruku lantang ke arah tembok sambil mengacungkan telunjuk galak.
+
+Suaraku menggema di lorong tangga yang kosong. "Kamu pikir aku ini staf pribadi gebetan baru kamu?!"
+
+Darahku mendidih mengingat pesan tadi. "Kalau Vanya belum ngerti ukuran poster, suruh dia belajar pakai Google!"
 
 Dadaku naik turun. Rasanya lumayan lega juga mengeluarkan kalimat yang sejak pagi tadi nyangkut di tenggorokan.
 
-Aku menyeka poni yang menutupi dahi, lalu beralih menunjuk sudut tembok sebelah kiri seolah-olah di sana ada bayangan Mbak Dinda.
+Aku menyeka poni yang menutupi dahi, lalu beralih menunjuk sudut tembok sebelah kiri, membayangkan Mbak Dinda berdiri di sana.
 
-"Dan buat Mbak Dinda, berhenti pakai alasan ambil rapor anak tiap minggu! Anak Mbak itu baru bisa jalan, rapor apa yang mau diambil? Rapor tumbuh kembang posyandu?!" Aku berkacak pinggang, membusungkan dada di depan tembok beton. "Mulai besok, kalau ada yang nitip kerjaan lagi di luar jam kerja, jawaban aku cuma satu: enggak mau! Titik!"
+"Dan buat Mbak Dinda, berhenti pakai alasan ambil rapor tiap minggu!" teriakku lagi ke arah sudut.
+
+Aku berkacak pinggang di depan tembok beton. "Anak Mbak itu baru bisa jalan, rapor apa yang mau diambil?!"
+
+Lalu aku membusungkan dada. "Mulai besok, kalau ada yang titip kerjaan di luar jam kantor, jawabanku cuma satu: enggak mau!"
 
 Hening.
 
-Hanya suara dengung lampu neon tangga darurat yang terdengar di atas kepalaku. Aku mengembuskan napas panjang, merasa agak konyol sekaligus puas. Setidaknya di depan tembok tangga darurat, aku bukan operator customer service yang lembek.
+Hanya suara dengung lampu neon tangga darurat yang terdengar di atas kepalaku. Dadaku akhirnya melonggar, merasa agak konyol sekaligus puas. Setidaknya di depan tembok tangga darurat, aku bukan operator customer service yang lembek.
 
 "Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf."
 
@@ -42,11 +50,11 @@ Jantungku rasanya langsung anjlok ke mata kaki.
 
 Aku membeku di tempat, lalu mendongak pelan-pelan ke arah deretan anak tangga yang menuju lantai empat.
 
-Di anak tangga kelima dari atas, seorang laki-laki sedang duduk bersandar ke dinding sambil selonjoran satu kaki. Dia memakai kemeja flanel kotak-kotak gelap yang lengannya digulung rapi sampai siku. Di tangan kanannya ada sebuah botol minum logam warna hitam legam yang bagian bawahnya tampak penyok sedikit.
+Di anak tangga kelima dari atas, seorang laki-laki sedang duduk bersandar ke dinding sambil selonjoran satu kaki. Dia memakai kemeja flanel kotak-kotak gelap yang lengannya digulung rapi sampai siku. Di tangan kanannya ada sebuah botol minum logam warna hitam legam yang bagian bawahnya penyok sedikit.
 
-Aku sama sekali tidak menyadari kehadirannya sejak tadi. Dia duduk begitu diam dan menyatu dengan bayangan tangga, persis seperti manekin toko baju yang lagi diskon.
+Aku sama sekali tidak tahu dia sudah duduk di sana sejak tadi. Pria itu menyatu dengan bayangan tangga, persis manekin toko pakaian.
 
-Wajahku langsung terasa panas sampai ke daun telinga. "Sejak... sejak kapan Mas di situ?" tanyaku gugup.
+Wajahku langsung panas sampai ke daun telinga. "Sejak... sejak kapan Mas di situ?" tanyaku gugup.
 
 Laki-laki itu melirik jam tangan hitam di pergelangan kirinya. Wajahnya bersih dengan garis rahang yang tegas, tapi ekspresinya datar sekali seperti orang yang baru bangun tidur dan belum sempat mengumpulkan nyawa.
 

@@ -10,9 +10,9 @@ Kalau rekan kerja lain di kantor biasanya membuka obrolan dengan menanyakan kaba
 
 "Nad, itu penghapus pensil jangan digigit terus. Karet bukan cemilan."
 
-Teguran terakhir itu diucapkannya pukul empat sore tanpa menoleh sedikit pun dari layar laptopnya, tapi sukses bikin aku buru-buru menurunkan pensil dari depan mulutku dengan pipi memanas.
+Teguran terakhir itu diucapkannya pukul empat sore tanpa menoleh sedikit pun dari layar laptopnya. Pipiku langsung memanas. Cepat-cepat kuturunkan pensil dari depan mulut.
 
-Meski begitu, harus kuakui bekerja dengannya terasa jauh lebih tenang daripada duduk di kubikel lamaku. Catatan revisi naskah yang diberikan Saka selalu jelas dari awal, tidak pernah berubah-ubah pikiran lima menit sekali seperti Dimas atau Mbak Dinda.
+Harus kuakui, bekerja dengannya jauh lebih tenang daripada duduk di kubikel lamaku. Catatan revisi naskah dari Saka selalu jelas. Tidak pernah berubah-ubah pikiran lima menit sekali seperti Dimas atau Mbak Dinda.
 
 Jarum jam dinding kantor baru saja menyentuh angka lima sore lewat satu menit ketika terdengar bunyi klik pelan dari sebelahku.
 
@@ -26,11 +26,13 @@ Aku menoleh heran sementara tanganku masih memegang pena digital. "Kok udah bere
 
 "Jam kerja kantor ini dari jam sembilan pagi sampai jam lima sore," kata Saka datar. "Lewat dari jam lima sore, saya berubah jadi warga sipil. Urusan halte dilanjutkan besok pagi jam sembilan."
 
-Aku mengerjap dua kali. Di kantor ini, pulang tepat jam lima sore itu rasanya seperti mitos urban. Biasanya orang-orang baru berani berdiri dari kursi sekitar jam setengah enam supaya tidak dikira kurang berdedikasi.
+Aku mengerjap dua kali. Di kantor ini, pulang tepat jam lima sore itu langka sekali. Biasanya orang-orang baru berani berdiri dari kursi sekitar jam setengah enam supaya tidak dikira kurang berdedikasi.
 
-Belum sempat aku mencerna kalimat warga sipilnya itu, suara langkah sepatu hak pendek yang sangat kuhafal mendekat ke meja kami.
+Langkah sepatu hak pendek mendekat ke meja kami.
 
-"Nad, untung lo masih di depan layar!" seru Mbak Dinda sambil membawa flash disk putih di tangannya. "Tadi Pak Ramdan minta ukuran banner web buat buku Mbak Laras sekalian. Gue udah ditunggu suami gue di lobi bawah nih, lo tinggal sesuaikan dari file sampul kemarin ya? Paling setengah jam beres kok!"
+"Nad, untung lo masih di depan layar!" seru Mbak Dinda sambil membawa flash disk putih di tangannya. "Tadi Pak Ramdan minta banner web buat buku Mbak Laras."
+
+Mbak Dinda menyodorkan flash disk itu buru-buru. "Gue udah ditunggu suami di lobi bawah nih. Lo tinggal sesuaikan sebentar ya? Paling setengah jam beres!"
 
 Tanganku refleks bergerak hendak menerima flash disk putih itu, dan bibirku sudah otomatis menarik senyum sopan khas operator layanan pelanggan.
 
@@ -40,11 +42,13 @@ Namun sebelum jari Mbak Dinda sempat meletakkan benda itu ke atas mejaku, Saka s
 
 Mbak Dinda tertegun, tangannya menggantung di udara. "Hah? Maksudnya gimana ya, Mas Saka? Gue cuma mau nitip ubah ukuran sebentar ke Nadia kok."
 
-"Kuota jam kerja Nadia hari ini sudah habis buat proyek Sela Waktu," ujar Saka tenang. Wajahnya lempeng tanpa senyum, tapi juga tanpa nada membentak. "Kalau banner itu memang harus selesai sore ini, silakan kerjakan di komputer Mbak sendiri. Kalau bisa ditunda besok, silakan masukkan ke antrean resmi besok pagi."
+"Kalau banner itu harus selesai sore ini, kerjakan di komputer Mbak sendiri," potong Saka tenang.
 
-Wajah Mbak Dinda langsung berubah merah padam. Dia melirik ke arahku dengan tatapan meminta bantuan, berharap aku akan menyelamatkannya dengan berkata tidak apa-apa seperti biasanya.
+Saka menatapnya lurus tanpa membentak. "Kalau bisa ditunda, masukkan ke antrean resmi besok pagi."
 
-Aku menggigit bibir bagian dalamku, menatap Saka yang berdiri tenang di samping kursinya, lalu menatap flash disk di tangan Mbak Dinda.
+Wajah Mbak Dinda langsung merah padam. Dia melirik ke arahku dengan tatapan meminta bantuan, berharap aku akan menyelamatkannya dengan berkata tidak apa-apa seperti biasanya.
+
+Aku menelan ludah canggung, menatap Saka yang berdiri tenang di samping kursinya, lalu menatap flash disk di tangan Mbak Dinda.
 
 "Nad, beresin tasmu," perintah Saka singkat sambil mengetuk pelan pinggiran papan gambarku dengan jari telunjuknya. "Listrik meja nomor empat mau saya matikan."
 
@@ -52,11 +56,11 @@ Aku menggigit bibir bagian dalamku, menatap Saka yang berdiri tenang di samping 
 
 Mbak Dinda mendengus pelan, menarik kembali flash disk-nya dengan gerakan agak menyentak. "Ya udah deh, besok pagi aja gue kerjain sendiri. Permisi."
 
-Begitu Mbak Dinda berbalik pergi dengan langkah cepat, aku langsung mengembuskan napas panjang yang tertahan di dada. Tanganku sampai agak dingin waktu mematikan komputer dan memasukkan buku sketsa ke dalam tas ranselku.
+Begitu Mbak Dinda berbalik pergi dengan langkah cepat, dadaku melonggar setelah menahan tegang sejak tadi. Tanganku sampai agak dingin waktu mematikan komputer dan memasukkan buku sketsa ke dalam tas ranselku.
 
 Lima menit kemudian, untuk pertama kalinya dalam sebulan terakhir, aku keluar dari pintu lobi gedung Penerbit Aksara Senja saat langit Cikini masih terang benderang.
 
-Cahaya matahari sore yang hangat menerpa wajahku di trotoar depan gerbang. Rasanya aneh sekali melihat tukang ketoprak baru mulai mendorong gerobaknya, bukan sedang mencuci piring seperti setiap kali aku pulang lembur malam hari.
+Cahaya matahari sore yang hangat menerpa wajahku di trotoar depan gerbang. Tukang ketoprak baru mulai mendorong gerobaknya, bukan sedang mencuci piring seperti setiap kali aku pulang lembur malam hari.
 
 "Aduh, Mbak Dinda pasti marah banget sama aku besok pagi," gumamku cemas sambil memeluk buku sketsa yang tidak muat masuk ke tas ranselku. "Harusnya tadi aku ambil aja flash disk-nya ya, Mas? Cuma setengah jam kok."
 

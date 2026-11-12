@@ -1,6 +1,6 @@
 ## Bab 26: Meja Kerja yang Membeku
 
-Jika hari Senin kemarin suasana di meja proyek nomor empat terasa kaku seperti papan tripleks, maka Selasa pagi ini suhunya resmi turun menyamai kulkas daging beku.
+Jika hari Senin kemarin suasana di meja proyek nomor empat kaku seperti papan tripleks, maka Selasa pagi ini suhunya resmi turun menyamai kulkas daging beku.
 
 Sejak datang pukul sembilan pagi tadi, Saka sama sekali tidak menoleh ke arahku. Tidak ada lagi segelas kopi susu dingin di sebelah tempat pensilku, tidak ada juga komentar soal gambar kucing atau warna gerobak bakso.
 
@@ -10,7 +10,7 @@ Saat menyerahkan lembar persetujuan naik cetak untuk kutandatangani pukul sepulu
 
 "Baik, Mas," jawabku pelan.
 
-Sementara kursi sebelahku terasa sedingin kutub utara, dari arah divisi pemasaran justru ada orang yang mondar-mandir ke mejaku dengan wajah berseri-seri seperti baru menang undian berhadiah.
+Sementara kursi sebelahku sedingin kutub utara, dari arah divisi pemasaran justru ada orang yang mondar-mandir ke mejaku dengan wajah berseri-seri seperti baru menang undian berhadiah.
 
 Sudah tiga kali sepanjang pagi sampai siang itu Dimas sengaja mampir ke meja nomor empat.
 
@@ -22,21 +22,29 @@ Dari ekor mataku, aku melihat gerakan jari Saka di atas keyboard laptopnya berhe
 
 "Oke, Mas. Nanti sore kabari aja kalau udah siap jalan," sahutku kepada Dimas dengan senyum tipis yang kupaksakan.
 
-Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam istirahat makan siang, Tari langsung menarik kursinya merapat ke mejaku. Kali ini sahabatku itu tidak membawa stoples makaroni pedasnya. Wajahnya tampak serius sekali.
+Begitu Dimas kembali ke kubikel pemasarannya dan ruangan mulai sepi karena jam istirahat makan siang, Tari langsung menarik kursinya merapat ke mejaku. Kali ini sahabatku itu tidak membawa stoples makaroni pedasnya. Wajahnya serius sekali.
 
 "Nad, lo beneran mau balikan sama si Dimas nanti malam?" tanya Tari tanpa tedeng aling-aling.
 
-Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Hari Sabtu lalu waktu Ibu sakit, dia yang ngurusin semuanya dari pagi sampai sore, Tar. Dia juga udah ngomong baik-baik sama Ibu waktu di rumah, ngaku salah, dan janji mau berubah."
+Aku menunduk, memutar-mutar pena digital di antara jari-jariku. "Waktu Ibu sakit kemarin, dia yang ngurusin semuanya, Tar," belaku pelan. "Dia udah ngaku salah di depan Ibu dan janji mau berubah."
 
-"Bukan itu yang gue tanyain, Nadia Putri," potong Tari tajam. "Yang gue tanyain, hati lo sendiri beneran masih pengin balik sama dia, atau lo cuma lagi kalut dan pelarian gara-gara dengar Mas Saka mau balik ke Jogja?"
+"Bukan itu maksud gue," potong Tari tajam.
+
+Tari menatap mataku lurus. "Hati lo sendiri beneran masih pengin balik sama dia?"
+
+Dia melipat tangan di dada. "Atau lo cuma kalut gara-gara dengar Mas Saka mau balik ke Jogja?"
 
 Aku terdiam. Pertanyaan Tari itu menembak tepat ke titik yang sejak kemarin sore kusembunyikan rapat-rapat dari diriku sendiri.
 
-"Mas Saka sendiri kok yang kemarin sore bilang di lobi kalau balik sama Dimas itu pilihan paling masuk akal buat gue," kataku akhirnya, suaranya terdengar getir karena gengsi yang terluka. "Lagian kata Ibu juga bener, Tar. Buat apa gue ngarepin orang yang belum jelas bakal balik lagi ke Jakarta atau enggak?"
+"Mas Saka kemarin bilang kalau balik sama Dimas itu pilihan paling masuk akal," kataku getir. "Lagian kata Ibu bener, Tar. Buat apa ngarepin orang yang belum jelas bakal balik ke Jakarta?"
 
-Tari menghela napas panjang sambil menopang dagunya di atas sandaran kursi.
+Tari menyandarkan punggungnya di kursi sambil menatapku prihatin.
 
-"Nad, gue pernah ketipu mantan yang persis kayak si Dimas waktu zaman kuliah dulu. Manisnya cuma tiga hari pas lagi butuh tumpangan motor gue doang, hari keempat kumat lagi penyakit rajanya," kata Tari pelan sebelum berdiri dari kursinya. "Orang yang baru berubah manis tiga hari itu belum tentu beneran tobat, bisa aja cuma lagi kehilangan pelayan gratisnya. Jangan sampai lo balik jadi operator customer service lagi cuma gara-gara takut sendirian."
+"Nad, mantan gue zaman kuliah dulu persis kayak si Dimas," kata Tari pelan. "Manisnya cuma tiga hari, hari keempat kumat lagi penyakit rajanya."
+
+Tari berdiri dari kursinya seraya menatapku tajam. "Orang manis tiga hari itu belum tentu tobat, bisa aja cuma kehilangan pelayan gratis."
+
+Dia menepuk bahuku pelan. "Jangan sampai lo balik jadi customer service cuma gara-gara takut sendirian."
 
 Sepeninggal Tari yang turun mencari makan siang, aku duduk sendirian di meja nomor empat yang sepi.
 
@@ -44,6 +52,6 @@ Aku menatap kursi kerja Saka yang kosong di sebelahku, lalu pandanganku beralih 
 
 Kertas post-it kuning bertuliskan Bilang enggak itu nggak bikin langit runtuh yang ditempelkan Saka tiga minggu lalu kini bagian sudut lemnya sudah mulai kering dan agak mengelupas terkena angin AC.
 
-Tenggorokanku mendadak terasa tercekat melihat kertas kuning itu. Kalau nanti malam aku resmi kembali berpacaran dengan Dimas, aku tidak berhak lagi menyimpan harapan pada pemilik tulisan tangan di sana.
+Tenggorokanku mendadak tercekat melihat kertas kuning itu. Kalau nanti malam aku resmi kembali berpacaran dengan Dimas, aku tidak berhak lagi menyimpan harapan pada pemilik tulisan tangan di sana.
 
-Dengan jari yang terasa berat, aku menarik lepas kertas post-it kuning itu dari bingkai monitorku. Aku membuka buku sketsaku tepat di halaman belakang tempat gambar karikatur Saka berada, lalu menempelkan kertas kuning itu di sana sebelum menutup bukunya rapat-rapat.
+Dengan jemari berat, aku menarik lepas kertas post-it kuning itu dari bingkai monitorku. Aku membuka buku sketsaku tepat di halaman belakang tempat gambar karikatur Saka berada, lalu menempelkan kertas kuning itu di sana sebelum menutup bukunya rapat-rapat.

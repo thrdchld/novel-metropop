@@ -16,33 +16,41 @@ Aku menarik tanganku kembali dari atas meja, lalu menyimpannya di atas pangkuank
 
 Dimas yang sudah bersiap meletakkan gulungan kertas itu ke mejaku langsung berhenti bergerak. "Kenapa, Nad?"
 
-"Saya nggak bisa bantu buatkan desain latar panggungnya sore ini," jawabku. Kali ini aku tidak memakai kalimat mesin penjawab otomatis yang berbelit-belit, hanya kalimat bahasa Indonesia biasa yang lugas. "Jam kerja saya sebentar lagi habis, dan akhir pekan ini jadwal saya sudah penuh buat proyek buku Sela Waktu sama Mas Saka."
+"Saya nggak bisa bantu buatkan desain latar panggungnya sore ini," jawabku lugas. "Jam kerja saya sebentar lagi habis."
+
+Aku menatap matanya tanpa tunduk. "Akhir pekan ini jadwal saya sudah penuh buat proyek Sela Waktu."
 
 Hening.
 
 Bahkan suara ketikan keyboard Tari dari kubikel sebelah ikut berhenti mendadak. Aku yakin telinga sahabatku itu sedang mekar selebar parabola televisi buat menyimak adegan bersejarah ini.
 
-Kening Dimas berkerut dalam. Dia menatapku seolah-olah aku baru saja berbicara menggunakan bahasa Mandarin kuno. Selama dua tahun kami berpacaran, ditambah seminggu sejak putus, kata tidak bisa memang belum pernah sekalipun keluar dari mulutku setiap kali dia meminta bantuan.
+Kening Dimas berkerut dalam. Dia menatapku seperti aku baru saja berbicara dalam bahasa asing yang rumit. Selama dua tahun kami berpacaran, ditambah seminggu sejak putus, kata tidak bisa memang belum pernah sekalipun keluar dari mulutku setiap kali dia meminta bantuan.
 
-"Loh, kan tinggal tarik ukuran dari file poster awal minggu ini, Nad," kata Dimas, senyum manisnya mulai luntur berganti nada menuntut. "Paling lama empat puluh lima menit juga selesai di tangan kamu. Masa tega sih biarin acara divisi pemasaran besok nggak pakai latar belakang panggung?"
+"Loh, kan tinggal tarik ukuran dari file poster awal minggu ini, Nad," desak Dimas kesal.
 
-"File mentahnya sudah saya unggah ke folder bersama divisi pemasaran sejak Senin malam, Mas," jawabku tenang, meski di bawah meja kedua tanganku saling menggenggam erat. "Di komputer pemasaran juga ada aplikasinya. Jadi Mas Dimas atau Vanya bisa langsung sesuaikan ukurannya sendiri dari sana."
+Dimas mendengus menuntut. "Masa tega sih biarin acara besok nggak pakai latar panggung?"
 
-Vanya yang berdiri di sebelah Dimas langsung tampak salah tingkah. Dia melirik jam tangannya, lalu menarik ujung lengan kemeja Dimas pelan. "Mas, atau kita minta orang percetakannya aja yang bantu perbesar di sana? Nanti bayar biaya tambahan desain dikit nggak apa-apa deh."
+"File mentahnya sudah saya unggah ke folder bersama divisi pemasaran sejak Senin malam, Mas," jawabku tenang, meski di bawah meja kedua tanganku saling bertaut erat. "Di komputer pemasaran juga ada aplikasinya. Jadi Mas Dimas atau Vanya bisa langsung sesuaikan ukurannya sendiri dari sana."
 
-Dimas masih menatapku lurus-lurus. Ada kilat kesal di matanya karena ditolak di depan anak magang yang sedang didekatinya, apalagi di sebelahku ada Saka yang sejak tadi duduk diam menyimak tanpa ekspresi.
+Vanya yang berdiri di sebelah Dimas langsung salah tingkah. Dia melirik jam tangannya, lalu menarik ujung lengan kemeja Dimas pelan. "Mas, kita minta orang percetakan aja yang bantu perbesar."
 
-"Oke," kata Dimas pendek, suaranya mendadak dingin. "Kalau kamu sekarang udah hitung-hitungan soal kerjaan, nggak apa-apa. Ayo, Van, kita urus sendiri di percetakan."
+Vanya berbisik canggung. "Nanti bayar biaya tambahan dikit nggak apa-apa."
 
-Tanpa mengucapkan terima kasih atau pamit, Dimas berbalik badan dengan gerakan kaku dan berjalan cepat meninggalkan area meja kami, diikuti oleh Vanya yang setengah berlari mengimbangi langkahnya.
+Dimas menatapku lurus. Kilat kesal berkilat di matanya karena ditolak di depan anak magang yang sedang didekatinya, apalagi di sebelahku ada Saka yang menyimak tanpa ekspresi.
+
+"Oke," kata Dimas pendek dengan nada dingin. "Kalau kamu sekarang perhitungan soal kerjaan kantor, ya sudah. Ayo, Van, kita urus sendiri ke percetakan."
+
+Tanpa mengucap pamit, Dimas berbalik pergi meninggalkan area meja kami. Vanya setengah berlari mengimbangi langkahnya.
 
 Begitu punggung mereka menghilang di balik pintu kaca lobi lantai tiga, napas yang kutahan sejak dua menit lalu langsung keluar sekaligus.
 
-Aku menyandarkan punggung ke kursi, lalu mengangkat kedua tanganku dari bawah meja. Jari-jemariku ternyata gemetar lumayan hebat sampai bergetar waktu menyentuh tepi papan gambar.
+Aku menyandarkan punggung ke kursi, lalu mengangkat kedua tanganku dari bawah meja. Jari-jemariku ternyata bergetar lumayan hebat waktu menyentuh tepi papan gambar.
 
 "Tangan kamu kenapa?" tanya suara datar dari sebelahku.
 
-Aku menoleh ke arah Saka sambil buru-buru mengepalkan tanganku supaya getarannya berhenti. "Enggak apa-apa, Mas. Cuma agak kaget aja. Ternyata nolak mantan sendiri di depan gebetan barunya itu butuh tenaga dalam lumayan banyak."
+Aku menoleh ke arah Saka sambil buru-buru menyembunyikan kedua tangan ke bawah meja. "Enggak apa-apa, Mas, cuma agak kaget."
+
+Aku mencoba tertawa kecil. "Nolak mantan di depan gebetan barunya ternyata butuh banyak tenaga."
 
 Saka menatapku beberapa detik, lalu membuka laci kecil di bawah mejanya.
 
