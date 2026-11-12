@@ -1,4 +1,4 @@
-## Bab 24: Rahasia
+## **Bab 24: Rahasia**
 
 Sudah setengah jam koper biru tua itu terbuka lebar di lantai sudut kamarku, namun belum ada satu helai baju pun yang berhasil kulipat masuk ke dalamnya.
 

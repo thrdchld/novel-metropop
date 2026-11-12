@@ -1,4 +1,4 @@
-## Bab 17: Teror Pertama Vina
+## **Bab 17: Teror Pertama Vina**
 
 Senin siang itu, udara di sepanjang gang padat Tebet gerah bukan main. Sejak membaca pesan ancaman dari nomor tak dikenal semalam, aku sengaja meminta Ibu berangkat lebih pagi ke Pasar Induk Kramat Jati ditemani Bu RT untuk belanja bahan tepung dan gula kelapa sebulan penuh. Aku bahkan menitipkan pesan ke Bang Bobi agar berjaga di warung kopi ujung gang tanpa ikut campur kecuali ada bahaya fisik.
 

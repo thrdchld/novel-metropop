@@ -1,4 +1,4 @@
-## Bab 25: Pelukan
+## **Bab 25: Pelukan**
 
 Sejak duduk di kursinya pada pertemuan kelas terakhir kami hari Jumat sore ini, tangan kanan Nino tidak mau keluar sedikit pun dari dalam saku celana pendeknya.
 

@@ -1,4 +1,4 @@
-## Bab 28: Ujung Video
+## **Bab 28: Ujung Video**
 
 Lampu panggung meredup tepat saat Nino membungkuk sopan di depan mikrofon, dan layar proyektor besar di belakang panggung langsung menyala diiringi petikan gitar akustik yang hangat.
 

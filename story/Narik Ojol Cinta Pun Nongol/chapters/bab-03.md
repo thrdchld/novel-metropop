@@ -1,4 +1,4 @@
-## Bab 3: Transformasi Singkat di Butik
+## **Bab 3: Transformasi Singkat di Butik**
 
 Perjalanan dari basement Menara Astra menuju Bundaran HI hanya memakan waktu kurang dari sepuluh menit, tapi rasanya seperti pindah planet. Di dalam kabin SUV hitam Rian yang sejuk dan wangi kayu cendana, aku duduk agak kaku di tepi jok kulit agar jaket ojolku yang lembap tidak menempel penuh ke sandaran kursi.
 

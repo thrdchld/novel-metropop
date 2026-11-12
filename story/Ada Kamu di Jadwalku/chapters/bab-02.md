@@ -1,4 +1,4 @@
-## Bab 2: Wali Murid Paling Berantakan
+## **Bab 2: Wali Murid Paling Berantakan**
 
 "Sore, Miss! Maaf banget kami telat dua belas menit, tadi di perempatan depan lampu merahnya lama banget kayak nunggu jodoh!"
 

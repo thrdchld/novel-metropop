@@ -1,4 +1,4 @@
-## Bab 32: Kisah Baru
+## **Bab 32: Kisah Baru**
 
 "Look, everyone! What is the orange cat doing on the chair?"
 

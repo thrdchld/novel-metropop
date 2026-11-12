@@ -1,4 +1,4 @@
-## Bab 21: Map Biru
+## **Bab 21: Map Biru**
 
 Sebuah map plastik tebal berwarna biru tua dengan logo resmi kantor pusat BrightStep English sudah menunggu di tengah meja kayu Bu Maya saat aku melangkah masuk ke ruangannya pada hari Rabu siang.
 

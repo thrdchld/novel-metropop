@@ -1,4 +1,4 @@
-## Bab 4: Melanggar Buku Panduan
+## **Bab 4: Melanggar Buku Panduan**
 
 Ujung spidol hitamku mengetuk huruf A besar di papan tulis untuk yang keempat kalinya sore ini.
 

@@ -163,13 +163,14 @@ def check_numbering_and_outline(story_dir: Path, files: list[Path]) -> list[str]
 
         # Cek kesesuaian judul dengan outline
         txt = f.read_text(encoding="utf-8", errors="ignore")
-        title_m = re.search(r"^##\s+Bab\s+\d+:\s*(.+)$", txt, re.M)
+        title_m = re.search(r"^##\s+(\*\*)?Bab\s+\d+:\s*(.+?)(\*\*)?$", txt, re.M)
         if not title_m:
-            errors.append(f"Header judul bab '## Bab N: Judul' tidak ditemukan di {f.name}")
+            errors.append(f"Header judul bab '## **Bab N: Judul**' tidak ditemukan di {f.name}")
         else:
-            chap_title = title_m.group(1).strip()
+            raw_title = title_m.group(2).strip()
+            chap_title = re.sub(r"^\*+|\*+$", "", raw_title).strip()
             if chap_num in outline_titles:
-                exp_title = outline_titles[chap_num]
+                exp_title = re.sub(r"^\*+|\*+$", "", outline_titles[chap_num]).strip()
                 if chap_title.lower() != exp_title.lower():
                     errors.append(f"Judul {f.name} ('{chap_title}') berbeda dengan outline ('{exp_title}')")
 

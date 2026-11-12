@@ -1,4 +1,4 @@
-## Bab 21: Jawaban yang Terdengar Dingin
+## **Bab 21: Jawaban yang Terdengar Dingin**
 
 Sepanjang Jumat sore itu, amplop cokelat berlogo cabang Yogyakarta yang sudah dimasukkan Saka ke dalam tas selempangnya terus membayangi pikiranku.
 

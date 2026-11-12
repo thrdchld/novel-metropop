@@ -1,4 +1,4 @@
-## Bab 4: Pantulan Bunga Pembawa Bencana
+## **Bab 4: Pantulan Bunga Pembawa Bencana**
 
 Begitu pintu ganda berlapis ukiran emas itu didorong terbuka oleh petugas ballroom, alunan musik gesek orkestra dan wangi ribuan mawar putih segar langsung menyambut kami. Di bawah pendar puluhan lampu kristal gantung yang berkilauan, ratusan tamu berjas resmi dan kebaya desainer berbincang hangat dengan gelas berkaki tinggi di tangan.
 

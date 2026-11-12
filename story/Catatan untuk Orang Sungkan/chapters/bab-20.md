@@ -1,4 +1,4 @@
-## Bab 20: Kabar dari Cabang Yogyakarta
+## **Bab 20: Kabar dari Cabang Yogyakarta**
 
 Selama dua hari setelah obrolan di dapur kantor itu, aku berusaha keras meyakinkan diriku sendiri bahwa ucapan Dimas hanyalah akal-akalan mantan pacar yang sedang panik mencari perhatian.
 

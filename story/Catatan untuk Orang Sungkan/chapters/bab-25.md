@@ -1,4 +1,4 @@
-## Bab 25: Pertengkaran Tanpa Suara Tinggi
+## **Bab 25: Pertengkaran Tanpa Suara Tinggi**
 
 Pintu lift berdenting terbuka di lantai dasar gedung Penerbit Aksara Senja pada pukul lima lewat sepuluh menit sore.
 

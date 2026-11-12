@@ -1,4 +1,4 @@
-## Bab 13: Menjaga Batas di Rumah Sendiri
+## **Bab 13: Menjaga Batas di Rumah Sendiri**
 
 Jam setengah sembilan malam di kamar kosku di Cikini, aku duduk bersila di atas kasur tipis sambil memelototi layar ponselku yang menyala.
 

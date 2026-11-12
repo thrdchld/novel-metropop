@@ -1,4 +1,4 @@
-## Bab 27: Topeng Manis yang Terlepas
+## **Bab 27: Topeng Manis yang Terlepas**
 
 Selasa malam pukul setengah delapan, meja kayu di sudut Rumah Makan Sederhana Rasa di Rawamangun sudah dipenuhi hidangan ikan gurame bakar, sayur kangkung, dan sambal cobek.
 

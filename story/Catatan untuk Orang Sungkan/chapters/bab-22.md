@@ -1,4 +1,4 @@
-## Bab 22: Tamu yang Sigap di Rawamangun
+## **Bab 22: Tamu yang Sigap di Rawamangun**
 
 Dering telepon dari tetangga Rawamangun mengejutkanku pada Sabtu pagi pukul sembilan. Aku langsung melompat turun dari kasur kos.
 

@@ -1,4 +1,4 @@
-## Bab 30: Pengakuan di Panggung Sela Waktu
+## **Bab 30: Pengakuan di Panggung Sela Waktu**
 
 Jumat sore pukul empat lewat lima belas menit, aula diskusi di lantai dua toko buku kawasan Cikini sudah dipenuhi sekitar lima puluh pengunjung yang duduk berderet di kursi lipat kayu.
 

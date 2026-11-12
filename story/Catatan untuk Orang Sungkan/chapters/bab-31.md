@@ -1,4 +1,4 @@
-## Bab 31: Dua Klik Tutup Botol
+## **Bab 31: Dua Klik Tutup Botol**
 
 Begitu sesi foto bersama di atas panggung selesai pada pukul setengah enam sore, aku bahkan tidak sempat lagi merapikan buku di mejaku.
 

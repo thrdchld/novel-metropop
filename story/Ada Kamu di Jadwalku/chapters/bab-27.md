@@ -1,4 +1,4 @@
-## Bab 27: Kejutan
+## **Bab 27: Kejutan**
 
 Di depan tiang mikrofon panggung yang tingginya sudah disesuaikan panitia, Nino tiba-tiba menggelengkan kepalanya pelan ke arah kertas naskah My Parents yang kuangkat di tepi kanan panggung!
 

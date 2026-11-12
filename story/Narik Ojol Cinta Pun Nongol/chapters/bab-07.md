@@ -1,4 +1,4 @@
-## Bab 7: Penyamaran Bermasker
+## **Bab 7: Penyamaran Bermasker**
 
 Uap harum santan pandan dan daun pisang kukus memenuhi dapur sempit kontrakan kami di Tebet Sabtu subuh itu. Di depan kompor dua tungku, Ibu sedang cekatan mengangkat loyang kue lumpur kentang yang permukaannya kuning keemasan, sementara aku membungkus barisan lemper ayam yang sudah dingin ke dalam plastik bening.
 

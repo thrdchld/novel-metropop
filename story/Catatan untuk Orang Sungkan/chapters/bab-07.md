@@ -1,4 +1,4 @@
-## Bab 7: Kalimat Penolakan Tiga Detik
+## **Bab 7: Kalimat Penolakan Tiga Detik**
 
 Gulungan kertas ukuran panggung di tangan Dimas masih menggantung tepat sepuluh sentimeter di depan dadaku.
 

@@ -1,4 +1,4 @@
-## Bab 22: Jangan Pergi
+## **Bab 22: Jangan Pergi**
 
 "Han, map keramat lo ketinggalan di tumpukan buku meja gue nih!"
 

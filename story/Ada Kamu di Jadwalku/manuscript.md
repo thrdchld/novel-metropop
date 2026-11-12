@@ -1,6 +1,6 @@
 # Ada Kamu di Jadwalku
 
-## Bab 1: Si Paling Anti Dadakan
+## **Bab 1: Si Paling Anti Dadakan**
 
 Tiga spidol papan tulis di atas mejaku baru saja berbaris lurus sempurna dengan sudut buku catatan cokelatku ketika sebuah map plastik bening mendarat tepat di tengahnya.
 
@@ -54,7 +54,7 @@ Saat angka di pojok ponselku berganti menjadi pukul empat lewat sepuluh menit, j
 
 ---
 
-## Bab 2: Wali Murid Paling Berantakan
+## **Bab 2: Wali Murid Paling Berantakan**
 
 "Sore, Miss! Maaf banget kami telat dua belas menit, tadi di perempatan depan lampu merahnya lama banget kayak nunggu jodoh!"
 
@@ -110,7 +110,7 @@ Aku menatap punggung kemeja flanel kusut Bima yang melangkah keluar sambil mengg
 
 ---
 
-## Bab 3: Saran yang Bikin Kesal
+## **Bab 3: Saran yang Bikin Kesal**
 
 Dua jari membentuk huruf V menempel di balik kaca pintu Ruang Kelas Nomor Dua, diikuti telunjuk tangan satunya yang mengetuk-ngetuk jam dinding lorong dengan gaya pamer.
 
@@ -172,7 +172,7 @@ Aku menatap pot tanaman lidah mertua yang daunnya berdebu di pojok pintu itu sam
 
 ---
 
-## Bab 4: Melanggar Buku Panduan
+## **Bab 4: Melanggar Buku Panduan**
 
 Ujung spidol hitamku mengetuk huruf A besar di papan tulis untuk yang keempat kalinya sore ini.
 
@@ -228,7 +228,7 @@ Aku menggeleng pelan di atas karpet sambil membatin betapa anehnya wali muridku 
 
 ---
 
-## Bab 5: Saat Jadwal Dikacaukan Hujan
+## **Bab 5: Saat Jadwal Dikacaukan Hujan**
 
 Lingkaran pencari pengemudi di layar ponselku sudah berputar lima belas menit penuh tanpa hasil, sementara cipratan hujan deras terus menyerbu sampai ke ubin teras depan gedung BrightStep English.
 
@@ -282,7 +282,7 @@ Aku hanya menggeleng pelan sambil menghabiskan potongan terakhir es krimku, masi
 
 ---
 
-## Bab 6: Tabungan Demi Rasa Aman
+## **Bab 6: Tabungan Demi Rasa Aman**
 
 Baris keempat puluh delapan di halaman belakang buku catatan cokelatku resmi terisi dengan tinta bolpoin hitam yang rapi.
 
@@ -322,7 +322,7 @@ Aku meletakkan ponselku kembali ke atas meja, lalu menatap koper besar berwarna 
 
 ---
 
-## Bab 7: Perhatian Kecil
+## **Bab 7: Perhatian Kecil**
 
 Sebuah amplop kertas cokelat tebal mendarat di atas meja guruku tepat sebelum Bima berbalik keluar dari Ruang Kelas Nomor Dua.
 
@@ -364,7 +364,7 @@ Aku menatap pintu kaca yang baru tertutup sambil memegang sepuluh kartu pos foto
 
 ---
 
-## Bab 8: Telepon
+## **Bab 8: Telepon**
 
 "Beli sekarang aja yuk, Om! Jangan ditunda sampai besok!"
 
@@ -418,7 +418,7 @@ Anehnya, begitu panggilan telepon itu berakhir dan Bima berbalik masuk ke dalam 
 
 ---
 
-## Bab 9: Kamera Peninggalan
+## **Bab 9: Kamera Peninggalan**
 
 "Om, aku mau coba foto burungnya kayak Om Bima!"
 
@@ -468,7 +468,7 @@ Sebelum aku sempat menjawab, Nino sudah berlari kembali ke bangku kami sambil me
 
 ---
 
-## Bab 10: Makan Malam
+## **Bab 10: Makan Malam**
 
 "Wah, suara perutnya sudah protes keras tuh, Miss."
 
@@ -514,7 +514,7 @@ Aku menggelengkan kepala sambil tersenyum geli dan kembali menyantap mi ayamku, 
 
 ---
 
-## Bab 11: Menghindari Topik
+## **Bab 11: Menghindari Topik**
 
 Sebuah papan jalan berisi formulir daftar peserta Storytelling Day diletakkan Bu Maya ke atas mejaku saat kelas hari Rabu sore di minggu ketiga baru berjalan sepuluh menit.
 
@@ -564,7 +564,7 @@ Melihat Nino sudah mau membuka suara lagi, aku akhirnya tidak jadi bertanya lebi
 
 ---
 
-## Bab 12: Kelelahan
+## **Bab 12: Kelelahan**
 
 Baris kedua sampai baris kelima di lembar PR Nino masih kosong melompong.
 
@@ -610,7 +610,7 @@ Orang yang begadang sampai subuh di depan layar lalu bangun sambil tertawa-tawa 
 
 ---
 
-## Bab 13: Tuduhan
+## **Bab 13: Tuduhan**
 
 Bu Maya sudah dua kali melirik jam tangan peraknya di pojok belakang Ruang Kelas Nomor Dua, sementara kursi murid di depanku masih kosong melompong.
 
@@ -672,7 +672,7 @@ Biasanya, setiap kali aku mengomel soal waktu atau aturan kelas, Bima selalu pun
 
 ---
 
-## Bab 14: Resep Obat
+## **Bab 14: Resep Obat**
 
 Di bawah atap teras samping yang mulai ditempias gerimis sore, aku berdiri mematung menunggu Bima membalas kata-kataku. Di kepalaku, aku sudah menyiapkan mental kalau-kalau pria itu bakal ikut tersulut emosi atau membela diri dengan suara tinggi.
 
@@ -714,7 +714,7 @@ Tanpa memedulikan lagi jadwal makan malam dan pengingat pukul enam di layar pons
 
 ---
 
-## Bab 15: Beban
+## **Bab 15: Beban**
 
 Langkah kakiku terhenti tepat di depan pagar kayu sebuah rumah kontrakan petak bercat putih kusam di gang sempit kawasan Cipete.
 
@@ -772,7 +772,7 @@ Aku benar-benar malu dan merasa bersalah setengah mati. Dua jam yang lalu, denga
 
 ---
 
-## Bab 16: Pesan Terakhir
+## **Bab 16: Pesan Terakhir**
 
 "Hana? Kok bisa sampai ke sini?"
 
@@ -820,7 +820,7 @@ Air mataku kembali menggenang di pelupuk mata, namun kali ini bukan lagi karena 
 
 ---
 
-## Bab 17: Mematikan Alarm
+## **Bab 17: Mematikan Alarm**
 
 "Sore, Miss Hana! Terima kasih sup ayamnya yang kemarin ya, kata Nenek sup buatan Miss Hana enak banget!"
 
@@ -882,7 +882,7 @@ Selama tiga detik penuh, Bima hanya berdiri tertegun menatapku seperti tidak per
 
 ---
 
-## Bab 18: Bunga
+## **Bab 18: Bunga**
 
 "Satu kali lagi ya, No! Suaranya agak diangkat sedikit biar nggak kalah sama bunyi air mancur!"
 
@@ -942,7 +942,7 @@ Mataku tanpa sengaja tertuju pada bibir saku dada kemeja flanel Bima. Dari sela 
 
 ---
 
-## Bab 19: Kembalinya Sang Mantan
+## **Bab 19: Kembalinya Sang Mantan**
 
 "Hana?"
 
@@ -1000,7 +1000,7 @@ Aku berdiri dari kursi kafe sebelum kopi di cangkirku habis setengahnya dan mela
 
 ---
 
-## Bab 20: Kemeja Rapi
+## **Bab 20: Kemeja Rapi**
 
 "Thank you very much, Miss Hana! I love this green dinosaur book!"
 
@@ -1052,7 +1052,7 @@ Sebelum aku sempat membuka mulut untuk menjelaskan bahwa aku dan Fajar sudah tid
 
 ---
 
-## Bab 21: Map Biru
+## **Bab 21: Map Biru**
 
 Sebuah map plastik tebal berwarna biru tua dengan logo resmi kantor pusat BrightStep English sudah menunggu di tengah meja kayu Bu Maya saat aku melangkah masuk ke ruangannya pada hari Rabu siang.
 
@@ -1094,7 +1094,7 @@ Aku berdiri, mengucapkan terima kasih dengan sopan, lalu keluar dari ruangan Bu 
 
 ---
 
-## Bab 22: Jangan Pergi
+## **Bab 22: Jangan Pergi**
 
 "Han, map keramat lo ketinggalan di tumpukan buku meja gue nih!"
 
@@ -1142,7 +1142,7 @@ Selama empat tahun aku mengajar puluhan anak di lembaga kursus ini, setiap kali 
 
 ---
 
-## Bab 23: Jawaban
+## **Bab 23: Jawaban**
 
 Pintu taksi di depan teras gedung tertutup rapat, membawa Mas Hendra dan Nino melaju menuju rumah sakit dan menyisakan aku berdua saja dengan Bima di pelataran depan yang mulai lengang.
 
@@ -1192,7 +1192,7 @@ Aku menggenggam map biru itu erat-erat sampai buku-buku jariku memutih, berusaha
 
 ---
 
-## Bab 24: Rahasia
+## **Bab 24: Rahasia**
 
 Sudah setengah jam koper biru tua itu terbuka lebar di lantai sudut kamarku, namun belum ada satu helai baju pun yang berhasil kulipat masuk ke dalamnya.
 
@@ -1242,7 +1242,7 @@ Hana: Baik, Mas Bima. Sampai bertemu di kelas besok sore.
 
 ---
 
-## Bab 25: Pelukan
+## **Bab 25: Pelukan**
 
 Sejak duduk di kursinya pada pertemuan kelas terakhir kami hari Jumat sore ini, tangan kanan Nino tidak mau keluar sedikit pun dari dalam saku celana pendeknya.
 
@@ -1294,7 +1294,7 @@ Aku mengangguk pelan menatap punggung Bima dan Nino yang menjauh di lorong, masi
 
 ---
 
-## Bab 26: Hari Penampilan
+## **Bab 26: Hari Penampilan**
 
 "Han, murid privat lo si Nino nomor urut empat kan? Kok jam sembilan kurang sepuluh gini belum daftar ulang?"
 
@@ -1340,7 +1340,7 @@ Aku mengangguk memperhatikan Bima berlari kecil menghampiri staf operator laptop
 
 ---
 
-## Bab 27: Kejutan
+## **Bab 27: Kejutan**
 
 Di depan tiang mikrofon panggung yang tingginya sudah disesuaikan panitia, Nino tiba-tiba menggelengkan kepalanya pelan ke arah kertas naskah My Parents yang kuangkat di tepi kanan panggung!
 
@@ -1390,7 +1390,7 @@ Air mataku pecah mengalir deras di pipi tepat saat tepuk tangan gemuruh dari emp
 
 ---
 
-## Bab 28: Ujung Video
+## **Bab 28: Ujung Video**
 
 Lampu panggung meredup tepat saat Nino membungkuk sopan di depan mikrofon, dan layar proyektor besar di belakang panggung langsung menyala diiringi petikan gitar akustik yang hangat.
 
@@ -1434,7 +1434,7 @@ Selama dua detik aula hening, lalu sedetik kemudian tawa hangat dan gemuruh tepu
 
 ---
 
-## Bab 29: Pengakuan
+## **Bab 29: Pengakuan**
 
 "Lima orang tua murid reguler barusan sampai menanyakan metode cerita bergambar dan video yang kamu pakai buat Nino!"
 
@@ -1494,7 +1494,7 @@ Mata Bima melebar menatapku, lalu dia mengulurkan tangannya menggenggam jemariku
 
 ---
 
-## Bab 30: Promosi
+## **Bab 30: Promosi**
 
 "Hana, ini kolom tanda tangannya kok masih kosong?"
 
@@ -1542,7 +1542,7 @@ Begitu aku keluar dari ruangan Bu Maya pagi itu tanpa map biru di tanganku, lang
 
 ---
 
-## Bab 31: Buah Manis
+## **Bab 31: Buah Manis**
 
 "Miss Hana! Lihat nih, gambar dinosaurus di pojok temboknya sudah selesai diwarnai sama Om Bima!"
 
@@ -1586,7 +1586,7 @@ Aku tersenyum menatap genggaman tangan Bima di atas buku cokelatku, sudah tidak 
 
 ---
 
-## Bab 32: Kisah Baru
+## **Bab 32: Kisah Baru**
 
 "Look, everyone! What is the orange cat doing on the chair?"
 

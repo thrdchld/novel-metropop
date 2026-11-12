@@ -1,4 +1,4 @@
-## Bab 28: Pensiunnya Sang Operator Layanan
+## **Bab 28: Pensiunnya Sang Operator Layanan**
 
 Sendok makan di tanganku kuletakkan pelan-pelan ke pinggir piring sampai berbunyi denting halus.
 

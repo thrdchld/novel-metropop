@@ -1,4 +1,4 @@
-## Bab 9: Benturan Dua Dunia
+## **Bab 9: Benturan Dua Dunia**
 
 Kafe bergaya industrial dengan dinding bata ekspos dan lampu gantung temaram di kawasan Senopati itu cukup lengang pada Selasa sore. Aku memilih meja paling pojok di area semi-privat agar obrolan kami tidak terdengar pengunjung meja sebelah. Masker kain hitam polos tetap bertengger rapi menutupi paruh bawah wajahku, hanya kusingkap sedikit tiap kali menyesap es kopi susu lewat sedotan.
 

@@ -1,4 +1,4 @@
-## Bab 5: Di Atas Panggung Keluarga
+## **Bab 5: Di Atas Panggung Keluarga**
 
 Gemuruh tepuk tangan dan siulan menggema memenuhi seluruh sudut ballroom Hotel Grand Hyatt. Di tanganku, tangkai buket mawar putih berhias pita satin perak itu dingin bukan main, kontras dengan telapak tanganku yang mendadak berkeringat.
 

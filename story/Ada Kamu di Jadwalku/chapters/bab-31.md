@@ -1,4 +1,4 @@
-## Bab 31: Buah Manis
+## **Bab 31: Buah Manis**
 
 "Miss Hana! Lihat nih, gambar dinosaurus di pojok temboknya sudah selesai diwarnai sama Om Bima!"
 

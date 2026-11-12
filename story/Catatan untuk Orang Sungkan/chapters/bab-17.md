@@ -1,4 +1,4 @@
-## Bab 17: Rahasia Tutup Botol Hitam
+## **Bab 17: Rahasia Tutup Botol Hitam**
 
 Gerimis sudah berhenti menetes waktu kami sampai di depan pagar besi rumah kosku yang bercat putih kusam.
 

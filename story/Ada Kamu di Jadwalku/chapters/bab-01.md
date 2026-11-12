@@ -1,4 +1,4 @@
-## Bab 1: Si Paling Anti Dadakan
+## **Bab 1: Si Paling Anti Dadakan**
 
 Tiga spidol papan tulis di atas mejaku baru saja berbaris lurus sempurna dengan sudut buku catatan cokelatku ketika sebuah map plastik bening mendarat tepat di tengahnya.
 

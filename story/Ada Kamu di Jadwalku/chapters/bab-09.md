@@ -1,4 +1,4 @@
-## Bab 9: Kamera Peninggalan
+## **Bab 9: Kamera Peninggalan**
 
 "Om, aku mau coba foto burungnya kayak Om Bima!"
 

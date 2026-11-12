@@ -1,4 +1,4 @@
-## Bab 11: Salah Warna di Hari Senin
+## **Bab 11: Salah Warna di Hari Senin**
 
 "Nad, itu gerobak bakso kenapa warna atapnya jadi ungu terong?"
 

@@ -1,4 +1,4 @@
-## Bab 8: Telepon
+## **Bab 8: Telepon**
 
 "Beli sekarang aja yuk, Om! Jangan ditunda sampai besok!"
 

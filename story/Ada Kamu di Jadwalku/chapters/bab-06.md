@@ -1,4 +1,4 @@
-## Bab 6: Tabungan Demi Rasa Aman
+## **Bab 6: Tabungan Demi Rasa Aman**
 
 Baris keempat puluh delapan di halaman belakang buku catatan cokelatku resmi terisi dengan tinta bolpoin hitam yang rapi.
 

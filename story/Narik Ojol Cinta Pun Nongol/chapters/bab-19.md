@@ -1,4 +1,4 @@
-## Bab 19: Kejujuran di Hadapan Oma
+## **Bab 19: Kejujuran di Hadapan Oma**
 
 Ruang keluarga rumah Kebayoran Baru sore itu terasa jauh lebih hening daripada kunjungan pertamaku hari Minggu lalu. Aroma teh melati hangat masih menguar dari meja kaca bundar, tetapi kehadiran Tante Henny yang duduk bersedekap di sudut sofa ukir dengan senyum sinis penuh kemenangan langsung memberi sinyal bahwa Vina sudah lebih dulu membisikkan sesuatu kepadanya.
 

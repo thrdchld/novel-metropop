@@ -1,4 +1,4 @@
-## Bab 3: Meja Sebelah yang Tanpa Basa-Basi
+## **Bab 3: Meja Sebelah yang Tanpa Basa-Basi**
 
 Doaku semalam ternyata langsung ditolak mentah-mentah oleh semesta.
 

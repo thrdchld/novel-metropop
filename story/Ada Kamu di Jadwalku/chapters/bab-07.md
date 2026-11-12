@@ -1,4 +1,4 @@
-## Bab 7: Perhatian Kecil
+## **Bab 7: Perhatian Kecil**
 
 Sebuah amplop kertas cokelat tebal mendarat di atas meja guruku tepat sebelum Bima berbalik keluar dari Ruang Kelas Nomor Dua.
 

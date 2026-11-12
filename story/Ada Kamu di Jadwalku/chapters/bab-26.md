@@ -1,4 +1,4 @@
-## Bab 26: Hari Penampilan
+## **Bab 26: Hari Penampilan**
 
 "Han, murid privat lo si Nino nomor urut empat kan? Kok jam sembilan kurang sepuluh gini belum daftar ulang?"
 

@@ -63,7 +63,7 @@ python3 scripts/stress-test.py --fix "story/<Judul Novel>"
 | No | Kunci | Aturan | Definisi Validasi | Rujukan Engine |
 |---|---|---|---|---|
 | 9 | `word_range` | Rentang kata bab | Setiap bab 600-900 kata (darurat maks 1200 kata). | AGENTS.md 4.2; engine/06-chapter.md |
-| 10 | `plain_text` | Teks polos 100% | 0 em dash, 0 simbol markup (* ` ~), header '## Bab N: Judul', tanpa quote pembuka. | engine/05-style.md 4 |
+| 10 | `plain_text` | Teks polos 100% | 0 em dash, 0 simbol markup (* ` ~) di tubuh teks, header '## **Bab N: Judul**', tanpa quote pembuka. | engine/05-style.md 4 |
 | 11 | `title_rule` | Aturan judul bab | Judul maksimal 5 kata dan tidak memuat nama tokoh (nama diambil otomatis dari canon.md). | engine/05-style.md 4 |
 | 12 | `in_medias_res` | Pembuka In Medias Res | Bab dibuka dengan aksi/dialog, bukan laporan waktu/cuaca/suasana. | engine/05-style.md 5C |
 | 13 | `long_quote` | Batas napas dialog | Satu kutipan dialog maksimal 20 kata. | engine/05-style.md 6 |

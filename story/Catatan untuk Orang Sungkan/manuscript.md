@@ -1,6 +1,6 @@
 # Catatan untuk Orang Sungkan
 
-## Bab 1: Operator Layanan Patah Hati
+## **Bab 1: Operator Layanan Patah Hati**
 
 Tiga hari yang lalu, aku baru saja dicampakkan oleh pacarku gara-gara aku terlalu sopan.
 
@@ -74,7 +74,7 @@ Begitu dia menjauh, aku langsung menelungkupkan wajah ke atas meja kerja. Aku be
 
 ---
 
-## Bab 2: Tangga Darurat Jam Tujuh Malam
+## **Bab 2: Tangga Darurat Jam Tujuh Malam**
 
 Jam tujuh malam di lantai tiga gedung Penerbit Aksara Senja itu suasananya mirip ruang tunggu dokter gigi pas hari libur. Sepi, dingin, dan bikin merinding tanpa alasan.
 
@@ -150,7 +150,7 @@ Tanpa menunggu balasannya, aku langsung menarik gagang pintu besi tangga darurat
 
 ---
 
-## Bab 3: Meja Sebelah yang Tanpa Basa-Basi
+## **Bab 3: Meja Sebelah yang Tanpa Basa-Basi**
 
 Doaku semalam ternyata langsung ditolak mentah-mentah oleh semesta.
 
@@ -228,7 +228,7 @@ Aku menelan ludah, menatap pria Jogja di sebelahku ini dengan rasa ngeri bercamp
 
 ---
 
-## Bab 4: Peraturan Jam Lima Sore
+## **Bab 4: Peraturan Jam Lima Sore**
 
 Selama hampir delapan jam duduk bersebelahan dengan Saka Wijaya di meja proyek nomor empat, aku menemukan satu fakta ilmiah baru: laki-laki ini tidak suka basa-basi bukan karena sedang marah, melainkan karena pengaturan pabriknya memang begitu.
 
@@ -308,7 +308,7 @@ Aku berdiri di pinggir trotoar Cikini, meraba ujung kertas kuning itu dengan ibu
 
 ---
 
-## Bab 5: Latihan dan Utang Ayam Bakar
+## **Bab 5: Latihan dan Utang Ayam Bakar**
 
 Begitu tiba di meja nomor empat Rabu pagi tadi, hal pertama yang kulakukan adalah melepas kertas post-it kuning pemberian Saka dari sampul buku sketsaku dan menempelkannya rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
 
@@ -386,7 +386,7 @@ Aku menatap segelas es jeruk dingin di depanku. Lalu aku melirik jempol Saka di 
 
 ---
 
-## Bab 6: Permintaan Mantan di Hari Jumat
+## **Bab 6: Permintaan Mantan di Hari Jumat**
 
 Hari Jumat sore di kantor penerbitan biasanya punya dua kasta manusia: kasta yang sejak jam tiga sore sudah sibuk merapikan meja sambil memantau aplikasi ojek online, dan kasta yang mejanya masih dikepung tumpukan kertas revisi.
 
@@ -450,7 +450,7 @@ Berbeda dengan Selasa sore lalu saat menghadapi Mbak Dinda, kali ini Saka sama s
 
 ---
 
-## Bab 7: Kalimat Penolakan Tiga Detik
+## **Bab 7: Kalimat Penolakan Tiga Detik**
 
 Gulungan kertas ukuran panggung di tangan Dimas masih menggantung tepat sepuluh sentimeter di depan dadaku.
 
@@ -528,7 +528,7 @@ Aku mengambil cokelat susu itu dari atas buku sketsaku, menyembunyikan senyum ge
 
 ---
 
-## Bab 8: Berburu Buku Lawas di Kwitang
+## **Bab 8: Berburu Buku Lawas di Kwitang**
 
 Sabtu siang pukul sebelas kurang lima menit, aku turun dari jembatan penyeberangan Halte Senen dan mendapati Saka sudah berdiri berteduh di bawah kanopi toko cat yang tutup.
 
@@ -592,7 +592,7 @@ Selama satu jam berikutnya, kami tenggelam di antara rak-rak buku sempit itu. Da
 
 ---
 
-## Bab 9: Karikatur di Warung Soto Kwitang
+## **Bab 9: Karikatur di Warung Soto Kwitang**
 
 Jam satu siang, perutku mulai mengeluarkan bunyi keroncongan yang untungnya kalah keras oleh suara klakson angkot Senen.
 
@@ -662,7 +662,7 @@ Aku menatap senyum tipis yang cuma bertahan tiga detik di wajah Saka itu, dan en
 
 ---
 
-## Bab 10: Anak Tengah di Meja Makan
+## **Bab 10: Anak Tengah di Meja Makan**
 
 Kalau ada orang yang bertanya dari mana asal-usul penyakit nggak enakanku yang sudah stadium empat ini, jawabannya terletak di sebuah rumah berpagar hijau daun di kawasan Rawamangun.
 
@@ -722,7 +722,7 @@ Di kantor, aku baru saja bangga karena berhasil belajar bilang tidak berkat bant
 
 ---
 
-## Bab 11: Salah Warna di Hari Senin
+## **Bab 11: Salah Warna di Hari Senin**
 
 "Nad, itu gerobak bakso kenapa warna atapnya jadi ungu terong?"
 
@@ -790,7 +790,7 @@ Di seberang meja, Saka tidak langsung menjawab dengan kalimat ledekan pedas sepe
 
 ---
 
-## Bab 12: Cerita Yogyakarta dan Botol Penyok
+## **Bab 12: Cerita Yogyakarta dan Botol Penyok**
 
 Hujan deras di luar kedai kopi mulai mereda menjadi rintik sedang saat cangkir teh hangat kami tinggal setengah. Dari balik kaca jendela, tempias air masih membasahi aspal trotoar Cikini yang lengang.
 
@@ -850,7 +850,7 @@ Saat kami berjalan kaki beriringan menuju pintu masuk Stasiun Cikini, rasa takut
 
 ---
 
-## Bab 13: Menjaga Batas di Rumah Sendiri
+## **Bab 13: Menjaga Batas di Rumah Sendiri**
 
 Jam setengah sembilan malam di kamar kosku di Cikini, aku duduk bersila di atas kasur tipis sambil memelototi layar ponselku yang menyala.
 
@@ -928,7 +928,7 @@ Aku memeluk bantal di dada dan tertawa kecil sendirian di kamar kos yang hening.
 
 ---
 
-## Bab 14: Gangguan dari Meja Pemasaran
+## **Bab 14: Gangguan dari Meja Pemasaran**
 
 Dua minggu duduk satu meja dengan Saka Wijaya ternyata membawa perubahan yang cukup mencolok pada pemandangan mejaku di lantai tiga.
 
@@ -990,7 +990,7 @@ Kata ilustrator saya yang diucapkan Saka dengan nada biasa itu sukses membuat ta
 
 ---
 
-## Bab 15: Pembelaan Tanpa Suara Tinggi
+## **Bab 15: Pembelaan Tanpa Suara Tinggi**
 
 Tebakan Saka terbukti seratus persen tepat pada pukul setengah empat sore di ruang rapat redaksi.
 
@@ -1054,7 +1054,7 @@ Aku menatap punggung kemeja flanelnya yang berjalan lebih dulu keluar pintu ruan
 
 ---
 
-## Bab 16: Satu Payung di Sepanjang Cikini
+## **Bab 16: Satu Payung di Sepanjang Cikini**
 
 Begitu jam pulang kantor tiba pada Kamis sore itu, langit Cikini kembali memamerkan bakat utamanya: menurunkan gerimis tanggung yang kalau diterobos bikin baju lembap, tapi kalau dipesankan ojek online langsung bikin tarif aplikasi melonjak dua kali lipat.
 
@@ -1106,7 +1106,7 @@ Langkah kaki kami berbelok memasuki mulut gang kosku, tempat gerobak martabak ma
 
 ---
 
-## Bab 17: Rahasia Tutup Botol Hitam
+## **Bab 17: Rahasia Tutup Botol Hitam**
 
 Gerimis sudah berhenti menetes waktu kami sampai di depan pagar besi rumah kosku yang bercat putih kusam.
 
@@ -1184,7 +1184,7 @@ Aku berdiri di teras kos sambil memeluk kotak martabak hangat itu di dadaku. Mal
 
 ---
 
-## Bab 18: Pergeseran Kecil di Meja Empat
+## **Bab 18: Pergeseran Kecil di Meja Empat**
 
 Sejak rahasia tutup botol minum hitamnya terbongkar di teras kosku malam Jumat lalu, Saka resmi berhenti mengarang alasan promo minimarket atau abang warung salah hitung.
 
@@ -1252,7 +1252,7 @@ Siang itu, aku mengira hari-hariku sampai buku Sela Waktu terbit nanti akan teru
 
 ---
 
-## Bab 19: Permintaan Maaf dan Bisikan Keraguan
+## **Bab 19: Permintaan Maaf dan Bisikan Keraguan**
 
 Rabu sore pukul empat kurang sepuluh menit, aku berdiri sendirian di dapur kecil kantor sambil menunggu air dispenser mendidih untuk menyeduh teh.
 
@@ -1332,7 +1332,7 @@ Aku berdiri mematung di depan dispenser yang mendengung pelan. Cangkir teh di de
 
 ---
 
-## Bab 20: Kabar dari Cabang Yogyakarta
+## **Bab 20: Kabar dari Cabang Yogyakarta**
 
 Selama dua hari setelah obrolan di dapur kantor itu, aku berusaha keras meyakinkan diriku sendiri bahwa ucapan Dimas hanyalah akal-akalan mantan pacar yang sedang panik mencari perhatian.
 
@@ -1384,7 +1384,7 @@ Aku buru-buru menurunkan pensil dari depan mulutku tepat saat Saka tiba di meja 
 
 ---
 
-## Bab 21: Jawaban yang Terdengar Dingin
+## **Bab 21: Jawaban yang Terdengar Dingin**
 
 Sepanjang Jumat sore itu, amplop cokelat berlogo cabang Yogyakarta yang sudah dimasukkan Saka ke dalam tas selempangnya terus membayangi pikiranku.
 
@@ -1446,7 +1446,7 @@ Begitu pintu kaca lobi tertutup di belakang punggungnya, senyum kaku di bibirku 
 
 ---
 
-## Bab 22: Tamu yang Sigap di Rawamangun
+## **Bab 22: Tamu yang Sigap di Rawamangun**
 
 Dering telepon dari tetangga Rawamangun mengejutkanku pada Sabtu pagi pukul sembilan. Aku langsung melompat turun dari kasur kos.
 
@@ -1508,7 +1508,7 @@ Di saat hatiku sedang perih dan hampa karena jawaban dingin Saka kemarin sore so
 
 ---
 
-## Bab 23: Bujukan Ibu dan Hati Goyah
+## **Bab 23: Bujukan Ibu dan Hati Goyah**
 
 Menjelang pukul lima sore, keadaan Ibu berangsur membaik setelah meminum obat dari klinik dan beristirahat cukup di kamar.
 
@@ -1566,7 +1566,7 @@ Di tengah bayangan perpisahan meja kerja nomor empat yang kian dekat serta harap
 
 ---
 
-## Bab 24: Ilustrasi Kursi Kosong
+## **Bab 24: Ilustrasi Kursi Kosong**
 
 Senin sore pukul empat tepat, kurir dari percetakan rekanan mengantarkan dua eksemplar buku cetak percobaan Sela Waktu yang masih hangat ke meja proyek nomor empat.
 
@@ -1630,7 +1630,7 @@ Namun saat aku melangkah menuju pintu lift untuk turun ke lobi gedung, aku mende
 
 ---
 
-## Bab 25: Pertengkaran Tanpa Suara Tinggi
+## **Bab 25: Pertengkaran Tanpa Suara Tinggi**
 
 Pintu lift berdenting terbuka di lantai dasar gedung Penerbit Aksara Senja pada pukul lima lewat sepuluh menit sore.
 
@@ -1710,7 +1710,7 @@ Bayangan punggung Saka yang pergi tanpa menoleh tadi kembali berkelebat di kepal
 
 ---
 
-## Bab 26: Meja Kerja yang Membeku
+## **Bab 26: Meja Kerja yang Membeku**
 
 Jika hari Senin kemarin suasana di meja proyek nomor empat kaku seperti papan tripleks, maka Selasa pagi ini suhunya resmi turun menyamai kulkas daging beku.
 
@@ -1770,7 +1770,7 @@ Dengan jemari berat, aku menarik lepas kertas post-it kuning itu dari bingkai mo
 
 ---
 
-## Bab 27: Topeng Manis yang Terlepas
+## **Bab 27: Topeng Manis yang Terlepas**
 
 Selasa malam pukul setengah delapan, meja kayu di sudut Rumah Makan Sederhana Rasa di Rawamangun sudah dipenuhi hidangan ikan gurame bakar, sayur kangkung, dan sambal cobek.
 
@@ -1840,7 +1840,7 @@ Kali ini, aku tidak menunduk lagi.
 
 ---
 
-## Bab 28: Pensiunnya Sang Operator Layanan
+## **Bab 28: Pensiunnya Sang Operator Layanan**
 
 Sendok makan di tanganku kuletakkan pelan-pelan ke pinggir piring sampai berbunyi denting halus.
 
@@ -1906,7 +1906,7 @@ Sekarang, hanya tinggal satu orang yang harus kutemui besok pagi di meja nomor e
 
 ---
 
-## Bab 29: Kursi Kosong dan Penyesalan Terlambat
+## **Bab 29: Kursi Kosong dan Penyesalan Terlambat**
 
 Rabu pagi pukul delapan lewat lima belas menit, aku sudah keluar dari pintu lift lantai tiga dengan napas sedikit terengah-engah karena setengah berlari dari Stasiun Cikini.
 
@@ -1978,7 +1978,7 @@ Tari mengangguk yakin. "Begitu ponselnya nyala di Jogja, dia pasti baca."
 
 ---
 
-## Bab 30: Pengakuan di Panggung Sela Waktu
+## **Bab 30: Pengakuan di Panggung Sela Waktu**
 
 Jumat sore pukul empat lewat lima belas menit, aula diskusi di lantai dua toko buku kawasan Cikini sudah dipenuhi sekitar lima puluh pengunjung yang duduk berderet di kursi lipat kayu.
 
@@ -2042,7 +2042,7 @@ Matanya menatap lurus ke arahku dari seberang ruangan, dan dia sudah berdiri di 
 
 ---
 
-## Bab 31: Dua Klik Tutup Botol
+## **Bab 31: Dua Klik Tutup Botol**
 
 Begitu sesi foto bersama di atas panggung selesai pada pukul setengah enam sore, aku bahkan tidak sempat lagi merapikan buku di mejaku.
 
@@ -2130,7 +2130,7 @@ Klik. Klik.
 
 ---
 
-## Bab 32: Catatan Post-it Terakhir
+## **Bab 32: Catatan Post-it Terakhir**
 
 Tiga hari setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, suasana Senin sore di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
 

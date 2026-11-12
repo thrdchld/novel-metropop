@@ -1,4 +1,4 @@
-## Bab 10: Makan Malam
+## **Bab 10: Makan Malam**
 
 "Wah, suara perutnya sudah protes keras tuh, Miss."
 

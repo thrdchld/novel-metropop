@@ -1,4 +1,4 @@
-## Bab 23: Tamu Kehormatan di Dapur Ibu
+## **Bab 23: Tamu Kehormatan di Dapur Ibu**
 
 Kamis sore pukul empat, suasana di sepanjang gang kontrakanku di Tebet terasa jauh lebih semarak dibanding dua hari lalu. Sejak siaran langsung konferensi pers kami tayang di berbagai portal berita siang tadi, halaman lokasi Kue Basah Bu Sumi di aplikasi peta kembali dipenuhi ribuan ulasan bintang lima dari warganet yang bersimpati. Bahkan sejak pukul dua siang, warga sekitar dan pelanggan baru terus berdatangan membeli kue sampai stok di etalase ludes tak bersisa.
 

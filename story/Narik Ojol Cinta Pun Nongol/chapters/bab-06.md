@@ -1,4 +1,4 @@
-## Bab 6: Terperangkap Janji Sandiwara
+## **Bab 6: Terperangkap Janji Sandiwara**
 
 Dua puluh menit setelah keluar dari ballroom, aku sudah kembali mengenakan kemeja flanel kotak-kotak, celana jins pudar, dan sepatu kets kusamku di ruang ganti butik lantai dua. Gaun satin biru dongker dan sepatu perak tadi sudah kukembalikan utuh ke tangan pramuniaga yang kini membungkuk ekstra sopan setiap kali menatapku.
 

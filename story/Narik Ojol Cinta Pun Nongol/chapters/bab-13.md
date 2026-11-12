@@ -1,4 +1,4 @@
-## Bab 13: Kemunculan Sang Mantan
+## **Bab 13: Kemunculan Sang Mantan**
 
 Begitu pintu ruang rapat tertutup di belakangku, aku mendorong troli berisi lima kotak kue khusus bagian Rian menyusuri koridor tenang lantai dua puluh empat menuju ruang kerjanya. Senyum puas gara-gara melihat staf pengadaan sombong tadi kicep masih tersisa tipis di balik masker kain putihku.
 

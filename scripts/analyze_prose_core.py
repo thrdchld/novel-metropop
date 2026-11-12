@@ -113,16 +113,18 @@ def inspect_chapter_rules(path: Path, char_names: set[str] | None = None) -> dic
         errors["plain_text"].append(f"Ditemukan karakter em dash (—): {raw.count('—')}x")
     if any(ch in body for ch in ("*", "`", "~")):
         errors["plain_text"].append("Ditemukan simbol markup (*, `, ~) di dalam tubuh teks bab")
-    if lines and not lines[0].startswith("## Bab "):
-        errors["plain_text"].append("Baris pertama bab bukan header '## Bab N: Judul'")
+    is_valid_header = bool(lines and (lines[0].startswith("## **Bab ") or lines[0].startswith("## Bab ")))
+    if not is_valid_header:
+        errors["plain_text"].append("Baris pertama bab bukan header '## **Bab N: Judul**'")
 
-    # 3. Title rule: ## Bab N: Judul (<=5 kata, tanpa nama tokoh)
-    if lines and lines[0].startswith("## Bab "):
-        m_title = re.match(r"^##\s+Bab\s+(\d+)\s*:\s*(.+)$", lines[0])
+    # 3. Title rule: ## **Bab N: Judul** (<=5 kata, tanpa nama tokoh)
+    if is_valid_header:
+        m_title = re.match(r"^##\s+(\*\*)?Bab\s+(\d+)\s*:\s*(.+?)(\*\*)?$", lines[0])
         if not m_title:
             errors["title_rule"].append(f"Format judul bab tidak sesuai: '{lines[0]}'")
         else:
-            title_text = m_title.group(2).strip()
+            raw_title_part = m_title.group(3).strip()
+            title_text = re.sub(r"^\*+|\*+$", "", raw_title_part).strip()
             title_words = get_words(title_text)
             if len(title_words) > P["title_max_words"]:
                 errors["title_rule"].append(f"Judul bab terlalu panjang ({len(title_words)} kata > {P['title_max_words']}): '{title_text}'")

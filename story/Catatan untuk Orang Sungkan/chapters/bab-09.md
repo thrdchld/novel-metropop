@@ -1,4 +1,4 @@
-## Bab 9: Karikatur di Warung Soto Kwitang
+## **Bab 9: Karikatur di Warung Soto Kwitang**
 
 Jam satu siang, perutku mulai mengeluarkan bunyi keroncongan yang untungnya kalah keras oleh suara klakson angkot Senen.
 

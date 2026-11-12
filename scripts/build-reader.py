@@ -96,8 +96,9 @@ def parse_story(folder: Path) -> dict:
         c_title = f"Bab {num}"
         body_lines = []
         for l in lines:
-            if l.startswith("## Bab"):
-                c_title = l.replace("##", "").strip()
+            if re.match(r"^##\s+(\*\*)?Bab", l):
+                c_title = re.sub(r"^##\s*", "", l).strip()
+                c_title = re.sub(r"^\*+|\*+$", "", c_title).strip()
             else:
                 body_lines.append(l)
         body = "\n".join(body_lines).strip()
@@ -110,6 +111,9 @@ def parse_story(folder: Path) -> dict:
             "readTimeMin": max(1, round(words / 220)),
             "content": body,
         })
+
+    manuscript_file = folder / "manuscript.md"
+    manuscript_text = manuscript_file.read_text(encoding="utf-8") if manuscript_file.is_file() else ""
 
     return {
         "id": reader_id or re.sub(r"[^a-z0-9]+", "-", folder.name.lower()).strip("-"),
@@ -128,6 +132,7 @@ def parse_story(folder: Path) -> dict:
         "totalReadTimeMin": max(1, round(total_words / 220)),
         "chapterCount": len(chapters),
         "chapters": chapters,
+        "manuscript": manuscript_text,
     }
 
 
@@ -1126,6 +1131,10 @@ def generate_html(stories: list) -> str:
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
             <span>Salin Teks Bab Ini</span>
           </button>
+          <button class="btn-text" onclick="downloadCurrentManuscript()" title="Unduh naskah lengkap cerita ini (.md)">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            <span>Unduh Naskah (.md)</span>
+          </button>
           <button class="btn-text" onclick="openCanonModal()">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
             <span>Info Cerita & Karakter</span>
@@ -1440,6 +1449,10 @@ def generate_html(stories: list) -> str:
             <button class="btn-text" onclick="openTocForStory('${{story.id}}')">
               <span>Daftar Bab (${{story.chapterCount}})</span>
             </button>
+            <button class="btn-text" onclick="downloadManuscript('${{story.id}}')" title="Unduh naskah lengkap (.md)">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>Unduh .md</span>
+            </button>
             <button class="btn-text" onclick="openCanonModalForStory('${{story.id}}')">
               <span>Info Cerita & Tokoh</span>
             </button>
@@ -1719,6 +1732,36 @@ def generate_html(stories: list) -> str:
         showToast("Gagal menyalin teks.");
       }}
       document.body.removeChild(ta);
+    }}
+
+    // Download Full Manuscript (.md)
+    function downloadManuscript(storyId) {{
+      const story = STORIES.find(s => s.id === storyId);
+      if (!story) return;
+      triggerManuscriptDownload(story);
+    }}
+
+    function downloadCurrentManuscript() {{
+      if (!currentStory) return;
+      triggerManuscriptDownload(currentStory);
+    }}
+
+    function triggerManuscriptDownload(story) {{
+      let content = story.manuscript;
+      if (!content || !content.trim()) {{
+        content = `# ${{story.title}}\n\n` + story.chapters.map(c => `## ${{c.title}}\n\n${{c.content}}`).join("\n\n---\n\n");
+      }}
+      const blob = new Blob([content], {{ type: "text/markdown;charset=utf-8" }});
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      const safeTitle = (story.title || "manuscript").replace(/[/\\\\?%*:|"<>]/g, "-");
+      a.download = `${{safeTitle}} - Full Manuscript.md`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      showToast(`Naskah "${{story.title}}" berhasil diunduh!`);
     }}
 
     // In-Chapter Search

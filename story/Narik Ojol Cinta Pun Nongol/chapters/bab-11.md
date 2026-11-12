@@ -1,4 +1,4 @@
-## Bab 11: Bos Necis Masuk Pasar
+## **Bab 11: Bos Necis Masuk Pasar**
 
 Rabu pagi pukul sembilan, lorong grosir bahan kue di Pasar Jatinegara sudah riuh oleh suara troli barang dan tawar-menawar pedagang. Aku berdiri di depan toko bahan roti langganan Ibu sambil mengenakan kemeja katun lengan panjang, celana jins, dan masker kain putih yang kutarik turun sedikit ke dagu karena udara pasar cukup pengap.
 

@@ -124,7 +124,7 @@
    "key": "plain_text",
    "title": "Teks polos 100%",
    "doc": "engine/05-style.md 4",
-   "rule": "0 em dash, 0 simbol markup (* ` ~), header '## Bab N: Judul', tanpa quote pembuka."
+   "rule": "0 em dash, 0 simbol markup (* ` ~) di tubuh teks, header '## **Bab N: Judul**', tanpa quote pembuka."
   },
   {
    "key": "title_rule",

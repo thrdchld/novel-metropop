@@ -1,4 +1,4 @@
-## Bab 16: Pesan Terakhir
+## **Bab 16: Pesan Terakhir**
 
 "Hana? Kok bisa sampai ke sini?"
 

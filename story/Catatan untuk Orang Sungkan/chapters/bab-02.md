@@ -1,4 +1,4 @@
-## Bab 2: Tangga Darurat Jam Tujuh Malam
+## **Bab 2: Tangga Darurat Jam Tujuh Malam**
 
 Jam tujuh malam di lantai tiga gedung Penerbit Aksara Senja itu suasananya mirip ruang tunggu dokter gigi pas hari libur. Sepi, dingin, dan bikin merinding tanpa alasan.
 

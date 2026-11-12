@@ -1,4 +1,4 @@
-## Bab 23: Jawaban
+## **Bab 23: Jawaban**
 
 Pintu taksi di depan teras gedung tertutup rapat, membawa Mas Hendra dan Nino melaju menuju rumah sakit dan menyisakan aku berdua saja dengan Bima di pelataran depan yang mulai lengang.
 

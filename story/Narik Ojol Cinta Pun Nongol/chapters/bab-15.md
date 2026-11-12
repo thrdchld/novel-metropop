@@ -1,4 +1,4 @@
-## Bab 15: Makan Malam Keluarga Inti
+## **Bab 15: Makan Malam Keluarga Inti**
 
 Minggu sore itu, halaman luas rumah bergaya kolonial modern milik keluarga Rian di kawasan Kebayoran Baru begitu teduh di bawah naungan pohon kamboja tua. Meskipun sejak hari Kamis lalu pikiranku terus dihantui kabar bocornya nomor pelat motorku ke tangan orang suruhan Vina, kami tidak mungkin membatalkan undangan Oma Ratna. Soalnya kalau kami mangkir hari ini, kecurigaan keluarga justru akan meledak lebih cepat.
 

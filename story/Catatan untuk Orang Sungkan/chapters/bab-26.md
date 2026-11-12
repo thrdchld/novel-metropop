@@ -1,4 +1,4 @@
-## Bab 26: Meja Kerja yang Membeku
+## **Bab 26: Meja Kerja yang Membeku**
 
 Jika hari Senin kemarin suasana di meja proyek nomor empat kaku seperti papan tripleks, maka Selasa pagi ini suhunya resmi turun menyamai kulkas daging beku.
 

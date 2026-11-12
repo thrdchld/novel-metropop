@@ -1,4 +1,4 @@
-## Bab 14: Mi Ayam Pinggir Jalan
+## **Bab 14: Mi Ayam Pinggir Jalan**
 
 Sabtu sore pukul lima, kepulan uap kaldu dari panci besar gerobak Mi Ayam Pakde Slamet di dekat Lapangan Ros Tebet tampak berbaur dengan cahaya matahari senja. Aku duduk di bangku plastik biru di bawah tenda terpal sambil mengelap keningku yang berkeringat sehabis narik ojol sejak pagi.
 

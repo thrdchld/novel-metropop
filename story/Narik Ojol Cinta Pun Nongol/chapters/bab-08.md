@@ -1,4 +1,4 @@
-## Bab 8: Gebrakan Dapur Tebet
+## **Bab 8: Gebrakan Dapur Tebet**
 
 Suara ketukan cincin batu akik di atas kaca etalase warung kue kami terdengar nyaring pada Senin sore itu. Baru sepuluh menit aku memarkir motor matikku di teras sepulang dari Menara Astra, sosok Pak Harun sudah berdiri bersedekap di depan kursi plastik warung dengan buku catatan kumal di tangannya.
 

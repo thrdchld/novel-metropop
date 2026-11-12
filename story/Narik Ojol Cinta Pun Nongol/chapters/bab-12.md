@@ -1,4 +1,4 @@
-## Bab 12: Kue Pasar di Meja Direksi
+## **Bab 12: Kue Pasar di Meja Direksi**
 
 Tiga puluh kotak kue basah buatan Ibu tersusun rapi di atas troli dorong yang kubawa naik menuju lantai dua puluh empat Menara Astra pada Kamis siang itu. Wangi daun pandan dan kelapa parut gurih menguar tipis dari sela kardus putih berikat pita. Soalnya pesanan untuk rapat evaluasi bulanan divisi Rian kali ini cukup banyak, tadi aku sengaja berangkat dari Tebet naik taksi online dan meminjam troli barang milik resepsionis lobi bawah.
 

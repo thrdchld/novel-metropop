@@ -1,4 +1,4 @@
-## Bab 21: Serangan Balik Vina
+## **Bab 21: Serangan Balik Vina**
 
 Layar komputer besar di ruang rapat darurat lantai dua puluh empat Menara Astra menampilkan deretan angka yang terus bergerak naik pada Rabu pagi itu. Video berdurasi empat puluh lima detik yang diunggah oleh tiga akun gosip ibu kota bercentang biru kemarin sore sudah ditonton lebih dari satu juta kali.
 

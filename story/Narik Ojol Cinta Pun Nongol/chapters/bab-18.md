@@ -1,4 +1,4 @@
-## Bab 18: Pengakuan dan Langkah Pasti
+## **Bab 18: Pengakuan dan Langkah Pasti**
 
 Lampu gantung kaca patri di sudut kafe tua kawasan Cikini itu memancarkan cahaya kuning temaram pada Senin malam. Di luar jendela, rintik gerimis kembali turun membasahi trotoar yang lengang. Di atas meja kayu bundar di hadapan kami, amplop cokelat lemparan Vina tadi siang tergeletak terbuka berdampingan dengan dua cangkir teh hangat yang belum tersentuh.
 

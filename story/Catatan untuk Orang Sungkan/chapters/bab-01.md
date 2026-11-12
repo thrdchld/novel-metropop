@@ -1,4 +1,4 @@
-## Bab 1: Operator Layanan Patah Hati
+## **Bab 1: Operator Layanan Patah Hati**
 
 Tiga hari yang lalu, aku baru saja dicampakkan oleh pacarku gara-gara aku terlalu sopan.
 

@@ -1,4 +1,4 @@
-## Bab 5: Latihan dan Utang Ayam Bakar
+## **Bab 5: Latihan dan Utang Ayam Bakar**
 
 Begitu tiba di meja nomor empat Rabu pagi tadi, hal pertama yang kulakukan adalah melepas kertas post-it kuning pemberian Saka dari sampul buku sketsaku dan menempelkannya rapi di pojok kiri bawah bingkai monitorku, persis di samping tombol power.
 

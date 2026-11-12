@@ -1,4 +1,4 @@
-## Bab 6: Permintaan Mantan di Hari Jumat
+## **Bab 6: Permintaan Mantan di Hari Jumat**
 
 Hari Jumat sore di kantor penerbitan biasanya punya dua kasta manusia: kasta yang sejak jam tiga sore sudah sibuk merapikan meja sambil memantau aplikasi ojek online, dan kasta yang mejanya masih dikepung tumpukan kertas revisi.
 

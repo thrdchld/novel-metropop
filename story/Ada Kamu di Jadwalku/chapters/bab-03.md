@@ -1,4 +1,4 @@
-## Bab 3: Saran yang Bikin Kesal
+## **Bab 3: Saran yang Bikin Kesal**
 
 Dua jari membentuk huruf V menempel di balik kaca pintu Ruang Kelas Nomor Dua, diikuti telunjuk tangan satunya yang mengetuk-ngetuk jam dinding lorong dengan gaya pamer.
 

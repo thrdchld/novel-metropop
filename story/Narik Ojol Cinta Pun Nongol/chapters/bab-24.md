@@ -1,4 +1,4 @@
-## Bab 24: Perasaan yang Tak Lagi Sandiwara
+## **Bab 24: Perasaan yang Tak Lagi Sandiwara**
 
 Pendar lampu-lampu taman kota memantul tenang di atas permukaan air kolam air mancur Taman Menteng pada pukul setengah sembilan malam. Angin malam Jakarta berembus sejuk, menyapu sisa-sisa ketegangan panjang yang menguras tenaga kami sejak pagi tadi.
 

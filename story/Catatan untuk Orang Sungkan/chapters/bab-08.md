@@ -1,4 +1,4 @@
-## Bab 8: Berburu Buku Lawas di Kwitang
+## **Bab 8: Berburu Buku Lawas di Kwitang**
 
 Sabtu siang pukul sebelas kurang lima menit, aku turun dari jembatan penyeberangan Halte Senen dan mendapati Saka sudah berdiri berteduh di bawah kanopi toko cat yang tutup.
 

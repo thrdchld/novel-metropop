@@ -1,4 +1,4 @@
-## Bab 15: Beban
+## **Bab 15: Beban**
 
 Langkah kakiku terhenti tepat di depan pagar kayu sebuah rumah kontrakan petak bercat putih kusam di gang sempit kawasan Cipete.
 

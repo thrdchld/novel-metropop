@@ -1,4 +1,4 @@
-## Bab 30: Promosi
+## **Bab 30: Promosi**
 
 "Hana, ini kolom tanda tangannya kok masih kosong?"
 

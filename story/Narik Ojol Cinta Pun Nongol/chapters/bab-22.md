@@ -1,4 +1,4 @@
-## Bab 22: Pembalasan Telak
+## **Bab 22: Pembalasan Telak**
 
 Kamis pagi pukul sembilan tepat, aula konferensi pers di lantai tiga Menara Astra sudah dipenuhi puluhan wartawan media bisnis, portal berita daring, hingga awak kamera infotainmen. Di barisan kursi kehormatan paling depan, Oma Ratna duduk anggun didampingi Ibu Hartini dan Indah yang terus mengacungkan jempol memberi semangat kepadaku.
 

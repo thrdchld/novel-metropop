@@ -1,4 +1,4 @@
-## Bab 20: Badai Malam di Gang Tebet
+## **Bab 20: Badai Malam di Gang Tebet**
 
 Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa seperti merangkak di atas bara api. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
 

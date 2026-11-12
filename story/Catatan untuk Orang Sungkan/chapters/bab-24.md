@@ -1,4 +1,4 @@
-## Bab 24: Ilustrasi Kursi Kosong
+## **Bab 24: Ilustrasi Kursi Kosong**
 
 Senin sore pukul empat tepat, kurir dari percetakan rekanan mengantarkan dua eksemplar buku cetak percobaan Sela Waktu yang masih hangat ke meja proyek nomor empat.
 

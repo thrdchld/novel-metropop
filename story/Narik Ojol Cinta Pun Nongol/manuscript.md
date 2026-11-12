@@ -1,9 +1,6 @@
 # Narik Ojol Cinta Pun Nongol
 
-
----
-
-## Bab 1: Sarjana Berjaket Hijau
+## **Bab 1: Sarjana Berjaket Hijau**
 
 "Mbak, kalau kerja yang bener dong! Ini makanan buat bos saya!"
 
@@ -49,7 +46,7 @@ Aku terbelalak menatapnya lurus-lurus. Jujur, aku sempat curiga jangan-jangan ad
 
 ---
 
-## Bab 2: Pelanggan Minta Tolong
+## **Bab 2: Pelanggan Minta Tolong**
 
 "Mas, saya ini driver ojol, bukan agen talent figuran," tegasku. Kutunjuk jaket hijau dan helm kusam di tanganku. "Kalau Mas Rian lagi bikin konten uji nyali atau prank buat medsos, mending cari orang lain. Target setoran saya masih kurang banyak."
 
@@ -109,7 +106,7 @@ Aku menarik napas panjang, menatap jok kulit SUV mewah yang begitu kontras denga
 
 ---
 
-## Bab 3: Transformasi Singkat di Butik
+## **Bab 3: Transformasi Singkat di Butik**
 
 Perjalanan dari basement Menara Astra menuju Bundaran HI hanya memakan waktu kurang dari sepuluh menit, tapi rasanya seperti pindah planet. Di dalam kabin SUV hitam Rian yang sejuk dan wangi kayu cendana, aku duduk agak kaku di tepi jok kulit agar jaket ojolku yang lembap tidak menempel penuh ke sandaran kursi.
 
@@ -151,7 +148,7 @@ Rian menghentikan langkahnya tepat di depan pintu kayu raksasa berlapis emas, la
 
 ---
 
-## Bab 4: Pantulan Bunga Pembawa Bencana
+## **Bab 4: Pantulan Bunga Pembawa Bencana**
 
 Begitu pintu ganda berlapis ukiran emas itu didorong terbuka oleh petugas ballroom, alunan musik gesek orkestra dan wangi ribuan mawar putih segar langsung menyambut kami. Di bawah pendar puluhan lampu kristal gantung yang berkilauan, ratusan tamu berjas resmi dan kebaya desainer berbincang hangat dengan gelas berkaki tinggi di tangan.
 
@@ -209,7 +206,7 @@ Musik orkestra berhenti seketika, digantikan keheningan sepersekian detik sebelu
 
 ---
 
-## Bab 5: Di Atas Panggung Keluarga
+## **Bab 5: Di Atas Panggung Keluarga**
 
 Gemuruh tepuk tangan dan siulan menggema memenuhi seluruh sudut ballroom Hotel Grand Hyatt. Di tanganku, tangkai buket mawar putih berhias pita satin perak itu dingin bukan main, kontras dengan telapak tanganku yang mendadak berkeringat.
 
@@ -257,7 +254,7 @@ Begitu pintu ganda ballroom tertutup di belakang punggung kami, langkahku langsu
 
 ---
 
-## Bab 6: Terperangkap Janji Sandiwara
+## **Bab 6: Terperangkap Janji Sandiwara**
 
 Dua puluh menit setelah keluar dari ballroom, aku sudah kembali mengenakan kemeja flanel kotak-kotak, celana jins pudar, dan sepatu kets kusamku di ruang ganti butik lantai dua. Gaun satin biru dongker dan sepatu perak tadi sudah kukembalikan utuh ke tangan pramuniaga yang kini membungkuk ekstra sopan setiap kali menatapku.
 
@@ -319,7 +316,7 @@ Aku melambaikan tangan singkat ke arah Rian, lalu memutar gas motorku menembus u
 
 ---
 
-## Bab 7: Penyamaran Bermasker
+## **Bab 7: Penyamaran Bermasker**
 
 Uap harum santan pandan dan daun pisang kukus memenuhi dapur sempit kontrakan kami di Tebet Sabtu subuh itu. Di depan kompor dua tungku, Ibu sedang cekatan mengangkat loyang kue lumpur kentang yang permukaannya kuning keemasan, sementara aku membungkus barisan lemper ayam yang sudah dingin ke dalam plastik bening.
 
@@ -375,7 +372,7 @@ Aku menatap bukti transfer tujuh setengah juta rupiah di layar ponselku dengan d
 
 ---
 
-## Bab 8: Gebrakan Dapur Tebet
+## **Bab 8: Gebrakan Dapur Tebet**
 
 Suara ketukan cincin batu akik di atas kaca etalase warung kue kami terdengar nyaring pada Senin sore itu. Baru sepuluh menit aku memarkir motor matikku di teras sepulang dari Menara Astra, sosok Pak Harun sudah berdiri bersedekap di depan kursi plastik warung dengan buku catatan kumal di tangannya.
 
@@ -419,7 +416,7 @@ Namun, saat aku masuk ke kamar untuk mengganti baju dan melihat lembar contekan 
 
 ---
 
-## Bab 9: Benturan Dua Dunia
+## **Bab 9: Benturan Dua Dunia**
 
 Kafe bergaya industrial dengan dinding bata ekspos dan lampu gantung temaram di kawasan Senopati itu cukup lengang pada Selasa sore. Aku memilih meja paling pojok di area semi-privat agar obrolan kami tidak terdengar pengunjung meja sebelah. Masker kain hitam polos tetap bertengger rapi menutupi paruh bawah wajahku, hanya kusingkap sedikit tiap kali menyesap es kopi susu lewat sedotan.
 
@@ -465,7 +462,7 @@ Rian tersenyum tipis, melipat kertas tisu tulisanku dengan rapi lalu menyimpanny
 
 ---
 
-## Bab 10: Sisi Lain Sang Driver Ojol
+## **Bab 10: Sisi Lain Sang Driver Ojol**
 
 Begitu kami melangkah keluar dari pintu kaca kafe di Senopati, langit Jakarta yang tadinya hanya mendung kelabu mendadak tumpah ruah. Hujan deras bercampur angin kencang mengguyur aspal jalanan. Deretan lampu mobil yang terjebak macet memantul buram di atas genangan air.
 
@@ -515,7 +512,7 @@ Di bawah guyuran hujan deras dan pendar lampu merah rem mobil, Rian ternyata mas
 
 ---
 
-## Bab 11: Bos Necis Masuk Pasar
+## **Bab 11: Bos Necis Masuk Pasar**
 
 Rabu pagi pukul sembilan, lorong grosir bahan kue di Pasar Jatinegara sudah riuh oleh suara troli barang dan tawar-menawar pedagang. Aku berdiri di depan toko bahan roti langganan Ibu sambil mengenakan kemeja katun lengan panjang, celana jins, dan masker kain putih yang kutarik turun sedikit ke dagu karena udara pasar cukup pengap.
 
@@ -561,7 +558,7 @@ Jantungku langsung melompat satu ketukan. Belum sempat aku mencerna kalimat bern
 
 ---
 
-## Bab 12: Kue Pasar di Meja Direksi
+## **Bab 12: Kue Pasar di Meja Direksi**
 
 Tiga puluh kotak kue basah buatan Ibu tersusun rapi di atas troli dorong yang kubawa naik menuju lantai dua puluh empat Menara Astra pada Kamis siang itu. Wangi daun pandan dan kelapa parut gurih menguar tipis dari sela kardus putih berikat pita. Soalnya pesanan untuk rapat evaluasi bulanan divisi Rian kali ini cukup banyak, tadi aku sengaja berangkat dari Tebet naik taksi online dan meminjam troli barang milik resepsionis lobi bawah.
 
@@ -603,7 +600,7 @@ Aku mengangguk sopan dan mendorong troli berisi lima kotak kue tersisa keluar da
 
 ---
 
-## Bab 13: Kemunculan Sang Mantan
+## **Bab 13: Kemunculan Sang Mantan**
 
 Begitu pintu ruang rapat tertutup di belakangku, aku mendorong troli berisi lima kotak kue khusus bagian Rian menyusuri koridor tenang lantai dua puluh empat menuju ruang kerjanya. Senyum puas gara-gara melihat staf pengadaan sombong tadi kicep masih tersisa tipis di balik masker kain putihku.
 
@@ -655,7 +652,7 @@ Jujur, lututku langsung lemas mendengarnya. Kalau mereka sudah mengantongi nomor
 
 ---
 
-## Bab 14: Mi Ayam Pinggir Jalan
+## **Bab 14: Mi Ayam Pinggir Jalan**
 
 Sabtu sore pukul lima, kepulan uap kaldu dari panci besar gerobak Mi Ayam Pakde Slamet di dekat Lapangan Ros Tebet tampak berbaur dengan cahaya matahari senja. Aku duduk di bangku plastik biru di bawah tenda terpal sambil mengelap keningku yang berkeringat sehabis narik ojol sejak pagi.
 
@@ -693,7 +690,7 @@ Rian tersenyum hangat, senyum tulus tanpa beban yang membuat sore sederhana di p
 
 ---
 
-## Bab 15: Makan Malam Keluarga Inti
+## **Bab 15: Makan Malam Keluarga Inti**
 
 Minggu sore itu, halaman luas rumah bergaya kolonial modern milik keluarga Rian di kawasan Kebayoran Baru begitu teduh di bawah naungan pohon kamboja tua. Meskipun sejak hari Kamis lalu pikiranku terus dihantui kabar bocornya nomor pelat motorku ke tangan orang suruhan Vina, kami tidak mungkin membatalkan undangan Oma Ratna. Soalnya kalau kami mangkir hari ini, kecurigaan keluarga justru akan meledak lebih cepat.
 
@@ -739,7 +736,7 @@ Saat kami akhirnya berpamitan pulang pukul sembilan malam dan masuk kembali ke d
 
 ---
 
-## Bab 16: Percikan Kecemburuan
+## **Bab 16: Percikan Kecemburuan**
 
 Mobil SUV hitam Rian berhenti perlahan di tepi jalan raya Tebet, sekitar tiga puluh meter dari mulut gang kontrakanku yang sudah mulai sepi pada pukul sepuluh malam. Seperti biasa, aku bersikeras minta diturunkan di dekat pos pangkalan ojol depan minimarket agar Ibu yang mudah terbangun di malam hari tidak kaget mendengar deru mesin mobil asing di depan teras rumah.
 
@@ -791,7 +788,7 @@ Nomor Tak Dikenal: Gampang banget dapet nomor WA lo dari spanduk bakul kue di de
 
 ---
 
-## Bab 17: Teror Pertama Vina
+## **Bab 17: Teror Pertama Vina**
 
 Senin siang itu, udara di sepanjang gang padat Tebet gerah bukan main. Sejak membaca pesan ancaman dari nomor tak dikenal semalam, aku sengaja meminta Ibu berangkat lebih pagi ke Pasar Induk Kramat Jati ditemani Bu RT untuk belanja bahan tepung dan gula kelapa sebulan penuh. Aku bahkan menitipkan pesan ke Bang Bobi agar berjaga di warung kopi ujung gang tanpa ikut campur kecuali ada bahaya fisik.
 
@@ -831,7 +828,7 @@ Vina memutar tubuhnya dengan kasar dan melangkah cepat meninggalkan gang. Begitu
 
 ---
 
-## Bab 18: Pengakuan dan Langkah Pasti
+## **Bab 18: Pengakuan dan Langkah Pasti**
 
 Lampu gantung kaca patri di sudut kafe tua kawasan Cikini itu memancarkan cahaya kuning temaram pada Senin malam. Di luar jendela, rintik gerimis kembali turun membasahi trotoar yang lengang. Di atas meja kayu bundar di hadapan kami, amplop cokelat lemparan Vina tadi siang tergeletak terbuka berdampingan dengan dua cangkir teh hangat yang belum tersentuh.
 
@@ -873,7 +870,7 @@ Perlahan, tangan Rian bergerak melintasi permukaan meja kayu, menggenggam jemari
 
 ---
 
-## Bab 19: Kejujuran di Hadapan Oma
+## **Bab 19: Kejujuran di Hadapan Oma**
 
 Ruang keluarga rumah Kebayoran Baru sore itu terasa jauh lebih hening daripada kunjungan pertamaku hari Minggu lalu. Aroma teh melati hangat masih menguar dari meja kaca bundar, tetapi kehadiran Tante Henny yang duduk bersedekap di sudut sofa ukir dengan senyum sinis penuh kemenangan langsung memberi sinyal bahwa Vina sudah lebih dulu membisikkan sesuatu kepadanya.
 
@@ -925,7 +922,7 @@ Namun, tepat saat aku mengembuskan napas lega di pelukan Ibu Hartini, wajah Inda
 
 ---
 
-## Bab 20: Badai Malam di Gang Tebet
+## **Bab 20: Badai Malam di Gang Tebet**
 
 Perjalanan dari Kebayoran Baru menuju Tebet pada Selasa malam itu terasa seperti merangkak di atas bara api. Sepanjang jalan di dalam kabin SUV hitam Rian, ponsel di tanganku terus bergetar tanpa henti. Puluhan pesan masuk dan panggilan telepon dari nomor tak dikenal membanjiri nomor WhatsApp warung kue yang tertera di spanduk rumah kami.
 
@@ -975,7 +972,7 @@ Aku kembali ke mulut gang. Rian masih bersandar di pintu SUV-nya, persis seperti
 
 ---
 
-## Bab 21: Serangan Balik Vina
+## **Bab 21: Serangan Balik Vina**
 
 Layar komputer besar di ruang rapat darurat lantai dua puluh empat Menara Astra menampilkan deretan angka yang terus bergerak naik pada Rabu pagi itu. Video berdurasi empat puluh lima detik yang diunggah oleh tiga akun gosip ibu kota bercentang biru kemarin sore sudah ditonton lebih dari satu juta kali.
 
@@ -1035,7 +1032,7 @@ Rian menutup map berkas pengakuan tertulis Reza dan bukti transfer itu dengan te
 
 ---
 
-## Bab 22: Pembalasan Telak
+## **Bab 22: Pembalasan Telak**
 
 Kamis pagi pukul sembilan tepat, aula konferensi pers di lantai tiga Menara Astra sudah dipenuhi puluhan wartawan media bisnis, portal berita daring, hingga awak kamera infotainmen. Di barisan kursi kehormatan paling depan, Oma Ratna duduk anggun didampingi Ibu Hartini dan Indah yang terus mengacungkan jempol memberi semangat kepadaku.
 
@@ -1087,7 +1084,7 @@ Di kursi barisan depan, Oma Ratna dan Ibu Hartini bertepuk tangan dengan senyum 
 
 ---
 
-## Bab 23: Tamu Kehormatan di Dapur Ibu
+## **Bab 23: Tamu Kehormatan di Dapur Ibu**
 
 Kamis sore pukul empat, suasana di sepanjang gang kontrakanku di Tebet terasa jauh lebih semarak dibanding dua hari lalu. Sejak siaran langsung konferensi pers kami tayang di berbagai portal berita siang tadi, halaman lokasi Kue Basah Bu Sumi di aplikasi peta kembali dipenuhi ribuan ulasan bintang lima dari warganet yang bersimpati. Bahkan sejak pukul dua siang, warga sekitar dan pelanggan baru terus berdatangan membeli kue sampai stok di etalase ludes tak bersisa.
 
@@ -1123,7 +1120,7 @@ Ibu tersenyum penuh arti, melirikku yang mendadak salah tingkah merapikan tali t
 
 ---
 
-## Bab 24: Perasaan yang Tak Lagi Sandiwara
+## **Bab 24: Perasaan yang Tak Lagi Sandiwara**
 
 Pendar lampu-lampu taman kota memantul tenang di atas permukaan air kolam air mancur Taman Menteng pada pukul setengah sembilan malam. Angin malam Jakarta berembus sejuk, menyapu sisa-sisa ketegangan panjang yang menguras tenaga kami sejak pagi tadi.
 
@@ -1166,3 +1163,6 @@ Rian tertawa lepas, tawa paling ringan dan bahagia yang pernah kudengar darinya 
 "Aku bayar pakai seluruh waktu dan hidupku buat nemenin kamu ngitung adonan kue tiap subuh, Mbak Sarjana," bisik Rian hangat.
 
 Di bawah langit malam Jakarta yang akhirnya cerah sehabis hujan, aku menyandarkan kepalaku dengan tenang di bahu Rian. Siapa sangka, orderan dua puluh nasi kotak ke lobi Menara Astra siang itu ternyata benar-benar mengantarkanku pada perjalanan cinta yang tak lagi mengenal kata pura-pura.
+
+---
+

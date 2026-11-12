@@ -1,4 +1,4 @@
-## Bab 19: Permintaan Maaf dan Bisikan Keraguan
+## **Bab 19: Permintaan Maaf dan Bisikan Keraguan**
 
 Rabu sore pukul empat kurang sepuluh menit, aku berdiri sendirian di dapur kecil kantor sambil menunggu air dispenser mendidih untuk menyeduh teh.
 

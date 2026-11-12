@@ -1,4 +1,4 @@
-## Bab 29: Kursi Kosong dan Penyesalan Terlambat
+## **Bab 29: Kursi Kosong dan Penyesalan Terlambat**
 
 Rabu pagi pukul delapan lewat lima belas menit, aku sudah keluar dari pintu lift lantai tiga dengan napas sedikit terengah-engah karena setengah berlari dari Stasiun Cikini.
 

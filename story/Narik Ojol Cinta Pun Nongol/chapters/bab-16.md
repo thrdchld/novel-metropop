@@ -1,4 +1,4 @@
-## Bab 16: Percikan Kecemburuan
+## **Bab 16: Percikan Kecemburuan**
 
 Mobil SUV hitam Rian berhenti perlahan di tepi jalan raya Tebet, sekitar tiga puluh meter dari mulut gang kontrakanku yang sudah mulai sepi pada pukul sepuluh malam. Seperti biasa, aku bersikeras minta diturunkan di dekat pos pangkalan ojol depan minimarket agar Ibu yang mudah terbangun di malam hari tidak kaget mendengar deru mesin mobil asing di depan teras rumah.
 

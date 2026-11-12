@@ -1,4 +1,4 @@
-## Bab 14: Resep Obat
+## **Bab 14: Resep Obat**
 
 Di bawah atap teras samping yang mulai ditempias gerimis sore, aku berdiri mematung menunggu Bima membalas kata-kataku. Di kepalaku, aku sudah menyiapkan mental kalau-kalau pria itu bakal ikut tersulut emosi atau membela diri dengan suara tinggi.
 

@@ -1,4 +1,4 @@
-## Bab 13: Tuduhan
+## **Bab 13: Tuduhan**
 
 Bu Maya sudah dua kali melirik jam tangan peraknya di pojok belakang Ruang Kelas Nomor Dua, sementara kursi murid di depanku masih kosong melompong.
 
