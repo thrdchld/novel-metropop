@@ -1,61 +1,55 @@
 ## **Bab 6: Permintaan Mantan di Hari Jumat**
 
-Hari Jumat sore di kantor penerbitan biasanya punya dua kasta manusia: kasta yang sejak jam tiga sore sudah sibuk merapikan meja sambil memantau aplikasi ojek online, dan kasta yang mejanya masih dikepung tumpukan kertas revisi.
+Menjelang akhir pekan, kantor penerbitan biasanya terbagi menjadi dua kelompok manusia: mereka yang sejak pukul tiga sore sudah sibuk merapikan meja sambil mengecek tarif ojek daring, dan mereka yang mejanya masih dikepung tumpukan kertas revisi.
 
-Selama dua tahun bekerja di Aksara Senja, aku selalu menjadi warga tetap kasta kedua. Tapi Jumat sore ini, untuk pertama kalinya meja kerjaku di nomor empat bersih dan manusiawi.
+Selama dua tahun bekerja di Aksara Senja, aku selalu menjadi penghuni setia kelompok kedua. Namun sore ini, pemandangan di meja proyek nomor empat jauh lebih manusiawi. Layar komputerku rapi, dan tumpukan kertas sudah tersusun rapi di sudut.
 
-Sejak berhasil menolak jurus dompet ketinggalan Riko di warung ayam bakar hari Rabu lalu, aku mulai ketagihan mengucapkan kalimat penolakan kecil. Kemarin siang waktu staf administrasi minta tolong dipotongkan kupon diskon manual sebanyak dua ratus lembar, aku berani bilang sedang mengejar tenggat sketsa bab tiga. Langit Cikini ternyata memang tidak runtuh, dan plafon kantor juga tidak tiba-tiba roboh menimpa kepalaku.
+Sejak berhasil menolak jurus dompet tertinggal Riko di warung ayam bakar dua hari lalu, aku mulai merasakan nikmatnya berani bersuara. Kemarin waktu staf administrasi meminta bantuan memotong dua ratus lembar kupon diskon secara manual, aku berani menolak dengan alasan sedang mengejar draf ilustrasi bab tiga. Langit Cikini ternyata tetap berdiri di tempatnya, dan gedung kantor tidak runtuh seketika.
 
-"Ilustrasi toko buku tua buat bab tiga ini udah pas," kata Saka dari kursi sebelah sambil menggeser buku sketsaku kembali ke arahku. "Tinggal tebalkan garis tepinya Senin depan. Jangan dibawa pulang ke kos."
+"Ilustrasi toko buku tua buat bab tiga ini udah pas," kata Saka dari kursi sebelah sambil menggeser buku sketsaku. "Senin depan tinggal pertegas garis tepinya. Nggak usah dibawa pulang ke kos."
 
-"Beneran nggak usah dibawa pulang, Mas?" tanyaku sambil merapikan kotak pensil. "Kalau aku tebalkan malam Minggu di kos kan Senin pagi kita bisa langsung masuk bab empat."
+"Beneran nggak usah dibawa pulang, Mas?" tanyaku heran sambil merapikan kotak pensil. "Mumpung akhir pekan, kalau kutebalkan di kos kan Senin pagi kita bisa langsung masuk bab empat."
 
-"Sabtu kita survei buku lawas ke Kwitang dua jam," kata Saka menatapku lurus. "Sisanya itu akhir pekan."
+"Sabtu kita survei buku lawas ke Kwitang dua jam," balas Saka menatapku lurus. "Sisanya buat istirahat."
 
-Saka melipat tangan di meja. "Buku Sela Waktu itu tentang orang kota yang lupa istirahat. Masa ilustratornya sendiri nggak istirahat?"
+Saka melipat kedua tangan di atas meja. "Buku Sela Waktu itu bercerita tentang orang kota yang lupa bernapas. Masa ilustratornya sendiri mau kerja rodi?"
 
-Aku menyengir kecil, baru saja hendak menutup buku sketsaku ketika suara tawa perempuan yang agak dibuat-buat terdengar mendekat dari lorong divisi pemasaran.
+Aku menyengir kecil, baru hendak menutup buku sketsaku ketika tawa renyah seorang perempuan terdengar mendekat dari arah lorong divisi pemasaran.
 
-Aku menoleh, dan senyum di wajahku langsung luntur.
+Senyumku seketika surut.
 
-Dimas berjalan ke arah meja kami, dan kali ini dia tidak sendirian. Di sebelahnya ada Vanya, anak magang pemasaran yang rambutnya dicatok bergelombang rapi seperti iklan sampo. Mereka berdua jalan berdampingan sambil membawa gulungan contoh cetakan brosur.
+Dimas melangkah menuju meja kami, berdampingan dengan Vanya, anak magang pemasaran yang penampilannya selalu modis. Mereka berdua berjalan santai sambil membawa selembar kertas berukuran besar.
 
-Melihat mantan pacar jalan berdua dengan gebetan barunya tepat seminggu setelah kita diputuskan itu rasanya seperti tidak sengaja mengunyah batu kerikil di dalam nasi goreng. Bunyinya kletek, dan ngilunya langsung nyambung sampai ke ubun-ubun.
+Melihat mantan pacar berjalan akrab dengan rekan baru tepat seminggu setelah kami putus rasanya seperti tidak sengaja mengunyah kerikil di tengah nasi goreng. Gigiku ngilu, dan rasa tidak nyaman menjalar sampai ke tengkuk.
 
-"Sore, Nad. Sore, Mas Saka," sapa Dimas ramah, berhenti tepat di depan meja proyek nomor empat.
+"Sore, Nad. Sore, Mas Saka," sapa Dimas ramah saat tiba di depan meja proyek kami.
 
-Saka hanya mengangguk singkat setengah sentimeter tanpa membuka suara, lalu kembali menatap layar laptopnya, meski tangannya berhenti mengetik.
+Saka hanya mengangguk tipis tanpa membuka suara. Tangannya berhenti mengetik, tatapannya beralih menatap dua orang di hadapan kami.
 
-"Halo, Kak Nadia," sapa Vanya sambil tersenyum manis. Tangannya memegang gulungan brosur, sementara jari telunjuknya memilin ujung rambut catokannya. "Poster yang hari Senin itu bagus banget deh, Kak. Makasih ya udah dibantuin."
+"Halo, Kak Nadia," sapa Vanya riang sambil tersenyum manis. "Poster yang awal minggu ini hasilnya keren banget deh, Kak. Makasih banyak ya udah dibantuin."
 
-"Iya, sama-sama," jawabku singkat. Punggungku otomatis menegak kaku di kursi.
+"Iya, sama-sama," sahutku kaku. Punggungku refleks menegak di sandaran kursi.
 
-Dimas menumpukan satu tangannya ke pinggiran mejaku dengan gaya akrab seperti kami masih sepasang kekasih yang biasa pulang bareng tiap malam Sabtu.
+Dimas meletakkan satu tangannya di tepi mejaku dengan gaya santai, seolah batas hubungan kami tidak pernah berubah.
 
-"Acara bincang buku besok pindah ke aula bawah," kata Dimas dengan nada manis yang dulu selalu berhasil meluluhkan hatiku.
+"Acara bincang buku besok pindah ke aula bawah," ujar Dimas dengan intonasi memohon yang dulu selalu berhasil meluluhkan hatiku. "Panggungnya mendadak butuh backdrop tiga kali dua meter buat dicetak malam ini di percetakan langganan."
 
-Dimas mencondongkan badan. "Panggungnya butuh latar tiga kali dua meter buat dicetak malam ini di percetakan langganan."
+Aku menatapnya tidak percaya. "Malam ini? Sekarang kan udah jam empat lewat dua puluh, Mas."
 
-Aku menatap Dimas tidak percaya. "Malam ini? Sekarang kan udah jam empat lewat dua puluh, Mas."
+"Tadi Vanya sempat coba bikin tapi resolusinya pecah," bujuk Dimas sambil tersenyum memelas. "Aku langsung kepikiran kamu. Cuma kamu yang paling paham selera visualku, Nad. Kamu kan selalu bisa diandalkan kalau urusan beginian."
 
-"Vanya coba bikin tapi resolusinya pecah," bujuk Dimas tersenyum memelas. "Aku langsung kepikiran kamu."
+Di sebelahnya, Vanya ikut menimpali. "Iya, Kak Nadia. Kata Mas Dimas, Kak Nadia orangnya paling baik dan nggak tega lihat kerjaan tim lain keteteran. Tolongin kami ya, Kak? Biar aku sama Mas Dimas bisa langsung jalan ngecek katering sore ini."
 
-Dimas melirik mejaku penuh harap. "Cuma kamu yang paling hafal selera warnaku, Nad. Kamu kan selalu sigap nolongin aku."
+Tenggorokanku tercekat menahan kekesalan yang mendadak meluap.
 
-Di sebelahnya, Vanya ikut mengangguk. "Iya, Kak Nadia. Kata Mas Dimas, Kak Nadia paling baik dan nggak tega lihat kami kesusahan."
+Bukan cuma menyuruhku lembur di Jumat petang untuk membereskan kelalaian mereka, Dimas bahkan memujiku di depan Vanya menggunakan sifat sungkanku yang minggu lalu dia jadikan alasan untuk mengakhiri hubungan kami! Dan yang lebih keterlaluan, mereka berdua hendak pergi mengurus katering bersama sementara aku ditinggal di kantor memelototi monitor.
 
-Vanya memilin ujung rambutnya manja. "Tolongin kita ya, Kak? Biar aku sama Mas Dimas bisa langsung ke katering sore ini."
+"Sebentar aja kok, Nad, tinggal sesuaikan skala dari file poster hari Senin," desak Dimas sambil menyodorkan kertas ukuran panggung itu ke depan dadaku.
 
-Dadaku rasanya seperti baru saja ditindih lemari besi.
+Dorongan lama untuk selalu menyenangkan orang lain seketika bergolak. Otot wajahku menegang bersiap memasang senyum maklum, dan jemariku di atas meja hampir saja terangkat menerima lembaran tersebut. Bisikan lama kembali menghantui: kalau aku menolak di hadapan Vanya, aku takut dinilai sebagai mantan yang kekanak-kanakan dan masih memendam dendam.
 
-Bukan cuma menyuruhku lembur di Jumat malam untuk membereskan kekacauan kerjaan mereka, Dimas bahkan memujiku di depan Vanya menggunakan sifat lembek yang minggu lalu dipakainya sebagai alasan untuk mencampakkanku! Dan yang paling parah, mereka mau pergi berduaan mengurus katering sementara aku ditinggal sendirian di kantor memelototi layar komputer.
+Namun sebelum tanganku terulur, gerakan dari sisi kananku menarik perhatianku.
 
-"Sebentar aja kok, Nad, tinggal tarik dari desain poster awal minggu ini," bujuk Dimas lagi sambil menyodorkan gulungan kertas ukuran panggung ke arah tanganku.
+Saka menyandarkan punggungnya ke kursi dengan kedua lengan bersedekap di depan dada. Tatapannya tertuju lurus padaku.
 
-Kebiasaan burukku selama dua tahun langsung bereaksi. Otot-otot wajahku mulai bergerak kaku hendak membentuk senyum sopan, dan tanganku di atas meja hampir saja terulur menyambut gulungan kertas itu. Di kepalaku muncul bisikan lama yang menyebalkan: kalau aku menolak di depan Vanya, nanti aku dikira mantan pacar yang pendendam dan belum bisa move on.
-
-Namun sebelum jariku menyentuh gulungan kertas di tangan Dimas, sudut mataku menangkap gerakan dari kursi sebelah.
-
-Saka tidak lagi menatap layar laptopnya. Dia sedang bersandar tenang di kursinya sambil melipat kedua lengan di depan dada. Wajahnya mengarah tepat kepadaku.
-
-Berbeda dengan Selasa sore lalu saat menghadapi Mbak Dinda, kali ini Saka sama sekali tidak membuka mulut untuk memotong ucapan Dimas. Dia tidak pasang badan, tidak juga mengambil alih pembicaraan. Dia hanya menatapku lurus dalam diam, seolah sedang menunggu apakah aku akan kembali menjadi keset selamat datang untuk mantan pacarku sendiri, atau berani berdiri di atas kakiku sendiri.
+Berbeda dengan kejadian kemarin saat menghadapi Mbak Dinda, kali ini Saka tidak memotong pembicaraan. Dia tidak pasang badan, tidak pula mengeluarkan kata-kata tajam untuk mengusir Dimas. Saka hanya memperhatikanku dalam hening, seolah memberi ruang penuh padaku untuk menentukan pilihan: apakah aku akan kembali membiarkan orang lain menginjak batas kenyamananku, atau akhirnya berani bersuara untuk diriku sendiri.

@@ -2,74 +2,70 @@
 
 Gulungan kertas ukuran panggung di tangan Dimas masih menggantung tepat sepuluh sentimeter di depan dadaku.
 
-"Gimana, Nad? File mentah posternya masih ada di folder komputer kamu kan?" tanya Dimas lagi, nadanya mulai agak tidak sabar karena aku diam saja sejak tadi. "Kita harus jalan ke tempat katering sebelum macet jam lima nih."
+"Gimana, Nad? File mentah posternya masih ada di folder komputer kamu kan?" tanya Dimas lagi, nadanya mulai tidak sabar karena aku tak kunjung bersuara. "Kita harus jalan ke tempat katering sebelum macet jam lima nih."
 
-Aku menurunkan pandanganku dari wajah Dimas ke pojok kiri bawah bingkai monitorku.
+Aku menurunkan pandanganku dari wajah Dimas ke sudut kiri bingkai monitorku.
 
-Kertas post-it kuning itu masih menempel di sana. Tulisannya tidak berubah sejak hari Selasa: Bilang enggak itu nggak bikin langit runtuh.
+Kertas catatan tempel warna kuning itu masih menempel di sana. Tulisannya tidak bergeser sedikit pun: Bilang enggak itu nggak bikin langit runtuh.
 
-Aku teringat bagaimana Jumat malam minggu lalu aku berdiri mematung di parkiran motor sementara laki-laki di depanku ini bilang dia bosan karena aku tidak pernah menolak permintaannya. Lalu Senin malam lalu aku harus mengomel seperti orang gila di tangga darurat gara-gara mengerjakan poster untuk mereka berdua. Kalau sore ini aku mengangguk lagi, berarti yang bermasalah memang bukan cuma kelakuan Dimas, tapi juga akal sehatku sendiri.
+Ingatan Jumat malam minggu lalu mendadak melintas di kepalaku, saat aku berdiri kaku di parkiran motor sementara Dimas memutuskan hubungan kami dengan alasan aku terlalu penurut dan membosankan. Lalu awal minggu ini, aku harus mengomel sendirian di tangga darurat karena lembur mengerjakan poster untuk mereka. Kalau sore ini aku kembali mengiyakan, berarti yang keliru bukan cuma sikap Dimas yang memanfaatkan situasi, melainkan juga diriku sendiri yang tak punya harga diri.
 
-Aku menarik tanganku kembali dari atas meja, lalu menyimpannya di atas pangkuanku.
+Kutarik tanganku mundur dari atas meja, lalu kurekatkan erat di atas pangkuan.
 
-"Maaf, Mas Dimas," kataku.
+"Maaf, Mas Dimas," ucapku mantap.
 
-Dimas yang sudah bersiap meletakkan gulungan kertas itu ke mejaku langsung berhenti bergerak. "Kenapa, Nad?"
+Gerakan Dimas yang hendak meletakkan kertas itu ke mejaku terhenti seketika. "Kenapa, Nad?"
 
-"Saya nggak bisa bantu buatkan desain latar panggungnya sore ini," jawabku lugas. "Jam kerja saya sebentar lagi habis."
+"Aku nggak bisa bantu buatkan desain latarnya sore ini," jawabku lugas. "Jam kerjaku sebentar lagi selesai."
 
-Aku menatap matanya tanpa tunduk. "Akhir pekan ini jadwal saya sudah penuh buat proyek Sela Waktu."
+Kutatap matanya lurus tanpa menunduk. "Lagipula akhir pekan ini jadwalku sudah padat untuk persiapan proyek Sela Waktu."
 
-Hening.
+Suasana mendadak hening.
 
-Bahkan suara ketikan keyboard Tari dari kubikel sebelah ikut berhenti mendadak. Aku yakin telinga sahabatku itu sedang mekar selebar parabola televisi buat menyimak adegan bersejarah ini.
+Bahkan suara ketukan keyboard Tari dari kubikel seberang ikut lenyap seketika. Sahabatku itu pasti sedang memasang radar penuh untuk menyimak momen langka ini.
 
-Kening Dimas berkerut dalam. Dia menatapku seperti aku baru saja berbicara dalam bahasa asing yang rumit. Selama dua tahun kami berpacaran, ditambah seminggu sejak putus, kata tidak bisa memang belum pernah sekalipun keluar dari mulutku setiap kali dia meminta bantuan.
+Kening Dimas berkerut dalam. Dia menatapku seolah baru saja mendengar kata-kata dari bahasa asing yang tidak dimengertinya. Selama dua tahun berpacaran, kata penolakan memang belum pernah sekalipun keluar dari bibirku setiap kali dia meminta bantuan.
 
-"Loh, kan tinggal tarik ukuran dari file poster awal minggu ini, Nad," desak Dimas kesal.
+"Loh, kan cuma tinggal tarik ukuran dari file poster yang kemarin, Nad," desak Dimas kesal. "Masa tega sih biarin panggung acara besok kosong melompong?"
 
-Dimas mendengus menuntut. "Masa tega sih biarin acara besok nggak pakai latar panggung?"
+"File mentahnya sudah kuunggah ke folder bersama divisi pemasaran dari Senin malam, Mas," tanggapku tenang, meski di bawah meja jari-jemariku saling bertaut menahan gugup. "Aplikasi di komputer pemasaran juga lengkap. Mas Dimas atau Vanya bisa langsung ubah skalanya sendiri dari sana."
 
-"File mentahnya sudah saya unggah ke folder bersama divisi pemasaran sejak Senin malam, Mas," jawabku tenang, meski di bawah meja kedua tanganku saling bertaut erat. "Di komputer pemasaran juga ada aplikasinya. Jadi Mas Dimas atau Vanya bisa langsung sesuaikan ukurannya sendiri dari sana."
+Vanya yang berdiri di samping Dimas mendadak salah tingkah. Dia melirik jam di pergelangan tangannya, lalu menarik ujung lengan kemeja Dimas pelan. "Mas, mending kita minta tolong orang percetakan aja yang sesuaikan. Nanti bayar biaya jasa desain dikit nggak apa-apa kok."
 
-Vanya yang berdiri di sebelah Dimas langsung salah tingkah. Dia melirik jam tangannya, lalu menarik ujung lengan kemeja Dimas pelan. "Mas, kita minta orang percetakan aja yang bantu perbesar."
+Dimas menatapku tajam. Rasa gengsinya jelas tercoreng karena ditolak mentah-mentah di depan anak magang yang sedang didekatinya, apalagi di sebelahku ada Saka yang menyimak tanpa ekspresi.
 
-Vanya berbisik canggung. "Nanti bayar biaya tambahan dikit nggak apa-apa."
+"Ya sudah kalau sekarang kamu hitung-hitungan soal kerjaan kantor," kata Dimas dingin. "Ayo, Van, kita langsung ke percetakan aja."
 
-Dimas menatapku lurus. Kilat kesal berkilat di matanya karena ditolak di depan anak magang yang sedang didekatinya, apalagi di sebelahku ada Saka yang menyimak tanpa ekspresi.
+Tanpa mengucap pamit, Dimas berbalik dan melangkah pergi dengan tergesa. Vanya bergegas mengekor di belakangnya.
 
-"Oke," kata Dimas pendek dengan nada dingin. "Kalau kamu sekarang perhitungan soal kerjaan kantor, ya sudah. Ayo, Van, kita urus sendiri ke percetakan."
+Begitu pintu kaca lorong tertutup rapat di belakang mereka, seluruh udara yang kutahan di dada mendadak terhembus keluar.
 
-Tanpa mengucap pamit, Dimas berbalik pergi meninggalkan area meja kami. Vanya setengah berlari mengimbangi langkahnya.
+Kusandarkan punggung ke kursi dan kuangkat kedua tanganku ke atas meja. Jari-jariku rupanya masih gemetar cukup keras waktu menyentuh tepi tablet gambar.
 
-Begitu punggung mereka menghilang di balik pintu kaca lobi lantai tiga, napas yang kutahan sejak dua menit lalu langsung keluar sekaligus.
+"Tangan kamu kenapa?" tanya suara tenang dari sebelahku.
 
-Aku menyandarkan punggung ke kursi, lalu mengangkat kedua tanganku dari bawah meja. Jari-jemariku ternyata bergetar lumayan hebat waktu menyentuh tepi papan gambar.
+Aku menoleh ke arah Saka sambil buru-buru menyembunyikan tangan ke bawah meja. "Nggak apa-apa, Mas, cuma deg-degan."
 
-"Tangan kamu kenapa?" tanya suara datar dari sebelahku.
+Kucoba tersenyum kecil. "Nolak mantan ternyata bikin lutut lemas juga."
 
-Aku menoleh ke arah Saka sambil buru-buru menyembunyikan kedua tangan ke bawah meja. "Enggak apa-apa, Mas, cuma agak kaget."
+Saka menatapku sejenak, lalu menarik laci kecil di bawah mejanya.
 
-Aku mencoba tertawa kecil. "Nolak mantan di depan gebetan barunya ternyata butuh banyak tenaga."
+Dia mengeluarkan sebatang cokelat susu kemasan ungu ukuran sedang yang biasa dipajang di kasir minimarket, lalu meletakkannya tepat di samping buku sketsaku.
 
-Saka menatapku beberapa detik, lalu membuka laci kecil di bawah mejanya.
+Aku menatap cokelat itu, lalu mendongak menatap wajahnya. "Ini buat apa, Mas?"
 
-Dia mengeluarkan sebatang cokelat susu kemasan ungu ukuran sedang yang biasa dipajang di dekat kasir minimarket, lalu meletakkannya tepat di atas buku sketsaku.
+"Makan. Kata orang kalau habis gemetaran butuh asupan gula," sahut Saka sambil mulai mematikan laptopnya karena jam dinding sudah menunjukkan pukul lima kurang dua menit.
 
-Aku menatap cokelat itu, lalu mendongak menatap Saka. "Ini buat apa, Mas?"
+"Tumben Mas Saka punya simpanan cokelat?" tanyaku heran. Setahuku selama duduk berdampingan, minuman dan camilan laki-laki ini selalu botol air putihnya.
 
-"Makan aja. Kata orang kalau habis gemetaran itu gula darahnya turun," jawab Saka sambil mulai mematikan laptopnya karena jam dinding sudah menunjukkan pukul lima kurang dua menit.
+"Tadi pagi kasir minimarket depan stasiun ngasih promo beli kopi botol," jawab Saka santai. Dia meraih botol minum hitamnya dari sudut meja. "Saya nggak doyan manis."
 
-"Tumben Mas Saka nyimpan cokelat di laci?" tanyaku heran. Setahuku selama empat hari duduk sebelahan, camilan paling ekstrem yang pernah dikonsumsi laki-laki ini hanyalah air putih dari botol hitamnya.
+Kulihat tangan kanan Saka yang menggenggam botol tersebut.
 
-"Tadi pagi kasir minimarket depan stasiun ngasih itu gara-gara promo beli kopi botol," kata Saka lempeng. Dia meraih botol minum hitam penyoknya dari sudut meja. "Saya nggak suka makanan manis."
+Ibu jarinya memutar tutup botol hitam itu sedikit, lalu mengencangkannya kembali sampai terdengar bunyi klik pelan dua kali.
 
-Aku melirik tangan kanan Saka yang sedang memegang botol minum itu.
+Padahal seingatku pagi tadi waktu tiba di kantor, Saka tidak menenteng kopi botol dari minimarket, melainkan menyeduh kopi hitam bubuk di dapur lantai tiga.
 
-Tepat seperti di warung ayam bakar hari Rabu lalu, ibu jari Saka tanpa sadar memutar tutup botol hitamnya sedikit, lalu mengencangkannya lagi sampai berbunyi klik dua kali.
+Kujangkau cokelat susu itu dari meja, menyembunyikan senyum geli yang mendesak naik ke sudut bibirku. "Oh, promo kasir ya. Makasih banyak, Mas Saka."
 
-Padahal seingatku tadi pagi waktu datang ke kantor, Saka sama sekali tidak membawa kopi botol minimarket, melainkan menyeduh kopi hitam bubuk dari dapur kantor.
-
-Aku mengambil cokelat susu itu dari atas buku sketsaku, menyembunyikan senyum geli yang mendesak naik ke pipiku. "Oh, promo kasir ya. Makasih ya, Mas Saka."
-
-"Hm," gumam Saka singkat sambil menyampirkan tas kanvasnya ke bahu. "Besok jam sebelas siang jangan telat. Saya tunggu di halte Senen dekat deretan toko buku Kwitang."
+"Hm," gumam Saka singkat sambil menyampirkan tas kanvasnya ke pundak. "Besok jam sebelas siang jangan telat. Saya tunggu di halte Senen dekat deretan toko buku Kwitang."
