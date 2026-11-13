@@ -21,6 +21,7 @@
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.136 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
 | `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.456 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 | `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `TAMAT` | 32 | 21.613 | Jakarta Selatan (Kebayoran Baru, Mayestik, Cipete) | 2026 | 2026-11-11 |
+| `NOV-004` | `PRM-004` | Kuas Neon di Tenda Malam | `PROSES` | 32 | - | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | - |
 
 ---
 
@@ -53,6 +54,16 @@
   - *B (Routine):* Setiap hari Hana mengajar dengan tertib sambil disiplin menabung setiap tanggal 25 dan mengejar promosi menjadi Kepala Akademik Cabang baru di Surabaya demi membuktikan hidupnya tetap aman sesuai rencana.
   - *C (Inciting Incident):* Sebagai syarat evaluasi terakhir promosinya, Hana ditugaskan membimbing murid privat berusia delapan tahun bernama Nino yang mogok bicara bahasa Inggris, yang setiap Senin, Rabu, dan Jumat sore diantar-jemput oleh pamannya, Bima Raharja (28), fotografer dan videografer lepas yang santai dan kerap mengacaukan jadwal Hana.
   - *D (Action):* Berawal dari kesal karena mengira Bima adalah bujangan tanpa beban yang hidupnya serba seenaknya, Hana akhirnya mengetahui pengorbanan besar Bima untuk keluarganya yang sedang tertimpa musibah, belajar dari Bima cara menikmati kebahagiaan di tengah sulitnya keadaan, hingga berani melepas promosi Surabaya dan memakai tabungan empat tahunnya untuk membuka tempat kursus sendiri di Jakarta bersama Bima.
+
+#### PRM-004: Kuas Neon di Tenda Malam
+- **Proyek Terkait:** `NOV-004` (Folder: `story/Kuas Neon di Tenda Malam/`)
+- **Status:** `DITERIMA / AKTIF` (Tahap Outline Skenario Adegan Terkunci 32 Bab)
+- **Tanggal Disetujui:** 2026-11-13
+- **Premis ABCD Simpel:**
+  - *A (Character):* Dwi Winarsih alias Wiwin (26), wanita pelukis spanduk pecel lele dan soto kain mori manual di ruko Kalimalang peninggalan pamannya, tangannya selalu berbekas cat neon stabilo dan hafal seluruh pakem anatomi hewan tenda malam.
+  - *B (Routine):* Setiap hari membentang kain mori di lantai semen, mengoplos cat sablon berbau tiner, dan mengantar pesanan spanduk ke warung tenda demi membiayai obat asma pamannya.
+  - *C (Inciting Incident):* Usahanya terancam gulung tikar saat Bachtiar (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan spanduk plastik murah kilat ber-QRIS.
+  - *D (Action):* Saat Paguyuban Pedagang Tenda Lamongan mensyaratkan standarisasi 50 spanduk baru yang wajib mempertahankan lukisan tangan tradisi tetapi harus memuat kode QRIS perbankan yang presisi, Wiwin dan Bachtiar terpaksa menyatukan kuas manual dan mesin cetak digital di satu meja, hingga kolaborasi bau tiner dan desing mesin meluluhkan ego mereka berdua.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
@@ -107,6 +118,13 @@
 | Nino | Nino | `NOV-003` | Keponakan / Murid | Murid Kelas 2 SD | Suka menggambar dinosaurus, polos, sayang Om Bima & Miss Hana | `Boleh (Tingkat 1-2)` |
 | Melisa | Meli / Miss Meli | `NOV-003` | Sahabat / Sekutu | Pengajar Kelas Anak *BrightStep English* | Ceplas-ceplos, laci meja penuh camilan, suka meledek alarm HP Hana | `Boleh (Tingkat 1-3)` |
 | Fajar | Fajar / Mas Fajar | `NOV-003` | Mantan Tunangan | Analis Keuangan | Penuh perhitungan untung-rugi, menilai hubungan seperti daftar target | `Boleh (Tingkat 1-2)` |
+| Dwi Winarsih | Wiwin / Mbak Win | `NOV-004` | Protagonis | Pelukis Spanduk Kain Mori Pecel Lele Kalimalang | Ceplas-ceplos, tangguh, gengsian, tangan berbekas cat neon stabilo | `Boleh (Tingkat 1-3)` |
+| Bachtiar Rasyid | Bachtiar / Tiye | `NOV-004` | Love Interest | Pemilik Percetakan Banner Digital Rukoan (Eks-Desainer Agensi) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri bos | `Boleh (Tingkat 1-3)` |
+| Suhartono | Pak Lik Harto | `NOV-004` | Tetua / Mentor | Maestro Pelukis Spanduk Pantura Era 90-an | Sabar, asma menahun, memegang mitos pantang lele Lamongan dan resep cat fosfor | `Boleh (Tingkat 1-2)` |
+| H. Abdul Qodim | Cak Qodim | `NOV-004` | Sekutu / Klien | Ketua Paguyuban Pedagang Tenda Lamongan Jakarta Timur | Kolot, tegas pada pakem kumis lele, berwibawa, penyayang rakyat kecil | `Boleh (Tingkat 1-3)` |
+| Parlindungan Siregar | Bang Parlin | `NOV-004` | Sekutu / Tetangga | Pemilik Tambal Ban Tubeles Ruko Sebelah | Ceplas-ceplos Batak, kompresor anginnya sering meletup di jam genting | `Boleh (Tingkat 1-3)` |
+| Puji Lestari | Mbak Pur | `NOV-004` | Sekutu / Penengah | Pemilik Warkop Kopi Seduh & Gorengan Samping Ruko | Pengamat gosip trotoar, tempat tukar uang receh dan sarapan bakwan | `Boleh (Tingkat 1-3)` |
+| Haris Munandar | Pak Haris | `NOV-004` | Antagonis | Pemilik Percetakan Mitra Graha Pulogadung | Oportunis, arogan, suka banting harga untuk mematikan usaha rakyat kecil | `Boleh (Tingkat 1-2)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.
@@ -126,11 +144,15 @@
 - **Toko Roti & Kafe Kampus Indah:** Kafe roti anak muda di kawasan kampus yang proposal keuangannya pernah dirapikan oleh Ayu.
 - **Kediaman Oma Ratna (Kebayoran Baru):** Rumah tua bergaya kolonial yang asri dengan taman luas di Jakarta Selatan.
 - **Kantor Penerbit Aksara Senja (Cikini):** Gedung kantor penerbitan buku tiga lantai di kawasan Cikini, Jakarta Pusat, tempat Nadia, Saka, Dimas, dan Tari bekerja.
+- **Warung Tenda Pecel Lele Cak Qodim (Kalimalang):** Tenda kuliner legendaris dua petak beratap terpal oranye-biru di dekat perempatan lampu merah Kalimalang, pusat paguyuban tenda Lamongan.
+- **Ruko Seni Spanduk Pak Lik Harto (Kalimalang):** Ruko 1,5 lantai berlantai semen dingin tempat pembuatan spanduk kain mori manual dengan cat neon stabilo.
+- **Warkop Mbak Pur (Kalimalang):** Warung kopi seduh dan gorengan samping bengkel tambal ban Bang Parlin tempat nongkrong warga gang dan sopir ojol.
 
 ### B. Perusahaan, Agensi, & Entitas Bisnis
 - **BuzzMedia Digital:** Agensi pemasaran dan periklanan digital di kawasan Jakarta Selatan milik Reza Mahendra yang pernah terlibat kasus kampanye hitam online (kode faktur: `INV/BMD-JKT`).
 - **Firma Hukum Darmawan & Rekan:** Kantor advokat hukum perdata dan pidana korporat yang menangani sengketa bisnis dan UU ITE.
 - **Penerbit Aksara Senja:** Perusahaan penerbitan buku sastra, esai, dan ilustrasi populer yang memiliki kantor pusat di Yogyakarta dan kantor redaksi di Cikini, Jakarta Pusat.
+- **Percetakan Mitra Graha:** Perusahaan percetakan digital skala besar di kawasan industri Pulogadung milik Haris Munandar yang memproduksi banner MMT dan baliho luar ruang.
 
 ---
 
