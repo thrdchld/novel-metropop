@@ -35,18 +35,30 @@
 
 ---
 
-## 4. Rincian per Bab (4 Poin Inti per Bab)
+## 4. Rincian per Bab (Format Skenario Adegan / Scene Treatment)
 
 ### Bab 1: <Judul 2-5 kata>
-- **Waktu & Lokasi:** ...
-- **Kejadian Inti:** ...
-- **Perkembangan Emosi / Hubungan:** ...
-- **Detail Kecil / Planting-Callback:** ...
+- **Adegan & Tokoh:** <Hari, jam, lokasi fisik spesifik + alasan fisik konkret kenapa tokoh ada di tempat> | Tokoh hadir: <Daftar tokoh>
+- **Variasi Pembuka:** <Aksi Fisik / Dialog Langsung / Sensori Lingkungan / Reaksi Benda / Pikiran Tajam>
+- **Skenario Masuk (Opening Beat):** <Aksi fisik nyata saat adegan dimulai>
+- **Ketukan Aksi & Reaksi (Mid Beats):**
+  1. <Ketukan 1: Aksi/dialog pemicu>
+  2. <Ketukan 2: Respons lawan bicara / gesekan>
+  3. <Pergeseran 3: Fakta baru / perubahan suasana>
+- **Bentuk Hook Penutup:** <Pertanyaan Menggantung / Pernyataan Retoris / Interupsi Tiba-Tiba / Keputusan Sunyi / Planting Tanda Tanya>
+- **Skenario Penutup (Ending Beat):** <Kalimat/tindakan terakhir pengunci rasa penasaran>
+- **Detail Fisik & Planting-Callback:** <Benda konkret atau gestur manusiawi>
 
 ### Bab 2: <Judul 2-5 kata>
-- **Waktu & Lokasi:** ...
-- **Kejadian Inti:** ...
-- **Perkembangan Emosi / Hubungan:** ...
-- **Detail Kecil / Planting-Callback:** ...
+- **Adegan & Tokoh:** <Hari, jam, lokasi fisik spesifik + alasan fisik konkret kenapa tokoh ada di tempat> | Tokoh hadir: <Daftar tokoh>
+- **Variasi Pembuka:** <Aksi Fisik / Dialog Langsung / Sensori Lingkungan / Reaksi Benda / Pikiran Tajam>
+- **Skenario Masuk (Opening Beat):** <Aksi fisik nyata saat adegan dimulai>
+- **Ketukan Aksi & Reaksi (Mid Beats):**
+  1. <Ketukan 1: Aksi/dialog pemicu>
+  2. <Ketukan 2: Respons lawan bicara / gesekan>
+  3. <Pergeseran 3: Fakta baru / perubahan suasana>
+- **Bentuk Hook Penutup:** <Pertanyaan Menggantung / Pernyataan Retoris / Interupsi Tiba-Tiba / Keputusan Sunyi / Planting Tanda Tanya>
+- **Skenario Penutup (Ending Beat):** <Kalimat/tindakan terakhir pengunci rasa penasaran>
+- **Detail Fisik & Planting-Callback:** <Benda konkret atau gestur manusiawi>
 
 *(Lanjutkan sampai bab terakhir)*

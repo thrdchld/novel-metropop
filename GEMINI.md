@@ -12,7 +12,7 @@
 3. **Alur Kerja 4 Tahap Simpel ([engine/00-workflow.md](engine/00-workflow.md)):**
    - **Tahap 1:** Premis ABCD simpel (4 kalimat).
    - **Tahap 2:** Alur Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf sederhana) — wajib diuji kewajaran logikanya dan disetujui pengguna sebelum membuat daftar bab.
-   - **Tahap 3:** Outline per bab yang simpel (**4 poin per bab**: Waktu & Lokasi, Kejadian Inti, Perkembangan Emosi/Hubungan, Detail Kecil/Planting-Callback).
+   - **Tahap 3:** Outline Skenario Adegan (*Scene Treatment*) bebas looping (**Skenario adegan ketukan film**: Adegan & Tokoh + alasan hadir, Variasi Pembuka & Skenario Masuk dengan 5 variasi rotasi, Ketukan Aksi & Reaksi 1-2-3, Bentuk Hook & Skenario Penutup dengan 5 variasi hook, Detail Fisik/Planting; terkunci `TERKUNCI v1.0`).
    - **Tahap 4:** Menulis bab (600-900 kata, 0 em dash `—`, 100% teks polos tanpa bintang tebal/miring, gaya sederhana & *to the point*) dengan mengikuti outline secara setia, lalu wajib lulus **Dua Pilar Uji Kelayakan**:
      - *Pilar 1 (Uji Teknis):* Lulus 100% skrip otomatis `python3 scripts/stress-test.py "story/<Judul>"` (22 pemeriksaan).
      - *Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi):* Audit mandiri akal sehat sebelum naskah diserahkan (Sebab-akibat nyata, psikologi manusiawi, bebas celetukan garing/cringe, dialog lisan alami, dan irama musikalitas kalimat).

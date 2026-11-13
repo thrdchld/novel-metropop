@@ -307,29 +307,85 @@ Tiap kasus diambil dari novel yang sudah teruji di pembaca, lalu dibedah dengan 
 
 ---
 
-## 6. Cara Menyusun Outline yang Simpel, Jelas, dan Bebas Over-Engineering
+## 6. Cara Menyusun Outline Model Skenario Adegan (Scene Treatment) yang Solid & Bebas Looping
 
-Jangan membuat tabel outline 18 kolom yang kaku dan memicu AI mengarang komplikasi palsu. Gunakan prosedur 2 langkah yang bersih ini di `story/<Judul>/outline.md`:
+Jangan membuat tabel 18 kolom yang rumit atau sekadar poin kejadian abstrak yang memicu AI berhalusinasi dan terjebak *looping* (tulis bab -> tidak masuk akal -> ubah outline -> bab rusak -> ulang lagi). Gunakan prosedur 2 langkah yang solid dan terbukti ini di `story/<Judul>/outline.md`:
 
 ### Langkah 1: Tulis "Alur Cerita Utuh (Awal - Tengah - Akhir)" di Bagian Atas Outline
-Sebelum merinci Bab 1 sampai Bab Akhir, tulis ringkasan jalan cerita utuh dalam **4-5 paragraf bahasa manusia biasa**. Pastikan logika cerita dari awal sampai akhir sudah bulat, tidak ada kebetulan yang dipaksakan, dan tidak ada sengketa uang/hukum yang mengada-ada.
+Sebelum merinci Bab 1 sampai Bab Akhir, tulis ringkasan jalan cerita utuh dalam **4-5 paragraf bahasa manusia biasa**.
+- Uji pakai akal sehat dan **Uji Indomaret (Solusi Paling Wajar)**: Jika tokoh menghadapi masalah, apakah respons mereka wajar layaknya manusia nyata di Jakarta?
+- Jika di tahap 5 paragraf ini logikanya sudah membutuhkan kebetulan ajaib, kontrak fiktif puluhan juta, atau pekerjaan palsu -> **BUANG IDENYA ATAU GANTI DARI AKARNYA.** Dilarang melompat ke pembuatan daftar bab sebelum alur utuh 5 paragraf disetujui!
 
-### Langkah 2: Pecah Menjadi Outline Per Bab (Cukup 4 Poin Inti per Bab)
-Setiap bab di `outline.md` ditulis dengan format **4 poin ringkas** yang langsung bisa dipakai sebagai panduan menulis tanpa membingungkan:
+---
+
+### Langkah 2: Format Outline Model Skenario Adegan (*Scene Treatment*)
+
+Format ini menyusun bab selayaknya ketukan skenario film (*scene beats*). AI dan penulis memiliki panduan kamera yang jelas dari detik pertama adegan dimulai hingga penutupnya, sehingga **sebab-akibat terkunci rapat** dan tidak ada celah untuk mengarang kebetulan murahan.
+
+Setiap bab di `outline.md` disusun dengan format **Skenario Adegan**:
 
 ```markdown
 ### Bab N: Judul Bab (2-5 kata)
-- **Waktu & Lokasi:** [Hari/waktu & tempat kejadian sehari-hari]
-- **Kejadian Inti:** [2-3 kalimat lugas dan jelas tentang apa yang terjadi di bab ini dari awal sampai akhir adegan]
-- **Perkembangan Emosi / Hubungan:** [Apa yang dirasakan tokoh atau pergeseran kecil dalam hubungannya dengan tokoh lain]
-- **Detail Kecil / Planting-Callback:** [Kebiasaan unik, benda spesifik, atau obrolan sambil lalu yang ditanam/dibayar di bab ini]
+- **Adegan & Tokoh:** [Hari, jam, lokasi fisik spesifik + alasan fisik konkret kenapa tokoh ada di tempat] | Tokoh hadir: [Daftar tokoh di adegan]
+- **Variasi Pembuka:** [Pilih salah satu: Gerak Fisik / Dialog Langsung / Sensori Lingkungan / Reaksi Benda / Pikiran Tajam]
+- **Skenario Masuk (Opening Beat):** [Aksi fisik nyata saat adegan dimulai. Bukan rangkuman masa lalu, melainkan apa yang sedang dilakukan tokoh detik itu.]
+- **Ketukan Aksi & Reaksi (Mid Beats):**
+  1. [Ketukan 1: Tokoh A melakukan/mengatakan X karena ada pemicu Z]
+  2. [Ketukan 2: Tokoh B merespons Y, terjadi gesekan atau pertukaran informasi baru]
+  3. [Pergeseran 3: Suasana berubah atau fakta baru terungkap]
+- **Bentuk Hook Penutup:** [Pilih salah satu: Pertanyaan Menggantung / Pernyataan Retoris / Interupsi Tiba-Tiba / Keputusan Sunyi / Planting Tanda Tanya]
+- **Skenario Penutup (Ending Beat):** [Kalimat/tindakan terakhir yang mengunci rasa penasaran pembaca.]
+- **Detail Fisik & Planting-Callback:** [Benda konkret, gestur manusiawi, atau petunjuk yang disimpan untuk nanti.]
 ```
 
-### Aturan Kepatuhan pada Outline & Kesiapan Eksekusi POV 1:
-1. **Outline adalah Naskah Panduan (*Blueprint*), Bukan Teks Bab:** `outline.md` ditulis dengan gaya **naskah panduan orang ketiga** (menyebut nama tokoh seperti *Hana*, *Bima*, *Nino*) agar penulis dan AI memiliki peta utuh (*bird's-eye view*) atas seluruh kejadian, termasuk apa yang terjadi di balik layar. Sedangkan penggunaan kata ganti **"Aku"** dieksekusi di dalam penulisan naskah bab.
-2. **Wajib Memisahkan "Fakta Panduan Penulis" vs "Batas Penglihatan POV Tokoh Utama":** Meskipun `outline.md` ditulis sebagai naskah panduan yang memuat rahasia di balik layar, setiap adegan di `outline.md` **wajib dirancang agar bisa diceritakan dari sudut pandang tokoh utama (POV 1) saat bab ditulis**. Jika di sebuah bab ada tindakan rahasia tokoh lain (misal: memotret diam-diam tanpa ketahuan, memetik bunga saat tokoh utama pergi membeli minum, atau merombak naskah secara sembunyi-sembunyi), `outline.md` wajib mencantumkan dua hal sekaligus: **(a) apa yang sebenarnya terjadi sebagai panduan penulis**, dan **(b) apa yang dilihat/disalahpahami oleh tokoh utama di bab tersebut** agar kejutan tidak bocor sebelum bab pengungkapannya.
-3. **Panjang Bab Fleksibel Mengikuti Kewajaran Cerita:** Umumnya 25–34 bab untuk satu novel web, dengan setiap bab berisi satu kejadian utuh yang mengalir alami (600–900 kata per bab).
+---
 
-### Ketentuan Subplot & Pembuka
-- **Subplot (Opsional):** Jangan dipaksakan jika cerita utama sudah kuat.
-- **Penguncian Outline (`TERKUNCI v1.0`):** Setelah disetujui user, outline tidak boleh diubah diam-diam di tengah jalan.
+### 3. Katalog 5 Variasi Pembuka Bab (Anti-Monoton & Anti AI Slop "Sejak Tahu")
+
+Agar pembaca tidak bosan dan novel tidak terdengar seperti laporan kronologis yang selalu diawali kata *"Sejak..."* atau *"Setelah kejadian..."*, AI wajib merotasi 5 variasi pembuka ini di setiap bab:
+
+1. **Aksi Fisik Langsung (*In Medias Res* Fisik):**
+   Tokoh sedang di tengah gerakan tubuh nyata.
+   > *Contoh:* Bunyi spatula beradu dengan wajan penggorengan membangunkan kantukku jam empat subuh ini.
+2. **Dialog Menusuk (*Cold Open Dialogue*):**
+   Bab dibuka langsung dari kutipan tajam tanpa pengantar narasi.
+   > *Contoh:* "Mbak, kalau motong kue talam ukurannya disamain dong, masa ada yang tebal sebelah!"
+3. **Sensori Lingkungan / Suasana Kota (*Atmospheric Sensory*):**
+   Dibuka dengan suhu udara, bau jalanan, atau suara khas perkotaan Indonesia.
+   > *Contoh:* Dinginnya AC gerbong KRL rute Bogor-Manggarai pagi ini tidak sanggup mengusir aroma minyak kayu putih dan keringat desak-desakan ratusan penumpang.
+4. **Reaksi Benda Fisik / Pemicu Nyata (*Physical Trigger*):**
+   Fokus pada benda mati atau notifikasi yang memicu tindakan tokoh.
+   > *Contoh:* Garpu plastik di tanganku patah jadi dua saat menekan lapisan kue tart yang membatu di etalase.
+5. **Pikiran Reflektif Tajam (*Sharp Observation*):**
+   Satu kalimat batin tentang keanehan realitas kehidupan sebelum tokoh bergerak.
+   > *Contoh:* Jam tujuh malam di Jakarta itu waktu paling kejam buat orang yang dompetnya tinggal menyisakan selembar uang dua puluh ribuan.
+
+---
+
+### 4. Katalog 5 Variasi Penutup Bab (*Hook* yang Tidak Selalu Dijawab di Bab Depan)
+
+Ujung bab tidak boleh menggantung secara hambar atau melulu dijawab seketika di bab berikutnya. Gunakan 5 variasi *hook* pasar ini:
+
+1. **Pertanyaan Menggantung (Dilema Batin):**
+   Pertanyaan yang menyentuh perasaan atau logika tokoh, yang mungkin baru terjawab 3-5 bab kemudian.
+   > *Contoh:* Kalau pria sekelas dia saja masih bisa diperdaya gengsi keluarga, lantas apa bedanya hidup mewah itu dengan penjara?
+2. **Pernyataan Retoris / Realisasi Pahit:**
+   Kesimpulan dingin tokoh yang mengubah cara pandangnya selamanya.
+   > *Contoh:* Dan malam itu aku akhirnya mengerti, beberapa orang memang terbiasa membeli kejujuran orang lain karena hidup mereka sendiri palsu.
+3. **Interupsi Tiba-Tiba (*Cliffhanger* Kejadian):**
+   Adegan dipotong oleh kemunculan orang asing, ketukan pintu, atau dering telepon mendadak.
+   > *Contoh:* Tanganku baru saja hendak menyentuh gagang pintu saat suara klakson mobil sedan hitam di depan pagar menyala panjang.
+4. **Keputusan Sunyi (*Silent Resolution*):**
+   Tokoh mengambil satu langkah berisiko tanpa membicarakannya dengan siapa pun.
+   > *Contoh:* Di bawah redupnya lampu kamar, aku memasukkan amplop itu ke dasar tasku, tahu persis bahwa mulai besok tidak ada lagi jalan untuk putar balik.
+5. **Planting Tanda Tanya (*Curiosity Seed*):**
+   Ada benda atau kode aneh yang terlihat sekilas tapi tokoh belum tahu artinya.
+   > *Contoh:* Di sudut kertas kuitansi itu, ada coretan spidol merah berbentuk huruf kapital R yang dilingkari dua kali.
+
+---
+
+### 5. Aturan Kepatuhan pada Outline & Kesiapan Eksekusi POV 1:
+1. **Outline adalah Naskah Panduan (*Blueprint*), Bukan Teks Bab:** `outline.md` ditulis dengan gaya **naskah panduan orang ketiga** (menyebut nama tokoh seperti *Hana*, *Bima*, *Nino*, *Ayu*, *Rian*) agar penulis dan AI memiliki peta utuh (*bird's-eye view*) atas seluruh kejadian. Penggunaan kata ganti **"Aku"** dieksekusi di dalam penulisan naskah bab.
+2. **Wajib Memisahkan "Fakta Penulis" vs "Batas Penglihatan POV Tokoh Utama":** Setiap adegan di `outline.md` **wajib dirancang agar bisa diceritakan dari sudut pandang tokoh utama (POV 1)**. Jika ada tindakan rahasia tokoh lain, `outline.md` mencantumkan dua hal: *(a) apa yang sebenarnya terjadi sebagai panduan*, dan *(b) apa yang dilihat/disalahpahami oleh tokoh utama di bab tersebut*.
+3. **Pembedaan "Tulang" vs "Daging" (Anti-Bongkar Outline):** Jika bab terasa kaku saat ditulis, **JANGAN MENGUBAH OUTLINE**. Yang diperbaiki hanyalah dialog dan aksi fisiknya (*daging*), sedangkan tujuan adegan dan *hook* akhir bab (*tulang*) tetap terkunci.
+4. **Penguncian Outline (`TERKUNCI v1.0`):** Setelah disetujui, outline berstatus mutlak dan menjadi acuan tunggal penulisan bab.

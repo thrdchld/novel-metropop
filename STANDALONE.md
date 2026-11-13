@@ -20,8 +20,8 @@ Dokumen ini digunakan saat bekerja di antarmuka Web Chat (Claude Web, ChatGPT We
    Rumuskan **A (Tokoh)**, **B (Keseharian)**, **C (Pemicu)**, **D (Perjalanan Cerita)** secara sederhana.
 2. **Tahap 2 — Cerita Utuh Awal-Tengah-Akhir (4-5 Paragraf Bahasa Manusia):**
    Sebelum membuat daftar bab, tulis dulu jalan cerita utuh dari awal sampai akhir dalam 4-5 paragraf sederhana. Pastikan logika ceritanya masuk akal 100% dan disetujui pengguna.
-3. **Tahap 3 — Outline Per Bab Simpel (4 Poin per Bab):**
-   Pecah menjadi daftar bab di `outline.md` dengan **4 poin ringkas per bab**: (1) Waktu & Lokasi, (2) Kejadian Inti, (3) Perkembangan Emosi/Hubungan, (4) Detail Kecil / *Planting-Callback*. Kunci outline (`TERKUNCI v1.0`).
+3. **Tahap 3 — Outline Skenario Adegan (Scene Treatment) Bebas Looping:**
+   Pecah menjadi daftar bab di `outline.md` dengan format **Skenario Adegan (*Scene Treatment*)** (`engine/03-structure.md`): (1) Adegan & Tokoh (+alasan fisik konkret hadir), (2) Variasi Pembuka & Skenario Masuk (rotasi 5 variasi pembuka anti-monoton), (3) Ketukan Aksi & Reaksi (1-2-3), (4) Bentuk Hook & Skenario Penutup (rotasi 5 hook), (5) Detail Fisik / *Planting-Callback*. Kunci outline (`TERKUNCI v1.0`). Format adegan yang jelas dan terkunci mencegah AI berhalusinasi dan memutus jebakan looping.
 4. **Tahap 4 — Menulis Bab Setia pada Outline:**
    - **Rentang kata:** 600–900 kata per bab (target ±750 kata). Satu bab per respons.
    - **100% Teks Polos (*Plain Text*):** Tanpa tanda bintang tebal (`**teks**`), miring (`*teks*`), coret, atau backtick di naskah cerita.

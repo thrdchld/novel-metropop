@@ -23,7 +23,7 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 |---|---|---|
 | **Tahap 1: Premis ABCD Simpel** | Tulis 4 kalimat sederhana: **A (Tokoh)**, **B (Keseharian)**, **C (Kejadian Pemicu)**, **D (Tindakan Utama)**. | Jika pekerjaan/rutinitas di **B** atau pemicu di **C** tidak wajar dialami orang Indonesia sehari-hari -> **BUANG IDENYA, jangan dilanjut!** |
 | **Tahap 2: Cerita Utuh Awal-Tengah-Akhir (4-5 Paragraf)** | Sebelum membuat daftar bab, tulis dulu **jalan cerita utuh dari Awal, Tengah, sampai Akhir dalam 4-5 paragraf bahasa manusia biasa**. | Uji pakai akal sehat: Apakah reaksi tokoh wajar sebagai manusia? Apakah ada bagian yang dipaksakan? Jika terasa mengada-ada -> **BERHENTI & GANTI CERITA di tahap ini.** |
-| **Tahap 3: Outline Per Bab Simpel (4 Poin per Bab)** | Setelah Cerita Utuh 4-5 paragraf disetujui pengguna, pecah menjadi daftar bab (misal 25-34 bab). **Setiap bab cukup 4 poin singkat** (bukan 18 kolom!): (1) Waktu & Tempat, (2) Kejadian Inti, (3) Perubahan Emosi/Hubungan, (4) Detail Kecil / *Planting-Callback*. | Kunci `outline.md` (**TERKUNCI v1.0**). Outline ini menjadi rel tetap yang wajib diikuti 100% saat menulis bab. |
+| **Tahap 3: Outline Skenario Adegan (Scene Treatment)** | Setelah Cerita Utuh 4-5 paragraf disetujui, pecah menjadi daftar bab dengan format **Skenario Adegan (`03-structure.md`)**: (1) Adegan & Tokoh (+alasan fisik hadir), (2) Variasi Pembuka & Skenario Masuk, (3) Ketukan Aksi & Reaksi (1-2-3), (4) Bentuk Hook & Skenario Penutup, (5) Detail Fisik / Planting. | Kunci `outline.md` (**TERKUNCI v1.0**). Rantai kausalitas dan aksi fisik mengunci AI agar tidak melenceng atau berhalusinasi saat menulis bab. |
 | **Tahap 4: Menulis Bab (1 per 1)** | Tulis 1 bab (600-900 kata, teks polos tanpa bintang tebal/miring, 0 em dash) mengikuti `outline.md` secara lurus dengan gaya bercerita sederhana & *to the point* (`05-style.md`). Perbarui `state.md` & `ledger.md`. | **Wajib Lolos Dua Pilar Uji Kelayakan:** Pilar 1 (Uji Kelayakan Teknis via `stress-test.py`) + Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi: sebab-akibat nyata, psikologi manusiawi, anti-garing, keluwesan tutur lisan, dan irama musikalitas). |
 
 ---
@@ -34,7 +34,7 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 |---|---|
 | **Awal Sesi Baru** | `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, cek daftar folder di `story/` |
 | **Mode A (Cari Ide / Premis ABCD & Cerita Utuh 5 Paragraf)** | `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md`, `engine/11-worldbuilding.md` |
-| **Mode B (Susun Canon & Outline Simpel 4 Poin/Bab)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/11-worldbuilding.md`, `engine/templates/` |
+| **Mode B (Susun Canon & Outline Skenario Adegan)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/11-worldbuilding.md`, `engine/templates/` |
 | **Mode C (Menulis Bab)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, 1 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md` |
 | **Mode D (Revisi / Evaluasi)** | `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, dan bab terkait |
 | **Mode E (Riset / Update Engine)** | `engine/sources.md`, `engine/10-evolution.md` |
