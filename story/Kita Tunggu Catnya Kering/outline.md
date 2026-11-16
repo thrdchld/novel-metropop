@@ -164,14 +164,14 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Mereka harus menyiapkan contoh, bahan, dan alur produksi yang bisa diperiksa.
 
 ### Bab 19: Produksi
-- **Adegan & Tokoh:** Meja kerja gabungan, beberapa hari setelah persiapan | Wiwin, Aji, Pak Lik.
-- **Aksi:** Panel QRIS disiapkan dari file digital yang benar untuk tiap merchant, lalu dipasang pada bidang kain dengan metode transfer yang telah diuji. Wiwin tetap melukis ilustrasi manual. Kain dikerjakan di meja dan rak, bukan dibentangkan dengan paku di lantai.
-- **Hook:** Prototipe lolos uji awal, tetapi produksi massal dan pengeringan masih harus dibuktikan.
+- **Adegan & Tokoh:** Pagi pertama produksi, setelah persetujuan formal panitia | Wiwin, Aji, Pak Lik Harto, Cak Qodim.
+- **Aksi:** Produksi baru dimulai setelah panitia meninjau dan menyetujui prototipe, rancangan, serta metode pemasangan. Cak Qodim membawa pemberitahuan persetujuan tertulis sehari sebelumnya; masa produksi dua minggu resmi dihitung sejak persetujuan. Panel QRIS disiapkan dari file digital yang benar untuk tiap merchant, lalu dipasang pada bidang kain dengan metode transfer yang telah diuji. Wiwin tetap melukis ilustrasi manual. Kain dikerjakan di meja dan rak, bukan dibentangkan dengan paku di lantai.
+- **Hook:** Persetujuan sudah diperoleh, tetapi kapasitas produksi massal dan pengeringan masih harus dibuktikan.
 
 ### Bab 20: Waktu Pengeringan
-- **Adegan & Tokoh:** Masa produksi di ruko dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin.
-- **Aksi:** Bunyi kompresor tetap menjadi gangguan komedi, tetapi tidak dipakai untuk meniup kain melalui knalpot panas. Pengeringan memakai sirkulasi udara, jarak antarkain, dan waktu yang cukup. Produksi berlangsung beberapa hari dengan jeda waktu yang jelas.
-- **Hook:** Menjelang pemeriksaan akhir, tim harus memastikan jumlah dan kualitas setiap kain.
+- **Adegan & Tokoh:** Hari keenam produksi di ruko dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin.
+- **Aksi:** Bunyi kompresor tetap menjadi gangguan komedi, tetapi tidak dipakai untuk meniup kain melalui knalpot panas. Pengeringan memakai sirkulasi udara, jarak antarkain, dan waktu yang cukup. Pada akhir bab, 40 dari 50 spanduk telah lolos pemeriksaan visual; 10 sisanya masih dikerjakan/dikeringkan.
+- **Hook:** Tim perlu memastikan sepuluh spanduk terakhir selesai sebelum pemeriksaan akhir.
 
 ### Bab 21: Tes Scan
 - **Adegan & Tokoh:** Keesokan pagi setelah Bab 20, pukul 09.00, pemeriksaan proses dan QRIS di ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim.
@@ -179,8 +179,8 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Hasil pemeriksaan membuka jalan menuju penerimaan akhir proyek.
 
 ### Bab 22: Inspeksi
-- **Adegan & Tokoh:** Setelah produksi selesai di ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas.
-- **Aksi:** Kain diperiksa dari sisi visual, pemasangan panel, dan kelayakan penanganan. Uji lipat hanya menguji kelenturan/penanganan, bukan ketahanan panas. Berita acara ditandatangani pihak dinas yang berwenang bersama perwakilan paguyuban; Haris tidak bertindak sebagai pejabat atau penanda tangan.
+- **Adegan & Tokoh:** Pagi setelah sepuluh spanduk terakhir selesai di ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas.
+- **Aksi:** Seluruh 50 kain diperiksa dari sisi visual, pemasangan panel, dan kelayakan penanganan. Uji lipat hanya menguji kelenturan/penanganan, bukan ketahanan panas. Berita acara ditandatangani pihak dinas yang berwenang bersama perwakilan paguyuban; Haris tidak bertindak sebagai pejabat atau penanda tangan. Hari kalender tidak dinyatakan secara eksplisit.
 - **Hook:** Proyek utama diterima dan persiapan pemasangan festival dimulai.
 
 ### Bab 23: Cangkir Kopi
@@ -194,8 +194,8 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Mereka harus menyelesaikan 10 spanduk tambahan dalam waktu terbatas tanpa mengorbankan mutu atau keselamatan.
 
 ### Bab 25: Kerja Rodi
-- **Adegan & Tokoh:** Senin malam di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
-- **Aksi:** Wiwin menyelesaikan lukisan sepuluh spanduk VIP; Aji memasang panel QRIS yang sudah dicocokkan dengan daftar merchant. Kain tambahan 32 meter tiba setelah perubahan pesanan disetujui. Aji memakai mesin pres termal pinjaman pemasok dan sarung tangan tahan panas; cedera tangannya baru terjadi saat badai pada Bab 27. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
+- **Adegan & Tokoh:** Senin pagi hingga sekitar pukul 23.00 di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
+- **Aksi:** Kain tambahan 32 meter tiba pada pagi hari setelah perubahan pesanan disetujui. Bersama cadangan 12 meter dari pembelian Bab 17, bahan itu mencukupi sepuluh spanduk VIP. Wiwin menyelesaikan lukisan; Aji memasang panel QRIS yang dicocokkan dengan daftar merchant menggunakan mesin pres termal pinjaman pemasok dan sarung tangan tahan panas. Cedera tangan Aji baru terjadi saat badai pada Bab 27. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
 - **Hook:** Petir dan angin kencang menandai datangnya badai.
 
 ### Bab 26: Talang
