@@ -1,59 +1,33 @@
 ## Bab 19: Sablon
 
-Ujung paku payung kuningan ditekan ibu jari tanganku menembus sudut kain mori ke lantai semen dengan hentakan keras.
+Kain mori pertama dibentangkan di atas meja kerja panjang yang dipinjam dari warung sebelah. Dua meja tambahan disusun sejajar agar kain tidak perlu dipaku ke lantai. Pak Lik Harto duduk di bangku dekat jendela, membantu mengukur bidang gambar dan menandai batas panel dengan kapur jahit.
 
-TAK!
+Aku mulai melukis setelah ukuran setiap kain diperiksa. Pola lele, ayam, dan bebek dibuat bergantian agar tidak semua spanduk terlihat sama. Cat yang sudah diaplikasikan dipindahkan ke rak pengering dengan jarak cukup supaya permukaannya tidak saling menempel.
 
-Paku payung kelima puluh tertancap kencang di celah retakan semen, mengunci bentangan kain putih primisima agar tidak bergeser ditiup hembusan angin malam. Jam dinding ruko menunjukkan pukul setengah dua belas malam. Ruko tua kami yang biasanya lengang mendadak bertransformasi menjadi bengkel pabrik gerilya. Kabel ekstensi melintang silang di atas lantai, tiga kipas angin berdiri mengepung area kerja, dan deretan tali tambang plastik menggantung di langit-langit ruko seperti tali jemuran massal.
+Di sisi lain ruko, Aji menyiapkan panel QRIS. Ia mencocokkan file dari masing-masing pedagang dengan daftar nama merchant, lalu memberi nomor pada setiap lembar bahan transfer.
 
-Alur kerja kami terbagi rapi tanpa banyak bicara.
+"Jangan sampai kode warung Bu Siti tertukar dengan punya Pak Darto," katanya.
 
-Di sudut dekat kamar, Pak Lik Harto yang duduk di bangku dingklik kayu menggaris pola modul dan batas ornamen menggunakan kapur jahit putih dan meteran kayu panjang. Setiap kain yang sudah digaris langsung digeser ke arahku.
+"Makanya jangan taruh semua lembaran di satu tumpukan."
 
-Aku berlutut di tengah ruangan, menyambar kuas pipih nomor empat yang sudah dicelup ke cat kuning dan oranye stabilo. Gerakan tanganku meliuk cepat dan terlatih: menggoreskan lengkung tubuh lele, melukis mahkota ayam jago, menyapukan sayap bebek, lalu membubuhkan huruf balok tebal khas Pantura. Tidak ada keraguan, tidak ada jeda berpikir. Setiap tarikan kuasku mengalir murni dari ingatan otot yang diasah belasan tahun.
+Kami membuat tempat penyimpanan terpisah untuk bahan yang belum dicetak, yang sudah dicetak, dan yang sudah diperiksa. Setiap panel baru dipasang setelah gambar manual di sekitarnya cukup kering dan bidangnya bersih.
 
-Dua meter di samping kananku, Aji bekerja dengan presisi mesin. Lengan kemejanya digulung sampai ke bahu. Di depannya, plat sablon kasa monofilamen nomor seratus dua puluh T diletakkan bergantian di atas jendela kain kosong.
+Pekerjaan berjalan lebih lambat daripada yang kami bayangkan. Ada kain yang perlu diperbaiki garisnya. Ada pula file QRIS yang harus dikonfirmasi ulang karena nama pemilik pada daftar paguyuban berbeda dengan data merchant.
 
-SREK! SREK!
+Menjelang malam, dua belas spanduk selesai pada tahap ilustrasi. Beberapa panel QRIS sudah diterapkan, tetapi belum semuanya melewati pemeriksaan akhir.
 
-Bilah karet rakel ditariknya dengan sudut miring empat puluh lima derajat, menyapukan pasta damar hitam pekat menembus saringan ke serat kain mori. Setiap kali plat diangkat, satu kode QRIS sempurna tercetak hitam legam.
+Aji menatap daftar kerja. "Kalau ritmenya begini, kita perlu membagi produksi ke beberapa tahap. Tidak semua kain harus selesai di hari yang sama."
 
-"Kain kedua puluh siap sablon, Aji!" seruku sambil menggeser kain baru ke arahnya.
+"Memang. Yang penting tidak ada yang dipaksa kering sebelum waktunya."
 
-"Sini, taruh sejajar tanda kapur!" sahut Aji dengan napas memburu.
+Sebuah botol kecil cairan pembersih alat hampir tersenggol ketika seorang anggota paguyuban mengangkat meja. Aji segera memindahkannya ke rak khusus bahan, jauh dari kain dan sumber panas. Kami sepakat tidak menggunakan pelarut yang tidak diperlukan di area produksi.
 
-Saat berbalik meraih botol pelarut pembersih kasa, siku kanan Aji menyenggol botol kaca tiner yang berdiri di lantai semen.
+Tak lama kemudian, Cak Qodim datang membawa makanan untuk orang-orang yang membantu. Ia melihat deretan kain yang sudah diberi nomor.
 
-PRAK!
+"Sudah mulai kelihatan hasilnya," katanya.
 
-Botol kaca itu terguling, menumpahkan setengah liter cairan tiner bening ke lantai semen, mengalir cepat menuju ujung bentangan kain mori kelima belas yang catnya baru setengah kering.
+"Baru sebagian, Cak," jawabku. "Kalau mau membantu, tolong pastikan daftar nama merchant dan nomor kainnya cocok."
 
-"Awas! Tinernya tumpah!" pekik Aji panik, melompat mundur berusaha menahan aliran cairan dengan telapak sepatunya.
+Cak Qodim memanggil dua pengurus paguyuban untuk memeriksa daftar. Mereka mencocokkan data satu per satu sebelum pulang.
 
-"Jangan pakai sepatu!" bentakku cepat.
-
-Kusambar karung goni kecil berisi serbuk gergaji kayu jati yang kusiapkan di dekat pintu masuk. Dengan dua ayunan tangan cekatan, kutaburkan dua genggam serbuk kayu kering tepat di atas genangan tiner yang merayap.
-
-Serbuk gergaji kayu langsung menyedot cairan kimia itu seperti spons kering dalam hitungan tiga detik, menghentikan laju tiner hanya dua sentimeter sebelum menyentuh pinggiran kain putih mori.
-
-Aji menghembuskan napas panjang, bersandar lemas pada tiang ruko. Wajahnya pucat pasi menatap serbuk kayu yang basah kuyup.
-
-"Hampir saja," bisik Aji dengan nada gemetar. "Maaf, Win. Konsentrasiku mulai buyar."
-
-"Tarik napas dulu," kataku sambil menyapu serbuk kayu basah itu ke serokan seng dengan sapu lidi. "Begadang maraton begini memang bikin mata rabun."
-
-Belum sempat kami membersihkan sisa serbuk kayu, pintu besi ruko yang terbuka sedikit didorong lebar dari luar.
-
-"Assalamu'alaikum! Logistik tempur datang!"
-
-Suara berat Cak Qodim memecah keheningan malam Kalimalang. Pria berkumis tebal itu melangkah masuk dengan senyum semringah, menenteng sebakul anyaman bambu berisi tiga puluh bungkus nasi uduk hangat berbungkus daun pisang dan satu teko loreng besar wedang jahe gula merah yang mengepulkan asap hangat.
-
-"Makan dulu, anak-anak muda!" seru Cak Qodim sambil meletakkan bakul nasi ke atas meja lipat Aji. "Paguyuban Kalimalang patungan beli lauk empal suwir sama telur dadar tebal buat kalian berdua. Jangan sampai kalian pingsan sebelum bendera berkibar!"
-
-Pak Lik Harto tersenyum lebar dari sudutnya, meletakkan kapur jahitnya dan melangkah mendekat.
-
-Kami berempat duduk melingkar di atas kardus semen, membuka bungkusan daun pisang dan menyesap wedang jahe yang membakar tenggorokan dingin kami dengan kehangatan.
-
-Kupandangi sekeliling ruangan ruko. Di atas kepala kami, dua puluh lima lembar spanduk kain mori setengah jadi berkibar pelan ditiup hembusan tiga kipas angin, tergantung gagah menyerupai bendera perang di medan tempur.
-
-Di tengah sisa lelah dan dinginnya angin dini hari, kutatap deretan kain itu dengan dada bergemuruh pelan. Dua puluh lima kain lagi harus tuntas sebelum matahari terbit. Apakah fajar esok benar-benar membawa kemenangan bagi orang-orang kecil seperti kami, ataukah seluruh keringat malam ini akan lenyap ditelan keangkuhan dinas kota?
+Malam itu kami tidak menyelesaikan lima puluh spanduk. Kami menyelesaikan tahap pertama dengan alur kerja yang lebih tertib. Untuk proyek sebesar ini, itu lebih berguna daripada mengejar angka lalu mengulang kesalahan.
