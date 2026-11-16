@@ -14,7 +14,7 @@
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Aji, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Aji bimbang |
 | 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Aji | Aji bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Aji |
 | 8 | Selasa (jam tidak disebut eksplisit) | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Menyepakati kerja sama dan pembagian hasil; pembagian dihitung dari laba bersih setelah biaya proyek. |
-| 9 | Rabu, 08.00 (Aji tiba satu jam setelah janji pukul 07.00 di Bab 8) | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji memasang garis lakban sebagai batas area kerja; mereka mengatur posisi meja, kipas, alat, dan aturan memakai ruang bersama |
+| 9 | Rabu, 07.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji memasang garis lakban sebagai batas area kerja; mereka mengatur posisi meja, kipas, alat, dan aturan memakai ruang bersama |
 | 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Bahan transfer pertama berkerut mengikuti tekstur mori dan sudutnya terangkat saat kain dilipat; bahan itu dinyatakan belum cocok |
 | 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin dan Aji makan malam; Aji tetap memakai sendok, tetapi mulai menghargai pengalaman Wiwin dan suasana warung |
 | 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin membuka catatan bahan lama Pak Lik; mereka menjadikannya referensi eksperimen, bukan formula QRIS |
