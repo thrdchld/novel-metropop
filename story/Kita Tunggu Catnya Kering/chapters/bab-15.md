@@ -1,57 +1,69 @@
 ## Bab 15: Kunjungan
 
-"Siapa yang mengizinkan bengkel kumuh pinggir kali begini mengajukan penawaran proyek reklame dinas pariwisata?"
+"Jadi ini tempat kalian mengerjakan spanduk festival?"
 
-Suara lantang bernada angkuh itu menyengat telingaku tepat saat matahari pagi mulai memanggang trotoar depan ruko. Pria bertubuh tambun berusia lima puluhan tahun itu melangkah masuk dengan langkah congkak. Kemeja safarinya berwarna cokelat gelap dengan pin lencana logam keemasan di kerah dada, sementara selembar tisu basah menempel erat di hidungnya, berusaha menangkal debu Kalimalang.
+Pria berkemeja safari cokelat gelap itu berdiri di depan meja. Sepatunya yang mengilap berhenti tepat sebelum menyentuh genangan air di dekat pintu.
 
-Sepatu pantofel hitamnya yang mengilap sempat terperosok ke genangan air bekas cucian piring Bang Parlin di depan pintu, meninggalkan bercak lumpur kelabu di kulit sepatu mahalnya.
+Aji berdiri lebih dulu. "Selamat sore, Pak Haris."
 
-"Bapak siapa ya?" tanyaku sambil berdiri di depan meja sablon, mengelap tangan kananku ke celemek blacu.
+Aku memandang mereka bergantian. "Kalian kenal?"
 
-Pria itu mendengus sinis, melirik tumpukan kaleng cat berkarat dan kain-kain mori di lantai dengan sudut bibir mencibir.
+"Dulu saya bekerja di perusahaan beliau," jawab Aji singkat.
 
-"Saya Haris, Kepala Seksi Sarana Promosi Dinas Pariwisata," jawabnya congkak. "Cak Qodim kemarin membawa berkas permohonan standarisasi tenda festival. Saya sengaja datang langsung ke mari untuk memastikan kalian tidak sedang membodohi dinas dengan produk abal-abal."
+Pria itu mengulurkan kartu nama. Haris, pemilik Mitra Graha. Di bagian bawah tercetak keterangan perusahaan percetakan dan konsultasi promosi.
 
-Aji melangkah maju ke garis depan, berdiri tegap di sampingku. Wajahnya tetap tenang, tapi rahangnya terkatup rapat.
+"Saya pernah menangani beberapa pekerjaan promosi untuk dinas," katanya. "Sekarang saya diminta memberi masukan soal kesiapan vendor untuk festival."
 
-"Produk kami bukan barang abal-abal, Pak Haris," kata Aji tenang namun tegas. "Ini prototipe spanduk hibrida pesanan paguyuban. Kain mori lukisan tangan asli khas Lamongan, dipadukan dengan modul QRIS sablon damar presisi tinggi."
+"Jadi Bapak bukan petugas Dinas?" tanyaku.
 
-Pak Haris melangkah mendekati meja tempat spanduk prototipe kami dibentangkan. Matanya yang menyipit menatap gambar lele melengkung berwana kuning stabilo, lalu turun ke kotak hitam QRIS di sudut bawah.
+Haris tersenyum tipis. "Bukan. Keputusan tetap ada pada panitia dan pihak dinas. Saya hanya diminta melihat apakah metode yang ditawarkan paguyuban ini bisa dikerjakan dalam skala besar."
 
-"Paling cuma stiker sablon murah yang gampang luntur kena minyak," cemooh Pak Haris sambil mengetuk permukaan kain dengan ujung pulpen emasnya. "Kamera ponsel zaman sekarang menolak gambar yang tidak presisi. Kalian pikir kami mau membuang anggaran empat puluh juta untuk reklame yang cuma bikin malu walikota?"
+Ia mendekati meja dan memeriksa prototipe. Jarinya berhenti di tepi panel QRIS.
 
-Tanpa berkata sepatah kata pun, Aji meraih botol semprotan tanaman oranye di samping meja.
+"Ini hasilnya?" tanyanya.
 
-PFFT! PFFT! PFFT!
+"Prototipe awal," jawab Aji. "Ilustrasi dikerjakan manual. QRIS dicetak dari file resmi merchant dan diterapkan dengan bahan transfer."
 
-Aji menyemprotkan air deras tepat ke permukaan kode QRIS hitam di atas kain mori hingga basah kuyup. Butir-butir air menetes ke lantai semen, tapi tinta damar hitam legam itu tetap merekat kuat tanpa luntur atau menggelembung sedikit pun.
+Haris mengangkat kain sedikit, memeriksa bagian belakangnya. "Satu lembar bisa dibuat rapi. Lima puluh lembar belum tentu. Kalian sudah menghitung waktu pengerjaan, bahan, dan tingkat kegagalannya?"
 
-"Silakan dites scan pakai ponsel Bapak," kata Aji tenang sambil menyodorkan ruang bidik.
+"Kami sedang menyusun hitungannya," jawab Aji.
 
-Pak Haris mencibir meremehkan. Ia merogoh ponsel pintarnya dari saku kemeja safari, membuka aplikasi pemindai dengan gerakan malas, lalu mengarahkan kameranya ke kain basah.
+"Sedang?" Haris menoleh kepadaku. "Kalau proyek berjalan, paguyuban harus menyerahkan lima puluh spanduk sesuai jadwal. Bukan lima puluh percobaan."
 
-BIP!
+Aku hendak menyahut, tetapi Aji lebih dulu menjawab.
 
-Hanya butuh sekejap mata. Layar ponsel mahal Pak Haris bergetar lembut, langsung menampilkan halaman transfer resmi Bank DKI dengan nama Paguyuban Tenda Lamongan Bersatu.
+"Itu sebabnya kami mengajukan prototipe sebelum produksi. Kami tidak akan menyatakan siap sebelum kapasitas dan biaya bisa dihitung."
 
-Mata Pak Haris membelalak lebar. Mulutnya yang tadi mencibir kini terkatup rapat, keterkejutan melintas begitu telanjang di wajahnya yang berminyak.
+Haris menatap Aji beberapa saat. "Dulu kamu juga suka bicara soal proses. Tapi klien tidak membayar proses, mereka membayar hasil."
 
-"Bisa terbaca?" tanyaku dengan senyum tipis yang menantang. "Tinta damar formula kami mengunci pori-pori katun dari dalam, Pak. Tahan air, tahan uap kompor, dan tembus sensor dalam nol koma dua detik."
+Rahang Aji mengeras. Aku melihatnya, tetapi ia tetap menjaga suaranya.
 
-Pak Haris buru-buru memasukkan ponselnya ke saku kemeja, berusaha mengembalikan wibawa birokratnya yang sempat goyah. Ia berdeham keras, membersihkan tenggorokan.
+"Benar, Pak. Karena itu kami sedang menguji hasilnya."
 
-"Bagus," kata Pak Haris dengan nada yang dipaksakan terdengar datar. "Teknologinya memang lolos uji coba awal. Tapi membuat satu lembar prototipe jauh berbeda dengan memproduksi lima puluh spanduk massal."
+Haris mengeluarkan lembar spesifikasi dari map. "Panitia akan meninjau prototipe dan rencana produksi. Kalau mereka menilai kalian belum siap, pekerjaan bisa dialihkan ke vendor lain. Saya tidak akan menyarankan mereka mengambil risiko hanya karena kalian ingin mencoba metode baru."
 
-Ia mengambil selembar kartu nama tebal dari saku dompetnya, meletakkannya di atas tutup kaleng cat bekas dengan ujung jari yang congkak. Di atas kertas bertekstur mahal itu tertera tinta emas timbul bertuliskan namanya.
+"Masuk akal," kataku. "Tapi penilaiannya harus berdasarkan hasil uji dan kemampuan produksi, bukan karena Bapak tidak suka tempat kerja kami."
 
-"Batas waktu festival tinggal dua minggu lagi," lanjut Pak Haris menatap kami berdua secara bergantian. "Kalau kalian menyanggupi lima puluh spanduk kain hibrida ini, kontrak resmi akan turun besok pagi."
+Haris melirikku. "Saya tidak punya urusan pribadi dengan tempat ini."
 
-Ia mengetuk kartu namanya dengan ujung kuku sebelum menyambung kejam, "Tapi kalau ada satu lembar saja yang telat atau kode QRIS-nya gagal scan di hari pembukaan, seluruh biaya hangus dan paguyuban wajib bayar penalti dua puluh persen!"
+Aji menutup laptopnya. "Kami akan menyerahkan rincian bahan, waktu produksi, dan hasil pengujian sebelum tenggat yang ditentukan panitia."
 
-Kutatap wajah Pak Haris yang licik, lalu melirik Aji di sebelahku.
+Haris meletakkan kartu namanya di atas meja. "Pastikan semua data bisa diperiksa. Saya tidak mau ada kode yang tertukar atau spanduk yang gagal dipasang."
 
-Aji menatap kartu nama berlapis emas di atas kaleng cat usang itu dengan pandangan dingin. Di dunia agensi Jakarta yang pernah menghempaskannya dulu, orang-orang seperti Pak Haris berkeliaran di setiap lantai gedung kaca: manusia-manusia congkak yang gemar memeras keringat orang kecil di bawah ancaman penalti klausul kontrak.
+Ia berbalik menuju mobil. Sebelum masuk, ia sempat menoleh kepada Aji.
 
-"Kami terima tantangannya, Pak Haris," ucap Aji mantap tanpa gentar sedikit pun. "Dua minggu dari sekarang, lima puluh spanduk hibrida ini akan berkibar rapi di sepanjang jalan kota."
+"Jangan mengulangi kesalahan lama."
 
-Pak Haris tersenyum miring, berbalik badan tanpa mengucap salam, lalu melangkah kembali ke dalam mobil dinasnya yang menderu pergi meninggalkan kepulan debu trotoar.
+Mobil itu pergi meninggalkan suara mesin yang perlahan menjauh.
+
+Aku mengambil kartu nama di meja. "Dia selalu bicara seperti sedang menguji orang?"
+
+Aji tidak langsung menjawab. Ia kembali menatap prototipe.
+
+"Kalau urusan pekerjaan, dia memang begitu."
+
+"Dan kalau bukan urusan pekerjaan?"
+
+Aji merapikan ujung kain. "Nanti juga kamu tahu."
+
+Aku tidak mengejarnya dengan pertanyaan. Untuk saat ini, kami masih punya lima puluh spanduk yang harus dihitung dan diuji.
