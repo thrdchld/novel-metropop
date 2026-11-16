@@ -70,9 +70,9 @@
 
 ## VII. Benang Callback yang Sudah Dibayar
 
-- Mitos lele Lamongan: berkembang menjadi percakapan tentang identitas perantau, bukan kutukan universal.
+- Pantangan makan lele adalah kepercayaan keluarga Cak Qodim, bukan adat yang berlaku untuk semua orang Lamongan.
 - Noda kuning di siku jaket Aji: tetap terlihat sampai akhir.
-- Buku resep Pak Lik: membantu memulai eksperimen, bukan memberi solusi instan.
+- Buku catatan bahan Pak Lik: menjadi referensi eksperimen, bukan formula ajaib atau sumber teknologi QRIS.
 - Piring seng blirik: dari wadah cat menjadi piring makan.
 - Garis lakban pembatas: akhirnya dihapus setelah kedua ruang kerja disatukan.
 - Kalimat judul: menjadi dialog penutup ketika Wiwin dan Aji menunggu cat pertama pesanan studio mengering.
