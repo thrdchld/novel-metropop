@@ -5,7 +5,7 @@
 ## I. Status Cerita
 
 - **Bab terakhir:** Bab 32, *Bergabung*.
-- **Status:** Naskah lengkap; audit kronologi Bab 1–32 selesai dan dokumen pendamping sedang diselaraskan.
+- **Status:** Naskah lengkap; audit kronologi dan integrasi Bab 1–32 selesai; revisi Bab 31–32 telah disinkronkan ke manuscript dan dokumen pendamping.
 - **Titik waktu akhir:** Minggu menjelang siang berikutnya, beberapa hari setelah festival Selasa malam.
 - **Lokasi:** Studio Tenda Malam, ruang kerja bersama di ruko Kalimalang.
 - **POV:** Dwi Winarsih (Wiwin), orang pertama.
@@ -66,7 +66,7 @@
 6. Jangan menyebut ketahanan panas, air, atau bahan kimia sebagai fakta tanpa pengujian yang memadai.
 7. Area banjir dan instalasi listrik tidak boleh disentuh sebelum sumber listrik diputus dan area dinyatakan aman.
 8. Bang Parlin dapat membantu pekerjaan mekanis umum, tetapi diagnosis mesin dilakukan teknisi.
-9. Pembagian laba bersih pesanan bersama adalah 60 persen untuk Wiwin dan 40 persen untuk Aji setelah bahan, transportasi, tenaga tambahan, biaya produksi, dan pemasangan dipotong.
+9. Kesepakatan awal proyek festival (Bab 8) membagi laba bersih 60 persen untuk Wiwin dan 40 persen untuk Aji setelah biaya dipotong. Di Studio Tenda Malam (Bab 32), angka itu menjadi patokan awal yang dapat ditinjau ulang jika jenis pesanan atau beban kerja berubah.
 10. Studio dijalankan bersama, tetapi Bab 32 belum menetapkan kepemilikan formal badan usaha. Ruko dan alat lama tetap milik masing-masing; perlengkapan yang dibeli bersama dicatat terpisah. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel pembayaran, dan vendor. Pekerjaan produksi tetap dapat dibagi sesuai kebutuhan.
 
 ## VII. Catatan Kronologi Final
