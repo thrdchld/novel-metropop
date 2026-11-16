@@ -1,39 +1,61 @@
 ## Bab 23: Cangkir Kopi
 
-Kota sebesar Jakarta selalu punya cara unik untuk menagih rasa lelah dari orang-orang yang menolak menyerah pada nasib.
+Sore itu aku duduk di teras ruko dengan kaki pegal setelah beberapa hari memeriksa dan merapikan spanduk. Aji keluar dari bilik dapur membawa dua cangkir seng blirik bercorak hijau.
 
-Sore ini, angin dari arah aliran Kalimalang berhembus pelan membawa hawa sejuk yang menyapu debu jalanan. Di pelataran teras ruko, aku duduk di atas bangku plastik merah dengan kaki yang masih pegal setelah tiga hari maraton mengecat kain mori. Di sampingku, Aji melangkah keluar dari bilik dapur ruko sambil membawa dua cangkir seng blirik bercorak loreng hijau.
+Ia meletakkan satu cangkir di hadapanku.
 
-Ia meletakkan salah satu cangkir di hadapanku dengan sangat hati-hati, seolah cairan hitam pekat di dalamnya adalah bahan kimia yang mudah meledak.
+"Kopi hitam. Satu setengah sendok gula, diaduk berlawanan arah jarum jam."
 
-"Kopi hitam tubruk," kata Aji sambil menarik bangku plastik biru lalu duduk di sebelahku. "Satu setengah sendok gula pasir, diaduk berlawanan arah jarum jam sampai ampasnya tenggelam ke dasar cangkir."
+Aku menatapnya. "Sejak kapan kamu hafal takaran kopiku?"
 
-Aku menatap uap panas yang mengepul dari cangkir kaleng itu, lalu mendongak menatap wajahnya. "Sejak kapan kamu hafal takaran kopiku?"
+"Sejak beberapa kali kamu mengeluh kalau gulanya terlalu banyak."
 
-"Sejak malam pertama kita begadang ngerjain sablon damar," jawab Aji dengan senyum tipis di sudut bibirnya. "Kamu selalu ngomel kalau Mbak Pur ngasih dua sendok gula. Katanya rasa kopinya hilang dan berubah jadi kuah kolak."
+Aku tertawa kecil. Kopi itu terasa pas, tidak terlalu manis. Di dalam ruko, lima puluh spanduk sudah dikemas dan disusun berdasarkan nomor. Senin pagi, anggota paguyuban akan mengangkutnya ke lokasi festival.
 
-Tawaku pecah mendengar ingatan pemuda itu. Kusesap perlahan permukaan kopi panas yang masih menyisakan buih keemasan. Rasa pahit yang tebal berpadu pas dengan manis yang tidak berlebihan, menjalar hangat menuruni tenggorokan dan mengendurkan otot-otot leherku yang kaku.
+Aji memandangi tangannya. Jemarinya yang biasanya memegang tetikus kini masih menyisakan noda hitam dari proses sablon.
 
-Di dalam ruko, lima puluh gulung spanduk mori yang sudah lolos uji inspeksi terbungkus plastik terpal kedap air, siap diangkut ke arena festival hari Senin lusa.
+"Dulu saya menganggap pekerjaan seperti ini terlalu banyak mengandalkan kebiasaan," katanya. "Sekarang saya tahu pengalaman tanganmu bisa menemukan masalah yang tidak terlihat di layar."
 
-"Dulu di kantor agensi," ucap Aji, pandangannya menerawang menatap lalu-lalang motor di jalan raya, "aku cuma duduk di depan layar monitor selama dua belas jam sehari. Semua desain harus simetris, sudutnya harus presisi sampai hitungan piksel, dan warnanya ditentukan oleh kode heksadesimal yang dingin."
+"Dan aku tahu ukuran yang kamu catat itu ada gunanya. Asal jangan semua hal dihitung sampai jumlah gula."
 
-Ia mengangkat kedua tangannya sendiri ke depan wajah. Jari-jarinya yang biasa memegang tetikus komputer kini berhias noda hitam pasta damar dan goresan luka kecil akibat kawat saringan sablon.
+Ia tersenyum. "Saya masih akan menghitung."
 
-"Awalnya aku merasa pekerjaan tangan kayak gini kuno dan buang-buang tenaga," lanjut Aji pelan. "Tapi setelah melihat cara kamu narik kuas di kain mori, aku baru paham. Garis kuas yang nggak sempurna itu justru yang bikin spanduk pecel lele kamu terasa hidup. Mesin cetakku yang mahal sekalipun nggak bakal pernah punya jiwa kayak gitu."
+Kami tertawa. Untuk beberapa saat, kami hanya menikmati kopi dan suara kendaraan yang lewat.
 
-"Tapi kuas manualku juga hampir bikin warung tenda Cak Qodim gulung tikar gara-gara QRIS nggak kebaca," sahutku sambil tersenyum geli. "Kalau bukan gara-gara kamu yang keras kepala ngitung viskositas damar, spanduk-spanduk itu sekarang cuma jadi kain pel di bengkel Bang Parlin."
+"Kalau proyek ini selesai, kamu mau tetap mengerjakan spanduk?" tanyanya.
 
-Aji menoleh, menatap siku kanan jaket kanvas abu-abunya yang masih berhias bercak cat kuning stabilo. Noda cat itu sudah mengering mati dan meresap ke dalam rajutan kain, tidak akan pernah bisa hilang biarpun dicuci berkali-kali.
+"Kalau ada pesanan. Kenapa?"
 
-"Jaket ini nggak bakal aku cuci pakai tiner," kata Aji sambil menyentuh noda kuning itu dengan ujung jarinya. "Ini tanda bukti kalau aku pernah selamat dari kesombonganku sendiri."
+"Saya sedang berpikir untuk mempertahankan meja digital di sini. Mungkin kita bisa menerima pekerjaan kecil bersama, tidak harus menunggu proyek besar."
 
-Kami berdua terdiam sejenak, menikmati keheningan sore di pinggir trotoar yang biasanya selalu bising oleh klakson truk pasir. Duduk bersisian di teras ini membuat segalanya terasa tenang, menyisakan rasa percaya yang tidak butuh penjelasan panjang lebar.
+Aku memandangnya. "Kita bahkan belum tahu apakah kita tahan bekerja bersama tanpa tenggat dinas."
 
-Namun ketenangan sore kami tidak bertahan lama.
+"Benar juga."
 
-Suara rem sepeda motor yang berdecit nyaring mendadak memekakkan telinga tepat di bibir trotoar. Seorang pengendara motor bebek berjaket dinas oranye menurunkan standar motornya terburu-buru, lalu melangkah setengah berlari ke arah teras kami sambil menenteng sebuah amplop besar bergaris merah putih dengan stempel kilat khusus.
+"Kalau mau mencoba, mulai dari pesanan kecil. Kita hitung biaya dan bagi tugasnya. Jangan langsung bicara buka usaha."
 
-"Selamat sore!" seru kurir itu terengah-engah. "Dengan Saudari Dwi Winarsih dan Saudara Aji Yudanta dari Paguyuban Reklame Mandiri?"
+Aji mengangguk. "Masuk akal."
 
-Aku dan Aji serentak berdiri dari bangku plastik, saling bertukar pandang dengan debar jantung yang mendadak kembali berdegup kencang.
+Jaket kanvas abu-abunya tergantung di sandaran kursi. Noda kuning di siku kanan masih terlihat, bekas kuasku yang tidak pernah berhasil dibersihkan.
+
+"Jaket itu masih kamu simpan?" tanyaku.
+
+"Masih. Saya sudah terbiasa."
+
+"Padahal bisa dicuci."
+
+"Kalau dicuci, nodanya mungkin tetap ada."
+
+"Berarti selama ini kamu cuma malas mencuci."
+
+Aji tertawa. Ia tidak membantah.
+
+Menjelang malam, sebuah kurir datang membawa amplop dari panitia. Cak Qodim yang kebetulan sedang di ruko menerima dan membukanya. Wajahnya berubah serius setelah membaca surat.
+
+"Jadwal festival dimajukan," katanya. "Pembukaan yang semula Kamis dipindah ke Selasa malam karena perubahan agenda kunjungan."
+
+Aji berdiri. "Pemasangan Senin masih bisa. Tapi kenapa Cak kelihatan begitu?"
+
+Cak Qodim membalik halaman kedua. "Ada tambahan permintaan sepuluh spanduk untuk zona VIP. Mereka minta selesai sebelum Selasa pagi."
+
+Aku menatap Aji. Kopi di cangkirku belum habis, tetapi sore santai kami rupanya sudah selesai.
