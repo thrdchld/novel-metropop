@@ -1,6 +1,6 @@
 # Outline: Kita Tunggu Catnya Kering
 
-**Status:** REVISI STRUKTUR v1.1 — diselaraskan dengan manuskrip Bab 1–32
+**Status:** REVISI STRUKTUR v1.2 — diselaraskan dengan manuskrip Bab 1–32 dan audit kronologi
 **Jumlah bab:** 32 bab
 **Target kata:** sekitar 750 kata/bab; panjang mengikuti kebutuhan adegan dan tidak boleh mengorbankan kejelasan
 **Kerangka Plot:** Fichtean Curve & Struktur Romance Hibrida (Seni Tradisi x Presisi Digital)
@@ -75,7 +75,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Detail Fisik & Planting-Callback:** Mesin kompresor tambal ban Bang Parlin berkarat, bau plastik MMT baru.
 
 ### Bab 4: Uap Panas
-- **Adegan & Tokoh:** Jumat, pukul 21.45 WIB di warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim.
+- **Adegan & Tokoh:** Kamis malam, sekitar setengah jam setelah pemasangan spanduk pada Bab 3, di warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim.
 - **Aksi:** Spanduk MMT dipasang terlalu dekat dengan kompor. Hawa panas dan cipratan minyak membuat ujung vinil melengkung; bagian yang melunak menyentuh penyangga logam dan sebagian kecilnya jatuh ke wajan. Cak Qodim mematikan kompor dan membuang minyak yang terkontaminasi. Aji mengalami luka bakar ringan saat melepas spanduk, sementara Wiwin membantu menjauhkan bahan dari sumber panas tanpa menyiram air ke minyak.
 - **Hook:** Aji menyadari bahwa spesifikasi luar ruang tidak berarti bahan aman dipasang dekat kompor.
 
@@ -154,9 +154,9 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Keduanya mulai memahami alasan di balik sikap defensif masing-masing.
 
 ### Bab 17: Tanah Abang
-- **Adegan & Tokoh:** Kamis subuh di Pasar Tanah Abang | Wiwin, Aji, Koh Acong.
-- **Aksi:** Mereka membeli 50 gulung kain mori, masing-masing sekitar 4 meter, cukup untuk 50 spanduk awal. Harga dan diskon dicatat jelas. Bang Rahmat menyampaikan kabar tentang lobi Haris; sumber informasinya adalah sopir yang biasa menunggu di sekitar kantor, bukan akses rahasia ke dokumen dinas.
-- **Hook:** Persediaan awal cukup untuk pesanan utama, tetapi tidak untuk tambahan pesanan yang mungkin muncul.
+- **Adegan & Tokoh:** Kamis pukul 05.00 di Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat.
+- **Aksi:** Mereka membeli 53 gulung kain mori, masing-masing sekitar 4 meter, total 212 meter. Sebanyak 50 gulung/200 meter dialokasikan untuk 50 spanduk awal, sedangkan 3 gulung/12 meter disimpan sebagai cadangan. Harga dan diskon dicatat jelas. Bang Rahmat menyampaikan kabar tentang lobi Haris; sumber informasinya adalah sopir yang biasa menunggu di sekitar kantor, bukan akses rahasia ke dokumen dinas.
+- **Hook:** Persediaan awal mencukupi pesanan utama dan menyisakan cadangan terbatas untuk perubahan pesanan.
 
 ### Bab 18: Lontong Sayur
 - **Adegan & Tokoh:** Kamis pagi di warung dekat stasiun | Wiwin, Aji, Bang Rahmat.
@@ -174,7 +174,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Menjelang pemeriksaan akhir, tim harus memastikan jumlah dan kualitas setiap kain.
 
 ### Bab 21: Tes Scan
-- **Adegan & Tokoh:** Beberapa hari setelah produksi dimulai, pemeriksaan proses dan QRIS di ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim.
+- **Adegan & Tokoh:** Keesokan pagi setelah Bab 20, pukul 09.00, pemeriksaan proses dan QRIS di ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim.
 - **Aksi:** Tim verifikasi memeriksa contoh hasil produksi, alur kerja, dan kecocokan file QRIS dengan merchant masing-masing. Pemindaian hanya memastikan kode terbaca; transaksi bukan bagian dari pemeriksaan ini dan penerimaan akhir dilakukan setelah semua spanduk selesai.
 - **Hook:** Hasil pemeriksaan membuka jalan menuju penerimaan akhir proyek.
 
@@ -190,7 +190,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 24: Pemberitahuan
 - **Adegan & Tokoh:** Minggu sore, langsung setelah Bab 23 di ruko/sekretariat paguyuban | Wiwin, Aji, Cak Qodim, Pak Lik.
-- **Aksi:** Festival dimajukan ke Selasa malam, pengiriman 50 spanduk utama ditunda, dan pesanan bertambah 10 spanduk VIP. Tambahan 40 meter kain dibutuhkan; sisa 12 meter tidak cukup sehingga mereka harus membeli setidaknya 28 meter tambahan, dengan cadangan lebih aman. Biaya dan perubahan pesanan harus disetujui.
+- **Aksi:** Festival dimajukan ke Selasa malam, pengiriman 50 spanduk utama ditunda, dan pesanan bertambah 10 spanduk VIP. Tambahan 40 meter kain dibutuhkan; 12 meter cadangan dari pembelian Bab 17 digabung dengan pembelian baru 32 meter, sehingga tersedia 44 meter dan tersisa 4 meter setelah produksi. Biaya dan perubahan pesanan harus disetujui.
 - **Hook:** Mereka harus menyelesaikan 10 spanduk tambahan dalam waktu terbatas tanpa mengorbankan mutu atau keselamatan.
 
 ### Bab 25: Kerja Rodi
@@ -230,5 +230,5 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 32: Bergabung
 - **Adegan & Tokoh:** Minggu menjelang siang berikutnya di ruko Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim.
-- **Aksi:** Wiwin dan Aji membuka Studio Tenda Malam. Mereka menyepakati kepemilikan, pembagian peran, pencatatan biaya, dan pembagian laba bersih 60 persen untuk Wiwin serta 40 persen untuk Aji setelah biaya dipotong. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
+- **Aksi:** Wiwin dan Aji mulai menjalankan Studio Tenda Malam bersama. Mereka menyepakati pembagian peran, pencatatan biaya, dan pembagian laba bersih 60 persen untuk Wiwin serta 40 persen untuk Aji setelah biaya dipotong. Bab ini tidak menetapkan kepemilikan formal badan usaha; ruko dan alat lama tetap menjadi aset masing-masing, sedangkan perlengkapan yang dibeli bersama dicatat terpisah. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
 - **Penutup:** Aji mencoba menarik garis dengan kuas. Wiwin membimbingnya dan mengucapkan kalimat judul saat mereka menunggu cat pertama mengering.
