@@ -1,6 +1,6 @@
 ## Bab 21: Tes Scan
 
-Pukul sembilan pagi, dua mobil minibus berhenti di depan ruko. Empat staf dinas turun membawa map dan tablet. Pak Haris datang bersama mereka, tetapi ia berjalan di belakang salah satu staf dan tidak mengenakan atribut yang membuatnya tampak seperti pejabat.
+Keesokan paginya, pukul sembilan pagi, dua mobil minibus berhenti di depan ruko. Empat staf dinas turun membawa map dan tablet. Pak Haris datang bersama mereka, tetapi ia berjalan di belakang salah satu staf dan tidak mengenakan atribut yang membuatnya tampak seperti pejabat.
 
 Aji menyambut rombongan di depan meja kerja.
 
