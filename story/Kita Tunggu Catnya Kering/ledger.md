@@ -32,6 +32,7 @@
 | 24 | Minggu, 09.00 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto | Surat dinas majukan pembukaan festival Selasa malam; tambah 10 spanduk VIP; susun strategi kilat |
 | 25 | Senin, 21.00 | Lantai semen ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Maraton lembur 10 spanduk VIP; tangan Wiwin kram dan dipijat Bachtiar; petir dan badai besar mendekat |
 | 26 | Selasa, 01.30 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Badai terjang ruko; talang seng jebol tumpahkan air bah; 10 mori VIP diselamatkan; mesin cetak korslet |
+| 27 | Selasa, 02.15 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Bachtiar tahan seng talang dengan tubuhnya; Pak Lik matikan MCB; Bachtiar limbung basah kuyup |
 
 ## A2. Timeline Masa Lalu
 
@@ -88,6 +89,7 @@
 | 24 | Wiwin | Tegang & tertantang | Surat dinas, kuas kayu jati Pak Lik | Solid bersama Bachtiar dan sesepuh hadapi jebakan birokrasi | - | Menuntaskan 10 spanduk VIP sebelum Selasa fajar |
 | 25 | Wiwin | Berpeluh, linu, namun tersentuh | Kuas jati, plester koyo pergelangan tangan | Momen kedekatan fisik yang tulus saat Bachtiar memijat tangan | - | Ancaman badai besar yang mengguncang atap ruko |
 | 26 | Wiwin | Panik lalu syok | Terpal oranye basah, ember plastik | Bachtiar rela basah kuyup lindungi kain Wiwin | - | Mesin cetak digital Bachtiar korslet tersiram air banjir |
+| 27 | Wiwin | Terharu & pilu | Senter kepala Pak Lik, jaket kanvas dingin | Wiwin memeluk Bachtiar yang limbung; ikatan batin terkunci | - | Mesin cetak digital Bachtiar mati total terendam air |
 
 ## E. Fakta Keras dan Angka
 
