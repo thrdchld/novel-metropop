@@ -22,6 +22,16 @@ Petugas lain memeriksa bahan, rak pengering, catatan waktu, dan pembagian tugas.
 
 Pak Haris mengangkat salah satu sudut prototipe. "Kalian bisa menjaga hasil ini untuk lima puluh lembar?"
 
+Aji tidak langsung menjawab. Ia membuka daftar produksi dan menunjukkan jumlah kain yang sudah melewati pemeriksaan, jumlah yang masih dikerjakan, serta catatan bahan yang digunakan.
+
+"Kami tidak menganggap satu prototipe mewakili lima puluh hasil," katanya. "Karena itu setiap kain punya nomor dan catatan pemeriksaan sendiri. Kalau ada panel yang tidak cocok dengan data merchant, kain itu tidak masuk kelompok siap serah."
+
+Salah satu staf meminta melihat contoh kain yang pernah gagal. Aji menunjukkan sampel bahan transfer dari percobaan awal, termasuk catatan bahwa sudutnya terangkat setelah dilipat. Ia juga menunjukkan bahan yang akhirnya dipilih dan hasil setelah proses penerapan.
+
+Petugas itu memeriksa catatan, lalu bertanya bagaimana mereka memastikan kode yang dicetak tidak tertukar. Aji menjelaskan bahwa file disimpan dengan nama pemilik warung dan nomor pesanan. Setelah panel diterapkan, nama merchant dipindai ulang dan dicocokkan dengan daftar. Pemilik warung tetap diminta memeriksa data miliknya sendiri.
+
+"Bagus kalau begitu," kata petugas. "Jangan ada pembayaran uji tanpa persetujuan pemilik merchant. Hari ini kami hanya memeriksa keterbacaan dan kesesuaian data."
+
 "Kami tidak akan mengklaim bisa sebelum semuanya diperiksa," jawabku. "Tapi alur produksinya sudah berjalan dan jumlah bahan sesuai pesanan."
 
 Haris menatap Aji. "Kalau ada QRIS yang salah, siapa bertanggung jawab?"
@@ -35,6 +45,12 @@ Sebelum pulang, tim verifikasi menyampaikan bahwa pemeriksaan akhir akan dilakuk
 Ketika mobil mereka pergi, Aji menutup mapnya.
 
 "Setidaknya mereka tahu kita tidak sedang menebak-nebak," katanya.
+
+Aku melihat meja yang masih dipenuhi potongan kain dan label. "Mereka juga tahu kita belum selesai."
+
+"Memang belum."
+
+Aji menyimpan catatan verifikasi di tempat terpisah dari file desain. Aku kembali memeriksa lukisan yang baru selesai dikeringkan. Kunjungan itu tidak membuat pekerjaan menjadi lebih mudah, tetapi setidaknya sekarang kami tahu apa yang akan diperiksa pada tahap akhir.
 
 "Dan kita tahu masih ada banyak yang harus diperiksa."
 
