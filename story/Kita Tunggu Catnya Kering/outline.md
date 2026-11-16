@@ -125,7 +125,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 11: Makan Malam
 - **Adegan & Tokoh:** Kamis malam di warung Cak Qodim | Wiwin, Aji, Cak Qodim.
-- **Aksi:** Wiwin dan Aji makan bersama setelah mencuci tangan dengan sabun. Aji tetap memakai sendok, tetapi mulai menikmati makanan warung dan mengakui pengalaman Wiwin dalam membaca bahan. Percakapan mereka beralih dari saling merendahkan menjadi saling memahami cara kerja.
+- **Aksi:** Wiwin dan Aji makan bersama setelah mencuci tangan dengan sabun. Setelah mencuci tangan, Aji mencoba makan lele dengan tangan dan mulai menikmati makanan warung. Percakapan mereka menunjukkan bahwa ia mulai menghargai pengalaman Wiwin dalam membaca bahan. Percakapan mereka beralih dari saling merendahkan menjadi saling memahami cara kerja.
 - **Hook:** Mereka masih belum menemukan bahan transfer yang tepat.
 
 ### Bab 12: Buku Resep
