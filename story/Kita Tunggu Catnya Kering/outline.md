@@ -58,16 +58,9 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Detail Fisik & Planting-Callback:** Piring kaleng blirik hijau loreng tempat menaruh cat, linggis besi berkarat, stempel peti kayu 120 meter per jam.
 
 ### Bab 2: Kumis Lele
-- **Adegan & Tokoh:** Rabu, pukul 16.00 WIB di pelataran ruko Wiwin | Wiwin, Cak Qodim.
-- **Variasi Pembuka:** Dialog Menusuk
-- **Skenario Masuk:** "Pokoknya kumis lelenya jangan dibikin letoy kayak kemarin, Win! Warungku sepi dua malam gara-gara kumis lele lu nunduk!"
-- **Ketukan Aksi & Reaksi:**
-  1. Cak Qodim memesan spanduk baru karena kain lamanya bolong tersundut rokok pembeli, menegaskan pakem mistis kumis lele melengkung ke atas.
-  2. Aji menyeberang jalan membagikan selebaran kertas kover mengilap: promo cetak banner plastik dua jam jadi.
-  3. Wiwin menyindir selebaran Aji di depan Cak Qodim, sementara Cak Qodim menolak lele goreng yang ditawarkan Mbak Pur karena pantangan leluhur Lamongan.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Aji tersenyum dingin sambil merapikan gulungan meteran, yakin bahwa nostalgia tradisi tidak akan mampu melawan kecepatan mesin.
-- **Detail Fisik & Planting-Callback:** Mitos pantang lele warga Lamongan, selebaran kertas mengilap berbau tinta printer.
+- **Adegan & Tokoh:** Rabu, pukul 16.00 WIB di pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur.
+- **Aksi:** Cak Qodim memesan spanduk baru dan meminta kumis lele melengkung ke atas karena pantangan yang dipercaya keluarganya. Aji menyeberang membagikan selebaran promosi MMT yang selesai dalam dua jam. Wiwin menyindir bahan dan hasil cetak Aji; Cak Qodim menolak lele goreng yang ditawarkan Mbak Pur karena pantangan keluarganya.
+- **Hook:** Aji pergi dengan keyakinan bahwa kecepatan mesin akan mengalahkan tradisi lukis kain.
 
 ### Bab 3: Spanduk
 - **Adegan & Tokoh:** Kamis, pukul 19.30 WIB di depan ruko percetakan Aji | Wiwin, Aji, Bang Parlin.
@@ -83,15 +76,8 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 4: Uap Panas
 - **Adegan & Tokoh:** Jumat, pukul 21.45 WIB di warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim.
-- **Variasi Pembuka:** Reaksi Benda
-- **Skenario Masuk:** Ujung bawah spanduk plastik MMT buatan Aji mulai meliuk mengerut seperti kerupuk tersiram minyak panas tepat 30 sentimeter di atas wajan penggorengan lele.
-- **Ketukan Aksi & Reaksi:**
-  1. Cak Qodim mengamuk dan mematikan kompor mawar karena bau sangit plastik lelehan merusak aroma harum terasi sambalnya.
-  2. Aji panik berusaha menarik kain plastiknya tanpa sarung tangan hingga jarinya kepanasan terkena uap wajan.
-  3. Wiwin yang datang membawa kain lap basah menyiram ujung spanduk yang terbakar, tertawa puas di balik kepulan asap minyak jelantah.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Aji menatap jarinya yang memerah di tengah kerumunan pembeli yang kecewa, bersumpah mencari tahu mengapa kain mori Wiwin bisa tahan bertahun-tahun di atas api.
-- **Detail Fisik & Planting-Callback:** Wajan baja hitam minyak jelantah berbuih, lelehan plastik MMT berbau kimia.
+- **Aksi:** Spanduk MMT dipasang terlalu dekat dengan kompor. Hawa panas dan cipratan minyak membuat ujung vinil melengkung; bagian yang melunak menyentuh penyangga logam dan sebagian kecilnya jatuh ke wajan. Cak Qodim mematikan kompor dan membuang minyak yang terkontaminasi. Aji mengalami luka bakar ringan saat melepas spanduk, sementara Wiwin membantu menjauhkan bahan dari sumber panas tanpa menyiram air ke minyak.
+- **Hook:** Aji menyadari bahwa spesifikasi luar ruang tidak berarti bahan aman dipasang dekat kompor.
 
 ### Bab 5: Garis
 - **Adegan & Tokoh:** Sabtu, pukul 14.00 WIB di meja kerja Wiwin | Wiwin, Pak Lik Harto.
@@ -118,28 +104,14 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Detail Fisik & Planting-Callback:** Map dinas kertas kuning bertulisan cap stempel basah, bakwan jagung dingin.
 
 ### Bab 7: Kucing Belang
-- **Adegan & Tokoh:** Senin, pukul 11.00 WIB di lantai bengkel Wiwin | Wiwin, Aji.
-- **Variasi Pembuka:** Reaksi Benda
-- **Skenario Masuk:** Cap kaki berlumpur empat titik berwarna hitam mencoreng dada ayam jago kuning menyala yang baru selesai digoreskan Wiwin di atas kain mori.
-- **Ketukan Aksi & Reaksi:**
-  1. Seekor kucing liar belang tiga melompat kabur lewat ventilasi ruko saat Wiwin menjerit histeris melihat lukisan pesanan Cak Qodim rusak.
-  2. Aji yang sedang menyapu trotoar seberang bergegas masuk membawa cairan pembersih alkohol dan lap microfiber.
-  3. Dalam kepanikan membersihkan noda, siku kanan jaket kanvas Aji tanpa sengaja menyenggol palet cat oranye Wiwin hingga bernoda permanen.
-- **Bentuk Hook Penutup:** Planting Tanda Tanya
-- **Skenario Penutup:** Aji menatap noda oranye stabilo di sikunya yang tidak bisa hilang digosok air, sementara Wiwin berdiri mematung menahan napas.
-- **Detail Fisik & Planting-Callback:** Noda cat oranye stabilo di siku kanan jaket Aji, cap kaki kucing belang tiga.
+- **Adegan & Tokoh:** Senin, pukul 10.30 WIB di ruko Wiwin | Wiwin, Aji.
+- **Aksi:** Aji datang membawa map untuk membahas kemungkinan kerja sama. Seekor kucing belang tiga mengejar tikus dan menginjak lukisan lele Wiwin. Saat Wiwin menghalau kucing, kuasnya menyapu siku kanan jaket Aji dan meninggalkan noda kuning yang sulit dibersihkan.
+- **Hook:** Aji meninggalkan sketsa awal panel QRIS dan pembagian kerja, tetapi Wiwin belum memutuskan menerima tawaran itu.
 
 ### Bab 8: Proposal
-- **Adegan & Tokoh:** Selasa, pukul 17.30 WIB di ruko Wiwin | Wiwin, Aji.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Aji mendorong selembar kertas kalkir tebal berisi sketsa pembagian panel spanduk ke depan Wiwin yang sedang mencuci kuas.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji mengajukan proposal hibrida: Wiwin melukis seluruh bidang visual tradisi, sementara Aji menyisipkan panel khusus digital untuk QRIS.
-  2. Wiwin menolak dengan sinis, menganggap kehadiran Aji hanya akan merusak keaslian seni warisan pamannya.
-  3. Aji membeberkan tagihan obat asma Pak Lik Harto yang ia temukan jatuh di warkop Mbak Pur, menyentak kesadaran Wiwin akan realitas ekonomi.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Wiwin memeras kain lapnya hingga tetes air terakhir jatuh ke lantai semen, lalu mengangguk lambat menyetujui gencatan senjata mereka.
-- **Detail Fisik & Planting-Callback:** Kertas kalkir gambar teknik, struk obat apotek resep asma.
+- **Adegan & Tokoh:** Selasa, pukul 13.00 WIB di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
+- **Aksi:** Aji menjelaskan pembagian tugas: Wiwin mengerjakan ilustrasi manual, Aji menyiapkan file dan panel QRIS digital. Mereka menegosiasikan pembagian laba bersih 60 persen untuk Wiwin dan 40 persen untuk Aji setelah seluruh biaya proyek dipotong. Biaya dan risiko kegagalan prototipe harus dicatat; keduanya sepakat menguji satu contoh sebelum produksi massal. Pak Lik mengingatkan mereka agar tidak menganggap metode berhasil sebelum diuji.
+- **Hook:** Mereka menyepakati prototipe pertama dan mulai bekerja bersama dengan aturan yang jelas.
 
 ### Bab 9: Aturan Main
 - **Adegan & Tokoh:** Rabu pagi di ruko Wiwin | Wiwin, Aji.
