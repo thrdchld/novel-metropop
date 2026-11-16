@@ -7,9 +7,9 @@
 - **Bab terakhir:** Bab 32, *Bergabung*.
 - **Status:** Naskah lengkap, masih memerlukan audit integrasi dan penyelarasan dokumen pendamping.
 - **Titik waktu akhir:** Minggu menjelang siang berikutnya, beberapa hari setelah festival Selasa malam.
-- **Lokasi:** Studio Tenda Malam, ruko gabungan Wiwin dan Aji di Kalimalang.
+- **Lokasi:** Studio Tenda Malam, ruang kerja bersama di ruko Kalimalang.
 - **POV:** Dwi Winarsih (Wiwin), orang pertama.
-- **Keadaan:** Studio mulai beroperasi dengan satu pesanan baru. Hubungan Wiwin dan Aji telah berkembang menjadi hubungan personal sekaligus kemitraan kerja, tetapi usaha mereka masih tahap awal.
+- **Keadaan:** Studio mulai beroperasi dengan satu pesanan baru dari asosiasi pedagang soto Bekasi. Uang muka tercatat sebagai dana pesanan, bukan keuntungan. Hubungan Wiwin dan Aji telah berkembang menjadi hubungan personal sekaligus kemitraan kerja, tetapi usaha mereka masih tahap awal.
 
 ## II. Jangkar Waktu Akhir
 
@@ -51,7 +51,8 @@
 | Buku catatan bahan Pak Lik | Referensi percobaan cat lama; bukan formula ajaib. Dikembalikan ke tempat penyimpanannya setelah digunakan. |
 | Jaket kanvas Aji | Tetap memiliki noda kuning di siku kanan; terkena air dan karat saat badai, lalu dikeringkan. |
 | Mesin cetak digital Aji | Terkena rembesan air dan mengalami kerusakan pada komponen daya/kendali. Teknisi belum memastikan seluruh mesin tidak bisa diperbaiki; biaya dan kelayakan perbaikan masih dipertimbangkan. |
-| Mesin pres termal kecil | Dipinjam dari pemasok saat proyek festival; setelah festival Aji membeli unit bekas dari sebagian tabungan dan bagian keuntungan yang disisihkan. Tidak menggantikan printer digital besar. |
+| Mesin pres termal kecil | Dibeli Aji setelah festival dari sebagian tabungan dan bagian keuntungan yang disisihkan. Tidak menggantikan printer digital besar. |
+| Perlengkapan studio bersama | Rak dan meja tambahan yang dibeli untuk ruang kerja dicatat sebagai perlengkapan bersama; alat lama tetap menjadi aset masing-masing.
 | Kain mori | 50 spanduk awal dan 10 spanduk VIP selesai dipasang; proyek total 60 spanduk. |
 | Panel QRIS | Masing-masing spanduk memuat kode merchant warung yang bersangkutan. Kode dipindai untuk pemeriksaan; transaksi nyata terjadi saat festival. |
 
@@ -66,7 +67,7 @@
 7. Area banjir dan instalasi listrik tidak boleh disentuh sebelum sumber listrik diputus dan area dinyatakan aman.
 8. Bang Parlin dapat membantu pekerjaan mekanis umum, tetapi diagnosis mesin dilakukan teknisi.
 9. Pembagian laba bersih pesanan bersama adalah 60 persen untuk Wiwin dan 40 persen untuk Aji setelah bahan, transportasi, tenaga tambahan, biaya produksi, dan pemasangan dipotong.
-10. Studio dimiliki dan dijalankan bersama. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel pembayaran, dan vendor. Pekerjaan produksi tetap dapat dibagi sesuai kebutuhan.
+10. Studio dijalankan bersama, tetapi Bab 32 belum menetapkan kepemilikan formal badan usaha. Ruko dan alat lama tetap milik masing-masing; perlengkapan yang dibeli bersama dicatat terpisah. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel pembayaran, dan vendor. Pekerjaan produksi tetap dapat dibagi sesuai kebutuhan.
 
 ## VII. Benang Callback yang Sudah Dibayar
 
