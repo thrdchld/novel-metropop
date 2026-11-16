@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 27 (*Pengorbanan*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 28 (*Asap Tipis*)
-- **Titik Waktu Cerita:** Selasa, Pukul 06.00 WIB (Pagi Pasca-Badai)
-- **Lokasi Terkini Tokoh Utama:** Ruang tengah ruko Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Pagi basah berkabut, bau sangit tembaga gosong mainboard, langit kelabu perlahan terang
+- **Bab Terakhir Selesai:** Bab 28 (*Asap Tipis*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 29 (*Gotong Royong*)
+- **Titik Waktu Cerita:** Selasa, Pukul 11.00 WIB (Siang Menjelang Sore)
+- **Lokasi Terkini Tokoh Utama:** Jalan protokol festival kuliner kota
+- **Cuaca / Suasana Fisik:** Siang terik berdebu, riuh denting palu kerangka besi tenda, spanduk mulai dinaikkan
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Iba, terharu, dan bertekad bangkit bersama warga menyelamatkan situasi
+- **Kondisi Emosi Tokoh Utama:** Bersemangat dan terharu melihat solidaritas ratusan pedagang pasar
 
 ---
 
@@ -22,8 +22,8 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Selasa (06.00 WIB) | Memeriksa mesin cetak yang terbakar; kedatangan Mbak Pur dan warga |
-| **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan pemasangan tenda paguyuban |
+| **Hari Ini** | Selasa (11.00 WIB) | Pemasangan serentak 60 spanduk hibrida gotong royong di arena festival |
+| **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan persiapan tiang paguyuban |
 | **Dua Hari Lalu (H-2)** | Minggu | Surat dinas pemajuan jadwal festival diterima paguyuban |
 | **Tenggat / Acara Mendatang** | Malam Ini (Selasa, 19.00 WIB) | Pembukaan akbar festival kuliner kota di jalan protokol |
 
