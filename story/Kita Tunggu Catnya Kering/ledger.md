@@ -10,7 +10,7 @@
 | 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur | Cak Qodim pesan spanduk lele kumis melengkung; Aji sebar brosur cetak murah; mitos pantang lele Lamongan |
 | 3 | Kamis, 19.30 | Depan ruko percetakan Aji | Wiwin, Aji, Bang Parlin, Cak Qodim | Wiwin melabrak Aji soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
 | 4 | Jumat, 21.45 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Spanduk MMT Aji melepuh terkena uap kompor mawar; jari Aji melepuh; Cak Qodim meradang |
-| 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; serat mori merembes 0,4 mm; tes scan HP gagal |
+| 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; modul dan jarak antarkotak berubah akibat rembesan sehingga tes scan gagal |
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Aji, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Aji bimbang |
 | 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Aji | Aji bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Aji |
 | 8 | Selasa, 13.00 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Menyepakati kerja sama dan pembagian hasil; pembagian dihitung dari laba bersih setelah biaya proyek. |
