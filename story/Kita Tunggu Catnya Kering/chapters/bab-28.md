@@ -1,39 +1,63 @@
 ## Bab 28: Asap Tipis
 
-"Jangan dipaksa dicolok lagi, Mas Aji! Mainboard mesin itu sudah hangus kebakar air!"
+"Jangan dinyalakan dulu, Mas. Kita tunggu teknisinya datang."
 
-Teriakan Bang Parlin dari ambang pintu menghentikan tangan Aji yang hendak menancapkan steker listrik ke stopkontak darurat di tiang ruko.
+Bang Parlin menahan Aji yang sudah berdiri di dekat mesin cetak digital. Pagi itu, pukul enam lewat, langit Kalimalang masih kelabu. Sisa air hujan menggenang di pinggir jalan dan meninggalkan lumpur di depan ruko.
 
-Pukul enam pagi, langit di atas Kalimalang perlahan berubah kelabu pucat. Sisa-sisa air hujan semalam masih menggenang di pinggir jalan raya, meninggalkan lumpur cokelat pekat di sepanjang trotoar. Di sudut depan ruko, Aji duduk bersila di atas lantai semen yang dingin, menatap sasis mesin cetak digitalnya yang terbuka lebar. Dari kisi-kisi kipas pendingin mesin, asap tipis kelabu melayang lambat di udara, menyebarkan bau sangit logam gosong yang perih di hidung.
+Aji menarik tangannya dari kabel. Telapak yang terluka sudah dibalut kasa bersih setelah diperiksa di klinik. Dokter menyarankan agar ia tidak mengangkat beban berat selama beberapa hari. Namun sejak tadi ia terus memperhatikan mesin yang bagian bawahnya masih basah.
 
-Bang Parlin berlutut di samping mesin, memegang obeng minus untuk memeriksa jalur suplai daya. "Kabel pita putih di panel kendali sudah meleleh hitam, Mas Aji. Menyatu jadi kerak plastik kaku. Komponen cip prosesornya kena arus pendek waktu air talang tumpah semalam."
+"Kalau cuma dikeringkan, mungkin masih bisa dipakai," katanya.
 
-"Semua sirkuit logika digitalnya mati total," bisik Aji dengan suara tercekat di tenggorokan. "Mesin ini nggak bakal bisa dinyalakan lagi."
+"Justru karena belum tahu kerusakannya, jangan dicolok," jawab Bang Parlin. "Aku cuma bisa bantu urusan kabel dan rangka. Bagian dalam mesin begini harus diperiksa orang yang paham."
 
-Ia menatap kedua telapak tangannya sendiri yang kotor oleh jelaga hitam. Bahunya terkulai lemas, sorot matanya kosong menatap bangkai mesin yang selama dua tahun ini menjadi tumpuan hidup dan seluruh tabungan masa depannya. Seluruh mimpi pemuda kota itu seolah ikut menguap bersama asap tipis yang perlahan menghilang ke langit-langit ruko.
+Aji tidak membantah lagi. Ia duduk di lantai, menatap sasis mesin yang terbuka. Ada bekas air di bagian bawah dan bau hangus yang belum hilang. Mesin itu sudah dua tahun menjadi tumpuan pekerjaannya, termasuk tabungan yang ia kumpulkan setelah kehilangan pekerjaan di agensi.
 
-Aku melangkah mendekat, membawa selembar handuk katun kering dan menyampirkannya ke pundak Aji yang masih terasa lembap oleh sisa dingin semalam.
+Aku datang membawa handuk kering dan segelas teh hangat. "Tanganmu jangan dipakai dulu."
 
-"Mesin itu rusak karena kamu menyelamatkan kain-kain kita, Mas," ucapku lembut sambil berlutut di sampingnya. "Kamu mengorbankan barang paling berhargamu demi menjaga harga diri kita semua di hadapan orang dinas."
+"Aku cuma duduk."
 
-Aji menggeleng pelan dengan mata berkaca-kaca menatap sasis besi yang menghitam. "Mesin itu modal terakhirkuku setelah di-PHK dari kantor, Win. Tanpa mesin ini, aku cuma pemuda gagal yang nggak punya apa-apa lagi di Jakarta."
+"Tadi kamu hampir mencolokkan mesin."
 
-"Kamu punya kita, Mas," balasku tegas, menggenggam jemarinya yang dingin. "Kamu punya aku, Pak Lik Harto, dan seluruh pedagang paguyuban di Kalimalang ini. Mesin bisa rusak, tapi apa yang sudah kamu buktikan semalam jauh lebih berharga daripada sebongkah besi impor buatan pabrik."
+Ia menerima teh itu tanpa menjawab. Untuk pertama kalinya sejak kami bekerja bersama, Aji terlihat tidak tahu harus melakukan apa.
 
-Sebelum Aji sempat membalas, pintu lipat ruko didorong terbuka lebar dari luar hingga engselnya berderit keras.
+Menjelang pukul delapan, seorang teknisi yang dihubungi Bang Parlin tiba. Ia memeriksa mesin, membuka panel, lalu meminta kami tidak menyentuh komponen sebelum pemeriksaan selesai. Setelah beberapa saat, ia menunjukkan bagian catu daya dan papan kendali yang rusak akibat air.
 
-"Pagi-pagi kok mukanya kusut kayak cucian belum diperas!"
+"Kerusakannya cukup berat," jelas teknisi itu. "Ada beberapa komponen yang harus diganti. Saya belum bisa memastikan semua bagian masih bisa diselamatkan sebelum diuji di bengkel. Biaya perbaikannya juga belum bisa dipastikan."
 
-Mbak Pur melangkah masuk menenteng rantang susun enamel hijau dan sebuah cobek batu kecil beralas serbet kain. Aroma terasi goreng dan gurihnya kemiri langsung merebak hangat di udara pagi yang dingin, menyingkirkan bau sangit kabel terbakar dari ruangan tengah.
+"Masih mungkin hidup lagi?" tanya Aji.
 
-"Mbak Pur bawakan nasi uduk hangat sama sambal terasi ulek segar," kata Mbak Pur sambil meletakkan rantang di atas meja semen yang sudah dilap kering. "Cepat makan dulu kalian berdua! Tubuh manusia itu butuh karbohidrat dan cabai biar otaknya nggak buntu mikirin besi karatan."
+"Mungkin. Tapi jangan berharap selesai hari ini."
 
-Pak Lik Harto tersenyum dari ambang bilik, melangkah tertatih menghampiri meja sambil membawa beberapa piring seng blirik. "Betul kata Mbak Pur. Perut kosong cuma bikin pikiran gelap. Selama napas masih ada di dada, jalan rezeki nggak bakal pernah tertutup."
+Aji mengangguk pelan. Teknisi mencatat nomor komponen dan menyarankan mesin dibawa ke bengkel setelah benar-benar aman untuk dipindahkan. Tidak ada yang bisa menyimpulkan mesin itu mati total pagi itu.
 
-Aji menatap cobek batu sambal terasi itu dengan pandangan haru. Ia menyendok nasi uduk hangat ke piring sengnya, lalu mencicipi sedikit sambal merah itu dengan jemarinya. Kehangatan rempah dan kepedasan cabai segar seketika menyengat lidahnya, menghidupkan kembali binar kehidupan di matanya yang sayu.
+Aji memandangi catatan teknisi cukup lama. "Mesin ini modal terakhirku setelah kena PHK. Kalau perbaikannya mahal, aku nggak tahu harus mulai dari mana lagi."
 
-"Jam tujuh malam nanti festival resmi dibuka menteri," kata Cak Qodim yang mendadak muncul di pelataran ruko dengan celana digulung sampai lutut.
+Aku meletakkan gelas di meja. "Kita hitung dulu setelah ada perkiraan biayanya. Jangan putuskan semuanya pagi ini."
 
-Di belakang pria sesepuh itu, suara deru knalpot pikap tua terdengar meraung keras di tepi jalan Kalimalang. Belasan pemuda paguyuban pedagang tenda turun berhamburan dari bak mobil, membawa gulungan tambang tampar, kawat pengikat, dan bilah-bilah bambu panjang yang siap diangkut ke arena perhelatan akbar.
+"Pesanan kita bagaimana?"
 
-"Muat enam puluh spanduk mori itu ke bak pikap sekarang!" perintah Cak Qodim dengan suara menggelegar ke arah anak-anak buahnya. "Hari ini kita buktikan ke orang dinas, siapa penguasa malam yang sebenarnya!"
+"Yang sudah selesai tetap bisa kita serahkan. Untuk pekerjaan digital berikutnya, kita cari tempat cetak yang bisa diajak kerja sama dulu."
+
+Aji mengusap wajah dengan tangan kirinya. "Aku terbiasa menyelesaikan semuanya sendiri."
+
+"Kelihatannya itu kebiasaan yang merepotkan."
+
+Ia tertawa pendek, nyaris tidak terdengar.
+
+Pintu ruko terbuka. Mbak Pur masuk membawa rantang susun dan cobek kecil beralas serbet. Aroma nasi uduk dan sambal terasi memenuhi ruangan, bercampur dengan bau logam lembap.
+
+"Makan dulu. Mesin rusak tidak akan sembuh kalau kalian cuma ditatap," katanya.
+
+Pak Lik ikut keluar dari bilik dan membantu menata piring. Ia masih berjalan pelan setelah semalam kurang tidur, tetapi menolak duduk sebelum semua orang mendapat bagian.
+
+Cak Qodim datang tidak lama kemudian. Ia membawa kabar bahwa panitia tetap akan membuka festival malam itu. Pemasangan spanduk dijadwalkan mulai menjelang siang, dan paguyuban sudah menyiapkan beberapa orang untuk membantu.
+
+"Enam puluh kain harus dibawa ke lokasi. Kami atur kendaraan dan tenaga angkutnya," katanya. "Kalian cukup dampingi pemasangan dan cek hasilnya."
+
+Aji menatap tangannya yang masih dibalut. Ia ingin ikut mengurus semuanya, tetapi kali ini tidak bisa mengandalkan tenaganya sendiri.
+
+"Bang Parlin bisa bantu cek panel dan posisi kode," kataku. "Aku mengawasi lukisan. Aji mengatur daftar pemasangan dari ponsel, jangan angkat barang."
+
+Aji menatapku sebentar, lalu mengangguk.
+
+Pagi itu, mesin cetaknya belum punya kepastian. Setidaknya, pekerjaan yang sudah kami selesaikan masih punya jalan untuk sampai ke festival.
