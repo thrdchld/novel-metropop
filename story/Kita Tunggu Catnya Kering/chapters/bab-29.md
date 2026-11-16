@@ -20,6 +20,14 @@ Kami memasang spanduk satu per satu. Untuk setiap warung, Aji mencocokkan kode d
 
 Menjelang pukul dua siang, sebagian besar spanduk sudah membentang di sepanjang area festival. Warna hijau dan jingga hasil lukisanku terlihat jelas di bawah cahaya matahari. Panel QRIS hitam berada di sisi kanan bawah, cukup mudah dijangkau tanpa harus menarik kain.
 
+Cak Qodim bergerak dari satu tenda ke tenda lain, memastikan nomor yang terpasang sesuai dengan daftar paguyuban. Beberapa pedagang ikut memeriksa nama merchant di ponsel masing-masing. Ada yang meminta Aji mengulang pemindaian karena layar ponselnya terlalu redup, ada pula yang baru sadar nama usaha mereka masih memakai nama lama.
+
+"Kalau nama yang muncul beda, jangan langsung panik," kata Aji dari meja panitia. "Cocokkan dulu dengan data merchant yang terdaftar."
+
+Aku ikut memeriksa bagian kain yang terlipat saat dibawa. Jika ada bekas lipatan, kami merapikannya sebelum pengunjung masuk. Bang Parlin mengingatkan para pemuda agar tidak menarik kain dari panel QRIS ketika mengencangkan tali.
+
+Pekerjaan itu membuat kami bergerak lebih lambat, tetapi tidak ada yang mengeluh. Setiap orang tahu bagian yang harus dikerjakan. Untuk pertama kalinya, enam puluh spanduk itu bukan lagi sekadar tumpukan kain di ruko, melainkan bagian dari tempat usaha yang sebentar lagi akan dipenuhi pembeli.
+
 Pak Lik Harto duduk di kursi dekat tenda utama. Ia tampak lelah setelah malam tanpa tidur, tetapi masih sempat memeriksa lukisan kepala lele di spanduk Cak Qodim.
 
 "Matanya jangan terlalu dekat dengan kumis," komentarnya.
