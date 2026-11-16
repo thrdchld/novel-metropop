@@ -30,6 +30,16 @@ Ia berhenti. Aku menunggu, tidak ingin memaksanya bercerita.
 
 Aji menyesap tehnya. Ia tidak terdengar marah seperti saat membicarakan Haris di ruko. Justru suaranya datar, seolah sudah terlalu sering mengulang kejadian itu dalam kepala.
 
+"Awalnya saya pikir bisa membuktikan semuanya lewat pekerjaan berikutnya," katanya. "Saya simpan file, tangkapan layar, dan beberapa percakapan. Tapi desainnya dikerjakan dalam sistem perusahaan. Akun, kontrak, dan dokumen proyek dipegang mereka. Saya tidak punya bukti yang cukup untuk membawa masalah itu ke mana-mana."
+
+"Jadi kamu pergi begitu saja?"
+
+"Saya sempat protes. Setelah itu suasana kantor berubah. Saya diberi pekerjaan yang tidak jelas, lalu nama saya masuk daftar pengurangan pegawai."
+
+Ia mengusap sisi cangkir dengan ibu jari. "Saya tidak mendapat pesangon yang cukup untuk memulai usaha. Mesin ini saya beli dengan tabungan dan cicilan. Saya pikir kalau punya alat sendiri, setidaknya hasil kerja saya tidak bisa diambil orang lain."
+
+Aku memandang ke arah ruko seberang. Selama ini aku mengira Aji datang dengan mesin mahal dan keyakinan bahwa semua orang harus mengikuti caranya. Ternyata ia juga sedang mencoba mempertahankan sesuatu yang nyaris hilang.
+
 "Makanya kamu buka usaha sendiri?"
 
 "Awalnya begitu. Saya pikir kalau semua alat dan pekerjaan saya pegang sendiri, tidak ada orang yang bisa mengambil hasilnya begitu saja."
@@ -51,6 +61,18 @@ Aji menoleh.
 "Kadang-kadang."
 
 Aji menggeleng pelan. "Saya tidak tahu apakah itu tertinggal atau bukan. Tapi tanpa lukisanmu, proyek ini tidak akan punya bentuk seperti yang diminta paguyuban."
+
+Aku menunduk memandangi cangkir. "Kadang aku takut kalau Pak Lik tidak bisa melukis lagi, usaha ini ikut berhenti. Aku belum punya pekerjaan lain yang bisa langsung menggantikan penghasilan dari ruko."
+
+"Berarti kita sama-sama sedang bergantung pada proyek ini."
+
+"Bedanya, kamu punya mesin yang bisa disita. Aku punya kuas yang kalau rusak masih bisa beli lagi, asal ada uang."
+
+Aji tertawa pendek. "Kuasmu tidak semurah itu kalau harus membeli yang bagus."
+
+"Setidaknya tidak ada leasing yang datang menagih."
+
+Kami tertawa kecil. Tidak lama, tetapi cukup untuk mengurangi tegang yang sejak tadi terasa di antara kami.
 
 Aku menatapnya. "Kamu juga tidak akan bisa menyelesaikan QRIS hanya dengan gambar bagus."
 
