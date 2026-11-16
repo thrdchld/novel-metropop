@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 16 (*Shortcut*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 17 (*Tanah Abang*)
-- **Titik Waktu Cerita:** Kamis, Pukul 05.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Blok A Pasar Tanah Abang, Jakarta Pusat
-- **Cuaca / Suasana Fisik:** Subuh dingin berembun, hiruk pikuk bongkar muat gulungan kain
+- **Bab Terakhir Selesai:** Bab 17 (*Tanah Abang*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 18 (*Lontong Sayur*)
+- **Titik Waktu Cerita:** Kamis, Pukul 07.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Warung lontong sayur kaki lima depan stasiun, Jakarta Pusat
+- **Cuaca / Suasana Fisik:** Pagi hari riuh, uap santan mengepul di pinggir trotoar stasiun
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Bersemangat berburu 50 gulung kain mori primisima kualitas ekspor bersama Bachtiar
+- **Kondisi Emosi Tokoh Utama:** Mendengar detail rencana kotor Mitra Graha dari Bang Rahmat dan merancang serangan balik produksi bersama Bachtiar
 
 ---
 
