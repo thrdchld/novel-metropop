@@ -11,6 +11,7 @@
 | 3 | Kamis, 19.30 | Depan ruko percetakan Bachtiar | Wiwin, Bachtiar, Bang Parlin, Cak Qodim | Wiwin melabrak Bachtiar soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
 | 4 | Jumat, 21.45 | Warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim | Spanduk MMT Bachtiar melepuh terkena uap kompor mawar; jari Bachtiar melepuh; Cak Qodim meradang |
 | 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; serat mori merembes 0,4 mm; tes scan HP gagal |
+| 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Bachtiar, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Bachtiar bimbang |
 
 ## A2. Timeline Masa Lalu
 
@@ -46,6 +47,7 @@
 | 3 | Wiwin | Marah & terkejut | Sandal jepit karet | Berdebat sengit di trotoar | - | Spanduk MMT Cak Qodim siap dipasang di atas wajan |
 | 4 | Wiwin | Campur aduk (puas tapi iba) | Lap basah & gayung seng | Melihat Bachtiar tersengat kenyataan | - | Bachtiar menatap keunggulan kain mori |
 | 5 | Wiwin | Terguncang & sadar diri | Kuas liner, HP retak | Memahami batas fisik kuas manual | - | Merembesnya cat 0,4 mm menggagalkan scan QRIS |
+| 6 | Wiwin | Tergiur & bimbang | Cangkir kopi hitam | Saling menimbang gengsi vs peluang proyek | Sadar butuh uang 40 juta untuk obat Pak Lik | Tawaran proyek festival 50 spanduk menanti keputusan |
 
 ## E. Fakta Keras dan Angka
 

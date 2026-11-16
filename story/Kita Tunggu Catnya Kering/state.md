@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 5 (*Garis*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 6 (*Kabar*)
-- **Titik Waktu Cerita:** Minggu, Pukul 20.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Warkop Mbak Pur, Kalimalang
-- **Cuaca / Suasana Fisik:** Malam hari riuh, asap rokok kretek bercampur aroma kopi tubruk
+- **Bab Terakhir Selesai:** Bab 6 (*Kabar*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 7 (*Kucing Belang*)
+- **Titik Waktu Cerita:** Senin, Pukul 10.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Lantai kerja ruko seni spanduk Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Pagi menjelang siang terik, debu jalanan beterbangan, bau tiner menyengat
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Gundah memikirkan kegagalan tes scan QRIS manual, lalu terperangah mendengar pengumuman proyek festival dari Cak Qodim
+- **Kondisi Emosi Tokoh Utama:** Sibuk melukis lele pesanan baru saat Bachtiar datang menyeberang membawa lembaran kertas proposal kerja sama
 
 ---
 
