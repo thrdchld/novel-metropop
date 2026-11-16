@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 10 (*Stiker*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 11 (*Makan Malam*)
-- **Titik Waktu Cerita:** Kamis, Pukul 20.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Warung tenda pecel lele Cak Qodim, Kalimalang
-- **Cuaca / Suasana Fisik:** Malam hari hangat berangin, aroma gurih sambal ulek dan desis wajan penggorengan
+- **Bab Terakhir Selesai:** Bab 11 (*Makan Malam*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 12 (*Buku Resep*)
+- **Titik Waktu Cerita:** Jumat, Pukul 10.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Kamar belakang ruko seni spanduk Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Pagi menjelang siang hangat, cahaya temaram di sela ventilasi kayu
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Mengajak Bachtiar makan malam santai di tenda Cak Qodim untuk mencairkan frustrasi setelah eksperimen stiker vinil gagal
+- **Kondisi Emosi Tokoh Utama:** Membuka laci lemari obat Pak Lik Harto mencari buku resep pigmen tradisional warisan Pantura
 
 ---
 
