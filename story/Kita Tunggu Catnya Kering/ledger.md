@@ -35,6 +35,7 @@
 | 27 | Selasa, 02.15 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Bachtiar tahan seng talang dengan tubuhnya; Pak Lik matikan MCB; Bachtiar limbung basah kuyup |
 | 28 | Selasa, 06.00 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Mbak Pur, Bang Parlin, Pak Lik Harto, Cak Qodim | Asap tipis mesin cetak gosong; Mbak Pur bawakan sambal terasi; Cak Qodim kerahkan pemuda paguyuban |
 | 29 | Selasa, 11.00 | Jalan protokol festival kota | Wiwin, Bachtiar, Cak Qodim, Bang Parlin, Pak Lik Harto | Gotong royong pasang 60 spanduk hibrida; Pak Lik sentuh kepala lele mori; Pak Haris tertegun |
+| 30 | Selasa, 19.00 | Arena utama festival kuliner | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto, Menteri, Pak Haris | Pembukaan festival; 60 spanduk hibrida menyala neon; menteri sukses scan QRIS 0,2 detik |
 
 ## A2. Timeline Masa Lalu
 
@@ -94,6 +95,7 @@
 | 27 | Wiwin | Terharu & pilu | Senter kepala Pak Lik, jaket kanvas dingin | Wiwin memeluk Bachtiar yang limbung; ikatan batin terkunci | - | Mesin cetak digital Bachtiar mati total terendam air |
 | 28 | Wiwin | Berempati & bangkit berani | Cobek batu sambal terasi, handuk katun | Meneguhkan Bachtiar yang terpukul; bersiap gotong royong | - | Memasang 60 spanduk sebelum pembukaan festival malam ini |
 | 29 | Wiwin | Bangga & terharu | Tali tambang, botol air mineral | Bersama seluruh komunitas jalanan mengibarkan 60 spanduk | - | Pembukaan akbar festival kuliner nanti malam |
+| 30 | Wiwin | Sangat bahagia & bangga | Spanduk mori nomor satu, lampu blitz kamera | Bachtiar menyentuh jemari Wiwin di depan panggung menteri | - | Pesta perayaan malam festival kuliner |
 
 ## E. Fakta Keras dan Angka
 

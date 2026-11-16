@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 29 (*Gotong Royong*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 30 (*Hari Pembuktian*)
-- **Titik Waktu Cerita:** Selasa, Pukul 18.30 WIB (Malam Pembukaan)
-- **Lokasi Terkini Tokoh Utama:** Arena utama festival kuliner nusantara, jalan protokol kota
-- **Cuaca / Suasana Fisik:** Malam cerah bertabur bintang, pendaran lampu bohlam tenda berpadu pigmen neon
+- **Bab Terakhir Selesai:** Bab 30 (*Hari Pembuktian*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 31 (*Lampu Kota*)
+- **Titik Waktu Cerita:** Selasa, Pukul 21.00 WIB (Puncak Festival)
+- **Lokasi Terkini Tokoh Utama:** Tenda pecel lele Cak Qodim, arena festival kuliner kota
+- **Cuaca / Suasana Fisik:** Malam semarak lampu kota, hiruk pikuk ribuan pengunjung memadati tenda
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Penuh haru dan antusiasme menanti peresmian menteri dan arus pengunjung
+- **Kondisi Emosi Tokoh Utama:** Hangat, bersyukur, dan menikmati perayaan kemenangan di atas piring blirik
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Selasa (18.30 WIB) | Malam pembukaan akbar festival kuliner; 60 spanduk hibrida menyala |
+| **Hari Ini** | Selasa (21.00 WIB) | Perayaan puncak festival di tenda Cak Qodim; makan lele piring blirik |
 | **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan persiapan tiang paguyuban |
 | **Dua Hari Lalu (H-2)** | Minggu | Surat dinas pemajuan jadwal festival diterima paguyuban |
-| **Tenggat / Acara Mendatang** | Malam Ini (19.00 WIB) | Seremonial pemotongan pita oleh Menteri dan pemindaian perdana |
+| **Tenggat / Acara Mendatang** | Pekan Depan | Peleburan resmi dua ruko menjadi Studio Tenda Malam |
 
 ---
 
