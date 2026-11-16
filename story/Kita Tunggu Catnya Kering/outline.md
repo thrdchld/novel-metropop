@@ -102,7 +102,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
   2. Pak Lik Harto memperingatkan bahwa serat kain mori punya pori-pori hidup yang akan menyedot cairan cat ke segala arah.
   3. Wiwin menguji scan kode QR itu dengan HP jadulnya; aplikasi perbankan terus menampilkan pesan eror merah: "Kode QR Tidak Valid".
 - **Bentuk Hook Penutup:** Planting Tanda Tanya
-- **Skenario Penutup:** Di layar HP Wiwin, garis hitam kuas yang meluber 0,4 milimeter menjadi tembok tebal yang memisahkan karyanya dari masa depan.
+- **Skenario Penutup:** Di layar HP Wiwin, modul-modul kode yang berubah bentuk akibat rembesan cat membuat kode gagal dibaca, menunjukkan batas metode kuas untuk detail QRIS.
 - **Detail Fisik & Planting-Callback:** Kuas liner nomor satu bulu musang, pesan eror merah layar ponsel retak.
 
 ### Bab 6: Kabar
