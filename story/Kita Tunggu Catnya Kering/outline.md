@@ -225,10 +225,10 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 31: Lampu Kota
 - **Adegan & Tokoh:** Selasa, pukul 21.00 di tenda Cak Qodim | Wiwin, Aji, Pak Lik Harto, Cak Qodim, Mbak Pur, Bang Parlin.
-- **Aksi:** Mereka makan bersama. Piring seng blirik yang dahulu dipakai untuk cat kini menjadi piring makan. Wiwin dan Aji membicarakan kemungkinan bekerja bersama setelah festival, tetapi sepakat menghitungnya dengan tenang.
+- **Aksi:** Mereka makan bersama. Piring seng blirik yang dahulu dipakai untuk cat kini menjadi piring makan. Wiwin dan Aji membicarakan kemungkinan bekerja bersama setelah festival. Aji juga mengakui bahwa perlakuan Haris masih meninggalkan rasa tidak enak, tetapi ia tidak lagi menunggu pengakuan mantan atasannya untuk mengakui nilai pekerjaannya sendiri.
 - **Hook:** Mereka mulai membayangkan masa depan bersama tanpa menganggap semua masalah telah selesai.
 
 ### Bab 32: Bergabung
 - **Adegan & Tokoh:** Minggu menjelang siang berikutnya di ruko Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim.
-- **Aksi:** Wiwin dan Aji mulai menjalankan Studio Tenda Malam bersama. Mereka menyepakati pembagian peran, pencatatan biaya, dan pembagian laba bersih 60 persen untuk Wiwin serta 40 persen untuk Aji setelah biaya dipotong. Bab ini tidak menetapkan kepemilikan formal badan usaha; ruko dan alat lama tetap menjadi aset masing-masing, sedangkan perlengkapan yang dibeli bersama dicatat terpisah. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
+- **Aksi:** Wiwin dan Aji mulai menjalankan Studio Tenda Malam bersama. Kesepakatan laba bersih 60:40 yang pertama kali dinegosiasikan untuk proyek festival menjadi patokan awal studio setelah seluruh biaya dipotong; mereka sepakat meninjaunya kembali jika jenis pesanan atau beban kerja berubah. Mereka membagi peran dan mencatat biaya. Bab ini tidak menetapkan kepemilikan formal badan usaha; ruko dan alat lama tetap menjadi aset masing-masing, sedangkan perlengkapan yang dibeli bersama dicatat terpisah. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
 - **Penutup:** Aji mencoba menarik garis dengan kuas. Wiwin membimbingnya dan mengucapkan kalimat judul saat mereka menunggu cat pertama mengering.
