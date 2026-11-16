@@ -25,6 +25,7 @@
 | 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Bachtiar, Koh Acong, Bang Rahmat | Borong 50 gulung mori primisima katun; Bang Rahmat kabarkan lobi gelap Pak Haris dan Mitra Graha |
 | 18 | Kamis, 07.30 | Warung lontong sayur stasiun | Wiwin, Bachtiar, Bang Rahmat | Bang Rahmat bocorkan inspeksi mendadak dinas besok pagi; Wiwin susun rencana gerilya 50 kain maraton |
 | 19 | Kamis, 23.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto | Produksi maraton gerilya malam; tiner tumpah diserap serbuk kayu; Cak Qodim bawakan nasi uduk; 25 kain berkibar |
+| 20 | Jumat, 04.30 | Bengkel tambal ban Bang Parlin | Wiwin, Bachtiar, Bang Parlin | Rakit blower panas kompresor; 10 kain terakhir kering tepat waktu; iring-iringan dinas tiba |
 
 ## A2. Timeline Masa Lalu
 
@@ -74,6 +75,7 @@
 | 17 | Wiwin | Bersemangat lalu cemas | 50 gulung kain mori cap Garuda | Kompak bernegosiasi belanja bahan baku | - | Lobi kotor Mitra Graha mengancam proyek paguyuban |
 | 18 | Wiwin | Tenang & taktis | Kerupuk merah Padang, sendok bebek | Memimpin strategi perang gerilya produksi kain | - | Target membentangkan 50 kain sebelum inspeksi besok pagi |
 | 19 | Wiwin | Berpeluh & penuh daya juang | Kuas, rakel sablon, serbuk gergaji | Solidaritas tempur gotong royong | - | Menuntaskan 25 kain tersisa sebelum inspeksi subuh |
+| 20 | Wiwin | Tegang lalu lega | Corong seng kompresor, kain mori ke-50 | Bersatu padu dengan tetangga bengkel | - | Menghadapi inspeksi mendadak mobil dinas Pak Haris |
 
 ## E. Fakta Keras dan Angka
 

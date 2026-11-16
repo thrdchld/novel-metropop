@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 19 (*Sablon*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 20 (*Kompresor*)
-- **Titik Waktu Cerita:** Jumat, Pukul 04.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Pelataran depan bengkel tambal ban Bang Parlin, Kalimalang
-- **Cuaca / Suasana Fisik:** Subuh berkabut dingin, deru kompresor tambal ban membelah hening
+- **Bab Terakhir Selesai:** Bab 20 (*Kompresor*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 21 (*Tes Scan*)
+- **Titik Waktu Cerita:** Jumat, Pukul 06.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Pelataran depan ruko Wiwin & bengkel Bang Parlin, Kalimalang
+- **Cuaca / Suasana Fisik:** Pagi cerah, matahari merah Cawang mulai menghangatkan deretan 50 spanduk
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Panik berkejaran dengan waktu mengeringkan 10 kain terakhir sebelum inspeksi dinas jam sembilan pagi
+- **Kondisi Emosi Tokoh Utama:** Tegang dan waspada menghadapi kedatangan mendadak sedan dinas Pak Haris
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Selasa (04.30 WIB) | Wiwin membentang kain mori subuh; ruko seberang menurunkan mesin cetak digital |
-| **Kemarin (H-1)** | Senin | Wiwin menyelesaikan pesanan spanduk warung soto Cipinang |
-| **Dua Hari Lalu (H-2)** | Minggu | Pak Lik Harto kambuh batuk asmanya karena cuaca berdebu |
-| **Tenggat / Acara Mendatang** | Pekan Depan | Batas waktu pengumuman proyek standarisasi festival kuliner kota |
+| **Hari Ini** | Jumat (06.30 WIB) | Mobil dinas Pak Haris tiba mendadak untuk inspeksi 50 spanduk |
+| **Kemarin (H-1)** | Kamis | Belanja mori ke Tanah Abang dan gerilya sablon malam |
+| **Dua Hari Lalu (H-2)** | Rabu | Curhat di tangga ruko lantai dua soal masa lalu PHK |
+| **Tenggat / Acara Mendatang** | Pagi Ini (09.00 WIB) | Jadwal resmi awal inspeksi verifikasi spanduk hibrida dinas |
 
 ---
 
