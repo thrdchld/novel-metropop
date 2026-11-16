@@ -46,7 +46,9 @@ Aku mengangkat alis. "Kamu mulai mengerti cara kerja kain."
 
 Aji tertawa pendek. Ia menuliskan hasil pengamatan tanpa mengklaim bahwa salah satu campuran sudah sempurna. Untuk pertama kalinya, angka-angka di bukunya tidak terasa seperti cara untuk mengalahkan pengalamanku. Catatan itu justru membantu kami mengingat apa yang sudah dicoba.
 
-Menjelang sore, kami menyimpan sampel di rak terpisah. Tidak ada formula ajaib yang ditemukan hari itu. Hanya dua hasil yang perlu diperbaiki dan satu bahan pembanding yang masih layak digunakan.
+Menjelang sore, kami menyimpan sampel di rak terpisah. Aku memberi label tanggal dan jenis kain pada setiap potongan, sementara Aji memindahkan catatannya ke map agar tidak terkena cipratan air. Kami sepakat membiarkan sampel itu berada di rak sampai pemeriksaan berikutnya, bukan langsung menggunakannya untuk pesanan.
+
+Tidak ada formula ajaib yang ditemukan hari itu. Hanya dua hasil yang perlu diperbaiki dan satu bahan pembanding yang masih layak digunakan.
 
 "Besok kita lanjutkan," kata Aji.
 
