@@ -195,7 +195,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 25: Kerja Rodi
 - **Adegan & Tokoh:** Senin malam di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
-- **Aksi:** Wiwin menyelesaikan lukisan sepuluh spanduk VIP; Aji memasang panel QRIS yang sudah dicocokkan dengan daftar merchant. Aji memakai sarung tangan tahan panas saat mengoperasikan mesin pres; cedera tangannya baru terjadi saat badai pada Bab 27. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
+- **Aksi:** Wiwin menyelesaikan lukisan sepuluh spanduk VIP; Aji memasang panel QRIS yang sudah dicocokkan dengan daftar merchant. Kain tambahan 32 meter tiba setelah perubahan pesanan disetujui. Aji memakai mesin pres termal pinjaman pemasok dan sarung tangan tahan panas; cedera tangannya baru terjadi saat badai pada Bab 27. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
 - **Hook:** Petir dan angin kencang menandai datangnya badai.
 
 ### Bab 26: Talang
@@ -230,5 +230,5 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 32: Bergabung
 - **Adegan & Tokoh:** Minggu menjelang siang berikutnya di ruko Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim.
-- **Aksi:** Wiwin dan Aji membuka Studio Tenda Malam. Mereka menyepakati kepemilikan, pembagian peran, pencatatan biaya, dan pembagian laba bersih. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
+- **Aksi:** Wiwin dan Aji membuka Studio Tenda Malam. Mereka menyepakati kepemilikan, pembagian peran, pencatatan biaya, dan pembagian laba bersih 60 persen untuk Wiwin serta 40 persen untuk Aji setelah biaya dipotong. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
 - **Penutup:** Aji mencoba menarik garis dengan kuas. Wiwin membimbingnya dan mengucapkan kalimat judul saat mereka menunggu cat pertama mengering.
