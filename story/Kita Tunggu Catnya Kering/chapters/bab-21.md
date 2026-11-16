@@ -1,49 +1,41 @@
 ## Bab 21: Tes Scan
 
-"Buka gerbangnya sekarang juga!"
+Pukul sembilan pagi, dua mobil minibus berhenti di depan ruko. Empat staf dinas turun membawa map dan tablet. Pak Haris datang bersama mereka, tetapi kali ini ia tidak mengenakan pin atau atribut yang membuatnya tampak seperti pejabat.
 
-Suara pintu sedan dinas yang terbanting keras memecah keheningan pagi di pinggir Kalimalang. Pak Haris melangkah keluar dengan sepatu kulit hitam bersemir mengilat, disusul empat staf muda berseragam dinas cokelat khaki yang menenteng map jepit dan papan jalan akrilik. Kacamata berbingkai emas Pak Haris bertengger angkuh di batang hidungnya, menatap kami bertiga yang masih berlumuran debu semen dan noda cat hitam di pelataran ruko.
+Aji menyambut rombongan di depan meja. "Selamat pagi. Ini prototipe dan catatan proses produksi kami."
 
-Di belakangku, Aji berdiri tegak sambil menyilangkan kedua tangannya di dada. Bang Parlin tetap memegang kunci pas ukuran sembilan belas, sementara Cak Qodim yang baru saja tiba menuntun sepeda ontelnya menepi di dekat wajan martabak.
+Salah satu staf memperkenalkan diri sebagai anggota tim verifikasi teknis. Ia menjelaskan bahwa kunjungan tersebut bertujuan memeriksa kesiapan produksi, bukan menerima hasil akhir.
 
-"Jadwal resmi verifikasi teknis tercatat pukul sembilan pagi, Pak Haris," kata Aji tenang, suaranya mantap tanpa nada gentar. "Anda datang dua jam lebih awal dari undangan resmi yang Anda tanda tangani sendiri."
+Aku menarik seutas tali untuk membuka kain prototipe yang sudah dibentangkan. Ilustrasi lele dan panel QRIS terlihat jelas di bawah cahaya pagi.
 
-Pak Haris mendengus pendek sambil melambaikan tangan kanannya dengan gerakan meremehkan. "Dinas tidak bekerja menurut kenyamanan pedagang kaki lima, Aji. Kami punya agenda peresmian lapangan siang ini. Kalau barang belum siap, tanda tangani surat pembatalan sekarang biar kuota lima puluh tenda dialihkan ke Percetakan Mitra Graha."
+Petugas meminta daftar lima puluh merchant. Aji menyerahkan map berisi salinan file QRIS dan nomor kain yang direncanakan untuk masing-masing pedagang.
 
-"Siapa bilang barang kami belum siap?" potongku dingin sambil melangkah maju ke garis batas ruko.
+"Setiap warung memakai QRIS miliknya sendiri," jelas Aji. "Kami tidak mengubah data merchant. Kami hanya menerapkan gambar kode dari file resmi yang diberikan pemiliknya."
 
-Aku menarik seutas tali tambang di dekat kusen pintu. Seketika itu juga, lima puluh lembar kain mori primisima yang tergantung berjajar di bawah kanopi pelataran tersibak rapi tertiup semilir angin pagi. Warna jingga dan hijau stabilo berpendar garang di bawah sinar matahari Cawang, menampilkan sosok lele Lamongan, bebek goreng, dan burung dara bakar dengan garis lukisan tangan yang gagah. Di sudut kanan bawah setiap kain, panel persegi sablon berukuran dua puluh sentimeter memuat matriks kode QRIS hitam legam yang berdiri kontras di atas serat putih katun.
+Petugas mengambil ponsel dan memindai kode pada prototipe. Layar menampilkan nama merchant yang sesuai dengan dokumen. Ia tidak melanjutkan ke pembayaran.
 
-Mata Pak Haris menyipit tajam. Wajah congkaknya sempat menegang sesaat melihat deretan kain yang berkibar kokoh tanpa ada satu pun yang melengkung rusak.
+"Ini baru memastikan kode dapat dibaca dan datanya cocok," katanya. "Pengujian transaksi dilakukan oleh pemilik merchant masing-masing, bukan dengan memproses pembayaran uji tanpa izin."
 
-"Visual cat kuas memang tampak mencolok," ucap Pak Haris dengan senyum sinis yang dipaksakan. "Tapi dinas tidak menilai keindahan gambar hewan. Syarat utama pencairan proyek adalah keterbacaan data digital. Periksa semuanya sekarang!"
+Aku mengangguk. "Kami juga akan memeriksa semua panel setelah terpasang dan kering."
 
-Empat staf muda dinas langsung bergerak maju membawa berbagai jenis telepon pintar keluaran terbaru. Mereka berdiri berjarak satu setengah meter di depan rentangan kain mori, mengarahkan lensa kamera ke sudut panel sablon damar.
+Petugas lain memeriksa bahan, rak pengering, catatan waktu, dan pembagian tugas. Ia meminta kami menunjukkan bagaimana kain yang gagal akan dipisahkan dari kain yang siap. Aji memperlihatkan label status dan buku pemeriksaan.
 
-BEEP! BEEP! BEEP!
+Pak Haris mengangkat salah satu sudut prototipe. "Kalian bisa menjaga hasil ini untuk lima puluh lembar?"
 
-Bunyi notifikasi aplikasi perbankan digital bersahut-sahutan di udara pagi. Hanya dalam hitungan detik, layar ponsel para petugas menampilkan logo resmi Bank Indonesia dan nama rekening paguyuban: Paguyuban Tenda Malam Kalimalang Sejahtera.
+"Kami tidak akan mengklaim bisa sebelum semuanya diperiksa," jawabku. "Tapi alur produksinya sudah berjalan dan jumlah bahan sesuai pesanan."
 
-Kain pertama lolos. Kain kedua belas terbaca instan. Kain ketiga puluh delapan terpindai mulus tanpa jeda nol koma lima detik.
+Haris menatap Aji. "Kalau ada QRIS yang salah, siapa bertanggung jawab?"
 
-Keringat dingin mulai tampak membasahi pelipis Pak Haris di balik kacamata emasnya. Ia melangkah gusar menghampiri kain nomor lima puluh, lembar terakhir yang dua jam lalu kami keringkan memakai blower knalpot kompresor Bang Parlin.
+"Kami cocokkan dengan daftar merchant sebelum dicetak dan setelah dipasang. Paguyuban juga memeriksa nama yang tampil. Kalau ada ketidaksesuaian, panel tidak kami serahkan."
 
-"Ponsel kantor punya sensor pemindai berspesifikasi tinggi," sergah Pak Haris ketus sambil merebut ponsel dari tangan bawahannya. "Bagaimana kalau pembelinya orang kampung yang cuma pakai ponsel murah dengan kamera buram?"
+Petugas mencatat jawaban itu. Ia tidak memberi pujian, hanya meminta salinan catatan pengujian untuk laporan panitia.
 
-"Coba pakai HP saya kalau memang pejabat kurang kerjaan!"
+Sebelum pulang, tim verifikasi menyampaikan bahwa pemeriksaan akhir akan dilakukan setelah lima puluh spanduk selesai. Jadwal itu masih sesuai dengan masa produksi dua minggu yang telah disepakati.
 
-Suara lantang Mbak Pur memecah ketegangan. Pemilik warkop itu berjalan melenggang dari seberang gang sambil mengacungkan sebuah ponsel berlayar retak seribu dengan casing silikon yang sudah menguning.
+Ketika mobil mereka pergi, Aji menutup mapnya.
 
-"Kamera HP saya cuma delapan megapiksel, layarnya pecah kena jatuhan ulekan cabai," tambah Mbak Pur sambil menyodorkan ponselnya ke depan wajah Pak Haris. "Kalau sampai HP saya gagal bayar lele Cak Qodim, baru Anda boleh ngoceh soal standar mutu!"
+"Setidaknya mereka tahu kita tidak sedang menebak-nebak," katanya.
 
-Warga gang dan para sopir ojek pangkalan yang berkerumun mulai terkekeh geli. Pak Haris terpojok oleh tatapan puluhan pasang mata pedagang pasar. Dengan tangan yang sedikit gemetar menahan malu, ia menyalakan aplikasi dompet digital di ponsel butut milik Mbak Pur, lalu mengarahkannya ke kode QRIS di kain nomor lima puluh.
+"Dan kita tahu masih ada banyak yang harus diperiksa."
 
-Semua orang menahan napas. Suasana pelataran mendadak hening tanpa suara desah angin sekalipun.
-
-Satu detik. Dua detik.
-
-BEEP!
-
-Layar retak seribu itu seketika memunculkan tanda centang hijau besar bertuliskan transaksi siap diproses.
-
-Sorak sorai membahana dari mulut Bang Parlin, Mbak Pur, dan Cak Qodim. Aji menoleh ke arahku, lalu tersenyum tipis dengan binar mata yang mengunci tatapanku dalam-dalam di bawah naungan kain mori yang berkibar.
+Ia mengangguk. Kami kembali bekerja, kali ini dengan daftar pemeriksaan yang lebih jelas.
