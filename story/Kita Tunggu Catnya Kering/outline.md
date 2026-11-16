@@ -265,7 +265,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 25: Kerja Rodi
 - **Adegan & Tokoh:** Senin malam di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
-- **Aksi:** Wiwin menyelesaikan lukisan sepuluh spanduk VIP; Aji memasang panel QRIS yang sudah dicocokkan dengan daftar merchant. Tangan Aji masih dibalut dan ia membatasi penggunaan tangan yang terluka. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
+- **Aksi:** Wiwin menyelesaikan lukisan sepuluh spanduk VIP; Aji memasang panel QRIS yang sudah dicocokkan dengan daftar merchant. Aji memakai sarung tangan tahan panas saat mengoperasikan mesin pres; cedera tangannya baru terjadi saat badai pada Bab 27. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
 - **Hook:** Petir dan angin kencang menandai datangnya badai.
 
 ### Bab 26: Talang
