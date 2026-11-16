@@ -1706,7 +1706,7 @@ Pak Lik duduk di kursi rotan dekat pintu. Kondisinya sudah lebih baik setelah be
 
 "Benar, Cak," jawabku. "Tapi kami mulai kecil dulu."
 
-Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis pembagian pekerjaan dan modal awal. Kami sepakat memiliki studio ini bersama dengan porsi yang sama. Aku memasukkan peralatan lukis dan menangani ilustrasi, pemilihan kain, serta pemeriksaan hasil manual. Aji menangani desain digital, pengolahan file, panel QRIS, dan kerja sama dengan percetakan luar selama mesin lamanya belum jelas nasibnya.
+Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis pembagian pekerjaan dan modal awal. Kami sepakat menjalankan studio ini bersama. Untuk setiap pesanan, pembagian laba bersih tetap mengikuti kesepakatan 60:40 setelah biaya bahan, produksi, transportasi, tenaga tambahan, dan pemasangan dipotong. Peralatan yang sudah dimiliki masing-masing tetap menjadi aset pemiliknya. Aku menangani ilustrasi, pemilihan kain, serta pemeriksaan hasil manual. Aji menangani desain digital, pengolahan file, panel QRIS, dan kerja sama dengan percetakan luar selama mesin lamanya belum jelas nasibnya.
 
 Untuk pesanan bersama, semua biaya bahan, ongkos produksi, transportasi, dan tenaga tambahan akan dicatat lebih dulu. Keuntungan bersih dibagi sesuai kesepakatan. Kami juga menyisihkan sebagian pemasukan untuk perawatan alat dan kebutuhan studio.
 
