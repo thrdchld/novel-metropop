@@ -94,7 +94,17 @@ Setelah makan beberapa suap, pembicaraan kami beralih ke pekerjaan. Aji bercerit
 
 Aji mengangguk. "Berarti jadwal prototipe belum bisa kita pastikan."
 
-"Lebih baik mundur sehari daripada mengirim sesuatu yang belum teruji."
+Aku melirik Cak Qodim yang sedang mengangkat wajan dari tungku. "Target awalnya tiga hari. Jelas kita tidak bisa memenuhi itu. Besok aku akan bilang terus terang, lalu minta waktu sampai Minggu untuk menunjukkan prototipe yang sudah diuji."
+
+Aji mengangguk. "Jangan menjanjikan hasil yang belum kita pegang."
+
+Cak Qodim rupanya mendengar pembicaraan kami. Ia meletakkan wajan, lalu mendekat. "Kalau memang perlu tambahan waktu, bilang saja. Saya lebih suka kalian datang membawa hasil yang bisa diperiksa daripada memaksakan sesuatu besok. Minggu kita lihat lagi perkembangannya. Tapi ingat, itu jadwal untuk melihat prototipe, bukan berarti otomatis disetujui."
+
+"Iya, Cak," jawabku. "Kami tetap perlu memastikan bahannya dan hasil QRIS-nya." 
+
+"Bagus. Jangan sampai pedagang yang nanti repot kalau ada masalah."
+
+Ia kembali ke tungku. Aku menatap Aji. Setidaknya, kami tidak perlu berpura-pura bahwa target tiga hari masih bisa dikejar.
 
 Ia memandangku sebentar. "Sekarang aku paham kenapa kamu menyimpan potongan kain untuk setiap percobaan."
 
