@@ -18,7 +18,7 @@ Aji makan pelan-pelan dengan tangan kiri. Tangan kanannya masih dibalut dan ia b
 
 "Bagus. Sekali-sekali kamu tahu rasanya."
 
-Setelah makan, kami keluar dari tenda. Aji berdiri di sampingku, memandangi spanduk yang bergerak pelan tertiup angin malam. Jaket kanvas abu-abunya masih bernoda kuning di siku kanan. Kacamata lamanya rusak saat badai, jadi ia memakai kacamata pengganti yang dibelikan setelah memeriksakan matanya.
+Setelah makan, kami keluar dari tenda. Aji berdiri di sampingku, memandangi spanduk yang bergerak pelan tertiup angin malam. Jaket kanvas abu-abunya masih bernoda kuning di siku kanan.
 
 "Mesin cetakku belum tentu bisa diperbaiki," katanya.
 
