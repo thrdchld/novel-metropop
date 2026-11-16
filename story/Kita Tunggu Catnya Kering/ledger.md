@@ -12,6 +12,7 @@
 | 4 | Jumat, 21.45 | Warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim | Spanduk MMT Bachtiar melepuh terkena uap kompor mawar; jari Bachtiar melepuh; Cak Qodim meradang |
 | 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; serat mori merembes 0,4 mm; tes scan HP gagal |
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Bachtiar, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Bachtiar bimbang |
+| 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Bachtiar | Bachtiar bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Bachtiar |
 
 ## A2. Timeline Masa Lalu
 
@@ -48,6 +49,7 @@
 | 4 | Wiwin | Campur aduk (puas tapi iba) | Lap basah & gayung seng | Melihat Bachtiar tersengat kenyataan | - | Bachtiar menatap keunggulan kain mori |
 | 5 | Wiwin | Terguncang & sadar diri | Kuas liner, HP retak | Memahami batas fisik kuas manual | - | Merembesnya cat 0,4 mm menggagalkan scan QRIS |
 | 6 | Wiwin | Tergiur & bimbang | Cangkir kopi hitam | Saling menimbang gengsi vs peluang proyek | Sadar butuh uang 40 juta untuk obat Pak Lik | Tawaran proyek festival 50 spanduk menanti keputusan |
+| 7 | Wiwin | Syok & serba salah | Kuas pipih cat kuning | Masuk ke pusaran kerja sama yang kacau | - | Kain mori lele rusak dan jaket Bachtiar bernoda permanen |
 
 ## E. Fakta Keras dan Angka
 
@@ -66,4 +68,4 @@
 |---|---|---|---|---|
 | Piring blirik hijau wadah cat | Bab 1 | Bab 13 | Bab 31 | Dari wadah cat jadi penyaji lele kemenangan |
 | Mitos pantang lele Lamongan | Bab 2 (rencana) | Bab 11 | Bab 29 | Prinsip harga diri keluarga perantau |
-| Noda cat kuning di siku jaket | Bab 7 (rencana) | Bab 20 | Bab 32 | Simbol abadi menyatunya dua dunia |
+| Noda cat kuning di siku jaket | Bab 7 | Bab 20 | Bab 32 | Simbol abadi menyatunya dua dunia |
