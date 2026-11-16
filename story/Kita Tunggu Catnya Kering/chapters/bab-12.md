@@ -10,9 +10,9 @@ Aku mengangkat buku itu dengan kedua tangan. "Ini buku resep yang dulu sering Li
 
 Aji berdiri di ambang pintu, menunggu dipersilakan masuk. Setelah Pak Lik mengangguk, ia mendekat dan membuka halaman yang sudah ditandai selembar kertas.
 
-Tulisan tangan Pak Lik memenuhi hampir seluruh halaman. Ada catatan tentang pigmen, minyak pengering, getah damar, dan beberapa jenis bahan pengikat yang dulu dipakai untuk melukis kain spanduk.
+Tulisan tangan Pak Lik memenuhi hampir seluruh halaman. Ada catatan tentang pigmen, minyak pengering, getah damar, dan beberapa jenis bahan pengikat yang dulu dipakai untuk melukis kain spanduk. Di bagian pinggir, beberapa baris diberi tanda silang. Ada pula tulisan kecil yang hampir pudar: terlalu kaku setelah kering, retak saat dilipat, warna berubah setelah kena hujan.
 
-Aji membaca salah satu baris. "Damar dicampur pelarut dan pigmen. Ini dipakai untuk cat kain?"
+Aji membaca salah satu baris. "Damar dicampur bahan pengikat dan minyak pengering. Ini dipakai untuk cat kain?"
 
 "Dulu pernah," jawab Pak Lik. "Tapi jangan langsung ditiru. Bahan yang tersedia sekarang berbeda. Kainnya juga belum tentu sama."
 
@@ -34,16 +34,24 @@ Aku mengambil toples kaca dari rak bawah. Di dalamnya tersimpan sisa bongkahan d
 
 Aji memeriksa label lama pada toples. "Kita perlu cari informasi komposisi dan bahan pelarut yang aman. Kalau tidak cocok, kita tinggalkan."
 
-Aku membuka halaman lain. Beberapa catatan menyebutkan hasil pengujian setelah kain dilipat dan dicuci. Tidak ada angka yang pasti, hanya tanda silang, lingkaran, dan komentar singkat.
+Aku membuka halaman lain. Beberapa catatan menyebutkan hasil pengujian setelah kain dilipat dan dicuci. Tidak ada angka yang pasti, hanya tanda silang, lingkaran, dan komentar singkat. Di salah satu halaman, Pak Lik menulis bahwa warna hijau yang terlihat bagus saat basah justru menjadi kusam setelah kering.
 
 "Lik dulu rajin juga mencatat," kataku.
 
 "Kalau tidak dicatat, besok lupa. Kalau gagal, setidaknya tahu jangan mengulang kesalahan yang sama."
 
+Aku mengusap tepi halaman yang mulai terlepas. Tulisan itu mengingatkanku pada masa kecil ketika Pak Lik masih sering membawa pulang kain percobaan. Dulu aku mengira semua spanduk yang ia buat selalu berhasil. Ternyata ia juga pernah menghabiskan bahan hanya untuk menemukan campuran yang tepat.
+
 Aji menutup buku dengan hati-hati. "Boleh saya foto beberapa halaman untuk dipelajari?"
 
 Pak Lik mengangguk. "Boleh. Setelah itu kembalikan ke lemari. Itu milik keluarga, bukan buku pinjaman."
 
-Aku menyimpan kembali toples damar dan menaruh buku di atas meja. Untuk pertama kalinya, catatan lama itu terasa bukan seperti resep ajaib yang akan menyelesaikan masalah kami, melainkan jejak pekerjaan seseorang yang pernah mencoba, gagal, lalu mencoba lagi.
+Aku menyimpan kembali toples damar dan menaruh buku di atas meja. "Kita tidak harus memakai semua catatan ini, kan?"
+
+"Tidak," jawab Aji. "Kita pilih yang masih masuk akal, lalu uji satu per satu."
+
+Pak Lik tersenyum kecil. "Itu yang seharusnya kalian lakukan sejak awal."
+
+Aku mengembalikan buku ke lemari setelah Aji selesai memotret halaman yang diperlukan. Untuk pertama kalinya, catatan lama itu terasa bukan seperti resep ajaib yang akan menyelesaikan masalah kami, melainkan jejak pekerjaan seseorang yang pernah mencoba, gagal, lalu mencoba lagi.
 
 Dan mungkin, untuk urusan spanduk kami, cara itu memang lebih masuk akal.
