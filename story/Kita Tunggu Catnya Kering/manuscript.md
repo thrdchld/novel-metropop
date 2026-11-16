@@ -940,7 +940,7 @@ Dan mungkin, untuk urusan spanduk kami, cara itu memang lebih masuk akal.
 
 ---
 
-## Bab 13: Rumus Kimia
+## Bab 13: Uji Bahan
 
 Tiga potongan kain mori terbentang di atas meja. Masing-masing diberi tanda A, B, dan C menggunakan kertas kecil yang ditempel di ujungnya.
 
@@ -1298,6 +1298,16 @@ Aji mencatat jumlah dan harga. Satu gulung empat meter dihargai seratus dua pulu
 
 Koh Acong menyebut harga terbaiknya. Aji menghitung ulang di buku kecil, lalu menyepakati potongan sepuluh persen. Jumlah pembayaran menjadi lima juta empat ratus ribu rupiah. Tidak ada janji proyek tahap kedua atau pesanan besar yang belum pasti.
 
+Koh Acong mengangkat satu gulung kain dan membukanya sedikit di atas meja. "Kalau untuk spanduk, kenapa harus primisima? Kain campuran ini lebih murah dan warnanya lebih putih."
+
+Aku meraba permukaannya sekali lagi. "Karena gambar kami dilukis langsung di kain. Kami juga akan memasang panel transfer. Kami sudah menguji metode itu pada mori yang sama. Kalau ganti bahan, hasilnya belum tentu sama."
+
+Aji mengangguk. "Kami tidak bisa mengganti spesifikasi setelah prototipe disetujui. Lebih baik bahan yang sudah diuji daripada menghemat sedikit lalu mengulang pekerjaan."
+
+Koh Acong mengembalikan gulungan itu ke rak. Ia mencetak nota dengan rincian jumlah, harga satuan, dan potongan. Aji memeriksa angka satu per satu sebelum membayar. Aku juga memastikan label komposisi pada beberapa gulung pertama sesuai pesanan. Bukan karena tidak percaya kepada Koh Acong, tetapi kalau bahan yang datang salah, kami yang harus menanggung akibatnya.
+
+Setelah pembayaran selesai, Aji membagi sisa anggaran di buku catatannya. Uang untuk kain sudah jelas. Sisanya harus cukup untuk cat, bahan transfer, tenaga tambahan, transportasi, dan pemasangan. Ia tidak terlihat puas dengan jumlah yang tersisa, tetapi setidaknya kami tahu berapa batas pengeluaran yang tidak boleh dilewati.
+
 "Yang penting barangnya sesuai dan nota lengkap," kata Aji.
 
 Koh Acong tertawa. "Sekarang belanja kain sudah pakai pemeriksaan seperti beli mobil."
@@ -1316,7 +1326,9 @@ Aji menutup buku catatannya. "Dia boleh menawarkan. Keputusan tetap di panitia."
 
 Bang Rahmat mengangguk. Ia mengaku mendengar kabar itu dari sopir yang biasa mangkal di pangkalan dekat kantor dinas, bukan dari orang dalam panitia.
 
-Kami naik ke pikap. Di bak belakang, lima puluh gulung kain terikat rapat. Untuk pertama kalinya, proyek ini terasa benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena sekarang ada bahan, biaya, dan pekerjaan yang harus dipertanggungjawabkan.
+Kami naik ke pikap. Di bak belakang, lima puluh gulung kain terikat rapat. Aku memeriksa tali pengikat sekali lagi sebelum sopir menutup pintu bak. Kalau kain bergeser dan terkena debu jalan, pekerjaan membersihkannya akan bertambah.
+
+Untuk pertama kalinya, proyek ini terasa benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena sekarang ada bahan, biaya, dan pekerjaan yang harus dipertanggungjawabkan.
 
 ---
 
@@ -1348,6 +1360,24 @@ Setelah telepon ditutup, Aji tampak lebih tenang.
 
 "Berarti malam ini kita tidak perlu menyulap ruko jadi pabrik dalam satu hari," katanya.
 
+Aku mengambil buku catatan dari tas. "Tapi kita tetap harus siap kalau mereka datang lebih cepat."
+
+Kami menyusun daftar yang harus tersedia saat peninjauan: satu prototipe, daftar bahan, contoh file QRIS, catatan waktu penerapan, dan pembagian kerja. Aji menambahkan satu kolom khusus untuk mencatat kode yang sudah diperiksa dan yang masih perlu dikonfirmasi.
+
+"Kalau ada nama merchant yang berbeda dengan daftar paguyuban, kita jangan menebak," katanya. "Harus tanya pemiliknya langsung."
+
+"Dan kalau ada kain yang gagal, pisahkan. Jangan dicampur dengan yang sudah siap."
+
+Bang Rahmat memperhatikan daftar itu. "Anak-anak paguyuban bisa bantu mengangkat meja atau menyiapkan rak. Tapi untuk data QRIS, lebih baik pemilik warung ikut memastikan."
+
+"Setuju," jawabku. "Jangan sampai nanti ada yang bilang kami mengganti kode mereka."
+
+Bang Rahmat menyimpan ponselnya. Ia mengingatkan bahwa kabar tentang Haris tetap sebatas informasi yang ia dengar dari sopir. Kami tidak punya bukti bahwa panitia sudah memutuskan apa pun, jadi tidak ada gunanya membangun rencana berdasarkan rumor.
+
+Aji menutup buku catatan. "Kita kerjakan yang bisa kita kendalikan dulu. Bahan, alur, dan kecocokan data."
+
+Aku mengangguk. Untuk sekali ini, aku setuju dengan cara berpikirnya.
+
 "Bagus. Aku juga tidak mau melukis sambil berdiri di atas gulungan kain."
 
 Bang Rahmat tertawa. "Kalau butuh tenaga angkut atau tambahan orang, kabari. Anak-anak paguyuban bisa membantu."
@@ -1362,7 +1392,7 @@ Ia tersenyum tipis. "Kali ini saya tidak akan protes."
 
 ---
 
-## Bab 19: Sablon
+## Bab 19: Produksi
 
 Kain mori pertama dibentangkan di atas meja kerja panjang yang dipinjam dari warung sebelah. Dua meja tambahan disusun sejajar agar kain tidak perlu dipaku ke lantai. Pak Lik Harto duduk di bangku dekat jendela, membantu mengukur bidang gambar dan menandai batas panel dengan kapur jahit.
 
@@ -1377,6 +1407,14 @@ Di sisi lain ruko, Aji menyiapkan panel QRIS. Ia mencocokkan file dari masing-ma
 Kami membuat tempat penyimpanan terpisah untuk bahan yang belum dicetak, yang sudah dicetak, dan yang sudah diperiksa. Setiap panel baru dipasang setelah gambar manual di sekitarnya cukup kering dan bidangnya bersih.
 
 Pekerjaan berjalan lebih lambat daripada yang kami bayangkan. Ada kain yang perlu diperbaiki garisnya. Ada pula file QRIS yang harus dikonfirmasi ulang karena nama pemilik pada daftar paguyuban berbeda dengan data merchant.
+
+Satu file milik warung Bu Siti bahkan menampilkan nama usaha yang berbeda dari nama yang tercantum di daftar. Aji menghentikan proses cetaknya dan menghubungi Cak Qodim. Setelah pemilik warung mengirim ulang file resmi, nama merchant ternyata memang menggunakan nama usaha lama yang masih terdaftar di bank.
+
+"Kalau tadi langsung kita cetak, nanti orang mengira kodenya salah," kataku.
+
+Aji menempelkan catatan kecil pada map Bu Siti. "Kita simpan konfirmasi ini bersama file. Jadi kalau ada yang bertanya, kita tahu kenapa nama di layar berbeda."
+
+Aku melanjutkan lukisan pada kain berikutnya. Untuk menjaga bentuk gambar tetap konsisten, aku memakai pola dasar yang sama, tetapi mengubah sedikit posisi ekor, sirip, atau hiasan di sekitar tulisan. Aji tidak lagi menyebutnya variasi yang tidak perlu. Ia justru membantu memeriksa agar kotak QRIS tetap punya ruang kosong yang cukup.
 
 Menjelang malam, dua belas spanduk selesai pada tahap ilustrasi. Beberapa panel QRIS sudah diterapkan, tetapi belum semuanya melewati pemeriksaan akhir.
 
@@ -1394,7 +1432,15 @@ Tak lama kemudian, Cak Qodim datang membawa makanan untuk orang-orang yang memba
 
 Cak Qodim memanggil dua pengurus paguyuban untuk memeriksa daftar. Mereka mencocokkan data satu per satu sebelum pulang.
 
-Malam itu kami tidak menyelesaikan lima puluh spanduk. Kami menyelesaikan tahap pertama dengan alur kerja yang lebih tertib. Untuk proyek sebesar ini, itu lebih berguna daripada mengejar angka lalu mengulang kesalahan.
+Malam itu kami tidak menyelesaikan lima puluh spanduk. Kami menyelesaikan tahap pertama dengan alur kerja yang lebih tertib. Sebelum pulang, Aji menghitung panel yang sudah diterapkan, sementara aku menandai kain yang masih perlu sentuhan akhir.
+
+Pak Lik memeriksa beberapa gambar dari kursinya. Ia tidak lagi ikut mengangkat kain, tetapi masih bisa melihat jika kumis lele terlalu dekat dengan tulisan atau bentuk ayam jago terlihat aneh.
+
+"Yang ini jangan terlalu banyak warna di dekat kotak," komentarnya.
+
+Aku menggeser garis oranye sedikit. Aji memeriksa ulang jarak panelnya.
+
+Untuk pertama kalinya malam itu, kami tidak berdebat soal siapa yang paling tahu. Kami hanya memastikan setiap kain siap melanjutkan tahap berikutnya.
 
 ---
 
@@ -1422,13 +1468,27 @@ Hari demi hari, jumlah kain yang selesai bertambah. Kami tidak lagi menghitung b
 
 Pada hari keenam, empat puluh kain telah melewati pemeriksaan visual. Sepuluh sisanya masih dalam tahap pengerjaan dan pengeringan. Aji mencoret beberapa jadwal di papan tulis, lalu menyusun ulang urutan kerja agar panel QRIS tidak dipasang sebelum bidang kain siap.
 
+Kami tidak bisa mengeringkan semua kain sekaligus. Rak yang tersedia hanya cukup untuk sebagian, jadi beberapa kain harus menunggu giliran. Bang Parlin membantu meminjamkan dua rangka jemuran lipat tambahan. Kami meletakkannya di area yang tidak menghalangi pintu dan memberi jarak antarkain agar permukaannya tidak saling menempel.
+
+Aji sempat mengusulkan agar kipas diarahkan langsung ke kain yang paling basah. Aku menolak karena hembusannya bisa membuat debu dari jalan menempel pada cat. Kami akhirnya mengatur kipas agar udara bergerak menyilang di ruangan, bukan menembak satu kain dari jarak dekat. Ventilasi atas dibuka, sedangkan kain yang belum kering dibiarkan tetap di rak.
+
+"Kalau kita paksa cepat, nanti yang rusak justru bagian yang sudah selesai," kataku.
+
+Aji melihat jam di dinding. "Aku tahu. Tapi kita harus punya cadangan waktu untuk perbaikan."
+
+"Makanya kita cek satu per satu. Jangan hanya lihat permukaannya."
+
+Kami membuat pemeriksaan sederhana setelah bahan benar-benar kering. Bagian yang dicat digosok perlahan dengan kain putih, lalu kain dilipat dan dibuka kembali. Panel QRIS diperiksa terpisah sesuai petunjuk bahan transfer. Tidak semua spanduk diuji dengan cara yang sama, tetapi setiap tahap dicatat agar tidak ada yang terlewat.
+
 "Kalau kita terus disiplin, masih ada waktu untuk pemeriksaan akhir," katanya.
 
 Aku melihat deretan kain di rak. "Asal tidak ada yang mengubah tenggat lagi."
 
 Bang Parlin tertawa dari dekat pintu. "Kalau ada yang mengubah, suruh dia ikut mengecat."
 
-Menjelang sore, kami mematikan sebagian kipas dan membiarkan kain tetap berada di rak. Pekerjaan belum selesai, tetapi tidak lagi terasa seperti perlombaan melawan fajar. Untuk pertama kalinya sejak proyek dimulai, kami punya jadwal yang bisa diikuti tanpa mengorbankan hasil.
+Menjelang sore, kami mematikan sebagian kipas dan membiarkan kain tetap berada di rak. Pak Lik meminta kami berhenti sejenak untuk makan. Aji sempat melihat papan jadwal, tetapi akhirnya menutup bukunya dan mengambil piring.
+
+Pekerjaan belum selesai, tetapi tidak lagi terasa seperti perlombaan melawan fajar. Untuk pertama kalinya sejak proyek dimulai, kami punya jadwal yang bisa diikuti tanpa mengorbankan hasil.
 
 ---
 
@@ -1456,6 +1516,16 @@ Petugas lain memeriksa bahan, rak pengering, catatan waktu, dan pembagian tugas.
 
 Pak Haris mengangkat salah satu sudut prototipe. "Kalian bisa menjaga hasil ini untuk lima puluh lembar?"
 
+Aji tidak langsung menjawab. Ia membuka daftar produksi dan menunjukkan jumlah kain yang sudah melewati pemeriksaan, jumlah yang masih dikerjakan, serta catatan bahan yang digunakan.
+
+"Kami tidak menganggap satu prototipe mewakili lima puluh hasil," katanya. "Karena itu setiap kain punya nomor dan catatan pemeriksaan sendiri. Kalau ada panel yang tidak cocok dengan data merchant, kain itu tidak masuk kelompok siap serah."
+
+Salah satu staf meminta melihat contoh kain yang pernah gagal. Aji menunjukkan sampel bahan transfer dari percobaan awal, termasuk catatan bahwa sudutnya terangkat setelah dilipat. Ia juga menunjukkan bahan yang akhirnya dipilih dan hasil setelah proses penerapan.
+
+Petugas itu memeriksa catatan, lalu bertanya bagaimana mereka memastikan kode yang dicetak tidak tertukar. Aji menjelaskan bahwa file disimpan dengan nama pemilik warung dan nomor pesanan. Setelah panel diterapkan, nama merchant dipindai ulang dan dicocokkan dengan daftar. Pemilik warung tetap diminta memeriksa data miliknya sendiri.
+
+"Bagus kalau begitu," kata petugas. "Jangan ada pembayaran uji tanpa persetujuan pemilik merchant. Hari ini kami hanya memeriksa keterbacaan dan kesesuaian data."
+
 "Kami tidak akan mengklaim bisa sebelum semuanya diperiksa," jawabku. "Tapi alur produksinya sudah berjalan dan jumlah bahan sesuai pesanan."
 
 Haris menatap Aji. "Kalau ada QRIS yang salah, siapa bertanggung jawab?"
@@ -1469,6 +1539,12 @@ Sebelum pulang, tim verifikasi menyampaikan bahwa pemeriksaan akhir akan dilakuk
 Ketika mobil mereka pergi, Aji menutup mapnya.
 
 "Setidaknya mereka tahu kita tidak sedang menebak-nebak," katanya.
+
+Aku melihat meja yang masih dipenuhi potongan kain dan label. "Mereka juga tahu kita belum selesai."
+
+"Memang belum."
+
+Aji menyimpan catatan verifikasi di tempat terpisah dari file desain. Aku kembali memeriksa lukisan yang baru selesai dikeringkan. Kunjungan itu tidak membuat pekerjaan menjadi lebih mudah, tetapi setidaknya sekarang kami tahu apa yang akan diperiksa pada tahap akhir.
 
 "Dan kita tahu masih ada banyak yang harus diperiksa."
 
@@ -1490,6 +1566,14 @@ Aku membantu memeriksa permukaan kain. Beberapa spanduk dilipat dan dibuka kemba
 
 Salah satu staf mencatat bahwa dua kain perlu dirapikan pada bagian tepi. Kami memisahkannya dan memperbaikinya sebelum dimasukkan ke kelompok siap serah.
 
+Satu panel QRIS juga perlu diperiksa ulang karena sudut bawahnya tampak sedikit terangkat. Aji tidak mencoba menekannya begitu saja. Ia memeriksa kembali petunjuk bahan transfer, lalu meminta waktu untuk menerapkan ulang panel tersebut dengan mesin pres pinjaman. Setelah panel dingin, kode dipindai dan nama merchant dicocokkan lagi dengan pemilik warung.
+
+Petugas menunggu sampai proses itu selesai. Ia mencatat bahwa perbaikan dilakukan sebelum serah terima, bukan setelah kain dipasang di lokasi festival.
+
+"Kalau ada perubahan bahan atau metode, harus dicatat," katanya kepada Aji. "Jangan sampai dokumen pemeriksaan tidak sesuai dengan barang yang diserahkan."
+
+Aji mengangguk dan menambahkan nomor panel yang diperbaiki ke daftar. Aku memeriksa kembali lukisan di sekitarnya agar tidak ada cat yang menutupi bidang kode.
+
 Pak Haris berdiri di samping meja. "Kalian sudah memeriksa ketahanan terhadap minyak panas?"
 
 "Belum mengklaim tahan minyak panas," jawab Aji. "Kami menguji sesuai petunjuk bahan dan penggunaan yang disepakati. Kalau ada standar tambahan, kami perlu spesifikasi tertulis dan waktu untuk mengujinya."
@@ -1502,7 +1586,7 @@ Setelah semua catatan ditutup, panitia menyetujui hasil akhir lima puluh spanduk
 
 Cak Qodim mengangguk. "Kami tunggu sesuai kesepakatan."
 
-Tim dinas juga menyerahkan jadwal pemasangan untuk Senin berikutnya. Dua puluh anggota paguyuban akan membantu mengangkut, memasang, dan memeriksa posisi spanduk di setiap tenda.
+Tim dinas juga menyerahkan jadwal pengiriman dan persiapan lokasi untuk Senin berikutnya. Dua puluh anggota paguyuban akan membantu mengangkut kain, menyiapkan rangka, dan memastikan nomor tenda sesuai daftar sebelum pemasangan dilakukan.
 
 Saat rombongan pergi, Cak Qodim menepuk bahu Aji. "Akhirnya selesai juga."
 
@@ -1552,6 +1636,28 @@ Aku memandangnya. "Kita bahkan belum tahu apakah kita tahan bekerja bersama tanp
 
 Aji mengangguk. "Masuk akal."
 
+Ia meletakkan cangkirnya di lantai, lalu melihat tanganku yang masih menyisakan noda cat di sekitar kuku.
+
+"Tanganmu sakit?" tanyanya.
+
+"Sedikit pegal. Bukan pertama kalinya."
+
+"Kalau terus dipaksa, bisa jadi pertama kalinya kamu benar-benar tidak bisa memegang kuas."
+
+Aku menatapnya. "Kamu mulai terdengar seperti Pak Lik."
+
+"Berarti saya sedang belajar dari orang yang tepat."
+
+Aku tertawa kecil. Kami tidak membicarakan hubungan atau hal-hal yang belum jelas. Yang kami bicarakan hanya pekerjaan kecil yang mungkin bisa diterima setelah festival: satu spanduk warung, papan nama, atau pesanan dari pedagang yang tidak sanggup membayar vendor besar.
+
+"Kalau kita mencoba, jangan langsung menerima banyak pesanan," kataku. "Kita harus tahu berapa lama satu pekerjaan selesai."
+
+Aji mengangguk. "Dan biaya bahan harus dicatat sejak awal. Tidak ada lagi menghitung keuntungan dari uang yang masuk saja."
+
+"Bagus. Berarti kamu sudah belajar sesuatu selain ukuran piksel."
+
+Ia tersenyum, lalu menghabiskan kopinya.
+
 Jaket kanvas abu-abunya tergantung di sandaran kursi. Noda kuning di siku kanan masih terlihat, bekas kuasku yang tidak pernah berhasil dibersihkan.
 
 "Jaket itu masih kamu simpan?" tanyaku.
@@ -1570,7 +1676,7 @@ Menjelang malam, sebuah kurir datang membawa amplop dari panitia. Cak Qodim yang
 
 "Jadwal festival dimajukan," katanya. "Pembukaan yang semula Kamis dipindah ke Selasa malam karena perubahan agenda kunjungan. Pengiriman lima puluh spanduk utama yang semula dijadwalkan Senin pagi ikut ditunda sampai jadwal pemasangan dipastikan."
 
-Aji berdiri. "Pemasangan Senin masih bisa. Tapi kenapa Cak kelihatan begitu?"
+Aji berdiri. "Kalau jadwal berubah, pengiriman dan pemasangan bisa kita atur lagi. Tapi kenapa Cak kelihatan begitu?"
 
 Cak Qodim membalik halaman kedua. "Ada tambahan permintaan sepuluh spanduk untuk zona VIP. Mereka minta selesai sebelum Selasa pagi, lalu dipasang bersama lima puluh spanduk utama."
 
@@ -1611,6 +1717,18 @@ Pak Lik Harto yang sejak tadi mendengarkan mengangkat tangan. "Jangan sampai kal
 Cak Qodim tertawa kecil. "Saya urus tambahan pesanan dan orang-orang yang membantu. Kalian urus kualitasnya."
 
 Setelah Cak Qodim pergi, Aji menuliskan kebutuhan bahan di papan. Kami harus membeli kain tambahan, memastikan jenis pigmen yang diminta, menyiapkan panel QRIS dari file resmi masing-masing merchant, dan membagi pekerjaan produksi serta pemasangan.
+
+Malam itu Cak Qodim mengabari bahwa panitia menyetujui perubahan pesanan dan akan mentransfer uang muka tambahan. Ia meminta kami mengirimkan rincian bahan agar pembelian kain bisa dilakukan Senin pagi.
+
+Aji menghitung ulang kebutuhan. Empat puluh meter diperlukan untuk sepuluh spanduk baru. Persediaan dua belas meter masih tersisa, jadi kami perlu membeli setidaknya dua puluh delapan meter. Ia mengusulkan tiga puluh dua meter agar ada cadangan jika sebagian kain harus dipotong ulang.
+
+"Kalau tidak ada cadangan, satu kesalahan kecil bisa menghabiskan waktu kita," katanya.
+
+Aku mencatat angka itu di sisi daftar. "Tapi jangan beli lebih banyak hanya karena takut. Uang tambahan ini juga harus menutup bahan transfer, pigmen, dan ongkos tenaga."
+
+Kami mengirimkan rincian kepada Cak Qodim. Ia membalas bahwa pembelian akan dilakukan setelah uang muka masuk dan perubahan pesanan tercatat. Baru setelah itu kami mulai menyusun pola gambar untuk sepuluh spanduk VIP.
+
+Aku masih belum tahu apakah warna yang diminta panitia benar-benar perlu memakai pigmen khusus. Yang jelas, kami tidak akan menjanjikan efek menyala dalam gelap sebelum sampelnya diuji. Warna fluoresen yang tampak terang di bawah lampu berbeda dari pigmen fosfor yang menyimpan cahaya, dan keduanya tidak bisa diperlakukan sama.
 
 Tenggatnya memang sempit. Namun kali ini kami tidak akan menerima pekerjaan tambahan hanya dengan modal nekat. Semua harus jelas: jumlah, bahan, biaya, dan siapa yang bertanggung jawab.
 
