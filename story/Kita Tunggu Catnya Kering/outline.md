@@ -35,10 +35,10 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 | Detail Kecil / Kebiasaan / Benda | Ditanam Sambil Lalu di Bab | Dibayar (Callback) di Bab | Makna / Fungsi |
 |---|---|---|---|
-| Mitos pantang makan lele keluarga Lamongan | Bab 2 (Cak Qodim & Pak Lik Harto menolak makan lele) | Bab 29 (Pak Lik Harto memegang kepala lele lukisan) | Bukti penghormatan leluhur dan harga diri seniman jalanan. |
-| Noda cat kuning stabilo di siku kanan jaket Aji | Bab 7 (Terkena senggolan kuas Wiwin saat panik kucing) | Bab 32 (Aji sengaja tidak mencuci jaket itu) | Tanda penerimaan Aji terhadap dunia manual yang penuh warna. |
+| Pantangan makan lele keluarga Cak Qodim | Bab 2 (Cak Qodim menolak lele goreng) | — | Quirk personal Cak Qodim, bukan adat seluruh orang Lamongan dan tidak perlu dipaksakan menjadi payoff. |
+| Noda cat kuning stabilo di siku kanan jaket Aji | Bab 7 (Terkena sapuan kuas Wiwin saat panik kucing) | Bab 23 dan 31 (Noda masih terlihat; Aji sudah terbiasa) | Callback kecil yang mengingatkan asal hubungan mereka. |
 | Cobek batu sambal terasi dan aroma kemiri | Bab 11 (Makan malam pertama di warung Cak Qodim) | Bab 28 (Mbak Pur mengantar sambal penghangat badan) | Simbol kehangatan komunal warga gang di saat krisis melanda. |
-| Buku catatan bahan lama Pak Lik | Bab 12 (Dibuka bersama Wiwin dan Aji) | Bab 13 (Dipakai sebagai referensi membandingkan sampel) | Catatan lama membantu menghindari kesalahan, bukan memberi formula ajaib. |
+| Buku catatan bahan lama Pak Lik | Bab 12 (Dibuka bersama Wiwin dan Aji) | Bab 13 (Dipakai sebagai referensi membandingkan sampel) | Catatan lama membantu eksperimen; tidak perlu dipaksakan menjadi formula atau solusi akhir. |
 | Piring seng blek blirik hijau loreng | Bab 1 (Tempat Wiwin menaruh adukan cat) | Bab 31 (Dipakai menyajikan gorengan saat perayaan festival) | Penanda kesederhanaan hidup yang tidak lekang oleh zaman. |
 
 ---
