@@ -1304,7 +1304,7 @@ Ujung kuas nomor tiga melesat di atas bentangan mori putih, menyapukan lengkunga
 
 Keringat membasahi kaus hitamku yang sudah kaku oleh percikan cat. Enam lembar spanduk VIP yang selesai dilukis tergantung di rak pengering. Empat lainnya masih menunggu giliran. Kami tidak lagi menggantung kain di tali tambang langit-langit karena bagian plafon dekat talang semalam sudah beberapa kali meneteskan air.
 
-Aji duduk di sisi meja lain, memeriksa lembar transfer QRIS yang sudah dipasangkan dengan nama masing-masing warung. Tangan kanannya masih dibalut perban dari luka saat mengamankan rangka talang. Ia mengoperasikan mesin pres dengan tangan kiri, sementara tangan kanannya hanya membantu menjaga posisi kain jika diperlukan.
+Aji duduk di sisi meja lain, memeriksa lembar transfer QRIS yang sudah dipasangkan dengan nama masing-masing warung. Ia memakai sarung tangan tahan panas saat mengangkat panel dari mesin pres dan memastikan kain tidak bergeser.
 
 "Panel kesembilan sudah terpasang," katanya. "Aku ikuti suhu dan waktu yang tertera di petunjuk bahan transfernya. Tapi kita tetap perlu cek hasilnya setelah dingin."
 
@@ -1338,7 +1338,7 @@ Aji membersihkan kuas yang jatuh, lalu meletakkannya di atas lap. "Aku bisa bant
 
 "Kalau miring, kita perbaiki. Kalau kamu memaksakan tangan sampai cedera, pekerjaan kita malah berhenti."
 
-Aku tertawa kecil. Setelah beristirahat dan menggerakkan jari perlahan, rasa kaku mulai berkurang. Aku kembali bekerja dengan jeda lebih teratur. Aji menahan sisi kain dengan tangan kirinya, sementara tangan kanannya tetap dijaga agar tidak banyak bergerak.
+Aku tertawa kecil. Setelah beristirahat dan menggerakkan jari perlahan, rasa kaku mulai berkurang. Aku kembali bekerja dengan jeda lebih teratur. Aji menahan sisi kain dengan hati-hati, lalu kembali memeriksa posisi panel sebelum menekan tuas mesin.
 
 Menjelang pukul sebelas malam, lukisan ayam jago di kain kesepuluh selesai. Aji memasang panel QRIS terakhir, kemudian kami mencocokkan seluruh kode dengan daftar pemilik warung. Sepuluh spanduk itu belum siap diserahkan. Catnya harus kering sempurna, panel transfer perlu diperiksa sekali lagi, dan kain harus dikemas tanpa terlipat pada bagian yang masih rentan.
 
