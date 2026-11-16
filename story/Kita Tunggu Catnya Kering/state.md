@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 31 (*Lampu Kota*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 32 (*Bergabung*)
-- **Titik Waktu Cerita:** Minggu, Pukul 16.30 WIB (Sepekan Kemudian)
-- **Lokasi Terkini Tokoh Utama:** Studio Tenda Malam (ruko Wiwin & Bachtiar yang menyatu), Kalimalang
-- **Cuaca / Suasana Fisik:** Sore teduh keemasan, angin semilir Kalimalang, plang nama baru terpasang di atas pintu
+- **Bab Terakhir Selesai:** Bab 32 (*Bergabung*)
+- **Bab Berikutnya yang Akan Ditulis:** Selesai / Tamat (32 Bab Lengkap)
+- **Titik Waktu Cerita:** Minggu, Pukul 17.00 WIB (Epilog Cerita)
+- **Lokasi Terkini Tokoh Utama:** Studio Tenda Malam (ruko gabungan Wiwin & Bachtiar), Kalimalang
+- **Cuaca / Suasana Fisik:** Senja hangat keemasan, cat oranye pertama meresap ke serat kain mori baru
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Damai, bahagia seutuhnya, dan merayakan cinta yang bersemi di atas kain mori
+- **Kondisi Emosi Tokoh Utama:** Damai, bersyukur, dan bahagia seutuhnya bersama Bachtiar dan keluarga gang
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Minggu (16.30 WIB) | Pemasangan plang nama baru Studio Tenda Malam; peresmian ruko gabungan |
+| **Hari Ini** | Minggu (17.00 WIB) | Peresmian Studio Tenda Malam; goresan kuas pertama Wiwin dan Bachtiar |
 | **Kemarin (H-1)** | Sabtu | Merenovasi sekat dinding ruko dan menyusun meja kerja kembar |
 | **Pekan Lalu** | Selasa | Malam pembukaan dan kesuksesan akbar 60 spanduk di festival kuliner |
-| **Tenggat / Acara Mendatang** | Hari Ini | Penuntasan bab penutup novel |
+| **Status Novel** | Tamat | Seluruh 32 bab selesai ditulis dan lulus 22 cek gatekeeper |
 
 ---
 
