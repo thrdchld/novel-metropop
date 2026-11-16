@@ -12,6 +12,14 @@ Aku membantu memeriksa permukaan kain. Beberapa spanduk dilipat dan dibuka kemba
 
 Salah satu staf mencatat bahwa dua kain perlu dirapikan pada bagian tepi. Kami memisahkannya dan memperbaikinya sebelum dimasukkan ke kelompok siap serah.
 
+Satu panel QRIS juga perlu diperiksa ulang karena sudut bawahnya tampak sedikit terangkat. Aji tidak mencoba menekannya begitu saja. Ia memeriksa kembali petunjuk bahan transfer, lalu meminta waktu untuk menerapkan ulang panel tersebut dengan mesin pres pinjaman. Setelah panel dingin, kode dipindai dan nama merchant dicocokkan lagi dengan pemilik warung.
+
+Petugas menunggu sampai proses itu selesai. Ia mencatat bahwa perbaikan dilakukan sebelum serah terima, bukan setelah kain dipasang di lokasi festival.
+
+"Kalau ada perubahan bahan atau metode, harus dicatat," katanya kepada Aji. "Jangan sampai dokumen pemeriksaan tidak sesuai dengan barang yang diserahkan."
+
+Aji mengangguk dan menambahkan nomor panel yang diperbaiki ke daftar. Aku memeriksa kembali lukisan di sekitarnya agar tidak ada cat yang menutupi bidang kode.
+
 Pak Haris berdiri di samping meja. "Kalian sudah memeriksa ketahanan terhadap minyak panas?"
 
 "Belum mengklaim tahan minyak panas," jawab Aji. "Kami menguji sesuai petunjuk bahan dan penggunaan yang disepakati. Kalau ada standar tambahan, kami perlu spesifikasi tertulis dan waktu untuk mengujinya."
@@ -24,7 +32,7 @@ Setelah semua catatan ditutup, panitia menyetujui hasil akhir lima puluh spanduk
 
 Cak Qodim mengangguk. "Kami tunggu sesuai kesepakatan."
 
-Tim dinas juga menyerahkan jadwal pemasangan untuk Senin berikutnya. Dua puluh anggota paguyuban akan membantu mengangkut, memasang, dan memeriksa posisi spanduk di setiap tenda.
+Tim dinas juga menyerahkan jadwal pengiriman dan persiapan lokasi untuk Senin berikutnya. Dua puluh anggota paguyuban akan membantu mengangkut kain, menyiapkan rangka, dan memastikan nomor tenda sesuai daftar sebelum pemasangan dilakukan.
 
 Saat rombongan pergi, Cak Qodim menepuk bahu Aji. "Akhirnya selesai juga."
 
