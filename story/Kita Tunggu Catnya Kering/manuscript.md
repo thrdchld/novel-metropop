@@ -3436,6 +3436,20 @@ Ia tidak membantah. Beberapa saat kami hanya melihat pengunjung yang berlalu-lal
 
 "Aku ingin tetap mengerjakan hal seperti ini," kata Aji. "Bukan cuma membuat desain dari layar, lalu mengirim file ke orang lain. Aku ingin ikut melihat hasilnya dipakai."
 
+Aku melirik ke arah tenda utama. "Pak Haris tadi datang, tapi kalian tidak bicara."
+
+Aji mengikuti arah pandangku. "Tidak ada yang perlu dibicarakan malam ini."
+
+"Dulu kamu kelihatan sangat terganggu setiap kali dia muncul."
+
+"Memang. Dulu aku ingin dia mengakui bahwa beberapa pekerjaan itu hasil kerjaku. Aku juga ingin tahu kenapa setelah protes, aku justru disingkirkan." Ia mengusap ibu jari tangan kirinya. "Tapi sekarang aku tidak bisa mengubah apa yang dia lakukan. Dan aku tidak mau terus menunggu pengakuannya untuk merasa pekerjaanku memang punya nilai."
+
+"Jadi sudah tidak marah?"
+
+"Masih ada bagian yang tidak enak kalau diingat. Bukan berarti semuanya langsung hilang." Aji menatap deretan spanduk. "Tapi malam ini orang-orang memakai hasil kerja kita. Mereka tidak perlu tahu cerita lama itu untuk bisa menilai hasilnya."
+
+Aku mengangguk. Rasanya lebih masuk akal daripada berpura-pura masa lalu bisa selesai hanya karena satu festival berjalan lancar.
+
 "Kamu bisa mulai dari pesanan kecil dulu."
 
 "Kalau kamu masih mau bekerja sama."
@@ -3473,7 +3487,6 @@ Kami kembali duduk. Aku meletakkan piring seng yang sudah kering di dekat Pak Li
 Di luar, para pedagang masih melayani pengunjung. Ada yang sudah kehabisan lele, ada yang meminta tambahan nasi, dan ada yang menghitung hasil penjualan malam itu. Festival belum selesai, begitu juga urusan kami. Mesin Aji masih menunggu keputusan, pembayaran proyek belum seluruhnya tuntas, dan rencana bekerja bersama masih perlu dibicarakan.
 
 Namun malam itu kami sudah bisa duduk satu meja tanpa memikirkan siapa yang harus menang. Untuk sementara, itu cukup.
----
 
 ## Bab 32: Bergabung
 
@@ -3505,7 +3518,7 @@ Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis daftar alat
 
 Ruko dan peralatan lama tetap menjadi milik masing-masing. Meja tambahan dan rak yang dibeli untuk studio dicatat sebagai perlengkapan bersama, lengkap dengan sumber uang pembeliannya. Kalau nanti kami membeli alat baru dari kas studio, pembeliannya juga harus dicatat. Kami belum membentuk badan usaha atau menentukan pembagian kepemilikan formal. Untuk sekarang, kami sepakat menjalankan tempat kerja bersama dengan catatan yang terbuka.
 
-Untuk setiap pesanan yang dikerjakan bersama, biaya bahan, produksi, transportasi, tenaga tambahan, dan pemasangan dipotong lebih dulu. Setelah itu, laba bersih dibagi 60 persen untukku dan 40 persen untuk Aji, mengikuti kesepakatan proyek festival. Pembagian itu berlaku untuk hasil pekerjaan bersama, bukan berarti seluruh alat atau aset pribadi otomatis berubah kepemilikan.
+Untuk setiap pesanan yang dikerjakan bersama, biaya bahan, produksi, transportasi, tenaga tambahan, dan pemasangan dipotong lebih dulu. Setelah itu, laba bersih dibagi 60 persen untukku dan 40 persen untuk Aji. Angka itu kami pilih sebagai patokan awal, dengan mempertimbangkan porsi pekerjaan yang biasanya kutangani dari persiapan kain sampai pemeriksaan lukisan, sementara Aji mengurus desain digital, panel QRIS, dan koordinasi percetakan. Kami sepakat membicarakannya lagi jika jenis pesanan atau beban kerja berubah. Tidak semua pekerjaan akan punya kebutuhan yang sama, jadi pembagian itu tidak boleh dipakai tanpa melihat pekerjaan yang benar-benar dilakukan. Pembagian laba ini juga tidak berarti seluruh alat atau aset pribadi otomatis berubah kepemilikan.
 
 Aku menangani ilustrasi, pemilihan kain, dan pemeriksaan hasil lukisan. Aji menangani desain digital, pengolahan file, panel QRIS, serta komunikasi dengan percetakan luar selama mesin besarnya belum jelas nasibnya. Kami berdua tetap memeriksa hasil akhir sebelum diserahkan kepada pelanggan.
 
@@ -3568,4 +3581,3 @@ Aku mengambil kuas lain dari kaleng.
 "Setelah itu baru lanjut garis berikutnya."
 
 Ia mengangguk, lalu kembali memeriksa sketsa. Aku mulai menyiapkan warna, sementara cat pertama mengering di atas kain.
-
