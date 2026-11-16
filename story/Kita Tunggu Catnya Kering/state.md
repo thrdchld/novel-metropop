@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 20 (*Kompresor*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 21 (*Tes Scan*)
-- **Titik Waktu Cerita:** Jumat, Pukul 06.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Pelataran depan ruko Wiwin & bengkel Bang Parlin, Kalimalang
-- **Cuaca / Suasana Fisik:** Pagi cerah, matahari merah Cawang mulai menghangatkan deretan 50 spanduk
+- **Bab Terakhir Selesai:** Bab 21 (*Tes Scan*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 22 (*Inspeksi*)
+- **Titik Waktu Cerita:** Jumat, Pukul 10.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Ruko Wiwin Kalimalang
+- **Cuaca / Suasana Fisik:** Pagi menjelang siang, matahari Kalimalang terik, pelataran dipenuhi spanduk hibrida yang lolos uji
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Tegang dan waspada menghadapi kedatangan mendadak sedan dinas Pak Haris
+- **Kondisi Emosi Tokoh Utama:** Puas dan waspada mengawal penandatanganan berita acara serah terima resmi
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Jumat (06.30 WIB) | Mobil dinas Pak Haris tiba mendadak untuk inspeksi 50 spanduk |
+| **Hari Ini** | Jumat (10.00 WIB) | Uji scan 50 spanduk lolos mutlak; penandatanganan berita acara inspeksi |
 | **Kemarin (H-1)** | Kamis | Belanja mori ke Tanah Abang dan gerilya sablon malam |
 | **Dua Hari Lalu (H-2)** | Rabu | Curhat di tangga ruko lantai dua soal masa lalu PHK |
-| **Tenggat / Acara Mendatang** | Pagi Ini (09.00 WIB) | Jadwal resmi awal inspeksi verifikasi spanduk hibrida dinas |
+| **Tenggat / Acara Mendatang** | Hari Ini (12.00 WIB) | Pencairan termin kedua dana proyek paguyuban festival |
 
 ---
 
