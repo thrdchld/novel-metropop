@@ -38,7 +38,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 | Mitos pantang makan lele keluarga Lamongan | Bab 2 (Cak Qodim & Pak Lik Harto menolak makan lele) | Bab 29 (Pak Lik Harto memegang kepala lele lukisan) | Bukti penghormatan leluhur dan harga diri seniman jalanan. |
 | Noda cat kuning stabilo di siku kanan jaket Aji | Bab 7 (Terkena senggolan kuas Wiwin saat panik kucing) | Bab 32 (Aji sengaja tidak mencuci jaket itu) | Tanda penerimaan Aji terhadap dunia manual yang penuh warna. |
 | Cobek batu sambal terasi dan aroma kemiri | Bab 11 (Makan malam pertama di warung Cak Qodim) | Bab 28 (Mbak Pur mengantar sambal penghangat badan) | Simbol kehangatan komunal warga gang di saat krisis melanda. |
-| Buku resep pigmen fosfor bertinta merah koyak | Bab 12 (Terselip di laci lemari obat Pak Lik Harto) | Bab 19 (Formula berhasil dipadukan dengan sablon transfer) | Pertemuan antara ilmu tradisi lisan dan logika sains modern. |
+| Buku catatan bahan lama Pak Lik | Bab 12 (Dibuka bersama Wiwin dan Aji) | Bab 13 (Dipakai sebagai referensi membandingkan sampel) | Catatan lama membantu menghindari kesalahan, bukan memberi formula ajaib. |
 | Piring seng blek blirik hijau loreng | Bab 1 (Tempat Wiwin menaruh adukan cat) | Bab 31 (Dipakai menyajikan gorengan saat perayaan festival) | Penanda kesederhanaan hidup yang tidak lekang oleh zaman. |
 
 ---
