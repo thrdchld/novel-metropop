@@ -664,13 +664,13 @@ Aku belum menganggap Aji sebagai rekan. Belum juga yakin bahwa cara kerjanya coc
 
 "Jangan sentuh kuas bulu musang nomor satuku kalau tanganmu belum dicuci!"
 
-Pekikanku membuat Aji berhenti di ambang pintu. Pukul delapan pagi, ia datang membawa meja lipat aluminium dan kotak perkakas. Di tangannya ada dua gelas kopi plastik.
+Pekikanku membuat Aji berhenti di ambang pintu. Pukul delapan pagi, ia datang membawa meja lipat aluminium, kotak perkakas, dan dua gelas kopi plastik.
 
 "Aku baru dari kamar mandi," katanya. "Dan aku tidak berniat menyentuh kuasmu."
 
 "Bagus. Berarti kita bisa mulai dengan tidak saling mengganggu."
 
-Aji meletakkan meja di sisi timur ruko, dekat jendela. Laptop, alat potong kecil, penggaris, dan beberapa lembar bahan uji ia susun di atasnya. Sementara itu, sisi barat tetap menjadi wilayahku: kain mori, kaleng cat, kuas, dan meja rendah yang sudah penuh bekas warna.
+Aji meletakkan meja di sisi timur ruko, dekat jendela. Laptop, penggaris, alat potong kecil, dan beberapa lembar bahan uji ia susun di atasnya. Sementara itu, sisi barat tetap menjadi wilayahku: kain mori, kaleng cat, kuas, dan meja rendah yang sudah penuh bekas warna.
 
 Ia mengeluarkan lakban hitam dari kotak perkakas, lalu menempelkan sepotong di lantai sebagai penanda batas.
 
@@ -678,25 +678,31 @@ Aku memandang garis itu. "Kita mau kerja bareng atau membagi negara?"
 
 "Ini supaya alat dan bahan kita tidak bercampur. Area digital perlu bersih. Kalau debu atau serpihan cat menempel pada bahan transfer, hasilnya bisa cacat."
 
-"Kalau begitu, jangan taruh mejamu dekat tempat orang keluar masuk."
+"Kalau begitu, jangan taruh mejamu dekat pintu. Setiap motor lewat, debu masuk."
 
-Aji memandang pintu, lalu menggeser meja sekitar setengah meter. "Begini?"
+Aji melihat ke arah jalan. "Meja ini memang lebih baik dekat jendela. Aku bisa menutupnya kalau sedang mencetak."
 
-"Masih menghalangi jalan."
+"Kalau ditutup terus, catku lama kering."
 
-Ia menggesernya lagi. Kali ini aku mengangguk.
-
-"Urusan kipas juga," katanya. "Kalau diarahkan langsung ke meja, lembaran bahan ringan bisa terbang. Tapi kita tetap perlu sirkulasi udara."
+Ia mengamati kipas besi tua di sudut ruangan. "Kita perlu sirkulasi, tapi jangan diarahkan langsung ke bahan transfer. Lembaran tipis bisa terbang."
 
 "Catku juga perlu kering. Aku tidak mau semua kipas hanya mengarah ke laptopmu."
 
-Aji memeriksa posisi kipas besi tua di sudut ruko. "Kita taruh di tengah, arahkan ke atas. Kalau masih kurang, kita atur lagi."
+Aji menggeser kipas ke tengah ruangan, lalu mengarahkannya sedikit ke atas. "Begini dulu. Kalau catmu masih lama kering, kita atur lagi."
 
-"Jangan sampai catku berdebu."
+Aku memeriksa arah anginnya. Tidak terlalu kuat, tetapi cukup membuat ujung kain bergerak. "Boleh. Asal kalau aku bilang terlalu kencang, jangan berdebat."
 
-"Dan jangan sampai bahan transferku tertiup ke selokan."
+"Kalau aku bilang debu masuk ke meja, kamu juga jangan berdebat."
 
-Aku hampir membalas, tetapi ia sudah mengambil buku catatan dan menulis beberapa poin. Ia mencatat area kerja, tempat menyimpan alat, dan jadwal memakai meja panjang yang hanya satu-satunya permukaan rata di ruko.
+"Belum tentu."
+
+Ia menyerahkan satu gelas kopi kepadaku. Aku menerimanya, lalu menyingkirkan gelas itu dari dekat kain. Aji memperhatikan gerakanku.
+
+"Setidaknya kita sepakat minuman tidak boleh dekat bahan."
+
+"Karena aku tidak mau kopi tumpah ke lukisan. Bukan karena aturanmu."
+
+Aji membuka buku catatan dan menulis beberapa poin. Ia mencatat tempat menyimpan alat, posisi meja, dan cara membersihkan permukaan sebelum panel QRIS diterapkan. Aku menambahkan bahwa kuas yang sudah dipakai harus dibersihkan dan dikembalikan ke tempatnya. Ia mengingatkanku agar potongan kain uji tidak diletakkan di atas bahan transfer.
 
 "Kalau kita mau membuat prototipe, kita perlu ukuran yang sama," katanya. "Kamu tentukan komposisi gambar. Aku siapkan posisi kotak QRIS. Sebelum mulai, kita cocokkan sketsanya."
 
@@ -712,11 +718,17 @@ Aku mengambil kuas, lalu menunjuk garis lakban di lantai. "Batas ini juga jangan
 
 Aji menatapku sejenak. "Baik. Asal alat dikembalikan ke tempatnya."
 
-"Kalau begitu, mulai sekarang kamu juga harus belajar mengembalikan gelas kopi ke tempat sampah."
+"Kalau begitu, gelas kopimu juga jangan ditinggal di meja sampai sore."
 
-Ia melirik gelas plastik yang masih di tangannya, lalu tersenyum kecil.
+Ia melirik gelas plastik yang masih di tangannya, lalu membawanya ke tempat sampah.
 
-Kami mulai bekerja. Aku mengukur bidang kain, sementara Aji menyiapkan ukuran panel QRIS pada laptop. Sesekali kami berbeda pendapat soal jarak gambar dari tepi kain. Namun kali ini, perdebatan berhenti setelah penggaris diletakkan di tengah meja dan ukuran diperiksa bersama.
+Kami mulai bekerja. Aku mengukur bidang kain, sementara Aji menyiapkan ukuran panel QRIS pada laptop. Ia mencetak sketsa sederhana di kertas, lalu meletakkannya di samping gambar lele yang sedang kukerjakan.
+
+"Kalau kotaknya di sini, ekornya bisa tetap panjang," katanya.
+
+Aku menggeser kertas itu sedikit. "Tapi tulisan nama warung jangan terlalu dekat dengan gambar. Orang harus bisa membacanya dari jalan."
+
+Aji mengukur ulang. Kali ini ia tidak langsung membantah. Ia mencatat ukuran baru dan menunjukkan hasilnya kepadaku sebelum menyimpan file.
 
 Garis lakban hitam masih membelah lantai. Bedanya, sekarang aku tahu garis itu bukan tembok. Setidaknya, belum tentu.
 
@@ -738,7 +750,7 @@ Aku melirik kain mori yang sudah kusiapkan. "Jangan langsung di kain yang gambar
 
 "Makanya saya bawa sampel."
 
-Kami memotong dua potongan kain sisa. Aji membersihkan salah satunya, lalu menempelkan bahan transfer dengan squeegee kecil. Pada awalnya, permukaannya tampak rata. Namun ketika kain diangkat dari meja, bagian tengahnya membentuk kerutan tipis mengikuti tekstur tenunan.
+Kami memotong dua potongan kain sisa dengan ukuran sama. Aji membersihkan salah satunya, lalu menempelkan bahan transfer menggunakan squeegee kecil. Pada awalnya, permukaannya tampak rata. Namun ketika kain diangkat dari meja, bagian tengahnya membentuk kerutan tipis mengikuti tekstur tenunan.
 
 "Kelihatan?" tanyaku.
 
@@ -746,15 +758,15 @@ Aji menekan bagian yang menggelembung dengan ujung jari. "Permukaan kainnya tida
 
 "Dan seratnya membuat lapisan itu tidak menempel sempurna."
 
-Kami mencoba sampel kedua dengan alas yang lebih rata dan tekanan lebih merata. Hasilnya sedikit lebih baik, tetapi ketika kain dilipat, salah satu sudut panel terangkat.
+Kami mencoba sampel kedua dengan alas yang lebih rata dan tekanan lebih merata. Aji menggosok permukaan bahan dari tengah ke pinggir, memastikan tidak ada udara yang terperangkap. Hasilnya sedikit lebih baik. Namun ketika kain dilipat perlahan, salah satu sudut panel terangkat.
 
 Aji memeriksanya dari dekat. "Kalau dipasang seperti ini, lama-lama bisa mengelupas."
 
 "Belum lagi kalau spanduknya digulung atau ditarik saat pemasangan."
 
-Ia tidak membantah. Ia mengangkat panel itu perlahan, lalu membandingkan bagian yang menempel dan bagian yang terangkat.
+Ia mengangkat kain dan mencoba membentangkannya kembali. Sudut yang terangkat tetap tidak mau menempel. Aji mengambil catatan, menuliskan jenis bahan, tekanan yang dipakai, dan hasil setelah kain dilipat.
 
-"Berarti bahan ini belum cocok untuk cara pemasangan kita," katanya.
+"Kalau ditempel di permukaan datar, bahan ini mungkin bagus," katanya. "Tapi kain mori punya tekstur. Kita tidak bisa menganggap hasilnya akan sama."
 
 Aku mengambil potongan kain itu dan membentangkannya di meja. "Bukan berarti semua bahan transfer gagal. Kita baru mencoba satu jenis."
 
@@ -763,6 +775,12 @@ Aji mengangguk. "Betul. Saya akan cari bahan yang memang sesuai untuk kain berte
 "Jangan membeli alat dulu sebelum tahu bahan apa yang dipakai."
 
 "Setuju."
+
+Aku mengambil sampel pertama, lalu membandingkan bagian yang menempel dengan bagian yang berkerut. Ada sisa perekat tipis yang menempel di serat kain. Kalau dipaksa dilepas, permukaan mori bisa ikut tertarik.
+
+"Ini juga harus dibersihkan," kataku. "Jangan sampai sisa lemnya mengganggu cat kalau nanti kita mencoba bahan lain."
+
+Aji mengambil plastik bening untuk membungkus sampel gagal. "Kita simpan sebagai pembanding. Kalau bahan berikutnya berhasil, kita tahu apa yang berubah."
 
 Aku tersenyum tipis. Biasanya Aji akan membela pilihannya panjang lebar. Kali ini ia mencatat kegagalan itu tanpa mencari alasan.
 
@@ -800,7 +818,7 @@ Aji mengangguk, lalu berdiri. Aku menyusul karena tanganku masih menyisakan noda
 
 "Sudah siap?" tanyaku.
 
-Aji mengangguk. Ia mengambil potongan lele, memeriksa durinya, lalu mencicipi sedikit sambal. Selama beberapa detik ia mengunyah tanpa komentar.
+Aji mengangguk. Ia mengambil potongan lele dengan sendok, memeriksa durinya, lalu mencicipi sedikit sambal. Selama beberapa detik ia mengunyah tanpa komentar.
 
 "Gimana?" tanyaku.
 
@@ -824,6 +842,26 @@ Aji mengangkat bahu. "Saya cuma sedang mencari makan malam."
 
 Ia tidak menjawab. Tangannya justru mengambil nasi lagi.
 
+Beberapa menit kemudian, Aji meletakkan sendoknya. Ia memperhatikan aku memisahkan duri lele dengan jari, lalu mengambil sedikit nasi dan sambal. Aku menyodorkan piring kecil berisi lalapan.
+
+"Kalau sudah cuci tangan, coba saja. Tidak ada yang melarang pakai tangan."
+
+Aji tampak ragu. "Saya tidak terbiasa."
+
+"Kalau tidak nyaman, pakai sendok lagi. Sederhana."
+
+Ia memandang piringnya, lalu mencoba mengambil sedikit daging lele dengan tangan. Gerakannya kaku, tetapi ia berhasil memisahkan duri tanpa membuat nasi berantakan.
+
+"Lebih gampang, kan?" tanyaku.
+
+"Untuk lele, mungkin."
+
+"Untuk hidup juga kadang begitu. Tidak semua hal harus pakai alat."
+
+"Jangan mulai menghubungkan makan malam dengan filsafat."
+
+Aku tertawa. Aji mengambil sepotong kol goreng lagi. Kali ini ia tidak memakai sendok.
+
 Setelah beberapa suap, pembicaraan kami beralih ke pekerjaan. Aji bercerita bahwa ia sudah menghubungi pemasok bahan transfer, tetapi belum menemukan jenis yang cocok untuk kain mori. Aku menjelaskan bahwa beberapa cat yang kupakai juga membutuhkan waktu lebih lama untuk kering jika udara terlalu lembap.
 
 "Berarti kita sama-sama belum bisa memastikan jadwal produksi," katanya.
@@ -838,9 +876,7 @@ Ia memandangku sebentar. "Itu pujian?"
 
 "Jangan geer. Aku cuma sedang menyampaikan fakta."
 
-Aji tersenyum, lalu kembali makan.
-
-Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
+Aji tersenyum, lalu kembali makan. Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
 
 ---
 
@@ -856,9 +892,9 @@ Aku mengangkat buku itu dengan kedua tangan. "Ini buku resep yang dulu sering Li
 
 Aji berdiri di ambang pintu, menunggu dipersilakan masuk. Setelah Pak Lik mengangguk, ia mendekat dan membuka halaman yang sudah ditandai selembar kertas.
 
-Tulisan tangan Pak Lik memenuhi hampir seluruh halaman. Ada catatan tentang pigmen, minyak pengering, getah damar, dan beberapa jenis bahan pengikat yang dulu dipakai untuk melukis kain spanduk.
+Tulisan tangan Pak Lik memenuhi hampir seluruh halaman. Ada catatan tentang pigmen, minyak pengering, getah damar, dan beberapa jenis bahan pengikat yang dulu dipakai untuk melukis kain spanduk. Di bagian pinggir, beberapa baris diberi tanda silang. Ada pula tulisan kecil yang hampir pudar: terlalu kaku setelah kering, retak saat dilipat, warna berubah setelah kena hujan.
 
-Aji membaca salah satu baris. "Damar dicampur pelarut dan pigmen. Ini dipakai untuk cat kain?"
+Aji membaca salah satu baris. "Damar dicampur bahan pengikat dan minyak pengering. Ini dipakai untuk cat kain?"
 
 "Dulu pernah," jawab Pak Lik. "Tapi jangan langsung ditiru. Bahan yang tersedia sekarang berbeda. Kainnya juga belum tentu sama."
 
@@ -880,17 +916,25 @@ Aku mengambil toples kaca dari rak bawah. Di dalamnya tersimpan sisa bongkahan d
 
 Aji memeriksa label lama pada toples. "Kita perlu cari informasi komposisi dan bahan pelarut yang aman. Kalau tidak cocok, kita tinggalkan."
 
-Aku membuka halaman lain. Beberapa catatan menyebutkan hasil pengujian setelah kain dilipat dan dicuci. Tidak ada angka yang pasti, hanya tanda silang, lingkaran, dan komentar singkat.
+Aku membuka halaman lain. Beberapa catatan menyebutkan hasil pengujian setelah kain dilipat dan dicuci. Tidak ada angka yang pasti, hanya tanda silang, lingkaran, dan komentar singkat. Di salah satu halaman, Pak Lik menulis bahwa warna hijau yang terlihat bagus saat basah justru menjadi kusam setelah kering.
 
 "Lik dulu rajin juga mencatat," kataku.
 
 "Kalau tidak dicatat, besok lupa. Kalau gagal, setidaknya tahu jangan mengulang kesalahan yang sama."
 
+Aku mengusap tepi halaman yang mulai terlepas. Tulisan itu mengingatkanku pada masa kecil ketika Pak Lik masih sering membawa pulang kain percobaan. Dulu aku mengira semua spanduk yang ia buat selalu berhasil. Ternyata ia juga pernah menghabiskan bahan hanya untuk menemukan campuran yang tepat.
+
 Aji menutup buku dengan hati-hati. "Boleh saya foto beberapa halaman untuk dipelajari?"
 
 Pak Lik mengangguk. "Boleh. Setelah itu kembalikan ke lemari. Itu milik keluarga, bukan buku pinjaman."
 
-Aku menyimpan kembali toples damar dan menaruh buku di atas meja. Untuk pertama kalinya, catatan lama itu terasa bukan seperti resep ajaib yang akan menyelesaikan masalah kami, melainkan jejak pekerjaan seseorang yang pernah mencoba, gagal, lalu mencoba lagi.
+Aku menyimpan kembali toples damar dan menaruh buku di atas meja. "Kita tidak harus memakai semua catatan ini, kan?"
+
+"Tidak," jawab Aji. "Kita pilih yang masih masuk akal, lalu uji satu per satu."
+
+Pak Lik tersenyum kecil. "Itu yang seharusnya kalian lakukan sejak awal."
+
+Aku mengembalikan buku ke lemari setelah Aji selesai memotret halaman yang diperlukan. Untuk pertama kalinya, catatan lama itu terasa bukan seperti resep ajaib yang akan menyelesaikan masalah kami, melainkan jejak pekerjaan seseorang yang pernah mencoba, gagal, lalu mencoba lagi.
 
 Dan mungkin, untuk urusan spanduk kami, cara itu memang lebih masuk akal.
 
