@@ -31,6 +31,7 @@
 | 23 | Sabtu, 16.30 | Teras ruko Wiwin | Wiwin, Bachtiar, kurir dinas | Minum kopi cangkir blirik bersama; Bachtiar akui jiwa kuas manual; kurir antar surat kilat dinas |
 | 24 | Minggu, 09.00 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto | Surat dinas majukan pembukaan festival Selasa malam; tambah 10 spanduk VIP; susun strategi kilat |
 | 25 | Senin, 21.00 | Lantai semen ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Maraton lembur 10 spanduk VIP; tangan Wiwin kram dan dipijat Bachtiar; petir dan badai besar mendekat |
+| 26 | Selasa, 01.30 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Badai terjang ruko; talang seng jebol tumpahkan air bah; 10 mori VIP diselamatkan; mesin cetak korslet |
 
 ## A2. Timeline Masa Lalu
 
@@ -86,6 +87,7 @@
 | 23 | Wiwin | Hangat & terhubung | Cangkir blirik kopi hitam, amplop dinas kilat | Saling mengakui kelebihan dan menyatu rasa | Mengetahui apresiasi Bachtiar pada lukisan kuas | Ada surat kilat dinas misterius tiba |
 | 24 | Wiwin | Tegang & tertantang | Surat dinas, kuas kayu jati Pak Lik | Solid bersama Bachtiar dan sesepuh hadapi jebakan birokrasi | - | Menuntaskan 10 spanduk VIP sebelum Selasa fajar |
 | 25 | Wiwin | Berpeluh, linu, namun tersentuh | Kuas jati, plester koyo pergelangan tangan | Momen kedekatan fisik yang tulus saat Bachtiar memijat tangan | - | Ancaman badai besar yang mengguncang atap ruko |
+| 26 | Wiwin | Panik lalu syok | Terpal oranye basah, ember plastik | Bachtiar rela basah kuyup lindungi kain Wiwin | - | Mesin cetak digital Bachtiar korslet tersiram air banjir |
 
 ## E. Fakta Keras dan Angka
 

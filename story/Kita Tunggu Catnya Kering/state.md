@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 25 (*Kerja Rodi*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 26 (*Talang*)
-- **Titik Waktu Cerita:** Selasa, Pukul 01.30 WIB (Dini Hari)
+- **Bab Terakhir Selesai:** Bab 26 (*Talang*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 27 (*Pengorbanan*)
+- **Titik Waktu Cerita:** Selasa, Pukul 02.15 WIB (Dini Hari)
 - **Lokasi Terkini Tokoh Utama:** Ruang tengah ruko Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Hujan badai lebat, gemuruh petir, angin kencang menerjang atap seng ruko tua
+- **Cuaca / Suasana Fisik:** Hujan badai masih menderu, air menggenangi lantai semen, bau sangit sasis mesin korslet
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Panik dan histeris saat talang seng atap ruko jebol mengancam kain spanduk
+- **Kondisi Emosi Tokoh Utama:** Cemas dan terenyuh menyaksikan Bachtiar menerjang air memutus sekring dan menyelamatkan mesin
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Selasa (01.30 WIB) | Hujan badai menerjang Kalimalang; talang seng ruko jebol |
+| **Hari Ini** | Selasa (02.15 WIB) | Bachtiar berkorban menerjang air menahan seng talang dan mematikan sekring |
 | **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan pemasangan tenda paguyuban |
 | **Dua Hari Lalu (H-2)** | Minggu | Surat dinas pemajuan jadwal festival diterima paguyuban |
 | **Tenggat / Acara Mendatang** | Malam Ini (Selasa, 19.00 WIB) | Pembukaan akbar festival kuliner kota di jalan protokol |
