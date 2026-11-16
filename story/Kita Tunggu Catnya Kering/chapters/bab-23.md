@@ -1,83 +1,127 @@
 ## Bab 23: Cangkir Kopi
 
-Sore itu aku duduk di teras ruko dengan kaki pegal setelah beberapa hari memeriksa dan merapikan spanduk. Aji keluar dari bilik dapur membawa dua cangkir seng blirik bercorak hijau.
+Sore itu aku duduk di teras ruko dengan kaki pegal setelah berhari-hari memeriksa dan merapikan spanduk. Lima puluh gulung kain yang sudah diterima tim dinas tersusun di dalam, masing-masing diberi nomor dan dibungkus agar tidak terkena debu. Untuk pertama kalinya setelah sekian lama, meja kerja tidak dipenuhi kain setengah jadi.
 
-Ia meletakkan satu cangkir di hadapanku.
+Aji keluar dari bilik dapur membawa dua cangkir seng blirik bercorak hijau. Ia meletakkan satu di hadapanku, lalu duduk di bangku plastik sebelah.
 
-"Kopi hitam. Satu setengah sendok gula, diaduk berlawanan arah jarum jam."
+“Kopi hitam tubruk,” katanya. “Satu setengah sendok gula, diaduk berlawanan arah jarum jam.”
 
-Aku menatapnya. "Sejak kapan kamu hafal takaran kopiku?"
+Aku menatapnya. “Sejak kapan kamu hafal takaran kopiku?”
 
-"Sejak beberapa kali kamu mengeluh kalau gulanya terlalu banyak."
+“Sejak beberapa kali kamu protes kalau gulanya terlalu banyak.”
 
-Aku tertawa kecil. Kopi itu terasa pas, tidak terlalu manis. Di dalam ruko, lima puluh spanduk sudah dikemas dan disusun berdasarkan nomor. Pengangkutan ke lokasi festival dijadwalkan Senin pagi, sebelum pemasangan dilakukan.
+“Berarti kamu selama ini memperhatikan.”
 
-Aji memandangi tangannya. Jemarinya yang biasanya memegang tetikus kini masih menyisakan noda hitam dari proses sablon.
+“Sulit tidak memperhatikan kalau orangnya mengulang keluhan yang sama setiap kali minum.”
 
-"Dulu saya menganggap pekerjaan seperti ini terlalu banyak mengandalkan kebiasaan," katanya. "Sekarang saya tahu pengalaman tanganmu bisa menemukan masalah yang tidak terlihat di layar."
+Aku tertawa dan menyeruput kopi. Rasanya pas, tidak terlalu manis. Di jalan, motor dan angkot lewat silih berganti. Angin dari arah Kalimalang membawa bau air dan asap kendaraan, tidak benar-benar sejuk, tetapi cukup membuatku betah duduk lebih lama.
 
-"Dan aku tahu ukuran yang kamu catat itu ada gunanya. Asal jangan semua hal dihitung sampai jumlah gula."
+Aji memandangi tangannya. Jemarinya yang biasanya memegang tetikus kini masih menyisakan noda hitam dari proses menyiapkan panel transfer.
 
-Ia tersenyum. "Saya masih akan menghitung."
+“Dulu saya mengira pekerjaan seperti ini tinggal mengikuti kebiasaan,” katanya. “Kalau sudah tahu ukuran dan warna, mestinya selesai.”
 
-Kami tertawa. Untuk beberapa saat, kami hanya menikmati kopi dan suara kendaraan yang lewat.
+“Lalu?”
 
-"Kalau proyek ini selesai, kamu mau tetap mengerjakan spanduk?" tanyanya.
+“Lalu saya lihat kamu bisa tahu ada yang salah dari jarak beberapa meter, bahkan sebelum orang lain menyadarinya.”
 
-"Kalau ada pesanan. Kenapa?"
+“Kadang cuma karena gambarnya memang miring.”
 
-"Saya sedang berpikir untuk mempertahankan meja digital di sini. Mungkin kita bisa menerima pekerjaan kecil bersama, tidak harus menunggu proyek besar."
+“Justru itu. Di layar semuanya bisa kelihatan lurus. Begitu dibentangkan, baru kelihatan masalahnya.”
 
-Aku memandangnya. "Kita bahkan belum tahu apakah kita tahan bekerja bersama tanpa tenggat dinas."
+Aku mengangguk. “Aku juga belajar dari kamu. Dulu kupikir ukuran dan daftar itu bikin pekerjaan jadi kaku. Ternyata kalau tidak dicatat, kita bisa salah memasangkan QRIS orang.”
 
-"Benar juga."
+“Jadi sekarang kamu mengakui spreadsheet ada gunanya?”
 
-"Kalau mau mencoba, mulai dari pesanan kecil. Kita hitung biaya dan bagi tugasnya. Jangan langsung bicara buka usaha."
+“Jangan terlalu cepat merasa menang.”
 
-Aji mengangguk. "Masuk akal."
+Aji tersenyum. Kami diam beberapa saat. Di dalam ruko, suara kipas terdengar dari ruang kerja. Lima puluh spanduk sudah diperiksa dan diterima, tetapi belum dipasang. Kami masih menunggu kepastian jadwal pengangkutan dari panitia.
 
-Ia meletakkan cangkirnya di lantai, lalu melihat tanganku yang masih menyisakan noda cat di sekitar kuku.
+“Kalau proyek ini selesai, kamu mau tetap mengerjakan spanduk?” tanyanya.
 
-"Tanganmu sakit?" tanyanya.
+“Kalau ada pesanan, ya dikerjakan. Memangnya kenapa?”
 
-"Sedikit pegal. Bukan pertama kalinya."
+“Saya berpikir mungkin kita bisa menerima pekerjaan kecil bersama. Papan nama, spanduk warung, atau pesanan yang butuh ilustrasi dan panel digital.”
 
-"Kalau terus dipaksa, bisa jadi pertama kalinya kamu benar-benar tidak bisa memegang kuas."
+Aku menoleh kepadanya. “Kita bahkan belum tahu apakah bisa bekerja bersama tanpa tenggat dari dinas.”
 
-Aku menatapnya. "Kamu mulai terdengar seperti Pak Lik."
+“Memang belum.”
 
-"Berarti saya sedang belajar dari orang yang tepat."
+“Kalau mau mencoba, mulai dari satu atau dua pesanan. Kita hitung bahan, waktu, dan biaya. Jangan langsung bicara buka usaha.”
 
-Aku tertawa kecil. Kami tidak membicarakan hubungan atau hal-hal yang belum jelas. Yang kami bicarakan hanya pekerjaan kecil yang mungkin bisa diterima setelah festival: satu spanduk warung, papan nama, atau pesanan dari pedagang yang tidak sanggup membayar vendor besar.
+Aji mengangguk. “Saya setuju. Tidak perlu buru-buru.”
 
-"Kalau kita mencoba, jangan langsung menerima banyak pesanan," kataku. "Kita harus tahu berapa lama satu pekerjaan selesai."
+“Dan pembagian tugasnya harus jelas. Aku tidak mau semua gambar harus menunggu persetujuanmu.”
 
-Aji mengangguk. "Dan biaya bahan harus dicatat sejak awal. Tidak ada lagi menghitung keuntungan dari uang yang masuk saja."
+“Saya juga tidak mau semua file harus menunggu kamu selesai melukis.”
 
-"Bagus. Berarti kamu sudah belajar sesuatu selain ukuran piksel."
+“Bagus. Berarti kita sudah punya bahan untuk bertengkar.”
 
-Ia tersenyum, lalu menghabiskan kopinya.
+Ia tertawa. Percakapan itu terasa lebih mudah daripada beberapa minggu lalu. Bukan berarti semua perbedaan kami hilang, tetapi sekarang kami bisa membicarakannya tanpa harus saling membuktikan siapa yang paling benar.
 
-Jaket kanvas abu-abunya tergantung di sandaran kursi. Noda kuning di siku kanan masih terlihat, bekas kuasku yang tidak pernah berhasil dibersihkan.
+Aji melirik tanganku yang masih ada noda cat di sekitar kuku.
 
-"Jaket itu masih kamu simpan?" tanyaku.
+“Masih pegal?”
 
-"Masih. Saya sudah terbiasa."
+“Sedikit. Sudah biasa.”
 
-"Padahal bisa dicuci."
+“Kalau terus dipaksa, bisa jadi bukan cuma pegal.”
 
-"Kalau dicuci, nodanya mungkin tetap ada."
+Aku mengangkat alis. “Kamu mulai terdengar seperti Pak Lik.”
 
-"Berarti selama ini kamu cuma malas mencuci."
+“Berarti saya belajar dari orang yang tepat.”
 
-Aji tertawa. Ia tidak membantah.
+“Jangan bilang begitu di depan beliau. Nanti kamu disuruh ikut menjaga ruko.”
 
-Menjelang malam, sebuah kurir datang membawa amplop dari panitia. Cak Qodim yang kebetulan sedang di ruko menerima dan membukanya. Wajahnya berubah serius setelah membaca surat.
+Aji terkekeh. Ia mengambil cangkirnya, lalu tanpa sengaja menyenggol bangku hingga cangkir itu bergeser. Aku cepat menahannya sebelum jatuh.
 
-"Jadwal festival dimajukan," katanya. "Pembukaan yang semula Kamis dipindah ke Selasa malam karena perubahan agenda kunjungan. Pengiriman lima puluh spanduk utama yang semula dijadwalkan Senin pagi ikut ditunda sampai jadwal pemasangan dipastikan."
+“Hati-hati. Itu cangkir kesayangan Pak Lik.”
 
-Aji berdiri. "Kalau jadwal berubah, pengiriman dan pemasangan bisa kita atur lagi. Tapi kenapa Cak kelihatan begitu?"
+“Kenapa kamu yang panik?”
 
-Cak Qodim membalik halaman kedua. "Ada tambahan permintaan sepuluh spanduk untuk zona VIP. Mereka minta selesai sebelum Selasa pagi, lalu dipasang bersama lima puluh spanduk utama."
+“Karena kalau pecah, aku yang disuruh mencari penggantinya.”
 
-Aku menatap Aji. Kopi di cangkirku belum habis, tetapi sore santai kami rupanya sudah selesai.
+“Baik. Saya akan lebih berhati-hati.”
+
+Jaket kanvas abu-abunya tergantung di sandaran kursi. Noda kuning di siku kanan masih terlihat, meski bagian lain sudah dibersihkan. Aku menunjuknya dengan dagu.
+
+“Jaket itu masih kamu pakai?”
+
+“Masih layak.”
+
+“Sudah berapa kali dicuci?”
+
+“Cukup.”
+
+“Itu bukan angka.”
+
+“Kalau saya jawab, kamu akan mengejek.”
+
+“Berarti memang jarang.”
+
+Aji tertawa dan mengangkat cangkirnya lagi. Aku memperhatikan noda kuning itu sebentar. Dulu, bercak tersebut terasa seperti bukti bahwa ia ceroboh dan mengganggu pekerjaanku. Sekarang aku bahkan tidak ingat kapan terakhir kali ingin menyuruhnya membuang jaket itu.
+
+Kami kembali menikmati kopi. Tidak ada pembicaraan tentang hubungan atau janji yang terlalu jauh. Hanya kemungkinan menerima pesanan bersama, dengan perhitungan yang lebih masuk akal daripada sekadar berharap semuanya berjalan lancar.
+
+Menjelang malam, suara sepeda motor berhenti di depan ruko. Seorang kurir turun sambil membawa amplop besar berstempel panitia festival. Ia melihat papan nama di atas pintu, lalu bertanya apakah Cak Qodim ada.
+
+“Beliau sedang ke sekretariat paguyuban,” jawab Aji.
+
+Kurir itu memeriksa alamat pada amplop. “Ini untuk Paguyuban Reklame Mandiri. Bisa diterima dulu?”
+
+Aji mengambil amplop tersebut dan menandatangani bukti penerimaan. Logo panitia tercetak di sudut kiri atas. Ada cap resmi dan tulisan yang menyebut perubahan jadwal kegiatan.
+
+Aku meletakkan cangkir di lantai. “Ada apa?”
+
+“Belum tahu. Untuk Cak Qodim.”
+
+Aji membalik amplop, memastikan tidak ada lampiran yang terlepas. Dari dalam ruko, kipas masih berputar di dekat tumpukan spanduk yang sudah siap. Sore yang tadi terasa tenang mendadak seperti jeda sebelum sesuatu dimulai lagi.
+
+Tak lama kemudian Cak Qodim muncul dari arah warung Mbak Pur. Aji menyerahkan amplop itu kepadanya.
+
+“Surat dari panitia, Cak.”
+
+Cak Qodim membaca bagian depan, lalu membuka segelnya. Matanya bergerak cepat mengikuti baris pertama. Wajahnya yang semula santai berubah serius.
+
+“Ada perubahan,” katanya.
+
+Aku dan Aji saling pandang. Cak Qodim belum melanjutkan membaca, tetapi dari caranya memegang surat itu, aku tahu kopi sore kami sudah selesai.
