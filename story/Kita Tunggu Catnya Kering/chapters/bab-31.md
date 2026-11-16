@@ -60,6 +60,20 @@ Ia tidak membantah. Beberapa saat kami hanya melihat pengunjung yang berlalu-lal
 
 "Aku ingin tetap mengerjakan hal seperti ini," kata Aji. "Bukan cuma membuat desain dari layar, lalu mengirim file ke orang lain. Aku ingin ikut melihat hasilnya dipakai."
 
+Aku melirik ke arah tenda utama. "Pak Haris tadi datang, tapi kalian tidak bicara."
+
+Aji mengikuti arah pandangku. "Tidak ada yang perlu dibicarakan malam ini."
+
+"Dulu kamu kelihatan sangat terganggu setiap kali dia muncul."
+
+"Memang. Dulu aku ingin dia mengakui bahwa beberapa pekerjaan itu hasil kerjaku. Aku juga ingin tahu kenapa setelah protes, aku justru disingkirkan." Ia mengusap ibu jari tangan kirinya. "Tapi sekarang aku tidak bisa mengubah apa yang dia lakukan. Dan aku tidak mau terus menunggu pengakuannya untuk merasa pekerjaanku memang punya nilai."
+
+"Jadi sudah tidak marah?"
+
+"Masih ada bagian yang tidak enak kalau diingat. Bukan berarti semuanya langsung hilang." Aji menatap deretan spanduk. "Tapi malam ini orang-orang memakai hasil kerja kita. Mereka tidak perlu tahu cerita lama itu untuk bisa menilai hasilnya."
+
+Aku mengangguk. Rasanya lebih masuk akal daripada berpura-pura masa lalu bisa selesai hanya karena satu festival berjalan lancar.
+
 "Kamu bisa mulai dari pesanan kecil dulu."
 
 "Kalau kamu masih mau bekerja sama."
