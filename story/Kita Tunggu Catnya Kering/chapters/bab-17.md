@@ -30,7 +30,7 @@ Koh Acong mengembalikan kain campuran itu ke rak. "Masih teliti seperti Pak Likm
 
 "Kalau salah bahan, Koh, yang dimarahi bukan Koh Acong," jawabku.
 
-Ia tertawa dan mengambil lima puluh gulung mori primisima dari rak belakang. Aku memeriksa label komposisi pada beberapa gulung pertama untuk memastikan jenis kainnya sesuai. Tidak ada gunanya menghemat waktu pemeriksaan kalau kesalahan baru ketahuan setelah kain dipotong dan dilukis.
+Ia tertawa dan mengambil lima puluh tiga gulung mori primisima dari rak belakang. Aku memeriksa label komposisi pada beberapa gulung pertama untuk memastikan jenis kainnya sesuai. Tidak ada gunanya menghemat waktu pemeriksaan kalau kesalahan baru ketahuan setelah kain dipotong dan dilukis.
 
 Aji membuka buku kecilnya. "Satu gulung empat meter seratus dua puluh ribu, betul, Koh?"
 
