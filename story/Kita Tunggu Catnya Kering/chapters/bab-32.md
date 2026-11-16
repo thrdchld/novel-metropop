@@ -56,6 +56,14 @@ Di luar, suara kendaraan Kalimalang kembali memenuhi jalan. Di dalam ruko, meja-
 
 Untuk sekarang, kami punya satu pesanan, alat yang cukup, dan cara kerja yang sudah kami sepakati.
 
+Uang muka dari asosiasi pedagang soto masuk ke rekening studio setelah kami mengirimkan rincian pekerjaan. Aji mencatatnya sebagai uang pesanan, bukan keuntungan. Sebagian disimpan untuk membeli bahan, sementara sisanya tetap berada di rekening sampai semua biaya jelas. Kami sepakat tidak memakai uang proyek untuk kebutuhan pribadi.
+
+"Kalau dari awal sudah begini, mungkin kita tidak perlu berdebat soal siapa yang paling banyak bekerja," kataku.
+
+Aji menutup buku catatan. "Kita mungkin tetap akan berdebat. Tapi setidaknya sekarang ada angkanya."
+
+Aku tertawa kecil. Itu terdengar seperti awal yang lebih masuk akal daripada janji bahwa semuanya akan berjalan lancar.
+
 Aji menatap lengkungan jingga yang mulai mengering.
 
 "Kita tunggu catnya kering bersama-sama," katanya.
