@@ -12,7 +12,9 @@ Aku menyelesaikan ilustrasi lele di bagian tengah kain. Kotak kosong di sudut ka
 
 Aji mengukur ulang. "Cukup. Area kosongnya tidak boleh tertutup cat atau ornamen."
 
-Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. Proses penerapan dilakukan menggunakan mesin pres termal pinjaman dari pemasok bahan, mengikuti petunjuk suhu dan durasi yang dianjurkan. Kami mengikuti suhu dan durasi yang dianjurkan, kemudian membiarkan panel mendingin sebelum memeriksa tepinya.
+Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. File yang dipakai berasal dari merchant yang sudah memberi izin untuk pengujian. Aji juga memastikan ruang kosong di sekitar pola kode tidak tertutup ornamen atau bagian gambar.
+
+Proses penerapan dilakukan menggunakan mesin pres termal pinjaman dari pemasok bahan. Kami mengikuti petunjuk suhu dan durasi, lalu membiarkan panel mendingin sebelum memeriksa tepinya. Aji tidak langsung mengerjakan kain utama. Ia memakai potongan mori lebih dulu untuk memastikan tekanan dan posisi panel tidak berubah.
 
 Aku menahan napas ketika Aji mengangkat lapisan pelindung.
 
@@ -37,6 +39,14 @@ Aku menunjukkan layar kepadanya. Aji membandingkan nama itu dengan lembar data y
 "Dan kita belum menguji ketahanan setelah dipakai beberapa hari."
 
 Aji mengangguk. "Betul. Prototipe ini membuktikan metodenya bisa dicoba, bukan berarti seluruh produksi otomatis aman."
+
+Ia mencatat waktu penerapan dan jenis bahan yang dipakai, lalu menyimpan satu potongan kecil sebagai sampel pembanding. Aku meminta agar hasil uji itu tidak disebut sebagai bukti tahan air atau tahan minyak. Kami baru memastikan panel menempel, tidak rusak saat dilipat, dan bisa dibaca oleh kamera.
+
+"Kalau nanti ada panel yang gagal, jangan ditutup-tutupi," kataku. "Lebih baik kita tahu sebelum kain dipasang."
+
+"Setuju. Kita periksa setiap kode, bukan hanya mengambil satu contoh lalu menganggap semuanya sama."
+
+Aku melihat kembali nama merchant yang muncul di layar ponsel. Setidaknya, kali ini ada satu cara yang bisa kami bawa untuk dibicarakan dengan Cak Qodim.
 
 Dari pagar bengkel, Bang Parlin yang sejak tadi memperhatikan akhirnya bersuara.
 
