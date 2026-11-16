@@ -966,6 +966,16 @@ Sampel A tampak paling mengilap, tetapi ketika kulipat perlahan, permukaannya te
 
 Aji membandingkan catatannya. "Sampel A perlu diuji lagi. Kilapnya bagus, tapi kelenturannya buruk. B perlu perbaikan daya tutup. C jadi patokan kita."
 
+Ia mengambil potongan kain A dan menggosok permukaannya dengan kain putih bersih. Ada sedikit warna yang berpindah, tidak banyak, tetapi cukup membuatnya memberi tanda silang di kolom hasil.
+
+"Kalau ini dipakai di spanduk, orang bisa menggulungnya berkali-kali. Cat yang pindah ke sisi lain bisa mengotori gambar," katanya.
+
+Aku mengangkat potongan C ke dekat jendela. "Yang ini warnanya memang tidak seterang A, tapi garisnya masih rapi setelah kering. Kita bisa mengubah ketebalan lapisan, bukan langsung mengganti semua bahan."
+
+Aji mencatat usul itu. "Berarti percobaan berikutnya kita ubah satu hal saja. Kalau komposisinya sekaligus berubah, kita tidak tahu apa yang membuat hasilnya membaik."
+
+Aku mengangguk. Cara berpikirnya mulai terasa berguna. Selama ini aku sering mengandalkan ingatan dan perasaan ketika mencampur cat. Aji membantuku mencatat hal-hal yang biasanya kulewati begitu saja.
+
 Aku mengambil pensil dan menulis catatan kecil di belakang sampel. "Kita juga perlu uji setelah beberapa kali dilipat. Kalau untuk spanduk, kain pasti sering digulung."
 
 "Dan jangan lupa cek apakah warnanya berpindah saat permukaan digosok setelah benar-benar kering."
@@ -1006,7 +1016,9 @@ Aku menyelesaikan ilustrasi lele di bagian tengah kain. Kotak kosong di sudut ka
 
 Aji mengukur ulang. "Cukup. Area kosongnya tidak boleh tertutup cat atau ornamen."
 
-Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. Proses penerapan dilakukan menggunakan mesin pres termal pinjaman dari pemasok bahan, mengikuti petunjuk suhu dan durasi yang dianjurkan. Kami mengikuti suhu dan durasi yang dianjurkan, kemudian membiarkan panel mendingin sebelum memeriksa tepinya.
+Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. File yang dipakai berasal dari merchant yang sudah memberi izin untuk pengujian. Aji juga memastikan ruang kosong di sekitar pola kode tidak tertutup ornamen atau bagian gambar.
+
+Proses penerapan dilakukan menggunakan mesin pres termal pinjaman dari pemasok bahan. Kami mengikuti petunjuk suhu dan durasi, lalu membiarkan panel mendingin sebelum memeriksa tepinya. Aji tidak langsung mengerjakan kain utama. Ia memakai potongan mori lebih dulu untuk memastikan tekanan dan posisi panel tidak berubah.
 
 Aku menahan napas ketika Aji mengangkat lapisan pelindung.
 
@@ -1031,6 +1043,14 @@ Aku menunjukkan layar kepadanya. Aji membandingkan nama itu dengan lembar data y
 "Dan kita belum menguji ketahanan setelah dipakai beberapa hari."
 
 Aji mengangguk. "Betul. Prototipe ini membuktikan metodenya bisa dicoba, bukan berarti seluruh produksi otomatis aman."
+
+Ia mencatat waktu penerapan dan jenis bahan yang dipakai, lalu menyimpan satu potongan kecil sebagai sampel pembanding. Aku meminta agar hasil uji itu tidak disebut sebagai bukti tahan air atau tahan minyak. Kami baru memastikan panel menempel, tidak rusak saat dilipat, dan bisa dibaca oleh kamera.
+
+"Kalau nanti ada panel yang gagal, jangan ditutup-tutupi," kataku. "Lebih baik kita tahu sebelum kain dipasang."
+
+"Setuju. Kita periksa setiap kode, bukan hanya mengambil satu contoh lalu menganggap semuanya sama."
+
+Aku melihat kembali nama merchant yang muncul di layar ponsel. Setidaknya, kali ini ada satu cara yang bisa kami bawa untuk dibicarakan dengan Cak Qodim.
 
 Dari pagar bengkel, Bang Parlin yang sejak tadi memperhatikan akhirnya bersuara.
 
@@ -1106,6 +1126,22 @@ Rahang Aji mengeras. Aku melihatnya, tetapi ia tetap menjaga suaranya.
 
 Haris mengeluarkan lembar spesifikasi dari map. "Panitia akan meninjau prototipe dan rencana produksi. Kalau mereka menilai kalian belum siap, pekerjaan bisa dialihkan ke vendor lain. Saya tidak akan menyarankan mereka mengambil risiko hanya karena kalian ingin mencoba metode baru."
 
+Ia menunjuk bagian yang memuat jumlah, ukuran, dan jadwal penyerahan. Menurutnya, lima puluh spanduk bukan sekadar lima puluh gambar. Setiap kain harus memiliki ukuran yang sama, kode yang cocok dengan pemilik warung, dan hasil yang tidak rusak saat dibawa ke lokasi.
+
+"Kalau satu kode tertukar, pedagang yang menanggung akibatnya," katanya. "Kalau satu kain terlambat, pemasangan bisa ikut mundur."
+
+"Kami tahu," jawabku. "Karena itu setiap panel akan dicocokkan dengan nama pemiliknya."
+
+"Siapa yang akan memeriksa?"
+
+"Paguyuban ikut memeriksa daftar. Kami juga mencatat bahan yang dipakai dan hasil tiap tahap."
+
+Haris mengangkat alis. "Kalian sudah punya tenaga untuk itu?"
+
+Aji membuka buku catatan. "Belum semua. Kami sedang menghitung berapa orang yang dibutuhkan dan pekerjaan mana yang bisa dibantu anggota paguyuban. Kami tidak akan menjanjikan jumlah produksi sebelum hitungannya selesai."
+
+Haris menutup lembar spesifikasi. Ia tidak membantah, tetapi juga tidak terlihat puas. Bagiku, pertanyaan-pertanyaan itu memang masuk akal. Yang mengganggu hanya caranya menyampaikan, seolah-olah kami harus membuktikan bahwa tempat kerja kecil ini layak didengar.
+
 "Masuk akal," kataku. "Tapi penilaiannya harus berdasarkan hasil uji dan kemampuan produksi, bukan karena Bapak tidak suka tempat kerja kami."
 
 Haris melirikku. "Saya tidak punya urusan pribadi dengan tempat ini."
@@ -1166,6 +1202,16 @@ Ia berhenti. Aku menunggu, tidak ingin memaksanya bercerita.
 
 Aji menyesap tehnya. Ia tidak terdengar marah seperti saat membicarakan Haris di ruko. Justru suaranya datar, seolah sudah terlalu sering mengulang kejadian itu dalam kepala.
 
+"Awalnya saya pikir bisa membuktikan semuanya lewat pekerjaan berikutnya," katanya. "Saya simpan file, tangkapan layar, dan beberapa percakapan. Tapi desainnya dikerjakan dalam sistem perusahaan. Akun, kontrak, dan dokumen proyek dipegang mereka. Saya tidak punya bukti yang cukup untuk membawa masalah itu ke mana-mana."
+
+"Jadi kamu pergi begitu saja?"
+
+"Saya sempat protes. Setelah itu suasana kantor berubah. Saya diberi pekerjaan yang tidak jelas, lalu nama saya masuk daftar pengurangan pegawai."
+
+Ia mengusap sisi cangkir dengan ibu jari. "Saya tidak mendapat pesangon yang cukup untuk memulai usaha. Mesin ini saya beli dengan tabungan dan cicilan. Saya pikir kalau punya alat sendiri, setidaknya hasil kerja saya tidak bisa diambil orang lain."
+
+Aku memandang ke arah ruko seberang. Selama ini aku mengira Aji datang dengan mesin mahal dan keyakinan bahwa semua orang harus mengikuti caranya. Ternyata ia juga sedang mencoba mempertahankan sesuatu yang nyaris hilang.
+
 "Makanya kamu buka usaha sendiri?"
 
 "Awalnya begitu. Saya pikir kalau semua alat dan pekerjaan saya pegang sendiri, tidak ada orang yang bisa mengambil hasilnya begitu saja."
@@ -1187,6 +1233,18 @@ Aji menoleh.
 "Kadang-kadang."
 
 Aji menggeleng pelan. "Saya tidak tahu apakah itu tertinggal atau bukan. Tapi tanpa lukisanmu, proyek ini tidak akan punya bentuk seperti yang diminta paguyuban."
+
+Aku menunduk memandangi cangkir. "Kadang aku takut kalau Pak Lik tidak bisa melukis lagi, usaha ini ikut berhenti. Aku belum punya pekerjaan lain yang bisa langsung menggantikan penghasilan dari ruko."
+
+"Berarti kita sama-sama sedang bergantung pada proyek ini."
+
+"Bedanya, kamu punya mesin yang bisa disita. Aku punya kuas yang kalau rusak masih bisa beli lagi, asal ada uang."
+
+Aji tertawa pendek. "Kuasmu tidak semurah itu kalau harus membeli yang bagus."
+
+"Setidaknya tidak ada leasing yang datang menagih."
+
+Kami tertawa kecil. Tidak lama, tetapi cukup untuk mengurangi tegang yang sejak tadi terasa di antara kami.
 
 Aku menatapnya. "Kamu juga tidak akan bisa menyelesaikan QRIS hanya dengan gambar bagus."
 
