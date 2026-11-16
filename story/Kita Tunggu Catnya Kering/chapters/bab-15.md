@@ -42,6 +42,22 @@ Rahang Aji mengeras. Aku melihatnya, tetapi ia tetap menjaga suaranya.
 
 Haris mengeluarkan lembar spesifikasi dari map. "Panitia akan meninjau prototipe dan rencana produksi. Kalau mereka menilai kalian belum siap, pekerjaan bisa dialihkan ke vendor lain. Saya tidak akan menyarankan mereka mengambil risiko hanya karena kalian ingin mencoba metode baru."
 
+Ia menunjuk bagian yang memuat jumlah, ukuran, dan jadwal penyerahan. Menurutnya, lima puluh spanduk bukan sekadar lima puluh gambar. Setiap kain harus memiliki ukuran yang sama, kode yang cocok dengan pemilik warung, dan hasil yang tidak rusak saat dibawa ke lokasi.
+
+"Kalau satu kode tertukar, pedagang yang menanggung akibatnya," katanya. "Kalau satu kain terlambat, pemasangan bisa ikut mundur."
+
+"Kami tahu," jawabku. "Karena itu setiap panel akan dicocokkan dengan nama pemiliknya."
+
+"Siapa yang akan memeriksa?"
+
+"Paguyuban ikut memeriksa daftar. Kami juga mencatat bahan yang dipakai dan hasil tiap tahap."
+
+Haris mengangkat alis. "Kalian sudah punya tenaga untuk itu?"
+
+Aji membuka buku catatan. "Belum semua. Kami sedang menghitung berapa orang yang dibutuhkan dan pekerjaan mana yang bisa dibantu anggota paguyuban. Kami tidak akan menjanjikan jumlah produksi sebelum hitungannya selesai."
+
+Haris menutup lembar spesifikasi. Ia tidak membantah, tetapi juga tidak terlihat puas. Bagiku, pertanyaan-pertanyaan itu memang masuk akal. Yang mengganggu hanya caranya menyampaikan, seolah-olah kami harus membuktikan bahwa tempat kerja kecil ini layak didengar.
+
 "Masuk akal," kataku. "Tapi penilaiannya harus berdasarkan hasil uji dan kemampuan produksi, bukan karena Bapak tidak suka tempat kerja kami."
 
 Haris melirikku. "Saya tidak punya urusan pribadi dengan tempat ini."
