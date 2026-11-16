@@ -1,47 +1,49 @@
 ## Bab 13: Rumus Kimia
 
-Angka nol koma empat milimeter adalah musuh terbesar dalam hidupku minggu ini.
+Tiga potongan kain mori terbentang di atas meja. Masing-masing diberi tanda A, B, dan C menggunakan kertas kecil yang ditempel di ujungnya.
 
-Selisih tipis selebar ujung jarum jahit itulah yang membuat kamera ponsel menolak membaca kode QRIS buatanku, dan selisih itu pula yang kini sedang diperdebatkan di atas meja kayu ruko. Pukul sebelas siang, terik Kalimalang mulai memanggang seng kanopi luar. Di hadapanku tergeletak timbangan digital saku berlayar biru menyala, tiga gelas kaca berisi cairan bening, dan sebuah papan tulis putih mini berukuran tiga puluh senti yang dipenuhi coretan rumus spidol hitam milik Aji.
+Aji menyiapkan timbangan digital, gelas ukur, dan buku catatan. Aku membawa beberapa jenis cat kain yang biasa kupakai, bersama sisa bahan pengikat yang masih tersegel.
 
-"Viskositas larutan harus berada di kisaran tiga ratus sampai tiga ratus lima puluh centipoise," kata Aji serius sambil mengetukkan spidolnya ke papan tulis. "Kalau rasionya seratus gram serbuk damar dilarutkan ke dalam enam puluh mililiter bensin murni dan dua puluh gram pigmen karbon, tingkat penguapannya pas. Cat tidak akan meluber saat ditarik di atas kain mori."
+"Kita mulai dari bahan yang komposisinya jelas," kata Aji. "Catatan Pak Lik bisa jadi pembanding, bukan formula yang langsung kita ikuti."
 
-Aku mendengus keras, melipat celemek kain blacu di dada. "Centipoise centipoise mbahmu! Kamu mau bikin cat spanduk apa bikin vaksin flu burung?"
+Aku mengangguk. "Aku mau lihat hasilnya setelah kering. Jangan cuma menilai dari warna saat masih basah."
 
-"Ini fisika cairan terapan, Wiwin," balas Aji tanpa menoleh dari catatannya. "Serat benang katun menyerap cairan berdasarkan gaya kapilaritas. Kalau cairannya terlalu encer karena kelebihan pelarut, dia merembes horizontal. Makanya garis hitammu kemarin meluber nol koma empat milimeter."
+Kami mengoleskan lapisan tipis pada potongan A, lalu memakai campuran berbeda untuk potongan B. Potongan C menjadi pembanding dengan cat yang biasa kugunakan. Semua bahan sudah diberi label sesuai petunjuk produsennya. Aji memastikan area kerja memiliki ventilasi dan tidak ada sumber panas terbuka di dekat bahan.
 
-"Dengar ya, insinyur dadakan," kataku sambil menarik piring kaleng blirik hijau loreng ke tengah meja. "Kain mori itu barang hidup, tenunannya dipengaruhi kelembapan udara. Di ruangan pengap berdebu kayak begini, cairan cat bakal menguap dua kali lebih cepat daripada hitungan di atas kertas komputermu."
+"Kalau terlalu tebal, kainnya bisa kaku," kataku sambil meratakan cat dengan kuas.
 
-Kutuangkan serbuk kuning damar mata kucing ke dalam piring kaleng blirik, menyusulkan sedikit demi sedikit cairan pelarut bensin murni menggunakan sendok makan bebek. Kutambahkan dua sendok pasta pigmen hitam sablon pekat ke adonan itu.
+"Kalau terlalu tipis, warnanya mungkin kurang menutup," jawab Aji.
 
-Aji buru-buru menyalakan timbangan digitalnya, menggeser piring blirik itu dengan panik.
+"Makanya jangan menebak sebelum kering."
 
-"Tunggu! Jangan main tuang sembarangan!" teriak Aji panik. "Kamu belum menimbang massa pigmennya!"
+Kami memberi waktu pada sampel untuk mengering sesuai petunjuk bahan. Sambil menunggu, Aji mencatat jumlah lapisan, kondisi ruangan, dan waktu aplikasi. Aku memeriksa apakah warna menyebar melewati garis yang kubuat.
 
-"Pakai tangan, bukan pakai timbangan emas!" semprotku.
+Sampel A tampak paling mengilap, tetapi ketika kulipat perlahan, permukaannya terasa kaku. Sampel B lebih lentur, namun warnanya kurang pekat. Sampel C tidak terlalu mencolok, tetapi hasilnya paling mendekati bahan yang biasa kupakai.
 
-Kucelupkan ujung jari telunjuk dan jempol kananku langsung ke dalam adonan pasta hitam pekat di atas piring seng. Kuputar adonan itu searah jarum jam, lalu kuangkat jemariku ke udara, merenggangkannya perlahan untuk melihat tarikan cairan cat.
+"Belum ada yang menang," kataku.
 
-Adonan itu langsung putus dalam jarak satu sentimeter, meninggalkan tetesan kental yang kaku.
+Aji membandingkan catatannya. "Sampel A perlu diuji lagi. Kilapnya bagus, tapi kelenturannya buruk. B perlu perbaikan daya tutup. C jadi patokan kita."
 
-"Terlalu liat," gumamku pada diri sendiri. "Kain kasa saringanmu nomor seratus dua puluh T bakal mampet kalau ditarik pasta sekering ini."
+Aku mengambil pensil dan menulis catatan kecil di belakang sampel. "Kita juga perlu uji setelah beberapa kali dilipat. Kalau untuk spanduk, kain pasti sering digulung."
 
-Aji mengernyit, menatap jariku yang belepotan cat hitam pekat dengan ekspresi campur aduk antara heran dan penasaran. Ia melirik layar kalkulator ponselnya yang menampilkan angka desimal rumit, lalu menyadari bahwa angka kalkulator tidak memperhitungkan panas udara Kalimalang yang menyedot pelarut lebih cepat.
+"Dan jangan lupa cek apakah warnanya berpindah saat permukaan digosok setelah benar-benar kering."
 
-"Berapa mililiter lagi yang harus ditambahkan menurut instingmu?" tanya Aji pelan, nadanya mulai melunak.
+Aku mengangkat alis. "Kamu mulai mengerti cara kerja kain."
 
-"Satu sendok teh pelarut, lalu aduk pelan sampai teksturnya mirip susu kental manis cokelat," jawabku mantap. "Kalau ditarik ke atas, dia harus membentuk benang tipis sepanjang tiga senti sebelum putus."
+"Dan kamu mulai mau membaca catatan."
 
-Aji menelan ludah. Ia meletakkan spidolnya, lalu mengambil pipet tetes plastik. Dengan gerakan hati-hati, ia meneteskan cairan pelarut sesuai arahanku, lalu mengaduknya menggunakan bilah pisau palet baja.
+"Jangan berharap terlalu banyak."
 
-Putaran demi putaran menghasilkan suara gesekan halus di dasar piring kaleng. Pasta hitam itu perlahan berubah menjadi kental berkilap, menyerupai lelehan aspal basah yang pekat namun lentur.
+Aji tertawa pendek. Ia menuliskan hasil pengamatan tanpa mengklaim bahwa salah satu campuran sudah sempurna. Untuk pertama kalinya, angka-angka di bukunya tidak terasa seperti cara untuk mengalahkan pengalamanku. Catatan itu justru membantu kami mengingat apa yang sudah dicoba.
 
-Aji mengangkat bilah pisaunya ke udara.
+Menjelang sore, kami menyimpan sampel di rak terpisah. Tidak ada formula ajaib yang ditemukan hari itu. Hanya dua hasil yang perlu diperbaiki dan satu bahan pembanding yang masih layak digunakan.
 
-Cairan hitam itu menetes perlahan, membentuk untaian benang halus sepanjang tiga sentimeter persis seperti yang kukatakan, sebelum akhirnya putus lembut ke dasar piring.
+"Besok kita lanjutkan," kata Aji.
 
-Aji menatap cairan hitam di piring blirik itu tanpa berkedip. Perlahan, senyum tipis yang tulus mengembang di sudut bibirnya.
+Aku mengangguk. "Asal kamu tidak membawa rumus yang lebih panjang daripada daftar belanja."
 
-"Tiga ratus dua puluh centipoise," bisik Aji takjub, melirik timbangan digitalnya yang kini sudah ia matikan.
+"Kalau hasilnya bagus, kamu tetap mau pakai?"
 
-Ia menoleh ke arahku, menatap jari-jariku yang kapalan dan penuh noda cat dengan sorot mata yang berbeda. Di luar ruko, deru knalpot jalan raya masih bising memekakkan telinga. Namun di atas meja kerja kami, rumus sains tercanggih ternyata tidak selalu lahir dari laboratorium steril serba mahal, melainkan dari kepekaan sepasang tangan pekerja yang sudah hafal tabiat alamnya sendiri.
+"Kalau hasilnya bagus, baru kita bicara."
+
+Aji menutup buku catatannya. Di meja, tiga potongan kain itu tampak hampir sama. Bedanya baru akan terlihat setelah pengujian berikutnya.
