@@ -17,27 +17,27 @@
 | 9 | Rabu, 08.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji pasang garis lakban hitam pembatas ruko; Wiwin balas dengan hembusan kipas angin nomor tiga |
 | 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Uji semprot air gagal; stiker vinil menggelembung dan robek saat ditekan squeegee; cara instan gugur |
 | 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin traktir makan lele kobokan; Aji luluh makan pakai tangan dan cicip sambal terasi |
-| 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin buka buku resep kuno; Aji temukan formula getah damar untuk tinta sablon saring QRIS |
-| 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Aji | Aji hitung viskositas centipoise; Wiwin koreksi takaran pakai kepekaan jemari; formula pasta damar pas |
-| 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Aji, Bang Parlin | Sablon saring pasta damar sukses cetak QRIS tajam; sensor HP baca 0,2 detik; mobil dinas pelat merah tiba |
-| 15 | Senin, 09.30 | Ruko Wiwin | Wiwin, Aji, Pak Haris | Haris datang sebagai pemilik Mitra Graha/konsultan; pemeriksaan awal menetapkan tenggat produksi dua minggu, bukan kewenangan Haris sebagai pejabat dinas. |
-| 16 | Rabu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji curhat di-PHK Pak Haris; Wiwin ungkap luka batal kuliah seni; keduanya saling memahami |
+| 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin membuka catatan bahan lama Pak Lik; mereka menjadikannya referensi eksperimen, bukan formula QRIS |
+| 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Aji | Aji mencatat hasil uji beberapa campuran; tidak ada formula yang langsung dianggap sempurna |
+| 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Aji, Bang Parlin | Prototipe panel QRIS digital berhasil dipasang dengan mesin pres termal pinjaman dan terbaca saat diuji; Haris tiba setelah melihat hasilnya |
+| 15 | Minggu, sekitar 16.15 | Ruko Wiwin | Wiwin, Aji, Pak Haris | Kunjungan Haris berlanjut dari akhir Bab 14; ia datang sebagai pemilik Mitra Graha/konsultan, bukan pejabat dinas. |
+| 16 | Minggu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji bercerita tentang PHK dan portofolio; Wiwin menceritakan kuliah seni yang batal; keduanya mulai memahami alasan masing-masing |
 | 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Borong 50 gulung mori primisima katun; Bang Rahmat kabarkan lobi gelap Pak Haris dan Mitra Graha |
-| 18 | Kamis, 07.30 | Warung dekat stasiun | Wiwin, Aji, Bang Rahmat | Kabar pemeriksaan kesiapan proyek; sumber informasi Bang Rahmat berasal dari sopir yang biasa menunggu di sekitar kantor, bukan akses jabatan. |
+| 18 | Kamis, 07.30 | Warung dekat stasiun | Wiwin, Aji, Bang Rahmat | Kabar peninjauan kesiapan yang akan dilakukan beberapa hari lagi; sumber informasi Bang Rahmat berasal dari sopir dekat kantor dinas, bukan akses jabatan. |
 | 19 | Beberapa hari setelah Bab 18 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi massal dimulai bertahap di meja dan rak kerja; tiap QRIS dicocokkan dengan merchant pemiliknya. |
 | 20 | Dalam masa produksi | Ruko Wiwin dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin | Pengeringan dilakukan dengan sirkulasi udara dan jarak antarkain; tidak memakai udara kompresor dari knalpot panas. |
-| 21 | Setelah produksi selesai | Pelataran ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim | Pemeriksaan keterbacaan QRIS dilakukan untuk tiap merchant; pemindaian bukan bukti pembayaran. |
+| 21 | Beberapa hari setelah produksi dimulai, pukul 09.00 | Pelataran ruko Wiwin | Wiwin, Aji, staf dinas, Cak Qodim | Tim verifikasi memeriksa proses produksi dan kecocokan data QRIS; pemindaian bukan bukti pembayaran atau penerimaan akhir. |
 | 22 | Setelah pemeriksaan akhir | Ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas | Pemeriksaan hasil dan berita acara dilakukan oleh pihak berwenang bersama paguyuban; Haris tidak menandatangani sebagai pejabat. |
-| 23 | Menjelang perubahan jadwal festival | Teras ruko Wiwin | Wiwin, Aji, kurir dinas | Momen kopi dan percakapan personal; surat resmi mengabarkan perubahan jadwal. |
-| 24 | Minggu pagi | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Festival dimajukan ke Selasa malam dan ada tambahan pesanan 10 spanduk VIP; biaya serta tambahan kain harus disetujui. |
+| 23 | Minggu sore | Teras ruko Wiwin | Wiwin, Aji, kurir panitia | Momen kopi dan percakapan personal; surat resmi mengabarkan perubahan jadwal dan penundaan pengiriman. |
+| 24 | Minggu sore, berlanjut langsung dari Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Festival dimajukan ke Selasa malam; pengiriman 50 spanduk ditunda dan pesanan bertambah 10 spanduk VIP; biaya serta tambahan kain harus disetujui. |
 | 25 | Senin, sekitar 21.00–23.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Sepuluh spanduk VIP diselesaikan; tangan Wiwin kram dan mereka beristirahat; badai mendekat. |
 | 26 | Selasa, sekitar 01.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Talang terlepas dan air masuk; sepuluh kain VIP dipindahkan; mesin terkena rembesan dan listrik diputus dari sumber utama setelah bantuan petugas. |
 | 27 | Selasa dini hari, setelah area aman | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Aji membantu mengarahkan talang setelah listrik diputus; tepi seng melukai telapak tangannya. |
 | 28 | Selasa pagi | Ruko Wiwin | Wiwin, Aji, teknisi, Bang Parlin, Mbak Pur, Pak Lik Harto, Cak Qodim | Teknisi menemukan kerusakan komponen mesin, tetapi belum menyatakan mesin tidak bisa diperbaiki; paguyuban menyiapkan pemasangan. |
 | 29 | Selasa, menjelang siang | Area festival Cawang | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto, pedagang, Haris | Paguyuban memasang 60 spanduk; Wiwin memeriksa lukisan, Aji mengawasi daftar QRIS, Haris hadir sebagai konsultan/pemilik Mitra Graha. |
-| 30 | Selasa, 19.00 | Arena festival kuliner | Wiwin, Aji, Cak Qodim, Pak Lik Harto, menteri, kepala dinas, panitia | Menteri menguji QRIS Cak Qodim dan transaksi berhasil setelah konfirmasi; hasil proyek mendapat perhatian panitia. |
+| 30 | Selasa, 19.00 | Arena festival kuliner | Wiwin, Aji, Cak Qodim, Pak Lik Harto, wali kota, kepala dinas, panitia | Wali kota menguji QRIS Cak Qodim dan transaksi berhasil setelah konfirmasi; hasil proyek mendapat perhatian panitia. |
 | 31 | Selasa, 21.00 | Tenda Cak Qodim | Wiwin, Aji, Cak Qodim, Pak Lik Harto, Mbak Pur, Bang Parlin | Perayaan bersama; piring blirik dipakai menyajikan makanan; Wiwin dan Aji membicarakan kemungkinan usaha bersama. |
-| 32 | Minggu berikutnya, 16.30 | Studio Tenda Malam, Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim | Studio mulai beroperasi dengan pembagian peran dan biaya yang disepakati; Aji memakai mesin pres bekas, sementara mesin cetak besar masih menunggu keputusan perbaikan. |
+| 32 | Minggu berikutnya, menjelang siang | Studio Tenda Malam, Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim | Studio mulai beroperasi dengan pembagian peran dan biaya yang disepakati; Aji memakai mesin pres bekas, sementara mesin cetak besar masih menunggu keputusan perbaikan. |
 
 ## A2. Timeline Masa Lalu
 
@@ -66,7 +66,7 @@
 
 ## D. Status Tokoh per Bab
 
-| Bab | POV | Emosi/perubahan | Benda/fokus | Hubungan terakhir | Fakta yang harus diingat | Urusan menggantung |
+| Bab | Emosi/perubahan | Benda/fokus | Hubungan terakhir | Fakta yang harus diingat | Urusan menggantung |
 |---|---|---|---|---|---|---|
 | 1 | Waspada; usaha terancam | Kuas dan kain mori | Belum mengenal Aji | Obat Pak Lik perlu dibeli | Identitas penyewa ruko seberang |
 | 2 | Jengkel dan tertantang | Pesanan spanduk Cak Qodim | Saling sindir | Pantangan lele adalah kepercayaan keluarga/tokoh | Persaingan dengan Aji |
@@ -120,7 +120,7 @@
 | Mitos pantang lele Lamongan | Bab 2 | Bab 11 | Bab 29 | Prinsip harga diri keluarga perantau |
 | Noda cat kuning di siku jaket | Bab 7 | Bab 20 | Bab 32 | Simbol abadi menyatunya dua dunia |
 | Cobek batu sambal terasi | Bab 11 | Bab 20 | Bab 28 | Simbol kehangatan komunal warga gang di saat krisis melanda |
-| Buku resep pigmen fosfor koyak | Bab 12 | Bab 19 | Bab 30 | Formula damar tradisional dipadukan dengan sablon transfer |
+| Buku catatan bahan dan percobaan cat lama | Bab 12 | Bab 19 | Bab 30 | Catatan lama menjadi rujukan eksperimen; panel QRIS tetap dicetak digital dan dipasang dengan transfer |
 
 
 ## G. Aturan Fakta yang Mengikat Setelah Revisi
