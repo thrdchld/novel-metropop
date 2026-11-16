@@ -20,7 +20,7 @@ Aji mengangguk, lalu berdiri. Aku menyusul karena tanganku masih menyisakan noda
 
 "Sudah siap?" tanyaku.
 
-Aji mengangguk. Ia mengambil potongan lele, memeriksa durinya, lalu mencicipi sedikit sambal. Selama beberapa detik ia mengunyah tanpa komentar.
+Aji mengangguk. Ia mengambil potongan lele dengan sendok, memeriksa durinya, lalu mencicipi sedikit sambal. Selama beberapa detik ia mengunyah tanpa komentar.
 
 "Gimana?" tanyaku.
 
@@ -44,6 +44,26 @@ Aji mengangkat bahu. "Saya cuma sedang mencari makan malam."
 
 Ia tidak menjawab. Tangannya justru mengambil nasi lagi.
 
+Beberapa menit kemudian, Aji meletakkan sendoknya. Ia memperhatikan aku memisahkan duri lele dengan jari, lalu mengambil sedikit nasi dan sambal. Aku menyodorkan piring kecil berisi lalapan.
+
+"Kalau sudah cuci tangan, coba saja. Tidak ada yang melarang pakai tangan."
+
+Aji tampak ragu. "Saya tidak terbiasa."
+
+"Kalau tidak nyaman, pakai sendok lagi. Sederhana."
+
+Ia memandang piringnya, lalu mencoba mengambil sedikit daging lele dengan tangan. Gerakannya kaku, tetapi ia berhasil memisahkan duri tanpa membuat nasi berantakan.
+
+"Lebih gampang, kan?" tanyaku.
+
+"Untuk lele, mungkin."
+
+"Untuk hidup juga kadang begitu. Tidak semua hal harus pakai alat."
+
+"Jangan mulai menghubungkan makan malam dengan filsafat."
+
+Aku tertawa. Aji mengambil sepotong kol goreng lagi. Kali ini ia tidak memakai sendok.
+
 Setelah beberapa suap, pembicaraan kami beralih ke pekerjaan. Aji bercerita bahwa ia sudah menghubungi pemasok bahan transfer, tetapi belum menemukan jenis yang cocok untuk kain mori. Aku menjelaskan bahwa beberapa cat yang kupakai juga membutuhkan waktu lebih lama untuk kering jika udara terlalu lembap.
 
 "Berarti kita sama-sama belum bisa memastikan jadwal produksi," katanya.
@@ -58,6 +78,4 @@ Ia memandangku sebentar. "Itu pujian?"
 
 "Jangan geer. Aku cuma sedang menyampaikan fakta."
 
-Aji tersenyum, lalu kembali makan.
-
-Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
+Aji tersenyum, lalu kembali makan. Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
