@@ -1,8 +1,8 @@
 # Outline: Kita Tunggu Catnya Kering
 
-**Status:** TERKUNCI v1.0
+**Status:** REVISI STRUKTUR v1.1 — diselaraskan dengan manuskrip Bab 1–32
 **Jumlah bab:** 32 bab
-**Target kata:** ±750 kata/bab (rentang wajib 600-900 kata)
+**Target kata:** sekitar 750 kata/bab; panjang mengikuti kebutuhan adegan dan tidak boleh mengorbankan kejelasan
 **Kerangka Plot:** Fichtean Curve & Struktur Romance Hibrida (Seni Tradisi x Presisi Digital)
 **Sudut Pandang:** Orang Pertama (POV 1 - Wiwin / "Aku")
 
@@ -13,21 +13,21 @@
 - **A (Tokoh):** Dwi Winarsih alias Wiwin (26), wanita pelukis spanduk pecel lele dan soto kain mori manual di ruko Kalimalang peninggalan pamannya, tangannya selalu berbekas cat neon stabilo dan hafal seluruh pakem anatomi hewan tenda malam.
 - **B (Keseharian):** Setiap hari membentang kain mori di lantai semen, mengoplos cat sablon berbau tiner, dan mengantar pesanan spanduk ke warung tenda demi membiayai obat asma pamannya.
 - **C (Pemicu):** Usahanya terancam gulung tikar saat Aji (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan iming-iming spanduk plastik murah kilat ber-QRIS.
-- **D (Perjalanan Cerita):** Saat Paguyuban Pedagang Tenda Lamongan mensyaratkan standarisasi 50 spanduk baru yang wajib mempertahankan lukisan tangan tradisi tetapi harus memuat kode QRIS perbankan yang presisi, Wiwin dan Aji terpaksa menyatukan kuas manual dan mesin cetak digital di satu meja, hingga kolaborasi bau tiner dan desing mesin meluluhkan ego mereka berdua.
+- **D (Perjalanan Cerita):** Saat paguyuban memperoleh proyek 50 spanduk yang harus mempertahankan lukisan tangan sekaligus memuat QRIS tiap warung, Wiwin dan Aji terpaksa bekerja sama. Mereka mengembangkan cara memasang panel QRIS digital pada kain, sementara ilustrasi tetap dilukis Wiwin secara manual. Kerja sama itu berkembang dari persaingan menjadi rasa saling percaya, tetapi keduanya tetap harus belajar membagi keputusan dan biaya.
 
 ---
 
 ## 2. Alur Cerita Utuh (Awal - Tengah - Akhir dalam 5 Paragraf)
 
-Wiwin (26) menghabiskan hari-harinya di sebuah ruko sempit berlantai semen di pinggiran Kalimalang, meneruskan bengkel seni lukis kain spanduk soto dan pecel lele milik pamannya, Pak Lik Harto (53), yang terbaring sakit asma. Berbekal kuas dan oplosan cat tekstil warna hijau dan oranye stabilo, Wiwin menjaga tradisi reklame malam khas Pantura yang menyala di bawah lampu bohlam jalanan. Sumber penghidupannya goyah ketika Aji (28), mantan desainer grafis yang di-PHK dari agensi digital, menyewa ruko seberang dengan membawa mesin cetak digital bekas. Menjual spanduk plastik MMT murah meriah yang selesai dalam dua jam, Aji membujuk para pedagang beralih dari lukisan Wiwin, memicu kemarahan Wiwin yang mencap spanduk plastik buatan Aji kusam, murahan, dan tidak punya jiwa.
+Wiwin (26) meneruskan usaha lukis spanduk kain milik Pak Lik Harto di sebuah ruko sederhana di Kalimalang. Usaha itu terancam ketika Aji (28), mantan desainer agensi yang baru di-PHK, membuka percetakan digital di seberang jalan. Persaingan mereka makin tajam setelah spanduk MMT Aji bermasalah ketika dipasang dekat wajan, sementara Wiwin gagal membuat kode QRIS terbaca pada kain mori.
 
-Perang dingin meletus di tepi jalan Kalimalang. Spanduk digital pertama buatan Aji diuji di warung Cak Qodim (58), ketua paguyuban pedagang tenda setempat, namun hasilnya kacau: plastik MMT mengkerut dan meleleh terkena hawa panas penggorengan lele, baunya sangit kimia, dan warnanya mati di kegelapan malam. Namun, Aji membalas telak kelemahan Wiwin: para pedagang kini dituntut menyediakan pembayaran nontunai, dan kode QRIS yang dilukis Wiwin dengan kuas manual selalu gagal dipindai kamera HP karena serat kain mori membuat cat merembes 0,4 milimeter. Peluang besar datang saat dinas pariwisata menggelar peremajaan 50 warung tenda untuk festival kuliner kota dengan syarat hibrida: wajib lukisan tangan tradisi yang memikat, tetapi wajib terintegrasi kode QRIS resmi yang terbaca sensor.
+Peluang sekaligus tekanan datang dari proyek paguyuban untuk 50 warung tenda. Spanduk harus tetap menampilkan ilustrasi tradisional, tetapi setiap warung juga membutuhkan panel QRIS yang sesuai dengan merchant masing-masing. Wiwin dan Aji sepakat bekerja sama dengan pembagian tugas dan keuntungan. Mereka mencoba beberapa cara, gagal dengan stiker vinil, lalu mengembangkan panel QRIS digital yang dipasang pada kain melalui proses transfer. Buku catatan lama milik Pak Lik membantu mereka memulai eksperimen, tetapi hasilnya tetap harus diuji.
 
-Tergencet kebutuhan obat pamannya dan ancaman mesin yang ditarik leasing, Aji menyeberang membawa proposal damai, dan Wiwin terpaksa menerima kerja sama hibrida. Ruko Wiwin disulap menjadi ruang kerja bersama. Eksperimen awal mereka penuh kegagalan komedi: stiker vinil QRIS terkelupas saat kain dicuci simulasi hujan, kompresor tambal ban Bang Parlin di ruko sebelah sering meletup mengagetkan tarikan kuas Wiwin, dan seekor kucing liar menginjak kain basah hingga perut lele penuh cap kaki belang. Di tengah kelelahan, Wiwin mengajak Aji makan pecel lele di warung Cak Qodim, di mana Aji yang sok higienis diajari makan pakai tangan kosong dengan kobokan jeruk nipis, sekaligus mencicipi kol goreng gurih yang meruntuhkan gengsinya.
+Proyek berjalan dalam tenggat dua minggu. Mereka membeli kain untuk 50 spanduk, menjalani pemeriksaan kesiapan, memproduksi pesanan secara bertahap, lalu menyerahkan hasil untuk diperiksa oleh pihak yang berwenang. Setelah itu, pemberitahuan perubahan jadwal menambah 10 spanduk VIP. Tambahan kain dan biaya harus disetujui, sementara waktu produksi semakin sempit.
 
-Kedekatan mereka kian dalam saat Wiwin mengajak Aji berburu kain mori primisima ke Pasar Tanah Abang subuh hari, serta saat Aji membantu mengurai kembali buku resep rahasia pigmen fosfor milik Pak Lik Harto yang robek. Aji menemukan formula sablon transfer panas presisi yang membuat kode QRIS dapat menempel rapi pada jendela kain tanpa merembes, sementara lukisan hewan tetap digarap manual oleh kuas Wiwin. Namun, tiga hari menjelang tenggat festival, badai hujan melanda Kalimalang dan menjebol talang seng ruko Wiwin. Aji rela melindungi tumpukan 30 kain lukisan dengan tubuh dan jaketnya, mengorbankan mesin cetak digitalnya sendiri yang tersiram air bocor hingga korslet dan berasap.
+Pada malam sebelum pemasangan, Wiwin menyelesaikan lukisan sepuluh spanduk tambahan bersama Aji. Badai merusak talang ruko dan air masuk ke ruang kerja. Mereka menyelamatkan kain dari air dan menjauh dari instalasi listrik sampai aliran utama diputus serta area aman. Aji terluka saat membantu menggeser talang yang patah. Mesin cetak digitalnya mengalami kerusakan akibat air, tetapi teknisi belum dapat memastikan apakah seluruh mesin masih bisa diperbaiki.
 
-Melihat pengorbanan Aji dan tangisan Wiwin, seluruh warga sekitar—Cak Qodim, Bang Parlin, dan Mbak Pur pemilik warkop—turun tangan gotong royong membawa blower pengering dan perkakas untuk menyelamatkan proyek. Pada malam pembukaan festival, 50 spanduk hibrida berkibar gagah di sepanjang jalan kota, memendarkan warna neon spektakuler yang menuai decak kagum ribuan pengunjung, sementara seluruh kode QRIS berhasil dipindai lancar. Rival korporat yang mencoba memonopoli proyek gigit jari. Sepekan kemudian, kedua ruko di seberang Kalimalang itu melebur menjadi satu nama: "Studio Tenda Malam", tempat Aji kini duduk di samping Wiwin, belajar menggoreskan warna jingga stabilo di atas kain putih, merayakan cinta yang tumbuh dari aroma cat dan pekatnya malam.
+Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk. Aji mengawasi daftar dan kecocokan kode dari tempat aman karena tangannya masih dirawat. Pada malam festival, QRIS tiap warung diuji, termasuk transaksi sungguhan di tenda Cak Qodim. Hasil kerja Wiwin dan Aji mendapat perhatian, sementara keputusan proyek tetap berada pada panitia dan dinas, bukan Pak Haris. Beberapa hari kemudian, mereka menyatukan ruang kerja dan membuka Studio Tenda Malam. Mereka membagi peran, mencatat biaya, dan memulai usaha kecil itu dengan satu pesanan baru.
 
 ---
 
@@ -334,97 +334,41 @@ Melihat pengorbanan Aji dan tangisan Wiwin, seluruh warga sekitar—Cak Qodim, B
 - **Detail Fisik & Planting-Callback:** Stempel basah warna biru dinas pariwisata, jam dinding berdetik kencang.
 
 ### Bab 25: Kerja Rodi
-- **Adegan & Tokoh:** Kamis, pukul 02.00 WIB di seluruh lantai ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Kuas Wiwin menyapu kain tanpa henti, bergerak ritmis dari gambar ekor lele ke paruh bebek dengan kecepatan dua kali lipat dari biasanya.
-- **Ketukan Aksi & Reaksi:**
-  1. Seluruh lantai semen ruko disulap menjadi lautan kain; Aji tidak tidur memotong film transfer dan mengoperasikan mesin pres panas tiada henti.
-  2. Pak Lik Harto duduk di kursi roda membantu mengaduk formula cat fosfor dan mengeringkannya dengan kipas bambu manual.
-  3. Jari jemari Wiwin mulai kram dan gemetar karena memegang batang kuas selama 18 jam tanpa jeda, membuat garis catnya sempat goyang.
-- **Bentuk Hook Penutup:** Sensori Lingkungan
-- **Skenario Penutup:** Suara gemuruh guntur pertama menggelegar dari langit timur Jakarta, membawa aroma tanah basah dan ancaman badai yang mendekat.
-- **Detail Fisik & Planting-Callback:** Kipas bambu anyaman Pak Lik Harto, plester luka di jari telunjuk Wiwin.
+- **Adegan & Tokoh:** Senin malam di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
+- **Aksi:** Wiwin menyelesaikan lukisan sepuluh spanduk VIP; Aji memasang panel QRIS yang sudah dicocokkan dengan daftar merchant. Tangan Aji masih dibalut dan ia membatasi penggunaan tangan yang terluka. Tangan Wiwin kram karena terlalu lama melukis, sehingga mereka berhenti dan mengatur ulang pekerjaan.
+- **Hook:** Petir dan angin kencang menandai datangnya badai.
 
 ### Bab 26: Talang
-- **Adegan & Tokoh:** Jumat, pukul 01.30 WIB di ruko Wiwin saat hujan badai | Wiwin, Aji.
-- **Variasi Pembuka:** Sensori Lingkungan
-- **Skenario Masuk:** Angin puting beliung menerjang atap seng ruko tua hingga berderak memekakkan telinga, disusul suara hantaman air bah yang menjebol talang pembuangan atas.
-- **Ketukan Aksi & Reaksi:**
-  1. Talang seng di atas ruang tengah jebol; air hujan bercampur karat besi tumpah ruah membentuk air terjun buatan tepat mengarah ke tumpukan 30 kain spanduk yang baru selesai dilukis.
-  2. Wiwin menjerit histeris berusaha menggeser tumpukan kain dengan kedua tangannya yang licin oleh cat basah.
-  3. Aji melompat menerobos tumpahan air, menyambar terpal plastik tebal untuk melindungi karya Wiwin dari kehancuran total.
-- **Bentuk Hook Penutup:** Interupsi Tiba-Tiba
-- **Skenario Penutup:** Suara letupan korsleting listrik menyengat dari sudut mesin cetak digital Aji yang terkena cipratan air hujan deras.
-- **Detail Fisik & Planting-Callback:** Gemuruh talang seng jebol, percikan api biru korsleting listrik.
+- **Adegan & Tokoh:** Selasa, sekitar 01.30 di ruko | Wiwin, Aji, Pak Lik Harto.
+- **Aksi:** Sambungan talang berkarat terlepas dan air masuk ke ruang kerja. Mereka memindahkan sepuluh kain VIP ke bilik belakang. Saat mesin terkena rembesan dan muncul percikan, semua menjauh dari area berbahaya.
+- **Hook:** Mesin cetak Aji terkena air; aliran listrik belum boleh disentuh sampai diputus dari sumber utama.
 
 ### Bab 27: Pengorbanan
-- **Adegan & Tokoh:** Jumat, pukul 02.15 WIB di bawah atap bocor | Wiwin, Aji.
-- **Variasi Pembuka:** In Medias Res Fisik
-- **Skenario Masuk:** Aji berdiri kokoh di atas meja kerja, membentangkan jaket kanvas tebalnya dan menahan runtuhan seng talang dengan kedua pundaknya agar air tidak jatuh ke tumpukan kain di lantai.
-- **Ketukan Aksi & Reaksi:**
-  1. Air hujan dingin mengguyur kepala dan punggung Aji tanpa ampun, sementara kakinya bertumpu menahan beban seng yang berat.
-  2. Wiwin menangis panik berteriak menyuruh Aji turun karena takut tersengat arus listrik mesin yang masih terhubung kabel.
-  3. Aji menolak bergeser satu sentimeter pun sampai Wiwin dan Pak Lik Harto berhasil memindahkan seluruh tumpukan spanduk ke kamar belakang yang kering.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Saat kain terakhir berhasil diamankan, tubuh Aji limbung dan ambruk ke lantai semen yang tergenang air, napasnya tersengal menatap Wiwin.
-- **Detail Fisik & Planting-Callback:** Jaket kanvas basah kuyup berlumur karat seng, genangan air semen dingin.
+- **Adegan & Tokoh:** Selasa dini hari, setelah listrik diputus | Wiwin, Aji, Pak Lik Harto.
+- **Aksi:** Setelah area dinyatakan aman, Aji membantu mengarahkan talang yang patah agar air tidak masuk ke bilik. Tepi seng melukai telapak tangannya. Wiwin dan Pak Lik membersihkan luka serta memastikan Aji mendapat perawatan.
+- **Hook:** Kain selamat, tetapi mesin cetak Aji tetap rusak dan belum diketahui biaya perbaikannya.
 
 ### Bab 28: Asap Tipis
-- **Adegan & Tokoh:** Jumat, pukul 05.00 WIB di ruko Wiwin pasca-badai | Wiwin, Aji, Mbak Pur.
-- **Variasi Pembuka:** Dialog Menusuk
-- **Skenario Masuk:** "Jangan dipaksa dicolok lagi, Mas Aji! Mainboard-nya sudah hangus kebakar air!"
-- **Ketukan Aksi & Reaksi:**
-  1. Asap tipis berbau tembaga gosong mengepul dari ventilasi mesin cetak digital Aji; mesin itu mati total dan tidak bisa dinyalakan lagi.
-  2. Sisa sepuluh spanduk terakhir belum memiliki panel QRIS, sementara tenggat pemasangan tinggal sepuluh jam lagi sebelum festival dibuka.
-  3. Wiwin memeluk Aji yang terduduk lesu di lantai, meneteskan air mata di atas pundak jaket basah pemuda yang telah mengorbankan segalanya demi dirinya.
-- **Bentuk Hook Penutup:** Interupsi Tiba-Tiba
-- **Skenario Penutup:** Pintu ruko didobrak dari luar; derap langkah belasan pasang sandal jepit menyerbu masuk membawa senter dan peralatan kerja.
-- **Detail Fisik & Planting-Callback:** Bau tembaga gosong mainboard printer, sambal terasi hangat kiriman Mbak Pur.
+- **Adegan & Tokoh:** Selasa pagi di ruko | Wiwin, Aji, Bang Parlin, teknisi, Pak Lik Harto, Mbak Pur, Cak Qodim.
+- **Aksi:** Aji dilarang menyalakan mesin. Teknisi memeriksa komponen dan menyatakan kerusakan cukup berat, tetapi belum memastikan seluruh mesin tidak bisa diperbaiki. Paguyuban menyiapkan kendaraan dan tenaga untuk pemasangan.
+- **Hook:** Enam puluh spanduk harus dibawa ke lokasi festival hari itu.
 
 ### Bab 29: Gotong Royong
-- **Adegan & Tokoh:** Jumat, pukul 08.00 WIB di pelataran ruko Wiwin | Wiwin, Aji, Cak Qodim, Bang Parlin, puluhan pedagang tenda.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Bang Parlin menyeret tiga kompresor angin dan dua blower pengering ban dari bengkelnya, memasang instalasi darurat di tengah ruko Wiwin.
-- **Ketukan Aksi & Reaksi:**
-  1. Cak Qodim membawa 20 pedagang pecel lele paguyuban; ada yang membantu mengecat dasar kain, ada yang memegang terpal darurat, dan ada yang meniupkan blower panas.
-  2. Aji beralih memakai teknik sablon manual saring sutra tradisional yang diajarkan Pak Lik Harto untuk mencetak sisa panel QRIS tanpa mesin listrik.
-  3. Seluruh komunitas jalanan bersatu bahu-membahu membuktikan bahwa mereka bukan buruh lemah yang bisa diinjak-injak pengusaha besar.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Di Kalimalang, solidaritas orang jalanan tidak diukur dari uang di rekening, melainkan dari kesediaan mengotori tangan demi kehormatan sesama.
-- **Detail Fisik & Planting-Callback:** Blower pengering tambal ban Bang Parlin, saringan sutra sablon manual nomor 120.
+- **Adegan & Tokoh:** Selasa menjelang siang di area festival Cawang | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto, para pedagang, Pak Haris.
+- **Aksi:** Paguyuban membagi enam puluh spanduk ke kelompok pemasangan. Bang Parlin dan para pemuda menangani rangka serta tali; Wiwin memeriksa ilustrasi; Aji mengawasi daftar dan kecocokan QRIS dari meja panitia. Pak Lik beristirahat di kursi.
+- **Hook:** Pak Haris datang sebagai pemilik Mitra Graha/konsultan dan melihat hasil pekerjaan, tanpa memiliki kewenangan sebagai pejabat dinas.
 
 ### Bab 30: Hari Pembuktian
-- **Adegan & Tokoh:** Sabtu, pukul 15.30 WIB di sepanjang jalan protokol festival kota | Wiwin, Aji, Cak Qodim, panitia festival.
-- **Variasi Pembuka:** Sensori Lingkungan
-- **Skenario Masuk:** Angin sore meniup puluhan kain spanduk putih bersih yang baru terpasang di kerangka besi tenda, menyebarkan aroma khas cat sablon baru dan wangi arang batok kelapa.
-- **Ketukan Aksi & Reaksi:**
-  1. Seluruh 50 warung tenda berdiri megah berjejer rapi; spanduk hibrida lukisan tangan Wiwin dan panel presisi Aji terpasang sempurna tanpa cela.
-  2. Pak Haris dari Mitra Graha berdiri di seberang trotoar dengan wajah pucat pasi melihat barisan karyanya ditolak dinas karena kalah otentik.
-  3. Cak Qodim memasang lampu bohlam kuning 15 watt di atas gerobaknya, bersiap menyambut malam pembukaan akbar.
-- **Bentuk Hook Penutup:** Pertanyaan Menggantung
-- **Skenario Penutup:** Wiwin dan Aji berdiri bersisian menatap bentangan 50 spanduk karya mereka, menanti saat matahari terbenam dan lampu-lampu kota dinyalakan.
-- **Detail Fisik & Planting-Callback:** Tali rafia hitam pengikat sudut tenda, arang batok kelapa membara.
+- **Adegan & Tokoh:** Selasa, pukul 19.00 di festival | Wiwin, Aji, Cak Qodim, Pak Lik Harto, menteri, kepala dinas, panitia.
+- **Aksi:** Pengunjung memenuhi festival. Menteri melihat hasil lukisan dan mencoba QRIS milik warung Cak Qodim. Nama merchant tampil dan transaksi benar-benar dikonfirmasi. Pihak dinas dan panitia mencatat hasil proyek; pujian tetap proporsional.
+- **Hook:** Kemenangan proyek belum otomatis menyelesaikan masalah mesin Aji atau masa depan usaha mereka.
 
 ### Bab 31: Lampu Kota
-- **Adegan & Tokoh:** Sabtu, pukul 20.00 WIB di pusat festival kuliner | Wiwin, Aji, Cak Qodim, ribuan pengunjung.
-- **Variasi Pembuka:** Pikiran Tajam
-- **Skenario Masuk:** Ada keajaiban yang hanya terjadi di jalanan Indonesia ketika malam tiba: bagaimana selembar kain mori sederhana bisa menyulap trotoar berdebu menjadi pesta rakyat penuh rasa.
-- **Ketukan Aksi & Reaksi:**
-  1. Lampu sorot festival dinyalakan; pigmen fosfor neon di 50 spanduk Wiwin berpendar terang benderang menyala hijau dan oranye stabilo, memukau ribuan pengunjung yang berkerumun.
-  2. Pejabat dinas pariwisata mengeluarkan HP dan memindai kode QRIS di tenda Cak Qodim; transaksi berhasil dalam hitungan detik dan disambut riuh tepuk tangan warga.
-  3. Cak Qodim menyajikan sepiring lele goreng renyah dan nasi uduk hangat di atas piring blirik hijau, menyerahkannya pada Wiwin dan Aji sebagai tanda kemenangan rakyat kecil.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Di tengah sorak kerumunan dan kilau pendaran warna neon malam itu, jemari Aji menggenggam erat tangan Wiwin yang penuh noda cat, tahu bahwa ia telah menemukan rumahnya.
-- **Detail Fisik & Planting-Callback:** Piring blirik hijau legendaris penyaji lele goreng, sorot lampu merkuri festival.
+- **Adegan & Tokoh:** Selasa, pukul 21.00 di tenda Cak Qodim | Wiwin, Aji, Pak Lik Harto, Cak Qodim, Mbak Pur, Bang Parlin.
+- **Aksi:** Mereka makan bersama. Piring seng blirik yang dahulu dipakai untuk cat kini menjadi piring makan. Wiwin dan Aji membicarakan kemungkinan bekerja bersama setelah festival, tetapi sepakat menghitungnya dengan tenang.
+- **Hook:** Mereka mulai membayangkan masa depan bersama tanpa menganggap semua masalah telah selesai.
 
 ### Bab 32: Bergabung
-- **Adegan & Tokoh:** Minggu berikutnya, pukul 17.00 WIB di depan ruko gabungan | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Wiwin menaiki tangga lipat kayu, memaku plang kayu baru bercat hijau stabilo di atas kusen pintu ruko yang kini telah menyatu.
-- **Ketukan Aksi & Reaksi:**
-  1. Plang itu bertuliskan: *"STUDIO TENDA MALAM — Seni Lukis Tradisi & Cetak Presisi"*, menggabungkan dua ruko yang dulu berseberangan menjadi satu rumah usaha bersama.
-  2. Pak Lik Harto duduk sehat tersenyum di teras menikmati kopi sore bersama Bang Parlin dan Mbak Pur yang membawa sepiring pisang goreng panas.
-  3. Aji mengambil kuas nomor lima berbulu tebal, mencelupkannya ke cat oranye, lalu membiarkan tangan Wiwin menuntun jemarinya membuat tarikan garis pertama di atas kain putih baru.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Karena di bawah langit kota yang bising ini, seni sejati tidak pernah dicetak oleh mesin yang dingin, melainkan dilukis oleh dua hati yang berani bertahan di tengah malam.
-- **Detail Fisik & Planting-Callback:** Plang kayu bertulisan cat hijau stabilo, kuas nomor lima bulu tebal, jaket kanvas Aji dengan noda cat abadi di siku kanan.
+- **Adegan & Tokoh:** Minggu sore berikutnya di ruko Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim.
+- **Aksi:** Wiwin dan Aji membuka Studio Tenda Malam. Mereka menyepakati kepemilikan, pembagian peran, pencatatan biaya, dan pembagian laba bersih. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
+- **Penutup:** Aji mencoba menarik garis dengan kuas. Wiwin membimbingnya dan mengucapkan kalimat judul saat mereka menunggu cat pertama mengering.
