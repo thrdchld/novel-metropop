@@ -8,7 +8,7 @@ Aji masih memikirkan kabar dari Bang Rahmat. Sendoknya berhenti di atas mangkuk.
 
 "Dia memang punya perusahaan percetakan. Wajar kalau dia menawarkan jasanya," jawabku. "Yang harus kita buktikan adalah kemampuan kita."
 
-Bang Rahmat menyeruput teh. "Saya dengar panitia akan datang besok untuk melihat kesiapan tempat kerja dan contoh produksi. Bukan inspeksi hasil akhir."
+Bang Rahmat menyeruput teh. "Saya dengar panitia akan datang beberapa hari lagi untuk melihat kesiapan tempat kerja dan contoh proses produksi. Bukan inspeksi hasil akhir."
 
 Aji menoleh. "Siapa yang memberi tahu?"
 
@@ -20,7 +20,7 @@ Aji mulai menulis. "Kita perlu jadwal produksi yang masuk akal. Lima puluh kain 
 
 "Dan harus ada ruang untuk mengulang kalau ada gambar atau panel QRIS yang gagal."
 
-Kami menghubungi Cak Qodim. Ia memastikan kunjungan besok memang peninjauan kesiapan awal. Panitia ingin melihat prototipe, bahan baku, alur kerja, dan bukti bahwa setiap QRIS berasal dari merchant yang benar. Masa produksi dua minggu baru dihitung setelah rancangan dan prototipe disetujui.
+Kami menghubungi Cak Qodim. Ia memastikan panitia memang akan melakukan peninjauan awal setelah proses produksi berjalan. Mereka ingin melihat prototipe, bahan baku, alur kerja, dan bukti bahwa setiap QRIS berasal dari merchant yang benar. Masa produksi dua minggu dihitung sejak rancangan dan prototipe disetujui.
 
 Setelah telepon ditutup, Aji tampak lebih tenang.
 
