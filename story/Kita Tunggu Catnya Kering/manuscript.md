@@ -1020,165 +1020,201 @@ Pria itu berjalan mendekat, matanya langsung tertuju pada prototipe di meja.
 
 ## Bab 15: Kunjungan
 
-"Siapa yang mengizinkan bengkel kumuh pinggir kali begini mengajukan penawaran proyek reklame dinas pariwisata?"
+"Jadi ini tempat kalian mengerjakan spanduk festival?"
 
-Suara lantang bernada angkuh itu menyengat telingaku tepat saat matahari pagi mulai memanggang trotoar depan ruko. Pria bertubuh tambun berusia lima puluhan tahun itu melangkah masuk dengan langkah congkak. Kemeja safarinya berwarna cokelat gelap dengan pin lencana logam keemasan di kerah dada, sementara selembar tisu basah menempel erat di hidungnya, berusaha menangkal debu Kalimalang.
+Pria berkemeja safari cokelat gelap itu berdiri di depan meja. Sepatunya yang mengilap berhenti tepat sebelum menyentuh genangan air di dekat pintu.
 
-Sepatu pantofel hitamnya yang mengilap sempat terperosok ke genangan air bekas cucian piring Bang Parlin di depan pintu, meninggalkan bercak lumpur kelabu di kulit sepatu mahalnya.
+Aji berdiri lebih dulu. "Selamat sore, Pak Haris."
 
-"Bapak siapa ya?" tanyaku sambil berdiri di depan meja sablon, mengelap tangan kananku ke celemek blacu.
+Aku memandang mereka bergantian. "Kalian kenal?"
 
-Pria itu mendengus sinis, melirik tumpukan kaleng cat berkarat dan kain-kain mori di lantai dengan sudut bibir mencibir.
+"Dulu saya bekerja di perusahaan beliau," jawab Aji singkat.
 
-"Saya Haris, Kepala Seksi Sarana Promosi Dinas Pariwisata," jawabnya congkak. "Cak Qodim kemarin membawa berkas permohonan standarisasi tenda festival. Saya sengaja datang langsung ke mari untuk memastikan kalian tidak sedang membodohi dinas dengan produk abal-abal."
+Pria itu mengulurkan kartu nama. Haris, pemilik Mitra Graha. Di bagian bawah tercetak keterangan perusahaan percetakan dan konsultasi promosi.
 
-Aji melangkah maju ke garis depan, berdiri tegap di sampingku. Wajahnya tetap tenang, tapi rahangnya terkatup rapat.
+"Saya pernah menangani beberapa pekerjaan promosi untuk dinas," katanya. "Sekarang saya diminta memberi masukan soal kesiapan vendor untuk festival."
 
-"Produk kami bukan barang abal-abal, Pak Haris," kata Aji tenang namun tegas. "Ini prototipe spanduk hibrida pesanan paguyuban. Kain mori lukisan tangan asli khas Lamongan, dipadukan dengan modul QRIS sablon damar presisi tinggi."
+"Jadi Bapak bukan petugas Dinas?" tanyaku.
 
-Pak Haris melangkah mendekati meja tempat spanduk prototipe kami dibentangkan. Matanya yang menyipit menatap gambar lele melengkung berwana kuning stabilo, lalu turun ke kotak hitam QRIS di sudut bawah.
+Haris tersenyum tipis. "Bukan. Keputusan tetap ada pada panitia dan pihak dinas. Saya hanya diminta melihat apakah metode yang ditawarkan paguyuban ini bisa dikerjakan dalam skala besar."
 
-"Paling cuma stiker sablon murah yang gampang luntur kena minyak," cemooh Pak Haris sambil mengetuk permukaan kain dengan ujung pulpen emasnya. "Kamera ponsel zaman sekarang menolak gambar yang tidak presisi. Kalian pikir kami mau membuang anggaran empat puluh juta untuk reklame yang cuma bikin malu walikota?"
+Ia mendekati meja dan memeriksa prototipe. Jarinya berhenti di tepi panel QRIS.
 
-Tanpa berkata sepatah kata pun, Aji meraih botol semprotan tanaman oranye di samping meja.
+"Ini hasilnya?" tanyanya.
 
-PFFT! PFFT! PFFT!
+"Prototipe awal," jawab Aji. "Ilustrasi dikerjakan manual. QRIS dicetak dari file resmi merchant dan diterapkan dengan bahan transfer."
 
-Aji menyemprotkan air deras tepat ke permukaan kode QRIS hitam di atas kain mori hingga basah kuyup. Butir-butir air menetes ke lantai semen, tapi tinta damar hitam legam itu tetap merekat kuat tanpa luntur atau menggelembung sedikit pun.
+Haris mengangkat kain sedikit, memeriksa bagian belakangnya. "Satu lembar bisa dibuat rapi. Lima puluh lembar belum tentu. Kalian sudah menghitung waktu pengerjaan, bahan, dan tingkat kegagalannya?"
 
-"Silakan dites scan pakai ponsel Bapak," kata Aji tenang sambil menyodorkan ruang bidik.
+"Kami sedang menyusun hitungannya," jawab Aji.
 
-Pak Haris mencibir meremehkan. Ia merogoh ponsel pintarnya dari saku kemeja safari, membuka aplikasi pemindai dengan gerakan malas, lalu mengarahkan kameranya ke kain basah.
+"Sedang?" Haris menoleh kepadaku. "Kalau proyek berjalan, paguyuban harus menyerahkan lima puluh spanduk sesuai jadwal. Bukan lima puluh percobaan."
 
-BIP!
+Aku hendak menyahut, tetapi Aji lebih dulu menjawab.
 
-Hanya butuh sekejap mata. Layar ponsel mahal Pak Haris bergetar lembut, langsung menampilkan halaman transfer resmi Bank DKI dengan nama Paguyuban Tenda Lamongan Bersatu.
+"Itu sebabnya kami mengajukan prototipe sebelum produksi. Kami tidak akan menyatakan siap sebelum kapasitas dan biaya bisa dihitung."
 
-Mata Pak Haris membelalak lebar. Mulutnya yang tadi mencibir kini terkatup rapat, keterkejutan melintas begitu telanjang di wajahnya yang berminyak.
+Haris menatap Aji beberapa saat. "Dulu kamu juga suka bicara soal proses. Tapi klien tidak membayar proses, mereka membayar hasil."
 
-"Bisa terbaca?" tanyaku dengan senyum tipis yang menantang. "Tinta damar formula kami mengunci pori-pori katun dari dalam, Pak. Tahan air, tahan uap kompor, dan tembus sensor dalam nol koma dua detik."
+Rahang Aji mengeras. Aku melihatnya, tetapi ia tetap menjaga suaranya.
 
-Pak Haris buru-buru memasukkan ponselnya ke saku kemeja, berusaha mengembalikan wibawa birokratnya yang sempat goyah. Ia berdeham keras, membersihkan tenggorokan.
+"Benar, Pak. Karena itu kami sedang menguji hasilnya."
 
-"Bagus," kata Pak Haris dengan nada yang dipaksakan terdengar datar. "Teknologinya memang lolos uji coba awal. Tapi membuat satu lembar prototipe jauh berbeda dengan memproduksi lima puluh spanduk massal."
+Haris mengeluarkan lembar spesifikasi dari map. "Panitia akan meninjau prototipe dan rencana produksi. Kalau mereka menilai kalian belum siap, pekerjaan bisa dialihkan ke vendor lain. Saya tidak akan menyarankan mereka mengambil risiko hanya karena kalian ingin mencoba metode baru."
 
-Ia mengambil selembar kartu nama tebal dari saku dompetnya, meletakkannya di atas tutup kaleng cat bekas dengan ujung jari yang congkak. Di atas kertas bertekstur mahal itu tertera tinta emas timbul bertuliskan namanya.
+"Masuk akal," kataku. "Tapi penilaiannya harus berdasarkan hasil uji dan kemampuan produksi, bukan karena Bapak tidak suka tempat kerja kami."
 
-"Batas waktu festival tinggal dua minggu lagi," lanjut Pak Haris menatap kami berdua secara bergantian. "Kalau kalian menyanggupi lima puluh spanduk kain hibrida ini, kontrak resmi akan turun besok pagi."
+Haris melirikku. "Saya tidak punya urusan pribadi dengan tempat ini."
 
-Ia mengetuk kartu namanya dengan ujung kuku sebelum menyambung kejam, "Tapi kalau ada satu lembar saja yang telat atau kode QRIS-nya gagal scan di hari pembukaan, seluruh biaya hangus dan paguyuban wajib bayar penalti dua puluh persen!"
+Aji menutup laptopnya. "Kami akan menyerahkan rincian bahan, waktu produksi, dan hasil pengujian sebelum tenggat yang ditentukan panitia."
 
-Kutatap wajah Pak Haris yang licik, lalu melirik Aji di sebelahku.
+Haris meletakkan kartu namanya di atas meja. "Pastikan semua data bisa diperiksa. Saya tidak mau ada kode yang tertukar atau spanduk yang gagal dipasang."
 
-Aji menatap kartu nama berlapis emas di atas kaleng cat usang itu dengan pandangan dingin. Di dunia agensi Jakarta yang pernah menghempaskannya dulu, orang-orang seperti Pak Haris berkeliaran di setiap lantai gedung kaca: manusia-manusia congkak yang gemar memeras keringat orang kecil di bawah ancaman penalti klausul kontrak.
+Ia berbalik menuju mobil. Sebelum masuk, ia sempat menoleh kepada Aji.
 
-"Kami terima tantangannya, Pak Haris," ucap Aji mantap tanpa gentar sedikit pun. "Dua minggu dari sekarang, lima puluh spanduk hibrida ini akan berkibar rapi di sepanjang jalan kota."
+"Jangan mengulangi kesalahan lama."
 
-Pak Haris tersenyum miring, berbalik badan tanpa mengucap salam, lalu melangkah kembali ke dalam mobil dinasnya yang menderu pergi meninggalkan kepulan debu trotoar.
+Mobil itu pergi meninggalkan suara mesin yang perlahan menjauh.
+
+Aku mengambil kartu nama di meja. "Dia selalu bicara seperti sedang menguji orang?"
+
+Aji tidak langsung menjawab. Ia kembali menatap prototipe.
+
+"Kalau urusan pekerjaan, dia memang begitu."
+
+"Dan kalau bukan urusan pekerjaan?"
+
+Aji merapikan ujung kain. "Nanti juga kamu tahu."
+
+Aku tidak mengejarnya dengan pertanyaan. Untuk saat ini, kami masih punya lima puluh spanduk yang harus dihitung dan diuji.
 
 ---
 
 ## Bab 16: Shortcut
 
-Shortcut Ctrl+Z di keyboard komputer bisa membatalkan kesalahan desain dalam sedetik, tetapi tidak ada shortcut apa pun di dunia nyata yang bisa menghapus rasa terhina.
+Shortcut Ctrl+Z di komputer bisa membatalkan kesalahan desain dalam sedetik. Sayangnya, tidak ada tombol yang bisa dipakai untuk menghapus ucapan seseorang.
 
-Pukul sembilan malam, udara Kalimalang masih gerah berdebu. Di bordes tangga semen retak yang menghubungkan ruko dengan lantai dua tempat jemuran kain, Aji duduk sendirian menyandarkan punggungnya ke dinding bata yang belum diplester. Lampu jalanan merkuri di bawah memantulkan kerlip kuning keemasan pada kacamata tipisnya. Di sela jemari kanannya, sebatang rokok kretek menyala redup, mengepulkan asap tipis yang langsung disapu angin malam.
+Pukul sembilan malam, Aji duduk di bordes tangga semen yang menghubungkan ruko dengan lantai dua. Di tangannya ada secangkir teh manis dari Mbak Pur. Laptopnya tertutup di samping kaki.
 
-Aku melangkah menaiki anak tangga semen yang berlumut kering, membawa dua cangkir seng blirik loreng hijau berisi teh manis hangat buatan Mbak Pur.
+Aku menaiki tangga sambil membawa dua cangkir seng blirik.
 
-"Kupikir anak agensi Sudirman cuma doyan kopi susu sasetan berkafein tinggi," kataku sambil mengulurkan salah satu cangkir seng ke samping lututnya.
+"Kalau mau menyendiri, jangan duduk di tempat jemuran. Nanti dikira sedang menjaga pakaian orang."
 
-Aji menoleh pelan, mematikan puntung rokoknya di asbak kaleng bekas sarden. Ia menerima cangkir seng itu, menangkupkan kedua telapak tangannya pada permukaan logam hangat.
+Aji menerima cangkir yang kusodorkan. "Saya cuma butuh udara."
 
-"Pak Haris yang kemarin lusa datang ke ruko," ucap Aji lirih, suaranya terdengar berat dan lelah, "dulu bos divisiku di agensi branding kawasan Senopati."
+Aku duduk satu anak tangga di bawahnya. Beberapa kendaraan melintas di jalan Kalimalang, suaranya bercampur dengan derit gerobak dari warung sebelah.
 
-Aku duduk di anak tangga tepat satu undakan di bawahnya, menatap lurus ke arah aliran kali yang hitam berkilat.
+"Pak Haris tadi bilang jangan mengulangi kesalahan lama," kataku. "Maksudnya apa?"
 
-"Dia bukan orang dinas pariwisata asli?" tanyaku heran.
+Aji memutar cangkir di tangannya. "Dulu dia atasan saya di perusahaan branding."
 
-"Dia konsultan rekanan dinas," jawab Aji sambil tersenyum getir. "Waktu itu perusahaannya menang tender kampanye digital kota senilai ratusan juta rupiah. Seluruh konsep visual, identitas merek, sampai sistem pengerjaannya kubikin sendiri tanpa tidur berminggu-minggu."
+"Di Jakarta?"
 
-Ia berhenti sejenak, menyesap teh manis hangatnya sedikit.
+"Di Senopati. Saya mengerjakan desain kampanye promosi kota. Waktu itu proyeknya besar, tenggatnya ketat. Saya ikut menyusun konsep visual dan mengerjakan sebagian besar materi."
 
-"Begitu kontrak ditandatangani dan uang proyek cair," lanjut Aji dingin, "namaku dihapus dari daftar tim kreatif. Portofolioku diakui sebagai karya pribadinya, lalu aku di-PHK dengan alasan perampingan struktur organisasi tanpa pesangon sepeser pun."
+Ia berhenti. Aku menunggu, tidak ingin memaksanya bercerita.
 
-Cangkir di tanganku terasa begitu berat. Di bawah terpaan angin malam, kemarahan yang tertahan berbulan-bulan itu mengalir begitu jujur dari bibir pemuda yang selama ini selalu memasang topeng angkuh.
+"Setelah proyek selesai, nama saya tidak masuk dalam portofolio perusahaan. Beberapa desain dipresentasikan seolah-olah dikerjakan tim lain. Saya protes, tapi tidak punya bukti yang cukup untuk memperjuangkannya."
 
-"Makanya kamu menyewa ruko murah di sini dan membeli mesin cetak digital bekas?" tanyaku pelan.
+"Terus kamu keluar?"
 
-"Aku cuma ingin membuktikan bahwa aku bisa berdiri di atas kakiku sendiri," sahut Aji, menatap lurus ke arah deretan ruko seberang jalan. "Tapi Jakarta tidak pernah ramah pada orang yang jatuh. Modal tabunganku habis untuk sewa tempat dan uang muka mesin. Kalau proyek lima puluh spanduk ini gagal, leasing bakal menyita mesin cetakku minggu depan."
+"Saya diberhentikan beberapa bulan kemudian. Katanya restrukturisasi."
 
-Aku terdiam menatap lingkaran teh manis di cangkir sengku. Bayangan Pak Lik Harto yang terbatuk di bilik belakang dan puluhan kaleng cat kosong di lantai bawah mendadak melintas di kepalaku.
+Aji menyesap tehnya. Ia tidak terdengar marah seperti saat membicarakan Haris di ruko. Justru suaranya datar, seolah sudah terlalu sering mengulang kejadian itu dalam kepala.
 
-"Waktu lulus SMA di Brebes," ucapku membuka suara, menatap langit malam tanpa bintang, "aku sebenarnya dapat undangan masuk diploma seni rupa di Semarang. Tapi di rumah nggak ada uang buat bayar uang pangkal. Pak Lik Harto yang lagi sakit asma parah di Jakarta butuh orang buat merawat ruko."
+"Makanya kamu buka usaha sendiri?"
 
-Kupandangi jemariku yang penuh noda cat kuning stabilo permanen di sela kuku.
+"Awalnya begitu. Saya pikir kalau semua alat dan pekerjaan saya pegang sendiri, tidak ada orang yang bisa mengambil hasilnya begitu saja."
 
-"Dulu aku sering minder tiap kali teman-teman sekolah pamer foto ospek kampus di media sosial," lanjutku dengan senyum tipis. "Sementara aku seharian cuma jongkok di lantai semen, mengaduk tiner sampai pusing, melukis lele dan bebek buat warung pinggir jalan. Rasanya kayak tertinggal di gerbong paling belakang."
+"Ternyata buka usaha juga tidak semudah itu."
 
-Aji menoleh ke arahku, menatap sisi wajahku dengan sorot mata yang melunak dalam kegelapan.
+Ia tertawa pendek. "Kamu sudah lihat sendiri."
 
-"Tapi lukisanmu punya jiwa, Win," kata Aji tulus, tanpa ada nada sarkasme sedikit pun. "Desain grafisku cuma angka piksel di layar kaca yang gampang dihapus. Tapi lukisan tanganmu memberi makan ribuan orang di jalanan ini setiap malam."
+Aku menatap tanganku. Noda cat masih terselip di sela kuku meski sudah dicuci berkali-kali.
 
-Kami berdua terdiam, membiarkan deru ribuan kendaraan malam Kalimalang mengisi jeda di antara kami. Dua orang asing yang terluka oleh kerasnya ibu kota, kini duduk berdampingan di tangga semen usang dengan cangkir teh yang sama.
+"Waktu lulus SMA, aku sebenarnya ingin kuliah seni rupa di Semarang," kataku. "Tapi di rumah tidak ada uang untuk biaya awal. Pak Lik sedang sakit, jadi aku ikut ke Jakarta untuk membantu di ruko."
 
-Kutatap cangkir teh manis di tanganku yang mulai mendingin, bertanya-tanya dalam hati: apakah dua orang yang sama-sama patah sayap ini sanggup melintasi badai dua minggu ke depan dan membungkam keangkuhan dunia yang pernah membuang mereka?
+Aji menoleh.
+
+"Awalnya kupikir cuma sebentar. Tahu-tahu sudah bertahun-tahun. Teman-temanku ada yang jadi guru, ada yang kerja di kantor. Aku masih melukis lele dan ayam untuk warung."
+
+"Menurutmu itu berarti kamu tertinggal?"
+
+"Kadang-kadang."
+
+Aji menggeleng pelan. "Saya tidak tahu apakah itu tertinggal atau bukan. Tapi tanpa lukisanmu, proyek ini tidak akan punya bentuk seperti yang diminta paguyuban."
+
+Aku menatapnya. "Kamu juga tidak akan bisa menyelesaikan QRIS hanya dengan gambar bagus."
+
+"Makanya kita kerja bareng."
+
+Kalimat itu sederhana, tanpa nada memuji atau merendahkan. Aku menyesap teh yang mulai hangatnya berkurang.
+
+"Mesinmu masih aman?" tanyaku.
+
+Aji menatap ke arah ruko seberang. "Untuk sekarang. Tapi cicilan dan biaya sewa tetap jalan. Kalau proyek ini tidak berhasil, saya harus mencari cara lain."
+
+"Jangan sampai kamu memaksakan semua pekerjaan cuma karena takut kehilangan mesin."
+
+Ia menoleh kepadaku. "Saya akan berusaha menghitung risikonya."
+
+Kami diam cukup lama. Di bawah, lampu warung satu per satu mulai dipadamkan. Aku berdiri lebih dulu dan mengangkat cangkir kosong.
+
+"Besok kita harus menyusun daftar bahan. Jangan telat."
+
+Aji mengangguk. "Saya datang sebelum jam tujuh."
+
+"Jangan cuma janji."
+
+Aku turun meninggalkannya di bordes. Kali ini aku tidak merasa perlu tahu seluruh masa lalunya. Setidaknya, aku mulai mengerti mengapa setiap kali Haris muncul, Aji seperti sedang berhadapan lagi dengan sesuatu yang belum selesai.
 
 ---
 
 ## Bab 17: Tanah Abang
 
-Hawa dingin pendingin ruangan pasar grosir bercampur aroma kain katun gres dan gulungan karung plastik menyergap langkah kaki kami di lorong sempit Blok A.
+Hawa dingin pendingin ruangan pasar grosir bercampur aroma kain katun baru menyergap langkah kaki kami di lorong Blok A.
 
-Pukul lima subuh, lorong basement Pasar Tanah Abang sudah padat oleh kuli panggul berkaus loreng yang memikul karung-karung kain seberat lima puluh kilo. Teriakan peringatan "Biar! Biar! Awas kena pantat!" bersahut-sahutan dengan derit roda troli besi berkarat di atas lantai keramik kusam.
+Pukul lima pagi, Pasar Tanah Abang sudah ramai oleh kuli panggul dan pedagang yang membuka kios. Teriakan peringatan bersahutan dengan derit troli besi di atas lantai keramik.
 
-Aji berjalan di belakangku, tangannya menenteng tas ransel hitam berisi uang muka proyek yang dicairkan bendahara paguyuban tadi malam. Jaket kanvas abu-abunya dengan noda kuning di siku kanan sudah menjadi seragam kerja tak resmi.
+Aji berjalan di belakangku, membawa tas ransel berisi uang muka yang baru ditransfer bendahara paguyuban setelah persetujuan awal panitia. Jaket kanvas abu-abunya dengan noda kuning di siku kanan masih melekat seperti seragam kerja.
 
-"Toko kain langganan Pak Lik Harto ada di hook ujung," kataku setengah berteriak menembus kegaduhan pasar.
+"Toko kain langganan Pak Lik ada di ujung," kataku.
 
-Kami berbelok di persimpangan kios gulungan kain, berhenti di depan papan tripleks bertuliskan Toko Tekstil Sumber Rejeki. Seorang pria paruh baya bermata sipit berkaus kutang putih sedang sibuk menyeruput kopi hitam dari cangkir kaca sambil mencocokkan nota merah.
+Kami berhenti di depan Toko Tekstil Sumber Rejeki. Koh Acong sedang mencocokkan nota ketika melihatku.
 
-"Pagi, Koh Acong!" sapaku ramah.
+"Wiwin! Lama nggak mampir. Harto bagaimana?"
 
-Pria itu mendongak, matanya melebar sebelum tersenyum lebar hingga garis keriput di pelipisnya terlihat jelas.
+"Masih suka batuk, Koh. Ini kami mau belanja untuk proyek paguyuban."
 
-"Halo, Wiwin! Lama nggak mampir ke mari!" seru Koh Acong sambil meletakkan cangkirnya. "Gimana kabar Harto di Kalimalang? Asmanya sudah mendingan?"
+Aku meminta lima puluh gulung mori primisima katun, masing-masing empat meter. Koh Acong sempat menawarkan kain campuran poliester yang lebih murah. Aku menolak setelah meraba serat dan memeriksa label komposisinya.
 
-"Sudah agak lumayan, Koh. Ini kami mau belanja besar," jawabku sambil menunjuk Aji di sampingku. "Kami butuh lima puluh gulung kain mori primisima cap Garuda ukuran empat kali satu meter. Stok kain kapas murni masih aman, kan?"
+"Untuk lukisan dan metode transfer yang sedang kami uji, kami perlu bahan yang sama dengan prototipe," jelasku.
 
-Koh Acong mengusap dagunya, melirik Aji dari atas ke bawah. "Ada stok mori baru, Win. Bahan TC campuran poliester dari pabrik Bandung. Warnanya lebih putih bersih, jatuh kainnya licin, dan harganya sepuluh ribu lebih murah per meter dibanding primisima katun murni."
+Aji mencatat jumlah dan harga. Satu gulung empat meter dihargai seratus dua puluh ribu rupiah. Totalnya enam juta.
 
-Ia menarik ujung gulungan kain putih dari rak bawah, menyodorkannya ke tanganku.
+"Kalau dibayar tunai sekarang, bisa ada potongan?" tanyanya.
 
-Kupilin ujung kain itu dengan ibu jari dan telunjuk. Seratnya memang terasa licin mengilap, tapi begitu kuremas kencang, kain itu tidak menyisakan lipatan alami benang kapas.
+Koh Acong menyebut harga terbaiknya. Aji menghitung ulang di buku kecil, lalu menyepakati potongan sepuluh persen. Jumlah pembayaran menjadi lima juta empat ratus ribu rupiah. Tidak ada janji proyek tahap kedua atau pesanan besar yang belum pasti.
 
-"Nggak bisa, Koh," tolakku tegas sambil menggeleng. "Ini serat poliester sintetis. Kalau dilukis pakai kuas cat minyak, warnanya mengambang kayak minyak di atas air. Terus kalau disablon pasta damar, tintanya nggak bakal mau mengunci pori-pori benang. Kami cuma mau primisima katun seratus persen."
+"Yang penting barangnya sesuai dan nota lengkap," kata Aji.
 
-Koh Acong terkekeh pelan sambil menepuk gulungan kain itu. "Masih tajam aja jarimu kayak pamanmu dulu! Nggak bisa dikibulin sedikit pun!"
+Koh Acong tertawa. "Sekarang belanja kain sudah pakai pemeriksaan seperti beli mobil."
 
-"Berapa harga pas untuk lima puluh gulung mori primisima katun murni, Koh?" sela Aji tenang, mengeluarkan buku saku kecilnya.
+"Kalau salah bahan, kami yang repot, Koh," jawabku.
 
-"Satu gulung empat meter seratus dua puluh ribu, Bos. Ambil lima puluh gulung total enam juta pas," jawab Koh Acong santai.
+Lima puluh gulung kain kemudian diikat dan dinaikkan ke mobil pikap sewaan. Jumlah itu pas untuk lima puluh spanduk utama, masing-masing sepanjang empat meter. Kami menyimpan nota dan mencatat sisa anggaran untuk cat, bahan transfer, tenaga tambahan, transportasi, serta pemasangan.
 
-Aji tersenyum tipis, jenis senyum negosiator yang biasa ia pakai saat mempresentasikan anggaran di depan direktur klien.
+Saat hendak berangkat, Bang Rahmat datang dengan bajajnya. Ia melambaikan tangan dari seberang area parkir.
 
-"Kami beli putus, Koh. Pembayaran tunai sekarang juga tanpa tempo," kata Aji dengan nada diplomatis. "Bulan depan paguyuban kami butuh seratus gulung lagi untuk proyek tahap kedua di Bekasi. Kalau Koh Acong kasih potongan sepuluh persen jadi seratus delapan ribu per gulung, nota pembeliannya kami kunci di toko ini untuk setahun penuh."
+"Win, Aji! Tadi saya lihat mobil Pak Haris masuk ke kantor dinas. Katanya dia sedang menawarkan Mitra Graha sebagai vendor pengganti."
 
-Koh Acong memicingkan mata, menatap Aji lekat-lekat, lalu melirik tumpukan uang kertas pecahan seratus ribu yang mulai dikeluarkan Aji dari ransel.
+Aji menutup buku catatannya. "Dia boleh menawarkan. Keputusan tetap di panitia."
 
-"Pintar lu nawar, Bos muda," kata Koh Acong sambil tertawa lepas. "Ya sudah, bungkus! Buat keponakan si Harto apa sih yang nggak boleh!"
+"Betul," kataku. "Kita pastikan semua hasil uji dan hitungan produksi siap diperiksa. Jangan sampai mereka punya alasan yang memang benar."
 
-Dua puluh menit kemudian, lima puluh gulung kain mori berlabel stempel biru Garuda sudah selesai diikat tali tambang plastik. Bersama seorang kuli panggul berkaus loreng, kami menggotong gulungan-gulungan kain itu keluar menuju lobi parkiran barat tempat mobil pikap sewaan menunggu.
+Bang Rahmat mengangguk. Ia mengaku mendengar kabar itu dari sopir yang biasa mangkal di pangkalan dekat kantor dinas, bukan dari orang dalam panitia.
 
-Keringat dingin membasahi kaus oblongku, tapi rasa lega buncah di dadaku. Bahan baku utama sudah di tangan.
-
-Tepat saat kami hendak menaikkan gulungan kain terakhir ke bak pikap, suara klakson cempreng bajaj gas hijau terdengar berhenti mendadak di belakang kami.
-
-Bang Rahmat, tetangga gang Kalimalang yang biasa mangkal bajaj di depan kantor dinas, melompat turun dari kemudi dengan wajah tegang.
-
-"Win! Aji!" seru Bang Rahmat terengah-engah sambil berlari mendekat. "Untung kalian masih di sini!"
-
-Napasnya memburu saat ia menyambung cepat, "Barusan gue lihat mobil Pak Haris bareng bos Mitra Graha masuk ke ruang kepala dinas! Mereka lagi lobi pejabat buat membatalkan proyek paguyuban kita!"
+Kami naik ke pikap. Di bak belakang, lima puluh gulung kain terikat rapat. Untuk pertama kalinya, proyek ini terasa benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena sekarang ada bahan, biaya, dan pekerjaan yang harus dipertanggungjawabkan.
 
 ---
 
@@ -1226,117 +1262,71 @@ Ia tersenyum tipis. "Kali ini saya tidak akan protes."
 
 ## Bab 19: Sablon
 
-Ujung paku payung kuningan ditekan ibu jari tanganku menembus sudut kain mori ke lantai semen dengan hentakan keras.
+Kain mori pertama dibentangkan di atas meja kerja panjang yang dipinjam dari warung sebelah. Dua meja tambahan disusun sejajar agar kain tidak perlu dipaku ke lantai. Pak Lik Harto duduk di bangku dekat jendela, membantu mengukur bidang gambar dan menandai batas panel dengan kapur jahit.
 
-TAK!
+Aku mulai melukis setelah ukuran setiap kain diperiksa. Pola lele, ayam, dan bebek dibuat bergantian agar tidak semua spanduk terlihat sama. Cat yang sudah diaplikasikan dipindahkan ke rak pengering dengan jarak cukup supaya permukaannya tidak saling menempel.
 
-Paku payung kelima puluh tertancap kencang di celah retakan semen, mengunci bentangan kain putih primisima agar tidak bergeser ditiup hembusan angin malam. Jam dinding ruko menunjukkan pukul setengah dua belas malam. Ruko tua kami yang biasanya lengang mendadak bertransformasi menjadi bengkel pabrik gerilya. Kabel ekstensi melintang silang di atas lantai, tiga kipas angin berdiri mengepung area kerja, dan deretan tali tambang plastik menggantung di langit-langit ruko seperti tali jemuran massal.
+Di sisi lain ruko, Aji menyiapkan panel QRIS. Ia mencocokkan file dari masing-masing pedagang dengan daftar nama merchant, lalu memberi nomor pada setiap lembar bahan transfer.
 
-Alur kerja kami terbagi rapi tanpa banyak bicara.
+"Jangan sampai kode warung Bu Siti tertukar dengan punya Pak Darto," katanya.
 
-Di sudut dekat kamar, Pak Lik Harto yang duduk di bangku dingklik kayu menggaris pola modul dan batas ornamen menggunakan kapur jahit putih dan meteran kayu panjang. Setiap kain yang sudah digaris langsung digeser ke arahku.
+"Makanya jangan taruh semua lembaran di satu tumpukan."
 
-Aku berlutut di tengah ruangan, menyambar kuas pipih nomor empat yang sudah dicelup ke cat kuning dan oranye stabilo. Gerakan tanganku meliuk cepat dan terlatih: menggoreskan lengkung tubuh lele, melukis mahkota ayam jago, menyapukan sayap bebek, lalu membubuhkan huruf balok tebal khas Pantura. Tidak ada keraguan, tidak ada jeda berpikir. Setiap tarikan kuasku mengalir murni dari ingatan otot yang diasah belasan tahun.
+Kami membuat tempat penyimpanan terpisah untuk bahan yang belum dicetak, yang sudah dicetak, dan yang sudah diperiksa. Setiap panel baru dipasang setelah gambar manual di sekitarnya cukup kering dan bidangnya bersih.
 
-Dua meter di samping kananku, Aji bekerja dengan presisi mesin. Lengan kemejanya digulung sampai ke bahu. Di depannya, plat sablon kasa monofilamen nomor seratus dua puluh T diletakkan bergantian di atas jendela kain kosong.
+Pekerjaan berjalan lebih lambat daripada yang kami bayangkan. Ada kain yang perlu diperbaiki garisnya. Ada pula file QRIS yang harus dikonfirmasi ulang karena nama pemilik pada daftar paguyuban berbeda dengan data merchant.
 
-SREK! SREK!
+Menjelang malam, dua belas spanduk selesai pada tahap ilustrasi. Beberapa panel QRIS sudah diterapkan, tetapi belum semuanya melewati pemeriksaan akhir.
 
-Bilah karet rakel ditariknya dengan sudut miring empat puluh lima derajat, menyapukan pasta damar hitam pekat menembus saringan ke serat kain mori. Setiap kali plat diangkat, satu kode QRIS sempurna tercetak hitam legam.
+Aji menatap daftar kerja. "Kalau ritmenya begini, kita perlu membagi produksi ke beberapa tahap. Tidak semua kain harus selesai di hari yang sama."
 
-"Kain kedua puluh siap sablon, Aji!" seruku sambil menggeser kain baru ke arahnya.
+"Memang. Yang penting tidak ada yang dipaksa kering sebelum waktunya."
 
-"Sini, taruh sejajar tanda kapur!" sahut Aji dengan napas memburu.
+Sebuah botol kecil cairan pembersih alat hampir tersenggol ketika seorang anggota paguyuban mengangkat meja. Aji segera memindahkannya ke rak khusus bahan, jauh dari kain dan sumber panas. Kami sepakat tidak menggunakan pelarut yang tidak diperlukan di area produksi.
 
-Saat berbalik meraih botol pelarut pembersih kasa, siku kanan Aji menyenggol botol kaca tiner yang berdiri di lantai semen.
+Tak lama kemudian, Cak Qodim datang membawa makanan untuk orang-orang yang membantu. Ia melihat deretan kain yang sudah diberi nomor.
 
-PRAK!
+"Sudah mulai kelihatan hasilnya," katanya.
 
-Botol kaca itu terguling, menumpahkan setengah liter cairan tiner bening ke lantai semen, mengalir cepat menuju ujung bentangan kain mori kelima belas yang catnya baru setengah kering.
+"Baru sebagian, Cak," jawabku. "Kalau mau membantu, tolong pastikan daftar nama merchant dan nomor kainnya cocok."
 
-"Awas! Tinernya tumpah!" pekik Aji panik, melompat mundur berusaha menahan aliran cairan dengan telapak sepatunya.
+Cak Qodim memanggil dua pengurus paguyuban untuk memeriksa daftar. Mereka mencocokkan data satu per satu sebelum pulang.
 
-"Jangan pakai sepatu!" bentakku cepat.
-
-Kusambar karung goni kecil berisi serbuk gergaji kayu jati yang kusiapkan di dekat pintu masuk. Dengan dua ayunan tangan cekatan, kutaburkan dua genggam serbuk kayu kering tepat di atas genangan tiner yang merayap.
-
-Serbuk gergaji kayu langsung menyedot cairan kimia itu seperti spons kering dalam hitungan tiga detik, menghentikan laju tiner hanya dua sentimeter sebelum menyentuh pinggiran kain putih mori.
-
-Aji menghembuskan napas panjang, bersandar lemas pada tiang ruko. Wajahnya pucat pasi menatap serbuk kayu yang basah kuyup.
-
-"Hampir saja," bisik Aji dengan nada gemetar. "Maaf, Win. Konsentrasiku mulai buyar."
-
-"Tarik napas dulu," kataku sambil menyapu serbuk kayu basah itu ke serokan seng dengan sapu lidi. "Begadang maraton begini memang bikin mata rabun."
-
-Belum sempat kami membersihkan sisa serbuk kayu, pintu besi ruko yang terbuka sedikit didorong lebar dari luar.
-
-"Assalamu'alaikum! Logistik tempur datang!"
-
-Suara berat Cak Qodim memecah keheningan malam Kalimalang. Pria berkumis tebal itu melangkah masuk dengan senyum semringah, menenteng sebakul anyaman bambu berisi tiga puluh bungkus nasi uduk hangat berbungkus daun pisang dan satu teko loreng besar wedang jahe gula merah yang mengepulkan asap hangat.
-
-"Makan dulu, anak-anak muda!" seru Cak Qodim sambil meletakkan bakul nasi ke atas meja lipat Aji. "Paguyuban Kalimalang patungan beli lauk empal suwir sama telur dadar tebal buat kalian berdua. Jangan sampai kalian pingsan sebelum bendera berkibar!"
-
-Pak Lik Harto tersenyum lebar dari sudutnya, meletakkan kapur jahitnya dan melangkah mendekat.
-
-Kami berempat duduk melingkar di atas kardus semen, membuka bungkusan daun pisang dan menyesap wedang jahe yang membakar tenggorokan dingin kami dengan kehangatan.
-
-Kupandangi sekeliling ruangan ruko. Di atas kepala kami, dua puluh lima lembar spanduk kain mori setengah jadi berkibar pelan ditiup hembusan tiga kipas angin, tergantung gagah menyerupai bendera perang di medan tempur.
-
-Di tengah sisa lelah dan dinginnya angin dini hari, kutatap deretan kain itu dengan dada bergemuruh pelan. Dua puluh lima kain lagi harus tuntas sebelum matahari terbit. Apakah fajar esok benar-benar membawa kemenangan bagi orang-orang kecil seperti kami, ataukah seluruh keringat malam ini akan lenyap ditelan keangkuhan dinas kota?
+Malam itu kami tidak menyelesaikan lima puluh spanduk. Kami menyelesaikan tahap pertama dengan alur kerja yang lebih tertib. Untuk proyek sebesar ini, itu lebih berguna daripada mengejar angka lalu mengulang kesalahan.
 
 ---
 
-## Bab 20: Kompresor
+## Bab 20: Waktu Pengeringan
 
-Dentuman ritmis kompresor angin dua tak milik Bang Parlin menyemburkan asap solar tipis ke udara subuh yang dingin menusuk tulang.
+Udara lembap membuat beberapa kain membutuhkan waktu lebih lama untuk kering. Pagi itu, Aji memeriksa salah satu panel yang baru diterapkan, lalu membandingkannya dengan catatan waktu pengerjaan.
 
-DODODODODOK! DODODODODOK!
+"Kalau kita teruskan dengan kecepatan yang sama, rak pengering akan penuh," katanya.
 
-Getaran mesin silinder tunggal berkarat itu merambat lewat tanah semen, mengguncang deretan kaleng tiner kosong di depan ruko. Pukul setengah lima subuh, kabut tipis dari permukaan Kali Malang melayang lambat di atas aspal jalan yang basah oleh embun pekat. Di dalam ruko, empat puluh lembar kain mori sudah tergantung kaku di tali tambang, tapi sepuluh kain terakhir yang baru selesai disablon pasta damar masih basah berkilap.
+Aku menyentuh bagian tepi kain yang sudah melewati waktu pengeringan sesuai petunjuk bahan. "Jangan dipindahkan kalau belum siap. Nanti permukaannya malah rusak."
 
-Udara lembap menjelang subuh menolak mengeringkan cat minyak kami.
+Bang Parlin datang membawa dua kipas berdiri dan beberapa rangka jemuran lipat. Ia meletakkannya di area yang tidak mengganggu jalur keluar masuk.
 
-Aji menyentuh ujung kain keempat puluh dengan punggung jarinya, lalu menatapku dengan mata merah yang kurang tidur. Jaket kanvas abu-abunya dengan noda kuning di siku kanan sudah penuh coretan arang dan debu semen.
+"Ini bisa dipakai. Tapi jangan arahkan kipas terlalu dekat ke kain," katanya. "Anginnya cukup untuk membantu sirkulasi."
 
-"Kelembapan udara di ruangan ini mencapai sembilan puluh persen," kata Aji dengan nada panik tertahan. "Kalau cuma mengandalkan angin kipas angin biasa, cat damar ini butuh waktu enam jam lagi untuk mengering. Sementara tim verifikasi dinas tiba jam sembilan pagi!"
+Aji memeriksa posisi rak. Kami memberi jarak antarkain dan membuka ventilasi atas agar udara bergerak. Tidak ada kompresor yang diarahkan ke permukaan kain, apalagi udara panas dari knalpot mesin.
 
-"Kipas angin cuma muter-muter angin dingin basah," sahutku sambil menyeka pelipis yang berpeluh dingin. "Kita butuh semburan hawa panas kering bertekanan tinggi."
+"Berarti kita perlu tambah rak," kata Aji.
 
-Pandangan kami berdua serentak beralih ke ruko sebelah. Di pelataran tambal ban, Bang Parlin yang mengenakan kaus kutang hitam robek di bahu sedang memeriksa selang angin kompresornya sambil menyalakan rokok kretek pertama hari ini.
+"Dan tambah waktu," jawabku.
 
-"Bang Parlin!" panggilku sambil melangkah keluar melompati genangan air trotoar.
+Kami membagi pekerjaan menjadi beberapa kelompok. Aku dan dua orang paguyuban melanjutkan ilustrasi. Aji memeriksa file serta panel QRIS yang sudah diterapkan. Pak Lik membantu mencocokkan ukuran dan nomor kain selama kondisinya memungkinkan, lalu beristirahat ketika mulai lelah.
 
-Bang Parlin menoleh, menyipitkan mata menatap kami berdua yang sudah kumal seperti buruh pabrik zaman kolonial. "Kenapa, Win? Ada ban bocor?"
+Hari demi hari, jumlah kain yang selesai bertambah. Kami tidak lagi menghitung berdasarkan berapa banyak yang bisa dipaksa selesai dalam satu malam, tetapi berapa banyak yang sudah benar-benar kering dan lolos pemeriksaan.
 
-"Bukan ban, Bang," potong Aji cepat, menunjuk tumpukan sepuluh kain mori yang basah di dalam ruko. "Cat spanduk kami nggak mau kering gara-gara embun subuh. Pemanas listrik ruko kami nggak kuat narik daya. Bisa pinjam semburan angin kompresor Abang?"
+Pada hari keenam, empat puluh kain telah melewati pemeriksaan visual. Sepuluh sisanya masih dalam tahap pengerjaan dan pengeringan. Aji mencoret beberapa jadwal di papan tulis, lalu menyusun ulang urutan kerja agar panel QRIS tidak dipasang sebelum bidang kain siap.
 
-Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Aji. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
+"Kalau kita terus disiplin, masih ada waktu untuk pemeriksaan akhir," katanya.
 
-"Gimana kalau moncong selangnya kita pasang corong pipa seng dan kita panaskan lewat pipa pembuangan mesin?" usul Aji gesit, menunjuk leher knalpot kompresor yang mulai memancarkan hawa panas logam terbakar. "Prinsip heat gun sederhana. Udara bertekanan tinggi yang melewati pipa panas bakal berubah jadi angin kering bersuhu lima puluh derajat."
+Aku melihat deretan kain di rak. "Asal tidak ada yang mengubah tenggat lagi."
 
-Bang Parlin terdiam dua detik, lalu matanya berbinar cerah. "Ide gila, tapi masuk akal! Tunggu sebentar, gue punya potongan pipa talang seng di belakang!"
+Bang Parlin tertawa dari dekat pintu. "Kalau ada yang mengubah, suruh dia ikut mengecat."
 
-Hanya butuh lima belas menit bagi Bang Parlin dan Aji untuk merakit pipa penyalur hawa panas dari knalpot menuju moncong selang angin kompresor oranye. Begitu tuas katup dibuka, desis angin kencang bersuhu hangat menyembur deras dari ujung corong seng.
-
-WUSHHH!
-
-"Arahkan ke bagian belakang kain dulu!" teriakku memandu dari samping bentangan tali jemuran.
-
-Bang Parlin memegang selang bertekanan tinggi itu dengan kedua tangannya yang berotot legam. Ia menyapu moncong corong panas bolak-balik dalam jarak tiga puluh sentimeter dari permukaan serat mori, sementara Aji membantu memegangi ujung kain agar tidak berkibar liar.
-
-Hawa panas bertekanan tinggi melesat menembus jalinan benang kapas. Di depan mata kami, kilapan basah pasta damar dan cat minyak perlahan berubah menjadi redup padat. Minyak pelarut menguap cepat ke udara, meninggalkan lapisan pigmen yang mengeras sempurna dan menyatu mati dengan serat kain.
-
-Kain keempat puluh satu kering. Kain keempat puluh lima tuntas.
-
-Pukul enam lewat lima belas menit, matahari pagi mulai menyembul merah di balik deretan gedung perkantoran Cawang. Moncong blower rakitan Bang Parlin menyapu sudut kanan bawah kain kelima puluh, mengeringkan kode QRIS terakhir hingga hitam legam mengilat.
-
-"Selesai!" teriak Bang Parlin sambil mematikan kran angin kompresor.
-
-Desah napas lega kami bertiga meledak di udara pagi yang mulai menghangat. Lima puluh spanduk kain mori hibrida kini tergantung tegap di sepanjang pelataran dan dalam ruko, warna-warni neonnya menyala gagah menantang matahari pagi.
-
-Namun saat kami hendak meneguk segelas air putih hangat, suara deru mesin mobil yang halus dan arogan mendadak terdengar dari arah jembatan Kalimalang.
-
-Sebuah sedan hitam berpelat nomor merah meluncur pelan memasuki jalanan ruko kami, disusul dua mobil minibus bertuliskan logo Dinas Pariwisata tepat di belakangnya.
+Menjelang sore, kami mematikan sebagian kipas dan membiarkan kain tetap berada di rak. Pekerjaan belum selesai, tetapi tidak lagi terasa seperti perlombaan melawan fajar. Untuk pertama kalinya sejak proyek dimulai, kami punya jadwal yang bisa diikuti tanpa mengorbankan hasil.
 
 ---
 
@@ -1384,45 +1374,41 @@ Ia mengangguk. Kami kembali bekerja, kali ini dengan daftar pemeriksaan yang leb
 
 ---
 
-## Bab 22: Inspeksi
+## Bab 22: Pemeriksaan Akhir
 
-Cak Qodim meraba tepi kain mori primisima itu dengan kedua telapak tangannya yang tebal dan kapalan.
+Lima puluh spanduk sudah tersusun berdasarkan nomor di pelataran ruko. Sebagian digulung, sebagian dibentangkan untuk pemeriksaan akhir. Cak Qodim datang bersama dua pengurus paguyuban, sementara tim dinas memeriksa daftar dan hasil kerja.
 
-Ibu jarinya yang berbekas minyak jelantah menekan sambungan antara lukisan lele dengan panel sablon transfer damar buatan Aji. Ia melipat sudut kain itu menjadi tiga lapisan, lalu meremasnya sekuat tenaga sebelum melepaskannya kembali. Permukaan katun itu kembali rata tanpa ada retakan sedikit pun pada matriks hitam kode QRIS.
+Petugas memeriksa ilustrasi, ukuran, jahitan tepi, dan kondisi panel QRIS. Setiap kode dipindai untuk memastikan data merchant yang muncul sesuai dengan daftar. Pemilik warung yang hadir ikut memeriksa kode miliknya.
 
-"Kain mori ini lemas dan nurut," kata Cak Qodim sambil mengangguk pelan. "Seratnya nggak pecah biarpun ditekuk sampai gepeng. Ini baru namanya spanduk pecel lele yang punya nyawa."
+"Nomor dua puluh tujuh cocok," kata seorang pedagang setelah melihat nama tokonya di layar.
 
-Di samping gerobak dorong, Pak Haris berdiri kaku memegangi map jepit kulitnya. Matanya yang merah menatap nanar tumpukan lima puluh lembar kain yang kini terlipat rapi di atas meja kerja kami. Empat staf muda dinas sudah selesai mencatat nomor seri dan memverifikasi kelayakan teknis di lembar evaluasi digital mereka.
+Aji mencentang kolom pemeriksaan. "Pastikan juga file yang diterima sama dengan yang sudah disetujui."
 
-"Berdasarkan seluruh hasil pengujian lapangan barusan," kata staf berkacamata bulat kepada Pak Haris, "seluruh lima puluh unit spanduk hibrida dinyatakan memenuhi spesifikasi teknis dinas. Tingkat keterbacaan kode QRIS mencapai seratus persen pada jarak satu setengah meter."
+Aku membantu memeriksa permukaan kain. Beberapa spanduk dilipat dan dibuka kembali untuk melihat apakah ada bagian cat atau panel yang terangkat. Pemeriksaan itu bukan jaminan tahan bertahun-tahun, tetapi cukup untuk menemukan cacat yang terlihat sebelum pemasangan.
 
-Pak Haris menghela napas berat, lalu melepas kacamata berbingkai emasnya. "Kalian yakin cat minyaknya tidak luntur kalau disiram minyak goreng panas dari wajan pedagang?"
+Salah satu staf mencatat bahwa dua kain perlu dirapikan pada bagian tepi. Kami memisahkannya dan memperbaikinya sebelum dimasukkan ke kelompok siap serah.
 
-"Sudah kita uji langsung di wajan Cak Qodim, Pak Haris," sahut Aji lugas, melangkah maju menyodorkan selembar dokumen uji laboratorium sederhana yang ia susun rapi. "Resin damar mata kucing yang kami pakai punya ketahanan panas sampai seratus enam puluh derajat celsius. Jauh melampaui batas leleh spanduk plastik MMT buatan pabrik yang biasa bapak rekomendasikan."
+Pak Haris berdiri di samping meja. "Kalian sudah memeriksa ketahanan terhadap minyak panas?"
 
-Wajah Pak Haris memerah padam mendengar sindiran halus itu. Ia melirik Cak Qodim yang sedang berdiri bersedekap dengan tatapan tajam khas sesepuh pasar. Di pelataran gang, puluhan pasang mata pedagang tenda masih berjaga, menyaksikan setiap gerak-gerik sang pejabat.
+"Belum mengklaim tahan minyak panas," jawab Aji. "Kami menguji sesuai petunjuk bahan dan penggunaan yang disepakati. Kalau ada standar tambahan, kami perlu spesifikasi tertulis dan waktu untuk mengujinya."
 
-"Baik," ucap Pak Haris dingin, suaranya tercekat di tenggorokan. "Saya akui purwarupa kalian lolos uji kelayakan awal."
+Petugas dinas mengangguk, lalu melanjutkan pemeriksaan. Ia menjelaskan bahwa berita acara penerimaan akan ditandatangani setelah seluruh unit memenuhi daftar spesifikasi dan jumlahnya cocok. Hari itu, tim baru menyelesaikan pemeriksaan teknis dan mencatat perbaikan kecil.
 
-Pak Haris meletakkan map jepitnya di atas meja semen, lalu menarik pulpen bertinta hitam dari saku kemejanya. Dengan gerakan kaku dan enggan, ia membubuhkan tanda tangannya di atas Berita Acara Pemeriksaan Hasil Pekerjaan.
+Setelah semua catatan ditutup, panitia menyetujui hasil akhir lima puluh spanduk. Berita acara serah terima ditandatangani oleh perwakilan dinas dan pengurus paguyuban yang berwenang. Pak Haris tidak menandatangani sebagai pejabat, ia hanya menerima salinan laporan sebagai konsultan yang mendampingi proses.
 
-"Ini baru verifikasi kelayakan barang di atas meja, Aji," kata Pak Haris sambil menatap Aji dengan pandangan dingin menusuk. "Tantangan sesungguhnya adalah pemasangan serentak di lapangan festival. Hari Senin depan, seluruh lima puluh tenda di jalan protokol harus sudah berdiri tegak sebelum pejabat kementerian datang membuka acara."
+"Pembayaran tahap berikutnya diproses sesuai jadwal kontrak," kata petugas kepada Cak Qodim.
 
-"Kami tidak pernah lari dari tenggat, Pak Haris," balasku tegas sebelum Aji sempat menjawab. "Selama hak paguyuban dibayarkan tepat waktu sesuai perjanjian kerja sama."
+Cak Qodim mengangguk. "Kami tunggu sesuai kesepakatan."
 
-Cak Qodim melangkah mendekat ke meja, mencelupkan ibu jari kanannya ke bantalan tinta ungu yang dibawanya sendiri dari saku celana komprang. Tanpa ragu sedikit pun, ia menempelkan sidik jempolnya tepat di samping tanda tangan Pak Haris.
+Tim dinas juga menyerahkan jadwal pemasangan untuk Senin berikutnya. Dua puluh anggota paguyuban akan membantu mengangkut, memasang, dan memeriksa posisi spanduk di setiap tenda.
 
-Cap jempol ungu tebal itu mengunci lembar perjanjian dengan kekuatan mutlak.
+Saat rombongan pergi, Cak Qodim menepuk bahu Aji. "Akhirnya selesai juga."
 
-"Uang muka tahap kedua sebesar lima puluh persen bakal ditransfer ke rekening paguyuban siang ini," ucap Pak Haris seraya menutup mapnya kasar. "Jangan senang dulu. Kalau ada satu saja tenda yang roboh atau kotor saat malam pembukaan, saya sendiri yang bakal mencabut izin lapak kalian."
+"Produksinya selesai," jawab Aji. "Pemasangan masih harus kita kerjakan."
 
-Tanpa mengucap salam perpisahan, Pak Haris berbalik badan dan bergegas masuk ke dalam sedan hitamnya. Deru mesin mobil dinas itu menderu tajam meninggalkan pelataran ruko, menyisakan kepulan asap tipis yang segera buyar disapu angin Kalimalang.
+Aku tersenyum. "Setidaknya kali ini kita tidak perlu mengecat sampai pagi."
 
-Begitu mobil dinas itu lenyap di belokan jalan besar, Bang Parlin berteriak histeris sambil memukul drum kaleng tiner kosong hingga suaranya membahana ke seantero gang. Mbak Pur bersorak gembira sambil membagi-bagikan gelas es teh manis gratis kepada seluruh pedagang yang berkerumun.
-
-Aji menatap lembaran berita acara bermaterai di atas meja, lalu menghembuskan napas panjang yang telah ia tahan sejak subuh tadi.
-
-Kemenangan babak pertama ini membuktikan bahwa kuas tradisi dan ketelitian modern tidak perlu saling meniadakan di jalanan ibu kota. Di bawah langit Kalimalang yang terik, kami berdua telah membuktikan bahwa martabat orang kecil tidak bisa dibeli dengan gertakan birokrat berdasi.
+Di meja, daftar lima puluh nomor sudah diberi tanda. Untuk pertama kalinya, jumlah pekerjaan yang selesai sama dengan jumlah yang dijanjikan.
 
 ---
 
@@ -1492,37 +1478,41 @@ Aku menatap Aji. Kopi di cangkirku belum habis, tetapi sore santai kami rupanya 
 
 ## Bab 24: Pemberitahuan
 
-Kertas surat dinas berstempel basah warna ungu itu bergetar di tangan Cak Qodim saat ia membacakan isi pengumuman dengan suara tertahan.
+Surat berstempel dinas tergeletak di atas meja. Cak Qodim membacakan isinya sekali lagi untuk memastikan kami tidak salah dengar.
 
-Jarum jam dinding di ruang tengah ruko berdetik keras membelah kesunyian Minggu pagi. Di sekeliling meja semen, aku, Aji, dan Pak Lik Harto yang duduk bersandar di kursi rotan mendengarkan setiap patah kata dengan dada berdegup kencang. Cahaya matahari pagi yang terhalang tirai kain mori membuat ruangan terasa remang dan pengap oleh uap panas aspal Kalimalang.
+"Festival dimajukan menjadi Selasa malam. Selain lima puluh spanduk utama, panitia meminta sepuluh spanduk tambahan untuk zona VIP. Ukurannya sama, masing-masing empat meter."
 
-"Surat edaran nomor nol empat tujuh garing dinas pariwisata," baca Cak Qodim dengan mata melotot di balik kacamata bacanya yang melorot. "Sehubungan dengan perubahan jadwal kunjungan kerja menteri, pembukaan festival kuliner nusantara dimajukan menjadi hari Selasa malam!"
+Aji membuka buku catatan. "Berarti ada tambahan empat puluh meter kain. Stok yang tersisa berapa?"
 
-"Selasa malam?" potong Aji sambil menegakkan punggungnya kaget. "Jadwal resmi di proposal itu hari Kamis! Berarti seluruh lima puluh tenda dan spanduk harus terpasang di jalan protokol besok sore?"
+Aku memeriksa gulungan di sudut ruko. "Dua belas meter. Itu tidak cukup."
 
-"Bukan cuma itu persoalannya, Aji," sahut Cak Qodim dengan nada getir, lalu membalik lembaran kertas kedua di atas meja. "Dinas mendadak minta tambahan sepuluh spanduk mori ber-QRIS untuk zona kuliner VIP. Semuanya harus siap serah terima sebelum Selasa pagi, lengkap dengan lukisan lele dan bebek berpigmen fosfor."
+"Jadi kita perlu membeli setidaknya dua puluh delapan meter lagi," katanya. "Lebih aman kalau kita ambil tiga puluh dua meter supaya ada cadangan untuk potongan dan kesalahan."
 
-Aku menarik napas panjang, menatap tumpukan gulungan kain putih sisa belanjaan Tanah Abang di sudut ruko. Lima puluh spanduk utama memang sudah beres dan terbungkus rapi di dalam terpal plastik. Namun memproduksi sepuluh spanduk baru berukuran empat meter dalam tempo kurang dari empat puluh delapan jam adalah beban kerja yang mendekati mustahil bagi manusia biasa.
+Cak Qodim menghela napas. "Panitia minta semuanya selesai sebelum Selasa pagi. Mereka juga ingin gambar zona VIP memakai pigmen yang terlihat menyala saat malam."
 
-"Ini pasti akal-akalan Pak Haris lagi," kataku geram sambil meremas ujung taplak meja. "Dia sengaja melempar jebakan waktu supaya kita angkat tangan, lalu proyek dialihkan ke percetakan Mitra Graha."
+"Pigmen yang terlihat menyala itu ada beberapa jenis," kataku. "Kita harus tahu apakah mereka maksud warna fluoresen yang tampak terang di bawah cahaya, atau fosfor yang menyimpan cahaya lalu memancarkannya dalam gelap."
 
-"Perhitungan teknisnya sangat mepet, Win," timpal Aji seraya membuka buku catatannya di atas meja semen. "Mesin pres transfer milikku butuh waktu minimal dua puluh menit per panel kode QRIS agar perekat polimernya menempel rata. Ditambah waktu kamu melukis manual sepuluh kain dari nol, kita butuh waktu kerja tanpa henti selama tiga puluh jam."
+Aji menambahkan, "Kita tidak akan menjanjikan hasil sebelum melihat bahan dan menguji sampelnya."
 
-Aji bangkit dari kursi, melangkah ke sudut ruangan untuk memeriksa toples plastik biru berisi sisa adukan pasta damar mata kucing. Ia menimbang berat toples itu dengan telapak tangannya, lalu mengintip sisa gulungan film transfer PET di dalam kardus karton.
+Aku memandang surat itu. "Sepuluh spanduk tambahan bukan bagian dari lima puluh pesanan awal. Biaya bahan, tenaga, dan pengiriman harus disetujui terpisah."
 
-"Pasta damar kita cuma tersisa dua liter," tambah Aji cemas. "Dan stok kain mori primisima di gudang tinggal dua belas meter utuh. Kita harus menghemat setiap tetes pigmen dan tidak boleh ada kesalahan coretan sedikit pun."
+Cak Qodim mengangguk. "Saya akan meminta panitia menerbitkan perubahan pesanan dan memastikan ada tambahan pembayaran. Paguyuban tidak boleh menanggung biaya sendiri."
 
-Pak Lik Harto terbatuk pelan di kursi rotannya. Pria tua itu meraih botol inhaler birunya dari atas meja, menghirup obatnya sekali, lalu menatap kami bertiga yang sedang dilanda kepanikan. Tatapan matanya teduh, memancarkan ketenangan seorang perantau tua yang sudah kenyang menelan asam garam jalanan.
+Aji mulai menghitung waktu. Panel QRIS membutuhkan proses penerapan dan pemeriksaan yang sama seperti pesanan utama. Ilustrasi juga harus dibuat dari awal. Dengan tenggat yang baru, kami perlu meminta bantuan anggota paguyuban untuk pekerjaan persiapan dan pemasangan, bukan memaksakan semua pekerjaan pada dua orang.
 
-"Sejak tahun sembilan puluhan Pak Lik melukis spanduk di jalur Pantura," ucap Pak Lik Harto dengan suara serak namun tegas. "Orang jalanan nggak pernah kalah sama selembar kertas bertanda tangan pejabat. Kalau orang dinas memajukan jadwalnya, kita percepat ayunan tangan kita."
+"Kalau bahan datang malam ini dan desain disetujui, kita bisa mulai besok," katanya. "Tapi jadwalnya tetap ketat."
 
-Cak Qodim menepuk meja semen dengan telapak tangannya yang keras hingga cangkir kopi bergoyang. "Betul kata Lik Harto! Dua puluh anak muda paguyuban bakal bantu pasang tiang besi di jalan protokol mulai besok subuh. Kalian berdua fokus saja selesaikan sepuluh spanduk VIP di ruko ini. Jangan biarkan orang dinas menertawakan keringat kita!"
+Aku mengikat rambut ke belakang. "Aku bisa mulai membuat pola gambar. Tapi jangan gunakan pigmen yang belum kita tes."
 
-Aji membetulkan letak kacamatanya, lalu menatapku dengan sorot mata yang penuh tekad baja. "Kita bagi tugas sekarang juga. Aku potong sepuluh lembar mori primisima dan mulai sablon film damar. Kamu mulai buat pola gambar lele dengan arang kayu."
+Pak Lik Harto yang sejak tadi mendengarkan mengangkat tangan. "Jangan sampai kalian lupa makan dan istirahat. Kalau tangan sudah gemetar, hasilnya juga berantakan."
 
-"Siapkan adukan cat oranye dan hijau stabilo nomor satu," sahutku tegas sambil mengikat rambutku ke belakang. "Malam ini kita nggak tidur lagi."
+Cak Qodim tertawa kecil. "Saya urus tambahan pesanan dan orang-orang yang membantu. Kalian urus kualitasnya."
 
-Aku melangkah ke sudut meja kerja, mengambil sebatang kuas lukis bergagang kayu jati peninggalan Pak Lik Harto. Jemariku meraba gagang kuas yang halus oleh gesekan tangan selama puluhan tahun. Kutatap bentangan mori putih yang masih bersih tanpa noda di atas lantai semen, bertanya-tanya dalam hati apakah sepasang tangan dan kuas sederhanaku ini sanggup menaklukkan batas waktu sebelum fajar Selasa merekah di langit Jakarta.
+Setelah Cak Qodim pergi, Aji menuliskan kebutuhan bahan di papan. Kami harus membeli kain tambahan, memastikan jenis pigmen yang diminta, menyiapkan panel QRIS dari file resmi masing-masing merchant, dan membagi pekerjaan produksi serta pemasangan.
+
+Tenggatnya memang sempit. Namun kali ini kami tidak akan menerima pekerjaan tambahan hanya dengan modal nekat. Semua harus jelas: jumlah, bahan, biaya, dan siapa yang bertanggung jawab.
+
+Aku mengambil kuas peninggalan Pak Lik dari tempatnya. Sepuluh kain baru menunggu pola pertama.
 
 ---
 
