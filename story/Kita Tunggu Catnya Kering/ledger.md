@@ -7,7 +7,7 @@
 | Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
 |---|---|---|---|---|
 | 1 | Selasa, 04.30 | Ruko Wiwin Kalimalang | Wiwin, Pak Lik Harto, sopir pikap | Wiwin membentang kain subuh; ruko seberang menurunkan mesin cetak digital bekas |
-| 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur | Cak Qodim pesan spanduk lele kumis melengkung; Aji sebar brosur cetak murah; mitos pantang lele Lamongan |
+| 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur | Cak Qodim pesan spanduk lele berkumis melengkung; Aji sebar brosur cetak murah; pantangan makan lele keluarga Cak Qodim |
 | 3 | Kamis, 19.30 | Depan ruko percetakan Aji | Wiwin, Aji, Bang Parlin, Cak Qodim | Wiwin melabrak Aji soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
 | 4 | Jumat, 21.45 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Spanduk MMT Aji melepuh terkena uap kompor mawar; jari Aji melepuh; Cak Qodim meradang |
 | 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; modul dan jarak antarkotak berubah akibat rembesan sehingga tes scan gagal |
@@ -69,7 +69,7 @@
 | Bab | Emosi/perubahan | Benda/fokus | Hubungan terakhir | Fakta yang harus diingat | Urusan menggantung |
 |---|---|---|---|---|---|---|
 | 1 | Waspada; usaha terancam | Kuas dan kain mori | Belum mengenal Aji | Obat Pak Lik perlu dibeli | Identitas penyewa ruko seberang |
-| 2 | Jengkel dan tertantang | Pesanan spanduk Cak Qodim | Saling sindir | Pantangan lele adalah kepercayaan keluarga/tokoh | Persaingan dengan Aji |
+| 2 | Jengkel dan tertantang | Pesanan spanduk Cak Qodim | Saling sindir | Pantangan makan lele adalah kepercayaan pribadi keluarga Cak Qodim | Persaingan dengan Aji |
 | 3 | Marah dan defensif | Sandal jepit | Rival terbuka | - | Spanduk MMT Aji akan diuji |
 | 4 | Kesal tetapi mulai melihat risiko Aji | Spanduk MMT yang melengkung | Rivalitas dengan rasa iba | Aji mengalami luka bakar ringan saat melepas bahan yang melunak | Dampak spanduk MMT pada warung |
 | 5 | Sadar keterbatasan metode manual | Kuas liner dan ponsel | Masih bersaing | QRIS manual gagal terbaca | Mencari metode panel digital |
