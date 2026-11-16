@@ -16,6 +16,10 @@ Air mengalir tepat ke arah rak pengering. Aku segera memindahkan kain yang palin
 
 Pak Lik muncul dari bilik sambil membawa senter. Ia tidak mendekati stopkontak atau kabel yang terendam. Dari ambang bilik, ia menunjuk ke arah pintu belakang.
 
+"Jangan lewat tengah. Airnya sudah masuk sampai bawah meja," katanya.
+
+Ia sempat berhenti untuk mengatur napas. Aku menyuruhnya tetap di bagian lantai yang lebih tinggi, tetapi ia bersikeras membantu mengarahkan kain. Aji meminta Pak Lik cukup memegang senter dan menunjukkan jalur yang aman. Untuk kali ini, Pak Lik menurut tanpa membantah.
+
 "Kasur sudah Pak Lik lapisi plastik. Bawa ke sana. Lewat sisi kiri, lantainya lebih tinggi!"
 
 Aku mengangkat dua kain sekaligus, lalu membawanya ke bilik belakang. Aji tetap menjaga terpal agar air dari talang tidak langsung mengenai rak. Sesekali ia menggeser wadah penampung yang hampir meluap. Pak Lik membantu mengarahkan kain dan memastikan jalur menuju bilik tidak tertutup barang.
