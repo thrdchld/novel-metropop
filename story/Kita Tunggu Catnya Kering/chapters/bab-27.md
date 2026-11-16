@@ -1,43 +1,53 @@
 ## Bab 27: Pengorbanan
 
-Aji melompat ke atas meja semen, membentangkan jaket kanvas tebalnya dan menahan runtuhan seng talang dengan kedua pundaknya agar air bah tidak menerobos pintu bilik belakang.
+Air masih mengalir dari sambungan talang yang patah. Setelah petugas memastikan aliran listrik utama sudah diputus, kami bisa kembali ke ruang depan tanpa risiko menyentuh instalasi yang masih bertegangan.
 
-Guyuran air keruh bercampur karat besi menghantam kepala dan punggungnya tanpa belas kasihan. Otot-otot lengannya menegang kaku, urat lehernya mencuat saat ia mengerahkan seluruh tenaga menahan lempengan logam seng yang berderak tajam tertiup angin puting beliung. Ujung seng yang koyak menggores permukaan jaketnya, mengalirkan lumpur cokelat ke sekujur tubuhnya. Kacamata minusnya sudah terlempar jatuh entah ke mana, lenyap ditelan genangan air banjir di lantai.
+Namun talang yang terlepas terus mengucurkan air ke lantai. Salah satu ujungnya tersangkut pada rangka kayu dekat plafon. Setiap kali angin bertiup, lempengan seng itu berderak dan bergeser, mengarahkan air ke pintu bilik belakang.
 
-Di sudut depan ruko, mesin cetak digital miliknya terus mendesis keras. Percikan bunga api listrik melompat-lompat liar dari kabel power yang terendam air, menyebarkan bau sangit tembaga terbakar ke seluruh penjuru ruangan.
+"Kalau dibiarkan, airnya masuk ke kamar," kata Pak Lik.
 
-"Turun, Aji! Cepat turun!" jeritku panik dari ambang pintu bilik. "Ada arus listrik di lantai! Kamu bisa kesetrum mati!"
+Aji mengambil senter dan mengamati rangka dari jarak aman. "Kita perlu mengarahkan ujung talangnya ke luar. Jangan ada yang berdiri tepat di bawahnya."
 
-"Pak Lik, cari kayu kering!" teriak Aji dengan suara parau yang nyaris tenggelam oleh gemuruh guntur. "Tolong turunkan tuas sakelar utama di meteran depan! Cepat, sebelum kabelnya meledak!"
+Ia meminta Bangku kayu dan tali tambang dari dekat pintu, lalu mencoba menahan ujung talang menggunakan galah kayu panjang. Aku berdiri di sisi bilik, memegangi senter agar ia bisa melihat sambungan yang terlepas. Pak Lik tetap berada di bagian lantai yang lebih tinggi.
 
-Air dingin sudah menggenangi lantai semen setinggi betis, merendam kaki-kaki meja dan kaleng cat kosong yang terapung liar. Aku hendak menerobos air untuk mematikan sekring, namun Pak Lik Harto menahan pundakku dengan sebilah papan kayu bekas bingkai sablon. Pria tua itu melangkah dengan sangat waspada, menggunakan papan kayu kering untuk menjangkau kotak sekring MCB di dekat kusen pintu utama.
+Dorongan pertama tidak berhasil. Talang itu bergeser, tetapi ujung seng yang tajam justru tersangkut pada sisi rangka.
 
-PRAK!
+"Hati-hati, Ji!" seruku.
 
-Ujung papan kayu Pak Lik Harto menghantam tuas sakelar hitam ke bawah.
+"Aku tahu."
 
-Seketika itu juga, lampu ruko padam total. Kegelapan pekat menyergap ruangan, hanya diterangi kilatan petir yang sesekali merobek langit malam Kalimalang. Desis percikan api dari mesin cetak padam seketika, menyisakan kepulan asap tipis dan suara gemericik air hujan yang masih menabrak atap seng tua kami.
+Aji mencoba sekali lagi dari samping. Kali ini ujung talang bergerak menjauh dari pintu bilik. Namun bagian seng yang robek menyambar telapak tangannya ketika ia menggeser galah. Ia spontan menarik tangan dan kehilangan keseimbangan. Kakinya terpeleset di lantai basah, membuatnya jatuh terduduk.
 
-"Listrik sudah putus, Aji!" seru Pak Lik Harto dari depan. Pria tua itu menyalakan senter kepala kecil dari saku celananya, menyinari ruang tengah yang kini dipenuhi air keruh setinggi mata kaki.
+"Aji!"
 
-Mendengar seruan itu, Aji menggeser runtuhan talang seng dengan dorongan pundaknya yang terakhir. Ia mengarahkan moncong seng yang patah menuju ember besar dan saluran parit samping. Air bah yang tadinya tumpah ke lantai semen kini mengalir terkendali keluar celah dinding ruko.
+Aku mendekat setelah memastikan tidak ada kabel atau bagian listrik yang masih berbahaya. Telapak tangannya lecet dan ada sayatan dangkal akibat tepi seng berkarat. Jaket kanvasnya basah, bagian siku kanan masih menyimpan noda kuning yang sudah kukenal.
 
-Begitu lempengan seng tertahan kokoh pada kerangka kayu balok plafon, tenaga Aji habis total.
+"Jangan bergerak dulu," kataku.
 
-Tubuh pemuda itu limbung ke samping. Kakinya tergelincir dari atas meja semen yang licin, membuatnya jatuh terduduk di atas lantai basah dengan deburan air yang memercik ke mana-mana.
+Pak Lik mengambil kotak P3K dari bilik. Kami membersihkan luka Aji dengan air bersih dan menutupnya menggunakan kasa. Sayatannya tidak tampak dalam, tetapi tetap perlu diperiksa di klinik karena terkena logam kotor.
 
-"Aji!" panggilku panik, berlari menerjang genangan air dingin menghampirinya.
+Aji masih berusaha bangkit. "Talangnya sudah menjauh dari pintu?"
 
-Aku berlutut di genangan air di sampingnya tanpa memedulikan celanaku yang basah kuyup. Tanganku menyentuh pundak jaket kanvasnya yang dingin seperti es batu. Napas Aji tersengal-sengal pendek, dadanya naik turun dengan ritme cepat menahan lelah dan gigil yang menusuk tulang. Kulihat telapak tangannya lecet memerah akibat menahan beban seng berkarat.
+"Sudah. Sekarang yang penting tanganmu."
 
-"Kamu nggak apa-apa?" tanyaku dengan suara bergetar, menyeka kucuran air hujan bercampur debu yang membasahi kening dan pelipisnya.
+Ia melihat ke arah bilik belakang. "Kain VIP aman?"
 
-Aji mendongak pelan menatapku di bawah sorotan lampu senter Pak Lik Harto. Di bibirnya yang pucat pasi membiru oleh dingin, seulas senyum tipis mendadak merekah.
+"Sepuluh-sepuluhnya aman."
 
-"Kain mori VIP pesanan dinas," bisik Aji serak, suaranya bergetar menahan dingin. "Kainnya aman di dalam bilik, kan?"
+Aji mengembuskan napas panjang. Bahunya turun, seolah baru sekarang ia mengizinkan dirinya merasa lelah.
 
-Air mataku menetes tanpa bisa kubendung lagi, bercampur dengan tetesan air hujan yang mengalir di pipiku. Kurasakan perih yang mendalam di dada melihat pemuda ini mengorbankan tubuhnya sendiri dan membiarkan mesin cetak berharganya hancur terendam air demi menyelamatkan kain lukisanku.
+Aku duduk di sampingnya. Air masih menetes dari rambutnya dan ujung jaketnya. "Kamu tadi bisa saja menunggu bantuan. Tidak perlu mengurus semuanya sendiri."
 
-"Semuanya aman, Aji," jawabku lirih sambil mendekap kedua pundaknya erat-erat. "Kainnya selamat. Sepuluh spanduk itu kering tanpa cacat."
+"Kalau airnya masuk ke bilik, kainnya bisa rusak lagi."
 
-Aji menghembuskan napas panjang, lalu menyandarkan kepalanya yang basah di pundakku. Di tengah deru badai yang mulai mereda di atas langit Kalimalang, kami berdua terdiam dalam pelukan dingin di atas lantai semen basah, mengunci sebuah janji sunyi yang lebih kokoh dari apa pun.
+"Dan kalau tanganmu lebih parah, bagaimana?"
+
+Aji tidak langsung menjawab. Ia menunduk, memandangi kasa putih yang membungkus telapak tangannya.
+
+Aku membantu Pak Lik membersihkan sisa air dari jalur menuju bilik. Setelah itu, kami menghubungi klinik untuk memastikan luka Aji bisa ditangani pagi nanti. Ia sempat ingin menolak, tetapi kali ini aku tidak memberinya kesempatan berdebat.
+
+Menjelang subuh, hujan mulai mengecil. Kami duduk di ruang tengah yang berantakan, ditemani suara tetesan air dari atap. Mesin cetak Aji masih terendam di bagian bawah. Tak seorang pun berani menyalakannya.
+
+Aji menyandarkan kepala ke dinding. Aku duduk di sebelahnya, cukup dekat untuk memastikan ia tidak menggigil sendirian.
+
+Malam itu kami berhasil menyelamatkan kain-kain pesanan. Tetapi ketika melihat mesin yang menjadi sumber penghidupan Aji terdiam di sudut ruangan, aku tahu ada harga lain yang belum kami hitung.
