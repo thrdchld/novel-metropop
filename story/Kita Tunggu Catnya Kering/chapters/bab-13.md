@@ -24,6 +24,16 @@ Sampel A tampak paling mengilap, tetapi ketika kulipat perlahan, permukaannya te
 
 Aji membandingkan catatannya. "Sampel A perlu diuji lagi. Kilapnya bagus, tapi kelenturannya buruk. B perlu perbaikan daya tutup. C jadi patokan kita."
 
+Ia mengambil potongan kain A dan menggosok permukaannya dengan kain putih bersih. Ada sedikit warna yang berpindah, tidak banyak, tetapi cukup membuatnya memberi tanda silang di kolom hasil.
+
+"Kalau ini dipakai di spanduk, orang bisa menggulungnya berkali-kali. Cat yang pindah ke sisi lain bisa mengotori gambar," katanya.
+
+Aku mengangkat potongan C ke dekat jendela. "Yang ini warnanya memang tidak seterang A, tapi garisnya masih rapi setelah kering. Kita bisa mengubah ketebalan lapisan, bukan langsung mengganti semua bahan."
+
+Aji mencatat usul itu. "Berarti percobaan berikutnya kita ubah satu hal saja. Kalau komposisinya sekaligus berubah, kita tidak tahu apa yang membuat hasilnya membaik."
+
+Aku mengangguk. Cara berpikirnya mulai terasa berguna. Selama ini aku sering mengandalkan ingatan dan perasaan ketika mencampur cat. Aji membantuku mencatat hal-hal yang biasanya kulewati begitu saja.
+
 Aku mengambil pensil dan menulis catatan kecil di belakang sampel. "Kita juga perlu uji setelah beberapa kali dilipat. Kalau untuk spanduk, kain pasti sering digulung."
 
 "Dan jangan lupa cek apakah warnanya berpindah saat permukaan digosok setelah benar-benar kering."
