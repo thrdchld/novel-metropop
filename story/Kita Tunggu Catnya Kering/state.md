@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 12 (*Buku Resep*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 13 (*Rumus Kimia*)
-- **Titik Waktu Cerita:** Sabtu, Pukul 11.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Meja kerja ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Siang hari terik panas, debu tipis beterbangan ditiup angin jalanan
+- **Bab Terakhir Selesai:** Bab 13 (*Rumus Kimia*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 14 (*Uji Coba*)
+- **Titik Waktu Cerita:** Minggu, Pukul 16.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Pelataran ruko seni spanduk Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Sore hari sejuk berangin, langit mulai teduh keemasan
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Berdebat seru mengoplos formula tinta sablon getah damar memadukan logika gram digital dan insting rabaan tangan
+- **Kondisi Emosi Tokoh Utama:** Bersiap melakukan uji coba sablon saring perdana pasta damar kode QRIS di atas kain mori primisima bersama Bachtiar
 
 ---
 
