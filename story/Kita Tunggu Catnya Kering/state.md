@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 14 (*Uji Coba*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 15 (*Kunjungan*)
-- **Titik Waktu Cerita:** Senin, Pukul 09.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Pagi hari panas menyengat, debu aspal beterbangan ditiup truk kontainer
+- **Bab Terakhir Selesai:** Bab 16 (*Shortcut*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 17 (*Tanah Abang*)
+- **Titik Waktu Cerita:** Kamis, Pukul 05.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Blok A Pasar Tanah Abang, Jakarta Pusat
+- **Cuaca / Suasana Fisik:** Subuh dingin berembun, hiruk pikuk bongkar muat gulungan kain
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Waspada menghadapi inspeksi mendadak pejabat dinas pariwisata yang congkak bersama Bachtiar
+- **Kondisi Emosi Tokoh Utama:** Bersemangat berburu 50 gulung kain mori primisima kualitas ekspor bersama Bachtiar
 
 ---
 

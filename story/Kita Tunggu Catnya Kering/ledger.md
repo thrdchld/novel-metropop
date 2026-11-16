@@ -20,14 +20,16 @@
 | 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Wiwin buka buku resep kuno; Bachtiar temukan formula getah damar untuk tinta sablon saring QRIS |
 | 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Bachtiar | Bachtiar hitung viskositas centipoise; Wiwin koreksi takaran pakai kepekaan jemari; formula pasta damar pas |
 | 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Bachtiar, Bang Parlin | Sablon saring pasta damar sukses cetak QRIS tajam; sensor HP baca 0,2 detik; mobil dinas pelat merah tiba |
+| 15 | Senin, 09.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Pak Haris | Pak Haris inspeksi ruko; uji semprot air & scan tembus seketika; tantangan 50 spanduk 2 minggu klausul denda 20% |
+| 16 | Rabu, 21.00 | Tangga ruko lantai dua | Wiwin, Bachtiar | Bachtiar curhat di-PHK Pak Haris; Wiwin ungkap luka batal kuliah seni; keduanya saling memahami |
 
 ## A2. Timeline Masa Lalu
 
 | Tokoh | Usia/tahun | Kejadian penting | Muncul/dirujuk di bab |
 |---|---|---|---|
 | Pak Lik Harto | 1992 | Mulai merantau melukis spanduk pecel lele di jalur Pantura | Bab 1 (disebut Wiwin) |
-| Bachtiar | 2024 | Di-PHK dari agensi desain dan portofolio dicuri Pak Haris | Belum (direncanakan Bab 16) |
-| Wiwin | 2018 | Lulus SMA di Brebes dan merantau ke Jakarta merawat Pak Lik Harto | Bab 1 |
+| Bachtiar | 2024 | Di-PHK dari agensi desain dan portofolio dicuri Pak Haris | Bab 16 |
+| Wiwin | 2018 | Lulus SMA di Brebes dan merantau ke Jakarta merawat Pak Lik Harto | Bab 1, Bab 16 |
 
 ## B. Daftar Lokasi
 
@@ -44,7 +46,7 @@
 |---|---|---|---|
 | Mesin seberang adalah mesin cetak digital | Wiwin, Pak Lik Harto | 1 | Pengamatan visual saat pikap bongkar muat |
 | Sakit asma Pak Lik Harto butuh obat rutin | Wiwin | 1 | Keseharian di ruko |
-| Masa lalu PHK Bachtiar | Bachtiar | - | Rahasia pribadi Bachtiar (baru diungkap Bab 16) |
+| Masa lalu PHK Bachtiar | Bachtiar, Wiwin | 16 | Cerita Bachtiar di tangga lantai dua |
 
 ## D. Status Tokoh per Bab
 
@@ -64,6 +66,8 @@
 | 12 | Wiwin | Terinspirasi & takjub | Buku resep usang, toples getah damar | Menemukan titik temu sains dan tradisi | - | Menguji formula getah damar untuk sablon saring |
 | 13 | Wiwin | Bangga & serasi | Piring blirik, pasta damar hitam | Menyatukan sains modern dan kepekaan rabaan tangan | - | Uji coba sablon saring pada kain mori |
 | 14 | Wiwin | Girang lalu tegang | Rakel sablon kayu, HP jadul | Menikmati kemenangan kolaborasi hibrida | - | Menghadapi kedatangan mendadak mobil dinas pejabat |
+| 15 | Wiwin | Tertantang & geram | Kartu nama emas Pak Haris | Kompak melawan arogansi birokrat | - | Tenggat 2 minggu produksi 50 spanduk dengan denda 20% |
+| 16 | Wiwin | Terenyuh & terhubung | Cangkir seng blirik teh manis | Saling membuka luka masa lalu dan bersekutu hati | Mengetahui masa lalu PHK Bachtiar | Menuntaskan 50 spanduk hibrida bersama |
 
 ## E. Fakta Keras dan Angka
 
