@@ -36,6 +36,7 @@
 | 28 | Selasa, 06.00 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Mbak Pur, Bang Parlin, Pak Lik Harto, Cak Qodim | Asap tipis mesin cetak gosong; Mbak Pur bawakan sambal terasi; Cak Qodim kerahkan pemuda paguyuban |
 | 29 | Selasa, 11.00 | Jalan protokol festival kota | Wiwin, Bachtiar, Cak Qodim, Bang Parlin, Pak Lik Harto | Gotong royong pasang 60 spanduk hibrida; Pak Lik sentuh kepala lele mori; Pak Haris tertegun |
 | 30 | Selasa, 19.00 | Arena utama festival kuliner | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto, Menteri, Pak Haris | Pembukaan festival; 60 spanduk hibrida menyala neon; menteri sukses scan QRIS 0,2 detik |
+| 31 | Selasa, 21.00 | Tenda Cak Qodim di arena festival | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto, Mbak Pur, Bang Parlin | Ribuan pengunjung serbu tenda; makan lele piring blirik; jemari Bachtiar genggam tangan Wiwin |
 
 ## A2. Timeline Masa Lalu
 
@@ -96,6 +97,7 @@
 | 28 | Wiwin | Berempati & bangkit berani | Cobek batu sambal terasi, handuk katun | Meneguhkan Bachtiar yang terpukul; bersiap gotong royong | - | Memasang 60 spanduk sebelum pembukaan festival malam ini |
 | 29 | Wiwin | Bangga & terharu | Tali tambang, botol air mineral | Bersama seluruh komunitas jalanan mengibarkan 60 spanduk | - | Pembukaan akbar festival kuliner nanti malam |
 | 30 | Wiwin | Sangat bahagia & bangga | Spanduk mori nomor satu, lampu blitz kamera | Bachtiar menyentuh jemari Wiwin di depan panggung menteri | - | Pesta perayaan malam festival kuliner |
+| 31 | Wiwin | Sangat bahagia & luluh | Piring blirik lele goreng, genggaman tangan Bachtiar | Hubungan resmi bertransformasi menjadi cinta yang tulus | - | Rencana menyatukan ruko dan usaha bersama |
 
 ## E. Fakta Keras dan Angka
 

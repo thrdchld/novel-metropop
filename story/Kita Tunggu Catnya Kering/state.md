@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 30 (*Hari Pembuktian*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 31 (*Lampu Kota*)
-- **Titik Waktu Cerita:** Selasa, Pukul 21.00 WIB (Puncak Festival)
-- **Lokasi Terkini Tokoh Utama:** Tenda pecel lele Cak Qodim, arena festival kuliner kota
-- **Cuaca / Suasana Fisik:** Malam semarak lampu kota, hiruk pikuk ribuan pengunjung memadati tenda
+- **Bab Terakhir Selesai:** Bab 31 (*Lampu Kota*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 32 (*Bergabung*)
+- **Titik Waktu Cerita:** Minggu, Pukul 16.30 WIB (Sepekan Kemudian)
+- **Lokasi Terkini Tokoh Utama:** Studio Tenda Malam (ruko Wiwin & Bachtiar yang menyatu), Kalimalang
+- **Cuaca / Suasana Fisik:** Sore teduh keemasan, angin semilir Kalimalang, plang nama baru terpasang di atas pintu
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Hangat, bersyukur, dan menikmati perayaan kemenangan di atas piring blirik
+- **Kondisi Emosi Tokoh Utama:** Damai, bahagia seutuhnya, dan merayakan cinta yang bersemi di atas kain mori
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Selasa (21.00 WIB) | Perayaan puncak festival di tenda Cak Qodim; makan lele piring blirik |
-| **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan persiapan tiang paguyuban |
-| **Dua Hari Lalu (H-2)** | Minggu | Surat dinas pemajuan jadwal festival diterima paguyuban |
-| **Tenggat / Acara Mendatang** | Pekan Depan | Peleburan resmi dua ruko menjadi Studio Tenda Malam |
+| **Hari Ini** | Minggu (16.30 WIB) | Pemasangan plang nama baru Studio Tenda Malam; peresmian ruko gabungan |
+| **Kemarin (H-1)** | Sabtu | Merenovasi sekat dinding ruko dan menyusun meja kerja kembar |
+| **Pekan Lalu** | Selasa | Malam pembukaan dan kesuksesan akbar 60 spanduk di festival kuliner |
+| **Tenggat / Acara Mendatang** | Hari Ini | Penuntasan bab penutup novel |
 
 ---
 
