@@ -34,7 +34,7 @@ Keringat dingin mulai tampak membasahi pelipis Pak Haris di balik kacamata emasn
 
 Suara lantang Mbak Pur memecah ketegangan. Pemilik warkop itu berjalan melenggang dari seberang gang sambil mengacungkan sebuah ponsel berlayar retak seribu dengan casing silikon yang sudah menguning.
 
-"Kamera HP saya cuma delapan megapiksel, layarnya pecah kena jatuhan ulekan cabai," tambah Mbak Pur sambil menyodorkan ponselnya ke depan wajah Pak Haris. "Kalau sampai HP saya gagal bayar lele Cak Qodim, baru sampeyan boleh ngoceh soal standar mutu!"
+"Kamera HP saya cuma delapan megapiksel, layarnya pecah kena jatuhan ulekan cabai," tambah Mbak Pur sambil menyodorkan ponselnya ke depan wajah Pak Haris. "Kalau sampai HP saya gagal bayar lele Cak Qodim, baru Anda boleh ngoceh soal standar mutu!"
 
 Warga gang dan para sopir ojek pangkalan yang berkerumun mulai terkekeh geli. Pak Haris terpojok oleh tatapan puluhan pasang mata pedagang pasar. Dengan tangan yang sedikit gemetar menahan malu, ia menyalakan aplikasi dompet digital di ponsel butut milik Mbak Pur, lalu mengarahkannya ke kode QRIS di kain nomor lima puluh.
 

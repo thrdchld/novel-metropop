@@ -18,7 +18,7 @@ SREK! SREK!
 
 Bilah karet rakel ditariknya dengan sudut miring empat puluh lima derajat, menyapukan pasta damar hitam pekat menembus saringan ke serat kain mori. Setiap kali plat diangkat, satu kode QRIS sempurna tercetak hitam legam.
 
-"Kain kedua puluh siap sablon, Tiye!" seruku sambil menggeser kain baru ke arahnya.
+"Kain kedua puluh siap sablon, Bachtiar!" seruku sambil menggeser kain baru ke arahnya.
 
 "Sini, taruh sejajar tanda kapur!" sahut Bachtiar dengan napas memburu.
 

@@ -40,7 +40,7 @@ Mbak Pur yang baru saja meletakkan sepiring tahu goreng panas di samping cangkir
 
 Cak Qodim mengusap wajahnya yang lelah, lalu menatap kami berdua secara bergantian dengan pandangan memohon.
 
-"Anggaran dari dinas ini besar, Win, Tiye. Satu spanduk dihargai delapan ratus ribu rupiah. Dikalikan lima puluh warung, totalnya empat puluh juta," kata Cak Qodim lirih. "Kalau paguyuban kita gagal memenuhi syarat, proyek ini bakal dialihkan ke vendor reklame swasta besar dari pusat. Pedagang kecil kayak kita cuma jadi penonton di tanah sendiri."
+"Anggaran dari dinas ini besar, Win, Bachtiar. Satu spanduk dihargai delapan ratus ribu rupiah. Dikalikan lima puluh warung, totalnya empat puluh juta," kata Cak Qodim lirih. "Kalau paguyuban kita gagal memenuhi syarat, proyek ini bakal dialihkan ke vendor reklame swasta besar dari pusat. Pedagang kecil kayak kita cuma jadi penonton di tanah sendiri."
 
 Uang empat puluh juta. Angka itu berputar di kepalaku. Jumlah itu cukup untuk melunasi biaya pengobatan paru-paru Pak Lik Harto selama setahun penuh, bahkan masih ada sisa untuk merenovasi atap ruko kami yang mulai lapuk.
 

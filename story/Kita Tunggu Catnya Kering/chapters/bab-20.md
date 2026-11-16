@@ -22,7 +22,7 @@ Bang Parlin menoleh, menyipitkan mata menatap kami berdua yang sudah kumal seper
 
 "Bukan ban, Bang," potong Bachtiar cepat, menunjuk tumpukan sepuluh kain mori yang basah di dalam ruko. "Cat spanduk kami nggak mau kering gara-gara embun subuh. Pemanas listrik ruko kami nggak kuat narik daya. Bisa pinjam semburan angin kompresor Abang?"
 
-Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Tiye. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
+Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Bachtiar. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
 
 "Gimana kalau moncong selangnya kita pasang corong pipa seng dan kita panaskan lewat pipa pembuangan mesin?" usul Bachtiar gesit, menunjuk leher knalpot kompresor yang mulai memancarkan hawa panas logam terbakar. "Prinsip heat gun sederhana. Udara bertekanan tinggi yang melewati pipa panas bakal berubah jadi angin kering bersuhu lima puluh derajat."
 

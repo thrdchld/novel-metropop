@@ -6,7 +6,7 @@ Dua jam sudah aku duduk membungkuk di atas meja kayu panjang, menahan napas seti
 
 Kotak demi kotak hitam berukuran empat milimeter kugoreskan dengan presisi gila-gilaan. Tidak boleh ada tangan yang gemetar. Tidak boleh ada satu helai bulu kuas pun yang mekar.
 
-"Opo gunane nggambar kothak-kothak ireng semono akehe, Nduk?" Suara serak Pak Lik Harto memecah kesunyian ruko.
+"Buat apa kamu menggambar kotak-kotak hitam sebanyak itu, Win?" Suara serak Pak Lik Harto memecah kesunyian ruko.
 
 Pria tua itu melangkah tertatih dari bilik belakang, memegangi kusen pintu tripleks dengan tangan kirinya yang gemetar. Sarung lurik usangnya terseret di lantai semen. Napasnya masih berbunyi mencicit lirih, sisa serangan asma semalam yang baru reda setelah kuhisapkan dua semprotan inhaler.
 
@@ -14,9 +14,9 @@ Pria tua itu melangkah tertatih dari bilik belakang, memegangi kusen pintu tripl
 
 Pak Lik Harto menarik bangku kayu pendek, lalu duduk di sampingku. Matanya yang keruh menatap teliti goresan cat hitam minyak oplosanku di atas kain.
 
-"Kain mori dudu kertas gambar, Win," kata Pak Lik Harto pelan. "Mori kui tenunan benang kapas asli. Dheweke duwe pori-pori sing urip. Cat minyakmu bakal ditarik karo serat benang, merembes sakndulit-sakndulit tanpa kowe sadari."
+"Kain mori itu bukan kertas gambar, Win," kata Pak Lik Harto pelan. "Mori itu tenunan benang kapas asli yang punya pori-pori hidup. Cat minyakmu bakal ditarik sama serat benang, merembes sedikit demi sedikit tanpa kamu sadari."
 
-"Tenang saja, Pak Lik," balasku sambil mencelupkan ujung kuas ke piring kaleng blirik berisi cat hitam kental. "Campuran tinernya sudah tak kurangi setengah sendok biar kental. Dijamin nggak bakal blobor."
+"Tenang saja, Pak Lik," balasku sambil mencelupkan ujung kuas ke piring kaleng blirik berisi cat hitam kental. "Campuran tinernya sudah kukurangi setengah sendok biar kental. Dijamin nggak bakal blobor."
 
 Tiga puluh menit kemudian, kotak kode QRIS manual itu selesai kulukis. Rapi, hitam pekat, dan tegak lurus sesuai ukuran modul standar perbankan. Dari jarak pandang satu meter, gambar itu persis seperti hasil cetak mesin stempel.
 
@@ -42,6 +42,6 @@ Kudekatkan mataku ke kain mori hingga hidungku hampir menyentuh permukaan cat ba
 
 Di bawah kaca pembesar benang, serat kapas mori perlahan tapi pasti menyerap pelarut minyak cat. Tepi garis hitam yang semula lurus sempurna kini merembes halus menyerupai rambut-rambut halus ke sela benang putih. Lebar garis itu meluber tidak lebih dari nol koma empat milimeter, nyaris mustahil dilihat mata telanjang. Namun bagi sensor digital kamera ponsel, rembesan nol koma empat milimeter itu adalah bencana besar yang mengacaukan susunan data biner.
 
-Pak Lik Harto menepuk pundakku pelan. "Kuas tangan manusia kui kanggo nggugah rasa luwe, Nduk. Dudu kanggo ngapusi mripate mesin."
+Pak Lik Harto menepuk pundakku pelan. "Kuas tangan manusia itu untuk menggugah rasa lapar orang yang lewat, Win. Bukan buat membohongi mata mesin."
 
 Kutatap kuas liner bulu musang nomor satu di genggamanku, lalu menatap layar ponsel retak yang masih menampilkan pesan eror merah. Di seberang jalan, desing mesin cetak digital Bachtiar terdengar sayup-sayup menembus dinding ruko. Untuk pertama kalinya sejak merantau ke Jakarta, aku menyadari bahwa cinta dan ketekunan tanganku sedang berhadapan dengan tembok tak kasatmata yang tidak bisa ditembus oleh sekadar rasa percaya diri.

@@ -108,7 +108,7 @@
 | Jumlah bab | 32 bab | Outline |
 | Kerangka plot | Fichtean Curve & Romance Hibrida | Canon |
 | Tokoh Utama | Dwi Winarsih (Wiwin, 26 tahun) | Canon |
-| Tokoh Pendamping | Bachtiar Rasyid (Tiye, 28 tahun) | Canon |
+| Tokoh Pendamping | Bachtiar Rasyid (28 tahun) | Canon |
 | Setting Utama | Koridor Kalimalang, Jakarta Timur | Canon |
 | Panjang kain spanduk standar | 4 meter × 1 meter | Bab 1 |
 

@@ -6,7 +6,7 @@ KREK!
 
 Bunyi sobekan tipis itu membuat tanganku mematung seketika. Pukul sepuluh pagi, kamar belakang ruko terasa sejuk temaram di bawah seberkas cahaya matahari yang menembus celah ventilasi kayu. Pak Lik Harto sedang duduk bersandar di atas kasur kapuk tipis, sarung luriknya menyelimuti kedua kakinya yang kurus. Di ambang pintu bilik, Bachtiar berdiri membungkuk sedikit agar kepalanya tidak terantuk kusen kayu yang rendah.
 
-"Pelan-pelan, Win," bisik Pak Lik Harto sambil terbatuk kecil. "Buku kui wis umur telung puluh tahun, kertas burame wis ringkih dipangan rayap."
+"Pelan-pelan, Win," bisik Pak Lik Harto sambil terbatuk kecil. "Buku itu sudah tiga puluh tahun umurnya, kertas buramnya sudah rapuh dimakan rayap."
 
 Kutarik perlahan buku catatan bersampul karton cokelat kusam itu dari tumpukan botol obat batuk hitam dan balsem pala. Sampul depannya sudah robek di sudut kanan, diikat seutas tali rafia merah yang mulai getas. Pada lembaran kertasnya yang kusam, goresan tinta pena merah dan biru mencatat puluhan formula campuran pigmen, perbandingan tetesan minyak trafo, hingga takaran getah pohon untuk melukis kain.
 
@@ -22,9 +22,9 @@ Bachtiar mengambil salah satu halaman yang lepas dengan dua jari, mengamatinya d
 
 Pak Lik Harto tersenyum tipis, matanya berbinar mengingat masa mudanya merantau di jalur pesisir utara.
 
-"Bener, Mas Tiye," kata Pak Lik Harto dengan suara serak namun tegas. "Zaman semono cat sablon gampang luntur yen kena udan angin Pantura. Mula para sesepuh nyampur getah damar karo lem kayu ben serat kaine ngunci pigmen."
+"Benar, Mas Bachtiar," kata Pak Lik Harto dengan suara serak namun tegas. "Zaman dulu cat sablon gampang luntur kalau kena hujan dan angin Pantura. Makanya orang-orang tua mencampur getah damar sama lem kayu supaya serat kainnya mengunci pigmen."
 
-Pak Lik menunjuk ke kolong lemari sebelum menyambung pelan, "Getah damar kui yen garing dadi kaya lapisan kaca tipis sing lentur. Ora bakal pecah sanajan kaine ditekuk-tekuk."
+Pak Lik menunjuk ke kolong lemari sebelum menyambung pelan, "Getah damar itu kalau kering bakal jadi seperti lapisan kaca tipis yang lentur. Nggak bakal pecah biarpun kainnya ditekuk-tekuk."
 
 Aku berjongkok, merogoh kolong lemari obat kayu, lalu mengeluarkan sebuah toples kaca selai bekas yang tutupnya berkarat. Di dalamnya tersimpan bongkahan getah damar berwarna kuning kecokelatan yang bening menyerupai batu ambar, sebagian sudah ditumbuk menjadi serbuk halus.
 
@@ -46,6 +46,6 @@ Aku menatap Bachtiar, lalu beralih menatap toples kaca di tangannya. "Sablon sar
 
 Pak Lik Harto tersenyum lebar mendengar adu gagasan kami berdua. Tangannya yang berkerut meraih cangkir seng di meja samping ranjang, lalu menyesap airnya perlahan.
 
-"Yen kowe loro gelem nyambungke akal lan rasa," bisik Pak Lik Harto lirih, "ora ana dalan buntu ning dalan Kalimalang iki."
+"Kalau kalian berdua mau menyambungkan akal pikiran dan rasa seni," bisik Pak Lik Harto lirih, "nggak bakal ada jalan buntu di sepanjang Kalimalang ini."
 
 Pertanyaan Bachtiar tadi kini berubah menjadi tantangan nyata yang menggetarkan dadaku. Di tangan pemuda perkotaan yang biasa hidup dari monitor komputer ini, resep kuno pinggir jalan Pantura mendadak menjelma menjadi jembatan baru yang tak pernah kubayangkan sebelumnya.

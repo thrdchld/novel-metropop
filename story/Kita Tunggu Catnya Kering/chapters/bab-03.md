@@ -52,6 +52,6 @@ Motor bebek tua Cak Qodim berhenti mendadak dengan suara rem kampas yang mencici
 
 Cak Qodim melepas helm cakilnya dengan wajah semringah, menatap kami berdua bergantian.
 
-"Nah, pas banget ketemu kalian di sini!" seru Cak Qodim lantang sambil menepuk gulungan plastik di jok belakangnya. "Win, Tiye, spanduk warung tendaku yang baru sudah jadi dicetak! Malam ini langsung mau tak pasang di atas wajan penggorengan lele!"
+"Nah, pas banget ketemu kalian di sini!" seru Cak Qodim lantang sambil menepuk gulungan plastik di jok belakangnya. "Win, Bachtiar, spanduk warung tendaku yang baru sudah jadi dicetak! Malam ini langsung mau kupasang di atas wajan penggorengan lele!"
 
 Darahku tersentak membeku seketika. Kutatap gulungan plastik di belakang motor Cak Qodim, lalu beralih menatap seringai tipis di sudut bibir Bachtiar yang kini menatapku penuh kemenangan.

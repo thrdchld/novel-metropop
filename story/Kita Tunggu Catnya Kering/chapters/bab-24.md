@@ -8,7 +8,7 @@ Jarum jam dinding di ruang tengah ruko berdetik keras membelah kesunyian Minggu 
 
 "Selasa malam?" potong Bachtiar sambil menegakkan punggungnya kaget. "Jadwal resmi di proposal itu hari Kamis! Berarti seluruh lima puluh tenda dan spanduk harus terpasang di jalan protokol besok sore?"
 
-"Bukan cuma itu persoalannya, Tiye," sahut Cak Qodim dengan nada getir, lalu membalik lembaran kertas kedua di atas meja. "Dinas mendadak minta tambahan sepuluh spanduk mori ber-QRIS untuk zona kuliner VIP. Semuanya harus siap serah terima sebelum Selasa pagi, lengkap dengan lukisan lele dan bebek berpigmen fosfor."
+"Bukan cuma itu persoalannya, Bachtiar," sahut Cak Qodim dengan nada getir, lalu membalik lembaran kertas kedua di atas meja. "Dinas mendadak minta tambahan sepuluh spanduk mori ber-QRIS untuk zona kuliner VIP. Semuanya harus siap serah terima sebelum Selasa pagi, lengkap dengan lukisan lele dan bebek berpigmen fosfor."
 
 Aku menarik napas panjang, menatap tumpukan gulungan kain putih sisa belanjaan Tanah Abang di sudut ruko. Lima puluh spanduk utama memang sudah beres dan terbungkus rapi di dalam terpal plastik. Namun memproduksi sepuluh spanduk baru berukuran empat meter dalam tempo kurang dari empat puluh delapan jam adalah beban kerja yang mendekati mustahil bagi manusia biasa.
 

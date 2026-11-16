@@ -20,7 +20,7 @@ Pak Lik Harto yang duduk di sampingku tersenyum haru, menepuk pundak Cak Qodim p
 
 Bachtiar duduk di sebelah kananku. Pemuda itu mencelupkan jemari tangannya ke dalam mangkok kobokan air jeruk nipis tanpa ragu sedikit pun. Tidak ada lagi desainer kota yang kaku dan takut kotor. Dengan gerakan mantap, ia menyobek daging lele yang garing, mencocolkannya ke sambal terasi, lalu menyuapkannya ke mulut bersama gumpalan nasi uduk.
 
-"Gimana rasanya, Mas Tiye?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
+"Gimana rasanya, Mas Bachtiar?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
 
 Bachtiar mengunyah lahap dengan mata terpejam menikmati gurihnya bumbu ketumbar dan bawang putih. "Jauh lebih nikmat daripada makan steik di restoran gedung bertingkat, Mbak Pur. Sambal terasi ini bikin semua rasa lelah semalam hilang seketika."
 

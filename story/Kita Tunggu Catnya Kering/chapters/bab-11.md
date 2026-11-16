@@ -40,7 +40,7 @@ Lalu ekspresi kaku di wajahnya mendadak runtuh. Kedua matanya melebar sedikit, k
 
 Cak Qodim yang sedang membalik tempe goreng di wajan melirik ke arah kami sambil tertawa terbahak-bahak.
 
-"Nah, gitu dong, Tiye!" kata Cak Qodim dari balik wajan. "Kemarin gayamu kayak mandor proyek dari Jepang, sekarang baru kelihatan pantes jadi warga Kalimalang!"
+"Nah, gitu dong, Bachtiar!" kata Cak Qodim dari balik wajan. "Kemarin gayamu kayak mandor proyek dari Jepang, sekarang baru kelihatan pantes jadi warga Kalimalang!"
 
 Bachtiar hanya tersipu tipis, pipinya memerah terkena uap panas wajan dan sengatan cabai rawit merah. Suap demi suap nasi uduk ludes tak bersisa di piringnya, hanya menyisakan tulang lele yang bersih licin.
 

@@ -48,6 +48,6 @@ Tepat saat kami hendak menaikkan gulungan kain terakhir ke bak pikap, suara klak
 
 Bang Rahmat, tetangga gang Kalimalang yang biasa mangkal bajaj di depan kantor dinas, melompat turun dari kemudi dengan wajah tegang.
 
-"Win! Tiye!" seru Bang Rahmat terengah-engah sambil berlari mendekat. "Untung kalian masih di sini!"
+"Win! Bachtiar!" seru Bang Rahmat terengah-engah sambil berlari mendekat. "Untung kalian masih di sini!"
 
 Napasnya memburu saat ia menyambung cepat, "Barusan gue lihat mobil Pak Haris bareng bos Mitra Graha masuk ke ruang kepala dinas! Mereka lagi lobi pejabat buat membatalkan proyek paguyuban kita!"

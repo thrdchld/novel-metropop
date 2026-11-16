@@ -6,7 +6,7 @@ Teriakan Bang Parlin dari ambang pintu menghentikan tangan Bachtiar yang hendak 
 
 Pukul enam pagi, langit di atas Kalimalang perlahan berubah kelabu pucat. Sisa-sisa air hujan semalam masih menggenang di pinggir jalan raya, meninggalkan lumpur cokelat pekat di sepanjang trotoar. Di sudut depan ruko, Bachtiar duduk bersila di atas lantai semen yang dingin, menatap sasis mesin cetak digitalnya yang terbuka lebar. Dari kisi-kisi kipas pendingin mesin, asap tipis kelabu melayang lambat di udara, menyebarkan bau sangit logam gosong yang perih di hidung.
 
-Bang Parlin berlutut di samping mesin, memegang obeng minus untuk memeriksa jalur suplai daya. "Kabel pita putih di panel kendali sudah meleleh hitam, Mas Tiye. Menyatu jadi kerak plastik kaku. Komponen cip prosesornya kena arus pendek waktu air talang tumpah semalam."
+Bang Parlin berlutut di samping mesin, memegang obeng minus untuk memeriksa jalur suplai daya. "Kabel pita putih di panel kendali sudah meleleh hitam, Mas Bachtiar. Menyatu jadi kerak plastik kaku. Komponen cip prosesornya kena arus pendek waktu air talang tumpah semalam."
 
 "Semua sirkuit logika digitalnya mati total," bisik Bachtiar dengan suara tercekat di tenggorokan. "Mesin ini nggak bakal bisa dinyalakan lagi."
 

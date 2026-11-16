@@ -6,7 +6,7 @@ Sialan.
 
 Aku menahan napas, membeku di atas lutut yang mulai kebas beralas kardus mi instan. Dari seberang aspal Kalimalang, suara hantaman kayu jati seberat empat ratus kilo yang dijatuhkan dari bak mobil pikap baru saja menghantam trotoar semen ruko seberang. Getarannya merambat cepat lewat tanah, cukup untuk mengacaukan tarikan napas dan kestabilan tanganku.
 
-"Win? Opo kui sing tumpah?" Suara serak Pak Lik Harto terdengar dari balik tirai kamar belakang, disusul batuk kering yang beruntun tiga kali.
+"Win? Apa itu yang tumpah?" Suara serak Pak Lik Harto terdengar dari balik tirai kamar belakang, disusul batuk kering yang beruntun tiga kali.
 
 "Nggak ada apa-apa, Pak Lik," sahutku cepat, menelan rasa panik yang merayap ke tenggorokan. "Cuma truk pasir lewat."
 
@@ -20,7 +20,7 @@ Seorang pria paruh baya bertopi lusuh dan berkaus oblong belang berdiri di amban
 
 "Mbaknya punya linggis atau besi betel nggak? Mau congkel peti kayu di seberang, linggis pikap saya ketinggalan di pul," tanyanya tanpa rasa bersalah sedikit pun.
 
-Darahku naik ke ubun-ubun. Tanganku yang memegang kuas gemetar menahan dongkol. "Gara-gara sampeyan banting kayu barusan, tangan saya meleset tahu nggak?"
+Darahku naik ke ubun-ubun. Tanganku yang memegang kuas gemetar menahan dongkol. "Gara-gara abang banting kayu barusan, tangan saya meleset tahu nggak?"
 
 Pria itu berkedip dua kali, melirik bentangan kain di lantai, lalu menggaruk lehernya yang berminyak. "Aduh, maaf, Mbak. Jalur tanjakan trotoarnya licin, anak buah saya kaget pas nurunin. Cuma minta tolong pinjam linggis sebentar kok, Mbak. Buat buka ganjal roda mesin."
 
@@ -36,9 +36,9 @@ Pemuda berjaket itu menoleh pelan. Matanya turun ke linggis, lalu naik ke arahku
 
 Di sisi kayu peti kemas yang masih terikat tali baja, mataku menangkap stempel cat semprot merah bertuliskan huruf kapital tebal: HIGH-SPEED OUTDOOR DIGITAL PRINTER, 120 METER PER JAM.
 
-"Bisa tolong congkel sisi kanan bawah, Mas Tiye? Besinya nyangkut di engsel," kata sopir pikap pada pemuda itu.
+"Bisa tolong congkel sisi kanan bawah, Mas Bachtiar? Besinya nyangkut di engsel," kata sopir pikap pada pemuda itu.
 
-Pemuda yang dipanggil Tiye itu tidak langsung mengambil linggis. Ia melipat buku saku kecilnya, memasukkannya ke saku jaket, lalu menatapku dengan alis terangkat sedikit.
+Pemuda itu tidak langsung mengambil linggis. Ia melipat buku saku kecilnya, memasukkannya ke saku jaket, lalu menatapku dengan alis terangkat sedikit.
 
 "Mbaknya pelukis spanduk warung tenda di seberang?" tanyanya datar. Suaranya tenang, tipe suara orang kantoran yang biasa bicara di ruangan berpendingin udara.
 

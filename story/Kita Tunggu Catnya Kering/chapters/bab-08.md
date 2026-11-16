@@ -28,11 +28,11 @@ Sudut bibir Bachtiar berkedut sedikit. Sebelum ia sempat mendebat balik tawarank
 
 Pak Lik Harto melangkah perlahan ke arah meja sambil membawa nampan kaleng bundar. Di atasnya terletak dua cangkir seng blirik loreng hijau yang mengepulkan uap hangat rebusan teh melati tubruk dan sepiring pisang goreng tepung yang masih berminyak.
 
-"Diombe dhisik tehe, Mas Tiye," kata Pak Lik Harto ramah, meletakkan salah satu cangkir seng di depan Bachtiar.
+"Diminum dulu tehnya, Mas Bachtiar," kata Pak Lik Harto ramah, meletakkan salah satu cangkir seng di depan Bachtiar.
 
 Pria tua itu menarik kursi di ujung meja, duduk dengan napas yang terdengar lebih teratur siang ini. Matanya yang cekung menatap lembaran proposal Bachtiar, lalu beralih menatap wajah kami berdua.
 
-"Minyak karo banyu pancen ora iso nyawiji yen mung dijarne ning njero gelas," kata Pak Lik Harto pelan. "Nanging yen digawe adonan gorengan, banyu karo minyak kudu rukun ben pisange dadi renyah."
+"Minyak sama air memang nggak bisa bersatu kalau cuma dibiarkan di dalam gelas," kata Pak Lik Harto pelan. "Tapi kalau dipakai buat bikin adonan gorengan, air dan minyak harus rukun supaya pisangnya renyah."
 
 Bachtiar menatap cangkir seng blirik di depannya dengan canggung. Ia mengangkat cangkir panas itu dengan hati-hati, lalu menyesap teh melati manis buatan Pak Lik Harto sedikit.
 

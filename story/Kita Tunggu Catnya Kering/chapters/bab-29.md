@@ -10,7 +10,7 @@ Tidak ada sekat antar-pedagang soto, pecel lele, bebek goreng, maupun tahu campu
 
 Pemuda itu memegang sudut bawah kain spanduk mori nomor dua puluh satu, memastikan permukaan kain katun itu meregang kencang tanpa kerutan sedikit pun. Jaket kanvas abu-abunya yang masih bernoda kuning stabilo di siku kanan sudah digulung sampai ke lengan atas, memperlihatkan otot tangannya yang memerah terbakar terik matahari kota.
 
-"Beres, Mas Tiye!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
+"Beres, Mas Bachtiar!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
 
 Satu per satu, enam puluh lembar spanduk hibrida mulai membentang gagah di sepanjang jalan festival. Sapuan warna hijau dan oranye stabilo hasil lukisan tanganku memantulkan cahaya matahari siang dengan ketajaman yang mencolok, membedakannya secara mutlak dari spanduk vinil pabrik yang kusam dan kaku. Di sudut kanan bawah setiap tenda, panel sablon damar hitam berisi kode QRIS terpampang presisi pada ketinggian yang pas untuk dijangkau tangan pembeli.
 

@@ -28,7 +28,7 @@ Desis uap putih menyembur ke udara. Asap kimia itu akhirnya padam, menyisakan lu
 
 "Nah, selamat menikmati kemajuan teknologi seratus dua puluh meter per jam," ucapku sambil meletakkan gayung seng ke meja. "Kain mori buatan Pak Lik Harto digantung di atas wajan sepuluh tahun nggak pernah meleleh. Kenapa? Karena serat kapas mori itu bernapas, bukan plastik murahan yang gampang modar kena hawa panas."
 
-Cak Qodim mendengus kasar, membuang puntung rokoknya ke tanah becek. "Bohong kamu, Tiye! Katanya tahan panas luar ruang! Ini baru kena uap kompor mawar setengah jam sudah melepuh kayak kerupuk basah!"
+Cak Qodim mendengus kasar, membuang puntung rokoknya ke tanah becek. "Bohong kamu, Bachtiar! Katanya tahan panas luar ruang! Ini baru kena uap kompor mawar setengah jam sudah melepuh kayak kerupuk basah!"
 
 "Spesifikasi pabrik memang tahan cuaca luar ruang, Pak," jawab Bachtiar terbata, menekan jarinya yang melepuh dengan saputangan saku. "Tapi suhu kompor gas mawar tekanan tinggi ini lebih dari dua ratus derajat Celsius."
 

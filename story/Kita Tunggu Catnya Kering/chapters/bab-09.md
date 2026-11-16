@@ -44,7 +44,7 @@ Tiga lembar stiker vinil yang baru saja ia potong melayang ke udara, berputar-pu
 
 "Wiwin!" bentak Bachtiar, tangannya panik berusaha menangkap lembaran vinil yang beterbangan.
 
-"Kenapa, Mas Tiye?" tanyaku dengan wajah tanpa dosa, berdiri santai sambil menyilangkan kuas di dada. "Di sini gerah banget, aku butuh sirkulasi udara biar cat minyak di kain cepat kering. Kan kamu sendiri yang bilang di proposal: jadwal kerja kita harus disiplin militer?"
+"Kenapa, Mas Bachtiar?" tanyaku dengan wajah tanpa dosa, berdiri santai sambil menyilangkan kuas di dada. "Di sini gerah banget, aku butuh sirkulasi udara biar cat minyak di kain cepat kering. Kan kamu sendiri yang bilang di proposal: jadwal kerja kita harus disiplin militer?"
 
 Bachtiar menggertakkan gigi, berlutut memungut lembaran stiker vinilnya yang berhamburan di dekat garis lakban. Matanya menatapku berapi-api, tapi aku hanya membalas tatapannya dengan kedipan mata santai.
 

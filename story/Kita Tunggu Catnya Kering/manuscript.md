@@ -8,7 +8,7 @@ Sialan.
 
 Aku menahan napas, membeku di atas lutut yang mulai kebas beralas kardus mi instan. Dari seberang aspal Kalimalang, suara hantaman kayu jati seberat empat ratus kilo yang dijatuhkan dari bak mobil pikap baru saja menghantam trotoar semen ruko seberang. Getarannya merambat cepat lewat tanah, cukup untuk mengacaukan tarikan napas dan kestabilan tanganku.
 
-"Win? Opo kui sing tumpah?" Suara serak Pak Lik Harto terdengar dari balik tirai kamar belakang, disusul batuk kering yang beruntun tiga kali.
+"Win? Apa itu yang tumpah?" Suara serak Pak Lik Harto terdengar dari balik tirai kamar belakang, disusul batuk kering yang beruntun tiga kali.
 
 "Nggak ada apa-apa, Pak Lik," sahutku cepat, menelan rasa panik yang merayap ke tenggorokan. "Cuma truk pasir lewat."
 
@@ -22,7 +22,7 @@ Seorang pria paruh baya bertopi lusuh dan berkaus oblong belang berdiri di amban
 
 "Mbaknya punya linggis atau besi betel nggak? Mau congkel peti kayu di seberang, linggis pikap saya ketinggalan di pul," tanyanya tanpa rasa bersalah sedikit pun.
 
-Darahku naik ke ubun-ubun. Tanganku yang memegang kuas gemetar menahan dongkol. "Gara-gara sampeyan banting kayu barusan, tangan saya meleset tahu nggak?"
+Darahku naik ke ubun-ubun. Tanganku yang memegang kuas gemetar menahan dongkol. "Gara-gara abang banting kayu barusan, tangan saya meleset tahu nggak?"
 
 Pria itu berkedip dua kali, melirik bentangan kain di lantai, lalu menggaruk lehernya yang berminyak. "Aduh, maaf, Mbak. Jalur tanjakan trotoarnya licin, anak buah saya kaget pas nurunin. Cuma minta tolong pinjam linggis sebentar kok, Mbak. Buat buka ganjal roda mesin."
 
@@ -38,9 +38,9 @@ Pemuda berjaket itu menoleh pelan. Matanya turun ke linggis, lalu naik ke arahku
 
 Di sisi kayu peti kemas yang masih terikat tali baja, mataku menangkap stempel cat semprot merah bertuliskan huruf kapital tebal: HIGH-SPEED OUTDOOR DIGITAL PRINTER, 120 METER PER JAM.
 
-"Bisa tolong congkel sisi kanan bawah, Mas Tiye? Besinya nyangkut di engsel," kata sopir pikap pada pemuda itu.
+"Bisa tolong congkel sisi kanan bawah, Mas Bachtiar? Besinya nyangkut di engsel," kata sopir pikap pada pemuda itu.
 
-Pemuda yang dipanggil Tiye itu tidak langsung mengambil linggis. Ia melipat buku saku kecilnya, memasukkannya ke saku jaket, lalu menatapku dengan alis terangkat sedikit.
+Pemuda itu tidak langsung mengambil linggis. Ia melipat buku saku kecilnya, memasukkannya ke saku jaket, lalu menatapku dengan alis terangkat sedikit.
 
 "Mbaknya pelukis spanduk warung tenda di seberang?" tanyanya datar. Suaranya tenang, tipe suara orang kantoran yang biasa bicara di ruangan berpendingin udara.
 
@@ -70,7 +70,7 @@ Suara berat Cak Qodim menggelegar dari atas sadel motor bebek tuanya yang baru s
 
 Aku yang sedang jongkok menjemur kuas di atas ember cat bekas langsung mendongak, menyeka keringat di pelipis dengan lengan baju. Panas Kalimalang jam empat sore sedang gila-gilanya. Debu proyek jalan layang berputar di udara bersama deru ribuan motor yang merayap pulang ke arah Bekasi.
 
-"Kumis lele kemarin itu melengkung gagah, Cak. Sampeyan saja yang matanya ketutupan asap arang," sahutku sambil berdiri.
+"Kumis lele kemarin itu melengkung gagah, Cak. Cak Qodim saja yang matanya ketutupan asap arang," sahutku sambil berdiri.
 
 "Gagah gundulmu!" Cak Qodim mematikan kunci kontak motornya dengan sentakan kasar. Ia melangkah masuk ke teras ruko membawa gulungan kain mori kusam yang penuh bercak minyak goreng dan lubang sundutan rokok di sudutnya. "Di Lamongan, lele itu hewan keramat. Kumisnya harus meliuk ke atas kayak taring harimau. Kalau kumisnya letoy ke bawah, auranya lesu, rezekinya ikut loyo. Pembeli yang mau mampir jadi putar balik karena ngira lele kita lele sakit!"
 
@@ -94,7 +94,7 @@ Cak Qodim membolak-balik kertas licin itu dengan jarinya yang kapalan. "Dua jam 
 
 "Dua jam selesai, Pak. Nggak perlu nunggu berhari-hari sampai catnya kering." Nada suara Bachtiar terdengar tenang, tapi jelas sekali ada jarum halus yang ia tancapkan ke arahku.
 
-Darahku mendidih seketika. "Dua jam jadi kalau kena uap minyak goreng langsung melengkung kayak kerupuk gosong, Cak. Mau spanduk warung sampeyan baunya kayak plastik kebakar pas tamu lagi makan lele?"
+Darahku mendidih seketika. "Dua jam jadi kalau kena uap minyak goreng langsung melengkung kayak kerupuk gosong, Cak. Mau spanduk warung Cak Qodim baunya kayak plastik kebakar pas tamu lagi makan lele?"
 
 Bachtiar menoleh ke arahku perlahan, matanya di balik kacamata menatapku dingin. "Bahan MMT empat ratus empat puluh gram kami sudah standar luar ruang, Mbak. Tahan hujan, tahan panas, dan warnanya presisi sesuai desain komputer. Nggak ada ceritanya meluber kayak cat kuas."
 
@@ -104,7 +104,7 @@ Bachtiar hanya tersenyum tipis, jenis senyum sopan yang paling menyebalkan sedun
 
 Tepat saat itu, Mbak Pur dari warkop sebelah datang membawa nampan berisi tiga potong lele goreng garing dan sepiring nasi uduk pesanan sopir ojol.
 
-"Monggo, Cak Qodim, mampir makan dulu, masih hangat ini lelenya!" tawar Mbak Pur ramah.
+"Mari, Cak Qodim, mampir makan dulu, masih hangat ini lelenya!" tawar Mbak Pur ramah.
 
 Cak Qodim langsung melangkah mundur dua tindak, mengangkat kedua tangannya ke depan dada dengan wajah pucat seketika. "Aduh, Pur! Jangan didekatkan ke aku! Kan kamu tahu pantangan keluargaku!"
 
@@ -176,7 +176,7 @@ Motor bebek tua Cak Qodim berhenti mendadak dengan suara rem kampas yang mencici
 
 Cak Qodim melepas helm cakilnya dengan wajah semringah, menatap kami berdua bergantian.
 
-"Nah, pas banget ketemu kalian di sini!" seru Cak Qodim lantang sambil menepuk gulungan plastik di jok belakangnya. "Win, Tiye, spanduk warung tendaku yang baru sudah jadi dicetak! Malam ini langsung mau tak pasang di atas wajan penggorengan lele!"
+"Nah, pas banget ketemu kalian di sini!" seru Cak Qodim lantang sambil menepuk gulungan plastik di jok belakangnya. "Win, Bachtiar, spanduk warung tendaku yang baru sudah jadi dicetak! Malam ini langsung mau kupasang di atas wajan penggorengan lele!"
 
 Darahku tersentak membeku seketika. Kutatap gulungan plastik di belakang motor Cak Qodim, lalu beralih menatap seringai tipis di sudut bibir Bachtiar yang kini menatapku penuh kemenangan.
 
@@ -212,7 +212,7 @@ Desis uap putih menyembur ke udara. Asap kimia itu akhirnya padam, menyisakan lu
 
 "Nah, selamat menikmati kemajuan teknologi seratus dua puluh meter per jam," ucapku sambil meletakkan gayung seng ke meja. "Kain mori buatan Pak Lik Harto digantung di atas wajan sepuluh tahun nggak pernah meleleh. Kenapa? Karena serat kapas mori itu bernapas, bukan plastik murahan yang gampang modar kena hawa panas."
 
-Cak Qodim mendengus kasar, membuang puntung rokoknya ke tanah becek. "Bohong kamu, Tiye! Katanya tahan panas luar ruang! Ini baru kena uap kompor mawar setengah jam sudah melepuh kayak kerupuk basah!"
+Cak Qodim mendengus kasar, membuang puntung rokoknya ke tanah becek. "Bohong kamu, Bachtiar! Katanya tahan panas luar ruang! Ini baru kena uap kompor mawar setengah jam sudah melepuh kayak kerupuk basah!"
 
 "Spesifikasi pabrik memang tahan cuaca luar ruang, Pak," jawab Bachtiar terbata, menekan jarinya yang melepuh dengan saputangan saku. "Tapi suhu kompor gas mawar tekanan tinggi ini lebih dari dua ratus derajat Celsius."
 
@@ -242,7 +242,7 @@ Dua jam sudah aku duduk membungkuk di atas meja kayu panjang, menahan napas seti
 
 Kotak demi kotak hitam berukuran empat milimeter kugoreskan dengan presisi gila-gilaan. Tidak boleh ada tangan yang gemetar. Tidak boleh ada satu helai bulu kuas pun yang mekar.
 
-"Opo gunane nggambar kothak-kothak ireng semono akehe, Nduk?" Suara serak Pak Lik Harto memecah kesunyian ruko.
+"Buat apa kamu menggambar kotak-kotak hitam sebanyak itu, Win?" Suara serak Pak Lik Harto memecah kesunyian ruko.
 
 Pria tua itu melangkah tertatih dari bilik belakang, memegangi kusen pintu tripleks dengan tangan kirinya yang gemetar. Sarung lurik usangnya terseret di lantai semen. Napasnya masih berbunyi mencicit lirih, sisa serangan asma semalam yang baru reda setelah kuhisapkan dua semprotan inhaler.
 
@@ -250,9 +250,9 @@ Pria tua itu melangkah tertatih dari bilik belakang, memegangi kusen pintu tripl
 
 Pak Lik Harto menarik bangku kayu pendek, lalu duduk di sampingku. Matanya yang keruh menatap teliti goresan cat hitam minyak oplosanku di atas kain.
 
-"Kain mori dudu kertas gambar, Win," kata Pak Lik Harto pelan. "Mori kui tenunan benang kapas asli. Dheweke duwe pori-pori sing urip. Cat minyakmu bakal ditarik karo serat benang, merembes sakndulit-sakndulit tanpa kowe sadari."
+"Kain mori itu bukan kertas gambar, Win," kata Pak Lik Harto pelan. "Mori itu tenunan benang kapas asli yang punya pori-pori hidup. Cat minyakmu bakal ditarik sama serat benang, merembes sedikit demi sedikit tanpa kamu sadari."
 
-"Tenang saja, Pak Lik," balasku sambil mencelupkan ujung kuas ke piring kaleng blirik berisi cat hitam kental. "Campuran tinernya sudah tak kurangi setengah sendok biar kental. Dijamin nggak bakal blobor."
+"Tenang saja, Pak Lik," balasku sambil mencelupkan ujung kuas ke piring kaleng blirik berisi cat hitam kental. "Campuran tinernya sudah kukurangi setengah sendok biar kental. Dijamin nggak bakal blobor."
 
 Tiga puluh menit kemudian, kotak kode QRIS manual itu selesai kulukis. Rapi, hitam pekat, dan tegak lurus sesuai ukuran modul standar perbankan. Dari jarak pandang satu meter, gambar itu persis seperti hasil cetak mesin stempel.
 
@@ -278,7 +278,7 @@ Kudekatkan mataku ke kain mori hingga hidungku hampir menyentuh permukaan cat ba
 
 Di bawah kaca pembesar benang, serat kapas mori perlahan tapi pasti menyerap pelarut minyak cat. Tepi garis hitam yang semula lurus sempurna kini merembes halus menyerupai rambut-rambut halus ke sela benang putih. Lebar garis itu meluber tidak lebih dari nol koma empat milimeter, nyaris mustahil dilihat mata telanjang. Namun bagi sensor digital kamera ponsel, rembesan nol koma empat milimeter itu adalah bencana besar yang mengacaukan susunan data biner.
 
-Pak Lik Harto menepuk pundakku pelan. "Kuas tangan manusia kui kanggo nggugah rasa luwe, Nduk. Dudu kanggo ngapusi mripate mesin."
+Pak Lik Harto menepuk pundakku pelan. "Kuas tangan manusia itu untuk menggugah rasa lapar orang yang lewat, Win. Bukan buat membohongi mata mesin."
 
 Kutatap kuas liner bulu musang nomor satu di genggamanku, lalu menatap layar ponsel retak yang masih menampilkan pesan eror merah. Di seberang jalan, desing mesin cetak digital Bachtiar terdengar sayup-sayup menembus dinding ruko. Untuk pertama kalinya sejak merantau ke Jakarta, aku menyadari bahwa cinta dan ketekunan tanganku sedang berhadapan dengan tembok tak kasatmata yang tidak bisa ditembus oleh sekadar rasa percaya diri.
 
@@ -326,7 +326,7 @@ Mbak Pur yang baru saja meletakkan sepiring tahu goreng panas di samping cangkir
 
 Cak Qodim mengusap wajahnya yang lelah, lalu menatap kami berdua secara bergantian dengan pandangan memohon.
 
-"Anggaran dari dinas ini besar, Win, Tiye. Satu spanduk dihargai delapan ratus ribu rupiah. Dikalikan lima puluh warung, totalnya empat puluh juta," kata Cak Qodim lirih. "Kalau paguyuban kita gagal memenuhi syarat, proyek ini bakal dialihkan ke vendor reklame swasta besar dari pusat. Pedagang kecil kayak kita cuma jadi penonton di tanah sendiri."
+"Anggaran dari dinas ini besar, Win, Bachtiar. Satu spanduk dihargai delapan ratus ribu rupiah. Dikalikan lima puluh warung, totalnya empat puluh juta," kata Cak Qodim lirih. "Kalau paguyuban kita gagal memenuhi syarat, proyek ini bakal dialihkan ke vendor reklame swasta besar dari pusat. Pedagang kecil kayak kita cuma jadi penonton di tanah sendiri."
 
 Uang empat puluh juta. Angka itu berputar di kepalaku. Jumlah itu cukup untuk melunasi biaya pengobatan paru-paru Pak Lik Harto selama setahun penuh, bahkan masih ada sisa untuk merenovasi atap ruko kami yang mulai lapuk.
 
@@ -438,11 +438,11 @@ Sudut bibir Bachtiar berkedut sedikit. Sebelum ia sempat mendebat balik tawarank
 
 Pak Lik Harto melangkah perlahan ke arah meja sambil membawa nampan kaleng bundar. Di atasnya terletak dua cangkir seng blirik loreng hijau yang mengepulkan uap hangat rebusan teh melati tubruk dan sepiring pisang goreng tepung yang masih berminyak.
 
-"Diombe dhisik tehe, Mas Tiye," kata Pak Lik Harto ramah, meletakkan salah satu cangkir seng di depan Bachtiar.
+"Diminum dulu tehnya, Mas Bachtiar," kata Pak Lik Harto ramah, meletakkan salah satu cangkir seng di depan Bachtiar.
 
 Pria tua itu menarik kursi di ujung meja, duduk dengan napas yang terdengar lebih teratur siang ini. Matanya yang cekung menatap lembaran proposal Bachtiar, lalu beralih menatap wajah kami berdua.
 
-"Minyak karo banyu pancen ora iso nyawiji yen mung dijarne ning njero gelas," kata Pak Lik Harto pelan. "Nanging yen digawe adonan gorengan, banyu karo minyak kudu rukun ben pisange dadi renyah."
+"Minyak sama air memang nggak bisa bersatu kalau cuma dibiarkan di dalam gelas," kata Pak Lik Harto pelan. "Tapi kalau dipakai buat bikin adonan gorengan, air dan minyak harus rukun supaya pisangnya renyah."
 
 Bachtiar menatap cangkir seng blirik di depannya dengan canggung. Ia mengangkat cangkir panas itu dengan hati-hati, lalu menyesap teh melati manis buatan Pak Lik Harto sedikit.
 
@@ -510,7 +510,7 @@ Tiga lembar stiker vinil yang baru saja ia potong melayang ke udara, berputar-pu
 
 "Wiwin!" bentak Bachtiar, tangannya panik berusaha menangkap lembaran vinil yang beterbangan.
 
-"Kenapa, Mas Tiye?" tanyaku dengan wajah tanpa dosa, berdiri santai sambil menyilangkan kuas di dada. "Di sini gerah banget, aku butuh sirkulasi udara biar cat minyak di kain cepat kering. Kan kamu sendiri yang bilang di proposal: jadwal kerja kita harus disiplin militer?"
+"Kenapa, Mas Bachtiar?" tanyaku dengan wajah tanpa dosa, berdiri santai sambil menyilangkan kuas di dada. "Di sini gerah banget, aku butuh sirkulasi udara biar cat minyak di kain cepat kering. Kan kamu sendiri yang bilang di proposal: jadwal kerja kita harus disiplin militer?"
 
 Bachtiar menggertakkan gigi, berlutut memungut lembaran stiker vinilnya yang berhamburan di dekat garis lakban. Matanya menatapku berapi-api, tapi aku hanya membalas tatapannya dengan kedipan mata santai.
 
@@ -622,7 +622,7 @@ Lalu ekspresi kaku di wajahnya mendadak runtuh. Kedua matanya melebar sedikit, k
 
 Cak Qodim yang sedang membalik tempe goreng di wajan melirik ke arah kami sambil tertawa terbahak-bahak.
 
-"Nah, gitu dong, Tiye!" kata Cak Qodim dari balik wajan. "Kemarin gayamu kayak mandor proyek dari Jepang, sekarang baru kelihatan pantes jadi warga Kalimalang!"
+"Nah, gitu dong, Bachtiar!" kata Cak Qodim dari balik wajan. "Kemarin gayamu kayak mandor proyek dari Jepang, sekarang baru kelihatan pantes jadi warga Kalimalang!"
 
 Bachtiar hanya tersipu tipis, pipinya memerah terkena uap panas wajan dan sengatan cabai rawit merah. Suap demi suap nasi uduk ludes tak bersisa di piringnya, hanya menyisakan tulang lele yang bersih licin.
 
@@ -640,7 +640,7 @@ KREK!
 
 Bunyi sobekan tipis itu membuat tanganku mematung seketika. Pukul sepuluh pagi, kamar belakang ruko terasa sejuk temaram di bawah seberkas cahaya matahari yang menembus celah ventilasi kayu. Pak Lik Harto sedang duduk bersandar di atas kasur kapuk tipis, sarung luriknya menyelimuti kedua kakinya yang kurus. Di ambang pintu bilik, Bachtiar berdiri membungkuk sedikit agar kepalanya tidak terantuk kusen kayu yang rendah.
 
-"Pelan-pelan, Win," bisik Pak Lik Harto sambil terbatuk kecil. "Buku kui wis umur telung puluh tahun, kertas burame wis ringkih dipangan rayap."
+"Pelan-pelan, Win," bisik Pak Lik Harto sambil terbatuk kecil. "Buku itu sudah tiga puluh tahun umurnya, kertas buramnya sudah rapuh dimakan rayap."
 
 Kutarik perlahan buku catatan bersampul karton cokelat kusam itu dari tumpukan botol obat batuk hitam dan balsem pala. Sampul depannya sudah robek di sudut kanan, diikat seutas tali rafia merah yang mulai getas. Pada lembaran kertasnya yang kusam, goresan tinta pena merah dan biru mencatat puluhan formula campuran pigmen, perbandingan tetesan minyak trafo, hingga takaran getah pohon untuk melukis kain.
 
@@ -656,9 +656,9 @@ Bachtiar mengambil salah satu halaman yang lepas dengan dua jari, mengamatinya d
 
 Pak Lik Harto tersenyum tipis, matanya berbinar mengingat masa mudanya merantau di jalur pesisir utara.
 
-"Bener, Mas Tiye," kata Pak Lik Harto dengan suara serak namun tegas. "Zaman semono cat sablon gampang luntur yen kena udan angin Pantura. Mula para sesepuh nyampur getah damar karo lem kayu ben serat kaine ngunci pigmen."
+"Benar, Mas Bachtiar," kata Pak Lik Harto dengan suara serak namun tegas. "Zaman dulu cat sablon gampang luntur kalau kena hujan dan angin Pantura. Makanya orang-orang tua mencampur getah damar sama lem kayu supaya serat kainnya mengunci pigmen."
 
-Pak Lik menunjuk ke kolong lemari sebelum menyambung pelan, "Getah damar kui yen garing dadi kaya lapisan kaca tipis sing lentur. Ora bakal pecah sanajan kaine ditekuk-tekuk."
+Pak Lik menunjuk ke kolong lemari sebelum menyambung pelan, "Getah damar itu kalau kering bakal jadi seperti lapisan kaca tipis yang lentur. Nggak bakal pecah biarpun kainnya ditekuk-tekuk."
 
 Aku berjongkok, merogoh kolong lemari obat kayu, lalu mengeluarkan sebuah toples kaca selai bekas yang tutupnya berkarat. Di dalamnya tersimpan bongkahan getah damar berwarna kuning kecokelatan yang bening menyerupai batu ambar, sebagian sudah ditumbuk menjadi serbuk halus.
 
@@ -680,7 +680,7 @@ Aku menatap Bachtiar, lalu beralih menatap toples kaca di tangannya. "Sablon sar
 
 Pak Lik Harto tersenyum lebar mendengar adu gagasan kami berdua. Tangannya yang berkerut meraih cangkir seng di meja samping ranjang, lalu menyesap airnya perlahan.
 
-"Yen kowe loro gelem nyambungke akal lan rasa," bisik Pak Lik Harto lirih, "ora ana dalan buntu ning dalan Kalimalang iki."
+"Kalau kalian berdua mau menyambungkan akal pikiran dan rasa seni," bisik Pak Lik Harto lirih, "nggak bakal ada jalan buntu di sepanjang Kalimalang ini."
 
 Pertanyaan Bachtiar tadi kini berubah menjadi tantangan nyata yang menggetarkan dadaku. Di tangan pemuda perkotaan yang biasa hidup dari monitor komputer ini, resep kuno pinggir jalan Pantura mendadak menjelma menjadi jembatan baru yang tak pernah kubayangkan sebelumnya.
 
@@ -952,7 +952,7 @@ Tepat saat kami hendak menaikkan gulungan kain terakhir ke bak pikap, suara klak
 
 Bang Rahmat, tetangga gang Kalimalang yang biasa mangkal bajaj di depan kantor dinas, melompat turun dari kemudi dengan wajah tegang.
 
-"Win! Tiye!" seru Bang Rahmat terengah-engah sambil berlari mendekat. "Untung kalian masih di sini!"
+"Win! Bachtiar!" seru Bang Rahmat terengah-engah sambil berlari mendekat. "Untung kalian masih di sini!"
 
 Napasnya memburu saat ia menyambung cepat, "Barusan gue lihat mobil Pak Haris bareng bos Mitra Graha masuk ke ruang kepala dinas! Mereka lagi lobi pejabat buat membatalkan proyek paguyuban kita!"
 
@@ -970,7 +970,7 @@ Mata Bachtiar berkilat tajam di balik kacamata. Pukul setengah delapan pagi, emp
 
 Bang Rahmat menyeruput teh manis hangatnya dari gelas beling tebal, lalu menyeka kumis tipisnya dengan punggung tangan.
 
-"Tenang dulu, Bos Tiye," kata Bang Rahmat setengah berbisik sambil mencondongkan badannya ke depan. "Informasi dari supir kepala dinas yang sering nongkrong bareng gue di pangkalan, bosnya belum tanda tangan persetujuan tender Mitra Graha. Beliau masih ragu."
+"Tenang dulu, Mas Bachtiar," kata Bang Rahmat setengah berbisik sambil mencondongkan badannya ke depan. "Informasi dari supir kepala dinas yang sering nongkrong bareng gue di pangkalan, bosnya belum tanda tangan persetujuan tender Mitra Graha. Beliau masih ragu."
 
 "Kenapa ragu?" tanyaku sambil mengunyah sepotong lontong yang lembut gurih.
 
@@ -1030,7 +1030,7 @@ SREK! SREK!
 
 Bilah karet rakel ditariknya dengan sudut miring empat puluh lima derajat, menyapukan pasta damar hitam pekat menembus saringan ke serat kain mori. Setiap kali plat diangkat, satu kode QRIS sempurna tercetak hitam legam.
 
-"Kain kedua puluh siap sablon, Tiye!" seruku sambil menggeser kain baru ke arahnya.
+"Kain kedua puluh siap sablon, Bachtiar!" seruku sambil menggeser kain baru ke arahnya.
 
 "Sini, taruh sejajar tanda kapur!" sahut Bachtiar dengan napas memburu.
 
@@ -1096,7 +1096,7 @@ Bang Parlin menoleh, menyipitkan mata menatap kami berdua yang sudah kumal seper
 
 "Bukan ban, Bang," potong Bachtiar cepat, menunjuk tumpukan sepuluh kain mori yang basah di dalam ruko. "Cat spanduk kami nggak mau kering gara-gara embun subuh. Pemanas listrik ruko kami nggak kuat narik daya. Bisa pinjam semburan angin kompresor Abang?"
 
-Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Tiye. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
+Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Bachtiar. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
 
 "Gimana kalau moncong selangnya kita pasang corong pipa seng dan kita panaskan lewat pipa pembuangan mesin?" usul Bachtiar gesit, menunjuk leher knalpot kompresor yang mulai memancarkan hawa panas logam terbakar. "Prinsip heat gun sederhana. Udara bertekanan tinggi yang melewati pipa panas bakal berubah jadi angin kering bersuhu lima puluh derajat."
 
@@ -1162,7 +1162,7 @@ Keringat dingin mulai tampak membasahi pelipis Pak Haris di balik kacamata emasn
 
 Suara lantang Mbak Pur memecah ketegangan. Pemilik warkop itu berjalan melenggang dari seberang gang sambil mengacungkan sebuah ponsel berlayar retak seribu dengan casing silikon yang sudah menguning.
 
-"Kamera HP saya cuma delapan megapiksel, layarnya pecah kena jatuhan ulekan cabai," tambah Mbak Pur sambil menyodorkan ponselnya ke depan wajah Pak Haris. "Kalau sampai HP saya gagal bayar lele Cak Qodim, baru sampeyan boleh ngoceh soal standar mutu!"
+"Kamera HP saya cuma delapan megapiksel, layarnya pecah kena jatuhan ulekan cabai," tambah Mbak Pur sambil menyodorkan ponselnya ke depan wajah Pak Haris. "Kalau sampai HP saya gagal bayar lele Cak Qodim, baru Anda boleh ngoceh soal standar mutu!"
 
 Warga gang dan para sopir ojek pangkalan yang berkerumun mulai terkekeh geli. Pak Haris terpojok oleh tatapan puluhan pasang mata pedagang pasar. Dengan tangan yang sedikit gemetar menahan malu, ia menyalakan aplikasi dompet digital di ponsel butut milik Mbak Pur, lalu mengarahkannya ke kode QRIS di kain nomor lima puluh.
 
@@ -1272,7 +1272,7 @@ Jarum jam dinding di ruang tengah ruko berdetik keras membelah kesunyian Minggu 
 
 "Selasa malam?" potong Bachtiar sambil menegakkan punggungnya kaget. "Jadwal resmi di proposal itu hari Kamis! Berarti seluruh lima puluh tenda dan spanduk harus terpasang di jalan protokol besok sore?"
 
-"Bukan cuma itu persoalannya, Tiye," sahut Cak Qodim dengan nada getir, lalu membalik lembaran kertas kedua di atas meja. "Dinas mendadak minta tambahan sepuluh spanduk mori ber-QRIS untuk zona kuliner VIP. Semuanya harus siap serah terima sebelum Selasa pagi, lengkap dengan lukisan lele dan bebek berpigmen fosfor."
+"Bukan cuma itu persoalannya, Bachtiar," sahut Cak Qodim dengan nada getir, lalu membalik lembaran kertas kedua di atas meja. "Dinas mendadak minta tambahan sepuluh spanduk mori ber-QRIS untuk zona kuliner VIP. Semuanya harus siap serah terima sebelum Selasa pagi, lengkap dengan lukisan lele dan bebek berpigmen fosfor."
 
 Aku menarik napas panjang, menatap tumpukan gulungan kain putih sisa belanjaan Tanah Abang di sudut ruko. Lima puluh spanduk utama memang sudah beres dan terbungkus rapi di dalam terpal plastik. Namun memproduksi sepuluh spanduk baru berukuran empat meter dalam tempo kurang dari empat puluh delapan jam adalah beban kerja yang mendekati mustahil bagi manusia biasa.
 
@@ -1450,7 +1450,7 @@ Teriakan Bang Parlin dari ambang pintu menghentikan tangan Bachtiar yang hendak 
 
 Pukul enam pagi, langit di atas Kalimalang perlahan berubah kelabu pucat. Sisa-sisa air hujan semalam masih menggenang di pinggir jalan raya, meninggalkan lumpur cokelat pekat di sepanjang trotoar. Di sudut depan ruko, Bachtiar duduk bersila di atas lantai semen yang dingin, menatap sasis mesin cetak digitalnya yang terbuka lebar. Dari kisi-kisi kipas pendingin mesin, asap tipis kelabu melayang lambat di udara, menyebarkan bau sangit logam gosong yang perih di hidung.
 
-Bang Parlin berlutut di samping mesin, memegang obeng minus untuk memeriksa jalur suplai daya. "Kabel pita putih di panel kendali sudah meleleh hitam, Mas Tiye. Menyatu jadi kerak plastik kaku. Komponen cip prosesornya kena arus pendek waktu air talang tumpah semalam."
+Bang Parlin berlutut di samping mesin, memegang obeng minus untuk memeriksa jalur suplai daya. "Kabel pita putih di panel kendali sudah meleleh hitam, Mas Bachtiar. Menyatu jadi kerak plastik kaku. Komponen cip prosesornya kena arus pendek waktu air talang tumpah semalam."
 
 "Semua sirkuit logika digitalnya mati total," bisik Bachtiar dengan suara tercekat di tenggorokan. "Mesin ini nggak bakal bisa dinyalakan lagi."
 
@@ -1496,7 +1496,7 @@ Tidak ada sekat antar-pedagang soto, pecel lele, bebek goreng, maupun tahu campu
 
 Pemuda itu memegang sudut bawah kain spanduk mori nomor dua puluh satu, memastikan permukaan kain katun itu meregang kencang tanpa kerutan sedikit pun. Jaket kanvas abu-abunya yang masih bernoda kuning stabilo di siku kanan sudah digulung sampai ke lengan atas, memperlihatkan otot tangannya yang memerah terbakar terik matahari kota.
 
-"Beres, Mas Tiye!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
+"Beres, Mas Bachtiar!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
 
 Satu per satu, enam puluh lembar spanduk hibrida mulai membentang gagah di sepanjang jalan festival. Sapuan warna hijau dan oranye stabilo hasil lukisan tanganku memantulkan cahaya matahari siang dengan ketajaman yang mencolok, membedakannya secara mutlak dari spanduk vinil pabrik yang kusam dan kaku. Di sudut kanan bawah setiap tenda, panel sablon damar hitam berisi kode QRIS terpampang presisi pada ketinggian yang pas untuk dijangkau tangan pembeli.
 
@@ -1590,7 +1590,7 @@ Pak Lik Harto yang duduk di sampingku tersenyum haru, menepuk pundak Cak Qodim p
 
 Bachtiar duduk di sebelah kananku. Pemuda itu mencelupkan jemari tangannya ke dalam mangkok kobokan air jeruk nipis tanpa ragu sedikit pun. Tidak ada lagi desainer kota yang kaku dan takut kotor. Dengan gerakan mantap, ia menyobek daging lele yang garing, mencocolkannya ke sambal terasi, lalu menyuapkannya ke mulut bersama gumpalan nasi uduk.
 
-"Gimana rasanya, Mas Tiye?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
+"Gimana rasanya, Mas Bachtiar?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
 
 Bachtiar mengunyah lahap dengan mata terpejam menikmati gurihnya bumbu ketumbar dan bawang putih. "Jauh lebih nikmat daripada makan steik di restoran gedung bertingkat, Mbak Pur. Sambal terasi ini bikin semua rasa lelah semalam hilang seketika."
 

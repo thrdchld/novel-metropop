@@ -6,7 +6,7 @@ Suara berat Cak Qodim menggelegar dari atas sadel motor bebek tuanya yang baru s
 
 Aku yang sedang jongkok menjemur kuas di atas ember cat bekas langsung mendongak, menyeka keringat di pelipis dengan lengan baju. Panas Kalimalang jam empat sore sedang gila-gilanya. Debu proyek jalan layang berputar di udara bersama deru ribuan motor yang merayap pulang ke arah Bekasi.
 
-"Kumis lele kemarin itu melengkung gagah, Cak. Sampeyan saja yang matanya ketutupan asap arang," sahutku sambil berdiri.
+"Kumis lele kemarin itu melengkung gagah, Cak. Cak Qodim saja yang matanya ketutupan asap arang," sahutku sambil berdiri.
 
 "Gagah gundulmu!" Cak Qodim mematikan kunci kontak motornya dengan sentakan kasar. Ia melangkah masuk ke teras ruko membawa gulungan kain mori kusam yang penuh bercak minyak goreng dan lubang sundutan rokok di sudutnya. "Di Lamongan, lele itu hewan keramat. Kumisnya harus meliuk ke atas kayak taring harimau. Kalau kumisnya letoy ke bawah, auranya lesu, rezekinya ikut loyo. Pembeli yang mau mampir jadi putar balik karena ngira lele kita lele sakit!"
 
@@ -30,7 +30,7 @@ Cak Qodim membolak-balik kertas licin itu dengan jarinya yang kapalan. "Dua jam 
 
 "Dua jam selesai, Pak. Nggak perlu nunggu berhari-hari sampai catnya kering." Nada suara Bachtiar terdengar tenang, tapi jelas sekali ada jarum halus yang ia tancapkan ke arahku.
 
-Darahku mendidih seketika. "Dua jam jadi kalau kena uap minyak goreng langsung melengkung kayak kerupuk gosong, Cak. Mau spanduk warung sampeyan baunya kayak plastik kebakar pas tamu lagi makan lele?"
+Darahku mendidih seketika. "Dua jam jadi kalau kena uap minyak goreng langsung melengkung kayak kerupuk gosong, Cak. Mau spanduk warung Cak Qodim baunya kayak plastik kebakar pas tamu lagi makan lele?"
 
 Bachtiar menoleh ke arahku perlahan, matanya di balik kacamata menatapku dingin. "Bahan MMT empat ratus empat puluh gram kami sudah standar luar ruang, Mbak. Tahan hujan, tahan panas, dan warnanya presisi sesuai desain komputer. Nggak ada ceritanya meluber kayak cat kuas."
 
@@ -40,7 +40,7 @@ Bachtiar hanya tersenyum tipis, jenis senyum sopan yang paling menyebalkan sedun
 
 Tepat saat itu, Mbak Pur dari warkop sebelah datang membawa nampan berisi tiga potong lele goreng garing dan sepiring nasi uduk pesanan sopir ojol.
 
-"Monggo, Cak Qodim, mampir makan dulu, masih hangat ini lelenya!" tawar Mbak Pur ramah.
+"Mari, Cak Qodim, mampir makan dulu, masih hangat ini lelenya!" tawar Mbak Pur ramah.
 
 Cak Qodim langsung melangkah mundur dua tindak, mengangkat kedua tangannya ke depan dada dengan wajah pucat seketika. "Aduh, Pur! Jangan didekatkan ke aku! Kan kamu tahu pantangan keluargaku!"
 

@@ -21,7 +21,7 @@
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.136 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
 | `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.456 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 | `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `TAMAT` | 32 | 21.613 | Jakarta Selatan (Kebayoran Baru, Mayestik, Cipete) | 2026 | 2026-11-11 |
-| `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `PROSES` | 32 | 21.688 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | - |
+| `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `PROSES` | 32 | 21.697 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | - |
 
 ---
 
@@ -119,7 +119,7 @@
 | Melisa | Meli / Miss Meli | `NOV-003` | Sahabat / Sekutu | Pengajar Kelas Anak *BrightStep English* | Ceplas-ceplos, laci meja penuh camilan, suka meledek alarm HP Hana | `Boleh (Tingkat 1-3)` |
 | Fajar | Fajar / Mas Fajar | `NOV-003` | Mantan Tunangan | Analis Keuangan | Penuh perhitungan untung-rugi, menilai hubungan seperti daftar target | `Boleh (Tingkat 1-2)` |
 | Dwi Winarsih | Wiwin / Mbak Win | `NOV-004` | Protagonis | Pelukis Spanduk Kain Mori Pecel Lele Kalimalang | Ceplas-ceplos, tangguh, gengsian, tangan berbekas cat neon stabilo | `Boleh (Tingkat 1-3)` |
-| Bachtiar Rasyid | Bachtiar / Tiye | `NOV-004` | Love Interest | Pemilik Percetakan Banner Digital Rukoan (Eks-Desainer Agensi) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri bos | `Boleh (Tingkat 1-3)` |
+| Bachtiar Rasyid | Bachtiar | `NOV-004` | Love Interest | Pemilik Percetakan Banner Digital Rukoan (Eks-Desainer Agensi) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri bos | `Boleh (Tingkat 1-3)` |
 | Suhartono | Pak Lik Harto | `NOV-004` | Tetua / Mentor | Maestro Pelukis Spanduk Pantura Era 90-an | Sabar, asma menahun, memegang mitos pantang lele Lamongan dan resep cat fosfor | `Boleh (Tingkat 1-2)` |
 | H. Abdul Qodim | Cak Qodim | `NOV-004` | Sekutu / Klien | Ketua Paguyuban Pedagang Tenda Lamongan Jakarta Timur | Kolot, tegas pada pakem kumis lele, berwibawa, penyayang rakyat kecil | `Boleh (Tingkat 1-3)` |
 | Parlindungan Siregar | Bang Parlin | `NOV-004` | Sekutu / Tetangga | Pemilik Tambal Ban Tubeles Ruko Sebelah | Ceplas-ceplos Batak, kompresor anginnya sering meletup di jam genting | `Boleh (Tingkat 1-3)` |

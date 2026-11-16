@@ -31,7 +31,7 @@
 | Tokoh | Peran | Umur | Pekerjaan / Keseharian | Sifat Khas & Kelemahan Manusiawi |
 |---|---|---:|---|---|
 | **Dwi Winarsih (Wiwin)** | Protagonis (POV 1) | 26 | Pelukis spanduk kain mori pecel lele di ruko Kalimalang | Tangguh, ceplas-ceplos khas pesisir, gengsian, takut dipandang gagal oleh keluarga di kampung |
-| **Bachtiar Rasyid (Tiye)** | Pendamping / Love Interest | 28 | Pemilik percetakan banner digital rukoan (eks-desainer) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri mantan bos |
+| **Bachtiar Rasyid** | Pendamping / Love Interest | 28 | Pemilik percetakan banner digital rukoan (eks-desainer) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri mantan bos |
 | **Suhartono (Pak Lik Harto)** | Keluarga / Mentor | 53 | Paman Wiwin, mantan pelukis spanduk legendaris Pantura | Sabar, sakit asma menahun, hafal mitos pantang lele Lamongan dan resep cat fosfor neon |
 | **H. Abdul Qodim (Cak Qodim)** | Tokoh Sesepuh / Klien Utama | 58 | Ketua Paguyuban Pedagang Tenda Lamongan Jakarta Timur | Kolot, tegas pada pakem kumis lele, berwibawa, penyayang rakyat kecil |
 | **Parlindungan Siregar (Bang Parlin)** | Tetangga Ruko / Sekutu | 36 | Pemilik tambal ban tubeles dan kompresor ruko sebelah | Ramah, ceplas-ceplos Batak, kompresornya sering meletup di momen genting |
@@ -49,7 +49,7 @@
 - **Sifat & Kelemahan Manusiawi:** Sangat gengsian mengakui keterbatasan teknologi; mudah curiga pada orang kantoran; takut dianggap beban oleh pamannya.
 - **Cara Bicara & Sapaan:** Bicara lugas, cepat, menggunakan logat Jakarta campur dialek Jawa medok saat emosi; menyapa Bachtiar dengan sebutan *"Mas Bachtiar"* bernada ketus di awal, lalu melunak menjadi panggilan hangat.
 
-### Bachtiar Rasyid (Tiye) — Love Interest
+### Bachtiar Rasyid — Love Interest
 - **Keseharian & Latar Belakang:** Lulusan D3 Desain Komunikasi Visual; empat tahun bekerja sebagai buruh desain di agensi percetakan besar sebelum di-PHK dan portofolio branding-nya dicuri bosnya. Nekat menyewa ruko seberang Wiwin dengan mencicil mesin digital printing bekas rekondisi.
 - **Kesan Unik Saat Dilihat Orang:** Berkacamata bingkai hitam tipis, mengenakan jaket kanvas abu-abu (yang nantinya bernoda cat kuning di siku kanan), selalu membawa meteran gulung dan pulpen teknis di saku dada.
 - **Kebiasaan Kecil / *Micro-Tell*:** Mengusap tengkuk lehernya saat merasa bersalah, dan mengetuk-ngetuk jari telunjuknya ke meja seperti sedang menekan tombol pintas *Ctrl+Z*.

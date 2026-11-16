@@ -10,7 +10,7 @@ Mata Bachtiar berkilat tajam di balik kacamata. Pukul setengah delapan pagi, emp
 
 Bang Rahmat menyeruput teh manis hangatnya dari gelas beling tebal, lalu menyeka kumis tipisnya dengan punggung tangan.
 
-"Tenang dulu, Bos Tiye," kata Bang Rahmat setengah berbisik sambil mencondongkan badannya ke depan. "Informasi dari supir kepala dinas yang sering nongkrong bareng gue di pangkalan, bosnya belum tanda tangan persetujuan tender Mitra Graha. Beliau masih ragu."
+"Tenang dulu, Mas Bachtiar," kata Bang Rahmat setengah berbisik sambil mencondongkan badannya ke depan. "Informasi dari supir kepala dinas yang sering nongkrong bareng gue di pangkalan, bosnya belum tanda tangan persetujuan tender Mitra Graha. Beliau masih ragu."
 
 "Kenapa ragu?" tanyaku sambil mengunyah sepotong lontong yang lembut gurih.
 
