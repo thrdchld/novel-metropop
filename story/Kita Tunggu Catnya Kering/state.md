@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 11 (*Makan Malam*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 12 (*Buku Resep*)
-- **Titik Waktu Cerita:** Jumat, Pukul 10.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Kamar belakang ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Pagi menjelang siang hangat, cahaya temaram di sela ventilasi kayu
+- **Bab Terakhir Selesai:** Bab 12 (*Buku Resep*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 13 (*Rumus Kimia*)
+- **Titik Waktu Cerita:** Sabtu, Pukul 11.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Meja kerja ruko seni spanduk Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Siang hari terik panas, debu tipis beterbangan ditiup angin jalanan
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Membuka laci lemari obat Pak Lik Harto mencari buku resep pigmen tradisional warisan Pantura
+- **Kondisi Emosi Tokoh Utama:** Berdebat seru mengoplos formula tinta sablon getah damar memadukan logika gram digital dan insting rabaan tangan
 
 ---
 

@@ -17,6 +17,7 @@
 | 9 | Rabu, 08.00 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar | Bachtiar pasang garis lakban hitam pembatas ruko; Wiwin balas dengan hembusan kipas angin nomor tiga |
 | 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar | Uji semprot air gagal; stiker vinil menggelembung dan robek saat ditekan squeegee; cara instan gugur |
 | 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim | Wiwin traktir makan lele kobokan; Bachtiar luluh makan pakai tangan dan cicip sambal terasi |
+| 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Wiwin buka buku resep kuno; Bachtiar temukan formula getah damar untuk tinta sablon saring QRIS |
 
 ## A2. Timeline Masa Lalu
 
@@ -58,6 +59,7 @@
 | 9 | Wiwin | Puas & jahil | Kuas, tombol kipas angin | Perang dingin batas lakban hitam | - | Menjaga wilayah ruko di tengah kerja sama hibrida |
 | 10 | Wiwin | Berempati & prihatin | Botol semprot oranye | Menyaksikan kegagalan stiker vinil Bachtiar | - | Mencari metode alternatif selain stiker vinil tempel |
 | 11 | Wiwin | Hangat & terhibur | Mangkok kobokan jeruk nipis | Mencairkan dinding gengsi rivalitas | - | Menggali solusi teknis sablon dari tradisi |
+| 12 | Wiwin | Terinspirasi & takjub | Buku resep usang, toples getah damar | Menemukan titik temu sains dan tradisi | - | Menguji formula getah damar untuk sablon saring |
 
 ## E. Fakta Keras dan Angka
 
@@ -78,3 +80,4 @@
 | Mitos pantang lele Lamongan | Bab 2 | Bab 11 | Bab 29 | Prinsip harga diri keluarga perantau |
 | Noda cat kuning di siku jaket | Bab 7 | Bab 20 | Bab 32 | Simbol abadi menyatunya dua dunia |
 | Cobek batu sambal terasi | Bab 11 | Bab 20 | Bab 28 | Simbol kehangatan komunal warga gang di saat krisis melanda |
+| Buku resep pigmen fosfor koyak | Bab 12 | Bab 19 | Bab 30 | Formula damar tradisional dipadukan dengan sablon transfer |
