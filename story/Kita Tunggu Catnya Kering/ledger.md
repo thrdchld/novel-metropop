@@ -53,7 +53,7 @@
 |---|---|---|---|---|
 | Ruko Seni Spanduk Wiwin | Bab 1 | Lantai semen dingin, langit-langit berdebu, bau tiner menyengat | Wiwin, Pak Lik Harto | Pinggir Jalan Kalimalang |
 | Percetakan Digital Aji | Bab 1 | Kios seberang aspal, desing mesin cetak outdoor | Aji | Seberang jalan ruko Wiwin (15 meter) |
-| Warkop Mbak Pur | Bab 6 | Meja kayu terpal kotak-kotak, stoples gorengan kaca | Mbak Pur, Bang Parlin, supir ojol | Samping bengkel tambal ban |
+| Warkop Mbak Pur | Bab 2 | Meja kayu terpal kotak-kotak, stoples gorengan kaca | Mbak Pur, Bang Parlin, supir ojol | Samping bengkel tambal ban |
 | Warung Tenda Cak Qodim | Bab 4 | Tenda terpal oranye dua petak, wajan lele berasap | Cak Qodim | Perempatan lampu merah (200 m) |
 
 ## C. Matriks Pengetahuan (Siapa Tahu Apa)
@@ -71,7 +71,7 @@
 | 1 | Waspada; usaha terancam | Kuas dan kain mori | Belum mengenal Aji | Obat Pak Lik perlu dibeli | Identitas penyewa ruko seberang |
 | 2 | Jengkel dan tertantang | Pesanan spanduk Cak Qodim | Saling sindir | Pantangan lele adalah kepercayaan keluarga/tokoh | Persaingan dengan Aji |
 | 3 | Marah dan defensif | Sandal jepit | Rival terbuka | - | Spanduk MMT Aji akan diuji |
-| 4 | Puas tetapi mulai melihat risiko Aji | Lap basah | Rivalitas dengan rasa iba | Aji mengalami luka bakar ringan | Dampak spanduk MMT pada warung |
+| 4 | Kesal tetapi mulai melihat risiko Aji | Spanduk MMT yang melengkung | Rivalitas dengan rasa iba | Aji mengalami luka bakar ringan saat melepas bahan yang melunak | Dampak spanduk MMT pada warung |
 | 5 | Sadar keterbatasan metode manual | Kuas liner dan ponsel | Masih bersaing | QRIS manual gagal terbaca | Mencari metode panel digital |
 | 6 | Bimbang menghadapi proyek | Map proyek | Saling menimbang kerja sama | Proyek awal 50 warung | Keputusan menerima proyek |
 | 7 | Terkejut dan canggung | Kuas dan jaket bernoda | Ketegangan mulai retak | Noda kuning menetap di siku jaket Aji | Kerja sama |
@@ -80,8 +80,8 @@
 | 10 | Menguji metode dan belajar dari gagal | Stiker vinil | Mulai mengakui keterbatasan metode masing-masing | Stiker tidak cocok untuk kain | Alternatif pemasangan panel |
 | 11 | Lebih terbuka | Mangkuk kobokan | Momen akrab pertama | Aji mulai menghargai kebiasaan lokal | Mencari solusi teknis |
 | 12 | Penasaran pada catatan Pak Lik | Buku resep | Mulai berbagi pengetahuan | Buku adalah catatan lama, bukan formula ajaib | Eksperimen bahan |
-| 13 | Tekun dan kritis | Pasta damar dan alat uji | Saling melengkapi secara teknis | Formula perlu diuji berulang | Mendapat metode yang dapat dipakai |
-| 14 | Bangga dan tegang | Rakel dan ponsel | Kolaborasi mulai berhasil | QRIS harus sesuai merchant | Kedatangan pihak proyek |
+| 13 | Tekun dan kritis | Tiga sampel kain dan alat uji | Saling melengkapi secara teknis | Campuran perlu diuji berulang | Menentukan bahan yang layak dilanjutkan |
+| 14 | Bangga dan tegang | Panel transfer dan ponsel | Kolaborasi mulai berhasil | QRIS harus sesuai merchant; mesin pres dipinjam dari pemasok | Kedatangan Haris |
 | 15 | Tertantang | Dokumen proyek | Berdiri bersama menghadapi tekanan bisnis | Haris mantan atasan Aji dan pemilik Mitra Graha | Tenggat dua minggu |
 | 16 | Mulai memahami luka masing-masing | Cangkir teh | Kepercayaan personal bertambah | Aji di-PHK; Wiwin batal kuliah seni | Menyelesaikan proyek |
 | 17 | Bersemangat dan cemas | Kain mori | Bekerja sebagai tim | 50 gulung × 4 meter untuk 50 spanduk | Lobi bisnis Haris |
