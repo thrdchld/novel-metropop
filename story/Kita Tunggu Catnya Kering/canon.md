@@ -79,7 +79,7 @@
 - **Warkop Mbak Pur:** Meja kayu sederhana beralas terpal motif kotak-kotak; stoples gorengan kaca, deretan rencengan kopi saset gantung, dan radio transistor kecil.
 - **Benda Planting Utama:**
   - *Piring seng blirik hijau loreng:* Tempat Wiwin mengaduk cat (Bab 1) -> Dipakai menyajikan lele goreng perayaan (Bab 31).
-  - *Noda cat kuning stabilo di siku jaket Aji:* Terkena kuas Wiwin (Bab 7) -> Sengaja tidak dicuci Aji sebagai memori abadi (Bab 32).
+  - *Noda cat kuning stabilo di siku jaket Aji:* Terkena kuas Wiwin (Bab 7) -> Masih terlihat dan sudah menjadi bagian dari jaket yang biasa dipakai Aji (Bab 23, 31).
   - *Buku catatan bahan lama:* Ditemukan di kamar Pak Lik (Bab 12) -> Menjadi referensi eksperimen bahan; bukan formula instan dan bukan sumber teknologi QRIS (Bab 13).
 
 
