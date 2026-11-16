@@ -18,7 +18,7 @@ Koh Acong melirik Aji, lalu kembali menatapku. "Wah, sekarang datang bawa tim se
 
 "Timnya cuma berdua, Koh. Yang belanja juga harus dihitung."
 
-Aku meminta lima puluh gulung mori primisima katun, masing-masing sepanjang empat meter. Koh Acong sempat menawarkan kain campuran poliester yang lebih murah. Ia membuka sedikit gulungan itu dan menyodorkannya ke tanganku.
+Aku meminta lima puluh tiga gulung mori primisima katun, masing-masing sepanjang empat meter. Lima puluh gulung untuk pesanan, tiga gulung sisanya sebagai cadangan jika ada kain yang rusak atau perlu diganti. Koh Acong sempat menawarkan kain campuran poliester yang lebih murah. Ia membuka sedikit gulungan itu dan menyodorkannya ke tanganku.
 
 "Ini lebih putih, lebih licin, dan harganya lebih miring. Buat spanduk malah kelihatan bagus."
 
@@ -34,7 +34,7 @@ Ia tertawa dan mengambil lima puluh gulung mori primisima dari rak belakang. Aku
 
 Aji membuka buku kecilnya. "Satu gulung empat meter seratus dua puluh ribu, betul, Koh?"
 
-"Betul. Lima puluh gulung enam juta."
+"Betul. Lima puluh tiga gulung enam juta tiga ratus enam puluh ribu."
 
 Aji menghitung di halaman kosong. "Kalau dibayar sekarang, bisa dapat potongan?"
 
@@ -46,7 +46,7 @@ Koh Acong menyandarkan kedua tangan di meja. "Kalau ambil banyak begini, tentu a
 
 "Kalau begitu, Koh sebutkan harga terbaiknya. Kami tidak mau menjanjikan pesanan berikutnya yang belum tentu ada."
 
-Koh Acong menatap Aji beberapa detik, lalu menyebutkan potongan sepuluh persen. Aji menghitung ulang total pembayaran menjadi lima juta empat ratus ribu rupiah. Ia meminta nota dengan rincian jumlah, harga satuan, dan potongan sebelum menyerahkan uang. Aku memeriksa kembali jumlah gulungan yang sudah disiapkan.
+Koh Acong menatap Aji beberapa detik, lalu menyebutkan potongan sepuluh persen. Aji menghitung ulang total pembayaran menjadi lima juta tujuh ratus dua puluh empat ribu rupiah. Ia meminta nota dengan rincian jumlah, harga satuan, dan potongan sebelum menyerahkan uang. Aku memeriksa kembali jumlah gulungan yang sudah disiapkan.
 
 "Rapi sekali," kata Koh Acong sambil menyerahkan nota. "Belanja kain sekarang seperti sedang mengurus proyek gedung."
 
@@ -54,7 +54,7 @@ Koh Acong menatap Aji beberapa detik, lalu menyebutkan potongan sepuluh persen. 
 
 Setelah pembayaran selesai, Aji mencatat pengeluaran itu dan menghitung sisa anggaran. Uang untuk kain sudah jelas. Sisanya harus cukup untuk cat, bahan transfer, tenaga tambahan, transportasi, dan pemasangan. Angkanya tidak longgar. Kami harus menahan diri agar tidak membeli bahan yang belum diperlukan.
 
-Lima puluh gulung kain kemudian diikat dan dibawa ke area parkir. Masing-masing sepanjang empat meter, cukup untuk satu spanduk berukuran empat kali satu meter. Totalnya dua ratus meter, pas untuk lima puluh pesanan awal. Kami menggunakan jasa kuli panggul untuk menaikkannya ke mobil pikap sewaan.
+Lima puluh tiga gulung kain kemudian diikat dan dibawa ke area parkir. Masing-masing sepanjang empat meter. Lima puluh gulung, atau dua ratus meter, dialokasikan untuk lima puluh spanduk. Tiga gulung lainnya, dua belas meter, disimpan sebagai cadangan. Kami menggunakan jasa kuli panggul untuk menaikkannya ke mobil pikap sewaan.
 
 Saat hendak berangkat, klakson bajaj terdengar dari belakang. Bang Rahmat turun dan melambaikan tangan.
 
@@ -76,6 +76,6 @@ Aku mengangguk. "Terima kasih, Bang. Kita siapkan saja semua hasil uji dan hitun
 
 Bang Rahmat pamit setelah memastikan kami sudah tahu kabarnya. Aji kembali memeriksa tali pengikat kain di bak pikap. Aku ikut mengecek sisi lainnya. Gulungan-gulungan itu harus tetap bersih selama perjalanan; kalau bergeser dan terkena debu jalan, pekerjaan kami akan bertambah.
 
-Sopir menutup bak dan menyalakan mesin. Aku menyimpan nota pembelian di map bersama daftar pengeluaran. Baru lima puluh gulung kain, sementara pekerjaan di depan masih panjang.
+Sopir menutup bak dan menyalakan mesin. Aku menyimpan nota pembelian di map bersama daftar pengeluaran. Baru dua ratus meter kain untuk pesanan utama, ditambah dua belas meter cadangan. Pekerjaan di depan masih panjang.
 
 Setidaknya sekarang kami punya bahan yang sesuai, jumlah yang tercatat, dan anggaran yang bisa diperiksa. Proyek ini benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena ada pekerjaan nyata yang harus kami pertanggungjawabkan.
