@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 24 (*Pemberitahuan*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 25 (*Kerja Rodi*)
-- **Titik Waktu Cerita:** Senin, Pukul 19.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Lantai semen ruko Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Malam gerah, udara pengap berbau cat dan tiner, mendung tebal menggantung di atas Jakarta
+- **Bab Terakhir Selesai:** Bab 25 (*Kerja Rodi*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 26 (*Talang*)
+- **Titik Waktu Cerita:** Selasa, Pukul 01.30 WIB (Dini Hari)
+- **Lokasi Terkini Tokoh Utama:** Ruang tengah ruko Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Hujan badai lebat, gemuruh petir, angin kencang menerjang atap seng ruko tua
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Berpeluh, lelah luar biasa, jari-jemari kram berkejaran dengan tenggat waktu
+- **Kondisi Emosi Tokoh Utama:** Panik dan histeris saat talang seng atap ruko jebol mengancam kain spanduk
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Senin (19.30 WIB) | Maraton malam menyelesaikan 10 spanduk VIP ber-QRIS |
-| **Kemarin (H-1)** | Minggu | Rapat darurat paguyuban menerima surat pemajuan jadwal festival |
-| **Dua Hari Lalu (H-2)** | Sabtu | Minum kopi sore bersama di teras ruko sebelum surat kilat tiba |
-| **Tenggat / Acara Mendatang** | Besok Malam (Selasa) | Pembukaan akbar festival kuliner nusantara kota |
+| **Hari Ini** | Selasa (01.30 WIB) | Hujan badai menerjang Kalimalang; talang seng ruko jebol |
+| **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan pemasangan tenda paguyuban |
+| **Dua Hari Lalu (H-2)** | Minggu | Surat dinas pemajuan jadwal festival diterima paguyuban |
+| **Tenggat / Acara Mendatang** | Malam Ini (Selasa, 19.00 WIB) | Pembukaan akbar festival kuliner kota di jalan protokol |
 
 ---
 

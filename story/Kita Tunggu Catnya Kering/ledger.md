@@ -30,6 +30,7 @@
 | 22 | Jumat, 11.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Cak Qodim, Pak Haris | Cak Qodim uji kelenturan kain mori; Pak Haris tanda tangani BAPHP kelayakan; cap jempol ungu sesepuh |
 | 23 | Sabtu, 16.30 | Teras ruko Wiwin | Wiwin, Bachtiar, kurir dinas | Minum kopi cangkir blirik bersama; Bachtiar akui jiwa kuas manual; kurir antar surat kilat dinas |
 | 24 | Minggu, 09.00 | Ruang tengah ruko Wiwin | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto | Surat dinas majukan pembukaan festival Selasa malam; tambah 10 spanduk VIP; susun strategi kilat |
+| 25 | Senin, 21.00 | Lantai semen ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Maraton lembur 10 spanduk VIP; tangan Wiwin kram dan dipijat Bachtiar; petir dan badai besar mendekat |
 
 ## A2. Timeline Masa Lalu
 
@@ -84,6 +85,7 @@
 | 22 | Wiwin | Puas & waspada | Berita acara BAPHP, pulpen hitam | Bersama Cak Qodim mengunci kemenangan atas dinas | - | Persiapan pemasangan 50 tenda festival |
 | 23 | Wiwin | Hangat & terhubung | Cangkir blirik kopi hitam, amplop dinas kilat | Saling mengakui kelebihan dan menyatu rasa | Mengetahui apresiasi Bachtiar pada lukisan kuas | Ada surat kilat dinas misterius tiba |
 | 24 | Wiwin | Tegang & tertantang | Surat dinas, kuas kayu jati Pak Lik | Solid bersama Bachtiar dan sesepuh hadapi jebakan birokrasi | - | Menuntaskan 10 spanduk VIP sebelum Selasa fajar |
+| 25 | Wiwin | Berpeluh, linu, namun tersentuh | Kuas jati, plester koyo pergelangan tangan | Momen kedekatan fisik yang tulus saat Bachtiar memijat tangan | - | Ancaman badai besar yang mengguncang atap ruko |
 
 ## E. Fakta Keras dan Angka
 
