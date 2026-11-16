@@ -51,7 +51,7 @@
 | Buku catatan bahan Pak Lik | Referensi percobaan cat lama; bukan formula ajaib. Dikembalikan ke tempat penyimpanannya setelah digunakan. |
 | Jaket kanvas Aji | Tetap memiliki noda kuning di siku kanan; terkena air dan karat saat badai, lalu dikeringkan. |
 | Mesin cetak digital Aji | Terkena rembesan air dan mengalami kerusakan pada komponen daya/kendali. Teknisi belum memastikan seluruh mesin tidak bisa diperbaiki; biaya dan kelayakan perbaikan masih dipertimbangkan. |
-| Mesin pres termal kecil | Dibeli bekas dari sebagian tabungan dan bagian keuntungan proyek yang disisihkan untuk alat. Tidak menggantikan printer digital besar. |
+| Mesin pres termal kecil | Dipinjam dari pemasok saat proyek festival; setelah festival Aji membeli unit bekas dari sebagian tabungan dan bagian keuntungan yang disisihkan. Tidak menggantikan printer digital besar. |
 | Kain mori | 50 spanduk awal dan 10 spanduk VIP selesai dipasang; proyek total 60 spanduk. |
 | Panel QRIS | Masing-masing spanduk memuat kode merchant warung yang bersangkutan. Kode dipindai untuk pemeriksaan; transaksi nyata terjadi saat festival. |
 
