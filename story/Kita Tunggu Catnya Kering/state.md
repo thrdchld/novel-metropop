@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 18 (*Lontong Sayur*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 19 (*Sablon*)
-- **Titik Waktu Cerita:** Kamis, Pukul 23.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Larut malam hening berdebu, deru kipas angin dan bau tiner pekat
+- **Bab Terakhir Selesai:** Bab 19 (*Sablon*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 20 (*Kompresor*)
+- **Titik Waktu Cerita:** Jumat, Pukul 04.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Pelataran depan bengkel tambal ban Bang Parlin, Kalimalang
+- **Cuaca / Suasana Fisik:** Subuh berkabut dingin, deru kompresor tambal ban membelah hening
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Bekerja maraton tengah malam mengejar target 50 kain bersama Bachtiar, Cak Qodim, dan Pak Lik Harto
+- **Kondisi Emosi Tokoh Utama:** Panik berkejaran dengan waktu mengeringkan 10 kain terakhir sebelum inspeksi dinas jam sembilan pagi
 
 ---
 

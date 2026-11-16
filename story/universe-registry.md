@@ -21,7 +21,7 @@
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.136 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
 | `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.456 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 | `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `TAMAT` | 32 | 21.613 | Jakarta Selatan (Kebayoran Baru, Mayestik, Cipete) | 2026 | 2026-11-11 |
-| `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `PROSES` | 18 | 12.632 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | - |
+| `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `PROSES` | 19 | 13.322 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | - |
 
 ---
 
