@@ -6,19 +6,19 @@ Enam puluh spanduk mori terbentang di atas masing-masing tenda. Lukisan lele, ay
 
 Di sisi kanan bawah setiap kain, panel QRIS terpasang pada bidang yang rata. Sebelum acara dibuka, kami sudah menguji setiap kode dengan ponsel dan mencocokkan nama merchant yang muncul. Pengujian itu memastikan kode dapat dibaca, bukan membuktikan pembayaran sudah berhasil.
 
-Menteri dan rombongan wali kota tiba bersama kepala dinas. Mereka berhenti di tenda utama milik Cak Qodim. Sejumlah wartawan dan petugas protokol mengikuti dari belakang.
+Wali kota tiba bersama kepala dinas dan rombongan panitia. Mereka berhenti di tenda utama milik Cak Qodim. Beberapa wartawan lokal dan petugas protokol mengikuti dari belakang.
 
-Menteri mengamati lukisan kepala lele di spanduk, lalu bertanya kepada Cak Qodim siapa yang membuatnya.
+Wali kota mengamati lukisan kepala lele di spanduk, lalu bertanya kepada Cak Qodim siapa yang membuatnya.
 
 "Dwi Winarsih yang melukis, Pak. Mas Aji yang mengurus desain panel dan pembayaran digitalnya," jawab Cak Qodim sambil menunjuk ke arah kami.
 
-Menteri mengangguk. "Menarik. Bagaimana kode pembayarannya bisa dipasang di kain seperti ini?"
+Wali kota mengangguk. "Menarik. Bagaimana kode pembayarannya bisa dipasang di kain seperti ini?"
 
 Aji maju selangkah. "Setiap warung memakai QRIS milik masing-masing, Pak. Panelnya dicetak terpisah lalu dipasang pada kain. Kami sudah memeriksa satu per satu sebelum pemasangan."
 
 "Kalau begitu, kita coba."
 
-Menteri mengeluarkan ponselnya dan memindai kode di tenda Cak Qodim. Nama merchant yang muncul sesuai dengan nama warung tersebut. Ia memasukkan nominal seratus ribu rupiah, lalu mengonfirmasi pembayaran. Beberapa detik kemudian, ponsel Cak Qodim berbunyi menerima notifikasi transaksi.
+Wali kota mengeluarkan ponselnya dan memindai kode di tenda Cak Qodim. Nama merchant yang muncul sesuai dengan nama warung tersebut. Ia memasukkan nominal seratus ribu rupiah, lalu mengonfirmasi pembayaran. Beberapa detik kemudian, ponsel Cak Qodim berbunyi menerima notifikasi transaksi.
 
 "Sudah masuk!" seru Cak Qodim sambil memperlihatkan layar ponselnya.
 
@@ -26,7 +26,7 @@ Orang-orang di sekitar tenda bertepuk tangan. Aku ikut tersenyum lega. Bukan kar
 
 Menteri menanyakan proses pengerjaan dan siapa saja yang terlibat. Aku menjelaskan bahwa lukisan dibuat manual, sedangkan panel pembayaran disiapkan secara digital agar kode tiap pedagang tetap terbaca. Aji menambahkan bahwa setiap kode diperiksa bersama pemilik warung sebelum kain dipasang.
 
-"Ini contoh kerja sama yang baik," kata menteri. "Tradisi dan teknologi tidak harus saling menggantikan."
+"Ini contoh kerja sama yang baik," kata wali kota. "Tradisi dan teknologi tidak harus saling menggantikan."
 
 Kepala dinas kemudian berbicara dengan Cak Qodim mengenai evaluasi acara dan kelanjutan kerja sama dengan paguyuban. Seorang staf panitia mencatat nama kami untuk dokumentasi. Tidak ada janji bahwa proyek ini akan langsung menjadi percontohan nasional, tetapi setidaknya hasil pekerjaan kami mendapat perhatian yang semestinya.
 
