@@ -52,6 +52,18 @@ Aku menyimpan kembali toples damar dan menaruh buku di atas meja. "Kita tidak ha
 
 Pak Lik tersenyum kecil. "Itu yang seharusnya kalian lakukan sejak awal."
 
-Aku mengembalikan buku ke lemari setelah Aji selesai memotret halaman yang diperlukan. Untuk pertama kalinya, catatan lama itu terasa bukan seperti resep ajaib yang akan menyelesaikan masalah kami, melainkan jejak pekerjaan seseorang yang pernah mencoba, gagal, lalu mencoba lagi.
+Aku mengembalikan buku ke lemari setelah Aji selesai memotret halaman yang diperlukan. Pak Lik memperhatikan gerakanku, lalu meminta agar buku itu disimpan di rak yang sama. Ia tidak ingin catatan tersebut tercecer di antara bahan kerja kami.
+
+"Dulu kamu suka duduk di samping saya saat mencampur cat," katanya kepadaku. "Tapi kalau disuruh menulis hasilnya, kamu lebih suka menggambar ikan di pinggir kertas."
+
+Aku tertawa. "Ikan di kertas lebih gampang daripada mencatat takaran."
+
+"Makanya sekarang belajar mencatat."
+
+Aji menutup kamera ponselnya. "Saya juga harus belajar tidak menganggap catatan lama sebagai jawaban siap pakai."
+
+Pak Lik mengangguk puas. Untuk pertama kalinya sejak kami membuka buku itu, ia tampak tidak khawatir catatan lamanya akan disalahgunakan.
+
+Catatan itu terasa bukan seperti resep ajaib yang akan menyelesaikan masalah kami, melainkan jejak pekerjaan seseorang yang pernah mencoba, gagal, lalu mencoba lagi.
 
 Dan mungkin, untuk urusan spanduk kami, cara itu memang lebih masuk akal.
