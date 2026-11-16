@@ -214,12 +214,12 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Detail Fisik & Planting-Callback:** Pendaran fosfor hijau stabilo di kegelapan, sakelar listrik besi hitam tua.
 
 ### Bab 15: Kunjungan
-- **Adegan & Tokoh:** Senin pagi di ruko Wiwin | Wiwin, Aji, Pak Haris.
+- **Adegan & Tokoh:** Minggu sore, berlanjut dari Bab 14 di ruko Wiwin | Wiwin, Aji, Pak Haris.
 - **Aksi:** Haris datang sebagai pemilik Mitra Graha dan mantan atasan Aji. Ia menekan Aji melalui hubungan bisnis dan menawarkan pekerjaan kembali. Pemeriksaan proyek dilakukan sebagai pemeriksaan kesiapan, bukan penerimaan akhir. Tenggat produksi dua minggu dimulai setelah rancangan/prototipe disetujui.
 - **Hook:** Haris memberi tekanan agar proyek paguyuban beralih ke Mitra Graha, tetapi keputusan tetap berada pada panitia/dinas.
 
 ### Bab 16: Cerita Lama
-- **Adegan & Tokoh:** Rabu malam di tangga ruko | Wiwin, Aji.
+- **Adegan & Tokoh:** Minggu malam di tangga ruko | Wiwin, Aji.
 - **Aksi:** Aji membuka cerita PHK dan portofolionya yang diambil mantan atasan. Wiwin menceritakan kuliah seni yang batal dan alasan bertahan di usaha Pak Lik. Informasi dibuka bertahap dalam percakapan, bukan monolog panjang.
 - **Hook:** Keduanya mulai memahami alasan di balik sikap defensif masing-masing.
 
@@ -230,7 +230,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 18: Lontong Sayur
 - **Adegan & Tokoh:** Kamis pagi di warung dekat stasiun | Wiwin, Aji, Bang Rahmat.
-- **Aksi:** Adegan makan dan kedekatan Wiwin-Aji tetap dipertahankan. Bang Rahmat memberi kabar tentang jadwal pemeriksaan kesiapan, bukan inspeksi yang menuntut seluruh 50 spanduk selesai keesokan pagi.
+- **Aksi:** Adegan makan dan kedekatan Wiwin-Aji tetap dipertahankan. Bang Rahmat memberi kabar bahwa panitia akan meninjau proses produksi beberapa hari lagi, bukan menuntut seluruh 50 spanduk selesai keesokan pagi.
 - **Hook:** Mereka harus menyiapkan contoh, bahan, dan alur produksi yang bisa diperiksa.
 
 ### Bab 19: Sablon
@@ -244,8 +244,8 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Menjelang pemeriksaan akhir, tim harus memastikan jumlah dan kualitas setiap kain.
 
 ### Bab 21: Tes Scan
-- **Adegan & Tokoh:** Pemeriksaan QRIS di ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim.
-- **Aksi:** Setiap panel diuji dan dicocokkan dengan nama merchant masing-masing. Pemindaian hanya memastikan kode terbaca dan identitas merchant benar; transaksi pembayaran bukan bagian dari tes ini.
+- **Adegan & Tokoh:** Beberapa hari setelah produksi dimulai, pemeriksaan proses dan QRIS di ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim.
+- **Aksi:** Tim verifikasi memeriksa contoh hasil produksi, alur kerja, dan kecocokan file QRIS dengan merchant masing-masing. Pemindaian hanya memastikan kode terbaca; transaksi bukan bagian dari pemeriksaan ini dan penerimaan akhir dilakukan setelah semua spanduk selesai.
 - **Hook:** Hasil pemeriksaan membuka jalan menuju penerimaan akhir proyek.
 
 ### Bab 22: Inspeksi
@@ -254,13 +254,13 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Proyek utama diterima dan persiapan pemasangan festival dimulai.
 
 ### Bab 23: Cangkir Kopi
-- **Adegan & Tokoh:** Menjelang malam di teras ruko | Wiwin, Aji.
+- **Adegan & Tokoh:** Minggu sore di teras ruko | Wiwin, Aji.
 - **Aksi:** Adegan kopi menjadi jeda personal setelah kerja panjang. Aji mengingat kebiasaan Wiwin; percakapan mereka menunjukkan rasa percaya yang tumbuh, tetapi belum langsung mengubah hubungan menjadi pasangan. Kurir membawa pemberitahuan resmi perubahan jadwal.
 - **Hook:** Ada perubahan pada rencana festival yang belum mereka ketahui dampaknya.
 
 ### Bab 24: Pemberitahuan
-- **Adegan & Tokoh:** Minggu pagi di ruko/sekretariat paguyuban | Wiwin, Aji, Cak Qodim, Pak Lik.
-- **Aksi:** Festival dimajukan ke Selasa malam dan pesanan bertambah 10 spanduk VIP. Tambahan 40 meter kain dibutuhkan; sisa 12 meter tidak cukup sehingga mereka harus membeli setidaknya 28 meter tambahan, dengan cadangan lebih aman. Biaya dan perubahan pesanan harus disetujui.
+- **Adegan & Tokoh:** Minggu sore, langsung setelah Bab 23 di ruko/sekretariat paguyuban | Wiwin, Aji, Cak Qodim, Pak Lik.
+- **Aksi:** Festival dimajukan ke Selasa malam, pengiriman 50 spanduk utama ditunda, dan pesanan bertambah 10 spanduk VIP. Tambahan 40 meter kain dibutuhkan; sisa 12 meter tidak cukup sehingga mereka harus membeli setidaknya 28 meter tambahan, dengan cadangan lebih aman. Biaya dan perubahan pesanan harus disetujui.
 - **Hook:** Mereka harus menyelesaikan 10 spanduk tambahan dalam waktu terbatas tanpa mengorbankan mutu atau keselamatan.
 
 ### Bab 25: Kerja Rodi
@@ -285,12 +285,12 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 
 ### Bab 29: Gotong Royong
 - **Adegan & Tokoh:** Selasa menjelang siang di area festival Cawang | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto, para pedagang, Pak Haris.
-- **Aksi:** Paguyuban membagi enam puluh spanduk ke kelompok pemasangan. Bang Parlin dan para pemuda menangani rangka serta tali; Wiwin memeriksa ilustrasi; Aji mengawasi daftar dan kecocokan QRIS dari meja panitia. Pak Lik beristirahat di kursi.
+- **Aksi:** Enam puluh spanduk diangkut dari ruko pada Selasa pagi setelah pengiriman Senin ditunda. Paguyuban membaginya ke kelompok pemasangan. Bang Parlin dan para pemuda menangani rangka serta tali; Wiwin memeriksa ilustrasi; Aji mengawasi daftar dan kecocokan QRIS dari meja panitia. Pak Lik beristirahat di kursi.
 - **Hook:** Pak Haris datang sebagai pemilik Mitra Graha/konsultan dan melihat hasil pekerjaan, tanpa memiliki kewenangan sebagai pejabat dinas.
 
 ### Bab 30: Hari Pembuktian
-- **Adegan & Tokoh:** Selasa, pukul 19.00 di festival | Wiwin, Aji, Cak Qodim, Pak Lik Harto, menteri, kepala dinas, panitia.
-- **Aksi:** Pengunjung memenuhi festival. Menteri melihat hasil lukisan dan mencoba QRIS milik warung Cak Qodim. Nama merchant tampil dan transaksi benar-benar dikonfirmasi. Pihak dinas dan panitia mencatat hasil proyek; pujian tetap proporsional.
+- **Adegan & Tokoh:** Selasa, pukul 19.00 di festival | Wiwin, Aji, Cak Qodim, Pak Lik Harto, wali kota, kepala dinas, panitia.
+- **Aksi:** Pengunjung memenuhi festival. Wali kota melihat hasil lukisan dan mencoba QRIS milik warung Cak Qodim. Nama merchant tampil dan transaksi benar-benar dikonfirmasi. Pihak dinas dan panitia mencatat hasil proyek; pujian tetap proporsional.
 - **Hook:** Kemenangan proyek belum otomatis menyelesaikan masalah mesin Aji atau masa depan usaha mereka.
 
 ### Bab 31: Lampu Kota
@@ -299,6 +299,6 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Hook:** Mereka mulai membayangkan masa depan bersama tanpa menganggap semua masalah telah selesai.
 
 ### Bab 32: Bergabung
-- **Adegan & Tokoh:** Minggu sore berikutnya di ruko Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim.
+- **Adegan & Tokoh:** Minggu menjelang siang berikutnya di ruko Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim.
 - **Aksi:** Wiwin dan Aji membuka Studio Tenda Malam. Mereka menyepakati kepemilikan, pembagian peran, pencatatan biaya, dan pembagian laba bersih. Aji membeli mesin pres termal bekas dari tabungan serta keuntungan yang disisihkan; mesin cetak besarnya masih menunggu keputusan perbaikan.
 - **Penutup:** Aji mencoba menarik garis dengan kuas. Wiwin membimbingnya dan mengucapkan kalimat judul saat mereka menunggu cat pertama mengering.
