@@ -46,7 +46,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 ## 4. Rincian per Bab (Format Skenario Adegan / Scene Treatment)
 
 ### Bab 1: Kuas
-- **Adegan & Tokoh:** Selasa, pukul 04.30 WIB di ruko semen pinggir Kalimalang | Wiwin, Aji, sopir pikap, Pak Lik Harto.
+- **Adegan & Tokoh:** Pukul 04.40 WIB; hari tidak disebut eksplisit, di ruko semen pinggir Kalimalang | Wiwin, Aji, sopir pikap, Pak Lik Harto.
 - **Variasi Pembuka:** In Medias Res Fisik
 - **Skenario Masuk (Opening Beat):** Ujung kuas liner bulu musang di tangan Wiwin tergelincir mencoret dahi lele di atas kain mori saat lantai semen bergetar hebat akibat dentuman peti kayu mesin seberat 400 kilogram yang dijatuhkan dari bak pikap di seberang jalan.
 - **Ketukan Aksi & Reaksi:**
