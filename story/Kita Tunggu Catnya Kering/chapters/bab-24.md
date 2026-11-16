@@ -32,6 +32,18 @@ Cak Qodim tertawa kecil. "Saya urus tambahan pesanan dan orang-orang yang memban
 
 Setelah Cak Qodim pergi, Aji menuliskan kebutuhan bahan di papan. Kami harus membeli kain tambahan, memastikan jenis pigmen yang diminta, menyiapkan panel QRIS dari file resmi masing-masing merchant, dan membagi pekerjaan produksi serta pemasangan.
 
+Malam itu Cak Qodim mengabari bahwa panitia menyetujui perubahan pesanan dan akan mentransfer uang muka tambahan. Ia meminta kami mengirimkan rincian bahan agar pembelian kain bisa dilakukan Senin pagi.
+
+Aji menghitung ulang kebutuhan. Empat puluh meter diperlukan untuk sepuluh spanduk baru. Persediaan dua belas meter masih tersisa, jadi kami perlu membeli setidaknya dua puluh delapan meter. Ia mengusulkan tiga puluh dua meter agar ada cadangan jika sebagian kain harus dipotong ulang.
+
+"Kalau tidak ada cadangan, satu kesalahan kecil bisa menghabiskan waktu kita," katanya.
+
+Aku mencatat angka itu di sisi daftar. "Tapi jangan beli lebih banyak hanya karena takut. Uang tambahan ini juga harus menutup bahan transfer, pigmen, dan ongkos tenaga."
+
+Kami mengirimkan rincian kepada Cak Qodim. Ia membalas bahwa pembelian akan dilakukan setelah uang muka masuk dan perubahan pesanan tercatat. Baru setelah itu kami mulai menyusun pola gambar untuk sepuluh spanduk VIP.
+
+Aku masih belum tahu apakah warna yang diminta panitia benar-benar perlu memakai pigmen khusus. Yang jelas, kami tidak akan menjanjikan efek menyala dalam gelap sebelum sampelnya diuji. Warna fluoresen yang tampak terang di bawah lampu berbeda dari pigmen fosfor yang menyimpan cahaya, dan keduanya tidak bisa diperlakukan sama.
+
 Tenggatnya memang sempit. Namun kali ini kami tidak akan menerima pekerjaan tambahan hanya dengan modal nekat. Semua harus jelas: jumlah, bahan, biaya, dan siapa yang bertanggung jawab.
 
 Aku mengambil kuas peninggalan Pak Lik dari tempatnya. Sepuluh kain baru menunggu pola pertama.
