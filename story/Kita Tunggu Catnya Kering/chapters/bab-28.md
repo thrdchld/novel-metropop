@@ -28,7 +28,7 @@ Menjelang pukul delapan, seorang teknisi yang dihubungi Bang Parlin tiba. Ia mem
 
 "Mungkin. Tapi jangan berharap selesai hari ini."
 
-Aji mengangguk pelan. Teknisi mencatat nomor komponen dan menyarankan mesin dibawa ke bengkel setelah benar-benar aman untuk dipindahkan. Tidak ada yang bisa menyimpulkan mesin itu mati total pagi itu.
+Aji mengangguk pelan. Teknisi mencatat nomor komponen dan menyarankan mesin dibawa ke bengkel setelah benar-benar aman untuk dipindahkan. Ia juga menjelaskan bahwa papan daya dan kendali mungkin harus diganti, sedangkan kondisi bagian lain baru bisa diketahui setelah dibersihkan dan diuji di tempat kerja. Tidak ada yang bisa menyimpulkan mesin itu mati total pagi itu.
 
 Aji memandangi catatan teknisi cukup lama. "Mesin ini modal terakhirku setelah kena PHK. Kalau perbaikannya mahal, aku nggak tahu harus mulai dari mana lagi."
 
