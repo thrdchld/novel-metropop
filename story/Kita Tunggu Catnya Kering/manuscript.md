@@ -210,7 +210,7 @@ Aku melangkah cepat mengambil penjepit besi panjang dari dekat gerobak. Setelah 
 
 Sudut vinil itu robek dan meninggalkan lubang hitam sebesar telapak tangan di bagian ekor gambar lele. Potongan kecil yang jatuh ke wajan membuat minyak dan bahan makanan di dalamnya harus dibuang. Tidak ada yang mencoba menyiram air ke minyak panas.
 
-"Nah, selamat menikmati kemajuan teknologi seratus dua puluh meter per jam," ucapku sambil meletakkan gayung seng ke meja. "Kain mori yang kupasang di sisi kiri itu jaraknya lebih jauh dari kompor. Paling kena cipratan minyak, bukan hawa panas langsung seperti spandukmu."
+"Nah, selamat menikmati kemajuan teknologi seratus dua puluh meter per jam," ucapku sambil meletakkan penjepit besi ke meja. "Kain mori yang kupasang di sisi kiri itu jaraknya lebih jauh dari kompor. Paling kena cipratan minyak, bukan hawa panas langsung seperti spandukmu."
 
 Cak Qodim mendengus kasar, membuang puntung rokoknya ke tanah becek. "Bohong kamu, Aji! Katanya tahan panas luar ruang! Ini baru kena uap kompor mawar setengah jam sudah melepuh kayak kerupuk basah!"
 
