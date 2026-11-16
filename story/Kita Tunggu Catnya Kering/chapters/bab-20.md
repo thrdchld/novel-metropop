@@ -8,9 +8,9 @@ Getaran mesin silinder tunggal berkarat itu merambat lewat tanah semen, menggunc
 
 Udara lembap menjelang subuh menolak mengeringkan cat minyak kami.
 
-Bachtiar menyentuh ujung kain keempat puluh dengan punggung jarinya, lalu menatapku dengan mata merah yang kurang tidur. Jaket kanvas abu-abunya dengan noda kuning di siku kanan sudah penuh coretan arang dan debu semen.
+Aji menyentuh ujung kain keempat puluh dengan punggung jarinya, lalu menatapku dengan mata merah yang kurang tidur. Jaket kanvas abu-abunya dengan noda kuning di siku kanan sudah penuh coretan arang dan debu semen.
 
-"Kelembapan udara di ruangan ini mencapai sembilan puluh persen," kata Bachtiar dengan nada panik tertahan. "Kalau cuma mengandalkan angin kipas angin biasa, cat damar ini butuh waktu enam jam lagi untuk mengering. Sementara tim verifikasi dinas tiba jam sembilan pagi!"
+"Kelembapan udara di ruangan ini mencapai sembilan puluh persen," kata Aji dengan nada panik tertahan. "Kalau cuma mengandalkan angin kipas angin biasa, cat damar ini butuh waktu enam jam lagi untuk mengering. Sementara tim verifikasi dinas tiba jam sembilan pagi!"
 
 "Kipas angin cuma muter-muter angin dingin basah," sahutku sambil menyeka pelipis yang berpeluh dingin. "Kita butuh semburan hawa panas kering bertekanan tinggi."
 
@@ -20,21 +20,21 @@ Pandangan kami berdua serentak beralih ke ruko sebelah. Di pelataran tambal ban,
 
 Bang Parlin menoleh, menyipitkan mata menatap kami berdua yang sudah kumal seperti buruh pabrik zaman kolonial. "Kenapa, Win? Ada ban bocor?"
 
-"Bukan ban, Bang," potong Bachtiar cepat, menunjuk tumpukan sepuluh kain mori yang basah di dalam ruko. "Cat spanduk kami nggak mau kering gara-gara embun subuh. Pemanas listrik ruko kami nggak kuat narik daya. Bisa pinjam semburan angin kompresor Abang?"
+"Bukan ban, Bang," potong Aji cepat, menunjuk tumpukan sepuluh kain mori yang basah di dalam ruko. "Cat spanduk kami nggak mau kering gara-gara embun subuh. Pemanas listrik ruko kami nggak kuat narik daya. Bisa pinjam semburan angin kompresor Abang?"
 
-Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Bachtiar. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
+Bang Parlin menggaruk kepalanya yang berambut keriting kaku. "Kompresor gue ini tekanannya delapan bar, Mas Aji. Kalau ditembak langsung ke kain mori basah, benangnya bisa sobek bolong!"
 
-"Gimana kalau moncong selangnya kita pasang corong pipa seng dan kita panaskan lewat pipa pembuangan mesin?" usul Bachtiar gesit, menunjuk leher knalpot kompresor yang mulai memancarkan hawa panas logam terbakar. "Prinsip heat gun sederhana. Udara bertekanan tinggi yang melewati pipa panas bakal berubah jadi angin kering bersuhu lima puluh derajat."
+"Gimana kalau moncong selangnya kita pasang corong pipa seng dan kita panaskan lewat pipa pembuangan mesin?" usul Aji gesit, menunjuk leher knalpot kompresor yang mulai memancarkan hawa panas logam terbakar. "Prinsip heat gun sederhana. Udara bertekanan tinggi yang melewati pipa panas bakal berubah jadi angin kering bersuhu lima puluh derajat."
 
 Bang Parlin terdiam dua detik, lalu matanya berbinar cerah. "Ide gila, tapi masuk akal! Tunggu sebentar, gue punya potongan pipa talang seng di belakang!"
 
-Hanya butuh lima belas menit bagi Bang Parlin dan Bachtiar untuk merakit pipa penyalur hawa panas dari knalpot menuju moncong selang angin kompresor oranye. Begitu tuas katup dibuka, desis angin kencang bersuhu hangat menyembur deras dari ujung corong seng.
+Hanya butuh lima belas menit bagi Bang Parlin dan Aji untuk merakit pipa penyalur hawa panas dari knalpot menuju moncong selang angin kompresor oranye. Begitu tuas katup dibuka, desis angin kencang bersuhu hangat menyembur deras dari ujung corong seng.
 
 WUSHHH!
 
 "Arahkan ke bagian belakang kain dulu!" teriakku memandu dari samping bentangan tali jemuran.
 
-Bang Parlin memegang selang bertekanan tinggi itu dengan kedua tangannya yang berotot legam. Ia menyapu moncong corong panas bolak-balik dalam jarak tiga puluh sentimeter dari permukaan serat mori, sementara Bachtiar membantu memegangi ujung kain agar tidak berkibar liar.
+Bang Parlin memegang selang bertekanan tinggi itu dengan kedua tangannya yang berotot legam. Ia menyapu moncong corong panas bolak-balik dalam jarak tiga puluh sentimeter dari permukaan serat mori, sementara Aji membantu memegangi ujung kain agar tidak berkibar liar.
 
 Hawa panas bertekanan tinggi melesat menembus jalinan benang kapas. Di depan mata kami, kilapan basah pasta damar dan cat minyak perlahan berubah menjadi redup padat. Minyak pelarut menguap cepat ke udara, meninggalkan lapisan pigmen yang mengeras sempurna dan menyatu mati dengan serat kain.
 

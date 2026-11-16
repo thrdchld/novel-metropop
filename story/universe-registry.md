@@ -62,8 +62,8 @@
 - **Premis ABCD Simpel:**
   - *A (Character):* Dwi Winarsih alias Wiwin (26), wanita pelukis spanduk pecel lele dan soto kain mori manual di ruko Kalimalang peninggalan pamannya, tangannya selalu berbekas cat neon stabilo dan hafal seluruh pakem anatomi hewan tenda malam.
   - *B (Routine):* Setiap hari membentang kain mori di lantai semen, mengoplos cat sablon berbau tiner, dan mengantar pesanan spanduk ke warung tenda demi membiayai obat asma pamannya.
-  - *C (Inciting Incident):* Usahanya terancam gulung tikar saat Bachtiar (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan spanduk plastik murah kilat ber-QRIS.
-  - *D (Action):* Saat Paguyuban Pedagang Tenda Lamongan mensyaratkan standarisasi 50 spanduk baru yang wajib mempertahankan lukisan tangan tradisi tetapi harus memuat kode QRIS perbankan yang presisi, Wiwin dan Bachtiar terpaksa menyatukan kuas manual dan mesin cetak digital di satu meja, hingga kolaborasi bau tiner dan desing mesin meluluhkan ego mereka berdua.
+  - *C (Inciting Incident):* Usahanya terancam gulung tikar saat Aji (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan spanduk plastik murah kilat ber-QRIS.
+  - *D (Action):* Saat Paguyuban Pedagang Tenda Lamongan mensyaratkan standarisasi 50 spanduk baru yang wajib mempertahankan lukisan tangan tradisi tetapi harus memuat kode QRIS perbankan yang presisi, Wiwin dan Aji terpaksa menyatukan kuas manual dan mesin cetak digital di satu meja, hingga kolaborasi bau tiner dan desing mesin meluluhkan ego mereka berdua.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
@@ -119,7 +119,7 @@
 | Melisa | Meli / Miss Meli | `NOV-003` | Sahabat / Sekutu | Pengajar Kelas Anak *BrightStep English* | Ceplas-ceplos, laci meja penuh camilan, suka meledek alarm HP Hana | `Boleh (Tingkat 1-3)` |
 | Fajar | Fajar / Mas Fajar | `NOV-003` | Mantan Tunangan | Analis Keuangan | Penuh perhitungan untung-rugi, menilai hubungan seperti daftar target | `Boleh (Tingkat 1-2)` |
 | Dwi Winarsih | Wiwin / Mbak Win | `NOV-004` | Protagonis | Pelukis Spanduk Kain Mori Pecel Lele Kalimalang | Ceplas-ceplos, tangguh, gengsian, tangan berbekas cat neon stabilo | `Boleh (Tingkat 1-3)` |
-| Bachtiar Rasyid | Bachtiar | `NOV-004` | Love Interest | Pemilik Percetakan Banner Digital Rukoan (Eks-Desainer Agensi) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri bos | `Boleh (Tingkat 1-3)` |
+| Aji Yudanta | Aji | `NOV-004` | Love Interest | Pemilik Percetakan Banner Digital Rukoan (Eks-Desainer Agensi) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri bos | `Boleh (Tingkat 1-3)` |
 | Suhartono | Pak Lik Harto | `NOV-004` | Tetua / Mentor | Maestro Pelukis Spanduk Pantura Era 90-an | Sabar, asma menahun, memegang mitos pantang lele Lamongan dan resep cat fosfor | `Boleh (Tingkat 1-2)` |
 | H. Abdul Qodim | Cak Qodim | `NOV-004` | Sekutu / Klien | Ketua Paguyuban Pedagang Tenda Lamongan Jakarta Timur | Kolot, tegas pada pakem kumis lele, berwibawa, penyayang rakyat kecil | `Boleh (Tingkat 1-3)` |
 | Parlindungan Siregar | Bang Parlin | `NOV-004` | Sekutu / Tetangga | Pemilik Tambal Ban Tubeles Ruko Sebelah | Ceplas-ceplos Batak, kompresor anginnya sering meletup di jam genting | `Boleh (Tingkat 1-3)` |

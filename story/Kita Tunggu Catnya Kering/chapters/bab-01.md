@@ -26,7 +26,7 @@ Pria itu berkedip dua kali, melirik bentangan kain di lantai, lalu menggaruk leh
 
 Aku mendengus keras. Di pojok ruko dekat tumpukan kaleng cat kosong, ada linggis besi ulir sepanjang satu meter warisan Pak Lik Harto. Daripada orang ini terus berdiri mengotori ambang pintu dan bikin aku makin telat, kuraih linggis dingin itu dan melangkah keluar menyeberangi jalan.
 
-Udara subuh Kalimalang dingin menggigit kulit lengan kaus oblongku, berbau lumpur kali dan asap knalpot truk gandeng yang melintas lambat menuju arah Bekasi. Lampu jalanan merkuri masih menyala kuning kusam. Di pelataran ruko seberang yang sudah dua bulan kosong terpasang plang tripleks baru bertuliskan spidol hitam: Rasyid Digital Banner.
+Udara subuh Kalimalang dingin menggigit kulit lengan kaus oblongku, berbau lumpur kali dan asap knalpot truk gandeng yang melintas lambat menuju arah Bekasi. Lampu jalanan merkuri masih menyala kuning kusam. Di pelataran ruko seberang yang sudah dua bulan kosong terpasang plang tripleks baru bertuliskan spidol hitam: Yudanta Digital Banner.
 
 Sebuah peti kayu lapis raksasa setinggi dada orang dewasa berdiri miring di atas trotoar semen. Di sampingnya, seorang pemuda berjaket kanvas abu-abu sedang mencatat sesuatu di buku saku kecil, meteran gulung kuning terselip di saku dadanya. Kacamata berbingkai tipis menempel di hidungnya yang mancung.
 
@@ -36,7 +36,7 @@ Pemuda berjaket itu menoleh pelan. Matanya turun ke linggis, lalu naik ke arahku
 
 Di sisi kayu peti kemas yang masih terikat tali baja, mataku menangkap stempel cat semprot merah bertuliskan huruf kapital tebal: HIGH-SPEED OUTDOOR DIGITAL PRINTER, 120 METER PER JAM.
 
-"Bisa tolong congkel sisi kanan bawah, Mas Bachtiar? Besinya nyangkut di engsel," kata sopir pikap pada pemuda itu.
+"Bisa tolong congkel sisi kanan bawah, Mas Aji? Besinya nyangkut di engsel," kata sopir pikap pada pemuda itu.
 
 Pemuda itu tidak langsung mengambil linggis. Ia melipat buku saku kecilnya, memasukkannya ke saku jaket, lalu menatapku dengan alis terangkat sedikit.
 

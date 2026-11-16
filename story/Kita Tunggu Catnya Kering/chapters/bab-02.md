@@ -18,25 +18,25 @@ Aku menahan senyum geli di balik bibirku. Pak Lik Harto selalu bilang, orang Lam
 
 Belum sempat aku menawar tenggat waktu yang mencekik itu, langkah sepatu kets terdengar melintasi aspal dari seberang jalan.
 
-Pemuda berjaket kanvas abu-abu itu menyeberang dengan langkah santai, membawa segepok selebaran kertas licin di tangan kanannya. Di seberang jalan, ruko barunya kini sudah dihiasi spanduk merah mentereng bertuliskan Rasyid Digital Banner. Mesin raksasa yang kemarin subuh membongkar lantai rukoku rupanya sudah menyala, mengeluarkan desing halus yang terdengar sampai ke seberang.
+Pemuda berjaket kanvas abu-abu itu menyeberang dengan langkah santai, membawa segepok selebaran kertas licin di tangan kanannya. Di seberang jalan, ruko barunya kini sudah dihiasi spanduk merah mentereng bertuliskan Yudanta Digital Banner. Mesin raksasa yang kemarin subuh membongkar lantai rukoku rupanya sudah menyala, mengeluarkan desing halus yang terdengar sampai ke seberang.
 
 "Sore, Pak," sapa pemuda itu pada Cak Qodim. Ia sama sekali tidak menatapku, menganggapku cuma tiang listrik berkarat yang kebetulan berdiri di trotoar.
 
 Cak Qodim menoleh dengan mata menyipit. "Sore. Siapa kamu?"
 
-"Saya Bachtiar, pemilik percetakan digital di seberang," katanya sambil menyerahkan selembar kertas kover mengilap ke tangan Cak Qodim. "Kami baru buka minggu ini. Cetak spanduk bahan plastik MMT tebal, warna tahan air, dan bisa ditunggu dua jam jadi. Kalau pesan hari ini, ada diskon tiga puluh persen untuk pedagang kuliner sekitar Kalimalang."
+"Saya Aji, pemilik percetakan digital di seberang," katanya sambil menyerahkan selembar kertas kover mengilap ke tangan Cak Qodim. "Kami baru buka minggu ini. Cetak spanduk bahan plastik MMT tebal, warna tahan air, dan bisa ditunggu dua jam jadi. Kalau pesan hari ini, ada diskon tiga puluh persen untuk pedagang kuliner sekitar Kalimalang."
 
 Cak Qodim membolak-balik kertas licin itu dengan jarinya yang kapalan. "Dua jam jadi?"
 
-"Dua jam selesai, Pak. Nggak perlu nunggu berhari-hari sampai catnya kering." Nada suara Bachtiar terdengar tenang, tapi jelas sekali ada jarum halus yang ia tancapkan ke arahku.
+"Dua jam selesai, Pak. Nggak perlu nunggu berhari-hari sampai catnya kering." Nada suara Aji terdengar tenang, tapi jelas sekali ada jarum halus yang ia tancapkan ke arahku.
 
 Darahku mendidih seketika. "Dua jam jadi kalau kena uap minyak goreng langsung melengkung kayak kerupuk gosong, Cak. Mau spanduk warung Cak Qodim baunya kayak plastik kebakar pas tamu lagi makan lele?"
 
-Bachtiar menoleh ke arahku perlahan, matanya di balik kacamata menatapku dingin. "Bahan MMT empat ratus empat puluh gram kami sudah standar luar ruang, Mbak. Tahan hujan, tahan panas, dan warnanya presisi sesuai desain komputer. Nggak ada ceritanya meluber kayak cat kuas."
+Aji menoleh ke arahku perlahan, matanya di balik kacamata menatapku dingin. "Bahan MMT empat ratus empat puluh gram kami sudah standar luar ruang, Mbak. Tahan hujan, tahan panas, dan warnanya presisi sesuai desain komputer. Nggak ada ceritanya meluber kayak cat kuas."
 
 "Komputermu tahu nggak caranya bikin kumis lele yang punya wibawa?" sergahku maju selangkah. "Tahu nggak bedanya lele segar sama lele tiren di atas kain?"
 
-Bachtiar hanya tersenyum tipis, jenis senyum sopan yang paling menyebalkan sedunia. "Gambar ya cuma gambar, Mbak. Yang penting tulisannya kebaca dan harganya masuk akal."
+Aji hanya tersenyum tipis, jenis senyum sopan yang paling menyebalkan sedunia. "Gambar ya cuma gambar, Mbak. Yang penting tulisannya kebaca dan harganya masuk akal."
 
 Tepat saat itu, Mbak Pur dari warkop sebelah datang membawa nampan berisi tiga potong lele goreng garing dan sepiring nasi uduk pesanan sopir ojol.
 
@@ -44,14 +44,14 @@ Tepat saat itu, Mbak Pur dari warkop sebelah datang membawa nampan berisi tiga p
 
 Cak Qodim langsung melangkah mundur dua tindak, mengangkat kedua tangannya ke depan dada dengan wajah pucat seketika. "Aduh, Pur! Jangan didekatkan ke aku! Kan kamu tahu pantangan keluargaku!"
 
-Bachtiar mengernyit heran menatap reaksi Cak Qodim yang berlebihan. "Bapaknya nggak suka lele?"
+Aji mengernyit heran menatap reaksi Cak Qodim yang berlebihan. "Bapaknya nggak suka lele?"
 
 "Bukan nggak suka, Mas!" potong Cak Qodim cepat sambil memalingkan muka dari piring Mbak Pur. "Orang asli Lamongan dari desa leluhurku pantang makan lele seumur hidup. Kalau sampai nelan sebutir dagingnya saja, kulit kami bisa gatal-gatal bersisik kena kutuk sumpah Ki Boyopati. Jualan lele boleh, cari rezeki halal dari lele wajib, tapi makan dagingnya haram hukumnya!"
 
-Mbak Pur tertawa sambil berjalan lewat, sementara Bachtiar berdiri mematung menatap Cak Qodim dengan dahi berkerut dalam, tampak benar-benar tidak habis pikir dengan logika orang-orang di pinggir jalan ini.
+Mbak Pur tertawa sambil berjalan lewat, sementara Aji berdiri mematung menatap Cak Qodim dengan dahi berkerut dalam, tampak benar-benar tidak habis pikir dengan logika orang-orang di pinggir jalan ini.
 
-Aku menatap Bachtiar sambil tersenyum sinis, melipat kain pesanan Cak Qodim ke dadaku.
+Aku menatap Aji sambil tersenyum sinis, melipat kain pesanan Cak Qodim ke dadaku.
 
 "Gimana, Mas desainer?" bisikku pelan tepat di depan wajahnya. "Mesin canggih seratus dua puluh metermu punya fitur buat nge-print sumpah leluhur juga nggak?"
 
-Bachtiar tidak membalas. Ia hanya merapikan selebarannya, lalu menatap ruko usangku dari atas ke bawah sebelum melangkah kembali menyeberangi jalan. Langkah kakinya tenang, tapi dari caranya menggenggam kertas selebaran itu, aku tahu ia menganggap seluruh obrolan ini tak lebih dari sekadar lelucon orang udik yang sebentar lagi akan digilas oleh zaman.
+Aji tidak membalas. Ia hanya merapikan selebarannya, lalu menatap ruko usangku dari atas ke bawah sebelum melangkah kembali menyeberangi jalan. Langkah kakinya tenang, tapi dari caranya menggenggam kertas selebaran itu, aku tahu ia menganggap seluruh obrolan ini tak lebih dari sekadar lelucon orang udik yang sebentar lagi akan digilas oleh zaman.

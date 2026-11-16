@@ -4,11 +4,11 @@
 
 Suara pintu sedan dinas yang terbanting keras memecah keheningan pagi di pinggir Kalimalang. Pak Haris melangkah keluar dengan sepatu kulit hitam bersemir mengilat, disusul empat staf muda berseragam dinas cokelat khaki yang menenteng map jepit dan papan jalan akrilik. Kacamata berbingkai emas Pak Haris bertengger angkuh di batang hidungnya, menatap kami bertiga yang masih berlumuran debu semen dan noda cat hitam di pelataran ruko.
 
-Di belakangku, Bachtiar berdiri tegak sambil menyilangkan kedua tangannya di dada. Bang Parlin tetap memegang kunci pas ukuran sembilan belas, sementara Cak Qodim yang baru saja tiba menuntun sepeda ontelnya menepi di dekat wajan martabak.
+Di belakangku, Aji berdiri tegak sambil menyilangkan kedua tangannya di dada. Bang Parlin tetap memegang kunci pas ukuran sembilan belas, sementara Cak Qodim yang baru saja tiba menuntun sepeda ontelnya menepi di dekat wajan martabak.
 
-"Jadwal resmi verifikasi teknis tercatat pukul sembilan pagi, Pak Haris," kata Bachtiar tenang, suaranya mantap tanpa nada gentar. "Anda datang dua jam lebih awal dari undangan resmi yang Anda tanda tangani sendiri."
+"Jadwal resmi verifikasi teknis tercatat pukul sembilan pagi, Pak Haris," kata Aji tenang, suaranya mantap tanpa nada gentar. "Anda datang dua jam lebih awal dari undangan resmi yang Anda tanda tangani sendiri."
 
-Pak Haris mendengus pendek sambil melambaikan tangan kanannya dengan gerakan meremehkan. "Dinas tidak bekerja menurut kenyamanan pedagang kaki lima, Bachtiar. Kami punya agenda peresmian lapangan siang ini. Kalau barang belum siap, tanda tangani surat pembatalan sekarang biar kuota lima puluh tenda dialihkan ke Percetakan Mitra Graha."
+Pak Haris mendengus pendek sambil melambaikan tangan kanannya dengan gerakan meremehkan. "Dinas tidak bekerja menurut kenyamanan pedagang kaki lima, Aji. Kami punya agenda peresmian lapangan siang ini. Kalau barang belum siap, tanda tangani surat pembatalan sekarang biar kuota lima puluh tenda dialihkan ke Percetakan Mitra Graha."
 
 "Siapa bilang barang kami belum siap?" potongku dingin sambil melangkah maju ke garis batas ruko.
 
@@ -46,4 +46,4 @@ BEEP!
 
 Layar retak seribu itu seketika memunculkan tanda centang hijau besar bertuliskan transaksi siap diproses.
 
-Sorak sorai membahana dari mulut Bang Parlin, Mbak Pur, dan Cak Qodim. Bachtiar menoleh ke arahku, lalu tersenyum tipis dengan binar mata yang mengunci tatapanku dalam-dalam di bawah naungan kain mori yang berkibar.
+Sorak sorai membahana dari mulut Bang Parlin, Mbak Pur, dan Cak Qodim. Aji menoleh ke arahku, lalu tersenyum tipis dengan binar mata yang mengunci tatapanku dalam-dalam di bawah naungan kain mori yang berkibar.

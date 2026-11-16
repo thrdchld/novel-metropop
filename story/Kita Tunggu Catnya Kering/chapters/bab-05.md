@@ -20,7 +20,7 @@ Pak Lik Harto menarik bangku kayu pendek, lalu duduk di sampingku. Matanya yang 
 
 Tiga puluh menit kemudian, kotak kode QRIS manual itu selesai kulukis. Rapi, hitam pekat, dan tegak lurus sesuai ukuran modul standar perbankan. Dari jarak pandang satu meter, gambar itu persis seperti hasil cetak mesin stempel.
 
-Aku menegakkan punggung yang pegal, menyeka keringat di pelipis dengan punggung tangan. Kepuasan hangat merayap di dadaku. Kalau spanduk manual ini bisa memuat pembayaran digital selancar spanduk mesin, Bachtiar tidak punya alasan lagi untuk menggusur lukisan tenda tradisional.
+Aku menegakkan punggung yang pegal, menyeka keringat di pelipis dengan punggung tangan. Kepuasan hangat merayap di dadaku. Kalau spanduk manual ini bisa memuat pembayaran digital selancar spanduk mesin, Aji tidak punya alasan lagi untuk menggusur lukisan tenda tradisional.
 
 Kukeluarkan ponsel cerdas jadulku dari saku celana jins. Layar kacanya yang retak seribu di pojok kanan atas kunyalakan, lalu kubuka aplikasi perbankan digital.
 
@@ -44,4 +44,4 @@ Di bawah kaca pembesar benang, serat kapas mori perlahan tapi pasti menyerap pel
 
 Pak Lik Harto menepuk pundakku pelan. "Kuas tangan manusia itu untuk menggugah rasa lapar orang yang lewat, Win. Bukan buat membohongi mata mesin."
 
-Kutatap kuas liner bulu musang nomor satu di genggamanku, lalu menatap layar ponsel retak yang masih menampilkan pesan eror merah. Di seberang jalan, desing mesin cetak digital Bachtiar terdengar sayup-sayup menembus dinding ruko. Untuk pertama kalinya sejak merantau ke Jakarta, aku menyadari bahwa cinta dan ketekunan tanganku sedang berhadapan dengan tembok tak kasatmata yang tidak bisa ditembus oleh sekadar rasa percaya diri.
+Kutatap kuas liner bulu musang nomor satu di genggamanku, lalu menatap layar ponsel retak yang masih menampilkan pesan eror merah. Di seberang jalan, desing mesin cetak digital Aji terdengar sayup-sayup menembus dinding ruko. Untuk pertama kalinya sejak merantau ke Jakarta, aku menyadari bahwa cinta dan ketekunan tanganku sedang berhadapan dengan tembok tak kasatmata yang tidak bisa ditembus oleh sekadar rasa percaya diri.

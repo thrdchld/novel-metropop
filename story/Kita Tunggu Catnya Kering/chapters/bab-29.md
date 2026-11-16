@@ -6,15 +6,15 @@ Dentingan palu besi yang memukul pasak tenda bersahut-sahutan di sepanjang jalan
 
 Tidak ada sekat antar-pedagang soto, pecel lele, bebek goreng, maupun tahu campur. Semua orang bekerja dalam ritme gerak yang serentak dan penuh semangat. Di trotoar seberang, para istri pedagang mulai menyiapkan cobek sambal raksasa, mengiris kol segar, dan menyusun piring-piring kaleng di atas gerobak.
 
-"Tarik ujung kain sebelah kiri sedikit lagi, Bang Parlin!" teriak Bachtiar dari bawah trotoar.
+"Tarik ujung kain sebelah kiri sedikit lagi, Bang Parlin!" teriak Aji dari bawah trotoar.
 
 Pemuda itu memegang sudut bawah kain spanduk mori nomor dua puluh satu, memastikan permukaan kain katun itu meregang kencang tanpa kerutan sedikit pun. Jaket kanvas abu-abunya yang masih bernoda kuning stabilo di siku kanan sudah digulung sampai ke lengan atas, memperlihatkan otot tangannya yang memerah terbakar terik matahari kota.
 
-"Beres, Mas Bachtiar!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
+"Beres, Mas Aji!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
 
 Satu per satu, enam puluh lembar spanduk hibrida mulai membentang gagah di sepanjang jalan festival. Sapuan warna hijau dan oranye stabilo hasil lukisan tanganku memantulkan cahaya matahari siang dengan ketajaman yang mencolok, membedakannya secara mutlak dari spanduk vinil pabrik yang kusam dan kaku. Di sudut kanan bawah setiap tenda, panel sablon damar hitam berisi kode QRIS terpampang presisi pada ketinggian yang pas untuk dijangkau tangan pembeli.
 
-Bachtiar berjalan menyusuri trotoar sambil memegang ponselnya, menguji sudut pantulan cahaya matahari pada panel kode pembayaran. Dari jarak dua meter, sensor kameranya langsung berbunyi bip jernih, menandakan seluruh panel siap melayani transaksi ribuan pengunjung festival.
+Aji berjalan menyusuri trotoar sambil memegang ponselnya, menguji sudut pantulan cahaya matahari pada panel kode pembayaran. Dari jarak dua meter, sensor kameranya langsung berbunyi bip jernih, menandakan seluruh panel siap melayani transaksi ribuan pengunjung festival.
 
 Pak Lik Harto duduk di kursi roda di bawah bayangan pohon angsana di pinggir trotoar. Tangannya yang keriput perlahan menyentuh lukisan kepala lele di kain tenda Cak Qodim yang tergantung di depannya.
 
@@ -24,12 +24,12 @@ Cak Qodim mengusap kumis tebalnya, lalu mengangguk takzim menatap lukisan lele y
 
 Aku tersenyum menatap dua sesepuh itu, merasakan kehangatan yang menjalar di dada. Perjalanan panjang dari ruko semen Kalimalang yang sempit, perang dingin lakban hitam, hingga malam badai talang yang mencekam, seolah terbayar lunas saat melihat deretan tenda ini berkibar megah di bawah langit biru ibu kota.
 
-"Wiwin!" panggil Bachtiar sambil melangkah mendekatiku, menyodorkan sebotol air mineral dingin. "Coba lihat ke seberang jalan."
+"Wiwin!" panggil Aji sambil melangkah mendekatiku, menyodorkan sebotol air mineral dingin. "Coba lihat ke seberang jalan."
 
 Aku menoleh mengikuti arah pandangannya. Di seberang trotoar, sebuah sedan hitam berpelat merah berhenti pelan di samping pos polisi. Dari balik kaca jendela mobil yang diturunkan separuh, wajah Pak Haris tampak memandang ke arah deretan tenda kami.
 
 Raut wajah sang kepala seksi tampak tegang dan kaku. Ia menatap deretan enam puluh spanduk mori yang berdiri rapi tanpa cela sebelum jam dua siang, jauh mendahului tenggat resmi yang ia tetapkan untuk menjebak kami. Tanpa turun dari mobil, Pak Haris menaikkan kembali kaca jendelanya dan sedan dinas itu langsung meluncur pergi meninggalkan arena festival.
 
-Bachtiar tersenyum tipis, lalu menoleh menatapku dengan binar mata yang jernih.
+Aji tersenyum tipis, lalu menoleh menatapku dengan binar mata yang jernih.
 
 Di jalanan kota yang sering kali terasa dingin dan kejam ini, solidaritas orang kecil tidak pernah diukur dari seberapa tebal lembaran uang di dompet, melainkan dari kesediaan untuk saling menopang pundak saat badai menuntut pembuktian harga diri.

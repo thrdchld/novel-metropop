@@ -12,21 +12,21 @@ Pria itu mendengus sinis, melirik tumpukan kaleng cat berkarat dan kain-kain mor
 
 "Saya Haris, Kepala Seksi Sarana Promosi Dinas Pariwisata," jawabnya congkak. "Cak Qodim kemarin membawa berkas permohonan standarisasi tenda festival. Saya sengaja datang langsung ke mari untuk memastikan kalian tidak sedang membodohi dinas dengan produk abal-abal."
 
-Bachtiar melangkah maju ke garis depan, berdiri tegap di sampingku. Wajahnya tetap tenang, tapi rahangnya terkatup rapat.
+Aji melangkah maju ke garis depan, berdiri tegap di sampingku. Wajahnya tetap tenang, tapi rahangnya terkatup rapat.
 
-"Produk kami bukan barang abal-abal, Pak Haris," kata Bachtiar tenang namun tegas. "Ini prototipe spanduk hibrida pesanan paguyuban. Kain mori lukisan tangan asli khas Lamongan, dipadukan dengan modul QRIS sablon damar presisi tinggi."
+"Produk kami bukan barang abal-abal, Pak Haris," kata Aji tenang namun tegas. "Ini prototipe spanduk hibrida pesanan paguyuban. Kain mori lukisan tangan asli khas Lamongan, dipadukan dengan modul QRIS sablon damar presisi tinggi."
 
 Pak Haris melangkah mendekati meja tempat spanduk prototipe kami dibentangkan. Matanya yang menyipit menatap gambar lele melengkung berwana kuning stabilo, lalu turun ke kotak hitam QRIS di sudut bawah.
 
 "Paling cuma stiker sablon murah yang gampang luntur kena minyak," cemooh Pak Haris sambil mengetuk permukaan kain dengan ujung pulpen emasnya. "Kamera ponsel zaman sekarang menolak gambar yang tidak presisi. Kalian pikir kami mau membuang anggaran empat puluh juta untuk reklame yang cuma bikin malu walikota?"
 
-Tanpa berkata sepatah kata pun, Bachtiar meraih botol semprotan tanaman oranye di samping meja.
+Tanpa berkata sepatah kata pun, Aji meraih botol semprotan tanaman oranye di samping meja.
 
 PFFT! PFFT! PFFT!
 
-Bachtiar menyemprotkan air deras tepat ke permukaan kode QRIS hitam di atas kain mori hingga basah kuyup. Butir-butir air menetes ke lantai semen, tapi tinta damar hitam legam itu tetap merekat kuat tanpa luntur atau menggelembung sedikit pun.
+Aji menyemprotkan air deras tepat ke permukaan kode QRIS hitam di atas kain mori hingga basah kuyup. Butir-butir air menetes ke lantai semen, tapi tinta damar hitam legam itu tetap merekat kuat tanpa luntur atau menggelembung sedikit pun.
 
-"Silakan dites scan pakai ponsel Bapak," kata Bachtiar tenang sambil menyodorkan ruang bidik.
+"Silakan dites scan pakai ponsel Bapak," kata Aji tenang sambil menyodorkan ruang bidik.
 
 Pak Haris mencibir meremehkan. Ia merogoh ponsel pintarnya dari saku kemeja safari, membuka aplikasi pemindai dengan gerakan malas, lalu mengarahkan kameranya ke kain basah.
 
@@ -48,10 +48,10 @@ Ia mengambil selembar kartu nama tebal dari saku dompetnya, meletakkannya di ata
 
 Ia mengetuk kartu namanya dengan ujung kuku sebelum menyambung kejam, "Tapi kalau ada satu lembar saja yang telat atau kode QRIS-nya gagal scan di hari pembukaan, seluruh biaya hangus dan paguyuban wajib bayar penalti dua puluh persen!"
 
-Kutatap wajah Pak Haris yang licik, lalu melirik Bachtiar di sebelahku.
+Kutatap wajah Pak Haris yang licik, lalu melirik Aji di sebelahku.
 
-Bachtiar menatap kartu nama berlapis emas di atas kaleng cat usang itu dengan pandangan dingin. Di dunia agensi Jakarta yang pernah menghempaskannya dulu, orang-orang seperti Pak Haris berkeliaran di setiap lantai gedung kaca: manusia-manusia congkak yang gemar memeras keringat orang kecil di bawah ancaman penalti klausul kontrak.
+Aji menatap kartu nama berlapis emas di atas kaleng cat usang itu dengan pandangan dingin. Di dunia agensi Jakarta yang pernah menghempaskannya dulu, orang-orang seperti Pak Haris berkeliaran di setiap lantai gedung kaca: manusia-manusia congkak yang gemar memeras keringat orang kecil di bawah ancaman penalti klausul kontrak.
 
-"Kami terima tantangannya, Pak Haris," ucap Bachtiar mantap tanpa gentar sedikit pun. "Dua minggu dari sekarang, lima puluh spanduk hibrida ini akan berkibar rapi di sepanjang jalan kota."
+"Kami terima tantangannya, Pak Haris," ucap Aji mantap tanpa gentar sedikit pun. "Dua minggu dari sekarang, lima puluh spanduk hibrida ini akan berkibar rapi di sepanjang jalan kota."
 
 Pak Haris tersenyum miring, berbalik badan tanpa mengucap salam, lalu melangkah kembali ke dalam mobil dinasnya yang menderu pergi meninggalkan kepulan debu trotoar.

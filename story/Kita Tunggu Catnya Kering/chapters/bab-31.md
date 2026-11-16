@@ -18,23 +18,23 @@ Aku terpaku menatap piring itu. Piring kaleng blirik bercorak loreng hijau dan p
 
 Pak Lik Harto yang duduk di sampingku tersenyum haru, menepuk pundak Cak Qodim pelan. Matanya berbinar menatap puluhan anak muda yang antre dengan tertib. "Lele Lamongan malam ini rasanya pasti jauh lebih gurih dari biasanya. Warisan kuas jalanan kita akhirnya punya masa depan."
 
-Bachtiar duduk di sebelah kananku. Pemuda itu mencelupkan jemari tangannya ke dalam mangkok kobokan air jeruk nipis tanpa ragu sedikit pun. Tidak ada lagi desainer kota yang kaku dan takut kotor. Dengan gerakan mantap, ia menyobek daging lele yang garing, mencocolkannya ke sambal terasi, lalu menyuapkannya ke mulut bersama gumpalan nasi uduk.
+Aji duduk di sebelah kananku. Pemuda itu mencelupkan jemari tangannya ke dalam mangkok kobokan air jeruk nipis tanpa ragu sedikit pun. Tidak ada lagi desainer kota yang kaku dan takut kotor. Dengan gerakan mantap, ia menyobek daging lele yang garing, mencocolkannya ke sambal terasi, lalu menyuapkannya ke mulut bersama gumpalan nasi uduk.
 
-"Gimana rasanya, Mas Bachtiar?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
+"Gimana rasanya, Mas Aji?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
 
-Bachtiar mengunyah lahap dengan mata terpejam menikmati gurihnya bumbu ketumbar dan bawang putih. "Jauh lebih nikmat daripada makan steik di restoran gedung bertingkat, Mbak Pur. Sambal terasi ini bikin semua rasa lelah semalam hilang seketika."
+Aji mengunyah lahap dengan mata terpejam menikmati gurihnya bumbu ketumbar dan bawang putih. "Jauh lebih nikmat daripada makan steik di restoran gedung bertingkat, Mbak Pur. Sambal terasi ini bikin semua rasa lelah semalam hilang seketika."
 
 Tawa kami berderai hangat membelah keriuhan malam festival. Kulihat Bang Parlin di meja sebelah sedang asyik melahap lele ketiganya sambil bercanda dengan para sopir ojek yang datang memeriahkan acara.
 
-Setelah menghabiskan makanan kami, aku dan Bachtiar melangkah keluar dari tenda, berdiri di tepi trotoar di bawah naungan spanduk kain nomor satu yang berkibar pelan tertiup angin malam. Dari kejauhan, lampu-lampu gedung pencakar langit Jakarta berkerlap-kerlip megah, namun kilauannya terasa kalah hangat jika dibandingkan dengan pendaran warna kain mori kami yang menyala di jalanan.
+Setelah menghabiskan makanan kami, aku dan Aji melangkah keluar dari tenda, berdiri di tepi trotoar di bawah naungan spanduk kain nomor satu yang berkibar pelan tertiup angin malam. Dari kejauhan, lampu-lampu gedung pencakar langit Jakarta berkerlap-kerlip megah, namun kilauannya terasa kalah hangat jika dibandingkan dengan pendaran warna kain mori kami yang menyala di jalanan.
 
-Bachtiar menatap ke arahku. Jaket kanvas abu-abunya dengan noda cat kuning di siku kanan tampak bersinar terkena pantulan pigmen fosfor di atas kepala kami.
+Aji menatap ke arahku. Jaket kanvas abu-abunya dengan noda cat kuning di siku kanan tampak bersinar terkena pantulan pigmen fosfor di atas kepala kami.
 
-"Mesin cetakku memang sudah mati terbakar," ucap Bachtiar lembut, suaranya tenang dan teduh. "Tapi malam ini aku melihat masa depan yang jauh lebih luas daripada sekadar mencetak kertas di dalam ruangan ber-AC."
+"Mesin cetakku memang sudah mati terbakar," ucap Aji lembut, suaranya tenang dan teduh. "Tapi malam ini aku melihat masa depan yang jauh lebih luas daripada sekadar mencetak kertas di dalam ruangan ber-AC."
 
 "Masa depan seperti apa, Mas?" tanyaku lirih, menatap sepasang matanya di balik kacamata barunya.
 
-Bachtiar tidak langsung menjawab dengan kata-kata.
+Aji tidak langsung menjawab dengan kata-kata.
 
 Di tengah hiruk pikuk ribuan pengunjung yang berlalu-lalang, tangan kanannya perlahan bergerak turun. Jemarinya yang hangat dan mantap menyelip di antara sela jemariku, menggenggam erat telapak tanganku yang masih bernoda bekas cat hijau stabilo.
 

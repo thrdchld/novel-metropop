@@ -12,23 +12,23 @@ Di sudut dekat kamar, Pak Lik Harto yang duduk di bangku dingklik kayu menggaris
 
 Aku berlutut di tengah ruangan, menyambar kuas pipih nomor empat yang sudah dicelup ke cat kuning dan oranye stabilo. Gerakan tanganku meliuk cepat dan terlatih: menggoreskan lengkung tubuh lele, melukis mahkota ayam jago, menyapukan sayap bebek, lalu membubuhkan huruf balok tebal khas Pantura. Tidak ada keraguan, tidak ada jeda berpikir. Setiap tarikan kuasku mengalir murni dari ingatan otot yang diasah belasan tahun.
 
-Dua meter di samping kananku, Bachtiar bekerja dengan presisi mesin. Lengan kemejanya digulung sampai ke bahu. Di depannya, plat sablon kasa monofilamen nomor seratus dua puluh T diletakkan bergantian di atas jendela kain kosong.
+Dua meter di samping kananku, Aji bekerja dengan presisi mesin. Lengan kemejanya digulung sampai ke bahu. Di depannya, plat sablon kasa monofilamen nomor seratus dua puluh T diletakkan bergantian di atas jendela kain kosong.
 
 SREK! SREK!
 
 Bilah karet rakel ditariknya dengan sudut miring empat puluh lima derajat, menyapukan pasta damar hitam pekat menembus saringan ke serat kain mori. Setiap kali plat diangkat, satu kode QRIS sempurna tercetak hitam legam.
 
-"Kain kedua puluh siap sablon, Bachtiar!" seruku sambil menggeser kain baru ke arahnya.
+"Kain kedua puluh siap sablon, Aji!" seruku sambil menggeser kain baru ke arahnya.
 
-"Sini, taruh sejajar tanda kapur!" sahut Bachtiar dengan napas memburu.
+"Sini, taruh sejajar tanda kapur!" sahut Aji dengan napas memburu.
 
-Saat berbalik meraih botol pelarut pembersih kasa, siku kanan Bachtiar menyenggol botol kaca tiner yang berdiri di lantai semen.
+Saat berbalik meraih botol pelarut pembersih kasa, siku kanan Aji menyenggol botol kaca tiner yang berdiri di lantai semen.
 
 PRAK!
 
 Botol kaca itu terguling, menumpahkan setengah liter cairan tiner bening ke lantai semen, mengalir cepat menuju ujung bentangan kain mori kelima belas yang catnya baru setengah kering.
 
-"Awas! Tinernya tumpah!" pekik Bachtiar panik, melompat mundur berusaha menahan aliran cairan dengan telapak sepatunya.
+"Awas! Tinernya tumpah!" pekik Aji panik, melompat mundur berusaha menahan aliran cairan dengan telapak sepatunya.
 
 "Jangan pakai sepatu!" bentakku cepat.
 
@@ -36,9 +36,9 @@ Kusambar karung goni kecil berisi serbuk gergaji kayu jati yang kusiapkan di dek
 
 Serbuk gergaji kayu langsung menyedot cairan kimia itu seperti spons kering dalam hitungan tiga detik, menghentikan laju tiner hanya dua sentimeter sebelum menyentuh pinggiran kain putih mori.
 
-Bachtiar menghembuskan napas panjang, bersandar lemas pada tiang ruko. Wajahnya pucat pasi menatap serbuk kayu yang basah kuyup.
+Aji menghembuskan napas panjang, bersandar lemas pada tiang ruko. Wajahnya pucat pasi menatap serbuk kayu yang basah kuyup.
 
-"Hampir saja," bisik Bachtiar dengan nada gemetar. "Maaf, Win. Konsentrasiku mulai buyar."
+"Hampir saja," bisik Aji dengan nada gemetar. "Maaf, Win. Konsentrasiku mulai buyar."
 
 "Tarik napas dulu," kataku sambil menyapu serbuk kayu basah itu ke serokan seng dengan sapu lidi. "Begadang maraton begini memang bikin mata rabun."
 
@@ -48,7 +48,7 @@ Belum sempat kami membersihkan sisa serbuk kayu, pintu besi ruko yang terbuka se
 
 Suara berat Cak Qodim memecah keheningan malam Kalimalang. Pria berkumis tebal itu melangkah masuk dengan senyum semringah, menenteng sebakul anyaman bambu berisi tiga puluh bungkus nasi uduk hangat berbungkus daun pisang dan satu teko loreng besar wedang jahe gula merah yang mengepulkan asap hangat.
 
-"Makan dulu, anak-anak muda!" seru Cak Qodim sambil meletakkan bakul nasi ke atas meja lipat Bachtiar. "Paguyuban Kalimalang patungan beli lauk empal suwir sama telur dadar tebal buat kalian berdua. Jangan sampai kalian pingsan sebelum bendera berkibar!"
+"Makan dulu, anak-anak muda!" seru Cak Qodim sambil meletakkan bakul nasi ke atas meja lipat Aji. "Paguyuban Kalimalang patungan beli lauk empal suwir sama telur dadar tebal buat kalian berdua. Jangan sampai kalian pingsan sebelum bendera berkibar!"
 
 Pak Lik Harto tersenyum lebar dari sudutnya, meletakkan kapur jahitnya dan melangkah mendekat.
 

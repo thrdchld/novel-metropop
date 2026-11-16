@@ -16,11 +16,11 @@ Menteri menghentikan langkahnya tepat di depan bentangan kain mori warung Cak Qo
 
 "Luar biasa," puji Menteri sambil menyentuh serat kain katun mori dengan jarinya. "Ini lukisan tangan asli, bukan cetakan plastik baliho pabrik. Siapa yang mendesain spanduk tradisional seindah ini?"
 
-Cak Qodim melangkah maju dengan dada membusung bangga, lalu menunjuk ke arahku dan Bachtiar yang berdiri di samping gerobak. "Dua anak muda ini, Pak Menteri! Dwi Winarsih yang melukis kuasnya, dan Mas Bachtiar yang memasang teknologi pembayarannya."
+Cak Qodim melangkah maju dengan dada membusung bangga, lalu menunjuk ke arahku dan Aji yang berdiri di samping gerobak. "Dua anak muda ini, Pak Menteri! Dwi Winarsih yang melukis kuasnya, dan Mas Aji yang memasang teknologi pembayarannya."
 
 Menteri tersenyum hangat, mengangguk hormat ke arah kami berdua. "Sentuhan seni lokalnya sangat kuat. Tapi bagaimana dengan integrasi pembayaran nontunainya? Apakah sensor ponsel bisa membaca kode di atas kain bergelombang ini?"
 
-"Silakan dicoba langsung, Pak Menteri," kata Bachtiar tenang sambil mempersilakan.
+"Silakan dicoba langsung, Pak Menteri," kata Aji tenang sambil mempersilakan.
 
 Menteri mengeluarkan ponsel pintarnya dari saku kemeja. Para fotografer dan kamera televisi swasta langsung menyorotkan lampu blitz ke arah tangan sang pejabat. Suasana di depan warung tenda mendadak senyap saat lensa kamera menteri diarahkan ke sudut panel sablon damar.
 
@@ -38,6 +38,6 @@ Tepuk tangan meriah dan sorak sorai penonton seketika pecah membelah malam.
 
 Menteri kemudian membungkuk menyalami tangan Pak Lik Harto yang duduk di kursi roda, menyampaikan rasa kagumnya pada keteguhan seniman tradisi. Kepala dinas tersenyum lebar dan menjabat tangan kami berdua berulang kali. Di sudut trotoar seberang, kulihat Pak Haris menundukkan kepalanya dalam-dalam, lalu melangkah menyelinap di balik punggung petugas keamanan dan menghilang ke dalam gelap.
 
-Bachtiar menoleh menatapku. Tangannya yang masih kasar oleh bekas luka sablon menyentuh ujung jemariku di samping bentangan kain.
+Aji menoleh menatapku. Tangannya yang masih kasar oleh bekas luka sablon menyentuh ujung jemariku di samping bentangan kain.
 
 Di tengah riuh tepuk tangan warga dan gemerlap lampu sorot festival, kutatap deretan spanduk kami yang berkibar megah di sepanjang jalan, bertanya-tanya apakah kemenangan malam ini adalah ujung dari sebuah perjuangan panjang, ataukah pintu gerbang pembuka bagi lembaran hidup kami yang baru?

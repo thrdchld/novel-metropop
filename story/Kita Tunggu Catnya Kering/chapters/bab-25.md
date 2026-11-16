@@ -4,9 +4,9 @@ Ujung kuas nomor tiga melesat cepat di atas bentangan mori putih, menyapukan len
 
 Keringat dingin membasahi kaus oblong hitamku yang sudah kaku oleh percikan cat minyak. Di lantai semen ruko, seluruh ruangan telah berubah menjadi jalur perakitan kain raksasa. Enam lembar spanduk VIP yang sudah selesai tergantung berjejer di tali tambang langit-langit, memancarkan pendaran hijau dan jingga neon di bawah temaram lampu TL empat puluh watt yang sesekali berkedip pelan.
 
-Bachtiar berlutut di sudut lain meja kerja, mengoperasikan mesin pres transfer panas portabel dengan gerakan yang sangat mekanis. Tuas besi mesin itu ditekan kuat selama lima belas detik, diangkat, lalu dialihkan ke panel kain berikutnya. Tangan kanannya terbalut perban kain putih untuk menahan panas pelat logam yang mencapai suhu kerja optimal.
+Aji berlutut di sudut lain meja kerja, mengoperasikan mesin pres transfer panas portabel dengan gerakan yang sangat mekanis. Tuas besi mesin itu ditekan kuat selama lima belas detik, diangkat, lalu dialihkan ke panel kain berikutnya. Tangan kanannya terbalut perban kain putih untuk menahan panas pelat logam yang mencapai suhu kerja optimal.
 
-"Suhu mesin stabil di seratus lima puluh derajat," kata Bachtiar tanpa menoleh dari meja, suaranya parau oleh lelah. "Panel kedelapan sudah merekat sempurna. Garis tepi sablon damarnya rata dan menyatu dengan serat kapas. Tinggal dua kain lagi, Wiwin."
+"Suhu mesin stabil di seratus lima puluh derajat," kata Aji tanpa menoleh dari meja, suaranya parau oleh lelah. "Panel kedelapan sudah merekat sempurna. Garis tepi sablon damarnya rata dan menyatu dengan serat kapas. Tinggal dua kain lagi, Wiwin."
 
 Pak Lik Harto duduk tenang di kursi rotannya di dekat pintu bilik. Tangannya yang kurus mengayunkan kipas anyaman bambu secara teratur, mengalirkan udara kering ke permukaan cat basah yang baru saja kutarik. Sesekali pria tua itu menuangkan air jahe hangat dari termos kecil ke cangkir kaleng, lalu meletakkannya di dekat kakiku.
 
@@ -18,19 +18,19 @@ Rasa kram yang menusuk tajam membuat batang kayu jati di jemariku terlepas dan j
 
 "Aduh!" keluhku sambil menahan napas, memegangi pergelangan tangan kanan yang gemetar kaku.
 
-Bachtiar langsung melepaskan tuas mesin pres dan melompat menghampiriku. Ia berlutut di depanku, lalu mengambil tangan kananku dengan sangat hati-hati. Jemarinya yang kasar menekan titik nadi di pergelangan tanganku, memijat otot-otot tendon yang tegang dengan pijatan mantap yang terarah.
+Aji langsung melepaskan tuas mesin pres dan melompat menghampiriku. Ia berlutut di depanku, lalu mengambil tangan kananku dengan sangat hati-hati. Jemarinya yang kasar menekan titik nadi di pergelangan tanganku, memijat otot-otot tendon yang tegang dengan pijatan mantap yang terarah.
 
-"Otot jarimu kaku gara-gara memegang kuas terlalu kencang," kata Bachtiar, nada bicaranya melembut penuh perhatian. "Tarik napas panjang, lemaskan pundakmu sekarang."
+"Otot jarimu kaku gara-gara memegang kuas terlalu kencang," kata Aji, nada bicaranya melembut penuh perhatian. "Tarik napas panjang, lemaskan pundakmu sekarang."
 
-Rasa sakit berdenyut perlahan mereda seiring hangatnya tekanan tangan Bachtiar di kulit tanganku. Dari saku celana jinsnya, ia menarik selembar plester koyo hangat berpori, lalu menempelkannya melingkar di pergelangan tanganku yang linu.
+Rasa sakit berdenyut perlahan mereda seiring hangatnya tekanan tangan Aji di kulit tanganku. Dari saku celana jinsnya, ia menarik selembar plester koyo hangat berpori, lalu menempelkannya melingkar di pergelangan tanganku yang linu.
 
 "Terima kasih, Mas," bisikku pelan, membiarkan jemariku kembali rileks.
 
-Bachtiar tersenyum tipis, lalu memungut kuas jati yang terjatuh dan membersihkan ujung bulunya dengan lap basah sebelum menyerahkannya kembali padaku. "Kita selesaikan dua kain terakhir ini bersama-sama. Aku yang tahan bentangan kainnya biar kamu nggak perlu menekan terlalu keras."
+Aji tersenyum tipis, lalu memungut kuas jati yang terjatuh dan membersihkan ujung bulunya dengan lap basah sebelum menyerahkannya kembali padaku. "Kita selesaikan dua kain terakhir ini bersama-sama. Aku yang tahan bentangan kainnya biar kamu nggak perlu menekan terlalu keras."
 
-Aku tersenyum, menyambut kuas itu dengan tekad yang kembali menyala di dada. Kami kembali bekerja dalam keselarasan yang tenang. Bachtiar menahan serat mori dengan kedua tangannya, menjaga ketegangan kain agar tarikan garisku tetap lurus, sementara kuasku menyapu kain dengan sapuan warna yang kembali mantap dan bertenaga.
+Aku tersenyum, menyambut kuas itu dengan tekad yang kembali menyala di dada. Kami kembali bekerja dalam keselarasan yang tenang. Aji menahan serat mori dengan kedua tangannya, menjaga ketegangan kain agar tarikan garisku tetap lurus, sementara kuasku menyapu kain dengan sapuan warna yang kembali mantap dan bertenaga.
 
-Pukul sebelas malam lewat tiga puluh menit, lukisan sayap ayam jago di kain kesepuluh selesai kugoreskan. Bachtiar segera mempres panel QRIS terakhir di samping cakar ayam, menyempurnakan sepuluh spanduk VIP pesanan dinas. Seluruh sepuluh kain ditumpuk rapi di atas meja kerja beralas terpal tebal, menunggu kering sempurna sebelum serah terima besok.
+Pukul sebelas malam lewat tiga puluh menit, lukisan sayap ayam jago di kain kesepuluh selesai kugoreskan. Aji segera mempres panel QRIS terakhir di samping cakar ayam, menyempurnakan sepuluh spanduk VIP pesanan dinas. Seluruh sepuluh kain ditumpuk rapi di atas meja kerja beralas terpal tebal, menunggu kering sempurna sebelum serah terima besok.
 
 Desah napas lega kami bertiga memenuhi ruangan yang pengap oleh uap tiner.
 

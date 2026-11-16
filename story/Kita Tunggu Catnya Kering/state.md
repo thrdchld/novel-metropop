@@ -11,10 +11,10 @@
 - **Bab Terakhir Selesai:** Bab 32 (*Bergabung*)
 - **Bab Berikutnya yang Akan Ditulis:** Selesai / Tamat (32 Bab Lengkap)
 - **Titik Waktu Cerita:** Minggu, Pukul 17.00 WIB (Epilog Cerita)
-- **Lokasi Terkini Tokoh Utama:** Studio Tenda Malam (ruko gabungan Wiwin & Bachtiar), Kalimalang
+- **Lokasi Terkini Tokoh Utama:** Studio Tenda Malam (ruko gabungan Wiwin & Aji), Kalimalang
 - **Cuaca / Suasana Fisik:** Senja hangat keemasan, cat oranye pertama meresap ke serat kain mori baru
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Damai, bersyukur, dan bahagia seutuhnya bersama Bachtiar dan keluarga gang
+- **Kondisi Emosi Tokoh Utama:** Damai, bersyukur, dan bahagia seutuhnya bersama Aji dan keluarga gang
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Minggu (17.00 WIB) | Peresmian Studio Tenda Malam; goresan kuas pertama Wiwin dan Bachtiar |
+| **Hari Ini** | Minggu (17.00 WIB) | Peresmian Studio Tenda Malam; goresan kuas pertama Wiwin dan Aji |
 | **Kemarin (H-1)** | Sabtu | Merenovasi sekat dinding ruko dan menyusun meja kerja kembar |
 | **Pekan Lalu** | Selasa | Malam pembukaan dan kesuksesan akbar 60 spanduk di festival kuliner |
 | **Status Novel** | Tamat | Seluruh 32 bab selesai ditulis dan lulus 22 cek gatekeeper |
@@ -33,13 +33,13 @@
 
 | Pasangan / Relasi | Label SAH Digunakan Saat Ini | Diksi / Label DILARANG Saat Ini | Catatan / Syarat Naik Status |
 |---|---|---|---|
-| **Wiwin & Bachtiar** | "Pemuda ruko seberang / Penyewa baru / Pesaing" | "Teman / Rekan kerja / Mas Bachtiar (sayang)" | Masih saling pandang sinis dan bersaing ruko |
+| **Wiwin & Aji** | "Pemuda ruko seberang / Penyewa baru / Pesaing" | "Teman / Rekan kerja / Mas Aji (sayang)" | Masih saling pandang sinis dan bersaing ruko |
 | **Wiwin & Pak Lik Harto** | "Pak Lik / Paman kandung" | "Bapak / Ayah" | Paman pengganti orang tua |
 | **Wiwin & Cak Qodim** | "Cak Qodim / Ketua Paguyuban / Pelanggan sesepuh" | "Teman biasa" | Tokoh yang disegani |
 
 **Matriks Sapaan Antar-Tokoh Saat Ini:**
-- Wiwin ke Bachtiar: `Belum bertegur sapa / Mas (ketus)`
-- Bachtiar ke Wiwin: `Belum bertegur sapa`
+- Wiwin ke Aji: `Belum bertegur sapa / Mas (ketus)`
+- Aji ke Wiwin: `Belum bertegur sapa`
 - Wiwin ke Pak Lik Harto: `Pak Lik / Kulo / Aku`
 - Wiwin ke Cak Qodim: `Cak Qodim / Cak`
 
@@ -52,7 +52,7 @@
 | **Piring seng blirik hijau loreng** | Wiwin | Meja lantai ruko | Wadah adukan cat oranye stabilo |
 | **Kuas liner bulu musang nomor satu** | Wiwin | Kotak kaleng kuas | Masih kering dan bersih |
 | **Gulungan kain mori primisima** | Wiwin | Lantai semen ruko | Terbentang 4 meter menunggu sketsa |
-| **Mesin cetak digital bekas** | Bachtiar | Di bak mobil pikap seberang | Sedang diturunkan dalam peti kayu |
+| **Mesin cetak digital bekas** | Aji | Di bak mobil pikap seberang | Sedang diturunkan dalam peti kayu |
 | **Inhaler asma biru** | Pak Lik Harto | Meja samping kasur belakang | Sisa semprotan tinggal sedikit |
 
 ---
@@ -60,6 +60,6 @@
 ## V. Log Benih Planting & Callback (Aktif)
 
 - [ ] **Mitos Pantang Lele Lamongan:** Akan ditanam di Bab 2 lewat dialog Cak Qodim dan Pak Lik Harto.
-- [ ] **Noda Cat Kuning Stabilo:** Akan ditanam di Bab 7 pada jaket kanvas Bachtiar.
+- [ ] **Noda Cat Kuning Stabilo:** Akan ditanam di Bab 7 pada jaket kanvas Aji.
 - [ ] **Buku Resep Fosfor Koyak:** Akan ditanam di Bab 12 di laci lemari obat Pak Lik Harto.
 - [ ] **Piring Seng Blirik Hijau:** Muncul perdana di Bab 1 sebagai wadah cat Wiwin.

@@ -18,11 +18,11 @@ Kucuran air deras itu menghujam tepat ke atas meja kerja tempat tumpukan sepuluh
 
 Lantai semen yang licin oleh tumpahan air membuat kakiku hampir tergelincir. Dengan kedua tangan yang gemetar hebat, aku berusaha menarik tumpukan mori putih itu ke sudut kering. Namun kain katun basah berukuran empat meter itu terasa luar biasa berat seperti karung pasir basah. Tetesan air kotor mulai memercik ke lukisan kepala lele yang cat minyaknya belum kering sempurna.
 
-Sebelum air bah merendam seluruh tumpukan kain, tubuh tegap Bachtiar melompat menerjang pusaran air.
+Sebelum air bah merendam seluruh tumpukan kain, tubuh tegap Aji melompat menerjang pusaran air.
 
-Ia menyambar gulungan terpal plastik oranye dari bawah meja, lalu membentangkannya lebar-lebar dengan kedua tangannya. Punggung dan kepalanya langsung basah kuyup tersiram guyuran air talang yang dingin dan berpasir, namun Bachtiar tetap bertahan menutupi tumpukan spanduk dengan badannya sendiri.
+Ia menyambar gulungan terpal plastik oranye dari bawah meja, lalu membentangkannya lebar-lebar dengan kedua tangannya. Punggung dan kepalanya langsung basah kuyup tersiram guyuran air talang yang dingin dan berpasir, namun Aji tetap bertahan menutupi tumpukan spanduk dengan badannya sendiri.
 
-"Pindahkan kainnya ke kamar belakang, Win!" teriak Bachtiar mengatasi raungan petir di atas seng. "Cepat! Aku tahan kucuran airnya di sini!"
+"Pindahkan kainnya ke kamar belakang, Win!" teriak Aji mengatasi raungan petir di atas seng. "Cepat! Aku tahan kucuran airnya di sini!"
 
 Pak Lik Harto muncul dari pintu bilik dengan langkah tertatih, menenteng dua ember plastik hitam dan baskom kaleng bekas cucian. "Taruh di kasur belakang, Win! Kasurnya sudah Pak Lik lapisi plastik tebal! Cepat bawa ke sini!"
 
@@ -34,9 +34,9 @@ Kain keenam berhasil diamankan. Kain kesembilan masuk ke bilik.
 
 Tinggal satu kain terakhir di atas meja semen, terhimpit di bawah kucuran air talang yang semakin deras karena atap seng mulai melengkung turun terbebani angin ribut.
 
-Bachtiar membungkuk lebih rendah, melindungi kain terakhir itu dengan dadanya. Jaket kanvas abu-abunya kini sudah basah lepek dan kotor oleh karat besi cokelat. Air mengalir deras dari rambutnya, menetes melewati kacamata minusnya yang berembun pekat.
+Aji membungkuk lebih rendah, melindungi kain terakhir itu dengan dadanya. Jaket kanvas abu-abunya kini sudah basah lepek dan kotor oleh karat besi cokelat. Air mengalir deras dari rambutnya, menetes melewati kacamata minusnya yang berembun pekat.
 
-"Ambil kain ini, Wiwin!" perintah Bachtiar, menyerahkan gulungan terakhir ke tanganku dengan napas tersengal.
+"Ambil kain ini, Wiwin!" perintah Aji, menyerahkan gulungan terakhir ke tanganku dengan napas tersengal.
 
 Aku menyambar kain itu, lalu memeluknya erat ke dada dan membawanya kabur ke dalam bilik belakang. Begitu kain terakhir mendarat di atas kasur, tangisku nyaris pecah melihat seluruh sepuluh spanduk VIP selamat tanpa tercemar lumpur talang.
 
@@ -46,4 +46,4 @@ Dari arah ruang depan yang gelap, suara desis kabel terbakar mendadak terdengar 
 
 PLETAT! CRRRK!
 
-Percikan api biru menyengat keluar dari ventilasi bawah mesin cetak digital Bachtiar yang terendam rembesan air banjir. Asap tipis berbau sangit logam mulai mengepul dari dalam sasis mesin impor seharga ratusan juta rupiah itu.
+Percikan api biru menyengat keluar dari ventilasi bawah mesin cetak digital Aji yang terendam rembesan air banjir. Asap tipis berbau sangit logam mulai mengepul dari dalam sasis mesin impor seharga ratusan juta rupiah itu.
