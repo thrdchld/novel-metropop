@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Belum dimulai (0 Bab) - Menghadapi Bab 1
-- **Bab Berikutnya yang Akan Ditulis:** Bab 1 (*Koper di Trotoar*)
-- **Titik Waktu Cerita:** Minggu, Pukul 14.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Trotoar depan ruko Jalan Cikini Raya No. 42B, Jakarta Pusat
-- **Cuaca / Suasana Fisik:** Terik siang Jakarta, bau aspal dan knalpot kopaja
+- **Bab Terakhir Selesai:** Bab 32 (*Tuangkan Lagi*) — **TAMAT**
+- **Bab Berikutnya yang Akan Ditulis:** Selesai / Naskah Lengkap (32 Bab Sempurna)
+- **Titik Waktu Cerita:** Minggu Malam, Pukul 20.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Ruang kedai lantai satu & kamar nomor dua ruko Cikini
+- **Cuaca / Suasana Fisik:** Gerimis tipis syahdu di luar ruko, kehangatan semangkuk mi ayam penutup, kedamaian setelah badai reda
 - **POV Aktif:** Renata Kusuma — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Syok, panik, dan cemas menyadari ruko kos barunya adalah kedai mi yang baru saja ia buat anjlok di video viralnya
+- **Kondisi Emosi Tokoh Utama:** Bahagia, tenang, merasa telah menemukan rumah dan kedamaian di Cikini
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Minggu (14.00 WIB) | Renata tiba membawa dua koper di ruko Cikini; syok sadar spanduk Mi Ayam Kencana |
-| **Kemarin (H-1)** | Sabtu | Mengepak barang di kos lama Kebon Sirih yang naik harga |
-| **Dua Minggu Lalu** | - | Video ulasan pedas akun *Kritik Halus* meledak di TikTok, omzet warung anjlok 70% |
-| **Status Novel** | Tahap Persiapan Menulis | Outline 32 bab TERKUNCI v1.0, bersiap menulis Bab 1 |
+| **Hari Ini** | Minggu (19.30–20.30 WIB) | Renata batal pindah kos; kuitansi perpanjangan 6 bulan diterima; semangkuk mi rebusan terakhir berdua |
+| **Kemarin (H-1)** | Sabtu | Antrean 150 porsi tandas; Koh Hendra tanda tangani perpanjangan sewa ruko tahunan Rp25 juta |
+| **Pekan Lalu** | Selasa–Rabu | Rekaman subuh "Dua Belas Menit Sebelum Pintu Buka"; fitnah media sosial berbalik menjadi simpati publik |
+| **Status Novel** | TAMAT (Lengkap 32 Bab) | 32 bab selesai ditulis, 100% lulus uji mekanis prosa & kontinuitas |
 
 ---
 
@@ -33,17 +33,18 @@
 
 | Pasangan / Relasi | Label SAH Digunakan Saat Ini | Diksi / Label DILARANG Saat Ini | Catatan / Syarat Naik Status |
 |---|---|---|---|
-| **Renata & Farhan** | "Pria di dapur / Anak pemilik ruko / Orang asing" | "Teman / Rekan / Mas Farhan (akrab)" | Belum saling bertegur sapa di Bab 1 |
-| **Renata & Pak Subandi** | "Bapak pemilik kos / Pak Subandi" | "Ayah / Mertua" | Pemilik kos yang ramah dan tremor |
-| **Renata & Manda** | "Tetangga kos sebelah / Penghuni kamar tiga" | "Sahabat karib" | Baru bertegur sapa di Bab 2 |
-| **Renata & Galih** | "Rekan kerja kubikel / Teman kantor" | "Pacar / Orang asing" | Rekan kerja di kantor Thamrin |
+| **Renata & Farhan** | "Teman dekat / Rekan saling percaya / Orang rumah" | "Orang asing / Musuh" | Hubungan tumbuh dari salah paham menjadi saling menghormati dan menyayangi secara hangat |
+| **Renata & Pak Subandi** | "Bapak / Pak Subandi / Keluarga" | "Orang asing / Pemilik kos kaku" | Pak Subandi menganggap Renata seperti keluarga sendiri yang menyelamatkan warung |
+| **Renata & Manda** | "Sahabat satu lantai / Tetangga kos akrab" | "Orang asing" | Saling berbagi makanan dan cerita |
+| **Renata & Galih** | "Rekan kerja kantor Thamrin" | "Pacar" | Hubungan profesional di kantor |
 
 **Matriks Sapaan Antar-Tokoh Saat Ini:**
-- Renata ke Farhan: `Belum bertegur sapa (nanti: Mas Farhan bernada ketus)`
-- Farhan ke Renata: `Belum bertegur sapa (nanti: Mbak Renata)`
+- Renata ke Farhan: `Farhan / Han`
+- Farhan ke Renata: `Renata / Ren`
 - Renata ke Pak Subandi: `Pak / Bapak`
-- Renata ke Manda: `Manda / Mbak Manda`
-- Renata ke Galih: `Lih / Galih`
+- Farhan ke Pak Subandi: `Bapak / Pak`
+- Renata ke Manda: `Manda`
+- Renata ke Galih: `Galih / Lih`
 
 ---
 
@@ -51,7 +52,7 @@
 
 | Benda / Aset | Pemegang Saat Ini | Lokasi Terakhir | Status Fisik / Fungsi |
 |---|---|---|---|
-| Dua koper beroda hitam | Renata | Trotoar depan ruko Cikini | Berisi seluruh pakaian dan laptop kerja Renata |
-| Ponsel pintar berlayar retak | Renata | Saku celana jeans Renata | Memuat akun anonim *Kritik Halus* dengan ratusan komentar hujatan |
-| Kunci gembok kuningan | Pak Subandi | Meja kasir ruko | Kunci kamar nomor dua lantai dua |
-| Saringan mi kawat bambu | Farhan | Dapur lantai satu | Alat merebus mi peninggalan keluarga |
+| Kuitansi sewa perpanjangan 6 bulan diskon 50% | Renata | Meja kamar nomor dua | Bukti perpanjangan kos resmi dari Pak Subandi & Farhan |
+| Mangkuk ayam jago & sendok kuah kayu | Renata & Farhan | Meja kayu jati kedai lantai satu | Simbol kehangatan rumah yang selalu dituangkan kembali |
+| Kuitansi sewa ruko tahunan bermeterai Rp25 juta | Pak Subandi | Laci kasir ruko Cikini | Bukti sah perlindungan ruko Mi Ayam Kencana selama satu tahun ke depan |
+| Sendok takar kuningan pusaka 1994 | Farhan | Dapur lantai satu | Estafet kepemimpinan dapur yang telah dibuktikan dengan kejujuran rasa |
