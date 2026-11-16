@@ -13,6 +13,7 @@
 | 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; serat mori merembes 0,4 mm; tes scan HP gagal |
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Bachtiar, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Bachtiar bimbang |
 | 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Bachtiar | Bachtiar bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Bachtiar |
+| 8 | Selasa, 13.00 | Meja kayu ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Bachtiar paparkan proposal QRIS transfer vinil; sepakat bagi hasil 60-40; jabat tangan aliansi |
 
 ## A2. Timeline Masa Lalu
 
@@ -50,6 +51,7 @@
 | 5 | Wiwin | Terguncang & sadar diri | Kuas liner, HP retak | Memahami batas fisik kuas manual | - | Merembesnya cat 0,4 mm menggagalkan scan QRIS |
 | 6 | Wiwin | Tergiur & bimbang | Cangkir kopi hitam | Saling menimbang gengsi vs peluang proyek | Sadar butuh uang 40 juta untuk obat Pak Lik | Tawaran proyek festival 50 spanduk menanti keputusan |
 | 7 | Wiwin | Syok & serba salah | Kuas pipih cat kuning | Masuk ke pusaran kerja sama yang kacau | - | Kain mori lele rusak dan jaket Bachtiar bernoda permanen |
+| 8 | Wiwin | Lega & fokus | Kertas proposal, cangkir seng blirik | Bersekutu secara profesional (60-40) | - | Target 3 hari menyelesaikan prototipe spanduk hibrida |
 
 ## E. Fakta Keras dan Angka
 

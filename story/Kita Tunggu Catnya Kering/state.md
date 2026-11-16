@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 7 (*Kucing Belang*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 8 (*Proposal*)
-- **Titik Waktu Cerita:** Selasa, Pukul 13.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Meja kayu ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Siang hari panas terik, kipas angin besi berdengung berisik di sudut ruangan
+- **Bab Terakhir Selesai:** Bab 8 (*Proposal*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 9 (*Aturan Main*)
+- **Titik Waktu Cerita:** Rabu, Pukul 08.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Ruko seni spanduk Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Pagi hari cerah berdebu, sinar matahari masuk miring dari pintu ruko
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Duduk berhadapan dengan Bachtiar membahas proposal kerja sama teknis dan pembagian keuntungan proyek festival kuliner
+- **Kondisi Emosi Tokoh Utama:** Siap mulai kerja sama tapi risi melihat Bachtiar membawa perlengkapan digitalnya masuk ke wilayah rukonya
 
 ---
 
