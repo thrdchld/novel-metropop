@@ -21,7 +21,8 @@
 | `NOV-001` | `PRM-001` | Narik Ojol Cinta Pun Nongol | `TAMAT` | 24 | 19.136 | Jakarta (Sudirman, Tebet, Thamrin) | 2026 | 2026-10-27 |
 | `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.456 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 | `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `TAMAT` | 32 | 21.613 | Jakarta Selatan (Kebayoran Baru, Mayestik, Cipete) | 2026 | 2026-11-11 |
-| `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `PROSES` | 32 | 21.697 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | - |
+| `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `TAMAT` | 32 | 21.697 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | 2026-11-17 |
+| `NOV-005` | `PRM-005` | Tuangkan Lagi Kuah Itu | `TAMAT` | 32 | 20.865 | Jakarta Pusat (Cikini, Thamrin, Senen) | 2026 | 2026-11-16 |
 
 ---
 
@@ -57,13 +58,23 @@
 
 #### PRM-004: Kita Tunggu Catnya Kering
 - **Proyek Terkait:** `NOV-004` (Folder: `story/Kita Tunggu Catnya Kering/`)
-- **Status:** `DITERIMA / AKTIF` (Tahap Outline Skenario Adegan Terkunci 32 Bab)
+- **Status:** `TAMAT` (32 Bab selesai; audit kronologi dan integrasi selesai, dokumen pendamping tersinkron)
 - **Tanggal Disetujui:** 2026-11-13
 - **Premis ABCD Simpel:**
   - *A (Character):* Dwi Winarsih alias Wiwin (26), wanita pelukis spanduk pecel lele dan soto kain mori manual di ruko Kalimalang peninggalan pamannya, tangannya selalu berbekas cat neon stabilo dan hafal seluruh pakem anatomi hewan tenda malam.
   - *B (Routine):* Setiap hari membentang kain mori di lantai semen, mengoplos cat sablon berbau tiner, dan mengantar pesanan spanduk ke warung tenda demi membiayai obat asma pamannya.
   - *C (Inciting Incident):* Usahanya terancam gulung tikar saat Aji (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan spanduk plastik murah kilat ber-QRIS.
   - *D (Action):* Saat Paguyuban Pedagang Tenda Lamongan mensyaratkan standarisasi 50 spanduk baru yang wajib mempertahankan lukisan tangan tradisi tetapi harus memuat kode QRIS perbankan yang presisi, Wiwin dan Aji terpaksa menyatukan kuas manual dan mesin cetak digital di satu meja, hingga kolaborasi bau tiner dan desing mesin meluluhkan ego mereka berdua.
+
+#### PRM-005: Tuangkan Lagi Kuah Itu
+- **Proyek Terkait:** `NOV-005` (Folder: `story/Tuangkan Lagi Kuah Itu/`)
+- **Status:** `TAMAT` (32 Bab Selesai, 100% Lulus Uji Kelayakan)
+- **Tanggal Disetujui:** 2026-11-16
+- **Premis ABCD Simpel:**
+  - *A (Character):* Renata Kusuma (26), analis data korporat logistik di Thamrin yang mengelola akun media sosial ulasan kuliner anonim *Kritik Halus*; berlidah sangat peka, mandiri, gengsian, dan takut dituduh tidak berintegritas.
+  - *B (Routine):* Setiap hari berkutat dengan data pengiriman barang di kubikel kantor, berburu tempat makan kaki lima sepulang kerja untuk membuat video ulasan jujur tanpa endorse, dan hidup hemat di kamar kos murah demi menjaga tabungan darurat.
+  - *C (Inciting Incident):* Video ulasan 60 detiknya yang mengkritik pedas kedai legendaris *Mi Ayam Kencana* di Cikini membuat omzet warung anjlok 70% tepat saat Farhan Ardiansyah (28), mantan asisten koki hotel berbintang, terpaksa berhenti kerja untuk pulang menyelamatkan usaha ayahnya yang baru terkena stroke ringan; sementara Renata tanpa sadar membayar lunas sewa 3 bulan di kamar kos lantai dua tepat di atas kedai tersebut.
+  - *D (Action):* Terjebak dalam satu ruko dengan uang sewa yang sudah telanjur terpakai untuk membayar utang tepung distributor, Renata dan Farhan terlibat perang dingin di dapur lantai satu hingga keduanya menemukan bahwa teori hotel dan ulasan media sosial tidak ada artinya tanpa memahami keringat nyata di balik semangkuk mi, menuntun mereka berkolaborasi menyempurnakan resep legendaris di tengah ancaman penggusuran sewa ruko.
 
 ### B. Premis Cadangan / Backlog (`CADANGAN / BACKLOG`)
 
@@ -125,6 +136,14 @@
 | Parlindungan Siregar | Bang Parlin | `NOV-004` | Sekutu / Tetangga | Pemilik Tambal Ban Tubeles Ruko Sebelah | Ceplas-ceplos Batak, kompresor anginnya sering meletup di jam genting | `Boleh (Tingkat 1-3)` |
 | Puji Lestari | Mbak Pur | `NOV-004` | Sekutu / Penengah | Pemilik Warkop Kopi Seduh & Gorengan Samping Ruko | Pengamat gosip trotoar, tempat tukar uang receh dan sarapan bakwan | `Boleh (Tingkat 1-3)` |
 | Haris Munandar | Pak Haris | `NOV-004` | Antagonis | Pemilik Percetakan Mitra Graha Pulogadung | Oportunis, arogan, suka banting harga untuk mematikan usaha rakyat kecil | `Boleh (Tingkat 1-2)` |
+| Renata Kusuma | Renata / Ren | `NOV-005` | Protagonis | Analis Data Logistik & Reviewer Medsos *Kritik Halus* | Mandiri, lidah peka, defensif gengsi tinggi, takut dicap terbeli | `Boleh (Tingkat 1-3)` |
+| Farhan Ardiansyah | Farhan / Mas Farhan | `NOV-005` | Love Interest | Eks-Asisten Koki Hotel / Penerus Kedai Mi Ayam Kencana | Metodis, perfeksionis, keras kepala, idealis hotel vs realitas jalanan | `Boleh (Tingkat 1-3)` |
+| Subandi | Pak Subandi / Pak Bandi | `NOV-005` | Tetua / Ayah | Pendiri Kedai Mi Ayam Kencana Cikini Sejak 1994 | Sabar, tremor pasca-stroke, memegang resep insting dan sendok kuningan | `Boleh (Tingkat 1-2)` |
+| Danisa | Danisa / Nisa | `NOV-005` | Keluarga / Sekutu | Kasir Kedai Mi Ayam Kencana & Mahasiswi | Pengamat tajam, hemat bicara, penjaga ketenangan warung | `Boleh (Tingkat 1-3)` |
+| Gito | Pakde Gito | `NOV-005` | Sekutu / Karyawan | Pelayan Tua Dapur Rebusan Mi Warung | Setia kawan, teledor jika tak diawasi (sumber air rebusan tajin) | `Boleh (Tingkat 1-2)` |
+| Manda | Manda | `NOV-005` | Sahabat / Tetangga | Teller Bank Swasta Menteng (Kamar No. 3 Kos Cikini) | Ceria, ceplas-ceplos, pelanggan setia mi ayam, saksi mata lorong | `Boleh (Tingkat 1-3)` |
+| Galih | Galih | `NOV-005` | Rekan Kerja / Sekutu | Analis Data Korporat Thamrin (Kubikel Seberang) | Santai, cermin reaksi netizen, pemburu diskon makan siang | `Boleh (Tingkat 1-3)` |
+| Hendra | Koh Hendra | `NOV-005` | Pemilik Properti | Pemilik Gedung Ruko Dua Lantai Cikini Raya | Realistis, teman lama keluarga Bandi, penegak tenggat sewa 30 hari | `Boleh (Tingkat 1-2)` |
 
 ### Aturan Anti-Duplikasi Tokoh untuk Novel Baru:
 1. **Proteksi Nama Protagonis:** Dilarang menamai tokoh utama baru dengan nama "Ayu" atau "Rian", atau nama panggilan yang berbunyi mirip.
@@ -147,6 +166,9 @@
 - **Warung Tenda Pecel Lele Cak Qodim (Kalimalang):** Tenda kuliner legendaris dua petak beratap terpal oranye-biru di dekat perempatan lampu merah Kalimalang, pusat paguyuban tenda Lamongan.
 - **Ruko Seni Spanduk Pak Lik Harto (Kalimalang):** Ruko 1,5 lantai berlantai semen dingin tempat pembuatan spanduk kain mori manual dengan cat neon stabilo.
 - **Warkop Mbak Pur (Kalimalang):** Warung kopi seduh dan gorengan samping bengkel tambal ban Bang Parlin tempat nongkrong warga gang dan sopir ojol.
+- **Kedai Mi Ayam Kencana (Cikini Raya 42B):** Ruko tua berlantai dua dengan ubin tegel abu-abu klasik tahun 80-an, gerobak dandang tembaga, dan kompor semawar legendaris sejak 1994.
+- **Kos Ruko Cikini 42B (Lantai 2):** Hunian kos empat pintu berdinding triplek dengan pintu teralis samping terpisah tempat Renata dan Manda menyewa kamar.
+- **Pasar Senen (Blok Unggas & Bumbu Subuh):** Pusat perdagangan bahan baku segar di Jakarta Pusat tempat perburuan tulang kerongkong ayam kampung dan sawi hijau dini hari.
 
 ### B. Perusahaan, Agensi, & Entitas Bisnis
 - **BuzzMedia Digital:** Agensi pemasaran dan periklanan digital di kawasan Jakarta Selatan milik Reza Mahendra yang pernah terlibat kasus kampanye hitam online (kode faktur: `INV/BMD-JKT`).
