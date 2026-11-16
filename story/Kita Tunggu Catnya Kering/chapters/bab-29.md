@@ -4,7 +4,7 @@ Bang Parlin berdiri di atas tangga lipat, mengikat simpul tali tambang pada kera
 
 Menjelang siang, kawasan festival kuliner di Cawang mulai ramai oleh orang-orang yang menyiapkan tempat. Para pedagang mendirikan tenda, membentangkan terpal, menyusun meja, dan menata peralatan masak. Tidak ada yang bekerja sendirian. Pedagang soto membantu pemilik warung pecel lele, sementara anak-anak muda mengangkut bangku dan gulungan kain.
 
-Enam puluh spanduk mori dibawa dengan dua mobil bak terbuka. Kami membaginya menjadi beberapa kelompok sesuai nomor warung. Setiap kain sudah diberi label, nama pemilik, dan nomor tenda agar tidak tertukar.
+Enam puluh spanduk mori dibawa dari ruko dengan dua mobil bak terbuka. Lima puluh spanduk utama yang semula dijadwalkan dikirim pada Senin tetap disimpan di ruko setelah jadwal pemasangan berubah. Sepuluh spanduk VIP yang baru selesai juga sudah diberi label. Kami membaginya menjadi beberapa kelompok sesuai nomor warung agar tidak tertukar.
 
 "Kelompok satu, pasang dari ujung sana!" seru Cak Qodim. "Jangan buka semua gulungan sekaligus. Nanti kainnya kena debu."
 
