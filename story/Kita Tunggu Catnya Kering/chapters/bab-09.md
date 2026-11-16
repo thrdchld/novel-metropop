@@ -8,64 +8,110 @@ Pekikanku membuat Aji berhenti di ambang pintu. Pukul delapan pagi, ia datang me
 
 "Bagus. Berarti kita bisa mulai dengan tidak saling mengganggu."
 
-Aji meletakkan meja di sisi timur ruko, dekat jendela. Laptop, penggaris, alat potong kecil, dan beberapa lembar bahan uji ia susun di atasnya. Sementara itu, sisi barat tetap menjadi wilayahku: kain mori, kaleng cat, kuas, dan meja rendah yang sudah penuh bekas warna.
+Aji meletakkan meja di sisi timur ruko, dekat jendela. Ia mengeluarkan laptop, penggaris, alat potong kecil, dan beberapa lembar bahan uji. Satu per satu barang itu disusun di atas meja. Sebelum membuka laptop, ia mengelap permukaannya dengan kain kering.
 
-Ia mengeluarkan lakban hitam dari kotak perkakas, lalu menempelkan sepotong di lantai sebagai penanda batas.
+Aku memperhatikan dari meja lukis. "Kalau mau bersih, jangan cuma mejanya. Lantai dekat jendela itu sering kemasukan debu."
 
-Aku memandang garis itu. "Kita mau kerja bareng atau membagi negara?"
+"Aku tahu. Makanya meja ini tidak kutaruh dekat pintu."
 
-"Ini supaya alat dan bahan kita tidak bercampur. Area digital perlu bersih. Kalau debu atau serpihan cat menempel pada bahan transfer, hasilnya bisa cacat."
+"Debu tetap masuk dari jendela."
 
-"Kalau begitu, jangan taruh mejamu dekat pintu. Setiap motor lewat, debu masuk."
+Aji menoleh ke arah jendela nako yang sebagian kacanya terbuka. Ia memeriksa celahnya, lalu menggeser meja beberapa sentimeter menjauh.
 
-Aji melihat ke arah jalan. "Meja ini memang lebih baik dekat jendela. Aku bisa menutupnya kalau sedang mencetak."
+Sementara itu, sisi barat tetap menjadi wilayahku. Kain mori, kaleng cat, kuas, dan beberapa potongan kain uji memenuhi meja rendah. Aku sengaja menyisakan ruang di tengah agar kami bisa membentangkan sketsa bersama. Ruang itu belum tentu akan dipakai, tetapi setidaknya kami tidak perlu saling menyuruh mengangkat barang setiap kali hendak berdiskusi.
 
-"Kalau ditutup terus, catku lama kering."
+Aji mengeluarkan lakban hitam dari kotak perkakas.
 
-Ia mengamati kipas besi tua di sudut ruangan. "Kita perlu sirkulasi, tapi jangan diarahkan langsung ke bahan transfer. Lembaran tipis bisa terbang."
+Aku mengangkat alis. "Kita mau kerja bareng atau membagi negara?"
 
-"Catku juga perlu kering. Aku tidak mau semua kipas hanya mengarah ke laptopmu."
+"Supaya alat dan bahan tidak bercampur." Ia berjongkok, lalu menempelkan lakban dari dekat pintu menuju kaki dinding. "Sisi timur untuk pekerjaan digital. Sisi barat untuk lukisanmu."
 
-Aji menggeser kipas ke tengah ruangan, lalu mengarahkannya sedikit ke atas. "Begini dulu. Kalau catmu masih lama kering, kita atur lagi."
+Aku memandang garis hitam yang membelah lantai. "Kalau ada yang perlu dikerjakan bersama?"
 
-Aku memeriksa arah anginnya. Tidak terlalu kuat, tetapi cukup membuat ujung kain bergerak. "Boleh. Asal kalau aku bilang terlalu kencang, jangan berdebat."
+"Ya menyeberang saja. Ini penanda, bukan pagar listrik."
 
-"Kalau aku bilang debu masuk ke meja, kamu juga jangan berdebat."
+"Bagus. Aku tidak mau minta izin dulu kalau harus mengambil penggaris."
 
-"Belum tentu."
+"Selama dikembalikan."
 
-Ia menyerahkan satu gelas kopi kepadaku. Aku menerimanya, lalu menyingkirkan gelas itu dari dekat kain. Aji memperhatikan gerakanku.
+"Kalau kamu mengambil kuasku?"
 
-"Setidaknya kita sepakat minuman tidak boleh dekat bahan."
+"Aku akan minta izin."
 
-"Karena aku tidak mau kopi tumpah ke lukisan. Bukan karena aturanmu."
+"Perkembangan yang bagus."
 
-Aji membuka buku catatan dan menulis beberapa poin. Ia mencatat tempat menyimpan alat, posisi meja, dan cara membersihkan permukaan sebelum panel QRIS diterapkan. Aku menambahkan bahwa kuas yang sudah dipakai harus dibersihkan dan dikembalikan ke tempatnya. Ia mengingatkanku agar potongan kain uji tidak diletakkan di atas bahan transfer.
+Aji berdiri dan menepuk kedua telapak tangannya. Ia menunjuk kipas besi tua di sudut ruangan. "Kipasnya sebaiknya jangan diarahkan langsung ke meja ini. Debu dan serpihan kecil bisa menempel pada bahan transfer."
 
-"Kalau kita mau membuat prototipe, kita perlu ukuran yang sama," katanya. "Kamu tentukan komposisi gambar. Aku siapkan posisi kotak QRIS. Sebelum mulai, kita cocokkan sketsanya."
+"Catku juga perlu kering. Kalau kipasnya dimatikan, kita bisa menunggu sampai besok."
 
-"Jangan mengubah gambar tanpa bilang."
+Ia mengamati posisi meja, lalu menggeser kipas ke tengah ruangan. Arah anginnya dibuat sedikit ke atas, tidak langsung menghantam kain maupun meja digital.
 
-"Dan jangan memindahkan kotak QRIS setelah ukurannya disepakati."
+"Begini dulu," katanya. "Kalau terlalu kencang untuk kainmu, bilang."
 
-"Kalau ternyata mengganggu gambar?"
+"Kalau debu masuk ke mejamu, kamu juga bilang. Tapi jangan langsung menyalahkan kipas."
 
-"Kita bicarakan. Bukan langsung menggesernya."
+"Aku akan menyalahkan sumbernya setelah memeriksa."
 
-Aku mengambil kuas, lalu menunjuk garis lakban di lantai. "Batas ini juga jangan dianggap aturan mati. Kalau ada pekerjaan yang perlu dilakukan bersama, kita boleh menyeberang."
+"Termasuk kalau sumbernya aku?"
 
-Aji menatapku sejenak. "Baik. Asal alat dikembalikan ke tempatnya."
+"Terutama kalau sumbernya kamu."
 
-"Kalau begitu, gelas kopimu juga jangan ditinggal di meja sampai sore."
+Aku mendengus. Setidaknya, untuk urusan kipas kami tidak perlu berdebat lebih lama.
 
-Ia melirik gelas plastik yang masih di tangannya, lalu membawanya ke tempat sampah.
+Aji menyerahkan satu gelas kopi. Aku menerimanya, lalu memindahkannya ke rak dekat pintu, jauh dari kain dan peralatan.
 
-Kami mulai bekerja. Aku mengukur bidang kain, sementara Aji menyiapkan ukuran panel QRIS pada laptop. Ia mencetak sketsa sederhana di kertas, lalu meletakkannya di samping gambar lele yang sedang kukerjakan.
+"Minuman jangan dekat bahan," kataku.
 
-"Kalau kotaknya di sini, ekornya bisa tetap panjang," katanya.
+"Setuju."
 
-Aku menggeser kertas itu sedikit. "Tapi tulisan nama warung jangan terlalu dekat dengan gambar. Orang harus bisa membacanya dari jalan."
+"Jangan senang dulu. Itu aturan ruko, bukan aturanmu."
 
-Aji mengukur ulang. Kali ini ia tidak langsung membantah. Ia mencatat ukuran baru dan menunjukkan hasilnya kepadaku sebelum menyimpan file.
+Ia mengangkat gelasnya sendiri. "Aku belum mengklaim apa-apa."
 
-Garis lakban hitam masih membelah lantai. Bedanya, sekarang aku tahu garis itu bukan tembok. Setidaknya, belum tentu.
+Kami mulai menyusun aturan kerja. Aji membuka buku catatan dan menulis tempat penyimpanan alat, cara membersihkan meja sebelum panel QRIS diterapkan, serta ukuran bidang yang harus disisakan pada setiap spanduk. Aku menambahkan bahwa kuas yang selesai dipakai harus dibersihkan dan dikembalikan ke wadahnya. Cat yang masih bisa digunakan tidak boleh dibiarkan terbuka semalaman.
+
+"Untuk prototipe, kita pakai satu ukuran dulu," kata Aji. "Kamu tentukan komposisi gambar. Aku siapkan posisi kotak QRIS berdasarkan ukuran yang sudah disepakati."
+
+"Nama warung juga harus terbaca. Jangan sampai gambar lelemu—maksudku, gambar leleku—menutupi tulisan."
+
+"Makanya aku perlu melihat sketsanya sebelum menyiapkan file."
+
+"Dan jangan mengubah gambar tanpa bilang."
+
+"Jangan memindahkan kotak QRIS setelah ukurannya kita sepakati."
+
+"Kalau ternyata mengganggu komposisi?"
+
+"Kita bicarakan dan ukur ulang. Jangan menggeser sepihak."
+
+Aku mengambil selembar kertas bekas, lalu menggambar bidang kain dengan kotak kecil di sudut kanan bawah. Aji mendekat, tetapi tetap berdiri di sisi lain garis lakban.
+
+"Kalau kotaknya di sini, ekor lele masih bisa panjang," katanya sambil menunjuk bagian tengah.
+
+Aku menggeser sketsa sedikit. "Tapi nama warung harus punya jarak. Orang yang lewat tidak akan berhenti lama-lama cuma untuk membaca."
+
+Aji mengambil penggaris, menghitung ulang ruang yang tersedia, lalu mencatat ukuran baru. Ia tidak langsung menyanggah seperti biasanya. Setelah selesai, ia menunjukkan catatannya kepadaku sebelum memasukkannya ke laptop.
+
+"Begini bisa?" tanyanya.
+
+Aku memeriksa sekali lagi. "Bisa untuk dicoba. Belum tentu cocok setelah jadi."
+
+"Memang belum ada yang kita anggap pasti."
+
+Jawabannya membuatku sedikit terdiam. Aku mengira ia akan kembali membela perhitungannya, tetapi kali ini ia mengakui bahwa ukuran di atas kertas belum tentu bekerja di kain.
+
+Kami melanjutkan pekerjaan masing-masing. Aku menyiapkan potongan mori untuk gambar uji, sedangkan Aji mencari ukuran panel yang sesuai dengan ruang kosong pada sketsa. Sesekali kami bertukar penggaris atau meminta pendapat, meski tak satu pun dari kami mau mengakui bahwa bekerja bersama ternyata lebih praktis daripada saling menghalangi.
+
+Menjelang siang, garis lakban hitam masih membelah lantai. Aku melewatinya untuk mengambil penggaris panjang yang tertinggal di meja Aji. Ia hanya mengangkat pandangan dari laptop.
+
+"Jangan lupa dikembalikan."
+
+"Aku tahu."
+
+"Dan jangan menginjak kabel."
+
+Aku menunduk. Kabel laptopnya memang melintang dekat kakiku.
+
+"Kalau begitu, rapikan kabelmu."
+
+Aji segera menggulung bagian kabel yang berlebih. Garis lakban itu ternyata belum membuat kami akur. Namun setidaknya, sekarang kami mulai tahu bagaimana caranya bekerja tanpa membuat satu sama lain kehilangan kesabaran setiap lima menit.
