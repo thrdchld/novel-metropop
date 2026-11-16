@@ -14,6 +14,7 @@
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Bachtiar, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Bachtiar bimbang |
 | 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Bachtiar | Bachtiar bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Bachtiar |
 | 8 | Selasa, 13.00 | Meja kayu ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Bachtiar paparkan proposal QRIS transfer vinil; sepakat bagi hasil 60-40; jabat tangan aliansi |
+| 9 | Rabu, 08.00 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar | Bachtiar pasang garis lakban hitam pembatas ruko; Wiwin balas dengan hembusan kipas angin nomor tiga |
 
 ## A2. Timeline Masa Lalu
 
@@ -52,6 +53,7 @@
 | 6 | Wiwin | Tergiur & bimbang | Cangkir kopi hitam | Saling menimbang gengsi vs peluang proyek | Sadar butuh uang 40 juta untuk obat Pak Lik | Tawaran proyek festival 50 spanduk menanti keputusan |
 | 7 | Wiwin | Syok & serba salah | Kuas pipih cat kuning | Masuk ke pusaran kerja sama yang kacau | - | Kain mori lele rusak dan jaket Bachtiar bernoda permanen |
 | 8 | Wiwin | Lega & fokus | Kertas proposal, cangkir seng blirik | Bersekutu secara profesional (60-40) | - | Target 3 hari menyelesaikan prototipe spanduk hibrida |
+| 9 | Wiwin | Puas & jahil | Kuas, tombol kipas angin | Perang dingin batas lakban hitam | - | Menjaga wilayah ruko di tengah kerja sama hibrida |
 
 ## E. Fakta Keras dan Angka
 

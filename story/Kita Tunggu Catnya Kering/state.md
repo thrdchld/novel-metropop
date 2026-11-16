@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 8 (*Proposal*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 9 (*Aturan Main*)
-- **Titik Waktu Cerita:** Rabu, Pukul 08.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Pagi hari cerah berdebu, sinar matahari masuk miring dari pintu ruko
+- **Bab Terakhir Selesai:** Bab 9 (*Aturan Main*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 10 (*Stiker*)
+- **Titik Waktu Cerita:** Kamis, Pukul 15.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Lantai kerja ruko seni spanduk Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Sore hari gerah mendung, udara lembap bertekanan rendah
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Siap mulai kerja sama tapi risi melihat Bachtiar membawa perlengkapan digitalnya masuk ke wilayah rukonya
+- **Kondisi Emosi Tokoh Utama:** Menguji ketahanan stiker vinil QRIS buatan Bachtiar di atas kain mori basah dengan simulasi semprotan air
 
 ---
 
