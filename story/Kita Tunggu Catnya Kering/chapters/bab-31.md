@@ -50,4 +50,16 @@ Tangan kirinya menyentuh tanganku. Kali ini aku membiarkannya menggenggam jemari
 
 Aji mengangguk. "Pelan-pelan saja."
 
-Kami kembali masuk ke tenda saat Pak Lik memanggil untuk mengambil sisa nasi uduk. Malam itu belum menjadi jawaban untuk semua persoalan, tetapi setidaknya kami mulai bisa membicarakan hari esok tanpa saling curiga.
+Kami kembali masuk ke tenda saat Pak Lik memanggil untuk mengambil sisa nasi uduk. Ia sedang bercerita kepada Cak Qodim bahwa dulu ia pernah melukis spanduk sampai pagi hanya untuk mengejar pesanan pembukaan warung.
+
+"Bedanya, dulu tidak ada QRIS," kata Pak Lik.
+
+"Kalau dulu ada, mungkin Pak Lik sudah minta orang bayar uang muka lewat ponsel," sahut Aji.
+
+Pak Lik tertawa. "Kalau begitu saya juga minta kalian kirim bukti transfer sebelum mulai melukis."
+
+Cak Qodim ikut tertawa. "Sekarang semua orang bisa jadi mandor."
+
+Aku mengambil piring dari tangan Aji agar ia tidak perlu menggunakan tangan yang terluka. Ia sempat protes, tetapi akhirnya membiarkanku membantu. Di luar, para pedagang masih sibuk melayani pengunjung. Ada yang sudah kehabisan lele, ada yang meminta tambahan nasi, dan ada yang menghitung uang hasil penjualan.
+
+Malam itu belum menjadi jawaban untuk semua persoalan. Mesin Aji masih harus diperiksa, pembayaran proyek belum seluruhnya selesai, dan kami belum tahu apakah usaha bersama akan berjalan. Namun setidaknya kami mulai bisa membicarakan hari esok tanpa saling curiga.
