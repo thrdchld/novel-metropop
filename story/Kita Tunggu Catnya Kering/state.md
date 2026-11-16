@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 21 (*Tes Scan*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 22 (*Inspeksi*)
-- **Titik Waktu Cerita:** Jumat, Pukul 10.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Ruko Wiwin Kalimalang
-- **Cuaca / Suasana Fisik:** Pagi menjelang siang, matahari Kalimalang terik, pelataran dipenuhi spanduk hibrida yang lolos uji
+- **Bab Terakhir Selesai:** Bab 22 (*Inspeksi*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 23 (*Cangkir Kopi*)
+- **Titik Waktu Cerita:** Sabtu, Pukul 16.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Teras ruko Wiwin & warkop Mbak Pur, Kalimalang
+- **Cuaca / Suasana Fisik:** Sore teduh berangin sejuk, deru lalu lintas akhir pekan mulai ramai
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Puas dan waspada mengawal penandatanganan berita acara serah terima resmi
+- **Kondisi Emosi Tokoh Utama:** Hangat, tenang, dan mulai membuka hati sambil menikmati secangkir kopi hitam
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Jumat (10.00 WIB) | Uji scan 50 spanduk lolos mutlak; penandatanganan berita acara inspeksi |
-| **Kemarin (H-1)** | Kamis | Belanja mori ke Tanah Abang dan gerilya sablon malam |
-| **Dua Hari Lalu (H-2)** | Rabu | Curhat di tangga ruko lantai dua soal masa lalu PHK |
-| **Tenggat / Acara Mendatang** | Hari Ini (12.00 WIB) | Pencairan termin kedua dana proyek paguyuban festival |
+| **Hari Ini** | Sabtu (16.30 WIB) | Menikmati sore santai merayakan kemenangan verifikasi spanduk |
+| **Kemarin (H-1)** | Jumat | Uji scan dan penandatanganan berita acara kelayakan oleh Pak Haris |
+| **Dua Hari Lalu (H-2)** | Kamis | Belanja mori ke Tanah Abang dan gerilya sablon malam |
+| **Tenggat / Acara Mendatang** | Senin Depan | Pemasangan serentak 50 tenda festival di jalan protokol kota |
 
 ---
 

@@ -27,6 +27,7 @@
 | 19 | Kamis, 23.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Cak Qodim, Pak Lik Harto | Produksi maraton gerilya malam; tiner tumpah diserap serbuk kayu; Cak Qodim bawakan nasi uduk; 25 kain berkibar |
 | 20 | Jumat, 04.30 | Bengkel tambal ban Bang Parlin | Wiwin, Bachtiar, Bang Parlin | Rakit blower panas kompresor; 10 kain terakhir kering tepat waktu; iring-iringan dinas tiba |
 | 21 | Jumat, 07.00 | Pelataran ruko Wiwin | Wiwin, Bachtiar, Pak Haris, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim | Tes scan mendadak 50 spanduk hibrida; 49 kain tembus instan; kain ke-50 diuji HP retak seribu Mbak Pur dan lolos |
+| 22 | Jumat, 11.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Cak Qodim, Pak Haris | Cak Qodim uji kelenturan kain mori; Pak Haris tanda tangani BAPHP kelayakan; cap jempol ungu sesepuh |
 
 ## A2. Timeline Masa Lalu
 
@@ -78,6 +79,7 @@
 | 19 | Wiwin | Berpeluh & penuh daya juang | Kuas, rakel sablon, serbuk gergaji | Solidaritas tempur gotong royong | - | Menuntaskan 25 kain tersisa sebelum inspeksi subuh |
 | 20 | Wiwin | Tegang lalu lega | Corong seng kompresor, kain mori ke-50 | Bersatu padu dengan tetangga bengkel | - | Menghadapi inspeksi mendadak mobil dinas Pak Haris |
 | 21 | Wiwin | Tegang lalu bangga | Kain mori ke-50, HP retak Mbak Pur | Berdiri bersisian membela martabat usaha | - | Penandatanganan berita acara serah terima proyek |
+| 22 | Wiwin | Puas & waspada | Berita acara BAPHP, pulpen hitam | Bersama Cak Qodim mengunci kemenangan atas dinas | - | Persiapan pemasangan 50 tenda festival |
 
 ## E. Fakta Keras dan Angka
 
