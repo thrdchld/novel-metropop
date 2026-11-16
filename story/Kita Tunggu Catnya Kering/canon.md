@@ -1,4 +1,4 @@
-# Canon — Kuas Neon di Tenda Malam
+# Canon — Kita Tunggu Catnya Kering
 
 > Status: TERKUNCI
 > Versi: v1.0
@@ -6,7 +6,7 @@
 
 ## 1. Identitas Cerita
 
-- **Judul:** Kuas Neon di Tenda Malam
+- **Judul:** Kita Tunggu Catnya Kering
 - **Genre:** MetroPop (Cerita Harian Indonesia / Urban Craftsmanship Rom-Com)
 - **Target pembaca:** 13+
 - **Panjang:** 32 bab × ±750 kata (rentang wajib 600-900 kata/bab)

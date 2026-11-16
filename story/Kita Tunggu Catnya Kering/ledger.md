@@ -1,4 +1,4 @@
-# Story Ledger — Kuas Neon di Tenda Malam
+# Story Ledger — Kita Tunggu Catnya Kering
 
 > Dokumen hidup. Perbarui setelah setiap bab. Fakta hanya sah jika ada di sini atau di teks bab yang sudah disetujui.
 

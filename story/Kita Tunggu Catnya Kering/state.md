@@ -1,4 +1,4 @@
-# Continuity State — Kuas Neon di Tenda Malam
+# Continuity State — Kita Tunggu Catnya Kering
 
 > **File Penjaga Kondisi Aktif Cerita (Engine v2.4)**
 > Dokumen ini adalah peta keadaan langsung (*live state snapshot*) cerita di garis depan penulisan (*writing frontier*).
@@ -9,7 +9,7 @@
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
 - **Bab Terakhir Selesai:** Belum ada (Menjelang Bab 1)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 1 (*Aroma Tiner Jam Empat Subuh*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 1 (*Bukan Mesin Fotokopi*)
 - **Titik Waktu Cerita:** Selasa, Pukul 04.30 WIB
 - **Lokasi Terkini Tokoh Utama:** Lantai semen ruko bengkel spanduk kain mori, Kalimalang, Jakarta Timur
 - **Cuaca / Suasana Fisik:** Udara subuh dingin berkabut tipis, aroma knalpot truk pasir bercampur bau tiner cat tekstil
