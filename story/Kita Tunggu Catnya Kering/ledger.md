@@ -14,15 +14,15 @@
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Aji, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Aji bimbang |
 | 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Aji | Aji bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Aji |
 | 8 | Selasa, 13.00 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Menyepakati kerja sama dan pembagian hasil; pembagian dihitung dari laba bersih setelah biaya proyek. |
-| 9 | Rabu, 08.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji pasang garis lakban hitam pembatas ruko; Wiwin balas dengan hembusan kipas angin nomor tiga |
-| 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Uji semprot air gagal; stiker vinil menggelembung dan robek saat ditekan squeegee; cara instan gugur |
-| 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin traktir makan lele kobokan; Aji luluh makan pakai tangan dan cicip sambal terasi |
+| 9 | Rabu, 08.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji memasang garis lakban sebagai batas area kerja; mereka mengatur posisi meja, kipas, alat, dan aturan memakai ruang bersama |
+| 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Bahan transfer pertama berkerut mengikuti tekstur mori dan sudutnya terangkat saat kain dilipat; bahan itu dinyatakan belum cocok |
+| 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin dan Aji makan malam; Aji tetap memakai sendok, tetapi mulai menghargai pengalaman Wiwin dan suasana warung |
 | 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin membuka catatan bahan lama Pak Lik; mereka menjadikannya referensi eksperimen, bukan formula QRIS |
 | 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Aji | Aji mencatat hasil uji beberapa campuran; tidak ada formula yang langsung dianggap sempurna |
 | 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Aji, Bang Parlin | Prototipe panel QRIS digital berhasil dipasang dengan mesin pres termal pinjaman dan terbaca saat diuji; Haris tiba setelah melihat hasilnya |
 | 15 | Minggu, sekitar 16.15 | Ruko Wiwin | Wiwin, Aji, Pak Haris | Kunjungan Haris berlanjut dari akhir Bab 14; ia datang sebagai pemilik Mitra Graha/konsultan, bukan pejabat dinas. |
 | 16 | Minggu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji bercerita tentang PHK dan portofolio; Wiwin menceritakan kuliah seni yang batal; keduanya mulai memahami alasan masing-masing |
-| 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Borong 50 gulung mori primisima katun; Bang Rahmat kabarkan lobi gelap Pak Haris dan Mitra Graha |
+| 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Membeli 50 gulung mori primisima; Bang Rahmat mengabarkan Haris sedang menawarkan Mitra Graha sebagai vendor pengganti |
 | 18 | Kamis, 07.30 | Warung dekat stasiun | Wiwin, Aji, Bang Rahmat | Kabar peninjauan kesiapan yang akan dilakukan beberapa hari lagi; sumber informasi Bang Rahmat berasal dari sopir dekat kantor dinas, bukan akses jabatan. |
 | 19 | Beberapa hari setelah Bab 18 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi bertahap dimulai setelah persetujuan prototipe; tiap QRIS dicocokkan dengan merchant pemiliknya. |
 | 20 | Hari keenam masa produksi | Ruko Wiwin dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin | Empat puluh kain telah lolos pemeriksaan visual; sepuluh lainnya masih dikerjakan. Pengeringan memakai sirkulasi udara dan jarak antarkain. |
