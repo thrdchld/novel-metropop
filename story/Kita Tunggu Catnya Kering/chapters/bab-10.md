@@ -1,67 +1,95 @@
 ## Bab 10: Stiker
 
-Aji meletakkan selembar bahan transfer putih di atas meja. Ukurannya sedikit lebih besar daripada kotak QRIS yang sudah kami siapkan.
+Kamis sore, Aji datang membawa beberapa lembar bahan yang digulung dalam tabung karton. Ia meletakkannya di meja digital, lalu mengeluarkan satu lembar berwarna putih dari kemasannya.
 
-"Ini bukan stiker vinil biasa," katanya. "Bahan ini memang dibuat untuk dipindahkan ke permukaan kain."
+"Ini bahan pertama yang bisa kita coba," katanya.
 
-Aku menyentuh ujungnya. Permukaannya licin, sementara bagian belakangnya dilapisi kertas pelindung.
+Aku mendekat. Permukaannya licin dan sedikit mengilap. Di bagian belakangnya ada kertas pelindung yang bisa dilepas.
 
-"Kalau begitu, kenapa bentuknya mirip stiker?"
+"Kelihatannya seperti stiker."
 
-"Karena memang ada lapisan perekatnya. Bedanya, cara memasangnya harus mengikuti petunjuk bahan. Kita coba di potongan kain dulu."
+"Memang jenis vinil berperekat. Pemasok bilang bisa dipakai untuk banyak permukaan."
 
-Aku melirik kain mori yang sudah kusiapkan. "Jangan langsung di kain yang gambarnya sudah selesai."
+"Termasuk kain?"
 
-"Makanya saya bawa sampel."
+"Katanya bisa. Tapi aku tidak mau langsung percaya sebelum kita coba."
 
-Kami memotong dua potongan kain sisa dengan ukuran sama. Aji membersihkan salah satunya, lalu menempelkan bahan transfer menggunakan squeegee kecil. Pada awalnya, permukaannya tampak rata. Namun ketika kain diangkat dari meja, bagian tengahnya membentuk kerutan tipis mengikuti tekstur tenunan.
+Aku mengambil potongan mori dari tumpukan kain uji. "Jangan tempel di kain yang sudah kulukis."
 
-"Kelihatan?" tanyaku.
+"Sudah kusiapkan dua potong khusus."
 
-Aji menekan bagian yang menggelembung dengan ujung jari. "Permukaan kainnya tidak cukup rata."
+Aji mengeluarkan penggaris dan pisau potong kecil. Ia mengukur bahan putih itu sesuai ukuran kotak yang kami sepakati sehari sebelumnya. Aku menahan ujung penggaris agar tidak bergeser. Setelah dipotong, ia membersihkan permukaan kain pertama dengan kain kering, memastikan tidak ada debu atau sisa benang yang menempel.
 
-"Dan seratnya membuat lapisan itu tidak menempel sempurna."
+"Kalau terlalu banyak dibersihkan, seratnya bisa berbulu," kataku.
 
-Kami mencoba sampel kedua dengan alas yang lebih rata dan tekanan lebih merata. Aji menggosok permukaan bahan dari tengah ke pinggir, memastikan tidak ada udara yang terperangkap. Hasilnya sedikit lebih baik. Namun ketika kain dilipat perlahan, salah satu sudut panel terangkat.
+"Aku hanya mengangkat debu. Tidak menggosoknya."
 
-Aji memeriksanya dari dekat. "Kalau dipasang seperti ini, lama-lama bisa mengelupas."
+Ia melepas sebagian kertas pelindung, lalu menempelkan bahan dari satu sisi. Squeegee kecil digerakkan perlahan dari tengah ke pinggir. Aku memperhatikan permukaannya. Pada bagian tengah, bahan itu tampak rata. Namun di beberapa titik, tekstur tenunan masih terlihat sebagai gelombang kecil di bawah lapisan putih.
 
-"Belum lagi kalau spanduknya digulung atau ditarik saat pemasangan."
+Aji mengangkat squeegee. "Untuk sementara kelihatannya menempel."
 
-Ia mengangkat kain dan mencoba membentangkannya kembali. Sudut yang terangkat tetap tidak mau menempel. Aji mengambil catatan, menuliskan jenis bahan, tekanan yang dipakai, dan hasil setelah kain dilipat.
+"Jangan buru-buru puas. Angkat kainnya."
 
-"Kalau ditempel di permukaan datar, bahan ini mungkin bagus," katanya. "Tapi kain mori punya tekstur. Kita tidak bisa menganggap hasilnya akan sama."
+Ia memegang kedua ujung kain dan mengangkatnya dari meja. Begitu kain tidak lagi tertahan permukaan datar, bagian tengah panel tampak sedikit berkerut.
 
-Aku mengambil potongan kain itu dan membentangkannya di meja. "Bukan berarti semua bahan transfer gagal. Kita baru mencoba satu jenis."
+Aku mendekatkan wajah. "Itu tadi tidak kelihatan waktu kainnya masih di meja."
 
-Aji mengangguk. "Betul. Saya akan cari bahan yang memang sesuai untuk kain bertekstur. Kita juga perlu alat penerapan yang tekanannya bisa diatur."
+Aji menekan salah satu bagian dengan ujung jari. "Tekstur kain membuat permukaan panel tidak benar-benar rata."
 
-"Jangan membeli alat dulu sebelum tahu bahan apa yang dipakai."
+"Seratnya juga tidak semuanya berada pada ketinggian yang sama. Ada bagian yang masuk, ada yang menonjol."
 
-"Setuju."
+Ia mencoba meratakan kembali bagian tersebut dengan squeegee. Kerutannya berkurang, tetapi tidak hilang. Kami membiarkannya beberapa saat, lalu memeriksa sisi-sisinya. Salah satu sudut mulai terangkat.
 
-Aku mengambil sampel pertama, lalu membandingkan bagian yang menempel dengan bagian yang berkerut. Ada sisa perekat tipis yang menempel di serat kain. Kalau dipaksa dilepas, permukaan mori bisa ikut tertarik.
+"Kalau dibiarkan begini, debu bisa masuk dari pinggir," kataku.
 
-"Ini juga harus dibersihkan," kataku. "Jangan sampai sisa lemnya mengganggu cat kalau nanti kita mencoba bahan lain."
+"Dan kalau spanduk digulung atau ditarik saat dipasang, sudutnya mungkin makin terbuka."
 
-Aji mengambil plastik bening untuk membungkus sampel gagal. "Kita simpan sebagai pembanding. Kalau bahan berikutnya berhasil, kita tahu apa yang berubah."
+Aji mencatat hasil percobaan pertama. Ia menulis jenis bahan, ukuran panel, kondisi kain, dan bagian yang tidak menempel rata. Aku mengambil potongan itu, lalu membandingkannya dengan sampel kain yang belum ditempeli apa pun.
 
-Ia memotret bagian yang berkerut dari dua sudut, lalu menambahkan catatan tentang tekanan squeegee dan kondisi kain. Aku mengingatkan agar ia juga mencatat jenis mori yang dipakai, karena tidak semua kain punya kerapatan tenun yang sama.
+"Jangan langsung menyimpulkan semua bahan transfer tidak bisa dipakai," kataku. "Kita baru mencoba bahan ini."
 
-"Kalau nanti pemasok bilang bahan ini cocok untuk semua jenis kain, kita jangan langsung percaya," kataku.
+"Aku tidak menyimpulkan begitu. Ini vinil berperekat biasa. Belum tentu sama dengan bahan yang memang dirancang untuk dipindahkan ke tekstil."
 
-Aji mengangguk. "Saya akan minta lembar petunjuk dan contoh bahan lain. Kalau mereka punya rekomendasi khusus untuk katun, kita coba dulu sebelum membeli banyak."
+Ia mengeluarkan lembar kedua dari tabung. Bahan itu memiliki lapisan belakang berbeda, tetapi label kemasannya tidak memberi banyak keterangan. Aji memeriksa tulisan kecil di bagian tepi.
 
-Aku mengambil potongan sampel yang masih bersih dan menuliskan tanggal percobaan di ujungnya. Setidaknya, kami tidak akan mengulang tes yang sama hanya karena lupa hasil sebelumnya.
+"Petunjuknya tidak lengkap," katanya. "Tidak ada keterangan jenis kain, suhu penerapan, atau cara perawatannya."
 
-Aku tersenyum tipis. Biasanya Aji akan membela pilihannya panjang lebar. Kali ini ia mencatat kegagalan itu tanpa mencari alasan.
+"Kalau begitu, jangan dicoba dulu."
 
-"Untuk sementara, gambar manual tetap bisa kita kerjakan," kataku. "Kotak QRIS jangan dicat. Sisakan bidang yang ukurannya sudah kita sepakati."
+"Aku cuma mau melihat spesifikasinya."
 
-Aji mengangkat potongan kain itu. "Jadi kita pisahkan dulu dua pekerjaan. Kamu lanjutkan ilustrasi, saya cari cara menerapkan kode digital."
+"Kalau spesifikasinya tidak jelas, kita tidak tahu apa yang sedang kita uji. Nanti kalau gagal, kita malah tidak tahu penyebabnya."
 
-"Dan jangan bilang ini salah kain."
+Aji meletakkan lembar kedua kembali ke tabung. "Benar. Aku akan minta lembar data dari pemasok."
+
+Kami beralih ke sampel pertama. Aji mencoba mengangkat sudut panel yang sudah terlanjur menempel. Lapisan vinil terangkat, tetapi sebagian sisa perekat tertinggal di serat mori.
+
+"Ini bisa mengganggu kalau nanti kita mau melukis ulang bagian tersebut," kataku.
+
+"Berarti sampel ini tidak bisa dipakai lagi."
+
+Aku mengangguk. "Simpan saja untuk catatan. Jangan dicampur dengan kain bersih."
+
+Aji memasukkan potongan itu ke plastik bening dan menempelkan kertas kecil bertuliskan tanggal serta hasil uji. Ia memotret permukaan yang berkerut dan sudut yang terangkat. Aku menambahkan catatan tentang jenis kain yang dipakai, sebab mori yang lebih rapat mungkin memberi hasil berbeda.
+
+"Kalau pemasok bilang bahannya cocok untuk semua jenis kain, kita tetap perlu menguji sendiri," kataku.
+
+"Setuju. Aku akan cari bahan yang memang punya petunjuk penggunaan untuk katun atau tekstil. Setelah itu kita uji lagi dengan ukuran panel yang sama."
+
+Aku menatap dua potongan kain di meja. Satu masih bersih, satu lagi meninggalkan bekas perekat. Belum ada solusi yang bisa dibawa ke Cak Qodim, tetapi setidaknya kami tidak menghabiskan kain yang sudah dilukis hanya untuk membuktikan sesuatu yang seharusnya diuji lebih dulu.
+
+"Untuk sementara, aku lanjutkan ilustrasi," kataku. "Bagian kotak QRIS tetap kita kosongkan."
+
+Aji mengangguk. "Aku cari bahan yang tepat. Kalau sudah ada, kita cocokkan lagi ukuran dan cara memasangnya."
+
+"Jangan bilang ini salah kain."
 
 "Kalau begitu jangan bilang ini salah mesin."
 
-Kami saling pandang beberapa detik sebelum tertawa kecil. Sampel pertama masuk ke kotak bahan gagal. Belum ada solusi, tetapi setidaknya sekarang kami tahu apa yang tidak boleh dilakukan.
+Aku menahan senyum. "Aku belum menyalahkan mesinmu."
+
+"Belum."
+
+Ia membereskan squeegee dan penggaris, lalu menyimpan tabung bahan di bawah meja. Aku mengambil kain bersih dan menaruhnya di rak khusus prototipe. Garis lakban hitam di lantai masih membatasi dua area kerja kami, tetapi sore itu kami berdiri di sisi yang sama untuk memeriksa satu potongan kain.
+
+Bahan pertama gagal. Tidak ada alasan untuk berpura-pura sebaliknya. Namun kegagalan itu memberi kami satu hal yang bisa dipakai untuk langkah berikutnya: kami tahu bahan seperti apa yang tidak boleh dibeli dalam jumlah banyak.
