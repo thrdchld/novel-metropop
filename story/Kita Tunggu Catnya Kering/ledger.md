@@ -16,21 +16,21 @@
 | 8 | Selasa (jam tidak disebut eksplisit) | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Menyepakati kerja sama dan pembagian hasil; pembagian dihitung dari laba bersih setelah biaya proyek. |
 | 9 | Rabu, 07.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji memasang garis lakban sebagai batas area kerja; mereka mengatur posisi meja, kipas, alat, dan aturan memakai ruang bersama |
 | 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Bahan transfer pertama berkerut mengikuti tekstur mori dan sudutnya terangkat saat kain dilipat; bahan itu dinyatakan belum cocok |
-| 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin dan Aji makan malam; Aji tetap memakai sendok, tetapi mulai menghargai pengalaman Wiwin dan suasana warung |
+| 11 | Kamis malam, setelah eksperimen prototipe belum selesai sesuai target awal | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin dan Aji menyampaikan kepada Cak Qodim bahwa prototipe membutuhkan waktu tambahan; mereka meminta kesempatan sampai Minggu untuk menunjukkan hasil uji, dan Cak Qodim setuju meninjau tanpa menjanjikan persetujuan otomatis |
 | 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin membuka catatan bahan lama Pak Lik; mereka menjadikannya referensi eksperimen, bukan formula QRIS |
 | 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Aji | Aji mencatat hasil uji beberapa campuran; tidak ada formula yang langsung dianggap sempurna |
 | 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Aji, Bang Parlin | Prototipe panel QRIS digital berhasil dipasang dengan mesin pres termal pinjaman dan terbaca saat diuji; Haris tiba setelah melihat hasilnya |
 | 15 | Minggu, sekitar 16.15 | Ruko Wiwin | Wiwin, Aji, Pak Haris | Kunjungan Haris berlanjut dari akhir Bab 14; ia datang sebagai pemilik Mitra Graha/konsultan, bukan pejabat dinas. |
 | 16 | Minggu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji bercerita tentang PHK dan portofolio; Wiwin menceritakan kuliah seni yang batal; keduanya mulai memahami alasan masing-masing |
-| 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Membeli 50 gulung mori primisima; Bang Rahmat mengabarkan Haris sedang menawarkan Mitra Graha sebagai vendor pengganti |
+| 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Membeli 53 gulung mori primisima (212 meter); 50 gulung/200 meter dialokasikan untuk pesanan awal, sedangkan 3 gulung/12 meter disimpan sebagai cadangan; Bang Rahmat mengabarkan Haris sedang menawarkan Mitra Graha sebagai vendor pengganti |
 | 18 | Kamis, 07.30 | Warung dekat stasiun | Wiwin, Aji, Bang Rahmat | Kabar peninjauan kesiapan yang akan dilakukan beberapa hari lagi; sumber informasi Bang Rahmat berasal dari sopir dekat kantor dinas, bukan akses jabatan. |
-| 19 | Pagi; tanggal tidak disebutkan, setelah Bab 18 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi bertahap dimulai. Bab 18 menetapkan masa produksi dua minggu baru dihitung setelah rancangan dan prototipe disetujui, tetapi adegan/tanggal persetujuan itu tidak ditampilkan secara eksplisit. |
+| 19 | Pagi; tanggal tidak disebutkan, setelah persetujuan formal | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi bertahap dimulai setelah panitia meninjau dan menyetujui prototipe, desain, serta metode pemasangan; persetujuan tertulis dibawa Cak Qodim sehari sebelumnya. Masa produksi dua minggu resmi dihitung sejak persetujuan. |
 | 20 | Hari keenam masa produksi; hari kalender tidak disebutkan | Ruko Wiwin dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin | Empat puluh kain telah melewati pemeriksaan visual; sepuluh lainnya masih dikerjakan. Pengeringan memakai sirkulasi udara dan jarak antarkain. |
-| 21 | Pukul 09.00; hari kalender tidak disebutkan, setelah Bab 20 | Pelataran ruko Wiwin | Wiwin, Aji, staf dinas, Cak Qodim | Tim verifikasi memeriksa proses produksi dan kecocokan data QRIS; pemindaian bukan bukti pembayaran atau penerimaan akhir. |
-| 22 | Pagi; setelah verifikasi proses Bab 21 dan sebelum Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas | Pemeriksaan akhir lima puluh spanduk dan berita acara penerimaan dilakukan oleh pihak berwenang bersama paguyuban; Haris tidak menandatangani sebagai pejabat. Hari kalender tidak dinyatakan eksplisit. |
+| 21 | Pukul 09.00, pagi setelah Bab 20 | Pelataran ruko Wiwin | Wiwin, Aji, staf dinas, Cak Qodim | Tim verifikasi memeriksa proses produksi dan kecocokan data QRIS; pemindaian bukan bukti pembayaran atau penerimaan akhir. |
+| 22 | Pagi setelah sepuluh spanduk terakhir selesai; sebelum Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas | Pemeriksaan akhir lima puluh spanduk dan berita acara penerimaan dilakukan oleh pihak berwenang bersama paguyuban; Haris tidak menandatangani sebagai pejabat. Hari kalender tidak dinyatakan eksplisit. |
 | 23 | Minggu sore | Teras ruko Wiwin | Wiwin, Aji, kurir panitia | Momen kopi dan percakapan personal; surat resmi mengabarkan perubahan jadwal dan penundaan pengiriman. |
 | 24 | Minggu sore, berlanjut langsung dari Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Festival dimajukan ke Selasa malam; pengiriman 50 spanduk ditunda dan pesanan bertambah 10 spanduk VIP; biaya serta tambahan kain harus disetujui. |
-| 25 | Senin, sekitar 21.00–23.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Kain tambahan 32 meter telah tiba setelah perubahan pesanan disetujui. Sepuluh spanduk VIP diselesaikan dengan mesin pres termal pinjaman; tangan Wiwin kram dan badai mendekat. |
+| 25 | Senin pagi hingga sekitar 23.00 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Kain tambahan 32 meter tiba Senin pagi; bersama 12 meter cadangan dari Bab 17 cukup untuk 10 spanduk VIP. Sampel pigmen disetujui, sepuluh spanduk VIP diselesaikan dengan mesin pres termal pinjaman; tangan Wiwin kram dan badai mendekat. |
 | 26 | Selasa, sekitar 01.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Talang terlepas dan air masuk; sepuluh kain VIP dipindahkan; mesin terkena rembesan dan listrik diputus dari sumber utama setelah bantuan petugas. |
 | 27 | Selasa dini hari, setelah area aman | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Aji membantu mengarahkan talang setelah listrik diputus; tepi seng melukai telapak tangannya. |
 | 28 | Selasa pagi | Ruko Wiwin | Wiwin, Aji, teknisi, Bang Parlin, Mbak Pur, Pak Lik Harto, Cak Qodim | Teknisi menemukan kerusakan komponen mesin, tetapi belum menyatakan mesin tidak bisa diperbaiki; paguyuban menyiapkan pemasangan. |
@@ -112,8 +112,8 @@
 | Setting Utama | Koridor Kalimalang, Jakarta Timur | Canon |
 | Ukuran spanduk standar | 4 meter × 1 meter | Bab 1 |
 | Jumlah spanduk | 50 pesanan awal + 10 VIP = 60 | Bab 6, 23–30 |
-| Kain awal | 50 gulung × 4 meter = 200 meter | Bab 17 |
-| Kain tambahan VIP | Bab 24 menyebut sisa 12 meter tanpa asal-usul yang dijelaskan; ditambah pembelian 32 meter pada Bab 25. Kebutuhan 10 spanduk adalah 40 meter, sehingga tersedia 4 meter cadangan jika 12 meter itu memang sah. | Bab 24–25 |
+| Kain awal | 53 gulung × 4 meter = 212 meter; 200 meter untuk 50 spanduk awal dan 12 meter cadangan | Bab 17 |
+| Kain tambahan VIP | 12 meter cadangan dari pembelian Bab 17 + 32 meter pembelian baru = 44 meter; 40 meter untuk 10 spanduk VIP dan 4 meter cadangan. | Bab 17, 24–25 |
 | Pembagian laba bersih | 60% Wiwin, 40% Aji setelah semua biaya | Bab 8, 32 |
 | Mesin pres termal | Dipinjam dari pemasok saat proyek; Aji membeli unit bekas setelah festival | Bab 14, 25, 32 |
 
@@ -130,13 +130,14 @@
 
 ## G. Catatan Audit Kronologi dan Kontinuitas
 
-- Bab 3 dan Bab 4 berlangsung pada malam yang sama. Bab 4 dimulai sekitar setengah jam setelah spanduk dipasang pada Bab 3. Entri lama yang menempatkan Bab 4 pada Jumat malam tidak sesuai dengan transisi langsung dalam naskah; hari Bab 3 mengikuti janji pengiriman pada Bab 2, yaitu Kamis malam.
-- Bab 8 berakhir dengan janji bertemu pukul 07.00 keesokan hari. Bab 9 menyebut Aji tiba pukul 08.00. Ini keterlambatan satu jam yang belum dijelaskan dalam prosa.
-- Bab 7 dan Bab 8 menyebut target prototipe tiga hari. Bab 10–13 menunjukkan eksperimen berlanjut sampai Sabtu, sedangkan prototipe yang berhasil baru muncul pada Minggu sore di Bab 14. Bab 11 mengakui jadwal prototipe belum bisa dipastikan, tetapi naskah tidak secara eksplisit menunjukkan pemberitahuan keterlambatan atau persetujuan tenggat baru.
-- Bab 18 menyatakan masa produksi dua minggu baru dihitung setelah rancangan dan prototipe disetujui. Bab 19 langsung memulai produksi tanpa adegan atau tanggal persetujuan tersebut. Jangan menetapkan tanggal mulai masa dua minggu berdasarkan dugaan.
-- Bab 20 menyebut hari keenam produksi; Bab 21 menyebut pemeriksaan pukul 09.00; Bab 22 menyebut pemeriksaan akhir pada pagi hari. Naskah belum memberi jangkar kalender yang cukup untuk menetapkan hari pasti Bab 19–22. Pertahankan urutan relatif sampai ada revisi yang memberi jangkar eksplisit.
-- Bab 23 dan Bab 24 secara eksplisit berlangsung Minggu sore dan berurutan langsung. Bab 25 menyebut kain tambahan tiba Senin pagi; Bab 26–31 berlangsung Selasa, lalu Bab 32 pada Minggu berikutnya.
-- Bab 17 mencatat pembelian tepat 200 meter untuk 50 spanduk berukuran 4 × 1 meter. Bab 24 kemudian menyebut ada 12 meter kain tersisa, tetapi sumber persediaan tersebut tidak pernah dijelaskan. Ini kontradiksi kuantitas yang perlu diperbaiki pada naskah; ledger tidak boleh menganggap 12 meter itu sebagai stok lama yang sah sebelum ada penjelasan.
+- Bab 3 dan Bab 4 berlangsung pada malam yang sama. Bab 4 dimulai sekitar setengah jam setelah spanduk dipasang pada Bab 3.
+- Bab 8 berakhir dengan janji bertemu pukul 07.00 keesokan hari. Bab 9 kini menyebut Aji tiba pukul 07.00; ketidaksesuaian waktu yang sebelumnya ada sudah diperbaiki.
+- Bab 7 dan Bab 8 menetapkan target prototipe tiga hari. Eksperimen berlanjut sampai Sabtu, sedangkan prototipe berhasil pada Minggu sore di Bab 14. Bab 11 kini memperlihatkan Wiwin dan Aji meminta tambahan waktu sampai Minggu dan Cak Qodim setuju meninjau hasilnya, tanpa menjanjikan persetujuan otomatis.
+- Bab 18 menyatakan masa produksi dua minggu baru dihitung setelah rancangan dan prototipe disetujui. Bab 19 kini menjelaskan persetujuan formal panitia dan dokumen tertulis yang dibawa Cak Qodim sehari sebelum produksi dimulai.
+- Bab 20 menyebut hari keenam produksi. Bab 21 berlangsung keesokan paginya pukul 09.00 untuk verifikasi proses; Bab 22 berlangsung setelah sepuluh spanduk terakhir selesai untuk pemeriksaan akhir. Hari kalender Bab 19–22 tidak disebutkan dan tidak perlu ditebak.
+- Bab 17 kini menjelaskan pembelian 53 gulung/212 meter: 50 gulung/200 meter dialokasikan untuk pesanan awal dan 3 gulung/12 meter menjadi cadangan. Bab 24 memakai cadangan 12 meter itu bersama pembelian tambahan 32 meter untuk 10 spanduk VIP.
+- Bab 23–24 berlangsung Minggu sore secara berurutan; Bab 25 berlangsung Senin, Bab 26–31 Selasa, dan Bab 32 pada Minggu berikutnya.
+- Bab 31 berlangsung sekitar pukul 21.00 pada malam festival. Bab 32 berlangsung beberapa hari kemudian, Minggu menjelang siang, saat Studio Tenda Malam mulai beroperasi.
 
 ## H. Aturan Fakta yang Mengikat Setelah Revisi
 
