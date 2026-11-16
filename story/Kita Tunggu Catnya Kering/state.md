@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 9 (*Aturan Main*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 10 (*Stiker*)
-- **Titik Waktu Cerita:** Kamis, Pukul 15.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Lantai kerja ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Sore hari gerah mendung, udara lembap bertekanan rendah
+- **Bab Terakhir Selesai:** Bab 10 (*Stiker*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 11 (*Makan Malam*)
+- **Titik Waktu Cerita:** Kamis, Pukul 20.30 WIB
+- **Lokasi Terkini Tokoh Utama:** Warung tenda pecel lele Cak Qodim, Kalimalang
+- **Cuaca / Suasana Fisik:** Malam hari hangat berangin, aroma gurih sambal ulek dan desis wajan penggorengan
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Menguji ketahanan stiker vinil QRIS buatan Bachtiar di atas kain mori basah dengan simulasi semprotan air
+- **Kondisi Emosi Tokoh Utama:** Mengajak Bachtiar makan malam santai di tenda Cak Qodim untuk mencairkan frustrasi setelah eksperimen stiker vinil gagal
 
 ---
 
