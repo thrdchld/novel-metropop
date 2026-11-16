@@ -2,6 +2,8 @@
 
 Pagi pertama produksi dimulai dengan meja-meja yang memenuhi hampir seluruh ruang ruko. Meja panjang dari warung sebelah kami letakkan di tengah, sementara dua meja lipat disusun di sisi jendela. Kain mori tidak lagi dibentangkan di lantai seperti saat aku bekerja sendiri. Setiap lembar kami letakkan di atas permukaan yang rata, lalu diberi pemberat kecil di bagian tepi agar tidak bergeser ketika dilukis.
 
+Produksi baru kami mulai setelah panitia meninjau prototipe dan menyetujui rancangan serta metode pemasangannya. Cak Qodim membawa pemberitahuan persetujuan itu ke ruko sehari sebelumnya. Sejak persetujuan tersebut, masa pengerjaan dua minggu resmi dihitung. Kunjungan tim verifikasi berikutnya tetap akan memeriksa proses yang sedang berjalan, bukan mengulang keputusan persetujuan prototipe.
+
 Pak Lik Harto duduk di bangku dekat jendela. Di sampingnya ada meteran, kapur jahit, dan daftar nomor kain. Ia membantu mengukur bidang gambar serta menandai batas panel, pekerjaan yang masih bisa dilakukannya tanpa harus berdiri terlalu lama.
 
 “Nomor satu sampai lima dulu,” katanya. “Jangan semuanya dibuka. Nanti kalian sendiri yang bingung.”
