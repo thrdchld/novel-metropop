@@ -6,7 +6,7 @@
 
 | Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
 |---|---|---|---|---|
-| 1 | Selasa, 04.30 | Ruko Wiwin Kalimalang | Wiwin, Pak Lik Harto, sopir pikap | Wiwin membentang kain subuh; ruko seberang menurunkan mesin cetak digital bekas |
+| 1 | Pukul 04.40; hari tidak disebut eksplisit | Ruko Wiwin Kalimalang | Wiwin, Pak Lik Harto, sopir pikap | Wiwin membentang kain subuh; ruko seberang menurunkan mesin cetak digital bekas |
 | 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur | Cak Qodim pesan spanduk lele berkumis melengkung; Aji sebar brosur cetak murah; pantangan makan lele keluarga Cak Qodim |
 | 3 | Kamis malam (jam tidak disebut eksplisit) | Depan ruko percetakan Aji | Wiwin, Aji, Bang Parlin, Cak Qodim | Wiwin melabrak Aji soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
 | 4 | Kamis malam, sekitar 30 menit setelah pemasangan spanduk pada Bab 3 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Spanduk MMT Aji melepuh terkena uap kompor mawar; jari Aji melepuh; Cak Qodim meradang |
