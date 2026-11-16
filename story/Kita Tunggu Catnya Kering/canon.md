@@ -1,7 +1,7 @@
 # Canon — Kita Tunggu Catnya Kering
 
 > Status: TERKUNCI
-> Versi: v1.0
+> Versi: v1.1 — diselaraskan setelah revisi Bab 1–32
 > Sumber kebenaran cerita. Jangan diubah diam-diam di tengah jalan.
 
 ## 1. Identitas Cerita
@@ -21,7 +21,7 @@
 - **A (Character):** Dwi Winarsih alias Wiwin (26), wanita perantau Pantura yang meneruskan usaha seni lukis spanduk kain mori pecel lele peninggalan pamannya di ruko Kalimalang; tangannya selalu berbekas cat neon stabilo dan memegang teguh pakem tradisi visual warung tenda malam.
 - **B (Routine):** Setiap hari membentang kain mori di lantai semen, mengoplos cat sablon berbau tiner, dan mengantar pesanan spanduk ke warung-warung tenda pinggir jalan demi membiayai obat asma pamannya.
 - **C (Inciting Incident):** Usahanya terancam bangkrut saat Aji (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan spanduk plastik MMT murah meriah ber-QRIS.
-- **D (Action):** Menghadapi syarat standarisasi 50 warung tenda pada pesanan awal, kemudian bertambah 10 spanduk VIP sehingga total 60 paguyuban yang menuntut lukisan tangan tradisi berpadu kode QRIS perbankan presisi, Wiwin dan Aji terpaksa menyatukan kuas manual dan mesin cetak digital di satu meja, hingga kolaborasi bau tiner dan desing mesin meluluhkan ego mereka berdua.
+- **D (Action):** Menghadapi proyek 50 spanduk yang kemudian bertambah 10 VIP, Wiwin dan Aji menggabungkan ilustrasi manual dengan panel QRIS digital yang dicetak pada bahan transfer dan diterapkan pada kain menggunakan mesin pres termal pinjaman. Kerja sama itu menuntut mereka membagi tugas, menguji bahan, dan menghitung biaya secara nyata.
 - **Tema / Makna Cerita:** Nilai sebuah karya tidak diukur dari seberapa cepat mesin mencetaknya, melainkan dari seberapa banyak jiwa dan keringat yang dituangkan ke dalamnya; cinta dan penghargaan tumbuh saat dua manusia berani meruntuhkan gengsi untuk saling melengkapi.
 
 ---
@@ -32,7 +32,7 @@
 |---|---|---:|---|---|
 | **Dwi Winarsih (Wiwin)** | Protagonis (POV 1) | 26 | Pelukis spanduk kain mori pecel lele di ruko Kalimalang | Tangguh, ceplas-ceplos khas pesisir, gengsian, takut dipandang gagal oleh keluarga di kampung |
 | **Aji Yudanta** | Pendamping / Love Interest | 28 | Pemilik percetakan banner digital rukoan (eks-desainer) | Kaku, metodis, sinis pada hal manual, memendam luka akibat portofolio dicuri mantan bos |
-| **Suhartono (Pak Lik Harto)** | Keluarga / Mentor | 53 | Paman Wiwin, mantan pelukis spanduk legendaris Pantura | Sabar, sakit asma menahun, hafal mitos pantang lele Lamongan dan resep cat fosfor neon |
+| **Suhartono (Pak Lik Harto)** | Keluarga / Mentor | 53 | Paman Wiwin, mantan pelukis spanduk legendaris Pantura | Sabar, sakit asma menahun, memahami kebiasaan pedagang Pantura, dan menyimpan catatan lama tentang bahan lukis kain |
 | **H. Abdul Qodim (Cak Qodim)** | Tokoh Sesepuh / Klien Utama | 58 | Ketua Paguyuban Pedagang Tenda Lamongan Jakarta Timur | Kolot, tegas pada pakem kumis lele, berwibawa, penyayang rakyat kecil |
 | **Parlindungan Siregar (Bang Parlin)** | Tetangga Ruko / Sekutu | 36 | Pemilik tambal ban tubeles dan kompresor ruko sebelah | Ramah, ceplas-ceplos Batak, kompresornya sering meletup di momen genting |
 | **Puji Lestari (Mbak Pur)** | Sahabat / Penengah | 32 | Pemilik warkop kopi seduh dan Indomie samping ruko | Ceria, pengamat gosip trotoar, tempat tukar uang receh dan sarapan bakwan |
@@ -80,7 +80,7 @@
 - **Benda Planting Utama:**
   - *Piring seng blirik hijau loreng:* Tempat Wiwin mengaduk cat (Bab 1) -> Dipakai menyajikan lele goreng perayaan (Bab 31).
   - *Noda cat kuning stabilo di siku jaket Aji:* Terkena kuas Wiwin (Bab 7) -> Sengaja tidak dicuci Aji sebagai memori abadi (Bab 32).
-  - *Buku resep cat fosfor koyak:* Tersimpan di laci lemari obat Pak Lik Harto (Bab 12) -> Dipadukan dengan sablon transfer panas (Bab 19).
+  - *Buku catatan bahan lama:* Ditemukan di kamar Pak Lik (Bab 12) -> Menjadi referensi eksperimen bahan; bukan formula instan untuk QRIS (Bab 13).
 
 
 ## 7. Aturan Kontinuitas Final
@@ -94,7 +94,17 @@
 - Mesin cetak digital Aji rusak akibat rembesan air. Teknisi menemukan kerusakan pada beberapa komponen, tetapi belum menyatakan seluruh mesin tidak dapat diperbaiki.
 - Listrik di area banjir harus diputus dari sumber utama oleh petugas/tenaga yang kompeten sebelum siapa pun kembali ke area tersebut.
 - Pak Haris adalah pemilik Mitra Graha dan mantan atasan Aji, bukan kepala seksi atau pejabat dinas. Keputusan proyek berada pada panitia/dinas yang berwenang.
-- Keuntungan 60:40 dihitung dari laba bersih setelah biaya bahan, transportasi, produksi, tenaga tambahan, dan pemasangan.
+- Keuntungan dibagi dari laba bersih setelah biaya bahan, transportasi, produksi, tenaga tambahan, dan pemasangan: 60 persen untuk Wiwin dan 40 persen untuk Aji.
 - Studio Tenda Malam dijalankan bersama. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel QRIS, dan vendor. Mesin pres termal kecil dibeli bekas dari tabungan dan bagian keuntungan yang disisihkan, bukan bonus dinas yang tidak pernah ditanam sebelumnya.
 - Cedera Aji pada telapak tangan adalah sayatan dangkal akibat tepi talang berkarat. Ia mendapat perawatan dan sementara tidak mengangkat beban berat.
 - Kondisi asma Pak Lik tetap membutuhkan perawatan rutin. Jangan memberi kesan penyakitnya sembuh hanya karena proyek berhasil.
+
+
+## 8. Aturan Produksi dan Akhir Cerita
+
+- Panel QRIS dibuat dari file resmi merchant, dicetak digital pada bahan transfer, lalu diterapkan ke kain dengan mesin pres termal pinjaman pemasok selama proyek festival.
+- Mesin pres termal kecil yang muncul pada akhir cerita adalah pembelian baru Aji setelah festival, bukan alat yang sejak awal dimiliki studio.
+- Kain tambahan untuk 10 spanduk VIP berjumlah 32 meter, ditambah sisa 12 meter dari persediaan awal. Pembelian dilakukan setelah perubahan pesanan dan uang muka disetujui.
+- Pengiriman 50 spanduk utama yang semula dijadwalkan Senin ditunda setelah festival dimajukan ke Selasa. Seluruh 60 spanduk dibawa ke lokasi pada Selasa sebelum pemasangan.
+- Pada akhir cerita, studio mulai beroperasi pada Minggu menjelang siang setelah festival Selasa malam.
+- Pembagian laba bersih untuk pesanan bersama adalah 60 persen Wiwin dan 40 persen Aji; biaya proyek dipotong terlebih dahulu.
