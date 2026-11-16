@@ -1,49 +1,89 @@
 ## Bab 24: Pemberitahuan
 
-Surat berstempel dinas tergeletak di atas meja. Cak Qodim membacakan isinya sekali lagi untuk memastikan kami tidak salah dengar.
+Cak Qodim membuka lipatan surat itu sampai rata di atas meja. Cangkir kopi yang tadi kami tinggalkan masih berada di teras. Aku dan Aji berdiri di sisi meja, sementara Pak Lik Harto menggeser kursinya mendekat agar bisa ikut membaca.
 
-"Festival dimajukan menjadi Selasa malam. Selain lima puluh spanduk utama, panitia meminta sepuluh spanduk tambahan untuk zona VIP. Ukurannya sama, masing-masing empat meter."
+“Festival dimajukan menjadi Selasa malam,” kata Cak Qodim. “Ada perubahan jadwal kunjungan pejabat. Pengiriman lima puluh spanduk utama ditunda sampai Selasa pagi. Mereka juga meminta sepuluh spanduk tambahan untuk zona VIP.”
 
-Aji membuka buku catatan. "Berarti ada tambahan empat puluh meter kain. Stok yang tersisa berapa?"
+Aji mengambil buku catatan. “Tambahan sepuluh berarti totalnya enam puluh.”
 
-Aku memeriksa gulungan di sudut ruko. "Dua belas meter. Itu tidak cukup."
+“Betul. Ukurannya sama, empat meter kali satu meter.”
 
-"Jadi kita perlu membeli setidaknya dua puluh delapan meter lagi," katanya. "Lebih aman kalau kita ambil tiga puluh dua meter supaya ada cadangan untuk potongan dan kesalahan."
+Aku memandang tumpukan spanduk utama yang sudah dibungkus. “Kalau pengirimannya ditunda, setidaknya kita punya waktu untuk menyiapkan semuanya. Tapi sepuluh tambahan itu kapan harus diserahkan?”
 
-Cak Qodim menghela napas. "Panitia minta semuanya selesai sebelum Selasa pagi. Mereka juga ingin gambar zona VIP memakai pigmen yang terlihat menyala saat malam."
+“Selasa pagi. Mereka ingin dipasang sebelum acara malam.”
 
-"Pigmen yang terlihat menyala itu ada beberapa jenis," kataku. "Kita harus tahu apakah mereka maksud warna fluoresen yang tampak terang di bawah cahaya, atau fosfor yang menyimpan cahaya lalu memancarkannya dalam gelap."
+Aji menghitung cepat di halaman kosong. “Berarti waktu produksi VIP kurang dari dua hari.”
 
-Aji menambahkan, "Kita tidak akan menjanjikan hasil sebelum melihat bahan dan menguji sampelnya."
+“Dan ada permintaan khusus,” lanjut Cak Qodim. “Gambar di spanduk VIP harus memakai pigmen yang terlihat menyala saat malam.”
 
-Aku memandang surat itu. "Sepuluh spanduk tambahan bukan bagian dari lima puluh pesanan awal. Biaya bahan, tenaga, dan pengiriman harus disetujui terpisah."
+Aku mengernyit. “Mereka bilang menyala, atau terlihat terang?”
 
-Cak Qodim mengangguk. "Saya akan meminta panitia menerbitkan perubahan pesanan dan memastikan ada tambahan pembayaran. Paguyuban tidak boleh menanggung biaya sendiri."
+Cak Qodim membalik surat dan mencari lampirannya. “Di sini tertulis pigmen fosfor.”
 
-Aji mulai menghitung waktu. Panel QRIS membutuhkan proses penerapan dan pemeriksaan yang sama seperti pesanan utama. Ilustrasi juga harus dibuat dari awal. Dengan tenggat yang baru, kami perlu meminta bantuan anggota paguyuban untuk pekerjaan persiapan dan pemasangan, bukan memaksakan semua pekerjaan pada dua orang.
+“Kalau benar fosfor, efeknya berbeda dari cat fluoresen,” kataku. “Fluoresen terlihat terang saat terkena cahaya tertentu. Fosfor bisa menyimpan cahaya lalu memancarkannya lagi dalam gelap. Kita harus tahu kondisi pencahayaan di lokasi dan bahan apa yang mereka maksud.”
 
-"Kalau bahan datang malam ini dan desain disetujui, kita bisa mulai besok," katanya. "Tapi jadwalnya tetap ketat."
+Aji membaca spesifikasi yang terlampir. “Tidak ada merek atau petunjuk bahan. Cuma permintaan efek visual.”
 
-Aku mengikat rambut ke belakang. "Aku bisa mulai membuat pola gambar. Tapi jangan gunakan pigmen yang belum kita tes."
+“Jadi kita belum bisa menjanjikan hasilnya,” kataku.
 
-Pak Lik Harto yang sejak tadi mendengarkan mengangkat tangan. "Jangan sampai kalian lupa makan dan istirahat. Kalau tangan sudah gemetar, hasilnya juga berantakan."
+“Setuju,” jawab Aji. “Kita minta contoh atau spesifikasi yang jelas. Kalau mereka ingin efek tertentu, harus ada waktu untuk menguji sampelnya.”
 
-Cak Qodim tertawa kecil. "Saya urus tambahan pesanan dan orang-orang yang membantu. Kalian urus kualitasnya."
+Cak Qodim mengangguk, lalu duduk. “Saya akan hubungi panitia. Tapi soal bahan, kalian bisa mulai menghitung?”
 
-Setelah Cak Qodim pergi, Aji menuliskan kebutuhan bahan di papan. Kami harus membeli kain tambahan, memastikan jenis pigmen yang diminta, menyiapkan panel QRIS dari file resmi masing-masing merchant, dan membagi pekerjaan produksi serta pemasangan.
+Aku menuju sudut ruko dan memeriksa gulungan kain yang tersisa. “Ada dua belas meter. Untuk sepuluh spanduk perlu empat puluh meter.”
 
-Malam itu Cak Qodim mengabari bahwa panitia menyetujui perubahan pesanan dan akan mentransfer uang muka tambahan. Ia meminta kami mengirimkan rincian bahan agar pembelian kain bisa dilakukan Senin pagi.
+“Berarti kurang dua puluh delapan,” kata Aji.
 
-Aji menghitung ulang kebutuhan. Empat puluh meter diperlukan untuk sepuluh spanduk baru. Persediaan dua belas meter masih tersisa, jadi kami perlu membeli setidaknya dua puluh delapan meter. Ia mengusulkan tiga puluh dua meter agar ada cadangan jika sebagian kain harus dipotong ulang.
+“Lebih aman beli tiga puluh dua meter,” lanjutku. “Ada cadangan kalau potongan kain tidak rapi atau ada bagian yang harus diganti.”
 
-"Kalau tidak ada cadangan, satu kesalahan kecil bisa menghabiskan waktu kita," katanya.
+Aji mencatat angka itu. “Kita juga perlu bahan transfer untuk sepuluh panel QRIS. File masing-masing merchant harus disiapkan dan diperiksa seperti pesanan awal.”
 
-Aku mencatat angka itu di sisi daftar. "Tapi jangan beli lebih banyak hanya karena takut. Uang tambahan ini juga harus menutup bahan transfer, pigmen, dan ongkos tenaga."
+“Jangan lupa biaya tenaga tambahan,” kataku. “Kalau kita mengejar waktu, mungkin perlu bantuan orang untuk menyiapkan kain dan mengemas hasil. Kita tidak bisa mengerjakan semuanya berdua.”
 
-Kami mengirimkan rincian kepada Cak Qodim. Ia membalas bahwa pembelian akan dilakukan setelah uang muka masuk dan perubahan pesanan tercatat. Baru setelah itu kami mulai menyusun pola gambar untuk sepuluh spanduk VIP.
+Cak Qodim menatap daftar di tangan Aji. “Saya bisa minta beberapa anggota paguyuban membantu persiapan dan pemasangan. Tapi soal biaya, saya tidak mau kalian nombok.”
 
-Aku masih belum tahu apakah warna yang diminta panitia benar-benar perlu memakai pigmen khusus. Yang jelas, kami tidak akan menjanjikan efek menyala dalam gelap sebelum sampelnya diuji. Warna fluoresen yang tampak terang di bawah lampu berbeda dari pigmen fosfor yang menyimpan cahaya, dan keduanya tidak bisa diperlakukan sama.
+“Tambahan ini harus jadi perubahan pesanan resmi,” kata Aji. “Jumlah, harga, spesifikasi, dan jadwalnya harus tertulis. Uang muka juga perlu masuk sebelum kita membeli bahan.”
 
-Tenggatnya memang sempit. Namun kali ini kami tidak akan menerima pekerjaan tambahan hanya dengan modal nekat. Semua harus jelas: jumlah, bahan, biaya, dan siapa yang bertanggung jawab.
+“Benar,” sahutku. “Lima puluh spanduk pertama sudah selesai sesuai pesanan. Jangan sampai tambahan sepuluh dianggap pekerjaan gratis.”
 
-Aku mengambil kuas peninggalan Pak Lik dari tempatnya. Sepuluh kain baru menunggu pola pertama.
+Cak Qodim melipat kembali surat itu. “Saya urus. Kalian jangan mulai produksi sebelum ada persetujuan.”
+
+Pak Lik mengangguk setuju. “Dan jangan sampai karena dikejar waktu, kalian lupa makan. Cat tidak akan jadi lebih bagus kalau yang melukisnya hampir pingsan.”
+
+“Pak Lik tenang saja,” kataku. “Aku masih ingat cara makan.”
+
+“Bagus. Tinggal cara istirahat yang perlu kamu pelajari.”
+
+Aji menahan senyum. Aku pura-pura tidak melihatnya.
+
+Cak Qodim pergi ke sekretariat paguyuban untuk menghubungi panitia. Aku dan Aji mulai menyusun daftar kebutuhan, tetapi tidak membuka kain atau menyiapkan cat sebelum perubahan pesanan disetujui. Kami memisahkan biaya kain, bahan transfer, pigmen, tenaga tambahan, dan pengiriman. Aji juga menambahkan waktu untuk membuat sampel dan memeriksanya.
+
+“Kalau mereka minta efek fosfor, kita perlu lihat bahan yang benar-benar akan dipakai,” katanya. “Jangan sampai kita membeli cat yang ternyata hanya tampak terang di bawah lampu.”
+
+“Dan jangan mengorbankan gambar supaya efeknya kelihatan,” jawabku. “Ilustrasinya tetap harus terbaca.”
+
+“Berarti kita perlu satu sampel kecil dulu.”
+
+“Setelah spesifikasinya jelas.”
+
+Malamnya, Cak Qodim kembali membawa kabar. Panitia menyetujui perubahan pesanan melalui dokumen tambahan: sepuluh spanduk VIP dengan ukuran yang sama, jadwal penyerahan Selasa pagi, serta pembayaran terpisah. Uang muka tambahan sudah ditransfer ke rekening paguyuban. Spesifikasi pigmen akan dikirim menyusul, dan panitia setuju hasil efek visual diperiksa melalui sampel sebelum seluruh kain dikerjakan.
+
+Aji meminta Cak Qodim meneruskan bukti persetujuan dan rincian pembayaran. Setelah dokumen diterima, barulah kami menetapkan anggaran pembelian. Dua belas meter kain yang tersisa akan dipakai lebih dulu, lalu tiga puluh dua meter tambahan dibeli agar ada sedikit cadangan. Kami juga menganggarkan bahan transfer dan upah bantuan untuk pekerjaan persiapan.
+
+“Besok pagi kita beli kain,” kata Aji sambil menutup buku catatan. “Setelah spesifikasi pigmennya datang, kita buat sampel. Kalau tidak sesuai, kita minta keputusan panitia sebelum lanjut.”
+
+Aku melihat kembali daftar sepuluh nama warung VIP yang dilampirkan. Masing-masing punya file QRIS sendiri. Tidak ada yang boleh tertukar hanya karena kami sedang terburu-buru.
+
+“Enam puluh spanduk,” gumamku. “Padahal tadi sore kita baru merasa bisa bernapas.”
+
+Aji menatap tumpukan kain yang sudah dibungkus. “Setidaknya lima puluh yang pertama sudah selesai dan diterima. Kita tidak mulai dari nol.”
+
+“Sepuluh yang baru tetap harus dilukis.”
+
+“Betul. Dan kita akan mengerjakannya satu per satu.”
+
+Pak Lik berdiri perlahan, lalu mengambil cangkirnya dari teras. “Kalau begitu, malam ini kalian berhenti menghitung. Besok masih ada waktu untuk pusing.”
+
+Aku mengambil kuas peninggalannya dari tempat penyimpanan dan memeriksa gagangnya. Sepuluh kain baru akan segera datang, tetapi kali ini kami tidak akan bergerak hanya karena panitia memberi tenggat. Kami sudah belajar bahwa pekerjaan yang terburu-buru tanpa perhitungan bisa membuat kesalahan kecil menjadi masalah besar.
+
+Di luar, suara kendaraan masih ramai melewati Kalimalang. Di dalam ruko, daftar kebutuhan baru tergeletak di samping surat perubahan pesanan. Festival tinggal beberapa hari lagi, dan pekerjaan kami bertambah sepuluh.
