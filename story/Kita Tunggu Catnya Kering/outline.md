@@ -38,14 +38,14 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 | Mitos pantang makan lele keluarga Lamongan | Bab 2 (Cak Qodim & Pak Lik Harto menolak makan lele) | Bab 29 (Pak Lik Harto memegang kepala lele lukisan) | Bukti penghormatan leluhur dan harga diri seniman jalanan. |
 | Noda cat kuning stabilo di siku kanan jaket Bachtiar | Bab 7 (Terkena senggolan kuas Wiwin saat panik kucing) | Bab 32 (Bachtiar sengaja tidak mencuci jaket itu) | Tanda penerimaan Bachtiar terhadap dunia manual yang penuh warna. |
 | Cobek batu sambal terasi dan aroma kemiri | Bab 11 (Makan malam pertama di warung Cak Qodim) | Bab 28 (Mbak Pur mengantar sambal penghangat badan) | Simbol kehangatan komunal warga gang di saat krisis melanda. |
-| Buku resep pigmen fosfor bertinta merah koyak | Bab 12 (Terselip di laci lemari obat Pak Lik Harto) | Bab 19 (Formula berhasil dipadukan dengan tinta transfer) | Pertemuan antara ilmu tradisi lisan dan logika sains modern. |
+| Buku resep pigmen fosfor bertinta merah koyak | Bab 12 (Terselip di laci lemari obat Pak Lik Harto) | Bab 19 (Formula berhasil dipadukan dengan sablon transfer) | Pertemuan antara ilmu tradisi lisan dan logika sains modern. |
 | Piring seng blek blirik hijau loreng | Bab 1 (Tempat Wiwin menaruh adukan cat) | Bab 31 (Dipakai menyajikan gorengan saat perayaan festival) | Penanda kesederhanaan hidup yang tidak lekang oleh zaman. |
 
 ---
 
 ## 4. Rincian per Bab (Format Skenario Adegan / Scene Treatment)
 
-### Bab 1: Bukan Mesin Fotokopi
+### Bab 1: Kuas
 - **Adegan & Tokoh:** Selasa, pukul 04.30 WIB di ruko semen pinggir Kalimalang | Wiwin, Pak Lik Harto, sopir pikap sewaan.
 - **Variasi Pembuka:** Sensori Lingkungan
 - **Skenario Masuk (Opening Beat):** Udara dingin Kalimalang bercampur uap knalpot truk pasir dan bau tiner menyengat saat Wiwin membentang kain mori putih sepanjang empat meter di lantai semen.
@@ -57,7 +57,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Wiwin menatap bayangan mesin cetak raksasa di seberang aspal, bertanya dalam hati apakah sapuan kuas tangannya masih punya harga di kota ini.
 - **Detail Fisik & Planting-Callback:** Piring kaleng blirik hijau loreng tempat menaruh cat, debu aspal Kalimalang.
 
-### Bab 2: Kumisnya Melengkung ke Atas
+### Bab 2: Kumis Lele
 - **Adegan & Tokoh:** Rabu, pukul 16.00 WIB di pelataran ruko Wiwin | Wiwin, Cak Qodim.
 - **Variasi Pembuka:** Dialog Menusuk
 - **Skenario Masuk:** "Pokoknya kumis lelenya jangan dibikin letoy kayak kemarin, Win! Warungku sepi dua malam gara-gara kumis lele lu nunduk!"
@@ -69,7 +69,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bachtiar tersenyum dingin sambil merapikan gulungan meteran, yakin bahwa nostalgia tradisi tidak akan mampu melawan kecepatan mesin.
 - **Detail Fisik & Planting-Callback:** Mitos pantang lele warga Lamongan, selebaran kertas mengilap berbau tinta printer.
 
-### Bab 3: Lele Pucat Kurang Darah
+### Bab 3: Spanduk
 - **Adegan & Tokoh:** Kamis, pukul 19.30 WIB di depan ruko percetakan Bachtiar | Wiwin, Bachtiar, Bang Parlin.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Wiwin melempar sandal jepitnya ke ambang pintu ruko Bachtiar setelah melihat spanduk cetak MMT pertama Bachtiar dipasang di warung bebek seberang.
@@ -81,7 +81,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bunyi klakson motor Cak Qodim berhenti mendadak di depan mereka, membawa kabar bahwa spanduk plastik Bachtiar baru saja dipasang di warung tendanya.
 - **Detail Fisik & Planting-Callback:** Mesin kompresor tambal ban Bang Parlin berkarat, bau plastik MMT baru.
 
-### Bab 4: Kerupuk MMT Kena Wajan
+### Bab 4: Uap Panas
 - **Adegan & Tokoh:** Jumat, pukul 21.45 WIB di warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim.
 - **Variasi Pembuka:** Reaksi Benda
 - **Skenario Masuk:** Ujung bawah spanduk plastik MMT buatan Bachtiar mulai meliuk mengerut seperti kerupuk tersiram minyak panas tepat 30 sentimeter di atas wajan penggorengan lele.
@@ -93,19 +93,19 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bachtiar menatap jarinya yang memerah di tengah kerumunan pembeli yang kecewa, bersumpah mencari tahu mengapa kain mori Wiwin bisa tahan bertahun-tahun di atas api.
 - **Detail Fisik & Planting-Callback:** Wajan baja hitam minyak jelantah berbuih, lelehan plastik MMT berbau kimia.
 
-### Bab 5: Sensor HP Menolak Goyang
+### Bab 5: Garis
 - **Adegan & Tokoh:** Sabtu, pukul 14.00 WIB di meja kerja Wiwin | Wiwin, Pak Lik Harto.
 - **Variasi Pembuka:** Pikiran Tajam
 - **Skenario Masuk:** Ada alasan mengapa teknologi modern diciptakan: untuk mempermalukan orang-orang yang terlalu sombong pada keahlian tangannya sendiri.
 - **Ketukan Aksi & Reaksi:**
   1. Wiwin mencoba membuktikan diri dengan melukis kode QRIS pesanan warung soto memakai kuas liner nomor satu berbulu musang.
   2. Pak Lik Harto memperingatkan bahwa serat kain mori punya pori-pori hidup yang akan menyedot cairan cat ke segala arah.
-  3. Wiwin menguji pindai kode QR itu dengan HP jadulnya; aplikasi perbankan terus menampilkan pesan eror merah: "Kode QR Tidak Valid".
+  3. Wiwin menguji scan kode QR itu dengan HP jadulnya; aplikasi perbankan terus menampilkan pesan eror merah: "Kode QR Tidak Valid".
 - **Bentuk Hook Penutup:** Planting Tanda Tanya
 - **Skenario Penutup:** Di layar HP Wiwin, garis hitam kuas yang meluber 0,4 milimeter menjadi tembok tebal yang memisahkan karyanya dari masa depan.
 - **Detail Fisik & Planting-Callback:** Kuas liner nomor satu bulu musang, pesan eror merah layar ponsel retak.
 
-### Bab 6: Surat Kuning dari Dinas
+### Bab 6: Kabar
 - **Adegan & Tokoh:** Minggu, pukul 20.00 WIB di warkop Mbak Pur | Wiwin, Bachtiar, Cak Qodim, Mbak Pur.
 - **Variasi Pembuka:** Dialog Menusuk
 - **Skenario Masuk:** "Dinas Pariwisata nggak mau tahu, pokoknya spanduk tenda festival harus lukisan tangan khas Lamongan tapi wajib punya barcode QRIS yang tembus sensor!"
@@ -117,7 +117,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Dua pasang mata saling menatap tajam melintasi cangkir kopi hitam yang mengepul, menimbang apakah gengsi mereka lebih mahal daripada uang proyek festival.
 - **Detail Fisik & Planting-Callback:** Map dinas kertas kuning bertulisan cap stempel basah, bakwan jagung dingin.
 
-### Bab 7: Cap Kaki di Perut Lele
+### Bab 7: Kucing Belang
 - **Adegan & Tokoh:** Senin, pukul 11.00 WIB di lantai bengkel Wiwin | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Reaksi Benda
 - **Skenario Masuk:** Cap kaki berlumpur empat titik berwarna hitam mencoreng dada ayam jago kuning menyala yang baru selesai digoreskan Wiwin di atas kain mori.
@@ -129,7 +129,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bachtiar menatap noda oranye stabilo di sikunya yang tidak bisa hilang digosok air, sementara Wiwin berdiri mematung menahan napas.
 - **Detail Fisik & Planting-Callback:** Noda cat oranye stabilo di siku kanan jaket Bachtiar, cap kaki kucing belang tiga.
 
-### Bab 8: Garis Lakban di Lantai Semen
+### Bab 8: Proposal
 - **Adegan & Tokoh:** Selasa, pukul 17.30 WIB di ruko Wiwin | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Bachtiar mendorong selembar kertas kalkir tebal berisi sketsa pembagian panel spanduk ke depan Wiwin yang sedang mencuci kuas.
@@ -141,7 +141,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Wiwin memeras kain lapnya hingga tetes air terakhir jatuh ke lantai semen, lalu mengangguk lambat menyetujui gencatan senjata mereka.
 - **Detail Fisik & Planting-Callback:** Kertas kalkir gambar teknik, struk obat apotek resep asma.
 
-### Bab 9: Dilarang Merokok Dekat Tiner
+### Bab 9: Aturan Main
 - **Adegan & Tokoh:** Rabu, pukul 09.00 WIB di ruko Wiwin | Wiwin, Bachtiar, Bang Parlin.
 - **Variasi Pembuka:** Pikiran Tajam
 - **Skenario Masuk:** Dua orang yang terbiasa hidup saling membenci di pinggir jalan tidak akan pernah bisa rukun hanya karena selembar kertas perjanjian kerja sama.
@@ -153,7 +153,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Menyatukan tradisi dan teknologi di atas lantai semen retak ternyata membutuhkan lebih banyak lakban daripada akal sehat.
 - **Detail Fisik & Planting-Callback:** Lakban merah pembatas lantai, obeng kembang bergagang kayu.
 
-### Bab 10: Stiker Ngelupas Kena Semprot
+### Bab 10: Stiker
 - **Adegan & Tokoh:** Kamis, pukul 16.30 WIB di gang samping ruko | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Wiwin menyemprotkan air selang berkekuatan penuh tepat ke arah sudut spanduk uji coba pertama yang dipegang erat oleh Bachtiar.
@@ -165,7 +165,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bachtiar memungut stiker basah yang terkoyak di atas paving gang, memeras otak mencari cara agar tinta digital bisa meresap ke dalam jiwa serat kain.
 - **Detail Fisik & Planting-Callback:** Selang air hijau berlumut, stiker vinil terkelupas berkerut.
 
-### Bab 11: Makan Pakai Tangan Kosong
+### Bab 11: Makan Malam
 - **Adegan & Tokoh:** Jumat, pukul 23.30 WIB di warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim.
 - **Variasi Pembuka:** Dialog Menusuk
 - **Skenario Masuk:** "Makan lele pakai sendok garpu itu kayak mandi pakai jas hujan, Mas! Nih, cuci tangan di mangkuk kobokan jeruk nipis!"
@@ -177,7 +177,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Malam itu Bachtiar belajar bahwa kenikmatan hidup jalanan tidak pernah dihitung dari takaran gram nutrisi, melainkan dari keberanian mengotori tangan sendiri.
 - **Detail Fisik & Planting-Callback:** Mangkuk kobokan seng seiris jeruk nipis, kol goreng layu kecokelatan beraroma terasi.
 
-### Bab 12: Buku Catatan dari Maduran
+### Bab 12: Buku Resep
 - **Adegan & Tokoh:** Sabtu, pukul 22.00 WIB di kamar belakang Pak Lik Harto | Wiwin, Bachtiar, Pak Lik Harto.
 - **Variasi Pembuka:** Sensori Lingkungan
 - **Skenario Masuk:** Bau minyak kayu putih dan sesak napas memenuhi kamar sempit saat Pak Lik Harto terbatuk keras memegangi dadanya di atas kasur kapuk tua.
@@ -189,7 +189,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bachtiar memungut serpihan kertas yang memuat coretan takaran kimia lokal bertuliskan "Fosfor Kuning & Getah Damar", menyadari paman Wiwin bukan sekadar pelukis biasa.
 - **Detail Fisik & Planting-Callback:** Buku resep bersampul cokelat bertinta merah robek, inhaler asma warna biru.
 
-### Bab 13: Takaran Kimia Bumbu Dapur
+### Bab 13: Rumus Kimia
 - **Adegan & Tokoh:** Minggu, pukul 13.00 WIB di meja kerja Wiwin | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Reaksi Benda
 - **Skenario Masuk:** Jarum timbangan dapur manual bergetar pelan saat Bachtiar menuangkan serbuk belerang kuning dan getah damar tumbuk ke dalam wadah kaleng bekas susu kental manis.
@@ -201,7 +201,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Suara deru knalpot motor matik berhenti di depan ruko, menurunkan seorang pria berpakaian safari necis yang menatap sinis ke arah meja kerja mereka.
 - **Detail Fisik & Planting-Callback:** Kaleng susu kental manis tempat adukan pigmen, timbangan dapur warna merah.
 
-### Bab 14: Lampu Mati Jam Sembilan
+### Bab 14: Uji Coba
 - **Adegan & Tokoh:** Senin, pukul 20.30 WIB di ruko Wiwin yang gelap | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Bachtiar menarik sakelar utama ruko ke bawah, menenggelamkan seluruh ruangan ke dalam kegelapan pekat tanpa seberkas cahaya jalanan.
@@ -213,7 +213,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Dalam remang pendaran hijau neon di kegelapan ruko, jarak di antara dua orang yang tadinya bermusuhan mencair tanpa satu patah kata pun terucap.
 - **Detail Fisik & Planting-Callback:** Pendaran fosfor hijau stabilo di kegelapan, sakelar listrik besi hitam tua.
 
-### Bab 15: Sedan Hitam Banting Harga
+### Bab 15: Kunjungan
 - **Adegan & Tokoh:** Selasa, pukul 10.30 WIB di teras ruko Wiwin | Wiwin, Bachtiar, Pak Haris.
 - **Variasi Pembuka:** Dialog Menusuk
 - **Skenario Masuk:** "Ngapain lu buang-buang waktu di kubangan cat bau tiner ini, Bachtiar? Desainer gagal kok malah mainan kain rombeng!"
@@ -225,10 +225,10 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Dan pagi itu Bachtiar sadar, ada hal-hal di dunia ini yang pantas diperjuangkan sampai titik darah penghabisan, dan wanita bercelemek belepotan cat di sampingnya adalah salah satunya.
 - **Detail Fisik & Planting-Callback:** Cipratan air cucian kuas di ban mobil sedan hitam, celemek kain blacu Wiwin.
 
-### Bab 16: Tombol Pintas Tanpa Maaf
+### Bab 16: Shortcut
 - **Adegan & Tokoh:** Rabu, pukul 21.00 WIB di tangga ruko lantai dua | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Pikiran Tajam
-- **Skenario Masuk:** Tombol pintas Ctrl+Z di papan ketik komputer bisa membatalkan kesalahan desain dalam sedetik, tetapi tidak ada tombol apa pun di dunia nyata yang bisa menghapus rasa terhina.
+- **Skenario Masuk:** Shortcut Ctrl+Z di keyboard komputer bisa membatalkan kesalahan desain dalam sedetik, tetapi tidak ada shortcut apa pun di dunia nyata yang bisa menghapus rasa terhina.
 - **Ketukan Aksi & Reaksi:**
   1. Bachtiar duduk merokok di anak tangga lantai dua menatap lampu jalanan Kalimalang, akhirnya menceritakan masa lalunya yang di-PHK sepihak oleh Pak Haris setelah portofolio branding-nya dicuri atas nama kantor.
   2. Wiwin mendengarkan dalam diam sambil membagikan teh manis hangat buatan Mbak Pur, mengakui bahwa ia sendiri dulu merasa malu karena tidak bisa kuliah dan cuma jadi tukang gambar spanduk.
@@ -237,7 +237,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Wiwin menatap cangkir tehnya, bertanya pelan apakah dua orang yang sama-sama patah sayap bisa terbang melintasi badai festival kota.
 - **Detail Fisik & Planting-Callback:** Cangkir blirik hijau teh manis hangat, anak tangga semen retak berlumut.
 
-### Bab 17: Subuh Buta Tanah Abang
+### Bab 17: Tanah Abang
 - **Adegan & Tokoh:** Kamis, pukul 04.45 WIB di lorong Blok A Pasar Tanah Abang | Wiwin, Bachtiar, kuli panggul.
 - **Variasi Pembuka:** Sensori Lingkungan
 - **Skenario Masuk:** Bau apek gulungan kain katun ribuan meter, aroma kopi tubruk termos, dan teriakan *"Baju-baju! Awas punggung!"* menyambut langkah mereka di lorong pasar tekstil terbesar se-Asia Tenggara.
@@ -249,7 +249,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Di tengah pasar yang hiruk-pikuk tanpa ampun bagi orang lemah, Bachtiar melihat sisi lain Wiwin yang berdiri gagah layaknya ratu rimba kain mori.
 - **Detail Fisik & Planting-Callback:** Segel cap bendera kain mori primisima, karung goni pengikat kain.
 
-### Bab 18: Lontong Sayur Pinggir Rel
+### Bab 18: Lontong Sayur
 - **Adegan & Tokoh:** Kamis, pukul 07.15 WIB di warung tenda emperan Stasiun Tanah Abang | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Wiwin menyendokkan kerupuk merah renyah ke atas piring lontong sayur kuah santan pedas milik Bachtiar sebelum pemuda itu sempat menolaknya.
@@ -261,7 +261,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Wiwin menarik napas pelan lalu menyuap lontongnya buru-buru, menyembunyikan semburat merah di pipinya di balik kepulan asap kuah santan.
 - **Detail Fisik & Planting-Callback:** Kerupuk merah padang, getaran gemuruh rel kereta komuter.
 
-### Bab 19: Satu Detik Bunyi Beep
+### Bab 19: Sablon
 - **Adegan & Tokoh:** Jumat, pukul 15.00 WIB di meja kerja gabungan | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Reaksi Benda
 - **Skenario Masuk:** Uap panas dari pelat mesin pres kaus portabel mendesis tajam saat Bachtiar mengangkat tuas besinya dari atas kain mori.
@@ -273,7 +273,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Bunyi *beep* satu detik itu membuktikan bahwa tradisi dan modernitas tidak harus saling membunuh; keduanya bisa menari di atas kanvas yang sama.
 - **Detail Fisik & Planting-Callback:** Mesin pres transfer panas portabel, bunyi notifikasi aplikasi bank digital.
 
-### Bab 20: Kompresor Meletup Pas Garis
+### Bab 20: Kompresor
 - **Adegan & Tokoh:** Sabtu, pukul 16.00 WIB di ruko Wiwin | Wiwin, Bachtiar, Bang Parlin.
 - **Variasi Pembuka:** Sensori Lingkungan
 - **Skenario Masuk:** *DORRR!* Bunyi ledakan ban truk tronton yang pecah di bengkel sebelah menggetarkan kaca ruko dan membuat seisi ruangan melonjak kaget.
@@ -285,19 +285,19 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Pintu depan berderit terbuka; suara deham berat Cak Qodim membuyarkan momen membeku di antara mereka berdua.
 - **Detail Fisik & Planting-Callback:** Coretan kuas kuning stabilo di kaus hitam Bachtiar, aroma ban terbakar.
 
-### Bab 21: Tes Scan Layar Retak
+### Bab 21: Tes Scan
 - **Adegan & Tokoh:** Minggu, pukul 19.45 WIB di halaman parkir warkop Mbak Pur | Wiwin, Bachtiar, Mbak Pur, Bang Parlin, warga gang.
 - **Variasi Pembuka:** Dialog Menusuk
 - **Skenario Masuk:** "Kalau HP sejuta umat Mbak Pur yang layarnya retak seribu bisa nge-scan barcode ini, berarti spanduk kalian sah sakti mandraguna!"
 - **Ketukan Aksi & Reaksi:**
   1. Wiwin dan Bachtiar memamerkan satu spanduk purwarupa ukuran penuh di bawah lampu jalanan tiang listrik warkop.
-  2. Mbak Pur dan Bang Parlin mencoba memindai kode QRIS menggunakan berbagai jenis ponsel jadul milik sopir ojol yang sedang nongkrong.
-  3. Seluruh pemindaian berhasil seratus persen dari jarak dua meter, memicu sorak gembira dan tepuk tangan para pelanggan warkop.
+  2. Mbak Pur dan Bang Parlin mencoba tes scan kode QRIS menggunakan berbagai jenis ponsel jadul milik sopir ojol yang sedang nongkrong.
+  3. Seluruh tes scan berhasil seratus persen dari jarak dua meter, memicu sorak gembira dan tepuk tangan para pelanggan warkop.
 - **Bentuk Hook Penutup:** Keputusan Sunyi
 - **Skenario Penutup:** Di tengah riuh tawa warga gang, tangan Bachtiar meremas pelan jari Wiwin di balik gulungan kain, mengunci janji perjuangan mereka berdua.
 - **Detail Fisik & Planting-Callback:** Layar HP retak seribu milik Mbak Pur, tepukan pundak kasar Bang Parlin.
 
-### Bab 22: Cap Jempol Tinta Ungu
+### Bab 22: Inspeksi
 - **Adegan & Tokoh:** Senin, pukul 10.00 WIB di bengkel Wiwin | Wiwin, Bachtiar, Cak Qodim.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Cak Qodim memegang kain mori dengan kedua tangannya yang kapalan, merabanya dari sudut ke sudut lalu mendekatkannya ke hidungnya untuk mencium baunya.
@@ -309,7 +309,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Restu sesepuh jalanan telah turun, dan genderang perang menuju festival kuliner Jakarta resmi ditabuh di Kalimalang.
 - **Detail Fisik & Planting-Callback:** Cap jempol tinta ungu di surat rekomendasi paguyuban, lipatan kain mori rapi.
 
-### Bab 23: Kopi Seduh Kurang Gula
+### Bab 23: Cangkir Kopi
 - **Adegan & Tokoh:** Selasa, pukul 23.45 WIB di teras ruko | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Pikiran Tajam
 - **Skenario Masuk:** Lembur malam di Jakarta mengajarkan manusia bahwa teman terbaik bukanlah orang yang banyak bicara, melainkan orang yang tahu kapan harus menyeduhkan cangkir kopi kedua.
@@ -321,7 +321,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Deru suara knalpot motor kurir dinas mengerem mendadak di depan teras, membawa sepucuk surat dinas bersegel merah kilat.
 - **Detail Fisik & Planting-Callback:** Cangkir blirik kopi hitam satu setengah sendok gula, amplop dinas segel merah.
 
-### Bab 24: Tenggat Maju Dua Hari
+### Bab 24: Pemberitahuan
 - **Adegan & Tokoh:** Rabu, pukul 08.00 WIB di kantor sekretariat paguyuban | Wiwin, Bachtiar, Cak Qodim.
 - **Variasi Pembuka:** Reaksi Benda
 - **Skenario Masuk:** Kertas surat dinas berstempel basah itu bergetar di tangan Cak Qodim saat membacakan keputusan rapat koordinasi kota.
@@ -333,7 +333,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Wiwin menatap deretan kain mori putih yang masih kosong melompong, bertanya pada dirinya sendiri apakah batas kekuatan manusia ada ujungnya.
 - **Detail Fisik & Planting-Callback:** Stempel basah warna biru dinas pariwisata, jam dinding berdetik kencang.
 
-### Bab 25: Kuas Lembur Sampai Subuh
+### Bab 25: Kerja Rodi
 - **Adegan & Tokoh:** Kamis, pukul 02.00 WIB di seluruh lantai ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Kuas Wiwin menyapu kain tanpa henti, bergerak ritmis dari gambar ekor lele ke paruh bebek dengan kecepatan dua kali lipat dari biasanya.
@@ -345,7 +345,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Suara gemuruh guntur pertama menggelegar dari langit timur Jakarta, membawa aroma tanah basah dan ancaman badai yang mendekat.
 - **Detail Fisik & Planting-Callback:** Kipas bambu anyaman Pak Lik Harto, plester luka di jari telunjuk Wiwin.
 
-### Bab 26: Air Hujan Tembus Seng
+### Bab 26: Talang
 - **Adegan & Tokoh:** Jumat, pukul 01.30 WIB di ruko Wiwin saat hujan badai | Wiwin, Bachtiar.
 - **Variasi Pembuka:** Sensori Lingkungan
 - **Skenario Masuk:** Angin puting beliung menerjang atap seng ruko tua hingga berderak memekakkan telinga, disusul suara hantaman air bah yang menjebol talang pembuangan atas.
@@ -357,7 +357,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Suara letupan korsleting listrik menyengat dari sudut mesin cetak digital Bachtiar yang terkena cipratan air hujan deras.
 - **Detail Fisik & Planting-Callback:** Gemuruh talang seng jebol, percikan api biru korsleting listrik.
 
-### Bab 27: Banjir di Lantai Semen
+### Bab 27: Pengorbanan
 - **Adegan & Tokoh:** Jumat, pukul 02.15 WIB di bawah atap bocor | Wiwin, Bachtiar.
 - **Variasi Pembuka:** In Medias Res Fisik
 - **Skenario Masuk:** Bachtiar berdiri kokoh di atas meja kerja, membentangkan jaket kanvas tebalnya dan menahan runtuhan seng talang dengan kedua pundaknya agar air tidak jatuh ke tumpukan kain di lantai.
@@ -369,7 +369,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Saat kain terakhir berhasil diamankan, tubuh Bachtiar limbung dan ambruk ke lantai semen yang tergenang air, napasnya tersengal menatap Wiwin.
 - **Detail Fisik & Planting-Callback:** Jaket kanvas basah kuyup berlumur karat seng, genangan air semen dingin.
 
-### Bab 28: Asap Gosong Mainboard Basah
+### Bab 28: Asap Tipis
 - **Adegan & Tokoh:** Jumat, pukul 05.00 WIB di ruko Wiwin pasca-badai | Wiwin, Bachtiar, Mbak Pur.
 - **Variasi Pembuka:** Dialog Menusuk
 - **Skenario Masuk:** "Jangan dipaksa dicolok lagi, Mas Bachtiar! Mainboard-nya sudah hangus kebakar air!"
@@ -381,7 +381,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Pintu ruko didobrak dari luar; derap langkah belasan pasang sandal jepit menyerbu masuk membawa senter dan peralatan kerja.
 - **Detail Fisik & Planting-Callback:** Bau tembaga gosong mainboard printer, sambal terasi hangat kiriman Mbak Pur.
 
-### Bab 29: Blower Pengering Tambal Ban
+### Bab 29: Gotong Royong
 - **Adegan & Tokoh:** Jumat, pukul 08.00 WIB di pelataran ruko Wiwin | Wiwin, Bachtiar, Cak Qodim, Bang Parlin, puluhan pedagang tenda.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Bang Parlin menyeret tiga kompresor angin dan dua blower pengering ban dari bengkelnya, memasang instalasi darurat di tengah ruko Wiwin.
@@ -393,7 +393,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Di Kalimalang, solidaritas orang jalanan tidak diukur dari uang di rekening, melainkan dari kesediaan mengotori tangan demi kehormatan sesama.
 - **Detail Fisik & Planting-Callback:** Blower pengering tambal ban Bang Parlin, saringan sutra sablon manual nomor 120.
 
-### Bab 30: Tali Rafia Lima Puluh Tenda
+### Bab 30: Hari Pembuktian
 - **Adegan & Tokoh:** Sabtu, pukul 15.30 WIB di sepanjang jalan protokol festival kota | Wiwin, Bachtiar, Cak Qodim, panitia festival.
 - **Variasi Pembuka:** Sensori Lingkungan
 - **Skenario Masuk:** Angin sore meniup puluhan kain spanduk putih bersih yang baru terpasang di kerangka besi tenda, menyebarkan aroma khas cat sablon baru dan wangi arang batok kelapa.
@@ -405,7 +405,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Wiwin dan Bachtiar berdiri bersisian menatap bentangan 50 spanduk karya mereka, menanti saat matahari terbenam dan lampu-lampu kota dinyalakan.
 - **Detail Fisik & Planting-Callback:** Tali rafia hitam pengikat sudut tenda, arang batok kelapa membara.
 
-### Bab 31: Bohlam Kuning Menyala Bersama
+### Bab 31: Lampu Kota
 - **Adegan & Tokoh:** Sabtu, pukul 20.00 WIB di pusat festival kuliner | Wiwin, Bachtiar, Cak Qodim, ribuan pengunjung.
 - **Variasi Pembuka:** Pikiran Tajam
 - **Skenario Masuk:** Ada keajaiban yang hanya terjadi di jalanan Indonesia ketika malam tiba: bagaimana selembar kain mori sederhana bisa menyulap trotoar berdebu menjadi pesta rakyat penuh rasa.
@@ -417,7 +417,7 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 - **Skenario Penutup:** Di tengah sorak kerumunan dan kilau pendaran warna neon malam itu, jemari Bachtiar menggenggam erat tangan Wiwin yang penuh noda cat, tahu bahwa ia telah menemukan rumahnya.
 - **Detail Fisik & Planting-Callback:** Piring blirik hijau legendaris penyaji lele goreng, sorot lampu merkuri festival.
 
-### Bab 32: Plang Kayu Dua Ruko
+### Bab 32: Bergabung
 - **Adegan & Tokoh:** Minggu berikutnya, pukul 17.00 WIB di depan ruko gabungan | Wiwin, Bachtiar, Pak Lik Harto, Mbak Pur, Bang Parlin.
 - **Variasi Pembuka:** Aksi Fisik
 - **Skenario Masuk:** Wiwin menaiki tangga lipat kayu, memaku plang kayu baru bercat hijau stabilo di atas kusen pintu ruko yang kini telah menyatu.

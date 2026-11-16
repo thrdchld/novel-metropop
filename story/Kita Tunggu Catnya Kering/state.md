@@ -9,7 +9,7 @@
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
 - **Bab Terakhir Selesai:** Belum ada (Menjelang Bab 1)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 1 (*Bukan Mesin Fotokopi*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 1 (*Kuas*)
 - **Titik Waktu Cerita:** Selasa, Pukul 04.30 WIB
 - **Lokasi Terkini Tokoh Utama:** Lantai semen ruko bengkel spanduk kain mori, Kalimalang, Jakarta Timur
 - **Cuaca / Suasana Fisik:** Udara subuh dingin berkabut tipis, aroma knalpot truk pasir bercampur bau tiner cat tekstil
