@@ -36,6 +36,28 @@ Aku memandangnya. "Kita bahkan belum tahu apakah kita tahan bekerja bersama tanp
 
 Aji mengangguk. "Masuk akal."
 
+Ia meletakkan cangkirnya di lantai, lalu melihat tanganku yang masih menyisakan noda cat di sekitar kuku.
+
+"Tanganmu sakit?" tanyanya.
+
+"Sedikit pegal. Bukan pertama kalinya."
+
+"Kalau terus dipaksa, bisa jadi pertama kalinya kamu benar-benar tidak bisa memegang kuas."
+
+Aku menatapnya. "Kamu mulai terdengar seperti Pak Lik."
+
+"Berarti saya sedang belajar dari orang yang tepat."
+
+Aku tertawa kecil. Kami tidak membicarakan hubungan atau hal-hal yang belum jelas. Yang kami bicarakan hanya pekerjaan kecil yang mungkin bisa diterima setelah festival: satu spanduk warung, papan nama, atau pesanan dari pedagang yang tidak sanggup membayar vendor besar.
+
+"Kalau kita mencoba, jangan langsung menerima banyak pesanan," kataku. "Kita harus tahu berapa lama satu pekerjaan selesai."
+
+Aji mengangguk. "Dan biaya bahan harus dicatat sejak awal. Tidak ada lagi menghitung keuntungan dari uang yang masuk saja."
+
+"Bagus. Berarti kamu sudah belajar sesuatu selain ukuran piksel."
+
+Ia tersenyum, lalu menghabiskan kopinya.
+
 Jaket kanvas abu-abunya tergantung di sandaran kursi. Noda kuning di siku kanan masih terlihat, bekas kuasku yang tidak pernah berhasil dibersihkan.
 
 "Jaket itu masih kamu simpan?" tanyaku.
@@ -54,7 +76,7 @@ Menjelang malam, sebuah kurir datang membawa amplop dari panitia. Cak Qodim yang
 
 "Jadwal festival dimajukan," katanya. "Pembukaan yang semula Kamis dipindah ke Selasa malam karena perubahan agenda kunjungan. Pengiriman lima puluh spanduk utama yang semula dijadwalkan Senin pagi ikut ditunda sampai jadwal pemasangan dipastikan."
 
-Aji berdiri. "Pemasangan Senin masih bisa. Tapi kenapa Cak kelihatan begitu?"
+Aji berdiri. "Kalau jadwal berubah, pengiriman dan pemasangan bisa kita atur lagi. Tapi kenapa Cak kelihatan begitu?"
 
 Cak Qodim membalik halaman kedua. "Ada tambahan permintaan sepuluh spanduk untuk zona VIP. Mereka minta selesai sebelum Selasa pagi, lalu dipasang bersama lima puluh spanduk utama."
 
