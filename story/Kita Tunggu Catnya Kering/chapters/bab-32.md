@@ -1,39 +1,67 @@
 ## Bab 32: Bergabung
 
-Dentang palu kayuku menghujam paku beton lima sentimeter ke atas kusen pintu ruko, mengunci plang kayu jati baru di bawah naungan langit sore Kalimalang.
+Papan kayu bertuliskan Studio Tenda Malam akhirnya terpasang di atas pintu ruko. Di bawahnya, ada tulisan yang lebih kecil: Lukis Spanduk dan Layanan Desain.
 
-Aku berdiri di anak tangga ketiga tangga lipat kayu, menyeka keringat tipis di dahi dengan punggung tangan kiri. Di atasku, sebuah papan nama berukuran dua meter bercat dasar putih dengan tulisan kuas hijau stabilo kini bertengger gagah: Studio Tenda Malam, Seni Lukis Tradisi dan Presisi Digital.
+Aku berdiri di anak tangga lipat, memastikan ujung papan tidak miring. Aji mengawasi dari bawah sambil memegang waterpass.
 
-"Kanan sedikit, Win! Masih miring dua milimeter," seru Aji dari bawah trotoar sambil memegang waterpass saku.
+"Kiri sedikit," katanya.
 
-"Dua milimeter saja dipermasalahkan," sahutku sambil tertawa geli, mengetuk ujung kanan papan dengan palu kayu sampai gelembung air di alat pengukur Aji tepat berada di tengah garis presisi.
+"Katanya tadi kanan."
 
-"Presisi itu tanda cinta pada pekerjaan, Wiwin," balas Aji sambil tersenyum lebar menengadah menatapku.
+"Sudah. Sekarang kiri."
 
-Aku menuruni tangga kayu lipat itu dengan hati yang lapang. Kupandangi pintu ruko kami yang kini telah berubah total. Sekat tripleks pembatas ruko yang dulu angkuh kini telah dibongkar rata. Garis lakban hitam yang dulu ditempel Aji untuk memisahkan teritori kekuasaan sudah dikikis bersih tanpa bekas, menyisakan lantai semen yang kini disatukan oleh deretan meja kerja kayu kembar.
+"Dua milimeter saja kamu ribut."
 
-Di teras depan, Pak Lik Harto duduk santai di kursi rotan barunya, menikmati angin sore sambil menyesap teh melati hangat. Di sampingnya, Bang Parlin yang baru saja mencuci tangannya dari oli bengkel sedang asyik mencelupkan pisang goreng panas buatan Mbak Pur ke dalam piring seng blirik hijau.
+"Kalau papan nama saja miring, nanti orang ragu sama pekerjaan kita."
 
-"Dua anak muda ini dulu tiap hari saling lempar sandal jepit dan pasang muka sangar," celetuk Cak Qodim yang baru saja tiba menuntun sepeda ontelnya di pelataran. "Sekarang malah buka studio bareng. Memang betul kata pepatah lama, jodoh itu datangnya dari wajan panas."
+Aku mengetuk sisi papan dengan palu sampai gelembung pada waterpass berada di tengah. Setelah turun, aku memandangi ruangan yang dulu dibagi garis lakban hitam. Sekat tripleks sudah dibongkar. Meja kerja kami sekarang berdampingan, tetapi masing-masing tetap punya tempat untuk menyimpan alat.
 
-Mbak Pur terkekeh renyah sambil menuangkan kopi hitam ke cangkir kaleng Bang Parlin. "Bukan dari wajan panas, Cak! Dari aroma tiner dan kompresor bocor!"
+Pak Lik duduk di kursi rotan dekat pintu. Kondisinya sudah lebih baik setelah beristirahat dan kembali menjalani pemeriksaan rutin. Bang Parlin membantu memasang rak, sementara Mbak Pur datang membawa pisang goreng untuk orang-orang yang sejak pagi bekerja.
 
-Gelak tawa para tetangga gang membahana memecah riuhnya deru kendaraan jalan raya Kalimalang. Setelah pelunasan proyek festival kuliner dan bonus kemitraan dari dinas dicairkan, Pak Lik Harto kini bisa berobat rutin tanpa perlu mencemaskan biaya, sementara Aji membeli sebuah mesin sablon pres termal baru dengan kapasitas lebih besar untuk mendukung produksi spanduk kami.
+"Jadi benar-benar buka studio?" tanya Cak Qodim yang baru datang.
 
-Aji melangkah masuk ke dalam ruko, menghampiri bentangan kain mori putih empat meter yang terbentang di atas meja kerja tengah. Ia masih mengenakan jaket kanvas abu-abu kesayangannya. Di siku lengan kanannya, bercak cat kuning stabilo hasil senggolan kuasku masih menempel abadi, menjadi bukti penerimaan tanpa syarat atas dunia reklame malam yang kini ia cintai.
+"Benar, Cak," jawabku. "Tapi kami mulai kecil dulu."
 
-"Pesanan spanduk baru dari asosiasi pedagang soto Lamongan Bekasi," kata Aji, menunjukkan selembar kertas sketsa di samping kaleng cat oranye. "Mereka minta lukisan ayam jago petarung yang mengepakkan sayap di samping mangkok soto kuah kuning."
+Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis pembagian pekerjaan dan modal awal. Kami sepakat memiliki studio ini bersama dengan porsi yang sama. Aku memasukkan peralatan lukis dan menangani ilustrasi, pemilihan kain, serta pemeriksaan hasil manual. Aji menangani desain digital, pengolahan file, panel QRIS, dan kerja sama dengan percetakan luar selama mesin lamanya belum jelas nasibnya.
 
-Ia mengambil sebatang kuas nomor lima berbulu tebal, mencelupkan ujungnya ke piring adukan cat, lalu menatap bentangan kain kosong dengan ragu.
+Untuk pesanan bersama, semua biaya bahan, ongkos produksi, transportasi, dan tenaga tambahan akan dicatat lebih dulu. Keuntungan bersih dibagi sesuai kesepakatan. Kami juga menyisihkan sebagian pemasukan untuk perawatan alat dan kebutuhan studio.
 
-"Tangan kaku desainer digital ini masih takut bikin garisnya melenceng," bisik Aji menoleh padaku.
+"Jangan sampai nanti ribut gara-gara uang," kata Pak Lik.
 
-Aku tersenyum lembut, lalu melangkah berdiri di belakangnya. Kurengkuh tangan kanannya yang sedang memegang batang kayu kuas, membiarkan jemariku menuntun arah gerak tangannya. Di atas serat katun primisima yang putih bersih, kami berdua menggoreskan lengkungan kurva pertama: sapuan warna jingga yang menyala tebal dan mantap.
+"Makanya dicatat, Lik," jawab Aji.
 
-"Jangan terburu-buru menarik garis kedua," bisikku pelan di dekat telinganya. "Seni jalanan mengajarkan kita untuk sabar. Biarkan warna pertamanya meresap dulu ke dalam serat kain."
+Mesin cetak digitalnya masih berada di bengkel untuk diperiksa. Biaya perbaikan yang ditawarkan cukup besar, jadi Aji belum mengambil keputusan. Sebagai gantinya, ia membeli mesin pres termal bekas berukuran kecil menggunakan sebagian tabungan dan bagian keuntungan proyek festival yang memang sudah disisihkan untuk alat. Mesin itu tidak bisa menggantikan printer besar, tetapi cukup untuk pekerjaan panel transfer sederhana.
 
-Aji menoleh, menatap mataku dengan tatapan hangat yang memancarkan rasa syukur tanpa batas.
+"Kalau nanti ada pesanan yang butuh cetak besar, kita tetap kerja sama dengan vendor," kata Aji. "Tidak perlu memaksakan punya semua mesin sendiri."
 
-"Iya, Wiwin," ucap Aji lembut, meremas jemariku yang masih menempel di atas tangannya. "Kita tunggu catnya kering bersama-sama."
+Aku mengangguk. "Yang penting hasilnya tetap kita periksa."
 
-Di bawah langit sore ibu kota yang perlahan beranjak senja, dua jiwa yang dulu terpisah oleh dinding ego dan mesin yang dingin kini telah menyatu utuh di atas selembar kanvas kehidupan. Di jalanan Kalimalang ini, karya sejati tidak pernah dicetak instan oleh mesin pabrik, melainkan dilukis oleh dua hati yang berani bertahan menjaga nyawa di tengah malam.
+Pagi itu ada pesanan pertama yang masuk setelah kabar festival menyebar. Sebuah asosiasi pedagang soto dari Bekasi meminta desain spanduk dengan ilustrasi ayam jago di samping mangkuk soto. Jumlahnya belum banyak, tetapi cukup untuk memulai.
+
+Aji membentangkan kain contoh di atas meja. Ia mengambil kuas nomor lima, lalu menatap ujungnya dengan ragu.
+
+"Tangan desainer digital ini belum tentu bisa bikin garis lurus," katanya.
+
+"Memang tidak harus langsung bagus."
+
+Aku berdiri di sampingnya dan menunjukkan cara memegang kuas agar pergelangan tidak kaku. Aji mencoba menarik satu lengkungan jingga di atas kain. Garisnya sedikit bergetar, tetapi tidak sampai merusak bentuk.
+
+"Sudah lumayan," kataku.
+
+"Kalau menurutmu lumayan, berarti masih perlu latihan."
+
+"Betul."
+
+Kami tertawa. Aji meletakkan kuas sebentar dan membiarkan cat pertama mengering sebelum menarik garis berikutnya.
+
+Di luar, suara kendaraan Kalimalang kembali memenuhi jalan. Di dalam ruko, meja-meja kerja yang dulu dipisahkan kini dipakai bersama. Kami belum tahu apakah studio kecil ini akan bertahan, berapa banyak pesanan yang datang, atau kapan mesin lama Aji bisa kembali bekerja.
+
+Untuk sekarang, kami punya satu pesanan, alat yang cukup, dan cara kerja yang sudah kami sepakati.
+
+Aji menatap lengkungan jingga yang mulai mengering.
+
+"Kita tunggu catnya kering bersama-sama," katanya.
+
+Aku mengambil kuas lain dari kaleng. "Setelah itu baru lanjut garis berikutnya."
+
+Ia mengangguk, lalu kembali bekerja.
