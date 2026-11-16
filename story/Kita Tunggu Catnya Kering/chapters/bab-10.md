@@ -46,6 +46,14 @@ Aku mengambil sampel pertama, lalu membandingkan bagian yang menempel dengan bag
 
 Aji mengambil plastik bening untuk membungkus sampel gagal. "Kita simpan sebagai pembanding. Kalau bahan berikutnya berhasil, kita tahu apa yang berubah."
 
+Ia memotret bagian yang berkerut dari dua sudut, lalu menambahkan catatan tentang tekanan squeegee dan kondisi kain. Aku mengingatkan agar ia juga mencatat jenis mori yang dipakai, karena tidak semua kain punya kerapatan tenun yang sama.
+
+"Kalau nanti pemasok bilang bahan ini cocok untuk semua jenis kain, kita jangan langsung percaya," kataku.
+
+Aji mengangguk. "Saya akan minta lembar petunjuk dan contoh bahan lain. Kalau mereka punya rekomendasi khusus untuk katun, kita coba dulu sebelum membeli banyak."
+
+Aku mengambil potongan sampel yang masih bersih dan menuliskan tanggal percobaan di ujungnya. Setidaknya, kami tidak akan mengulang tes yang sama hanya karena lupa hasil sebelumnya.
+
 Aku tersenyum tipis. Biasanya Aji akan membela pilihannya panjang lebar. Kali ini ia mencatat kegagalan itu tanpa mencari alasan.
 
 "Untuk sementara, gambar manual tetap bisa kita kerjakan," kataku. "Kotak QRIS jangan dicat. Sisakan bidang yang ukurannya sudah kita sepakati."
