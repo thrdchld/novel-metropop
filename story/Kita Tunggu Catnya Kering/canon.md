@@ -18,8 +18,8 @@
 
 ## 2. Premis ABCD & Inti Emosi
 
-- **A (Character):** Dwi Winarsih alias Wiwin (26), wanita perantau Pantura yang meneruskan usaha seni lukis spanduk kain mori pecel lele peninggalan pamannya di ruko Kalimalang; tangannya selalu berbekas cat neon stabilo dan memegang teguh pakem tradisi visual warung tenda malam.
-- **B (Routine):** Setiap hari membentang kain mori di lantai semen, mengoplos cat sablon berbau tiner, dan mengantar pesanan spanduk ke warung-warung tenda pinggir jalan demi membiayai obat asma pamannya.
+- **A (Character):** Dwi Winarsih alias Wiwin (26), perantau Pantura yang meneruskan usaha lukis spanduk kain mori milik pamannya di ruko Kalimalang; tangannya sering berbekas cat warna terang dan ia memegang pakem visual warung tenda malam.
+- **B (Routine):** Setiap hari membentang kain mori, menyiapkan cat lukis kain, dan mengantar pesanan spanduk ke warung tenda pinggir jalan demi membantu biaya obat asma pamannya.
 - **C (Inciting Incident):** Usahanya terancam bangkrut saat Aji (28), mantan desainer agensi yang di-PHK, membuka percetakan banner digital bekas di ruko seberang jalan dan merebut pelanggan dengan spanduk plastik MMT murah meriah ber-QRIS.
 - **D (Action):** Menghadapi proyek 50 spanduk yang kemudian bertambah 10 VIP, Wiwin dan Aji menggabungkan ilustrasi manual dengan panel QRIS digital yang dicetak pada bahan transfer dan diterapkan pada kain menggunakan mesin pres termal pinjaman. Kerja sama itu menuntut mereka membagi tugas, menguji bahan, dan menghitung biaya secara nyata.
 - **Tema / Makna Cerita:** Nilai sebuah karya tidak diukur dari seberapa cepat mesin mencetaknya, melainkan dari seberapa banyak jiwa dan keringat yang dituangkan ke dalamnya; cinta dan penghargaan tumbuh saat dua manusia berani meruntuhkan gengsi untuk saling melengkapi.
@@ -73,14 +73,14 @@
 
 ## 6. Latar Tempat & Benda Khas yang Berulang
 
-- **Ruko Seni Spanduk Kalimalang:** Ruko 1,5 lantai berlantai semen dingin, langit-langit berdebu dengan atap seng tua yang rawan bocor; lantai dipenuhi bentangan kain mori dan deretan kaleng cat sablon berbau tiner menyengat.
+- **Ruko Seni Spanduk Kalimalang:** Ruko 1,5 lantai berlantai semen, langit-langit berdebu dengan atap seng tua yang rawan bocor; ruang kerja dipenuhi bentangan kain mori, kuas, dan kaleng cat lukis kain.
 - **Percetakan Digital Seberang Jalan:** Kios sempit seberang aspal tempat mesin cetak digital outdoor bekas Aji berbunyi mendesing monoton di bawah lampu neon putih.
 - **Warung Tenda Pecel Lele Cak Qodim:** Tenda dua petak beratap terpal oranye-biru di perempatan lampu merah; wajan minyak jelantah berbuih mendidih di atas kompor mawar, cobek batu sambal terasi, dan aroma gurih kol goreng.
 - **Warkop Mbak Pur:** Meja kayu sederhana beralas terpal motif kotak-kotak; stoples gorengan kaca, deretan rencengan kopi saset gantung, dan radio transistor kecil.
 - **Benda Planting Utama:**
   - *Piring seng blirik hijau loreng:* Tempat Wiwin mengaduk cat (Bab 1) -> Dipakai menyajikan lele goreng perayaan (Bab 31).
   - *Noda cat kuning stabilo di siku jaket Aji:* Terkena kuas Wiwin (Bab 7) -> Sengaja tidak dicuci Aji sebagai memori abadi (Bab 32).
-  - *Buku catatan bahan lama:* Ditemukan di kamar Pak Lik (Bab 12) -> Menjadi referensi eksperimen bahan; bukan formula instan untuk QRIS (Bab 13).
+  - *Buku catatan bahan lama:* Ditemukan di kamar Pak Lik (Bab 12) -> Menjadi referensi eksperimen bahan; bukan formula instan dan bukan sumber teknologi QRIS (Bab 13).
 
 
 ## 7. Aturan Kontinuitas Final
@@ -103,7 +103,7 @@
 ## 8. Aturan Produksi dan Akhir Cerita
 
 - Panel QRIS dibuat dari file resmi merchant, dicetak digital pada bahan transfer, lalu diterapkan ke kain dengan mesin pres termal pinjaman pemasok selama proyek festival.
-- Mesin pres termal kecil yang muncul pada akhir cerita adalah pembelian baru Aji setelah festival, bukan alat yang sejak awal dimiliki studio.
+- Mesin pres termal yang dipakai selama proyek dipinjam dari pemasok bahan. Mesin pres termal kecil yang muncul pada akhir cerita adalah pembelian baru Aji setelah festival, bukan alat yang sejak awal dimiliki studio.
 - Kain tambahan untuk 10 spanduk VIP berjumlah 32 meter, ditambah sisa 12 meter dari persediaan awal. Pembelian dilakukan setelah perubahan pesanan dan uang muka disetujui.
 - Pengiriman 50 spanduk utama yang semula dijadwalkan Senin ditunda setelah festival dimajukan ke Selasa. Seluruh 60 spanduk dibawa ke lokasi pada Selasa sebelum pemasangan.
 - Pada akhir cerita, studio mulai beroperasi pada Minggu menjelang siang setelah festival Selasa malam.
