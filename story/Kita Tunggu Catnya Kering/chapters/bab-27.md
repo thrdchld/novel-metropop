@@ -26,6 +26,16 @@ Aku mendekat setelah memastikan tidak ada kabel atau bagian listrik yang masih b
 
 Pak Lik mengambil kotak P3K dari bilik. Kami membersihkan luka Aji dengan air bersih dan menutupnya menggunakan kasa. Sayatannya tidak tampak dalam, tetapi tetap perlu diperiksa di klinik karena terkena logam kotor.
 
+Aji mencoba berdiri untuk melihat talang sekali lagi. Aku menahan bahunya.
+
+"Sudah. Kamu tidak perlu memastikan semuanya sendiri."
+
+"Kalau talangnya bergeser lagi?"
+
+"Bang Parlin bisa membantu setelah terang. Sekarang kita tunggu."
+
+Ia akhirnya duduk kembali. Aku mengambil handuk kering dari bilik dan meletakkannya di pundaknya. Pak Lik memastikan tidak ada bagian logam yang masih menggantung tepat di atas pintu. Kami sepakat tidak menyentuhnya lagi sampai ada cukup cahaya dan bantuan untuk mengamankan rangka.
+
 Aji masih berusaha bangkit. "Talangnya sudah menjauh dari pintu?"
 
 "Sudah. Sekarang yang penting tanganmu."
