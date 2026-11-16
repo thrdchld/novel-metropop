@@ -1,43 +1,43 @@
 ## Bab 30: Hari Pembuktian
 
-Angin malam berhembus lembut meniup bentangan enam puluh lembar kain spanduk mori, menyebarkan wangi arang batok kelapa yang mulai membara di sepanjang trotoar festival.
+Pukul tujuh malam, pengunjung mulai memenuhi area festival kuliner di Cawang. Lampu-lampu tenda menyala, asap arang naik dari panggangan, dan suara pedagang menawarkan menu bersahutan di sepanjang jalan.
 
-Pukul tujuh malam tepat, ribuan pasang mata warga ibu kota mulai memadati gerbang masuk festival kuliner nusantara di kawasan Cawang. Di atas kerangka pipa besi, lampu bohlam pijar kuning lima belas watt dinyalakan serempak di setiap tenda. Seketika itu juga, pemandangan magis terbentang di sepanjang jalan protokol sepanjang satu kilometer.
+Enam puluh spanduk mori terbentang di atas masing-masing tenda. Lukisan lele, ayam jago, bebek goreng, dan burung dara terlihat jelas di bawah lampu. Warna hijau dan jingga yang kupakai memang tidak menyala sendiri seperti lampu, tetapi tetap tampak terang ketika terkena pencahayaan festival.
 
-Pigmen fosfor dan getah damar mata kucing yang kuracik dari buku resep usang Pak Lik Harto bereaksi sempurna terhadap cahaya bohlam malam.
+Di sisi kanan bawah setiap kain, panel QRIS terpasang pada bidang yang rata. Sebelum acara dibuka, kami sudah menguji setiap kode dengan ponsel dan mencocokkan nama merchant yang muncul. Pengujian itu memastikan kode dapat dibaca, bukan membuktikan pembayaran sudah berhasil.
 
-Sosok lele Lamongan dengan kumis melengkung gagah, bebek goreng renyah beralas daun pisang, dan burung dara bakar tampak memendarkan warna hijau dan jingga neon yang sangat hidup. Ratusan pengunjung muda langsung berhenti, mengeluarkan ponsel mereka untuk berfoto di depan kain lukisan yang menyala terang. Di sudut kanan setiap tenda, panel sablon hitam berukuran dua puluh sentimeter memuat matriks kode QRIS yang tercetak tajam tanpa luntur sedikit pun.
+Menteri dan rombongan wali kota tiba bersama kepala dinas. Mereka berhenti di tenda utama milik Cak Qodim. Sejumlah wartawan dan petugas protokol mengikuti dari belakang.
 
-"Menteri dan rombongan wali kota sudah masuk tenda utama!" seru seorang panitia dengan handy talky yang berderak nyaring.
+Menteri mengamati lukisan kepala lele di spanduk, lalu bertanya kepada Cak Qodim siapa yang membuatnya.
 
-Kerumunan wartawan dan petugas protokol berjas safari mulai bergerak mendekat ke arah tenda nomor satu milik Cak Qodim. Di barisan paling depan, Menteri Pariwisata dan Ekonomi Kreatif melangkah santai mengenakan kemeja batik lengan panjang, didampingi kepala dinas kota. Di barisan belakang pejabat, Pak Haris berdiri dengan senyum kaku dan wajah yang pucat pasi menatap deretan karya kami.
+"Dwi Winarsih yang melukis, Pak. Mas Aji yang mengurus desain panel dan pembayaran digitalnya," jawab Cak Qodim sambil menunjuk ke arah kami.
 
-Menteri menghentikan langkahnya tepat di depan bentangan kain mori warung Cak Qodim. Matanya mengamati goresan kuas manual kepala lele yang memantulkan pendaran neon jingga.
+Menteri mengangguk. "Menarik. Bagaimana kode pembayarannya bisa dipasang di kain seperti ini?"
 
-"Luar biasa," puji Menteri sambil menyentuh serat kain katun mori dengan jarinya. "Ini lukisan tangan asli, bukan cetakan plastik baliho pabrik. Siapa yang mendesain spanduk tradisional seindah ini?"
+Aji maju selangkah. "Setiap warung memakai QRIS milik masing-masing, Pak. Panelnya dicetak terpisah lalu dipasang pada kain. Kami sudah memeriksa satu per satu sebelum pemasangan."
 
-Cak Qodim melangkah maju dengan dada membusung bangga, lalu menunjuk ke arahku dan Aji yang berdiri di samping gerobak. "Dua anak muda ini, Pak Menteri! Dwi Winarsih yang melukis kuasnya, dan Mas Aji yang memasang teknologi pembayarannya."
+"Kalau begitu, kita coba."
 
-Menteri tersenyum hangat, mengangguk hormat ke arah kami berdua. "Sentuhan seni lokalnya sangat kuat. Tapi bagaimana dengan integrasi pembayaran nontunainya? Apakah sensor ponsel bisa membaca kode di atas kain bergelombang ini?"
+Menteri mengeluarkan ponselnya dan memindai kode di tenda Cak Qodim. Nama merchant yang muncul sesuai dengan nama warung tersebut. Ia memasukkan nominal seratus ribu rupiah, lalu mengonfirmasi pembayaran. Beberapa detik kemudian, ponsel Cak Qodim berbunyi menerima notifikasi transaksi.
 
-"Silakan dicoba langsung, Pak Menteri," kata Aji tenang sambil mempersilakan.
+"Sudah masuk!" seru Cak Qodim sambil memperlihatkan layar ponselnya.
 
-Menteri mengeluarkan ponsel pintarnya dari saku kemeja. Para fotografer dan kamera televisi swasta langsung menyorotkan lampu blitz ke arah tangan sang pejabat. Suasana di depan warung tenda mendadak senyap saat lensa kamera menteri diarahkan ke sudut panel sablon damar.
+Orang-orang di sekitar tenda bertepuk tangan. Aku ikut tersenyum lega. Bukan karena satu transaksi itu membuktikan semua hal, melainkan karena kode yang kami pasang benar-benar berfungsi pada saat dibutuhkan.
 
-Jarak satu setengah meter. Sudut kemiringan tiga puluh derajat.
+Menteri menanyakan proses pengerjaan dan siapa saja yang terlibat. Aku menjelaskan bahwa lukisan dibuat manual, sedangkan panel pembayaran disiapkan secara digital agar kode tiap pedagang tetap terbaca. Aji menambahkan bahwa setiap kode diperiksa bersama pemilik warung sebelum kain dipasang.
 
-BEEP!
+"Ini contoh kerja sama yang baik," kata menteri. "Tradisi dan teknologi tidak harus saling menggantikan."
 
-Hanya butuh waktu nol koma dua detik bagi sensor ponsel untuk membaca matriks hibrida itu. Layar ponsel sang menteri seketika menampilkan logo resmi Bank Indonesia dan nama rekening Paguyuban Tenda Malam Kalimalang Sejahtera.
+Kepala dinas kemudian berbicara dengan Cak Qodim mengenai evaluasi acara dan kelanjutan kerja sama dengan paguyuban. Seorang staf panitia mencatat nama kami untuk dokumentasi. Tidak ada janji bahwa proyek ini akan langsung menjadi percontohan nasional, tetapi setidaknya hasil pekerjaan kami mendapat perhatian yang semestinya.
 
-Menteri langsung mengetikkan nominal seratus ribu rupiah dan menekan tombol konfirmasi. Ponsel jadul Cak Qodim yang tergeletak di atas meja kaleng seketika berdering nyaring menerima notifikasi transaksi masuk.
+Di sisi lain area, Pak Haris berdiri bersama beberapa orang dari panitia. Ia sempat mendekati kepala dinas, menyerahkan map, lalu berbicara singkat. Setelah itu ia pergi tanpa menghampiri kami.
 
-Tepuk tangan meriah dan sorak sorai penonton seketika pecah membelah malam.
+Aji berdiri di sampingku. Tangan kanannya masih dibalut, jadi ia hanya menyentuh ujung jemariku dengan tangan kiri.
 
-"Ini contoh sempurna dari modernitas yang tidak mencabut akar tradisi kita!" seru Menteri di hadapan mikrofon wartawan. "Kreativitas anak muda Kalimalang ini harus jadi percontohan nasional untuk seluruh pelaku UMKM kuliner di Indonesia!"
+"Sudah selesai," katanya.
 
-Menteri kemudian membungkuk menyalami tangan Pak Lik Harto yang duduk di kursi roda, menyampaikan rasa kagumnya pada keteguhan seniman tradisi. Kepala dinas tersenyum lebar dan menjabat tangan kami berdua berulang kali. Di sudut trotoar seberang, kulihat Pak Haris menundukkan kepalanya dalam-dalam, lalu melangkah menyelinap di balik punggung petugas keamanan dan menghilang ke dalam gelap.
+"Acara baru mulai."
 
-Aji menoleh menatapku. Tangannya yang masih kasar oleh bekas luka sablon menyentuh ujung jemariku di samping bentangan kain.
+"Maksudku, bagian yang paling kita takutkan."
 
-Di tengah riuh tepuk tangan warga dan gemerlap lampu sorot festival, kutatap deretan spanduk kami yang berkibar megah di sepanjang jalan, bertanya-tanya apakah kemenangan malam ini adalah ujung dari sebuah perjuangan panjang, ataukah pintu gerbang pembuka bagi lembaran hidup kami yang baru?
+Aku memandang layar ponsel Cak Qodim yang masih menampilkan notifikasi pembayaran. Ada banyak hal yang belum selesai: mesin Aji, biaya produksi, dan pekerjaan berikutnya. Namun malam itu, setidaknya kami tidak perlu lagi bertanya apakah semua usaha kami akan berakhir sia-sia.
