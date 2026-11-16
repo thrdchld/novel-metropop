@@ -6,7 +6,7 @@
 
 - **Bab terakhir:** Bab 32, *Bergabung*.
 - **Status:** Naskah lengkap, masih memerlukan audit integrasi dan penyelarasan dokumen pendamping.
-- **Titik waktu akhir:** Minggu sore, beberapa hari setelah festival Selasa malam.
+- **Titik waktu akhir:** Minggu menjelang siang berikutnya, beberapa hari setelah festival Selasa malam.
 - **Lokasi:** Studio Tenda Malam, ruko gabungan Wiwin dan Aji di Kalimalang.
 - **POV:** Dwi Winarsih (Wiwin), orang pertama.
 - **Keadaan:** Studio mulai beroperasi dengan satu pesanan baru. Hubungan Wiwin dan Aji telah berkembang menjadi hubungan personal sekaligus kemitraan kerja, tetapi usaha mereka masih tahap awal.
@@ -22,7 +22,7 @@
 | Pemasangan 60 spanduk dengan bantuan paguyuban | Selasa menjelang siang |
 | Festival dibuka dan transaksi QRIS diuji sungguhan | Selasa malam |
 | Perayaan kecil bersama warga | Selasa malam |
-| Studio Tenda Malam mulai beroperasi | Minggu sore berikutnya |
+| Studio Tenda Malam mulai beroperasi | Minggu menjelang siang berikutnya |
 
 ## III. Status Tokoh di Akhir Cerita
 
@@ -48,7 +48,7 @@
 |---|---|
 | Piring seng blirik hijau-putih | Dicuci bersih; dipakai menyajikan makanan saat perayaan Bab 31. |
 | Kuas Wiwin | Tetap menjadi alat utama ilustrasi manual. |
-| Buku resep Pak Lik | Sumber catatan lama untuk eksperimen; bukan formula ajaib. Dikembalikan ke tempat penyimpanannya setelah digunakan. |
+| Buku catatan bahan Pak Lik | Referensi percobaan cat lama; bukan formula ajaib. Dikembalikan ke tempat penyimpanannya setelah digunakan. |
 | Jaket kanvas Aji | Tetap memiliki noda kuning di siku kanan; terkena air dan karat saat badai, lalu dikeringkan. |
 | Mesin cetak digital Aji | Terkena rembesan air dan mengalami kerusakan pada komponen daya/kendali. Teknisi belum memastikan seluruh mesin tidak bisa diperbaiki; biaya dan kelayakan perbaikan masih dipertimbangkan. |
 | Mesin pres termal kecil | Dibeli bekas dari sebagian tabungan dan bagian keuntungan proyek yang disisihkan untuk alat. Tidak menggantikan printer digital besar. |
@@ -65,7 +65,7 @@
 6. Jangan menyebut ketahanan panas, air, atau bahan kimia sebagai fakta tanpa pengujian yang memadai.
 7. Area banjir dan instalasi listrik tidak boleh disentuh sebelum sumber listrik diputus dan area dinyatakan aman.
 8. Bang Parlin dapat membantu pekerjaan mekanis umum, tetapi diagnosis mesin dilakukan teknisi.
-9. Pembagian keuntungan proyek dihitung dari laba bersih setelah bahan, transportasi, tenaga tambahan, biaya produksi, dan biaya pemasangan.
+9. Pembagian laba bersih pesanan bersama adalah 60 persen untuk Wiwin dan 40 persen untuk Aji setelah bahan, transportasi, tenaga tambahan, biaya produksi, dan pemasangan dipotong.
 10. Studio dimiliki dan dijalankan bersama. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel pembayaran, dan vendor. Pekerjaan produksi tetap dapat dibagi sesuai kebutuhan.
 
 ## VII. Benang Callback yang Sudah Dibayar
