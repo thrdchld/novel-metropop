@@ -1,4 +1,4 @@
-## Bab 19: Sablon
+## Bab 19: Produksi
 
 Kain mori pertama dibentangkan di atas meja kerja panjang yang dipinjam dari warung sebelah. Dua meja tambahan disusun sejajar agar kain tidak perlu dipaku ke lantai. Pak Lik Harto duduk di bangku dekat jendela, membantu mengukur bidang gambar dan menandai batas panel dengan kapur jahit.
 
