@@ -214,124 +214,54 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Detail Fisik & Planting-Callback:** Pendaran fosfor hijau stabilo di kegelapan, sakelar listrik besi hitam tua.
 
 ### Bab 15: Kunjungan
-- **Adegan & Tokoh:** Selasa, pukul 10.30 WIB di teras ruko Wiwin | Wiwin, Aji, Pak Haris.
-- **Variasi Pembuka:** Dialog Menusuk
-- **Skenario Masuk:** "Ngapain lu buang-buang waktu di kubangan cat bau tiner ini, Aji? Desainer gagal kok malah mainan kain rombeng!"
-- **Ketukan Aksi & Reaksi:**
-  1. Pak Haris dari Percetakan Mitra Graha datang mencibir usaha rukoan Aji dan menawarinya kembali jadi buruh desain dengan gaji separuh UMR.
-  2. Pak Haris membocorkan bahwa perusahaannya sudah menyiapkan proposal banting harga ke dinas pariwisata untuk mencaplok seluruh 50 tenda festival.
-  3. Wiwin maju ke depan membela Aji, menyiram air cucian kuas tepat ke roda mobil sedan mewah Pak Haris hingga mencoreng bodi kinclongnya.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Dan pagi itu Aji sadar, ada hal-hal di dunia ini yang pantas diperjuangkan sampai titik darah penghabisan, dan wanita bercelemek belepotan cat di sampingnya adalah salah satunya.
-- **Detail Fisik & Planting-Callback:** Cipratan air cucian kuas di ban mobil sedan hitam, celemek kain blacu Wiwin.
+- **Adegan & Tokoh:** Senin pagi di ruko Wiwin | Wiwin, Aji, Pak Haris.
+- **Aksi:** Haris datang sebagai pemilik Mitra Graha dan mantan atasan Aji. Ia menekan Aji melalui hubungan bisnis dan menawarkan pekerjaan kembali. Pemeriksaan proyek dilakukan sebagai pemeriksaan kesiapan, bukan penerimaan akhir. Tenggat produksi dua minggu dimulai setelah rancangan/prototipe disetujui.
+- **Hook:** Haris memberi tekanan agar proyek paguyuban beralih ke Mitra Graha, tetapi keputusan tetap berada pada panitia/dinas.
 
-### Bab 16: Shortcut
-- **Adegan & Tokoh:** Rabu, pukul 21.00 WIB di tangga ruko lantai dua | Wiwin, Aji.
-- **Variasi Pembuka:** Pikiran Tajam
-- **Skenario Masuk:** Shortcut Ctrl+Z di keyboard komputer bisa membatalkan kesalahan desain dalam sedetik, tetapi tidak ada shortcut apa pun di dunia nyata yang bisa menghapus rasa terhina.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji duduk merokok di anak tangga lantai dua menatap lampu jalanan Kalimalang, akhirnya menceritakan masa lalunya yang di-PHK sepihak oleh Pak Haris setelah portofolio branding-nya dicuri atas nama kantor.
-  2. Wiwin mendengarkan dalam diam sambil membagikan teh manis hangat buatan Mbak Pur, mengakui bahwa ia sendiri dulu merasa malu karena tidak bisa kuliah dan cuma jadi tukang gambar spanduk.
-  3. Keduanya menyadari bahwa mereka sama-sama orang buangan yang sedang berusaha membuktikan bahwa keringat mereka berharga.
-- **Bentuk Hook Penutup:** Pertanyaan Menggantung
-- **Skenario Penutup:** Wiwin menatap cangkir tehnya, bertanya pelan apakah dua orang yang sama-sama patah sayap bisa terbang melintasi badai festival kota.
-- **Detail Fisik & Planting-Callback:** Cangkir blirik hijau teh manis hangat, anak tangga semen retak berlumut.
+### Bab 16: Cerita Lama
+- **Adegan & Tokoh:** Rabu malam di tangga ruko | Wiwin, Aji.
+- **Aksi:** Aji membuka cerita PHK dan portofolionya yang diambil mantan atasan. Wiwin menceritakan kuliah seni yang batal dan alasan bertahan di usaha Pak Lik. Informasi dibuka bertahap dalam percakapan, bukan monolog panjang.
+- **Hook:** Keduanya mulai memahami alasan di balik sikap defensif masing-masing.
 
 ### Bab 17: Tanah Abang
-- **Adegan & Tokoh:** Kamis, pukul 04.45 WIB di lorong Blok A Pasar Tanah Abang | Wiwin, Aji, kuli panggul.
-- **Variasi Pembuka:** Sensori Lingkungan
-- **Skenario Masuk:** Bau apek gulungan kain katun ribuan meter, aroma kopi tubruk termos, dan teriakan *"Baju-baju! Awas punggung!"* menyambut langkah mereka di lorong pasar tekstil terbesar se-Asia Tenggara.
-- **Ketukan Aksi & Reaksi:**
-  1. Wiwin memimpin jalan dengan gesit di tengah kerumunan subuh, menawar harga kain mori primisima cap bendera dengan bahasa Jawa kental pada juragan toko kain.
-  2. Aji yang membawa ransel besar kewalahan menghindari dorongan troli karung kain, terpana melihat bagaimana Wiwin memeriksa kerapatan serat kain hanya dengan meraba jempolnya.
-  3. Wiwin berhasil mendapatkan 10 gelondong kain mori kualitas ekspor dengan potongan harga 20 persen karena membawa nama Pak Lik Harto.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Di tengah pasar yang hiruk-pikuk tanpa ampun bagi orang lemah, Aji melihat sisi lain Wiwin yang berdiri gagah layaknya ratu rimba kain mori.
-- **Detail Fisik & Planting-Callback:** Segel cap bendera kain mori primisima, karung goni pengikat kain.
+- **Adegan & Tokoh:** Kamis subuh di Pasar Tanah Abang | Wiwin, Aji, Koh Acong.
+- **Aksi:** Mereka membeli 50 gulung kain mori, masing-masing sekitar 4 meter, cukup untuk 50 spanduk awal. Harga dan diskon dicatat jelas. Bang Rahmat menyampaikan kabar tentang lobi Haris; sumber informasinya adalah sopir yang biasa menunggu di sekitar kantor, bukan akses rahasia ke dokumen dinas.
+- **Hook:** Persediaan awal cukup untuk pesanan utama, tetapi tidak untuk tambahan pesanan yang mungkin muncul.
 
 ### Bab 18: Lontong Sayur
-- **Adegan & Tokoh:** Kamis, pukul 07.15 WIB di warung tenda emperan Stasiun Tanah Abang | Wiwin, Aji.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Wiwin menyendokkan kerupuk merah renyah ke atas piring lontong sayur kuah santan pedas milik Aji sebelum pemuda itu sempat menolaknya.
-- **Ketukan Aksi & Reaksi:**
-  1. Mereka duduk berdempetan di bangku kayu panjang sambil menunggu bajaj barang mengangkut gulungan kain mori ke Kalimalang.
-  2. Aji mengelap peluh di kening Wiwin menggunakan tisu saku bersih, membuat Wiwin terdiam canggung dengan sendok menggantung di udara.
-  3. Getaran kereta rel listrik yang melintas di samping warung menutupi detak jantung mereka yang tiba-tiba berdegup tidak karuan.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Wiwin menarik napas pelan lalu menyuap lontongnya buru-buru, menyembunyikan semburat merah di pipinya di balik kepulan asap kuah santan.
-- **Detail Fisik & Planting-Callback:** Kerupuk merah padang, getaran gemuruh rel kereta komuter.
+- **Adegan & Tokoh:** Kamis pagi di warung dekat stasiun | Wiwin, Aji, Bang Rahmat.
+- **Aksi:** Adegan makan dan kedekatan Wiwin-Aji tetap dipertahankan. Bang Rahmat memberi kabar tentang jadwal pemeriksaan kesiapan, bukan inspeksi yang menuntut seluruh 50 spanduk selesai keesokan pagi.
+- **Hook:** Mereka harus menyiapkan contoh, bahan, dan alur produksi yang bisa diperiksa.
 
 ### Bab 19: Sablon
-- **Adegan & Tokoh:** Jumat, pukul 15.00 WIB di meja kerja gabungan | Wiwin, Aji.
-- **Variasi Pembuka:** Reaksi Benda
-- **Skenario Masuk:** Uap panas dari pelat mesin pres kaus portabel mendesis tajam saat Aji mengangkat tuas besinya dari atas kain mori.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji menemukan solusi terobosan: mencetak kode QRIS menggunakan film transfer PET khusus dengan tinta pigmen anti-rembes, lalu mempresnya secara termal pada jendela kain mori kosong.
-  2. Wiwin melukis batas tepi jendela itu dengan garis kuas hijau stabilo dan efek bayangan putih tebal, menyamarkan batas transfer digital menjadi satu kesatuan seni lukis manual.
-  3. Ponsel jadul Wiwin diangkat; saat kamera membidik kode QRIS hibrida itu, bunyi *beep* jernih berbunyi seketika dan nama "Warung Pecel Lele Cak Qodim" muncul di layar.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Bunyi *beep* satu detik itu membuktikan bahwa tradisi dan modernitas tidak harus saling membunuh; keduanya bisa menari di atas kanvas yang sama.
-- **Detail Fisik & Planting-Callback:** Mesin pres transfer panas portabel, bunyi notifikasi aplikasi bank digital.
+- **Adegan & Tokoh:** Meja kerja gabungan, beberapa hari setelah persiapan | Wiwin, Aji, Pak Lik.
+- **Aksi:** Panel QRIS disiapkan dari file digital yang benar untuk tiap merchant, lalu dipasang pada bidang kain dengan metode transfer yang telah diuji. Wiwin tetap melukis ilustrasi manual. Kain dikerjakan di meja dan rak, bukan dibentangkan dengan paku di lantai.
+- **Hook:** Prototipe lolos uji awal, tetapi produksi massal dan pengeringan masih harus dibuktikan.
 
 ### Bab 20: Kompresor
-- **Adegan & Tokoh:** Sabtu, pukul 16.00 WIB di ruko Wiwin | Wiwin, Aji, Bang Parlin.
-- **Variasi Pembuka:** Sensori Lingkungan
-- **Skenario Masuk:** *DORRR!* Bunyi ledakan ban truk tronton yang pecah di bengkel sebelah menggetarkan kaca ruko dan membuat seisi ruangan melonjak kaget.
-- **Ketukan Aksi & Reaksi:**
-  1. Tangan Wiwin yang sedang menarik garis lurus kumis lele tersentak hebat, mencoretkan kuas berlumur cat kuning stabilo tepat ke dada kaus hitam yang dikenakan Aji.
-  2. Bang Parlin menjulurkan kepalanya dari pintu ruko sambil tertawa minta maaf sambil mengusap keningnya yang penuh oli hitam.
-  3. Wiwin panik mencoba menghapus cat di dada Aji dengan lap basah, namun gerakannya justru membuat keduanya terpaku dalam jarak pandang lima sentimeter.
-- **Bentuk Hook Penutup:** Interupsi Tiba-Tiba
-- **Skenario Penutup:** Pintu depan berderit terbuka; suara deham berat Cak Qodim membuyarkan momen membeku di antara mereka berdua.
-- **Detail Fisik & Planting-Callback:** Coretan kuas kuning stabilo di kaus hitam Aji, aroma ban terbakar.
+- **Adegan & Tokoh:** Masa produksi di ruko dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin.
+- **Aksi:** Bunyi kompresor tetap menjadi gangguan komedi, tetapi tidak dipakai untuk meniup kain melalui knalpot panas. Pengeringan memakai sirkulasi udara, jarak antarkain, dan waktu yang cukup. Produksi berlangsung beberapa hari dengan jeda waktu yang jelas.
+- **Hook:** Menjelang pemeriksaan akhir, tim harus memastikan jumlah dan kualitas setiap kain.
 
 ### Bab 21: Tes Scan
-- **Adegan & Tokoh:** Minggu, pukul 19.45 WIB di halaman parkir warkop Mbak Pur | Wiwin, Aji, Mbak Pur, Bang Parlin, warga gang.
-- **Variasi Pembuka:** Dialog Menusuk
-- **Skenario Masuk:** "Kalau HP sejuta umat Mbak Pur yang layarnya retak seribu bisa nge-scan barcode ini, berarti spanduk kalian sah sakti mandraguna!"
-- **Ketukan Aksi & Reaksi:**
-  1. Wiwin dan Aji memamerkan satu spanduk purwarupa ukuran penuh di bawah lampu jalanan tiang listrik warkop.
-  2. Mbak Pur dan Bang Parlin mencoba tes scan kode QRIS menggunakan berbagai jenis ponsel jadul milik sopir ojol yang sedang nongkrong.
-  3. Seluruh tes scan berhasil seratus persen dari jarak dua meter, memicu sorak gembira dan tepuk tangan para pelanggan warkop.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Di tengah riuh tawa warga gang, tangan Aji meremas pelan jari Wiwin di balik gulungan kain, mengunci janji perjuangan mereka berdua.
-- **Detail Fisik & Planting-Callback:** Layar HP retak seribu milik Mbak Pur, tepukan pundak kasar Bang Parlin.
+- **Adegan & Tokoh:** Pemeriksaan QRIS di ruko Wiwin | Wiwin, Aji, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim.
+- **Aksi:** Setiap panel diuji dan dicocokkan dengan nama merchant masing-masing. Pemindaian hanya memastikan kode terbaca dan identitas merchant benar; transaksi pembayaran bukan bagian dari tes ini.
+- **Hook:** Hasil pemeriksaan membuka jalan menuju penerimaan akhir proyek.
 
 ### Bab 22: Inspeksi
-- **Adegan & Tokoh:** Senin, pukul 10.00 WIB di bengkel Wiwin | Wiwin, Aji, Cak Qodim.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Cak Qodim memegang kain mori dengan kedua tangannya yang kapalan, merabanya dari sudut ke sudut lalu mendekatkannya ke hidungnya untuk mencium baunya.
-- **Ketukan Aksi & Reaksi:**
-  1. Cak Qodim menguji kelenturan kain dengan melipatnya tiga kali dan menyibak bagian sambungan sablon transfer panas Aji.
-  2. Ia menatap tajam lukisan lele Wiwin: melengkungnya kumis, sorot mata lele yang garang, dan kepakan sayap ayam jago yang membusung gagah.
-  3. Dengan senyum lebar di balik kumis tebalnya, Cak Qodim mencap jempol proposal paguyuban dan memerintahkan pengerjaan 50 tenda dimulai hari itu juga.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Restu sesepuh jalanan telah turun, dan genderang perang menuju festival kuliner Jakarta resmi ditabuh di Kalimalang.
-- **Detail Fisik & Planting-Callback:** Cap jempol tinta ungu di surat rekomendasi paguyuban, lipatan kain mori rapi.
+- **Adegan & Tokoh:** Setelah produksi selesai di ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas.
+- **Aksi:** Kain diperiksa dari sisi visual, pemasangan panel, dan kelayakan penanganan. Uji lipat hanya menguji kelenturan/penanganan, bukan ketahanan panas. Berita acara ditandatangani pihak dinas yang berwenang bersama perwakilan paguyuban; Haris tidak bertindak sebagai pejabat atau penanda tangan.
+- **Hook:** Proyek utama diterima dan persiapan pemasangan festival dimulai.
 
 ### Bab 23: Cangkir Kopi
-- **Adegan & Tokoh:** Selasa, pukul 23.45 WIB di teras ruko | Wiwin, Aji.
-- **Variasi Pembuka:** Pikiran Tajam
-- **Skenario Masuk:** Lembur malam di Jakarta mengajarkan manusia bahwa teman terbaik bukanlah orang yang banyak bicara, melainkan orang yang tahu kapan harus menyeduhkan cangkir kopi kedua.
-- **Ketukan Aksi & Reaksi:**
-  1. Mereka duduk di atas bangku plastik trotoar sambil mengamati sepuluh kain pertama yang dijemur berjajar di langit-langit ruko.
-  2. Aji hafal tanpa bertanya: Wiwin suka kopi hitam dengan satu setengah sendok gula pasir yang diaduk berlawanan arah jarum jam.
-  3. Wiwin mengamati mata Aji yang lelah di balik kacamata minusnya, menyadari betapa pemuda kota ini telah berubah menjadi bagian tak terpisahkan dari hidupnya.
-- **Bentuk Hook Penutup:** Interupsi Tiba-Tiba
-- **Skenario Penutup:** Deru suara knalpot motor kurir dinas mengerem mendadak di depan teras, membawa sepucuk surat dinas bersegel merah kilat.
-- **Detail Fisik & Planting-Callback:** Cangkir blirik kopi hitam satu setengah sendok gula, amplop dinas segel merah.
+- **Adegan & Tokoh:** Menjelang malam di teras ruko | Wiwin, Aji.
+- **Aksi:** Adegan kopi menjadi jeda personal setelah kerja panjang. Aji mengingat kebiasaan Wiwin; percakapan mereka menunjukkan rasa percaya yang tumbuh, tetapi belum langsung mengubah hubungan menjadi pasangan. Kurir membawa pemberitahuan resmi perubahan jadwal.
+- **Hook:** Ada perubahan pada rencana festival yang belum mereka ketahui dampaknya.
 
 ### Bab 24: Pemberitahuan
-- **Adegan & Tokoh:** Rabu, pukul 08.00 WIB di kantor sekretariat paguyuban | Wiwin, Aji, Cak Qodim.
-- **Variasi Pembuka:** Reaksi Benda
-- **Skenario Masuk:** Kertas surat dinas berstempel basah itu bergetar di tangan Cak Qodim saat membacakan keputusan rapat koordinasi kota.
-- **Ketukan Aksi & Reaksi:**
-  1. Karena kunjungan mendadak pejabat kementerian, pembukaan festival kuliner dimajukan dua hari lebih awal dari jadwal semula.
-  2. Itu artinya, sisa 40 spanduk tenda yang belum selesai harus tuntas dalam waktu 48 jam ke depan, atau seluruh proyek dialihkan ke Percetakan Mitra Graha milik Pak Haris.
-  3. Aji menghitung kapasitas mesin dan kemampuan tangan Wiwin, menyimpulkan secara matematis bahwa target itu mustahil tercapai tanpa keajaiban.
-- **Bentuk Hook Penutup:** Pertanyaan Menggantung
-- **Skenario Penutup:** Wiwin menatap deretan kain mori putih yang masih kosong melompong, bertanya pada dirinya sendiri apakah batas kekuatan manusia ada ujungnya.
-- **Detail Fisik & Planting-Callback:** Stempel basah warna biru dinas pariwisata, jam dinding berdetik kencang.
+- **Adegan & Tokoh:** Minggu pagi di ruko/sekretariat paguyuban | Wiwin, Aji, Cak Qodim, Pak Lik.
+- **Aksi:** Festival dimajukan ke Selasa malam dan pesanan bertambah 10 spanduk VIP. Tambahan 40 meter kain dibutuhkan; sisa 12 meter tidak cukup sehingga mereka harus membeli setidaknya 28 meter tambahan, dengan cadangan lebih aman. Biaya dan perubahan pesanan harus disetujui.
+- **Hook:** Mereka harus menyelesaikan 10 spanduk tambahan dalam waktu terbatas tanpa mengorbankan mutu atau keselamatan.
 
 ### Bab 25: Kerja Rodi
 - **Adegan & Tokoh:** Senin malam di ruko Wiwin | Wiwin, Aji, Pak Lik Harto.
