@@ -23,6 +23,7 @@
 | 15 | Senin, 09.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Pak Haris | Pak Haris inspeksi ruko; uji semprot air & scan tembus seketika; tantangan 50 spanduk 2 minggu klausul denda 20% |
 | 16 | Rabu, 21.00 | Tangga ruko lantai dua | Wiwin, Bachtiar | Bachtiar curhat di-PHK Pak Haris; Wiwin ungkap luka batal kuliah seni; keduanya saling memahami |
 | 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Bachtiar, Koh Acong, Bang Rahmat | Borong 50 gulung mori primisima katun; Bang Rahmat kabarkan lobi gelap Pak Haris dan Mitra Graha |
+| 18 | Kamis, 07.30 | Warung lontong sayur stasiun | Wiwin, Bachtiar, Bang Rahmat | Bang Rahmat bocorkan inspeksi mendadak dinas besok pagi; Wiwin susun rencana gerilya 50 kain maraton |
 
 ## A2. Timeline Masa Lalu
 
@@ -70,6 +71,7 @@
 | 15 | Wiwin | Tertantang & geram | Kartu nama emas Pak Haris | Kompak melawan arogansi birokrat | - | Tenggat 2 minggu produksi 50 spanduk dengan denda 20% |
 | 16 | Wiwin | Terenyuh & terhubung | Cangkir seng blirik teh manis | Saling membuka luka masa lalu dan bersekutu hati | Mengetahui masa lalu PHK Bachtiar | Menuntaskan 50 spanduk hibrida bersama |
 | 17 | Wiwin | Bersemangat lalu cemas | 50 gulung kain mori cap Garuda | Kompak bernegosiasi belanja bahan baku | - | Lobi kotor Mitra Graha mengancam proyek paguyuban |
+| 18 | Wiwin | Tenang & taktis | Kerupuk merah Padang, sendok bebek | Memimpin strategi perang gerilya produksi kain | - | Target membentangkan 50 kain sebelum inspeksi besok pagi |
 
 ## E. Fakta Keras dan Angka
 
