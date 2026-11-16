@@ -24,6 +24,16 @@ Aji mencatat jumlah dan harga. Satu gulung empat meter dihargai seratus dua pulu
 
 Koh Acong menyebut harga terbaiknya. Aji menghitung ulang di buku kecil, lalu menyepakati potongan sepuluh persen. Jumlah pembayaran menjadi lima juta empat ratus ribu rupiah. Tidak ada janji proyek tahap kedua atau pesanan besar yang belum pasti.
 
+Koh Acong mengangkat satu gulung kain dan membukanya sedikit di atas meja. "Kalau untuk spanduk, kenapa harus primisima? Kain campuran ini lebih murah dan warnanya lebih putih."
+
+Aku meraba permukaannya sekali lagi. "Karena gambar kami dilukis langsung di kain. Kami juga akan memasang panel transfer. Kami sudah menguji metode itu pada mori yang sama. Kalau ganti bahan, hasilnya belum tentu sama."
+
+Aji mengangguk. "Kami tidak bisa mengganti spesifikasi setelah prototipe disetujui. Lebih baik bahan yang sudah diuji daripada menghemat sedikit lalu mengulang pekerjaan."
+
+Koh Acong mengembalikan gulungan itu ke rak. Ia mencetak nota dengan rincian jumlah, harga satuan, dan potongan. Aji memeriksa angka satu per satu sebelum membayar. Aku juga memastikan label komposisi pada beberapa gulung pertama sesuai pesanan. Bukan karena tidak percaya kepada Koh Acong, tetapi kalau bahan yang datang salah, kami yang harus menanggung akibatnya.
+
+Setelah pembayaran selesai, Aji membagi sisa anggaran di buku catatannya. Uang untuk kain sudah jelas. Sisanya harus cukup untuk cat, bahan transfer, tenaga tambahan, transportasi, dan pemasangan. Ia tidak terlihat puas dengan jumlah yang tersisa, tetapi setidaknya kami tahu berapa batas pengeluaran yang tidak boleh dilewati.
+
 "Yang penting barangnya sesuai dan nota lengkap," kata Aji.
 
 Koh Acong tertawa. "Sekarang belanja kain sudah pakai pemeriksaan seperti beli mobil."
@@ -42,4 +52,6 @@ Aji menutup buku catatannya. "Dia boleh menawarkan. Keputusan tetap di panitia."
 
 Bang Rahmat mengangguk. Ia mengaku mendengar kabar itu dari sopir yang biasa mangkal di pangkalan dekat kantor dinas, bukan dari orang dalam panitia.
 
-Kami naik ke pikap. Di bak belakang, lima puluh gulung kain terikat rapat. Untuk pertama kalinya, proyek ini terasa benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena sekarang ada bahan, biaya, dan pekerjaan yang harus dipertanggungjawabkan.
+Kami naik ke pikap. Di bak belakang, lima puluh gulung kain terikat rapat. Aku memeriksa tali pengikat sekali lagi sebelum sopir menutup pintu bak. Kalau kain bergeser dan terkena debu jalan, pekerjaan membersihkannya akan bertambah.
+
+Untuk pertama kalinya, proyek ini terasa benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena sekarang ada bahan, biaya, dan pekerjaan yang harus dipertanggungjawabkan.
