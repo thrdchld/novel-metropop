@@ -34,7 +34,7 @@ Mesin cetak digitalnya masih berada di bengkel untuk diperiksa. Biaya perbaikan 
 
 Aku mengangguk. "Yang penting hasilnya tetap kita periksa."
 
-Menjelang siang, pesanan pertama masuk setelah kabar festival menyebar. Sebuah asosiasi pedagang soto dari Bekasi meminta desain spanduk dengan ilustrasi ayam jago di samping mangkuk soto. Jumlahnya belum banyak, tetapi cukup untuk memulai.
+Menjelang siang pada hari Minggu, pesanan pertama masuk setelah kabar festival menyebar. Sebuah asosiasi pedagang soto dari Bekasi meminta desain spanduk dengan ilustrasi ayam jago di samping mangkuk soto. Jumlahnya belum banyak, tetapi cukup untuk memulai.
 
 Aji membentangkan kain contoh di atas meja. Ia mengambil kuas nomor lima, lalu menatap ujungnya dengan ragu.
 
