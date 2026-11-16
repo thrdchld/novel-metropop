@@ -1,6 +1,6 @@
 ## Bab 22: Pemeriksaan Akhir
 
-Lima puluh spanduk kami susun di pelataran ruko sejak pagi. Sebagian dibentangkan di atas meja panjang, sebagian lagi digulung setelah diperiksa. Nomor kain menghadap keluar agar mudah dicocokkan dengan daftar. Di dekat pintu, Aji menyiapkan map berisi catatan produksi, daftar merchant, dan lembar pemeriksaan yang sudah kami isi selama beberapa hari terakhir.
+Setelah sepuluh spanduk terakhir selesai dan seluruh catatan perbaikan ditutup, lima puluh spanduk kami susun di pelataran ruko sejak pagi. Sebagian dibentangkan di atas meja panjang, sebagian lagi digulung setelah diperiksa. Nomor kain menghadap keluar agar mudah dicocokkan dengan daftar. Di dekat pintu, Aji menyiapkan map berisi catatan produksi, daftar merchant, dan lembar pemeriksaan yang sudah kami isi selama beberapa hari terakhir.
 
 Cak Qodim datang bersama dua pengurus paguyuban. Tidak lama kemudian, tim dinas tiba dengan kendaraan operasional. Empat orang turun membawa tablet dan map. Salah satunya, perempuan yang memimpin pemeriksaan sebelumnya, menyapa kami lalu meminta melihat seluruh hasil produksi.
 
