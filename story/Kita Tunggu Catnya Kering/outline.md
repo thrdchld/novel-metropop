@@ -133,7 +133,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Aksi:** Wiwin menemukan buku catatan lama Pak Lik yang berisi percobaan cat, pigmen, minyak pengering, dan getah damar. Pak Lik menjelaskan beberapa formula pernah gagal karena membuat kain kaku atau lapisan retak. Buku itu hanya menjadi referensi; Aji meminta izin memotret beberapa halaman lalu mengembalikannya ke lemari.
 - **Hook:** Catatan lama memberi petunjuk, tetapi bahan modern tetap harus diuji.
 
-### Bab 13: Rumus Kimia
+### Bab 13: Uji Bahan
 - **Adegan & Tokoh:** Sabtu siang di meja kerja | Wiwin, Aji.
 - **Aksi:** Mereka membandingkan tiga campuran pada potongan kain. Setiap sampel diberi label dan diuji setelah kering, termasuk kelenturan, daya tutup, dan kemungkinan warna berpindah. Tidak ada formula ajaib atau campuran yang langsung dinyatakan sempurna; catatan Pak Lik membantu mereka menghindari kesalahan lama.
 - **Hook:** Mereka masih perlu menemukan cara memasang QRIS digital yang tidak merusak kain.
@@ -163,12 +163,12 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Aksi:** Adegan makan dan kedekatan Wiwin-Aji tetap dipertahankan. Bang Rahmat memberi kabar bahwa panitia akan meninjau proses produksi beberapa hari lagi, bukan menuntut seluruh 50 spanduk selesai keesokan pagi.
 - **Hook:** Mereka harus menyiapkan contoh, bahan, dan alur produksi yang bisa diperiksa.
 
-### Bab 19: Sablon
+### Bab 19: Produksi
 - **Adegan & Tokoh:** Meja kerja gabungan, beberapa hari setelah persiapan | Wiwin, Aji, Pak Lik.
 - **Aksi:** Panel QRIS disiapkan dari file digital yang benar untuk tiap merchant, lalu dipasang pada bidang kain dengan metode transfer yang telah diuji. Wiwin tetap melukis ilustrasi manual. Kain dikerjakan di meja dan rak, bukan dibentangkan dengan paku di lantai.
 - **Hook:** Prototipe lolos uji awal, tetapi produksi massal dan pengeringan masih harus dibuktikan.
 
-### Bab 20: Kompresor
+### Bab 20: Waktu Pengeringan
 - **Adegan & Tokoh:** Masa produksi di ruko dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin.
 - **Aksi:** Bunyi kompresor tetap menjadi gangguan komedi, tetapi tidak dipakai untuk meniup kain melalui knalpot panas. Pengeringan memakai sirkulasi udara, jarak antarkain, dan waktu yang cukup. Produksi berlangsung beberapa hari dengan jeda waktu yang jelas.
 - **Hook:** Menjelang pemeriksaan akhir, tim harus memastikan jumlah dan kualitas setiap kain.
@@ -203,7 +203,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Aksi:** Sambungan talang berkarat terlepas dan air masuk ke ruang kerja. Mereka memindahkan sepuluh kain VIP ke bilik belakang. Saat mesin terkena rembesan dan muncul percikan, semua menjauh dari area berbahaya.
 - **Hook:** Mesin cetak Aji terkena air; aliran listrik belum boleh disentuh sampai diputus dari sumber utama.
 
-### Bab 27: Pengorbanan
+### Bab 27: Tepi Seng
 - **Adegan & Tokoh:** Selasa dini hari, setelah listrik diputus | Wiwin, Aji, Pak Lik Harto.
 - **Aksi:** Setelah area dinyatakan aman, Aji membantu mengarahkan talang yang patah agar air tidak masuk ke bilik. Tepi seng melukai telapak tangannya. Wiwin dan Pak Lik membersihkan luka serta memastikan Aji mendapat perawatan.
 - **Hook:** Kain selamat, tetapi mesin cetak Aji tetap rusak dan belum diketahui biaya perbaikannya.
