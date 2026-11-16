@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 28 (*Asap Tipis*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 29 (*Gotong Royong*)
-- **Titik Waktu Cerita:** Selasa, Pukul 11.00 WIB (Siang Menjelang Sore)
-- **Lokasi Terkini Tokoh Utama:** Jalan protokol festival kuliner kota
-- **Cuaca / Suasana Fisik:** Siang terik berdebu, riuh denting palu kerangka besi tenda, spanduk mulai dinaikkan
+- **Bab Terakhir Selesai:** Bab 29 (*Gotong Royong*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 30 (*Hari Pembuktian*)
+- **Titik Waktu Cerita:** Selasa, Pukul 18.30 WIB (Malam Pembukaan)
+- **Lokasi Terkini Tokoh Utama:** Arena utama festival kuliner nusantara, jalan protokol kota
+- **Cuaca / Suasana Fisik:** Malam cerah bertabur bintang, pendaran lampu bohlam tenda berpadu pigmen neon
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Bersemangat dan terharu melihat solidaritas ratusan pedagang pasar
+- **Kondisi Emosi Tokoh Utama:** Penuh haru dan antusiasme menanti peresmian menteri dan arus pengunjung
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Selasa (11.00 WIB) | Pemasangan serentak 60 spanduk hibrida gotong royong di arena festival |
+| **Hari Ini** | Selasa (18.30 WIB) | Malam pembukaan akbar festival kuliner; 60 spanduk hibrida menyala |
 | **Kemarin (H-1)** | Senin | Maraton lembur 10 spanduk VIP dan persiapan tiang paguyuban |
 | **Dua Hari Lalu (H-2)** | Minggu | Surat dinas pemajuan jadwal festival diterima paguyuban |
-| **Tenggat / Acara Mendatang** | Malam Ini (Selasa, 19.00 WIB) | Pembukaan akbar festival kuliner kota di jalan protokol |
+| **Tenggat / Acara Mendatang** | Malam Ini (19.00 WIB) | Seremonial pemotongan pita oleh Menteri dan pemindaian perdana |
 
 ---
 
