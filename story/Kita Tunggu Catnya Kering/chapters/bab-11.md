@@ -1,89 +1,125 @@
 ## Bab 11: Makan Malam
 
-Aroma sambal terasi dan lele goreng memenuhi warung tenda Cak Qodim. Pukul setengah sembilan malam, meja-meja mulai terisi pekerja kantoran yang baru turun dari angkot dan sopir truk yang berhenti sebentar sebelum melanjutkan perjalanan.
+Uap sambal terasi dari cobek batu bercampur dengan aroma lele goreng dan kol yang baru diangkat dari wajan. Di bawah terpal oranye, warung tenda Cak Qodim mulai ramai oleh pekerja kantoran yang baru turun dari angkot dan sopir truk yang berhenti sebelum melanjutkan perjalanan.
 
-Aku duduk berhadapan dengan Aji. Di antara kami ada dua piring nasi uduk, lele goreng, kol goreng, dan cobek sambal yang masih mengeluarkan uap.
+Pukul setengah sembilan malam, aku duduk berhadapan dengan Aji. Dua piring nasi uduk sudah terhidang bersama lele goreng, kol goreng, dan semangkuk sambal. Aji belum menyentuh makanannya. Matanya justru sibuk mencari sesuatu di sekitar gerobak.
 
-Aji memandang meja, lalu melirik ke tempat sendok dekat wadah kerupuk.
+"Kamu mencari apa?" tanyaku.
 
-"Sendoknya habis?" tanyanya.
+"Sendok garpu."
 
-"Masih ada. Tapi kalau makan lele pakai tangan, lebih gampang memisahkan durinya."
+Aku menunjuk wadah plastik di dekat kerupuk. "Itu."
 
-Ia mengambil sendok dan garpu. "Saya lebih nyaman begini."
+Aji mengambil sepasang sendok dan garpu, lalu memeriksanya sekilas. "Biasanya ada tempat cuci tangan?"
 
-"Silakan. Aku tidak sedang mengadakan ujian makan."
+"Ada di belakang gerobak. Pakai sabun juga."
 
-Cak Qodim datang membawa dua gelas es teh. "Aji, kalau mau cuci tangan, keran ada di belakang. Sabun juga ada."
+Cak Qodim datang membawa dua gelas es teh. "Kerannya di dekat galon, Ji. Kalau mau cuci tangan, silakan. Airnya bersih."
 
-Aji mengangguk, lalu berdiri. Aku menyusul karena tanganku masih menyisakan noda cat di sela kuku. Kami mencuci tangan dengan sabun dan air mengalir sebelum kembali duduk.
+Aji mengangguk. Aku ikut berdiri karena masih ada noda cat di sela kuku. Kami mencuci tangan dengan sabun dan air mengalir, lalu mengeringkannya dengan tisu bersih yang disediakan Cak Qodim.
+
+Saat kembali duduk, Aji masih memegang sendok dan garpunya.
 
 "Sudah siap?" tanyaku.
 
-Aji mengangguk. Ia mengambil potongan lele dengan sendok, memeriksa durinya, lalu mencicipi sedikit sambal. Selama beberapa detik ia mengunyah tanpa komentar.
+"Memangnya ada yang perlu disiapkan?"
+
+"Untuk menghadapi lele sebesar itu."
+
+Aku menunjuk ikan di piringnya. Aji mengambil sendok, memisahkan sedikit daging dari bagian punggung, lalu mencicipinya bersama sambal. Ia mengunyah pelan. Wajahnya tetap datar, seolah sedang menilai hasil cetak yang baru keluar dari mesin.
 
 "Gimana?" tanyaku.
 
-"Gurih. Sambalnya juga pas."
+"Gurih."
 
-"Kol gorengnya?"
+"Cuma itu?"
 
-Ia mengambil sepotong lagi. "Manis. Sedikit renyah di luar."
+"Sambalnya pas. Ada rasa asamnya, tapi tidak menutupi terasi."
 
-"Berarti bisa makan di sini tanpa harus membawa sendok garpu dari rumah."
+Aku mengangguk puas. "Kol gorengnya juga enak."
 
-"Jangan terlalu cepat menyimpulkan. Saya tetap akan pakai sendok."
+Aji mengambil sepotong. "Manis. Bagian pinggirnya renyah."
 
-Aku tertawa. "Terserah. Yang penting jangan mengukur sambal pakai kalkulator."
+"Berarti kamu bisa makan di sini lagi."
 
-Cak Qodim yang sedang membalik tempe di wajan ikut tertawa. "Aji sudah mulai cocok tinggal di Kalimalang. Besok-besok mungkin sudah hafal siapa yang jual lele paling murah."
+"Aku belum bilang begitu."
 
-Aji mengangkat bahu. "Saya cuma sedang mencari makan malam."
+"Tapi nasi di piringmu sudah berkurang."
 
-"Orang yang bilang cuma mencari makan biasanya tambah nasi," godaku.
+Ia melirik piringnya sendiri. "Saya memang lapar."
 
-Ia tidak menjawab. Tangannya justru mengambil nasi lagi.
+Cak Qodim yang sedang membalik tempe di wajan ikut tertawa. "Tidak apa-apa, Ji. Di sini orang boleh makan pakai sendok, pakai tangan, atau pesan bungkus. Yang penting jangan lupa bayar."
 
-Beberapa menit kemudian, Aji meletakkan sendoknya. Ia memperhatikan aku memisahkan duri lele dengan jari, lalu mengambil sedikit nasi dan sambal. Aku menyodorkan piring kecil berisi lalapan.
+"Kalau begitu, saya aman," jawab Aji.
 
-"Kalau sudah cuci tangan, coba saja. Tidak ada yang melarang pakai tangan."
+Aku tertawa kecil. Cak Qodim kembali ke wajannya, meninggalkan kami dengan suara minyak yang mendesis dan lalu lintas yang sesekali meraung di jalan.
 
-Aji tampak ragu. "Saya tidak terbiasa."
+Beberapa menit kemudian, aku mulai memisahkan duri lele dengan tangan. Aji memperhatikan gerakanku, lalu mencoba memotong bagian yang sama menggunakan sendok dan garpu. Dagingnya malah terlepas bersama beberapa duri kecil.
 
-"Kalau tidak nyaman, pakai sendok lagi. Sederhana."
+"Kalau pakai tangan, kamu bisa merasakan durinya," kataku.
 
-Ia memandang piringnya, lalu mencoba mengambil sedikit daging lele dengan tangan. Gerakannya kaku, tetapi ia berhasil memisahkan duri tanpa membuat nasi berantakan.
+Aji memandang jemarinya. "Saya sudah cuci tangan."
 
-"Lebih gampang, kan?" tanyaku.
+"Ya, memang."
 
-"Untuk lele, mungkin."
+Ia tampak mempertimbangkan tawaranku. "Kalau makan pakai tangan, tidak berarti harus selalu begitu, kan?"
 
-"Untuk hidup juga kadang begitu. Tidak semua hal harus pakai alat."
+"Tentu saja. Kalau tidak nyaman, pakai sendok lagi. Aku tidak sedang mengubah kebiasaanmu."
 
-"Jangan mulai menghubungkan makan malam dengan filsafat."
+Aji meletakkan sendok dan garpu. Ia mengambil sedikit daging lele dengan ujung jari, memisahkan tulang kecil yang terasa, lalu mencampurnya dengan nasi dan sambal. Gerakannya masih kaku, tetapi lebih mudah daripada tadi.
 
-Aku tertawa. Aji mengambil sepotong kol goreng lagi. Kali ini ia tidak memakai sendok.
+"Bagaimana?" tanyaku.
 
-Setelah beberapa suap, pembicaraan kami beralih ke pekerjaan. Aji bercerita bahwa ia sudah menghubungi pemasok bahan transfer, tetapi belum menemukan jenis yang cocok untuk kain mori. Aku menjelaskan bahwa beberapa cat yang kupakai juga membutuhkan waktu lebih lama untuk kering jika udara terlalu lembap.
+"Lebih gampang memisahkan durinya."
 
-"Berarti kita sama-sama belum bisa memastikan jadwal produksi," katanya.
+"Nah."
 
-"Yang penting jangan memaksakan bahan yang belum teruji."
+"Tapi sambalnya terlalu banyak."
 
-Aji mengangguk. "Saya mulai paham kenapa kamu selalu menyimpan potongan kain untuk percobaan."
+Aku menahan tawa. "Itu karena kamu mengambilnya sendiri."
 
-"Dan aku mulai paham kenapa kamu suka mencatat ukuran sampai hal kecil."
+Aji mengambil tisu untuk membersihkan ujung jarinya. "Saya tetap lebih suka makan pakai sendok kalau menunya bukan ikan."
 
-Ia memandangku sebentar. "Itu pujian?"
+"Tidak ada yang memaksamu."
 
-"Jangan geer. Aku cuma sedang menyampaikan fakta."
+Ia kembali menyuap. Kali ini tangannya tidak buru-buru mencari sendok.
 
-Aji tersenyum, lalu kembali makan. Cak Qodim sempat bercerita bahwa pelanggan sering memilih warung bukan hanya karena rasa, tetapi juga karena spanduk yang mudah dikenali dari jalan. Ia hafal gambar mana yang membuat orang berhenti dan tulisan mana yang terlalu kecil untuk dibaca dari atas motor.
+Setelah makan beberapa suap, pembicaraan kami beralih ke pekerjaan. Aji bercerita bahwa ia sudah menghubungi pemasok bahan transfer, tetapi belum menemukan jenis yang sesuai untuk kain mori. Beberapa produk yang ditawarkan hanya mencantumkan keterangan untuk permukaan datar.
 
-"Makanya kumis lele harus kelihatan," katanya. "Orang lewat cuma punya waktu beberapa detik."
+"Kalau begitu, jangan dibeli dulu," kataku. "Kita tidak bisa mengulang percobaan kemarin dengan bahan yang sama."
 
-Aku mengangguk. Selama ini aku menganggap bentuk dan warna sebagai bagian dari kebiasaan melukis. Mendengar Cak Qodim menjelaskannya sebagai cara menarik pelanggan membuatku sadar bahwa setiap detail punya fungsi.
+"Aku sudah minta mereka mengirimkan lembar spesifikasi. Kalau ada bahan khusus tekstil, kita minta sampelnya."
 
-Aji memperhatikan percakapan itu tanpa menyela. Sesekali ia bertanya tentang posisi lampu dan jarak pandang dari jalan. Cak Qodim menjawab sambil membalik tempe, lalu menyuruh kami tidak membahas pekerjaan terus-menerus saat makan.
+"Bagus. Aku juga harus menyesuaikan cat. Kalau udara terlalu lembap, beberapa warna butuh waktu lebih lama untuk kering."
 
-Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
+Aji mengangguk. "Berarti jadwal prototipe belum bisa kita pastikan."
+
+"Lebih baik mundur sehari daripada mengirim sesuatu yang belum teruji."
+
+Ia memandangku sebentar. "Sekarang aku paham kenapa kamu menyimpan potongan kain untuk setiap percobaan."
+
+"Dan aku mulai paham kenapa kamu mencatat ukuran sampai hal kecil."
+
+"Itu pujian?"
+
+"Jangan geer. Aku cuma menyampaikan fakta."
+
+Aji tersenyum tipis. Ia mengambil kol goreng lagi, kali ini langsung dengan tangan.
+
+Cak Qodim mendekat untuk mengisi ulang sambal. Aku bertanya apakah gambar spanduk memang berpengaruh pada pelanggan warung. Ia mengangguk sambil menunjuk ke arah jalan.
+
+"Orang yang naik motor cuma melihat sebentar. Kalau gambar dan nama warungnya tidak jelas, mereka lewat begitu saja. Kadang orang ingat warung dari gambar lele atau ayamnya, bukan dari nama pemiliknya."
+
+"Berarti gambar harus kelihatan dari jauh," kataku.
+
+"Betul. Tulisan jangan terlalu kecil. Warna juga jangan sampai menyatu dengan latar."
+
+Aji ikut bertanya tentang posisi lampu dan arah kendaraan yang biasa lewat. Cak Qodim menjelaskan bahwa lampu warung membantu, tetapi spanduk tetap harus terbaca ketika terkena sorot lampu kendaraan dari depan.
+
+Aku memperhatikan Aji mencatat beberapa hal di ponselnya. Biasanya ia mencatat ukuran dan kebutuhan mesin. Malam itu ia juga mencatat kebiasaan orang yang melihat spanduk dari jalan.
+
+"Sudah, jangan kerja terus," tegur Cak Qodim. "Makan dulu. Nanti kalau sudah kenyang baru pikirkan lele dan kotak-kotaknya."
+
+Aji menyimpan ponsel. Aku menghabiskan sisa nasi, sementara ia kembali menggunakan sendok untuk mengambil kuah sambal yang tersisa di piring.
+
+Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya makan, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Namun, untuk pertama kalinya, Aji mendengarkan penjelasan tentang warung tanpa buru-buru mengubahnya menjadi urusan desain. Dan aku mulai melihat bahwa catatan kecilnya kadang bisa membantu pekerjaanku juga.
