@@ -19,6 +19,7 @@
 | 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim | Wiwin traktir makan lele kobokan; Bachtiar luluh makan pakai tangan dan cicip sambal terasi |
 | 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Bachtiar, Pak Lik Harto | Wiwin buka buku resep kuno; Bachtiar temukan formula getah damar untuk tinta sablon saring QRIS |
 | 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Bachtiar | Bachtiar hitung viskositas centipoise; Wiwin koreksi takaran pakai kepekaan jemari; formula pasta damar pas |
+| 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Bachtiar, Bang Parlin | Sablon saring pasta damar sukses cetak QRIS tajam; sensor HP baca 0,2 detik; mobil dinas pelat merah tiba |
 
 ## A2. Timeline Masa Lalu
 
@@ -62,6 +63,7 @@
 | 11 | Wiwin | Hangat & terhibur | Mangkok kobokan jeruk nipis | Mencairkan dinding gengsi rivalitas | - | Menggali solusi teknis sablon dari tradisi |
 | 12 | Wiwin | Terinspirasi & takjub | Buku resep usang, toples getah damar | Menemukan titik temu sains dan tradisi | - | Menguji formula getah damar untuk sablon saring |
 | 13 | Wiwin | Bangga & serasi | Piring blirik, pasta damar hitam | Menyatukan sains modern dan kepekaan rabaan tangan | - | Uji coba sablon saring pada kain mori |
+| 14 | Wiwin | Girang lalu tegang | Rakel sablon kayu, HP jadul | Menikmati kemenangan kolaborasi hibrida | - | Menghadapi kedatangan mendadak mobil dinas pejabat |
 
 ## E. Fakta Keras dan Angka
 
