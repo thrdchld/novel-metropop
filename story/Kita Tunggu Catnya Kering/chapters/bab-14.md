@@ -12,7 +12,7 @@ Aku menyelesaikan ilustrasi lele di bagian tengah kain. Kotak kosong di sudut ka
 
 Aji mengukur ulang. "Cukup. Area kosongnya tidak boleh tertutup cat atau ornamen."
 
-Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. Proses penerapan dilakukan menggunakan alat tekan yang sesuai dengan petunjuk bahan. Kami mengikuti suhu dan durasi yang dianjurkan, kemudian membiarkan panel mendingin sebelum memeriksa tepinya.
+Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. Proses penerapan dilakukan menggunakan mesin pres termal pinjaman dari pemasok bahan, mengikuti petunjuk suhu dan durasi yang dianjurkan. Kami mengikuti suhu dan durasi yang dianjurkan, kemudian membiarkan panel mendingin sebelum memeriksa tepinya.
 
 Aku menahan napas ketika Aji mengangkat lapisan pelindung.
 
