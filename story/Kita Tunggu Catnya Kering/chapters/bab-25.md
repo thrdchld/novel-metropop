@@ -2,9 +2,9 @@
 
 Ujung kuas nomor tiga melesat di atas bentangan mori putih, menyapukan lengkungan kuning cerah yang membentuk punggung lele raksasa.
 
-Keringat membasahi kaus hitamku yang sudah kaku oleh percikan cat. Enam lembar spanduk VIP yang selesai dilukis tergantung di rak pengering. Empat lainnya masih menunggu giliran. Kami tidak lagi menggantung kain di tali tambang langit-langit karena bagian plafon dekat talang semalam sudah beberapa kali meneteskan air.
+Kain tambahan sepanjang tiga puluh dua meter tiba Senin pagi setelah perubahan pesanan dan uang muka disetujui panitia. Jumlah itu ditambah sisa dua belas meter dari persediaan awal, cukup untuk sepuluh spanduk VIP beserta cadangan. Keringat membasahi kaus hitamku yang sudah kaku oleh percikan cat. Enam lembar spanduk VIP yang selesai dilukis tergantung di rak pengering. Empat lainnya masih menunggu giliran. Kami tidak lagi menggantung kain di tali tambang langit-langit karena bagian plafon dekat talang semalam sudah beberapa kali meneteskan air.
 
-Aji duduk di sisi meja lain, memeriksa lembar transfer QRIS yang sudah dipasangkan dengan nama masing-masing warung. Ia memakai sarung tangan tahan panas saat mengangkat panel dari mesin pres dan memastikan kain tidak bergeser.
+Aji duduk di sisi meja lain, memeriksa lembar transfer QRIS yang sudah dipasangkan dengan nama masing-masing warung. Ia memakai sarung tangan tahan panas saat mengangkat panel dari mesin pres termal pinjaman pemasok dan memastikan kain tidak bergeser.
 
 "Panel kesembilan sudah terpasang," katanya. "Aku ikuti suhu dan waktu yang tertera di petunjuk bahan transfernya. Tapi kita tetap perlu cek hasilnya setelah dingin."
 
