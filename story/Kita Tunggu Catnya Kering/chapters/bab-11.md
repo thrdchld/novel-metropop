@@ -1,49 +1,63 @@
 ## Bab 11: Makan Malam
 
-Uap sambal terasi bakar yang baru diulek di atas cobek batu berpadu dengan gurihnya kol goreng panas memecah keheningan malam di bawah terpal oranye.
+Aroma sambal terasi dan lele goreng memenuhi warung tenda Cak Qodim. Pukul setengah sembilan malam, meja-meja mulai terisi pekerja kantoran yang baru turun dari angkot dan sopir truk yang berhenti sebentar sebelum melanjutkan perjalanan.
 
-Pukul setengah sembilan malam, warung tenda Cak Qodim mulai dipadati pekerja kantoran yang baru turun dari angkot dan supir truk Kalimalang. Asap tipis dari wajan baja mengepul lembut, kali ini murni dari minyak jelantah bersih tanpa lelehan plastik kimia. Di atas meja kayu beralas terpal kotak-kotak, dua piring anyaman bambu beralas kertas minyak cokelat sudah terhidang: dua ekor lele goreng garing berselimut kremesan dan segunung kol goreng cokelat keemasan.
+Aku duduk berhadapan dengan Aji. Di antara kami ada dua piring nasi uduk, lele goreng, kol goreng, dan cobek sambal yang masih mengeluarkan uap.
 
-Aji duduk kaku di sampingku, matanya jelalatan menatap kolong meja dan sudut gerobak Cak Qodim.
+Aji memandang meja, lalu melirik ke tempat sendok dekat wadah kerupuk.
 
-"Mencari apa kamu?" tanyaku sambil menarik mangkok plastik merah berisi air kobokan dan irisan jeruk nipis.
+"Sendoknya habis?" tanyanya.
 
-"Sendok garpu," sahut Aji pelan, suaranya nyaris tenggelam oleh desis api kompor mawar. "Biasanya pedagang menaruh wadah sendok di dekat tempat kerupuk, kan?"
+"Masih ada. Tapi kalau makan lele pakai tangan, lebih gampang memisahkan durinya."
 
-Aku tertawa renyah, meletakkan mangkok kobokan tepat di depan dadanya. "Di tenda pecel lele asli Lamongan, makan pakai sendok garpu itu sama saja menghina koki. Nggak bakal dapat sensasi kriuknya."
+Ia mengambil sendok dan garpu. "Saya lebih nyaman begini."
 
-Aji menatap mangkok kobokan dengan alis berkerut dalam. "Air kobokan ini diganti berapa jam sekali? Jeruk nipisnya cuma satu iris kecil, apa bisa membunuh kuman di jemari?"
+"Silakan. Aku tidak sedang mengadakan ujian makan."
 
-"Astaga, Mas desainer," dengusku gemas. "Air ini baru diambil dari galon air bersih di belakang gerobak. Celupkan saja jarimu, peras jeruk nipisnya, lalu usapkan ke telapak tangan. Beres."
+Cak Qodim datang membawa dua gelas es teh. "Aji, kalau mau cuci tangan, keran ada di belakang. Sabun juga ada."
 
-Kutarik tangan kananku, mencelupkannya ke mangkok kobokan, lalu menyeka tetesan air ke kain serbet bersih. Kucuil daging lele yang panas mengepul, mencoleknya dalam-dalam ke cobek sambal terasi ulek yang masih basah oleh tomat goreng, lalu melahapnya bersama segumpal nasi uduk hangat.
+Aji mengangguk, lalu berdiri. Aku menyusul karena tanganku masih menyisakan noda cat di sela kuku. Kami mencuci tangan dengan sabun dan air mengalir sebelum kembali duduk.
 
-"Hmm... renyah banget," gumamku sengaja memperjelas kunyahan garing di depan hidungnya. "Dagingnya manis gurih, sambalnya nendang di lidah. Yakin nggak mau coba selagi hangat?"
+"Sudah siap?" tanyaku.
 
-Aji menelan ludah. Perutnya yang sejak tadi sore cuma diisi teh tawar rupanya tidak bisa diajak kompromi lagi. Suara gemuruh lapar terdengar lirih dari balik jaket kanvasnya.
+Aji mengangguk. Ia mengambil potongan lele, memeriksa durinya, lalu mencicipi sedikit sambal. Selama beberapa detik ia mengunyah tanpa komentar.
 
-Dengan gerakan ragu-ragu, ia mencelupkan ujung jemari tangan kanannya ke dalam air kobokan. Ia memeras irisan jeruk nipis kecil itu sampai tetes terakhir, mengeringkan tangannya dengan selembar tisu saku, lalu menatap potongan lele goreng di piringnya seperti sedang meneliti komponen mesin cetak.
+"Gimana?" tanyaku.
 
-"Patahkan kepalanya dulu, ambil daging bagian punggung," instruksiku santai.
+"Gurih. Sambalnya juga pas."
 
-Aji mengikuti petunjukku. Jarinya menyentuh kulit luar lele yang garing berminyak. Suara krispi terdengar saat ia merobek daging putih yang masih mengepul lembut. Dengan gerakan canggung, ia mencolek sedikit sambal terasi merah di tepi piring, lalu menyuapkannya ke dalam mulut.
+"Kol gorengnya?"
 
-Selama lima detik pertama, ia mengunyah pelan dengan mata menyipit.
+Ia mengambil sepotong lagi. "Manis. Sedikit renyah di luar."
 
-Lalu ekspresi kaku di wajahnya mendadak runtuh. Kedua matanya melebar sedikit, kepalanya mengangguk tanpa sadar, dan kunyahannya berubah menjadi lebih cepat dan mantap.
+"Berarti bisa makan di sini tanpa harus membawa sendok garpu dari rumah."
 
-"Gimana rasanya?" tanyaku sambil tersenyum jahil.
+"Jangan terlalu cepat menyimpulkan. Saya tetap akan pakai sendok."
 
-"Gurih," jawab Aji singkat, berusaha menjaga gengsinya tetap tegak. Tapi tangannya yang gesit menyambar sejumput kol goreng panas dan mencampurnya ke nasi uduk membongkar kepura-puraannya. "Kol gorengnya manis karamel, sambalnya seimbang antara terasi dan asam jeruk limau."
+Aku tertawa. "Terserah. Yang penting jangan mengukur sambal pakai kalkulator."
 
-"Makanya, hidup jangan kebanyakan mikir resolusi piksel sama format vektor terus," sahutku sambil menyodorkan segelas es teh manis. "Kadang-kadang kita butuh makan pakai tangan kotor dan keringetan di pinggir jalan biar ingat kalau kita ini masih manusia biasa."
+Cak Qodim yang sedang membalik tempe di wajan ikut tertawa. "Aji sudah mulai cocok tinggal di Kalimalang. Besok-besok mungkin sudah hafal siapa yang jual lele paling murah."
 
-Cak Qodim yang sedang membalik tempe goreng di wajan melirik ke arah kami sambil tertawa terbahak-bahak.
+Aji mengangkat bahu. "Saya cuma sedang mencari makan malam."
 
-"Nah, gitu dong, Aji!" kata Cak Qodim dari balik wajan. "Kemarin gayamu kayak mandor proyek dari Jepang, sekarang baru kelihatan pantes jadi warga Kalimalang!"
+"Orang yang bilang cuma mencari makan biasanya tambah nasi," godaku.
 
-Aji hanya tersipu tipis, pipinya memerah terkena uap panas wajan dan sengatan cabai rawit merah. Suap demi suap nasi uduk ludes tak bersisa di piringnya, hanya menyisakan tulang lele yang bersih licin.
+Ia tidak menjawab. Tangannya justru mengambil nasi lagi.
 
-Setelah suapan terakhir habis, Aji menatap jemari tangannya sendiri yang memerah belepotan minyak dan sambal.
+Setelah beberapa suap, pembicaraan kami beralih ke pekerjaan. Aji bercerita bahwa ia sudah menghubungi pemasok bahan transfer, tetapi belum menemukan jenis yang cocok untuk kain mori. Aku menjelaskan bahwa beberapa cat yang kupakai juga membutuhkan waktu lebih lama untuk kering jika udara terlalu lembap.
 
-Tanpa sadar, ia menjilat ujung ibu jarinya perlahan, lalu tersenyum kecil menatap kerlap-kerlip lampu truk di sepanjang aspal. Ternyata benar kata Wiwin: di dunia yang serba otomatis dan dingin ini, ada hal-hal sederhana yang memang tidak butuh sendok garpu perak untuk terasa sempurna.
+"Berarti kita sama-sama belum bisa memastikan jadwal produksi," katanya.
+
+"Yang penting jangan memaksakan bahan yang belum teruji."
+
+Aji mengangguk. "Saya mulai paham kenapa kamu selalu menyimpan potongan kain untuk percobaan."
+
+"Dan aku mulai paham kenapa kamu suka mencatat ukuran sampai hal kecil."
+
+Ia memandangku sebentar. "Itu pujian?"
+
+"Jangan geer. Aku cuma sedang menyampaikan fakta."
+
+Aji tersenyum, lalu kembali makan.
+
+Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
