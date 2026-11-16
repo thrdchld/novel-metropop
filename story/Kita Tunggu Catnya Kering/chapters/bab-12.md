@@ -1,51 +1,95 @@
 ## Bab 12: Buku Resep
 
-Selembar kertas buram bergaris yang sudah menguning dan rapuh robek terbelah dua saat aku menariknya dari laci kayu lemari obat Pak Lik Harto.
+Buku bersampul karton cokelat itu tergeletak di atas meja nakas Pak Lik. Sudut-sudutnya aus, tali rafia merah yang mengikat sampulnya mulai rapuh. Aku menemukannya di rak bawah lemari, terselip di antara beberapa map lama dan kotak obat.
 
-KREK!
+"Pelan-pelan, Win," kata Pak Lik dari atas kasur. "Jangan ditarik paksa. Kertasnya sudah tua."
 
-Bunyi sobekan tipis itu membuat tanganku mematung seketika. Pukul sepuluh pagi, kamar belakang ruko terasa sejuk temaram di bawah seberkas cahaya matahari yang menembus celah ventilasi kayu. Pak Lik Harto sedang duduk bersandar di atas kasur kapuk tipis, sarung luriknya menyelimuti kedua kakinya yang kurus. Di ambang pintu bilik, Aji berdiri membungkuk sedikit agar kepalanya tidak terantuk kusen kayu yang rendah.
+Aku mengangkat buku itu dengan kedua tangan. "Ini buku resep yang dulu sering Lik pakai?"
 
-"Pelan-pelan, Win," bisik Pak Lik Harto sambil terbatuk kecil. "Buku itu sudah tiga puluh tahun umurnya, kertas buramnya sudah rapuh dimakan rayap."
+"Catatan kerja," jawabnya. "Ada resep, ada percobaan yang gagal, ada juga catatan harga bahan. Jangan mengira semuanya formula rahasia."
 
-Kutarik perlahan buku catatan bersampul karton cokelat kusam itu dari tumpukan botol obat batuk hitam dan balsem pala. Sampul depannya sudah robek di sudut kanan, diikat seutas tali rafia merah yang mulai getas. Pada lembaran kertasnya yang kusam, goresan tinta pena merah dan biru mencatat puluhan formula campuran pigmen, perbandingan tetesan minyak trafo, hingga takaran getah pohon untuk melukis kain.
+Aji berdiri di ambang pintu, menunggu dipersilakan masuk. Setelah Pak Lik mengangguk, ia mendekat dan menarik kursi kecil di samping meja.
 
-Aji melangkah mendekat, matanya menatap lembaran kertas itu dengan penuh rasa ingin tahu.
+Aku membuka ikatan rafia. Halaman pertama dipenuhi tulisan tangan Pak Lik dengan tinta merah dan biru. Ada tanggal-tanggal lama, nama bahan, takaran, serta beberapa coretan yang sulit kubaca. Di pinggir halaman, Pak Lik menulis catatan pendek dengan huruf lebih besar.
 
-"Buku apa ini?" tanya Aji pelan.
+Aji membungkuk untuk melihat lebih dekat. "Ini catatan campuran pigmen?"
 
-"Resep rahasia bengkel spanduk Pak Lik," jawabku sambil menyatukan kembali sobekan kertas buram tadi di atas meja nakas kecil. "Tiga puluh tahun lalu pas jalur Pantura masih ramai sebelum ada jalan tol, semua pelukis tenda Lamongan sampai Brebes punya racikan pigmen sendiri-sendiri. Dulu belum ada cat pabrikan kaleng siap pakai kayak sekarang."
+"Sebagian," jawab Pak Lik. "Dulu saya mencatat apa saja yang dipakai. Kalau hasilnya bagus, ditulis. Kalau gagal, juga ditulis. Biar tidak mengulang kesalahan."
 
-Aji mengambil salah satu halaman yang lepas dengan dua jari, mengamatinya di bawah bias cahaya matahari ventilasi. Keningnya berkerut dalam saat membaca tulisan tangan kursif Jawa yang bercampur istilah kimia pasar.
+Aku membalik halaman berikutnya. Beberapa catatan menyebut minyak pengering, getah damar, dan bahan pengikat. Ada bagian yang diberi garis bawah, sementara bagian lain dicoret tebal. Di satu halaman tertulis: terlalu kaku setelah kering. Di halaman lain: warna berubah setelah kena hujan.
 
-"Damar mata kucing ditumbuk halus, disaring kain kasa, dilarutkan bensin murni tiga banding satu," baca Aji perlahan. Ia mendongak menatap Pak Lik Harto dengan mata terbelalak. "Pak Lik memakai getah damar alami untuk campuran cat kain?"
+Aji membaca salah satu catatan dengan suara pelan. "Damar dicampur bahan pengikat dan minyak pengering."
 
-Pak Lik Harto tersenyum tipis, matanya berbinar mengingat masa mudanya merantau di jalur pesisir utara.
+"Betul," kata Pak Lik. "Pernah saya coba untuk cat kain. Tapi jangan langsung ditiru. Bahan yang tersedia sekarang berbeda. Kainnya juga belum tentu sama."
 
-"Benar, Mas Aji," kata Pak Lik Harto dengan suara serak namun tegas. "Zaman dulu cat sablon gampang luntur kalau kena hujan dan angin Pantura. Makanya orang-orang tua mencampur getah damar sama lem kayu supaya serat kainnya mengunci pigmen."
+Aku menemukan halaman yang ujungnya terlipat. Di situ ada noda cokelat sebesar ibu jari dan tanda silang merah di samping sebuah formula.
 
-Pak Lik menunjuk ke kolong lemari sebelum menyambung pelan, "Getah damar itu kalau kering bakal jadi seperti lapisan kaca tipis yang lentur. Nggak bakal pecah biarpun kainnya ditekuk-tekuk."
+"Yang ini kenapa gagal, Lik?"
 
-Aku berjongkok, merogoh kolong lemari obat kayu, lalu mengeluarkan sebuah toples kaca selai bekas yang tutupnya berkarat. Di dalamnya tersimpan bongkahan getah damar berwarna kuning kecokelatan yang bening menyerupai batu ambar, sebagian sudah ditumbuk menjadi serbuk halus.
+Pak Lik menggeser posisi duduknya. "Waktu itu catnya menempel kuat, tapi setelah kering kain jadi kaku. Kalau dilipat beberapa kali, lapisannya retak. Saya coba ubah takarannya, hasilnya tetap tidak memuaskan."
 
-Kuserahkan toples kaca berat itu ke tangan Aji.
+Aji membaca catatan di bawahnya. "Berarti daya rekat saja tidak cukup. Kita juga harus melihat kelenturan lapisan setelah kering."
 
-"Ini getah damar mata kucing asli dari hutan Sumatra," jelasku. "Kalau dicampur minyak pengering dan pigmen sablon, seratnya bakal mengikat rapat ke pori-pori katun mori tanpa merembes keluar."
+"Ya," kata Pak Lik. "Spanduk itu bukan papan. Kainnya digulung, dilipat, ditarik waktu dipasang. Kalau catnya bagus dilihat tapi pecah saat dipakai, ya tetap gagal."
 
-Aji memutar toples kaca di tangannya, memperhatikan butiran kristal damar yang memantulkan cahaya kuning keemasan. Ia mengeluarkan ponselnya, mengetik beberapa angka perbandingan kekentalan di aplikasi kalkulator dengan jemari lincah.
+Aku memandangi halaman itu. Selama ini, aku sering mengira Pak Lik selalu tahu campuran yang tepat. Saat kecil, aku hanya melihatnya bekerja di depan kain besar, mengaduk warna dan menggambar huruf. Aku tidak pernah tahu berapa banyak percobaan yang berakhir di tumpukan kain gagal.
 
-"Bahan ini berbasis polimer alami," kata Aji, nada suaranya berubah antusias seperti ilmuwan yang baru menemukan cetak biru terlupakan. "Alasan stiker vinil kemarin gagal karena lem sintetisnya mengapung di permukaan serat basah. Tapi formula damar ini justru meresap dan mengikat jalinan benang kapas dari dalam."
+"Kenapa buku ini tidak pernah Lik tunjukkan?" tanyaku.
 
-"Maksudmu?" desakku penasaran.
+"Karena tidak semua catatan lama masih berguna. Ada bahan yang sekarang sulit dicari. Ada juga yang tidak aman kalau dicampur sembarangan. Saya tidak mau kalian membaca satu baris, lalu langsung mencoba tanpa tahu apa yang ada di dalamnya."
 
-"Bagaimana kalau kita tidak memakai stiker tempel?" Aji melipat lembaran resep itu dengan sangat hati-hati, lalu menatapku lekat-lekat. "Bagaimana kalau kita membuat plat sablon saring khusus untuk kode QRIS, lalu tintanya kita racik sendiri menggunakan formula getah damar Pak Lik ini?"
+Aji mengangguk. "Kita perlu memastikan komposisi dan petunjuk penggunaan bahan sebelum menguji apa pun. Kalau informasinya tidak jelas, lebih baik tidak dipakai."
 
-Aku menatap Aji, lalu beralih menatap toples kaca di tangannya. "Sablon saring butuh kain kasa monofilamen yang sangat rapat. Kalau pori-pori saringannya longgar, cat damar ini bakal meluber juga saat disapu rakel karet."
+Pak Lik menunjuk toples kaca di rak bawah. Di dalamnya tersimpan bongkahan damar berwarna kuning kecokelatan. Tutup toples itu kusam, tetapi masih rapat.
 
-"Aku punya kain kasa presisi nomor seratus dua puluh T di ruko seberang," potong Aji cepat, matanya menyala terang di balik kacamata. "Resolusinya cukup halus untuk mencetak kotak-kotak piksel QRIS tanpa merusak sudut kodenya."
+"Ini sisa damar yang dulu saya simpan," katanya. "Boleh dilihat, tapi jangan dicampur apa-apa dulu."
 
-Pak Lik Harto tersenyum lebar mendengar adu gagasan kami berdua. Tangannya yang berkerut meraih cangkir seng di meja samping ranjang, lalu menyesap airnya perlahan.
+Aku mengambil toples itu dan meletakkannya di meja. Aji memeriksa label lama yang hampir terkelupas, lalu membaca tulisan yang masih tersisa.
 
-"Kalau kalian berdua mau menyambungkan akal pikiran dan rasa seni," bisik Pak Lik Harto lirih, "nggak bakal ada jalan buntu di sepanjang Kalimalang ini."
+"Kalau bahan ini sudah lama disimpan, kondisinya juga harus diperiksa," katanya. "Kita tidak tahu apakah sifatnya masih sama."
 
-Pertanyaan Aji tadi kini berubah menjadi tantangan nyata yang menggetarkan dadaku. Di tangan pemuda perkotaan yang biasa hidup dari monitor komputer ini, resep kuno pinggir jalan Pantura mendadak menjelma menjadi jembatan baru yang tak pernah kubayangkan sebelumnya.
+"Jadi tidak bisa langsung dipakai?" tanyaku.
+
+"Belum tentu. Kita cari tahu dulu. Buku ini memberi petunjuk tentang apa yang pernah dicoba, bukan memastikan hasilnya akan sama."
+
+Aku membalik beberapa halaman lagi. Ada catatan tentang warna hijau yang tampak bagus saat basah, tetapi berubah kusam setelah kering. Ada pula catatan mengenai kain yang terasa lengket meskipun sudah didiamkan semalaman.
+
+"Lik dulu telaten sekali mencatat," kataku.
+
+"Kalau tidak dicatat, besok lupa. Apalagi kalau sedang mencoba beberapa campuran. Nanti kita tidak tahu mana yang membuat hasilnya berubah."
+
+Aji mengeluarkan ponsel. "Boleh saya foto beberapa halaman yang berkaitan dengan bahan pengikat dan hasil uji kain?"
+
+Pak Lik mengangguk. "Boleh. Tapi jangan bawa bukunya ke ruko. Setelah selesai, kembalikan ke lemari. Itu catatan keluarga."
+
+Aji memotret halaman yang diperlukan satu per satu. Ia tidak mengambil foto seluruh buku. Setiap selesai memotret, ia memeriksa hasilnya agar tulisan yang pudar masih terbaca. Aku membantu menahan halaman yang melengkung tanpa menekan bagian kertas yang rapuh.
+
+"Jangan sampai ada yang tercecer," kata Pak Lik.
+
+"Iya, Lik," jawabku.
+
+Setelah selesai, aku mengikat kembali buku itu dengan tali rafia dan menyimpannya di rak yang sama. Toples damar juga kukembalikan ke tempat semula.
+
+"Dulu kamu suka duduk di samping saya waktu mencampur cat," kata Pak Lik kepadaku. "Tapi kalau disuruh mencatat, kamu malah menggambar ikan di pinggir kertas."
+
+Aku tertawa. "Menggambar ikan lebih gampang daripada mengingat takaran."
+
+"Makanya sekarang belajar mencatat."
+
+Aji menutup kamera ponselnya. "Saya juga harus belajar tidak menganggap catatan lama sebagai jawaban siap pakai."
+
+Pak Lik mengangguk puas. Ia lalu meminta kami tidak terlalu lama berdiri di kamar karena masih ingin beristirahat.
+
+Kami keluar dengan beberapa foto halaman di ponsel Aji, bukan membawa pulang buku atau toplesnya. Di lorong, Aji berhenti sebentar untuk membaca ulang catatan yang tadi ia foto.
+
+"Menurutmu ada yang bisa dipakai?" tanyaku.
+
+"Belum tahu. Ada beberapa bahan yang perlu kita cari informasinya. Bisa jadi tidak cocok sama sekali dengan cat yang sekarang kamu gunakan."
+
+"Jadi kita tetap mulai dari sampel kecil?"
+
+"Ya. Kita bandingkan dengan cat yang sudah biasa kamu pakai. Hasilnya harus dilihat setelah kering, bukan cuma saat baru dioleskan."
+
+Aku mengangguk. Catatan lama itu tidak memberi kami jalan pintas. Namun setidaknya, kami mendapat gambaran tentang hal-hal yang harus diperhatikan, termasuk kesalahan yang pernah dilakukan Pak Lik.
+
+Untuk sementara, itu sudah cukup menjadi petunjuk.

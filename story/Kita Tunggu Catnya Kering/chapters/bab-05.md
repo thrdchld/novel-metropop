@@ -40,7 +40,7 @@ Hasilnya tetap sama. Garis merah berkedip kaku, disusul pesan eror yang menampar
 
 Kudekatkan mataku ke kain mori hingga hidungku hampir menyentuh permukaan cat basah. Di sanalah aku melihat kenyataan pahit yang tadi diperingatkan Pak Lik Harto.
 
-Di bawah kaca pembesar benang, serat kapas mori perlahan tapi pasti menyerap pelarut minyak cat. Tepi garis hitam yang semula lurus sempurna kini merembes halus menyerupai rambut-rambut halus ke sela benang putih. Lebar garis itu meluber tidak lebih dari nol koma empat milimeter, nyaris mustahil dilihat mata telanjang. Namun bagi sensor digital kamera ponsel, rembesan nol koma empat milimeter itu adalah bencana besar yang mengacaukan susunan data biner.
+Di bawah kaca pembesar benang, serat kapas mori perlahan menyerap cat yang terlalu encer. Tepi beberapa kotak hitam melebar ke sela benang putih. Di beberapa bagian, celah putih yang seharusnya memisahkan modul mulai menyempit, bahkan menyatu dengan kotak di sebelahnya. Dari jarak biasa, perubahan itu hampir tidak terlihat. Namun susunan kode yang sudah berubah tidak lagi terbaca oleh kamera ponsel.
 
 Pak Lik Harto menepuk pundakku pelan. "Kuas tangan manusia itu untuk menggugah rasa lapar orang yang lewat, Win. Bukan buat membohongi mata mesin."
 

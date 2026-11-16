@@ -1,49 +1,87 @@
 ## Bab 18: Lontong Sayur
 
-Kuah santan oranye kental berhamburan menciprat ke tepi meja plastik saat Aji meletakkan sendok bebeknya dengan entakan keras.
+Kuah santan oranye mengepul dari mangkuk lontong sayur di hadapan kami. Pukul setengah delapan pagi, warung tenda dekat Stasiun Tanah Abang mulai dipadati komuter. Suara pedagang, peluit petugas parkir, dan deru bajaj bercampur di bawah terpal yang sedikit bergetar tertiup angin.
 
-KLANG!
+Aji duduk di seberangku. Sejak mendengar kabar dari Bang Rahmat, sendoknya lebih sering berhenti daripada bergerak.
 
-Mata Aji berkilat tajam di balik kacamata. Pukul setengah delapan pagi, emperan warung tenda lontong sayur Padang di seberang Stasiun Tanah Abang mulai riuh oleh desakan komuter berbaju kemeja yang bergegas menuju peron kereta rel listrik. Uap santan pedas bercampur gurihnya rebusan nangka muda mengepul dari dandang aluminium besar di depan kami.
+"Kalau Haris berhasil meyakinkan panitia bahwa kita tidak sanggup, mereka bisa mengalihkan pekerjaan sebelum produksi dimulai," katanya.
 
-"Haris selalu pakai cara menjijikkan seperti itu!" desis Aji dengan geram, menatap lurus ke aspal jalan. "Dulu dia merebut akun klienku di kantor lama. Sekarang dia mau memakai taktik yang sama untuk membunuh rezeki pedagang kecil!"
+Aku menyendok kuah. "Dia memang punya perusahaan percetakan. Wajar kalau dia menawarkan jasanya."
 
-Bang Rahmat menyeruput teh manis hangatnya dari gelas beling tebal, lalu menyeka kumis tipisnya dengan punggung tangan.
+"Kamu tidak khawatir?"
 
-"Tenang dulu, Mas Aji," kata Bang Rahmat setengah berbisik sambil mencondongkan badannya ke depan. "Informasi dari supir kepala dinas yang sering nongkrong bareng gue di pangkalan, bosnya belum tanda tangan persetujuan tender Mitra Graha. Beliau masih ragu."
+"Khawatir boleh. Tapi kalau kita ikut panik, siapa yang mengurus lima puluh gulung kain di mobil tadi?"
 
-"Kenapa ragu?" tanyaku sambil mengunyah sepotong lontong yang lembut gurih.
+Bang Rahmat menyeruput teh manis dari gelas beling. "Saya juga belum tahu apakah tawaran Pak Haris ditanggapi. Yang saya dengar, panitia mau melihat kesiapan tempat kerja kalian beberapa hari lagi."
 
-"Kepala dinasnya takut kena semprot walikota," jelas Bang Rahmat. "Spanduk tenda Lamongan kan temanya budaya lokal. Kalau mendadak diganti plastik MMT pabrik, bisa jadi skandal media."
+Aji mengangkat kepala. "Melihat kesiapan dalam arti apa?"
 
-Bang Rahmat menyeruput tehnya lagi sebelum menyambung pelan, "Tapi Pak Haris menjanjikan spanduk plastik selesai kilat tiga hari. Sementara kalian cuma bengkel ruko kecil yang belum terbukti kapasitas kerjanya."
+"Belum jelas. Sopir yang biasa mangkal dekat kantor dinas mendengar ada staf membicarakan jadwal kunjungan. Saya tidak tahu detailnya. Makanya jangan dianggap keputusan resmi."
 
-Ia mengetuk meja dengan dua jarinya yang berminyak. "Besok jam sembilan pagi, tim verifikasi dinas bakal datang inspeksi mendadak ke Kalimalang untuk melihat kesiapan fisik lima puluh spanduk itu. Kalau besok pagi rukomu masih kosong melompati kain, proyek langsung dialihkan detik itu juga."
+Aku meletakkan sendok. "Kalau begitu, kita konfirmasi ke Cak Qodim. Jangan sampai kabar yang belum pasti malah membuat kita salah menyiapkan pekerjaan."
 
-Aji menatap mangkok lontongnya yang masih tersisa separuh. Keningnya berkerut dalam, napasnya memburu di tengah bisingnya peluit juru parkir stasiun dan deru bajaj yang melintas.
+Aji mengangguk, tetapi wajahnya belum lepas dari tegang. Ia kembali menatap mangkuk.
 
-"Lima puluh kain," gumam Aji dengan nada tercekat. "Kita baru punya satu lembar prototipe. Bagaimana mungkin kita membentangkan lima puluh kain dalam waktu kurang dari dua puluh empat jam?"
+"Mas Aji, makan dulu," kata Bang Rahmat. "Lontongnya nanti keburu dingin."
 
-Kupatahkan sekeping kerupuk merah Padang yang renyah berongga, lalu menyodorkannya tepat ke depan mulut Aji.
+"Saya sedang berpikir."
 
-"Makan dulu kerupuknya," kataku santai.
+"Berpikir boleh, tapi jangan sampai kuahnya mengental jadi lem."
 
-Aji berkedip heran menatap kerupuk merah di tanganku. Mau tak mau, ia membuka mulut dan menerima gigitan kerupuk itu. Suara renyah berderak di dalam mulutnya, memecah ketegangan yang menggantung kaku di antara kami.
+Aku menahan tawa. Aji melirik Bang Rahmat, lalu mengambil kerupuk merah dari piring di tengah meja.
 
-"Kepanikan nggak bakal menyelesaikan masalah, Mas desainer," ujarku tegas sambil menatap matanya lurus-lurus. "Kita sudah punya lima puluh gulung mori primisima di bak pikap. Kita punya formula sablon damar yang lolos sensor. Yang kita butuhkan sekarang bukan kepanikan, tapi kerja gotong royong."
+"Kalau nanti panitia datang dan tempat kami belum siap?" tanyanya.
 
-Aji menelan kerupuknya pelan-pelan. Matanya mulai fokus kembali, menyerap keyakinan yang kupancarkan.
+"Ya kita tunjukkan apa yang memang sudah siap," jawabku. "Prototipe, bahan, cara kerja, dan catatan pengeluaran. Kita tidak perlu berpura-pura sudah punya lima puluh spanduk."
 
-"Rencana kerjanya gimana?" tanya Aji, nada suaranya kembali teratur.
+"Kalau mereka minta melihat hasil produksi?"
 
-"Malam ini juga kita sulap ruko jadi pabrik gerilya," jawabku cepat. "Pak Lik Harto bakal bantu menggaris pola batas kain. Aku memotong dan melukis siluet garis dasar hewan secara maraton. Kamu bertugas mencetak plat sablon kasa dan mengoplos pasta damar hitam sebanyak lima jeriken kecil."
+"Kita tunjukkan hasil yang sudah ada. Kalau belum ada, jelaskan jadwalnya. Yang penting jangan menjanjikan sesuatu yang tidak bisa kita kerjakan."
 
-Aku menepuk bahu Bang Rahmat. "Bang Rahmat kabari Cak Qodim dan anak-anak paguyuban Kalimalang. Minta tolong pinjam kipas angin tambahan dan blower tambal ban Bang Parlin untuk pengeringan kilat."
+Aji akhirnya menyendok lontong. "Kita perlu membuat jadwal yang masuk akal. Lima puluh kain tidak bisa selesai semalam."
 
-Bang Rahmat tersenyum lebar mengacungkan jempolnya yang kapalan. "Beres, Win! Paguyuban nggak bakal tinggal diam kalau urusannya menyangkut periuk nasi bersama!"
+"Dan harus ada waktu untuk memperbaiki gambar atau mengulang panel QRIS yang gagal."
 
-Aji memandangi kami berdua, lalu menatap mangkok lontong sayurnya yang sudah dingin.
+Bang Rahmat mengangguk. "Anak-anak paguyuban bisa bantu mengangkat meja atau menyiapkan rak. Tapi untuk data QRIS, pemilik warung harus ikut memastikan. Saya tidak mau nanti ada kode yang tertukar lalu orang menyalahkan kalian."
 
-Tanpa sepatah kata bantahan pun, ia meraih kembali sendok bebeknya. Ia melahap sisa kuah santan dan lontongnya sampai tandas tak bersisa, menyerap setiap sendok makanan rakyat itu ke dalam tubuhnya.
+"Setuju," kataku. "Setiap kode harus dicocokkan dengan nama merchant dan pemilik warungnya. Kalau ada yang tidak cocok, jangan ditebak."
 
-Dalam keheningan di bawah terpal warung pagi itu, Aji menyeka bibirnya dengan tisu, lalu menatap ke arah mobil pikap bermuatan kain mori di seberang aspal. Sorot matanya kini menyala penuh api perlawanan: perang terbuka melawan arogansi korporat baru saja dimulai, dan Kalimalang tidak akan mundur selangkah pun.
+Aji mengeluarkan buku kecil dari tasnya. Di halaman kosong ia membuat beberapa kolom: bahan, prototipe, data QRIS, proses kerja, dan pemeriksaan. Ia menambahkan kolom nama orang yang bertanggung jawab.
+
+"Kalau ada masalah, kita tahu harus bertanya ke siapa," katanya.
+
+"Jangan lupa catat kain yang gagal," kataku. "Pisahkan dari yang sudah siap. Jangan sampai kain yang belum diperiksa ikut masuk tumpukan."
+
+"Untuk bahan transfer juga begitu. Yang baru dicetak belum tentu sudah lolos pemeriksaan."
+
+Aku menunjuk buku itu dengan ujung sendok. "Nah, itu baru daftar yang bisa dipakai."
+
+Setelah sarapan, kami menghubungi Cak Qodim. Ia membenarkan bahwa panitia berencana meninjau kesiapan produksi beberapa hari lagi. Kunjungan itu bukan pemeriksaan lima puluh spanduk yang sudah selesai, melainkan untuk melihat prototipe, bahan baku, alur kerja, dan cara kami mencocokkan setiap QRIS dengan merchant pemiliknya.
+
+Masa produksi dua minggu baru dihitung setelah rancangan dan prototipe disetujui. Cak Qodim juga mengingatkan agar kami tidak menganggap kabar tentang Haris sebagai keputusan panitia. Sampai ada pemberitahuan resmi, proyek tetap berjalan sesuai kesepakatan awal.
+
+"Berarti kita punya waktu menyiapkan tempat dan mulai produksi bertahap," kata Aji setelah telepon ditutup.
+
+"Betul. Tapi jangan santai juga."
+
+"Saya tidak santai."
+
+"Kamu dari tadi mengaduk lontong seperti sedang menghitung kerugian."
+
+Bang Rahmat tertawa sampai hampir tersedak teh. Aji menggeleng, tetapi kali ini ia ikut tersenyum.
+
+Kami menyelesaikan sarapan. Sebelum beranjak, Aji memeriksa lagi catatan belanja dan daftar yang baru dibuat. Aku membayar makanan, sementara Bang Rahmat berjanji mengabari jika ada informasi resmi dari paguyuban.
+
+Dalam perjalanan kembali ke Kalimalang, aku memikirkan lima puluh gulung kain yang menunggu di ruko. Pekerjaan pertama bukan mengejar jumlah, melainkan menata tempat, membagi tugas, dan memastikan setiap langkah bisa diperiksa.
+
+Aji menutup buku catatannya. "Kita mulai dari daftar kebutuhan begitu sampai."
+
+"Setelah bongkar kain."
+
+"Setelah bongkar kain."
+
+"Dan makan siang nanti jangan cuma teh."
+
+"Saya tahu."
+
+Aku menoleh. "Bagus. Aku tidak mau ada yang pingsan sebelum pekerjaan benar-benar dimulai."

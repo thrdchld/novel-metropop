@@ -1,51 +1,117 @@
 ## Bab 9: Aturan Main
 
-"Jangan pernah sentuh kuas bulu musang nomor satuku kalau tanganmu belum dicuci bersih dari minyak goreng!"
+"Jangan sentuh kuas bulu musang nomor satuku kalau tanganmu belum dicuci!"
 
-Pekikanku langsung membelah udara pagi saat Aji melangkah masuk membawa meja lipat aluminium dan kotak perkakas plastik besar. Pukul delapan tepat, matahari baru saja merayap naik di atas atap ruko Kalimalang, menghangatkan lantai semen yang masih lembap.
+Pekikanku membuat Aji berhenti di ambang pintu. Pukul tujuh pagi, ia datang membawa meja lipat aluminium, kotak perkakas, dan dua gelas kopi plastik.
 
-Aji menghentikan langkahnya di tengah pintu, menatapku dengan pandangan malas dari balik kacamatanya.
+"Aku baru dari kamar mandi," katanya. "Dan aku tidak berniat menyentuh kuasmu."
 
-"Tanganku sudah bersih sejak keluar dari kamar mandi kos," balas Aji datar. "Dan aku tidak berminat menyentuh kuas keramatmu. Aku datang untuk bekerja, bukan untuk cari gara-gara."
+"Bagus. Berarti kita bisa mulai dengan tidak saling mengganggu."
 
-Ia meletakkan meja lipatnya di sisi timur ruangan, tepat di bawah jendela kaca nako yang berdebu. Dalam waktu sepuluh menit, area itu sudah disulap menjadi sudut kantor modern: laptop tipis terbuka di atas meja, mesin pemotong vinil mini berwarna putih bersih, kabel ekstensi tergulung rapi, dan gunting presisi berbahan baja tahan karat.
+Aji meletakkan meja di sisi timur ruko, dekat jendela. Ia mengeluarkan laptop, penggaris, alat potong kecil, dan beberapa lembar bahan uji. Satu per satu barang itu disusun di atas meja. Sebelum membuka laptop, ia mengelap permukaannya dengan kain kering.
 
-Sementara di sisi barat ruko, duniaku tetap membentang liar: tumpukan kaleng cat sablon minyak berlumur pigmen kering, botol kaca bekas sirup berisi cairan tiner, piring seng blirik hijau loreng, dan kain mori primisima empat meter yang terpaku kencang di lantai beralas terpal biru.
+Aku memperhatikan dari meja lukis. "Kalau mau bersih, jangan cuma mejanya. Lantai dekat jendela itu sering kemasukan debu."
 
-Aji berjalan ke tengah ruangan, mengeluarkan segulung lakban hitam tebal selebar lima sentimeter dari sakunya.
+"Aku tahu. Makanya meja ini tidak kutaruh dekat pintu."
 
-"Kamu mau ngapain bawa lakban?" tanyaku heran.
+"Debu tetap masuk dari jendela."
 
-Tanpa menjawab, Aji berjongkok. Ia menempelkan ujung lakban di bibir pintu masuk, lalu menariknya lurus membelah lantai semen ruko tepat di garis tengah, berakhir di kaki dinding pembatas kamar Pak Lik Harto.
+Aji menoleh ke arah jendela nako yang sebagian kacanya terbuka. Ia memeriksa celahnya, lalu menggeser meja beberapa sentimeter menjauh.
 
-KREEK!
+Sementara itu, sisi barat tetap menjadi wilayahku. Kain mori, kaleng cat, kuas, dan beberapa potongan kain uji memenuhi meja rendah. Aku sengaja menyisakan ruang di tengah agar kami bisa membentangkan sketsa bersama. Ruang itu belum tentu akan dipakai, tetapi setidaknya kami tidak perlu saling menyuruh mengangkat barang setiap kali hendak berdiskusi.
 
-Suara tarikan lakban hitam itu terdengar nyaring di ruangan sempit. Aji menekan permukaan lakban dengan sol sepatu ketsnya agar melekat erat pada semen.
+Aji mengeluarkan lakban hitam dari kotak perkakas.
 
-"Ini perbatasan resmi," kata Aji sambil berdiri dan menepuk debu di celananya. "Sisi timur adalah zona steril digital. Sisi barat adalah zona basah senimu. Aturan mainnya sederhana: tidak boleh ada cipratan cat, tidak boleh ada tumpahan tiner, dan tidak boleh ada remah gorengan yang menyeberangi garis hitam ini."
+Aku mengangkat alis. "Kita mau kerja bareng atau membagi negara?"
 
-Aku melongo menatap garis hitam di lantai, lalu menatap Aji dengan tawa mengejek. "Zona steril gundulmu! Ini ruko sablon, Mas! Angin dari jalan raya setiap menit menerbangkan debu semen dan pasir proyek! Kamu pikir ruko ini laboratorium bedah rumah sakit?"
+"Supaya alat dan bahan tidak bercampur." Ia berjongkok, lalu menempelkan lakban dari dekat pintu menuju kaki dinding. "Sisi timur untuk pekerjaan digital. Sisi barat untuk lukisanmu."
 
-"Selama aku bekerja di sisi ini, debu harus diminimalkan," sahut Aji tenang, mulai menata lembaran stiker vinil putih berperekat di mejanya. "Satu butir debu pasir yang menempel di bawah stiker transfer bakal bikin permukaan kode QRIS menggelembung dan sensor kamera gagal baca."
+Aku memandang garis hitam yang membelah lantai. "Kalau ada yang perlu dikerjakan bersama?"
 
-"Oh, begitu ya?" sindirku sambil tersenyum manis, senyum paling berbahaya yang biasa kupakai saat menolak pedagang yang menawar harga lukisan terlalu sadis.
+"Ya menyeberang saja. Ini penanda, bukan pagar listrik."
 
-Kulangkahkan kaki ke sudut ruko dekat stopkontak, tempat kipas angin besi tua kami berdiri kokoh. Kutarik leher kipas angin itu ke arah kiri, tepat membidik meja kerja Aji di seberang garis lakban.
+"Bagus. Aku tidak mau minta izin dulu kalau harus mengambil penggaris."
 
-KTEK!
+"Selama dikembalikan."
 
-Kupencet tombol nomor tiga, kecepatan angin maksimum.
+"Kalau kamu mengambil kuasku?"
 
-WUUUZZZH!
+"Aku akan minta izin."
 
-Baling-baling logam berat itu menderu garang seperti baling-baling helikopter mini. Hembusan angin kencang bertekanan tinggi melesat lurus melintasi garis perbatasan hitam, menyapu meja kerja Aji seketika.
+"Perkembangan yang bagus."
 
-Tiga lembar stiker vinil yang baru saja ia potong melayang ke udara, berputar-putar seperti daun kering sebelum mendarat berantakan di atas lantai semen. Kertas catatan teknisnya ikut terbalik, sementara poni rambut Aji tersibak ke belakang oleh hantaman angin kencang.
+Aji berdiri dan menepuk kedua telapak tangannya. Ia menunjuk kipas besi tua di sudut ruangan. "Kipasnya sebaiknya jangan diarahkan langsung ke meja ini. Debu dan serpihan kecil bisa menempel pada bahan transfer."
 
-"Wiwin!" bentak Aji, tangannya panik berusaha menangkap lembaran vinil yang beterbangan.
+"Catku juga perlu kering. Kalau kipasnya dimatikan, kita bisa menunggu sampai besok."
 
-"Kenapa, Mas Aji?" tanyaku dengan wajah tanpa dosa, berdiri santai sambil menyilangkan kuas di dada. "Di sini gerah banget, aku butuh sirkulasi udara biar cat minyak di kain cepat kering. Kan kamu sendiri yang bilang di proposal: jadwal kerja kita harus disiplin militer?"
+Ia mengamati posisi meja, lalu menggeser kipas ke tengah ruangan. Arah anginnya dibuat sedikit ke atas, tidak langsung menghantam kain maupun meja digital.
 
-Aji menggertakkan gigi, berlutut memungut lembaran stiker vinilnya yang berhamburan di dekat garis lakban. Matanya menatapku berapi-api, tapi aku hanya membalas tatapannya dengan kedipan mata santai.
+"Begini dulu," katanya. "Kalau terlalu kencang untuk kainmu, bilang."
 
-Garis lakban hitam membentang tegas di antara kami, membelah lantai semen menjadi dua wilayah yang berdiri saling mengancam. Di bawah deru kipas angin tua dan riuhnya klakson Kalimalang, sebuah pertanyaan besar menggantung tanpa suara: berapa lama dua kepala batu ini bisa bertahan di bawah satu atap tanpa saling meremukkan kepala?
+"Kalau debu masuk ke mejamu, kamu juga bilang. Tapi jangan langsung menyalahkan kipas."
+
+"Aku akan menyalahkan sumbernya setelah memeriksa."
+
+"Termasuk kalau sumbernya aku?"
+
+"Terutama kalau sumbernya kamu."
+
+Aku mendengus. Setidaknya, untuk urusan kipas kami tidak perlu berdebat lebih lama.
+
+Aji menyerahkan satu gelas kopi. Aku menerimanya, lalu memindahkannya ke rak dekat pintu, jauh dari kain dan peralatan.
+
+"Minuman jangan dekat bahan," kataku.
+
+"Setuju."
+
+"Jangan senang dulu. Itu aturan ruko, bukan aturanmu."
+
+Ia mengangkat gelasnya sendiri. "Aku belum mengklaim apa-apa."
+
+Kami mulai menyusun aturan kerja. Aji membuka buku catatan dan menulis tempat penyimpanan alat, cara membersihkan meja sebelum panel QRIS diterapkan, serta ukuran bidang yang harus disisakan pada setiap spanduk. Aku menambahkan bahwa kuas yang selesai dipakai harus dibersihkan dan dikembalikan ke wadahnya. Cat yang masih bisa digunakan tidak boleh dibiarkan terbuka semalaman.
+
+"Untuk prototipe, kita pakai satu ukuran dulu," kata Aji. "Kamu tentukan komposisi gambar. Aku siapkan posisi kotak QRIS berdasarkan ukuran yang sudah disepakati."
+
+"Nama warung juga harus terbaca. Jangan sampai gambar lelemu—maksudku, gambar leleku—menutupi tulisan."
+
+"Makanya aku perlu melihat sketsanya sebelum menyiapkan file."
+
+"Dan jangan mengubah gambar tanpa bilang."
+
+"Jangan memindahkan kotak QRIS setelah ukurannya kita sepakati."
+
+"Kalau ternyata mengganggu komposisi?"
+
+"Kita bicarakan dan ukur ulang. Jangan menggeser sepihak."
+
+Aku mengambil selembar kertas bekas, lalu menggambar bidang kain dengan kotak kecil di sudut kanan bawah. Aji mendekat, tetapi tetap berdiri di sisi lain garis lakban.
+
+"Kalau kotaknya di sini, ekor lele masih bisa panjang," katanya sambil menunjuk bagian tengah.
+
+Aku menggeser sketsa sedikit. "Tapi nama warung harus punya jarak. Orang yang lewat tidak akan berhenti lama-lama cuma untuk membaca."
+
+Aji mengambil penggaris, menghitung ulang ruang yang tersedia, lalu mencatat ukuran baru. Ia tidak langsung menyanggah seperti biasanya. Setelah selesai, ia menunjukkan catatannya kepadaku sebelum memasukkannya ke laptop.
+
+"Begini bisa?" tanyanya.
+
+Aku memeriksa sekali lagi. "Bisa untuk dicoba. Belum tentu cocok setelah jadi."
+
+"Memang belum ada yang kita anggap pasti."
+
+Jawabannya membuatku sedikit terdiam. Aku mengira ia akan kembali membela perhitungannya, tetapi kali ini ia mengakui bahwa ukuran di atas kertas belum tentu bekerja di kain.
+
+Kami melanjutkan pekerjaan masing-masing. Aku menyiapkan potongan mori untuk gambar uji, sedangkan Aji mencari ukuran panel yang sesuai dengan ruang kosong pada sketsa. Sesekali kami bertukar penggaris atau meminta pendapat, meski tak satu pun dari kami mau mengakui bahwa bekerja bersama ternyata lebih praktis daripada saling menghalangi.
+
+Menjelang siang, garis lakban hitam masih membelah lantai. Aku melewatinya untuk mengambil penggaris panjang yang tertinggal di meja Aji. Ia hanya mengangkat pandangan dari laptop.
+
+"Jangan lupa dikembalikan."
+
+"Aku tahu."
+
+"Dan jangan menginjak kabel."
+
+Aku menunduk. Kabel laptopnya memang melintang dekat kakiku.
+
+"Kalau begitu, rapikan kabelmu."
+
+Aji segera menggulung bagian kabel yang berlebih. Garis lakban itu ternyata belum membuat kami akur. Namun setidaknya, sekarang kami mulai tahu bagaimana caranya bekerja tanpa membuat satu sama lain kehilangan kesabaran setiap lima menit.

@@ -1,53 +1,81 @@
 ## Bab 17: Tanah Abang
 
-Hawa dingin pendingin ruangan pasar grosir bercampur aroma kain katun gres dan gulungan karung plastik menyergap langkah kaki kami di lorong sempit Blok A.
+Kamis, pukul lima pagi, lorong Blok A Pasar Tanah Abang sudah ramai. Hawa dingin pendingin ruangan bercampur aroma kain katun baru dan bau kopi dari kios-kios yang baru buka. Kuli panggul melintas membawa gulungan kain di pundak, sementara pedagang menarik troli besi melewati lorong sempit.
 
-Pukul lima subuh, lorong basement Pasar Tanah Abang sudah padat oleh kuli panggul berkaus loreng yang memikul karung-karung kain seberat lima puluh kilo. Teriakan peringatan "Biar! Biar! Awas kena pantat!" bersahut-sahutan dengan derit roda troli besi berkarat di atas lantai keramik kusam.
+Sejak percakapan di tangga ruko pada Minggu malam, beberapa hari kami habiskan untuk merapikan daftar kebutuhan, menghubungi panitia, dan memastikan uang muka proyek bisa dicairkan. Pagi ini kami datang untuk membeli bahan utama.
 
-Aji berjalan di belakangku, tangannya menenteng tas ransel hitam berisi uang muka proyek yang dicairkan bendahara paguyuban tadi malam. Jaket kanvas abu-abunya dengan noda kuning di siku kanan sudah menjadi seragam kerja tak resmi.
+Aji berjalan di belakangku, membawa tas ransel berisi uang yang baru ditransfer bendahara paguyuban setelah persetujuan awal panitia. Jaket kanvas abu-abunya dengan noda kuning di siku kanan masih melekat seperti seragam kerja.
 
-"Toko kain langganan Pak Lik Harto ada di hook ujung," kataku setengah berteriak menembus kegaduhan pasar.
+"Toko kain langganan Pak Lik ada di ujung," kataku setengah berteriak agar terdengar di tengah keramaian.
 
-Kami berbelok di persimpangan kios gulungan kain, berhenti di depan papan tripleks bertuliskan Toko Tekstil Sumber Rejeki. Seorang pria paruh baya bermata sipit berkaus kutang putih sedang sibuk menyeruput kopi hitam dari cangkir kaca sambil mencocokkan nota merah.
+Kami berhenti di depan Toko Tekstil Sumber Rejeki. Koh Acong sedang mencocokkan nota ketika melihatku.
 
-"Pagi, Koh Acong!" sapaku ramah.
+"Wiwin! Lama nggak mampir. Harto bagaimana?"
 
-Pria itu mendongak, matanya melebar sebelum tersenyum lebar hingga garis keriput di pelipisnya terlihat jelas.
+"Masih suka batuk, Koh. Ini kami mau belanja untuk proyek paguyuban."
 
-"Halo, Wiwin! Lama nggak mampir ke mari!" seru Koh Acong sambil meletakkan cangkirnya. "Gimana kabar Harto di Kalimalang? Asmanya sudah mendingan?"
+Koh Acong melirik Aji, lalu kembali menatapku. "Wah, sekarang datang bawa tim sendiri."
 
-"Sudah agak lumayan, Koh. Ini kami mau belanja besar," jawabku sambil menunjuk Aji di sampingku. "Kami butuh lima puluh gulung kain mori primisima cap Garuda ukuran empat kali satu meter. Stok kain kapas murni masih aman, kan?"
+"Timnya cuma berdua, Koh. Yang belanja juga harus dihitung."
 
-Koh Acong mengusap dagunya, melirik Aji dari atas ke bawah. "Ada stok mori baru, Win. Bahan TC campuran poliester dari pabrik Bandung. Warnanya lebih putih bersih, jatuh kainnya licin, dan harganya sepuluh ribu lebih murah per meter dibanding primisima katun murni."
+Aku meminta lima puluh tiga gulung mori primisima katun, masing-masing sepanjang empat meter. Lima puluh gulung untuk pesanan, tiga gulung sisanya sebagai cadangan jika ada kain yang rusak atau perlu diganti. Koh Acong sempat menawarkan kain campuran poliester yang lebih murah. Ia membuka sedikit gulungan itu dan menyodorkannya ke tanganku.
 
-Ia menarik ujung gulungan kain putih dari rak bawah, menyodorkannya ke tanganku.
+"Ini lebih putih, lebih licin, dan harganya lebih miring. Buat spanduk malah kelihatan bagus."
 
-Kupilin ujung kain itu dengan ibu jari dan telunjuk. Seratnya memang terasa licin mengilap, tapi begitu kuremas kencang, kain itu tidak menyisakan lipatan alami benang kapas.
+Aku meraba permukaannya, lalu menggeleng. "Kami sudah membuat prototipe dengan mori katun. Lukisannya dikerjakan langsung di kain, sementara panel QRIS dipasang dengan bahan transfer yang sudah kami uji. Kalau ganti jenis kain, hasilnya belum tentu sama."
 
-"Nggak bisa, Koh," tolakku tegas sambil menggeleng. "Ini serat poliester sintetis. Kalau dilukis pakai kuas cat minyak, warnanya mengambang kayak minyak di atas air. Terus kalau disablon pasta damar, tintanya nggak bakal mau mengunci pori-pori benang. Kami cuma mau primisima katun seratus persen."
+Aji menambahkan, "Kami tidak bisa mengubah spesifikasi setelah contoh disetujui. Selisih harga sekarang bisa jadi biaya lebih besar kalau nanti harus mengulang."
 
-Koh Acong terkekeh pelan sambil menepuk gulungan kain itu. "Masih tajam aja jarimu kayak pamanmu dulu! Nggak bisa dikibulin sedikit pun!"
+Koh Acong mengembalikan kain campuran itu ke rak. "Masih teliti seperti Pak Likmu. Dulu Harto juga suka meraba kain lama-lama sebelum beli."
 
-"Berapa harga pas untuk lima puluh gulung mori primisima katun murni, Koh?" sela Aji tenang, mengeluarkan buku saku kecilnya.
+"Kalau salah bahan, Koh, yang dimarahi bukan Koh Acong," jawabku.
 
-"Satu gulung empat meter seratus dua puluh ribu, Bos. Ambil lima puluh gulung total enam juta pas," jawab Koh Acong santai.
+Ia tertawa dan mengambil lima puluh tiga gulung mori primisima dari rak belakang. Aku memeriksa label komposisi pada beberapa gulung pertama untuk memastikan jenis kainnya sesuai. Tidak ada gunanya menghemat waktu pemeriksaan kalau kesalahan baru ketahuan setelah kain dipotong dan dilukis.
 
-Aji tersenyum tipis, jenis senyum negosiator yang biasa ia pakai saat mempresentasikan anggaran di depan direktur klien.
+Aji membuka buku kecilnya. "Satu gulung empat meter seratus dua puluh ribu, betul, Koh?"
 
-"Kami beli putus, Koh. Pembayaran tunai sekarang juga tanpa tempo," kata Aji dengan nada diplomatis. "Bulan depan paguyuban kami butuh seratus gulung lagi untuk proyek tahap kedua di Bekasi. Kalau Koh Acong kasih potongan sepuluh persen jadi seratus delapan ribu per gulung, nota pembeliannya kami kunci di toko ini untuk setahun penuh."
+"Betul. Lima puluh tiga gulung enam juta tiga ratus enam puluh ribu."
 
-Koh Acong memicingkan mata, menatap Aji lekat-lekat, lalu melirik tumpukan uang kertas pecahan seratus ribu yang mulai dikeluarkan Aji dari ransel.
+Aji menghitung di halaman kosong. "Kalau dibayar sekarang, bisa dapat potongan?"
 
-"Pintar lu nawar, Bos muda," kata Koh Acong sambil tertawa lepas. "Ya sudah, bungkus! Buat keponakan si Harto apa sih yang nggak boleh!"
+Koh Acong menyandarkan kedua tangan di meja. "Kalau ambil banyak begini, tentu ada harga khusus."
 
-Dua puluh menit kemudian, lima puluh gulung kain mori berlabel stempel biru Garuda sudah selesai diikat tali tambang plastik. Bersama seorang kuli panggul berkaus loreng, kami menggotong gulungan-gulungan kain itu keluar menuju lobi parkiran barat tempat mobil pikap sewaan menunggu.
+"Sepuluh persen?"
 
-Keringat dingin membasahi kaus oblongku, tapi rasa lega buncah di dadaku. Bahan baku utama sudah di tangan.
+"Jangan langsung minta sepuluh. Saya juga harus makan."
 
-Tepat saat kami hendak menaikkan gulungan kain terakhir ke bak pikap, suara klakson cempreng bajaj gas hijau terdengar berhenti mendadak di belakang kami.
+"Kalau begitu, Koh sebutkan harga terbaiknya. Kami tidak mau menjanjikan pesanan berikutnya yang belum tentu ada."
 
-Bang Rahmat, tetangga gang Kalimalang yang biasa mangkal bajaj di depan kantor dinas, melompat turun dari kemudi dengan wajah tegang.
+Koh Acong menatap Aji beberapa detik, lalu menyebutkan potongan sepuluh persen. Aji menghitung ulang total pembayaran menjadi lima juta tujuh ratus dua puluh empat ribu rupiah. Ia meminta nota dengan rincian jumlah, harga satuan, dan potongan sebelum menyerahkan uang. Aku memeriksa kembali jumlah gulungan yang sudah disiapkan.
 
-"Win! Aji!" seru Bang Rahmat terengah-engah sambil berlari mendekat. "Untung kalian masih di sini!"
+"Rapi sekali," kata Koh Acong sambil menyerahkan nota. "Belanja kain sekarang seperti sedang mengurus proyek gedung."
 
-Napasnya memburu saat ia menyambung cepat, "Barusan gue lihat mobil Pak Haris bareng bos Mitra Graha masuk ke ruang kepala dinas! Mereka lagi lobi pejabat buat membatalkan proyek paguyuban kita!"
+"Kalau jumlahnya salah, spanduknya tidak bisa tiba-tiba bertambah sendiri, Koh," kataku.
+
+Setelah pembayaran selesai, Aji mencatat pengeluaran itu dan menghitung sisa anggaran. Uang untuk kain sudah jelas. Sisanya harus cukup untuk cat, bahan transfer, tenaga tambahan, transportasi, dan pemasangan. Angkanya tidak longgar. Kami harus menahan diri agar tidak membeli bahan yang belum diperlukan.
+
+Lima puluh tiga gulung kain kemudian diikat dan dibawa ke area parkir. Masing-masing sepanjang empat meter. Lima puluh gulung, atau dua ratus meter, dialokasikan untuk lima puluh spanduk. Tiga gulung lainnya, dua belas meter, disimpan sebagai cadangan. Kami menggunakan jasa kuli panggul untuk menaikkannya ke mobil pikap sewaan.
+
+Saat hendak berangkat, klakson bajaj terdengar dari belakang. Bang Rahmat turun dan melambaikan tangan.
+
+"Win, Aji! Kebetulan kalian masih di sini."
+
+"Ada apa, Bang?" tanyaku.
+
+"Tadi saya lihat mobil Pak Haris masuk ke kantor dinas. Katanya dia sedang menawarkan Mitra Graha sebagai vendor pengganti."
+
+Aji menutup buku catatannya. "Dia boleh menawarkan. Keputusan tetap di panitia."
+
+"Saya juga belum tahu apakah tawaran itu ditanggapi," kata Bang Rahmat. "Saya dengar kabarnya dari sopir yang biasa mangkal dekat kantor dinas. Dia melihat Pak Haris datang bersama orang Mitra Graha. Bukan dari orang dalam panitia."
+
+"Berarti belum tentu ada keputusan apa-apa," kataku.
+
+"Betul. Saya cuma pikir kalian perlu tahu."
+
+Aku mengangguk. "Terima kasih, Bang. Kita siapkan saja semua hasil uji dan hitungan produksi. Jangan sampai mereka punya alasan yang memang benar."
+
+Bang Rahmat pamit setelah memastikan kami sudah tahu kabarnya. Aji kembali memeriksa tali pengikat kain di bak pikap. Aku ikut mengecek sisi lainnya. Gulungan-gulungan itu harus tetap bersih selama perjalanan; kalau bergeser dan terkena debu jalan, pekerjaan kami akan bertambah.
+
+Sopir menutup bak dan menyalakan mesin. Aku menyimpan nota pembelian di map bersama daftar pengeluaran. Baru dua ratus meter kain untuk pesanan utama, ditambah dua belas meter cadangan. Pekerjaan di depan masih panjang.
+
+Setidaknya sekarang kami punya bahan yang sesuai, jumlah yang tercatat, dan anggaran yang bisa diperiksa. Proyek ini benar-benar dimulai. Bukan karena kami sudah menang, melainkan karena ada pekerjaan nyata yang harus kami pertanggungjawabkan.

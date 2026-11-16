@@ -1,53 +1,115 @@
 ## Bab 8: Proposal
 
-Ujung kertas HVS delapan puluh gram bergetar hebat ditiup hembusan kipas angin besi tua ruko yang berdengung berisik di samping tumpukan kaleng cat.
+Kipas angin besi tua di sudut ruko berputar dengan bunyi berderit. Hembusannya membuat lembaran proposal di atas meja bergerak-gerak, sesekali menyingkap noda cat yang sudah mengering di permukaan kayu.
 
-Baling-baling logam berkarat itu berputar dengan goyangan miring, meniupkan udara panas Kalimalang langsung ke wajah kami berdua. Di atas meja kayu panjang yang penuh guratan pisau cutter dan noda cat kering, lembaran kertas proposal setebal lima halaman terbentang rapi.
+Aji duduk di bangku seberangku. Jaket kanvas abu-abunya masih dipakai, tetapi lengan kanan dilipat sampai siku. Noda kuning dari kejadian kemarin terlihat jelas.
 
-Aji duduk tegak di bangku kayu seberang meja. Lengan kanan jaket kanvasnya kini terlipat rapi sampai ke siku, menutupi bekas noda kuning stabilo yang kemarin mengering permanen. Jari telunjuknya yang terbalut plester luka menunjuk diagram alur di halaman kedua.
+Aku menunjuk noda itu. "Belum bisa dibersihkan?"
 
-"Konsepnya hibrida," kata Aji dengan nada formal, persis seperti orang mempresentasikan rencana bisnis di ruang rapat gedung perkantoran Sudirman. "Kain mori tetap digarap manual seratus persen oleh tanganmu. Gambar lele, ayam, bebek, sampai huruf oranye stabilo khas Lamongan tidak ada yang diubah."
+"Belum sempat dibawa ke tempat laundry."
 
-Aku melipat kedua tangan di depan dada, menatapnya penuh selidik. "Terus bagianmu di mana?"
+"Takut makin mahal?"
 
-"Bagianku ada di pojok kanan bawah," jawab Aji sambil mengetuk diagram kotak kecil di kertas. "Aku membuat jendela kosong berukuran dua puluh kali dua puluh sentimeter di kain morimu."
+"Takut kamu menawarkan bantuan."
 
-Ia menatapku meyakinkan sebelum menyambung pelan, "Di area itu, kupasang kode QRIS berbahan transfer vinil presisi tinggi dari mesin cetak. Sekali tembak sensor, aplikasi bank langsung membaca lancar tanpa terganggu serat benang kapas."
+Aku mendengus. "Kalau begitu, simpan saja sebagai kenang-kenangan."
 
-Aku mendengus pelan, menatap proposal rapi itu dengan dahi berkerut. "Kamu mau menempelkan stiker plastik di atas kain seniku?"
+Aji menggeser proposal ke tengah meja. "Kita bahas pekerjaan dulu."
 
-"Bukan stiker mainan anak-anak, ini vinil transfer tahan cuaca," bantah Aji cepat. "Ini satu-satunya cara agar syarat dinas lolos. Kamu dapat pengakuan budayanya, aku menyediakan presisi teknologinya."
+Lima halaman kertas itu berisi sketsa spanduk, daftar kebutuhan, dan pembagian tugas. Di halaman pertama, ilustrasi lele dan ayam jago memenuhi sebagian besar bidang kain. Sebuah kotak putih disediakan di sudut kanan bawah.
 
-"Lalu pembagian duitnya?" tembakku langsung ke inti persoalan. "Nilai proyek ini empat puluh juta rupiah untuk lima puluh spanduk. Aku yang membentang kain, menghirup tiner berhari-hari, dan melukis hewan dari pagi sampai malam. Jangan sampai kamu cuma tempel stiker kecil terus minta jatah separuh."
+"Konsepnya tetap kain mori dengan lukisan manual," jelas Aji. "Kamu mengerjakan gambar dan tulisan. Bagian QRIS dicetak secara digital pada bahan transfer yang cocok untuk kain, lalu diterapkan di area yang sudah disiapkan."
 
-Aji menatap mataku tanpa berkedip. "Mesin cetakku butuh listrik tiga ribu watt, tinta outdoor tahan pudar, dan bahan vinil khusus impor. Tapi aku tahu porsi keringatmu lebih berat di atas kain. Kita bagi lima puluh lima untukmu, empat puluh lima untukku."
+Aku menunjuk kotak putih itu. "Jadi kamu tetap mau menempelkan bahan plastik di atas kain seniku?"
 
-"Enam puluh empat puluh," sergahku tanpa ragu. "Pak Lik Harto butuh obat asma rutin dan kain mori primisima sekarang naik dua belas ribu per meter. Kalau kamu nggak mau enam puluh empat puluh, silakan cetak spanduk plastikmu sendiri sampai meleleh lagi di wajan Cak Qodim."
+"Ini bukan stiker biasa. Kita perlu menguji bahan transfernya dulu. Saya belum bisa menjamin hasilnya akan cocok sebelum dicoba pada kain yang sama."
 
-Sudut bibir Aji berkedut sedikit. Sebelum ia sempat mendebat balik tawaranku, suara decit sandal jepit terdengar dari balik tirai kamar belakang.
+"Kalau setelah ditempel malah mengelupas?"
 
-Pak Lik Harto melangkah perlahan ke arah meja sambil membawa nampan kaleng bundar. Di atasnya terletak dua cangkir seng blirik loreng hijau yang mengepulkan uap hangat rebusan teh melati tubruk dan sepiring pisang goreng tepung yang masih berminyak.
+"Berarti metodenya gagal dan kita cari bahan lain. Itu sebabnya saya mengusulkan satu prototipe, bukan langsung mencetak lima puluh."
 
-"Diminum dulu tehnya, Mas Aji," kata Pak Lik Harto ramah, meletakkan salah satu cangkir seng di depan Aji.
+Aku membaca halaman berikutnya. Ada daftar pekerjaan yang dibagi menjadi dua kolom.
 
-Pria tua itu menarik kursi di ujung meja, duduk dengan napas yang terdengar lebih teratur siang ini. Matanya yang cekung menatap lembaran proposal Aji, lalu beralih menatap wajah kami berdua.
+"Kamu mengurus desain digital, pencetakan kode, dan penerapannya," kataku. "Aku mengurus lukisan, warna, dan persiapan kain."
 
-"Minyak sama air memang nggak bisa bersatu kalau cuma dibiarkan di dalam gelas," kata Pak Lik Harto pelan. "Tapi kalau dipakai buat bikin adonan gorengan, air dan minyak harus rukun supaya pisangnya renyah."
+"Termasuk pemeriksaan hasil visual. Saya juga memeriksa setiap QRIS agar tidak tertukar dengan milik warung lain."
 
-Aji menatap cangkir seng blirik di depannya dengan canggung. Ia mengangkat cangkir panas itu dengan hati-hati, lalu menyesap teh melati manis buatan Pak Lik Harto sedikit.
+"Jangan cuma memeriksa gambar di layar. Kode itu harus diuji setelah menempel dan kering."
 
-"Pak Lik benar," kata Aji setelah meletakkan cangkirnya kembali. Ia mengalihkan pandangannya ke arahku, menatapku dengan sorot mata yang melunak. "Enam puluh persen untukmu, empat puluh persen untukku. Tapi dengan satu syarat mutlak."
+Aji mengangguk. "Setuju. Kita juga perlu mencocokkan nama merchant sebelum produksi."
 
-"Apa syaratnya?"
+Aku membalik halaman terakhir. Di sana tercantum nilai pekerjaan sebesar empat puluh juta rupiah.
 
-"Jadwal kerja harus disiplin militer," jawab Aji tegas. "Tiga hari ke depan kita harus menuntaskan satu spanduk prototipe utuh untuk diuji di depan pengurus paguyuban dan dinas. Tidak ada kata santai, tidak ada kucing belang yang lewat lagi."
+"Lalu pembagian uangnya?"
 
-Kutatap wajah Aji yang serius, lalu melirik Pak Lik Harto yang mengangguk pelan memberi isyarat restu. Peluang menyelamatkan ruko ini dan membeli persediaan obat Pak Lik sudah terbuka tepat di depan hidungku.
+Aji menyandarkan punggung. "Saya menghitung biaya mesin, bahan transfer, tinta, dan waktu pengerjaan. Kamu menghitung kain dan bahan lukisan. Setelah semua biaya produksi, transportasi, tenaga tambahan, dan pemasangan dikurangi, baru sisanya kita bagi."
 
-Kujulurkan tangan kananku melintasi kertas proposal di atas meja.
+"Enam puluh empat puluh."
 
-"Sepakat," kataku mantap. "Besok pagi jam tujuh kita mulai eksekusi."
+"Kamu belum mendengar hitungan saya."
 
-Aji mengulurkan tangannya, menyambut jemariku dengan genggaman yang tegas dan kaku.
+"Aku sudah tahu berapa banyak waktu yang dibutuhkan untuk melukis lima puluh kain. Kamu juga tahu mesinmu tidak bisa menggambar lele seperti punyaku."
 
-Di bawah deru kipas angin besi yang bergoyang tak beraturan, di antara wangi teh melati dan noda cat kering di meja kayu, dua seteru jalanan Kalimalang akhirnya merapatkan barisan.
+Aji membuka catatannya. "Saya tidak menyangkal itu. Tapi saya juga tidak mau pembagian hasil ditentukan sebelum kita tahu biaya sebenarnya."
+
+"Kalau begitu, kita catat semua pengeluaran. Tidak ada biaya yang muncul belakangan tanpa dibicarakan."
+
+Ia diam sejenak, lalu mengangguk.
+
+"Enam puluh persen untukmu dan empat puluh persen untuk saya, dihitung dari keuntungan bersih. Kita evaluasi lagi kalau ada pekerjaan tambahan di luar kesepakatan awal."
+
+Aku masih belum puas. "Dan kalau prototipenya gagal?"
+
+"Kita hitung biaya percobaan sebagai biaya proyek. Kalau metode saya yang gagal, saya tanggung penggantian bahan transfer yang terbuang. Kalau ada kesalahan lukisan, kita bicarakan berdasarkan penyebabnya. Jangan semua kerugian dibebankan ke satu orang."
+
+Setidaknya, kali ini dia tidak hanya bicara soal mesin.
+
+Sebelum aku menjawab, tirai kamar belakang bergerak. Pak Lik Harto keluar membawa nampan berisi dua cangkir seng blirik dan sepiring pisang goreng.
+
+"Diminum dulu tehnya, Mas Aji. Dari tadi saya dengar kalian bicara angka terus."
+
+Aji menerima cangkir itu. "Terima kasih, Pak."
+
+Pak Lik duduk di ujung meja. Napasnya terdengar sedikit berat setelah berjalan dari kamar, tetapi ia masih sempat melirik proposal yang terbuka.
+
+"Sudah ketemu cara mengerjakannya?"
+
+"Belum, Lik," jawabku. "Masih harus diuji."
+
+"Bagus. Jangan buru-buru merasa bisa sebelum dicoba."
+
+Aji mengangguk. "Kami akan membuat satu contoh dulu."
+
+Pak Lik mengambil pisang goreng. "Kalau begitu, jangan lupa makan. Kain bisa menunggu, orang yang lapar biasanya lebih cepat bertengkar."
+
+Aku mengambil satu pisang goreng. Aji juga, meski ia tampak masih memikirkan angka-angka di catatannya.
+
+"Jadi?" tanyanya setelah meletakkan piring.
+
+Aku melihat lagi proposal itu. Ada banyak hal yang belum kuketahui tentang metode yang ditawarkan Aji. Aku juga belum sepenuhnya percaya bahwa ia akan menghargai pekerjaanku setelah kami mulai berbagi tanggung jawab.
+
+Namun, aku tahu lukisan tanganku tidak akan menyelesaikan masalah QRIS. Dan mesin Aji tidak akan menghasilkan spanduk seperti yang diminta paguyuban.
+
+"Kita coba satu prototipe," kataku. "Tapi jangan mengubah gambar tanpa bilang kepadaku."
+
+"Dan jangan mengubah posisi kotak QRIS setelah ukurannya saya tetapkan."
+
+"Kalau mengganggu gambar, kita bicarakan lagi."
+
+Aji mengulurkan tangan. "Sepakat?"
+
+Aku menyambut tangannya. Genggamannya singkat dan agak kaku.
+
+"Sepakat. Besok pagi jam tujuh."
+
+Aji memasukkan proposal ke dalam map. "Tiga hari untuk menyiapkan prototipe. Setelah itu kita bawa ke Cak Qodim untuk diperiksa."
+
+"Jangan datang terlambat."
+
+"Saya justru mau mengingatkan kamu."
+
+"Kalau begitu, besok kita lihat siapa yang terlambat."
+
+Pak Lik tertawa kecil sambil menuangkan teh ke cangkirnya sendiri.
+
+Aku belum menganggap Aji sebagai rekan. Belum juga yakin bahwa cara kerjanya cocok dengan caraku. Tapi untuk pertama kalinya, kami punya satu pekerjaan yang harus diselesaikan bersama, dan kesepakatan yang cukup jelas untuk memulainya.

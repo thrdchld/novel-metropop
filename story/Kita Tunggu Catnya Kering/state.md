@@ -1,65 +1,87 @@
 # Continuity State — Kita Tunggu Catnya Kering
 
-> **File Penjaga Kondisi Aktif Cerita (Engine v2.4)**
-> Dokumen ini adalah peta keadaan langsung (*live state snapshot*) cerita di garis depan penulisan (*writing frontier*).
-> Wajib diperbarui setelah setiap bab selesai ditulis.
+> Snapshot kondisi cerita setelah revisi Bab 1–32. Manuskrip menjadi rujukan utama; dokumen ini merangkum keadaan akhir.
 
----
+## I. Status Cerita
 
-## I. Status Garis Depan Penulisan (Writing Frontier)
+- **Bab terakhir:** Bab 32, *Bergabung*.
+- **Status:** Naskah lengkap; audit kronologi dan integrasi Bab 1–32 selesai; revisi Bab 31–32 telah disinkronkan ke manuscript dan dokumen pendamping.
+- **Titik waktu akhir:** Minggu menjelang siang berikutnya, beberapa hari setelah festival Selasa malam.
+- **Lokasi:** Studio Tenda Malam, ruang kerja bersama di ruko Kalimalang.
+- **POV:** Dwi Winarsih (Wiwin), orang pertama.
+- **Keadaan:** Studio mulai beroperasi dengan satu pesanan baru dari asosiasi pedagang soto Bekasi. Uang muka tercatat sebagai dana pesanan, bukan keuntungan. Hubungan Wiwin dan Aji telah berkembang menjadi hubungan personal sekaligus kemitraan kerja, tetapi usaha mereka masih tahap awal.
 
-- **Bab Terakhir Selesai:** Bab 32 (*Bergabung*)
-- **Bab Berikutnya yang Akan Ditulis:** Selesai / Tamat (32 Bab Lengkap)
-- **Titik Waktu Cerita:** Minggu, Pukul 17.00 WIB (Epilog Cerita)
-- **Lokasi Terkini Tokoh Utama:** Studio Tenda Malam (ruko gabungan Wiwin & Aji), Kalimalang
-- **Cuaca / Suasana Fisik:** Senja hangat keemasan, cat oranye pertama meresap ke serat kain mori baru
-- **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Damai, bersyukur, dan bahagia seutuhnya bersama Aji dan keluarga gang
+## II. Jangkar Waktu Akhir
 
----
+| Peristiwa | Waktu |
+|---|---|
+| Sepuluh spanduk VIP selesai dikerjakan | Senin malam |
+| Badai merusak talang dan membasahi mesin | Selasa, sekitar 01.30 |
+| Listrik diputus dari sumber utama; area dinyatakan aman | Selasa dini hari |
+| Aji mendapat perawatan luka; teknisi memeriksa mesin | Selasa pagi |
+| Pemasangan 60 spanduk dengan bantuan paguyuban | Selasa menjelang siang |
+| Festival dibuka dan transaksi QRIS diuji sungguhan | Selasa malam |
+| Perayaan kecil bersama warga | Selasa malam |
+| Studio Tenda Malam mulai beroperasi | Minggu menjelang siang berikutnya |
 
-## II. Jangkar Waktu Relatif (Relative Time Anchor)
+## III. Status Tokoh di Akhir Cerita
 
-| Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
-|---|---|---|
-| **Hari Ini** | Minggu (17.00 WIB) | Peresmian Studio Tenda Malam; goresan kuas pertama Wiwin dan Aji |
-| **Kemarin (H-1)** | Sabtu | Merenovasi sekat dinding ruko dan menyusun meja kerja kembar |
-| **Pekan Lalu** | Selasa | Malam pembukaan dan kesuksesan akbar 60 spanduk di festival kuliner |
-| **Status Novel** | Tamat | Seluruh 32 bab selesai ditulis dan lulus 22 cek gatekeeper |
+| Tokoh | Kondisi dan posisi terakhir |
+|---|---|
+| **Wiwin** | Tetap menjadi pelukis utama; menangani ilustrasi manual, kain, dan pemeriksaan visual. Tangan kanan sempat kram karena kerja berlebihan, membaik setelah istirahat. |
+| **Aji** | Menangani desain digital, file QRIS, panel transfer, dan hubungan vendor. Telapak tangan kanan mengalami sayatan dangkal saat mengamankan talang; dirawat dan sementara tidak mengangkat beban berat. |
+| **Pak Lik Harto** | Kondisi asma tetap perlu perawatan rutin. Setelah malam badai ia kelelahan, kemudian pulih setelah istirahat dan pemeriksaan. Tidak ada perubahan permanen pada mobilitas yang ditetapkan. |
+| **Cak Qodim** | Ketua paguyuban; membantu koordinasi pedagang, kendaraan, tenaga pemasangan, dan komunikasi dengan panitia. |
+| **Bang Parlin** | Membantu urusan rangka, tali, dan pemasangan. Bukan teknisi mesin cetak. |
+| **Mbak Pur** | Mendukung warga dan kru dengan makanan serta bantuan praktis. |
+| **Pak Haris** | Pemilik Mitra Graha dan mantan atasan Aji; memiliki hubungan bisnis sebagai konsultan/rekanan, bukan pejabat dinas. Tidak memiliki kewenangan langsung membatalkan izin pedagang atau menandatangani penerimaan proyek atas nama dinas. |
 
----
+## IV. Status Relasi
 
-## III. Register Status Hubungan & Diksi Terlarang (Relationship Status Registry)
+- **Wiwin–Aji:** Berawal sebagai pesaing, berkembang menjadi rekan kerja yang saling menghargai, lalu pasangan yang mulai merintis usaha bersama. Hindari menggambarkan mereka sudah memiliki hubungan yang sempurna atau tanpa konflik.
+- **Wiwin–Pak Lik:** Keponakan dan paman; Pak Lik adalah mentor keterampilan dan keluarga yang dirawat Wiwin.
+- **Wiwin/Aji–Paguyuban:** Mitra produksi yang dipercaya setelah proyek festival selesai, bukan pemilik atau pengendali paguyuban.
 
-| Pasangan / Relasi | Label SAH Digunakan Saat Ini | Diksi / Label DILARANG Saat Ini | Catatan / Syarat Naik Status |
-|---|---|---|---|
-| **Wiwin & Aji** | "Pemuda ruko seberang / Penyewa baru / Pesaing" | "Teman / Rekan kerja / Mas Aji (sayang)" | Masih saling pandang sinis dan bersaing ruko |
-| **Wiwin & Pak Lik Harto** | "Pak Lik / Paman kandung" | "Bapak / Ayah" | Paman pengganti orang tua |
-| **Wiwin & Cak Qodim** | "Cak Qodim / Ketua Paguyuban / Pelanggan sesepuh" | "Teman biasa" | Tokoh yang disegani |
+## V. Inventaris dan Kondisi Benda
 
-**Matriks Sapaan Antar-Tokoh Saat Ini:**
-- Wiwin ke Aji: `Belum bertegur sapa / Mas (ketus)`
-- Aji ke Wiwin: `Belum bertegur sapa`
-- Wiwin ke Pak Lik Harto: `Pak Lik / Kulo / Aku`
-- Wiwin ke Cak Qodim: `Cak Qodim / Cak`
+| Benda/aset | Status terakhir |
+|---|---|
+| Piring seng blirik hijau-putih | Dicuci bersih; dipakai menyajikan makanan saat perayaan Bab 31. |
+| Kuas Wiwin | Tetap menjadi alat utama ilustrasi manual. |
+| Buku catatan bahan Pak Lik | Referensi percobaan cat lama; bukan formula ajaib. Dikembalikan ke tempat penyimpanannya setelah digunakan. |
+| Jaket kanvas Aji | Tetap memiliki noda kuning di siku kanan; terkena air dan karat saat badai, lalu dikeringkan. |
+| Mesin cetak digital Aji | Terkena rembesan air dan mengalami kerusakan pada komponen daya/kendali. Teknisi belum memastikan seluruh mesin tidak bisa diperbaiki; biaya dan kelayakan perbaikan masih dipertimbangkan. |
+| Mesin pres termal kecil | Dibeli Aji setelah festival dari sebagian tabungan dan bagian keuntungan yang disisihkan. Tidak menggantikan printer digital besar. |
+| Perlengkapan studio bersama | Rak dan meja tambahan yang dibeli untuk ruang kerja dicatat sebagai perlengkapan bersama; alat lama tetap menjadi aset masing-masing.
+| Kain mori | 50 spanduk awal dan 10 spanduk VIP selesai dipasang; proyek total 60 spanduk. |
+| Panel QRIS | Masing-masing spanduk memuat kode merchant warung yang bersangkutan. Kode dipindai untuk pemeriksaan; transaksi nyata terjadi saat festival. |
 
----
+## VI. Aturan Kontinuitas Teknis dan Proyek
 
-## IV. Inventaris Benda Penting (Props & Items)
+1. Pesanan awal berjumlah 50 spanduk; tambahan 10 VIP menjadikan total 60.
+2. Satu spanduk menggunakan kain sekitar 4 × 1 meter. Bab 17 menetapkan pembelian 53 gulung/212 meter: 200 meter dialokasikan untuk 50 spanduk awal dan 12 meter menjadi cadangan. Untuk 10 VIP, 12 meter cadangan digabung dengan pembelian tambahan 32 meter, menyisakan 4 meter.
+3. Setiap warung memakai QRIS miliknya sendiri. Jangan mengubahnya menjadi satu QRIS paguyuban.
+4. Pemindaian kode hanya menampilkan data merchant; pembayaran baru berhasil setelah nominal dikonfirmasi dan transaksi diterima.
+5. Wiwin melukis ilustrasi secara manual. Panel QRIS dibuat digital dan dipasang dengan metode transfer yang telah diuji.
+6. Jangan menyebut ketahanan panas, air, atau bahan kimia sebagai fakta tanpa pengujian yang memadai.
+7. Area banjir dan instalasi listrik tidak boleh disentuh sebelum sumber listrik diputus dan area dinyatakan aman.
+8. Bang Parlin dapat membantu pekerjaan mekanis umum, tetapi diagnosis mesin dilakukan teknisi.
+9. Kesepakatan awal proyek festival (Bab 8) membagi laba bersih 60 persen untuk Wiwin dan 40 persen untuk Aji setelah biaya dipotong. Di Studio Tenda Malam (Bab 32), angka itu menjadi patokan awal yang dapat ditinjau ulang jika jenis pesanan atau beban kerja berubah.
+10. Studio dijalankan bersama, tetapi Bab 32 belum menetapkan kepemilikan formal badan usaha. Ruko dan alat lama tetap milik masing-masing; perlengkapan yang dibeli bersama dicatat terpisah. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel pembayaran, dan vendor. Pekerjaan produksi tetap dapat dibagi sesuai kebutuhan.
 
-| Benda / Aset | Pemegang Saat Ini | Lokasi Terakhir | Status Fisik / Fungsi |
-|---|---|---|---|
-| **Piring seng blirik hijau loreng** | Wiwin | Meja lantai ruko | Wadah adukan cat oranye stabilo |
-| **Kuas liner bulu musang nomor satu** | Wiwin | Kotak kaleng kuas | Masih kering dan bersih |
-| **Gulungan kain mori primisima** | Wiwin | Lantai semen ruko | Terbentang 4 meter menunggu sketsa |
-| **Mesin cetak digital bekas** | Aji | Di bak mobil pikap seberang | Sedang diturunkan dalam peti kayu |
-| **Inhaler asma biru** | Pak Lik Harto | Meja samping kasur belakang | Sisa semprotan tinggal sedikit |
+## VII. Catatan Kronologi Final
 
----
+- Bab 9 sudah diselaraskan dengan janji pukul 07.00 pada Bab 8.
+- Bab 11 menunjukkan permintaan tambahan waktu untuk prototipe sampai Minggu; Cak Qodim setuju meninjau, bukan memberi persetujuan otomatis.
+- Bab 19 menjelaskan persetujuan formal panitia sebelum masa produksi dua minggu dimulai.
+- Bab 21 berlangsung keesokan pagi setelah Bab 20; Bab 22 berlangsung setelah sepuluh spanduk terakhir selesai. Hari kalender Bab 19–22 tetap tidak ditetapkan karena naskah tidak memberi jangkar tanggal yang cukup.
+- Persediaan kain cadangan 12 meter berasal dari 3 gulung sisa pembelian Bab 17, bukan dari 200 meter yang dialokasikan untuk pesanan awal.
 
-## V. Log Benih Planting & Callback (Aktif)
+## VIII. Benang Callback yang Sudah Dibayar
 
-- [ ] **Mitos Pantang Lele Lamongan:** Akan ditanam di Bab 2 lewat dialog Cak Qodim dan Pak Lik Harto.
-- [ ] **Noda Cat Kuning Stabilo:** Akan ditanam di Bab 7 pada jaket kanvas Aji.
-- [ ] **Buku Resep Fosfor Koyak:** Akan ditanam di Bab 12 di laci lemari obat Pak Lik Harto.
-- [ ] **Piring Seng Blirik Hijau:** Muncul perdana di Bab 1 sebagai wadah cat Wiwin.
+- Pantangan makan lele adalah kepercayaan keluarga Cak Qodim, bukan adat yang berlaku untuk semua orang Lamongan.
+- Noda kuning di siku jaket Aji: tetap terlihat sampai akhir.
+- Buku catatan bahan Pak Lik: menjadi referensi eksperimen, bukan formula ajaib atau sumber teknologi QRIS.
+- Piring seng blirik: dari wadah cat menjadi piring makan.
+- Garis lakban pembatas: akhirnya dihapus setelah kedua ruang kerja disatukan.
+- Kalimat judul: menjadi dialog penutup ketika Wiwin dan Aji menunggu cat pertama pesanan studio mengering.

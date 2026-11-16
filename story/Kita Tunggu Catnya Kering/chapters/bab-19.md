@@ -1,59 +1,95 @@
-## Bab 19: Sablon
+## Bab 19: Produksi
 
-Ujung paku payung kuningan ditekan ibu jari tanganku menembus sudut kain mori ke lantai semen dengan hentakan keras.
+Pagi pertama produksi dimulai dengan meja-meja yang memenuhi hampir seluruh ruang ruko. Meja panjang dari warung sebelah kami letakkan di tengah, sementara dua meja lipat disusun di sisi jendela. Kain mori tidak lagi dibentangkan di lantai seperti saat aku bekerja sendiri. Setiap lembar kami letakkan di atas permukaan yang rata, lalu diberi pemberat kecil di bagian tepi agar tidak bergeser ketika dilukis.
 
-TAK!
+Produksi baru kami mulai setelah panitia meninjau prototipe dan menyetujui rancangan serta metode pemasangannya. Cak Qodim membawa pemberitahuan persetujuan itu ke ruko sehari sebelumnya. Sejak persetujuan tersebut, masa pengerjaan dua minggu resmi dihitung. Kunjungan tim verifikasi berikutnya tetap akan memeriksa proses yang sedang berjalan, bukan mengulang keputusan persetujuan prototipe.
 
-Paku payung kelima puluh tertancap kencang di celah retakan semen, mengunci bentangan kain putih primisima agar tidak bergeser ditiup hembusan angin malam. Jam dinding ruko menunjukkan pukul setengah dua belas malam. Ruko tua kami yang biasanya lengang mendadak bertransformasi menjadi bengkel pabrik gerilya. Kabel ekstensi melintang silang di atas lantai, tiga kipas angin berdiri mengepung area kerja, dan deretan tali tambang plastik menggantung di langit-langit ruko seperti tali jemuran massal.
+Pak Lik Harto duduk di bangku dekat jendela. Di sampingnya ada meteran, kapur jahit, dan daftar nomor kain. Ia membantu mengukur bidang gambar serta menandai batas panel, pekerjaan yang masih bisa dilakukannya tanpa harus berdiri terlalu lama.
 
-Alur kerja kami terbagi rapi tanpa banyak bicara.
+“Nomor satu sampai lima dulu,” katanya. “Jangan semuanya dibuka. Nanti kalian sendiri yang bingung.”
 
-Di sudut dekat kamar, Pak Lik Harto yang duduk di bangku dingklik kayu menggaris pola modul dan batas ornamen menggunakan kapur jahit putih dan meteran kayu panjang. Setiap kain yang sudah digaris langsung digeser ke arahku.
+“Aku juga belum sanggup melukis lima puluh sekaligus, Pak Lik.”
 
-Aku berlutut di tengah ruangan, menyambar kuas pipih nomor empat yang sudah dicelup ke cat kuning dan oranye stabilo. Gerakan tanganku meliuk cepat dan terlatih: menggoreskan lengkung tubuh lele, melukis mahkota ayam jago, menyapukan sayap bebek, lalu membubuhkan huruf balok tebal khas Pantura. Tidak ada keraguan, tidak ada jeda berpikir. Setiap tarikan kuasku mengalir murni dari ingatan otot yang diasah belasan tahun.
+“Bagus. Berarti masih punya akal sehat.”
 
-Dua meter di samping kananku, Aji bekerja dengan presisi mesin. Lengan kemejanya digulung sampai ke bahu. Di depannya, plat sablon kasa monofilamen nomor seratus dua puluh T diletakkan bergantian di atas jendela kain kosong.
+Aji datang membawa dua map plastik dan sebuah kotak berisi lembaran bahan transfer. Sejak proyek dimulai, ia membuat sistem penomoran yang menghubungkan nomor kain, nama warung, dan file QRIS. Satu map berisi file yang belum dicetak, satu lagi berisi lembar yang sudah dicetak dan menunggu dipasang.
 
-SREK! SREK!
+“Setiap lembar punya pasangan,” katanya sambil menunjukkan daftar. “Nomor kain, nama pemilik, nama merchant, semuanya harus cocok. Kalau ada satu yang meragukan, kita tahan dulu.”
 
-Bilah karet rakel ditariknya dengan sudut miring empat puluh lima derajat, menyapukan pasta damar hitam pekat menembus saringan ke serat kain mori. Setiap kali plat diangkat, satu kode QRIS sempurna tercetak hitam legam.
+“Jangan sampai kode Bu Siti masuk ke spanduk Pak Darto,” kataku.
 
-"Kain kedua puluh siap sablon, Aji!" seruku sambil menggeser kain baru ke arahnya.
+“Kalau itu terjadi, kita bukan cuma salah cetak. Kita bisa bikin orang membayar ke warung yang keliru.”
 
-"Sini, taruh sejajar tanda kapur!" sahut Aji dengan napas memburu.
+Aku mengangguk. Bagian itu tidak boleh dikerjakan dengan perkiraan.
 
-Saat berbalik meraih botol pelarut pembersih kasa, siku kanan Aji menyenggol botol kaca tiner yang berdiri di lantai semen.
+Pekerjaan dibagi sesuai kemampuan masing-masing. Aku membuat ilustrasi lele, ayam, dan bebek dengan pola dasar yang sudah disepakati. Bentuknya tetap punya ciri khas lukisanku, tetapi ukuran gambar dan ruang untuk panel QRIS harus konsisten. Pak Lik memeriksa garis batas dan sesekali memberi komentar dari bangkunya. Aji menyiapkan panel digital, memeriksa posisi, lalu memasangnya dengan mesin pres termal pinjaman setelah bidang kain siap.
 
-PRAK!
+Pada kain pertama, aku hampir memenuhi ruang kosong di dekat tulisan dengan hiasan sisik. Aji menunjuk bagian kanan bawah.
 
-Botol kaca itu terguling, menumpahkan setengah liter cairan tiner bening ke lantai semen, mengalir cepat menuju ujung bentangan kain mori kelima belas yang catnya baru setengah kering.
+“Kalau ornamen itu diteruskan, jaraknya terlalu dekat dengan panel.”
 
-"Awas! Tinernya tumpah!" pekik Aji panik, melompat mundur berusaha menahan aliran cairan dengan telapak sepatunya.
+“Masih ada ruang.”
 
-"Jangan pakai sepatu!" bentakku cepat.
+“Di mata kamu mungkin. Tapi kita perlu menyisakan bidang bersih di sekeliling kode.”
 
-Kusambar karung goni kecil berisi serbuk gergaji kayu jati yang kusiapkan di dekat pintu masuk. Dengan dua ayunan tangan cekatan, kutaburkan dua genggam serbuk kayu kering tepat di atas genangan tiner yang merayap.
+Aku mundur sedikit untuk melihat keseluruhan gambar. Ia benar. Aku menghapus rencana tambahan itu sebelum cat menyentuh kain.
 
-Serbuk gergaji kayu langsung menyedot cairan kimia itu seperti spons kering dalam hitungan tiga detik, menghentikan laju tiner hanya dua sentimeter sebelum menyentuh pinggiran kain putih mori.
+“Jangan senang dulu,” kataku. “Aku mengalah karena memang lebih rapi.”
 
-Aji menghembuskan napas panjang, bersandar lemas pada tiang ruko. Wajahnya pucat pasi menatap serbuk kayu yang basah kuyup.
+“Tidak masalah. Aku catat sebagai kemajuan.”
 
-"Hampir saja," bisik Aji dengan nada gemetar. "Maaf, Win. Konsentrasiku mulai buyar."
+“Catat juga kalau kamu mulai banyak bicara.”
 
-"Tarik napas dulu," kataku sambil menyapu serbuk kayu basah itu ke serokan seng dengan sapu lidi. "Begadang maraton begini memang bikin mata rabun."
+Aji tersenyum sambil kembali ke mejanya.
 
-Belum sempat kami membersihkan sisa serbuk kayu, pintu besi ruko yang terbuka sedikit didorong lebar dari luar.
+Menjelang siang, kain pertama selesai dilukis dan diletakkan di rak pengering. Kain kedua menyusul, lalu ketiga. Kami mengatur jarak antarkain supaya permukaannya tidak saling menyentuh. Kipas hanya diarahkan untuk membantu sirkulasi udara di ruangan, bukan meniup langsung ke cat. Ventilasi atas dibuka, sementara kain yang belum cukup kering dibiarkan menunggu.
 
-"Assalamu'alaikum! Logistik tempur datang!"
+Proses panel QRIS ternyata tidak selalu berjalan mulus. Pada lembar milik warung Bu Siti, nama merchant yang muncul di data berbeda dari nama yang biasa kami kenal. Aji menghentikan pemasangan dan membandingkan file itu dengan daftar paguyuban.
 
-Suara berat Cak Qodim memecah keheningan malam Kalimalang. Pria berkumis tebal itu melangkah masuk dengan senyum semringah, menenteng sebakul anyaman bambu berisi tiga puluh bungkus nasi uduk hangat berbungkus daun pisang dan satu teko loreng besar wedang jahe gula merah yang mengepulkan asap hangat.
+“Ini bukan salah cetak,” katanya. “Nama yang terdaftar memang nama usaha lamanya.”
 
-"Makan dulu, anak-anak muda!" seru Cak Qodim sambil meletakkan bakul nasi ke atas meja lipat Aji. "Paguyuban Kalimalang patungan beli lauk empal suwir sama telur dadar tebal buat kalian berdua. Jangan sampai kalian pingsan sebelum bendera berkibar!"
+“Yakin?”
 
-Pak Lik Harto tersenyum lebar dari sudutnya, meletakkan kapur jahitnya dan melangkah mendekat.
+“Belum. Aku mau konfirmasi dulu.”
 
-Kami berempat duduk melingkar di atas kardus semen, membuka bungkusan daun pisang dan menyesap wedang jahe yang membakar tenggorokan dingin kami dengan kehangatan.
+Ia menghubungi Cak Qodim dan meminta Bu Siti memeriksa data dari aplikasi pembayaran miliknya. Beberapa menit kemudian, konfirmasi datang. Nama lama itu masih tercatat sebagai nama merchant resmi, meskipun papan warungnya sudah memakai nama baru.
 
-Kupandangi sekeliling ruangan ruko. Di atas kepala kami, dua puluh lima lembar spanduk kain mori setengah jadi berkibar pelan ditiup hembusan tiga kipas angin, tergantung gagah menyerupai bendera perang di medan tempur.
+“Kalau kita langsung mengganti tulisan di file, justru bisa bikin orang salah paham,” kata Aji.
 
-Di tengah sisa lelah dan dinginnya angin dini hari, kutatap deretan kain itu dengan dada bergemuruh pelan. Dua puluh lima kain lagi harus tuntas sebelum matahari terbit. Apakah fajar esok benar-benar membawa kemenangan bagi orang-orang kecil seperti kami, ataukah seluruh keringat malam ini akan lenyap ditelan keangkuhan dinas kota?
+Aku melihat catatan yang ditempelkannya pada map Bu Siti. “Simpan konfirmasinya. Kalau nanti ada yang bertanya, kita punya dasar.”
+
+Aji menambahkan tanggal dan nama orang yang mengonfirmasi. Baru setelah itu ia melanjutkan proses. Aku memperhatikan caranya bekerja. Dulu kupikir urusan digital hanya soal menekan tombol dan menunggu mesin selesai. Ternyata ada banyak hal yang harus diperiksa sebelum satu lembar pun dipasang.
+
+Sore harinya, dua belas kain sudah melewati tahap ilustrasi. Sebagian panel QRIS telah diterapkan, tetapi belum semuanya selesai diperiksa. Kami menandai setiap kain dengan status berbeda: menunggu kering, menunggu panel, atau siap diperiksa. Tidak ada kain yang dipindahkan ke tumpukan akhir hanya karena gambarnya terlihat bagus.
+
+Cak Qodim datang membawa beberapa bungkus nasi dan dua pengurus paguyuban. Ia berhenti di depan rak, memperhatikan deretan gambar yang mulai memenuhi ruangan.
+
+“Wah, sudah banyak juga.”
+
+“Baru dua belas yang masuk tahap awal, Cak,” jawabku. “Masih panjang.”
+
+“Dua orang ini kalau kerja memang tidak bisa dibilang pelan,” kata Cak Qodim.
+
+Aji mengangkat kepala. “Kami justru sedang berusaha tidak terburu-buru.”
+
+“Bagus. Saya lebih suka spanduk selesai sedikit terlambat daripada QRIS orang tertukar.”
+
+Dua pengurus yang datang bersamanya membantu mencocokkan nomor kain dengan daftar merchant. Mereka memeriksa nama satu per satu, lalu memberi tanda pada daftar setelah pemilik warung yang bersangkutan mengonfirmasi. Pekerjaan itu tidak bisa kami serahkan sepenuhnya kepada mereka, tetapi bantuan tersebut membuat pemeriksaan data tidak menumpuk di tangan Aji.
+
+Malamnya, setelah semua orang pulang, aku masih berdiri di depan rak. Dua belas kain itu belum semuanya siap dipasang panel, apalagi diserahkan. Namun, untuk pertama kalinya, jumlah pekerjaan yang menunggu terasa bisa dihitung.
+
+Aji menutup map dan mencocokkan catatan terakhir dengan kain yang tersisa.
+
+“Besok kita lanjutkan kelompok berikutnya,” katanya. “Kalau ada yang belum kering, jangan dipaksa masuk tahap selanjutnya.”
+
+“Aku tahu.”
+
+“Dan kalau ada file yang belum dikonfirmasi, jangan dicetak dulu.”
+
+“Aku juga tahu.”
+
+Ia mengangkat kedua tangan. “Baik. Aku berhenti mengulang.”
+
+Pak Lik yang sejak tadi merapikan kapur jahit terkekeh. “Kalian kalau sudah sepakat malah masih sempat berdebat.”
+
+Aku mematikan lampu di atas meja. Produksi baru dimulai, dan dua belas kain belum berarti apa-apa dibandingkan lima puluh pesanan yang harus kami selesaikan. Tapi setidaknya kami mulai menemukan ritme: satu kain dikerjakan, diperiksa, lalu diteruskan. Tidak ada jalan pintas yang bisa menggantikan ketelitian itu.

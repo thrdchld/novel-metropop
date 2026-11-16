@@ -1,49 +1,65 @@
 ## Bab 26: Talang
 
-Gemuruh air bah menghantam atap seng ruko tua dengan dentuman liar yang memekakkan telinga.
+Hujan menghantam atap seng ruko tua dengan suara yang membuat kami sulit mendengar satu sama lain.
 
-Pukul setengah dua dini hari, badai hujan menerjang kawasan Kalimalang tanpa ampun. Angin kencang menderu-deru dari celah dinding tripleks, mengguncang deretan lampu gantung dan membanting daun jendela ruko hingga engselnya berderit ngilu. Di ruang tengah, udara mendadak dingin menusuk tulang, membawa uap air yang berkabut tebal di dalam ruangan semen.
-
-Air limpasan dari jalan raya di luar mulai merayap naik menutupi bibir trotoar. Parit pembuangan di samping ruko meluap menampung debit air kali yang meninggi, mengirimkan gemericik air berlumpur ke pelataran depan. Di dalam ruko, kami bertiga baru saja hendak merebahkan badan di atas tikar pandan saat suara derak tajam terdengar dari arah langit-langit.
+Pukul setengah dua dini hari, badai menerjang kawasan Kalimalang. Angin mengguncang daun jendela dan membuat air merembes dari beberapa sambungan atap. Kami bertiga baru saja hendak beristirahat di atas tikar ketika terdengar derak logam dari ruang tengah.
 
 KRAAAK!
 
-Suara robekan logam yang menggetarkan dada terdengar tepat di atas ruang tengah ruko. Sambungan talang seng pembuangan air hujan yang sudah berkarat tua mendadak terbelah oleh beban ratusan liter air yang tertahan di lekukan atap.
+Sambungan talang seng yang sudah berkarat terlepas. Air hujan yang tertahan di lekukan atap tumpah ke dalam ruko, menghantam meja kerja dan lantai semen. Dalam beberapa detik, air mengalir dari dinding menuju rak pengering.
 
-Detik berikutnya, air keruh bercampur lumpur karat tumpah ruah membentuk air terjun dadakan.
+“Spanduknya!” seruku.
 
-Kucuran air deras itu menghujam tepat ke atas meja kerja tempat tumpukan sepuluh kain mori VIP yang baru saja selesai kami pres.
+Aku bangkit dan menarik kain yang paling dekat dengan cipratan. Ujungnya sudah basah. Aji mengambil terpal plastik dari bawah meja dan membentangkannya untuk melindungi kain-kain lain.
 
-"Kainnya!" jeritku histeris sambil menerobos guyuran air dingin.
+“Win, bawa kainnya ke kamar belakang! Jangan lewat dekat mesin!” teriaknya.
 
-Lantai semen yang licin oleh tumpahan air membuat kakiku hampir tergelincir. Dengan kedua tangan yang gemetar hebat, aku berusaha menarik tumpukan mori putih itu ke sudut kering. Namun kain katun basah berukuran empat meter itu terasa luar biasa berat seperti karung pasir basah. Tetesan air kotor mulai memercik ke lukisan kepala lele yang cat minyaknya belum kering sempurna.
+Aku mengangkat dua kain sekaligus. Kain mori yang panjang terasa lebih berat saat terkena air. Pak Lik muncul dari bilik sambil membawa senter. Ia tidak mendekati stopkontak atau kabel yang mulai terendam.
 
-Sebelum air bah merendam seluruh tumpukan kain, tubuh tegap Aji melompat menerjang pusaran air.
+“Jangan lewat tengah. Airnya sudah sampai bawah meja,” katanya. Ia menunjuk jalur di sisi kiri, tempat lantai sedikit lebih tinggi.
 
-Ia menyambar gulungan terpal plastik oranye dari bawah meja, lalu membentangkannya lebar-lebar dengan kedua tangannya. Punggung dan kepalanya langsung basah kuyup tersiram guyuran air talang yang dingin dan berpasir, namun Aji tetap bertahan menutupi tumpukan spanduk dengan badannya sendiri.
+Pak Lik sempat berhenti untuk mengatur napas. Aku menyuruhnya kembali ke bilik, tetapi ia bersikeras membantu mengarahkan kain. Aji meminta ia tetap di ambang pintu dan memegang senter saja.
 
-"Pindahkan kainnya ke kamar belakang, Win!" teriak Aji mengatasi raungan petir di atas seng. "Cepat! Aku tahan kucuran airnya di sini!"
+“Kasur sudah Pak Lik lapisi plastik. Bawa ke sana. Lewat sisi kiri, lantainya lebih tinggi!”
 
-Pak Lik Harto muncul dari pintu bilik dengan langkah tertatih, menenteng dua ember plastik hitam dan baskom kaleng bekas cucian. "Taruh di kasur belakang, Win! Kasurnya sudah Pak Lik lapisi plastik tebal! Cepat bawa ke sini!"
+Aku membawa kain pertama ke bilik belakang, lalu kembali untuk mengambil yang berikutnya. Aji menahan terpal dari sisi yang masih kering. Sesekali ia menggeser wadah penampung yang hampir meluap, tetapi tidak mencoba memperbaiki talang. Air terus jatuh dari plafon, membuat suara seperti keran yang dibuka penuh.
 
-Pria tua itu berusaha meletakkan ember tepat di bawah jatuhan air, tetapi semburan air talang terlalu deras hingga ember langsung terpental terguling. Pak Lik Harto segera beralih mencabut kabel sambungan listrik dari stopkontak dinding agar kami tidak tersengat aliran arus pendek.
+Sembilan kain berhasil kami pindahkan. Saat aku hendak kembali mengambil kain terakhir, Aji mengangkat tangan.
 
-Aku menggendong tiga kain pertama ke dalam pelukanku, berlari membawanya ke bilik belakang yang aman. Napasku tersengal-sengal, dada terasa sesak oleh kepanikan yang membakar. Bolak-balik aku melintasi lantai yang kini sudah tergenang air setinggi mata kaki. Setiap tetes air yang mengenai serat kain terasa seperti belati yang merobek hasil kerja keras kami selama berhari-hari.
+“Berhenti. Ada air dekat kabel mesin.”
 
-Kain keenam berhasil diamankan. Kain kesembilan masuk ke bilik.
+Aku menahan langkah. Dari sudut ruang depan terdengar letupan kecil, disusul desis tajam. Percikan muncul di dekat bagian bawah mesin cetak digital yang terkena rembesan.
 
-Tinggal satu kain terakhir di atas meja semen, terhimpit di bawah kucuran air talang yang semakin deras karena atap seng mulai melengkung turun terbebani angin ribut.
+“Matikan listriknya!” teriakku.
 
-Aji membungkuk lebih rendah, melindungi kain terakhir itu dengan dadanya. Jaket kanvas abu-abunya kini sudah basah lepek dan kotor oleh karat besi cokelat. Air mengalir deras dari rambutnya, menetes melewati kacamata minusnya yang berembun pekat.
+“Jangan sentuh apa pun yang basah,” kata Aji. “Pak Lik, telepon petugas listrik. Minta aliran dari sumber utama diputus. Jangan dekati meteran kalau lantainya tergenang.”
 
-"Ambil kain ini, Wiwin!" perintah Aji, menyerahkan gulungan terakhir ke tanganku dengan napas tersengal.
+Pak Lik segera mengambil telepon dari tempat yang kering dan menghubungi layanan darurat listrik. Kami menjauh dari ruang depan. Tidak ada yang mencoba mencabut steker atau menyentuh sakelar. Aku ingin mengambil kain terakhir, tetapi Aji menahanku.
 
-Aku menyambar kain itu, lalu memeluknya erat ke dada dan membawanya kabur ke dalam bilik belakang. Begitu kain terakhir mendarat di atas kasur, tangisku nyaris pecah melihat seluruh sepuluh spanduk VIP selamat tanpa tercemar lumpur talang.
+“Jangan ambil risiko. Tunggu sampai aman.”
 
-Namun rasa lega itu hanya bertahan sepersekian detik.
+Aku berdiri di ambang bilik, memandangi kain kesepuluh yang masih tertutup sebagian oleh terpal. Air merembes ke bawah meja. Setiap kali petir menyambar, cahaya putih masuk dari jendela dan memperlihatkan genangan yang semakin melebar.
 
-Dari arah ruang depan yang gelap, suara desis kabel terbakar mendadak terdengar tajam di sela deru hujan.
+Jaket kanvas abu-abu Aji basah kuyup. Cipratan air bercampur karat menempel di bagian lengan. Noda kuning di siku kanannya masih terlihat di antara bercak cokelat. Ia berdiri agak jauh dari mesin, memperhatikan percikan yang sesekali muncul tanpa berani mendekat.
 
-PLETAT! CRRRK!
+“Mesinnya kena air?” tanyaku.
 
-Percikan api biru menyengat keluar dari ventilasi bawah mesin cetak digital Aji yang terendam rembesan air banjir. Asap tipis berbau sangit logam mulai mengepul dari dalam sasis mesin impor seharga ratusan juta rupiah itu.
+“Bagian bawahnya. Jangan dekati dulu.”
+
+Beberapa menit kemudian, petugas datang dan memeriksa kondisi dari area yang tidak tergenang. Setelah memastikan aliran listrik dari sumber utama telah diputus, mereka menyatakan area itu aman untuk dimasuki. Kami tetap menghindari kabel dan bagian mesin yang basah.
+
+Barulah Aji menarik terpal dari sisi yang aman, sementara aku mengambil kain terakhir dari rak. Kami membawanya ke bilik belakang. Sepuluh spanduk VIP kini berada di tempat yang lebih terlindung. Beberapa bagian terpal basah dan kain harus diperiksa ulang setelah kering, tetapi tidak ada yang terkena lumpur secara langsung.
+
+Rasa lega itu belum sempat muncul sepenuhnya ketika kami melihat mesin cetak digital Aji. Air telah merembes ke bagian bawah sasis. Bau hangus tipis keluar dari kisi-kisi mesin. Lampu indikatornya padam.
+
+Aji berdiri diam. Ia tidak menyentuh tombol atau mencoba menyalakannya kembali.
+
+“Jangan dicoba dulu,” kata petugas. “Tunggu sampai teknisi memeriksa. Mesin yang kemasukan air bisa berbahaya kalau langsung dialiri listrik.”
+
+Aji mengangguk. Ia mengambil beberapa langkah mundur, lalu menatap mesin itu lagi. Selama ini, benda tersebut menjadi sumber penghasilannya. Sekarang, bahkan untuk mengetahui seberapa parah kerusakannya, ia harus menunggu pemeriksaan.
+
+Pak Lik duduk di kursi dekat pintu bilik. Napasnya masih terdengar berat, tetapi mulai teratur. Aku mengambilkan air dan memastikan ia tidak perlu kembali ke ruang depan.
+
+“Yang penting kalian jangan memaksakan diri,” katanya pelan.
+
+Di luar, hujan masih memukul atap seng. Sepuluh spanduk sudah selamat, tetapi ruko kami berantakan. Dan mesin yang selama ini menjadi andalan Aji terdiam di sudut ruangan, menyisakan bau hangus yang belum hilang.

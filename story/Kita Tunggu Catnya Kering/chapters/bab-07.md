@@ -1,67 +1,117 @@
 ## Bab 7: Kucing Belang
 
-Bau tiner murni nomor satu menyengat hidung bersama hembusan angin panas Kalimalang yang menerbangkan debu aspal ke atas bentangan kain mori.
+Bau cat yang baru dibuka bercampur dengan udara panas Kalimalang. Kipas kecil di sudut ruko hanya memindahkan hawa gerah dari satu sisi ke sisi lain.
 
-Pukul setengah sebelas siang, terik matahari sudah membakar seng kanopi ruko sampai mengeluarkan bunyi gemeretak halus. Aku berlutut di atas kardus mi instan, mencelupkan kuas pipih nomor empat ke dalam piring kaleng berisi cat kuning stabilo. Di depanku, lukisan ikan lele sepanjang satu meter baru saja selesai kuberi garis tepi hitam. Ekornya meliuk gagah ke atas, kumisnya mencuat garang menantang langit.
+Pukul setengah sebelas siang, aku berlutut di atas kardus mi instan. Di depanku, kain mori membentang dengan lukisan ikan lele sepanjang satu meter. Garis tepinya baru selesai kuberi warna hitam. Ekornya meliuk ke atas, kumisnya mencuat, dan bagian perutnya masih menunggu sentuhan terakhir.
 
-Bayangan seseorang mendadak menutupi cahaya matahari dari pintu masuk.
+Bayangan seseorang menutupi cahaya dari pintu masuk.
 
-"Pintu rukomu nggak pernah dikunci?" Suara Aji terdengar dari arah ambang pintu.
+"Pintu rukomu nggak pernah dikunci?"
 
-Aku menoleh sekilas tanpa mengangkat kuas. Pemuda itu berdiri dengan setelan rapi seperti biasa: celana chino gelap, sepatu kets bersih, dan jaket kanvas abu-abu andalannya. Di tangan kanannya tergenggam map plastik transparan berisi beberapa lembar kertas ketikan rapi.
+Aku menoleh. Aji berdiri di ambang pintu dengan celana chino gelap, sepatu kets bersih, dan jaket kanvas abu-abunya. Di tangan kanan ada map plastik transparan.
 
-"Di sini nggak ada barang mewah yang perlu dimaling, Mas desainer," sahutku sambil mengoleskan warna kuning stabilo ke bagian perut lele. "Kecuali kalau kamu mau mencuri kaleng cat bekas."
+"Di sini nggak ada barang mewah yang perlu dimaling, Mas desainer," sahutku. "Kecuali kalau kamu mau mencuri kaleng cat bekas."
 
-Aji melangkah masuk dengan hati-hati, memperhatikan lantai semen yang penuh cipratan cat kering. "Aku membawa draf pembagian kerja untuk proyek dinas. Cak Qodim bilang, paguyuban memberi kita waktu tiga hari untuk membuktikan prototipe pertama."
+Aji melangkah masuk, menghindari beberapa kuas yang tergeletak di lantai. Matanya berhenti pada lukisan lele di depanku.
 
-"Draf pembagian kerja?" Aku mendengus geli. "Birokratis amat hidupmu."
+"Yang ini kamu kerjakan sendiri?"
 
-"Ini proyek profesional bernilai empat puluh juta, bukan arisan RT," kata Aji sambil mengulurkan map plastiknya. "Kita butuh batasan peran yang jelas. Siapa yang bertanggung jawab atas lukisan, siapa yang memegang produksi kode QRIS, dan bagaimana pembagian anggarannya."
+"Kalau ada orang lain yang mengerjakan, namanya bukan lukisanku."
 
-Belum sempat jemariku menyentuh ujung map itu, desau angin kencang mendadak melesat dari celah pintu besi ruko.
+Ia mendekat sedikit, memperhatikan garis tepi dan perpaduan warnanya. Aku tidak tahu apakah itu pujian atau sedang mencari kesalahan.
 
-Seekor tikus got sebesar kepalan tangan berlari panik melintasi lantai, disusul suara geraman rendah yang sangat kukenal. Seekor kucing liar belang tiga berbulu kusam melompat masuk dari kolong meja, mengejar tikus itu dengan kecepatan penuh.
+"Waktu di warkop, saya lihat contoh gambar yang kamu bawa untuk paguyuban," katanya. "Gaya gambarnya mirip dengan ini. Kamu bisa menjaga bentuk dan warna tetap konsisten?"
 
-"Awas! Kucing!" teriakku panik.
+"Kalau tanganku nggak diganggu orang yang banyak tanya, bisa."
 
-Aji refleks melangkah mundur dua tindak. Langkahnya justru membuat kucing belang itu terkejut, membelokkan arah lompatan tepat ke tengah kain mori basah yang baru selesai kulukis.
+Aji mengangguk kecil. "Itu salah satu alasan saya datang."
+
+Aku meletakkan kuas. "Maksudnya?"
+
+Ia mengangkat map plastik. "Saya sedang memikirkan cara menggabungkan lukisanmu dengan QRIS digital. Cak Qodim bilang kita perlu menunjukkan prototipe awal dalam tiga hari. Saya ingin membahas pembagian kerja sebelum kita membuang waktu mencoba sesuatu yang belum tentu bisa dipakai."
+
+"Dari mana kamu yakin aku mau bekerja sama?"
+
+"Saya belum yakin."
+
+"Bagus. Berarti kita sepakat."
+
+Aji menghela napas, tetapi belum sempat menjawab ketika seekor tikus got berlari melintasi lantai. Seekor kucing belang tiga menyusul dari kolong meja, mengejar tikus itu dengan kecepatan penuh.
+
+"Awas! Kucing!"
+
+Aji refleks mundur dua langkah. Kucing itu terkejut, membelokkan arah, lalu melompat ke tengah kain mori yang baru selesai kulukis.
 
 PLOK! PLOK! PLOK!
 
-Empat tapak kaki kucing mendarat telak di atas perut lele berwarna kuning stabilo, lalu menginjak piring kaleng cat hitam sebelum akhirnya melesat kabur ke arah dapur belakang.
+Empat tapak kakinya mendarat di atas perut lele berwarna kuning. Kucing itu menginjak piring kaleng berisi cat hitam sebelum melesat ke dapur belakang.
 
-"Kucing gila!" jeritku histeris.
+"Kucing gila!"
 
-Tanpa sadar aku berdiri menyentak, mengayunkan tangan kananku yang masih memegang kuas pipih penuh cat basah untuk menghalau arah kabur si kucing. Gerakan mendadak itu membuat ujung kuas meluncur liar di udara.
+Aku berdiri mendadak. Kuas yang masih kupegang ikut terayun ketika berusaha menghalau kucing itu. Ujung bulunya menyapu siku kanan jaket Aji.
 
 SRRRT!
 
-Bulu kuas yang basah oleh pigmen kuning stabilo mendarat mulus di siku kanan jaket kanvas abu-abu milik Aji. Garis tebal berwarna kuning neon tercetak nyata di atas kain kanvas abu-abu itu, sepanjang sepuluh sentimeter dari pangkal siku hingga lengan bawah.
+Garis kuning terang tercetak di kain kanvas abu-abu itu, dari dekat siku sampai lengan bawah.
 
-Keheningan seketika menyergap ruko.
+Kami sama-sama terdiam.
 
-Tikus got sudah menghilang ke selokan belakang. Kucing belang tiga sudah melompati ventilasi kamar mandi. Di tengah ruangan, aku dan Aji mematung kaku.
+Tikus sudah menghilang ke selokan belakang. Kucing belang tiga itu entah ke mana. Di lantai, lukisan lele yang kukerjakan selama dua jam kini dihiasi jejak kaki berwarna hitam dan kuning.
 
-Kupandangi kain mori di lantai. Perut lele yang kulukis susah payah selama dua jam kini dipenuhi jejak kaki kucing berlumur cat hitam dan kuning, persis seperti tapak motif kembang di atas kain batik rusak.
+Aji menunduk menatap lengan jaketnya.
 
-Lalu pandanganku beralih ke siku tangan kanan Aji.
+"Jangan bilang itu cat permanen," katanya.
 
-Wajah pemuda itu memucat pasi. Matanya menatap siku jaketnya sendiri dengan tatapan tidak percaya, persis seperti orang yang melihat jaket kesayangannya baru saja terkena cairan asam.
+Aku buru-buru meraih lap. "Maaf. Sini, tak bersihkan."
 
-"Jaket ini... jaket impor bahan kanvas combed," desis Aji dengan nada bergetar menahan marah.
+"Jangan digosok dulu."
 
-"Maaf, Mas, aku nggak sengaja!" balasku cepat, melempar kuas ke lantai dan meraih lap majun basah. "Sini tak bersihkan pakai tiner!"
+Tanganku berhenti. Aji memeriksa noda itu, lalu melihat kain jaketnya dari dekat.
 
-"Jangan!" Aji menarik tangannya menjauh dengan cepat. "Tiner bakal merusak serat kanvas dan bikin warnanya luntur melebar ke mana-mana!"
+"Kalau langsung digosok, warnanya bisa melebar."
 
-"Ya terus mau dibiarin begitu?" tanyaku dengan perasaan serba salah.
+"Terus harus diapakan?"
 
-Aji memejamkan mata rapat-rapat. Selama sepuluh detik penuh ia hanya berdiri membeku, mengatur napasnya yang memburu di tengah hawa panas Kalimalang.
+"Saya belum tahu. Tapi jangan ditambah masalahnya."
 
-Ketika ia membuka matanya kembali, tatapannya beralih dari noda kuning di sikunya ke lukisan lele di lantai semen yang penuh cap kaki kucing.
+Aku menahan komentar. Untuk sekali ini, dia benar.
 
-"Di dunia komputer," kata Aji pelan dengan suara bergetar dingin, "kalau ada file yang rusak, kita cuma butuh menekan tombol Ctrl+Z untuk membatalkan kesalahan."
+Aji melipat sedikit lengan jaketnya agar noda itu tidak menyentuh bagian lain. Ia kemudian memandang lukisan lele yang rusak.
 
-Ia menatapku lurus-lurus, lalu menatap noda cat stabilo di lengannya yang kini mulai meresap kering ke serat kain.
+"Jadi ini yang kamu kerjakan sejak pagi?"
 
-"Tapi bekerja denganmu," lanjut Aji getir, "adalah masuk ke dunia nyata di mana tidak ada tombol undo, tidak ada tombol batal, dan setiap detik bisa berubah menjadi bencana tanpa peringatan."
+"Sudah dua jam."
+
+"Kalau begitu, saya paham kenapa kamu marah."
+
+Aku meliriknya. Kalimat itu terdengar seperti pengakuan bahwa ia mengerti, meski tidak disampaikan dengan cara yang menyenangkan.
+
+"Tapi kalau kamu datang untuk menawarkan kerja sama, jawabannya tetap belum tentu."
+
+Aji menatap map di tangannya. "Saya tidak datang untuk memaksa. Saya datang karena kemampuanmu mungkin bisa menyelesaikan bagian yang tidak bisa dikerjakan mesin saya."
+
+"Dan kamu pikir aku butuh mesinmu?"
+
+"Untuk urusan QRIS, sepertinya iya."
+
+Aku mendengus. "Percaya diri sekali."
+
+"Kalau kamu punya cara lain yang bisa diuji, saya mau lihat."
+
+Ia meletakkan map di atas meja, tetapi tidak mendorongnya ke arahku.
+
+"Pelajari saja dulu. Kalau tidak cocok, kita tidak perlu lanjut."
+
+Aji berbalik menuju pintu. Sebelum keluar, ia berhenti sebentar untuk melihat noda kuning di sikunya.
+
+"Jaket ini baru saja saya cuci kemarin."
+
+"Ya, maaf."
+
+"Dan sekarang saya punya motif tambahan."
+
+Aku hampir tertawa, tetapi urung ketika melihat lukisan leleku yang rusak.
+
+Setelah Aji pergi, aku mengambil map yang ditinggalkannya. Di halaman pertama ada sketsa spanduk dengan ruang kosong untuk QRIS. Di halaman berikutnya, ia mencatat beberapa kemungkinan ukuran dan bahan transfer.
+
+Aku belum percaya pada idenya. Namun, setidaknya kali ini ia tidak datang hanya untuk mengatakan bahwa mesin lebih baik daripada tanganku.

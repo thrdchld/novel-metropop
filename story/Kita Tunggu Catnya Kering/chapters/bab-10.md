@@ -1,59 +1,95 @@
 ## Bab 10: Stiker
 
-Cairan air dari moncong botol semprotan tanaman warna oranye di tanganku menyembur deras, menghujani permukaan kain mori primisima yang terbentang di lantai semen.
+Kamis sore, Aji datang membawa beberapa lembar bahan yang digulung dalam tabung karton. Ia meletakkannya di meja digital, lalu mengeluarkan satu lembar berwarna putih dari kemasannya.
 
-PFFT! PFFT! PFFT!
+"Ini bahan pertama yang bisa kita coba," katanya.
 
-Butir-butir air dingin berhamburan membasahi kain putih, membasahi lukisan kepala lele yang cat minyaknya sudah mengering sejak kemarin. Di sudut kanan bawah kain, tepat di jendela kosong berukuran dua puluh senti, selembar stiker vinil putih mengilap bertuliskan kode QRIS terpasang rapi.
+Aku mendekat. Permukaannya licin dan sedikit mengilap. Di bagian belakangnya ada kertas pelindung yang bisa dilepas.
 
-Aji berlutut di sebelahku, mengamati permukaan stiker dengan mata awas di balik kacamata.
+"Kelihatannya seperti stiker."
 
-"Hujan di pinggir Kalimalang itu bukan gerimis romantis di film Korea, Mas," kataku sambil terus memompa tuas semprotan. "Kalau sudah masuk musim hujan, anginnya kencang, airnya tumpah dari taleng seng warung tenda seperti ember dibalikkan. Kalau stikermu nggak tahan air semprotan ini, jangan harap lolos kurasi dinas."
+"Memang jenis vinil berperekat. Pemasok bilang bisa dipakai untuk banyak permukaan."
 
-"Tenang saja," sahut Aji penuh percaya diri. "Lem akrilik di balik vinil ini punya daya rekat industri. Begitu menempel di permukaan datar, dia tahan sampai suhu minus sepuluh derajat."
+"Termasuk kain?"
 
-"Masalahnya, kain mori ini bukan permukaan datar," balasku dingin.
+"Katanya bisa. Tapi aku tidak mau langsung percaya sebelum kita coba."
 
-Tepat saat kata-kataku selesai, keajaiban sains Aji mulai runtuh di depan mata.
+Aku mengambil potongan mori dari tumpukan kain uji. "Jangan tempel di kain yang sudah kulukis."
 
-Kain mori primisima yang ditenun dari serat benang kapas murni mulai menyedot air semprotan dengan rakus. Begitu pori-pori kain basah dan mengembang, kelembapan merembes dari bawah lapisan lem. Sudut kanan atas stiker vinil yang tadinya melekat rata mendadak melengkung ke atas, disusul gelembung-gelembung udara yang bermunculan di bagian tengah kode QRIS.
+"Sudah kusiapkan dua potong khusus."
 
-"Tunggu, kenapa menggelembung?" gumam Aji, wajahnya mendadak tegang.
+Aji mengeluarkan penggaris dan pisau potong kecil. Ia mengukur bahan putih itu sesuai ukuran kotak yang kami sepakati sehari sebelumnya. Aku menahan ujung penggaris agar tidak bergeser. Setelah dipotong, ia membersihkan permukaan kain pertama dengan kain kering, memastikan tidak ada debu atau sisa benang yang menempel.
 
-Ia menyambar alat squeegee karet bergagang plastik kuning dari kotak perkakasnya. Dengan gerakan cepat, ia menekan permukaan stiker vinil dari tengah ke arah pinggir, berusaha membuang udara dan air yang terperangkap.
+"Kalau terlalu banyak dibersihkan, seratnya bisa berbulu," kataku.
 
-SREK! SREK!
+"Aku hanya mengangkat debu. Tidak menggosoknya."
 
-Bukannya menempel kembali, tekanan karet squeegee di atas kain basah justru membuat keadaan makin parah. Sudut stiker yang melengkung robek di bagian pinggir. Lapisan vinil yang sudah kehilangan daya rekat bergeser dua milimeter ke kanan. Garis-garis hitam kode QRIS mendadak meliuk terdistorsi.
+Ia melepas sebagian kertas pelindung, lalu menempelkan bahan dari satu sisi. Squeegee kecil digerakkan perlahan dari tengah ke pinggir. Aku memperhatikan permukaannya. Pada bagian tengah, bahan itu tampak rata. Namun di beberapa titik, tekstur tenunan masih terlihat sebagai gelombang kecil di bawah lapisan putih.
 
-"Jangan ditekan terlalu keras!" pekikku.
+Aji mengangkat squeegee. "Untuk sementara kelihatannya menempel."
 
-"Airnya masuk ke sela lem!" Aji balas berteriak panik, tangannya terus menekan squeegee dengan gerakan serampangan. "Kain ini menyerap air terlalu cepat!"
+"Jangan buru-buru puas. Angkat kainnya."
 
-"Ya namanya juga katun asli! Dari kemarin kan sudah kubilang, kain mori itu bernapas!"
+Ia memegang kedua ujung kain dan mengangkatnya dari meja. Begitu kain tidak lagi tertahan permukaan datar, bagian tengah panel tampak sedikit berkerut.
 
-Satu gesekan keras terakhir merobek bagian tengah stiker. Tinta hitam cetakan digital yang terkena gesekan di atas permukaan basah mulai luntur, meninggalkan noda kelabu yang buram di atas kain mori putih bersih.
+Aku mendekatkan wajah. "Itu tadi tidak kelihatan waktu kainnya masih di meja."
 
-Aku menghentikan semprotan air, meletakkan botol oranye itu ke lantai semen yang becek.
+Aji menekan salah satu bagian dengan ujung jari. "Tekstur kain membuat permukaan panel tidak benar-benar rata."
 
-Suasana ruko mendadak sunyi senyap. Hanya suara gemericik air sisa semprotan yang menetes pelan dari tepi kain mori ke lantai.
+"Seratnya juga tidak semuanya berada pada ketinggian yang sama. Ada bagian yang masuk, ada yang menonjol."
 
-Kutarik ponsel jadulku dari saku, menyalakan kamera pemindai, lalu mengarahkannya ke stiker yang terkoyak di lantai. Garis bidik merah berkedip dua kali sebelum layar menampilkan tulisan yang sama seperti hari Sabtu lalu: KODE QR RUSAK ATAU TIDAK DAPAT DIBACA.
+Ia mencoba meratakan kembali bagian tersebut dengan squeegee. Kerutannya berkurang, tetapi tidak hilang. Kami membiarkannya beberapa saat, lalu memeriksa sisi-sisinya. Salah satu sudut mulai terangkat.
 
-Kupatikan layar ponsel, lalu menatap Aji yang masih berlutut membisu di lantai semen.
+"Kalau dibiarkan begini, debu bisa masuk dari pinggir," kataku.
 
-Tangan pemuda itu terkulai di atas lututnya, squeegee karet masih tergenggam lemas di jemarinya yang basah. Baju kemejanya terkena cipratan air di bagian dada. Matanya menatap robekan stiker vinil dengan sorot kekalahan yang begitu telanjang.
+"Dan kalau spanduk digulung atau ditarik saat dipasang, sudutnya mungkin makin terbuka."
 
-"Stiker vinil biasa nggak bakal pernah bisa menyatu dengan kain tenun basah," ucapku pelan, kali ini tanpa nada mengejek. "Lem sintetis cuma mau menempel di permukaan licin kayak kaca, plastik, atau seng mobil. Begitu kena serat benang yang basah, lemnya mati kutu."
+Aji mencatat hasil percobaan pertama. Ia menulis jenis bahan, ukuran panel, kondisi kain, dan bagian yang tidak menempel rata. Aku mengambil potongan itu, lalu membandingkannya dengan sampel kain yang belum ditempeli apa pun.
 
-Aji tidak membantah sepatah kata pun.
+"Jangan langsung menyimpulkan semua bahan transfer tidak bisa dipakai," kataku. "Kita baru mencoba bahan ini."
 
-Perlahan, ia melepaskan squeegee karet dari tangannya. Jemari kanannya meraih ujung stiker vinil yang robek, lalu mengelupasnya pelan-pelan dari kain mori. Bunyi robekan basah terdengar pilu di ruangan sempit itu.
+"Aku tidak menyimpulkan begitu. Ini vinil berperekat biasa. Belum tentu sama dengan bahan yang memang dirancang untuk dipindahkan ke tekstil."
 
-Aji meremas lembaran vinil yang basah dan rusak itu di telapak tangannya, menekannya sekuat tenaga hingga membentuk gumpalan kecil yang padat.
+Ia mengeluarkan lembar kedua dari tabung. Bahan itu memiliki lapisan belakang berbeda, tetapi label kemasannya tidak memberi banyak keterangan. Aji memeriksa tulisan kecil di bagian tepi.
 
-Dengan pandangan kosong menatap lantai semen, ia melempar gumpalan stiker itu ke dalam ember kaleng cat kosong di samping kakiku.
+"Petunjuknya tidak lengkap," katanya. "Tidak ada keterangan jenis kain, suhu penerapan, atau cara perawatannya."
 
-KLTANG!
+"Kalau begitu, jangan dicoba dulu."
 
-Bunyi benturan kaleng itu bergema pendek, menandai bahwa cara termudah yang ia tawarkan baru saja berakhir di tempat sampah.
+"Aku cuma mau melihat spesifikasinya."
+
+"Kalau spesifikasinya tidak jelas, kita tidak tahu apa yang sedang kita uji. Nanti kalau gagal, kita malah tidak tahu penyebabnya."
+
+Aji meletakkan lembar kedua kembali ke tabung. "Benar. Aku akan minta lembar data dari pemasok."
+
+Kami beralih ke sampel pertama. Aji mencoba mengangkat sudut panel yang sudah terlanjur menempel. Lapisan vinil terangkat, tetapi sebagian sisa perekat tertinggal di serat mori.
+
+"Ini bisa mengganggu kalau nanti kita mau melukis ulang bagian tersebut," kataku.
+
+"Berarti sampel ini tidak bisa dipakai lagi."
+
+Aku mengangguk. "Simpan saja untuk catatan. Jangan dicampur dengan kain bersih."
+
+Aji memasukkan potongan itu ke plastik bening dan menempelkan kertas kecil bertuliskan tanggal serta hasil uji. Ia memotret permukaan yang berkerut dan sudut yang terangkat. Aku menambahkan catatan tentang jenis kain yang dipakai, sebab mori yang lebih rapat mungkin memberi hasil berbeda.
+
+"Kalau pemasok bilang bahannya cocok untuk semua jenis kain, kita tetap perlu menguji sendiri," kataku.
+
+"Setuju. Aku akan cari bahan yang memang punya petunjuk penggunaan untuk katun atau tekstil. Setelah itu kita uji lagi dengan ukuran panel yang sama."
+
+Aku menatap dua potongan kain di meja. Satu masih bersih, satu lagi meninggalkan bekas perekat. Belum ada solusi yang bisa dibawa ke Cak Qodim, tetapi setidaknya kami tidak menghabiskan kain yang sudah dilukis hanya untuk membuktikan sesuatu yang seharusnya diuji lebih dulu.
+
+"Untuk sementara, aku lanjutkan ilustrasi," kataku. "Bagian kotak QRIS tetap kita kosongkan."
+
+Aji mengangguk. "Aku cari bahan yang tepat. Kalau sudah ada, kita cocokkan lagi ukuran dan cara memasangnya."
+
+"Jangan bilang ini salah kain."
+
+"Kalau begitu jangan bilang ini salah mesin."
+
+Aku menahan senyum. "Aku belum menyalahkan mesinmu."
+
+"Belum."
+
+Ia membereskan squeegee dan penggaris, lalu menyimpan tabung bahan di bawah meja. Aku mengambil kain bersih dan menaruhnya di rak khusus prototipe. Garis lakban hitam di lantai masih membatasi dua area kerja kami, tetapi sore itu kami berdiri di sisi yang sama untuk memeriksa satu potongan kain.
+
+Bahan pertama gagal. Tidak ada alasan untuk berpura-pura sebaliknya. Namun kegagalan itu memberi kami satu hal yang bisa dipakai untuk langkah berikutnya: kami tahu bahan seperti apa yang tidak boleh dibeli dalam jumlah banyak.

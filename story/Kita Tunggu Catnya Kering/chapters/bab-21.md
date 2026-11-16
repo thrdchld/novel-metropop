@@ -1,49 +1,93 @@
 ## Bab 21: Tes Scan
 
-"Buka gerbangnya sekarang juga!"
+Keesokan paginya, pukul sembilan pagi, dua mobil minibus berhenti di depan ruko. Empat staf dinas turun membawa map dan tablet. Pak Haris datang bersama mereka, tetapi ia berjalan di belakang salah satu staf dan tidak mengenakan atribut yang membuatnya tampak seperti pejabat.
 
-Suara pintu sedan dinas yang terbanting keras memecah keheningan pagi di pinggir Kalimalang. Pak Haris melangkah keluar dengan sepatu kulit hitam bersemir mengilat, disusul empat staf muda berseragam dinas cokelat khaki yang menenteng map jepit dan papan jalan akrilik. Kacamata berbingkai emas Pak Haris bertengger angkuh di batang hidungnya, menatap kami bertiga yang masih berlumuran debu semen dan noda cat hitam di pelataran ruko.
+Aji menyambut rombongan di depan meja kerja.
 
-Di belakangku, Aji berdiri tegak sambil menyilangkan kedua tangannya di dada. Bang Parlin tetap memegang kunci pas ukuran sembilan belas, sementara Cak Qodim yang baru saja tiba menuntun sepeda ontelnya menepi di dekat wajan martabak.
+“Selamat pagi. Kami sudah siapkan prototipe, daftar produksi, dan catatan pemeriksaan.”
 
-"Jadwal resmi verifikasi teknis tercatat pukul sembilan pagi, Pak Haris," kata Aji tenang, suaranya mantap tanpa nada gentar. "Anda datang dua jam lebih awal dari undangan resmi yang Anda tanda tangani sendiri."
+Seorang perempuan berkemeja dinas memperkenalkan diri sebagai anggota tim verifikasi teknis. Ia menjelaskan bahwa kunjungan pagi itu untuk melihat proses produksi dan memeriksa kecocokan data. Pemeriksaan akhir baru dilakukan setelah seluruh spanduk selesai.
 
-Pak Haris mendengus pendek sambil melambaikan tangan kanannya dengan gerakan meremehkan. "Dinas tidak bekerja menurut kenyamanan pedagang kaki lima, Aji. Kami punya agenda peresmian lapangan siang ini. Kalau barang belum siap, tanda tangani surat pembatalan sekarang biar kuota lima puluh tenda dialihkan ke Percetakan Mitra Graha."
+“Jadi hari ini belum ada penilaian hasil serah terima,” katanya. “Kami ingin memastikan prosesnya berjalan sesuai rencana.”
 
-"Siapa bilang barang kami belum siap?" potongku dingin sambil melangkah maju ke garis batas ruko.
+Aku menarik tali yang terpasang di ujung kain prototipe. Ilustrasi lele dan panel QRIS terlihat jelas. Di sampingnya, Aji sudah menyiapkan beberapa kain yang mewakili tahap berbeda: satu baru selesai dilukis, satu menunggu pemasangan panel, dan satu lagi sudah melewati pemeriksaan.
 
-Aku menarik seutas tali tambang di dekat kusen pintu. Seketika itu juga, lima puluh lembar kain mori primisima yang tergantung berjajar di bawah kanopi pelataran tersibak rapi tertiup semilir angin pagi. Warna jingga dan hijau stabilo berpendar garang di bawah sinar matahari Cawang, menampilkan sosok lele Lamongan, bebek goreng, dan burung dara bakar dengan garis lukisan tangan yang gagah. Di sudut kanan bawah setiap kain, panel persegi sablon berukuran dua puluh sentimeter memuat matriks kode QRIS hitam legam yang berdiri kontras di atas serat putih katun.
+Petugas meminta daftar lima puluh merchant. Aji menyerahkan map berisi salinan file QRIS dan nomor kain yang direncanakan untuk masing-masing pedagang.
 
-Mata Pak Haris menyipit tajam. Wajah congkaknya sempat menegang sesaat melihat deretan kain yang berkibar kokoh tanpa ada satu pun yang melengkung rusak.
+“Setiap warung memakai QRIS miliknya sendiri,” jelasnya. “Kami tidak membuat atau mengubah kode. File berasal dari pemilik merchant, lalu kami pasangkan dengan nomor kain sesuai daftar paguyuban.”
 
-"Visual cat kuas memang tampak mencolok," ucap Pak Haris dengan senyum sinis yang dipaksakan. "Tapi dinas tidak menilai keindahan gambar hewan. Syarat utama pencairan proyek adalah keterbacaan data digital. Periksa semuanya sekarang!"
+“Bagaimana memastikan kode tidak tertukar?”
 
-Empat staf muda dinas langsung bergerak maju membawa berbagai jenis telepon pintar keluaran terbaru. Mereka berdiri berjarak satu setengah meter di depan rentangan kain mori, mengarahkan lensa kamera ke sudut panel sablon damar.
+Aji membuka lembar pencatatan. “Sebelum dicetak, nama file kami cocokkan dengan nama pemilik dan nomor pesanannya. Setelah panel terpasang, kami pindai lagi untuk melihat nama merchant yang muncul. Pemilik warung juga diminta memeriksa datanya.”
 
-BEEP! BEEP! BEEP!
+Petugas mengambil ponsel dan memindai kode pada prototipe. Beberapa detik kemudian, nama merchant muncul di layar.
 
-Bunyi notifikasi aplikasi perbankan digital bersahut-sahutan di udara pagi. Hanya dalam hitungan detik, layar ponsel para petugas menampilkan logo resmi Bank Indonesia dan nama rekening paguyuban: Paguyuban Tenda Malam Kalimalang Sejahtera.
+“Ini baru memastikan kode terbaca dan identitas yang tampil sesuai,” katanya. “Belum membuktikan transaksi berhasil.”
 
-Kain pertama lolos. Kain kedua belas terbaca instan. Kain ketiga puluh delapan terpindai mulus tanpa jeda nol koma lima detik.
+“Betul,” jawab Aji. “Pengujian pembayaran dilakukan oleh pemilik merchant masing-masing. Kami tidak akan memproses transaksi uji tanpa persetujuan mereka.”
 
-Keringat dingin mulai tampak membasahi pelipis Pak Haris di balik kacamata emasnya. Ia melangkah gusar menghampiri kain nomor lima puluh, lembar terakhir yang dua jam lalu kami keringkan memakai blower knalpot kompresor Bang Parlin.
+Aku mengangguk. Penjelasan itu sudah kami sepakati sejak awal. Kode yang bisa dipindai belum tentu cukup jika nama pemiliknya keliru.
 
-"Ponsel kantor punya sensor pemindai berspesifikasi tinggi," sergah Pak Haris ketus sambil merebut ponsel dari tangan bawahannya. "Bagaimana kalau pembelinya orang kampung yang cuma pakai ponsel murah dengan kamera buram?"
+Petugas lain memeriksa bahan, rak pengering, catatan waktu, dan pembagian tugas. Ia berhenti di depan tiga kain dengan label berbeda.
 
-"Coba pakai HP saya kalau memang pejabat kurang kerjaan!"
+“Yang ini kenapa belum masuk kelompok siap?”
 
-Suara lantang Mbak Pur memecah ketegangan. Pemilik warkop itu berjalan melenggang dari seberang gang sambil mengacungkan sebuah ponsel berlayar retak seribu dengan casing silikon yang sudah menguning.
+“Catnya belum cukup kering,” jawabku sambil menunjuk kain pertama. “Yang kedua menunggu panel. Yang ketiga perlu perbaikan pada garis gambar.”
 
-"Kamera HP saya cuma delapan megapiksel, layarnya pecah kena jatuhan ulekan cabai," tambah Mbak Pur sambil menyodorkan ponselnya ke depan wajah Pak Haris. "Kalau sampai HP saya gagal bayar lele Cak Qodim, baru Anda boleh ngoceh soal standar mutu!"
+“Berarti tidak langsung diteruskan begitu satu tahap selesai?”
 
-Warga gang dan para sopir ojek pangkalan yang berkerumun mulai terkekeh geli. Pak Haris terpojok oleh tatapan puluhan pasang mata pedagang pasar. Dengan tangan yang sedikit gemetar menahan malu, ia menyalakan aplikasi dompet digital di ponsel butut milik Mbak Pur, lalu mengarahkannya ke kode QRIS di kain nomor lima puluh.
+“Tidak. Kalau dipaksakan, kami bisa merusak bagian yang sudah dikerjakan.”
 
-Semua orang menahan napas. Suasana pelataran mendadak hening tanpa suara desah angin sekalipun.
+Petugas mencatat jawaban itu. Ia lalu meminta melihat contoh bahan transfer yang pernah gagal. Aji menunjukkan sampel awal yang sudutnya terangkat setelah kain dilipat, lengkap dengan catatan percobaan dan alasan bahan itu tidak dipakai.
 
-Satu detik. Dua detik.
+Pak Haris mengambil sampel tersebut dan memeriksanya sekilas.
 
-BEEP!
+“Kalau bahan pertama gagal, apa jaminannya bahan yang sekarang tidak akan mengalami masalah yang sama?”
 
-Layar retak seribu itu seketika memunculkan tanda centang hijau besar bertuliskan transaksi siap diproses.
+Aji tidak buru-buru menjawab. Ia mengambil lembar hasil uji bahan yang dipilih, lalu menunjukkan catatan pemeriksaan setelah proses penerapan.
 
-Sorak sorai membahana dari mulut Bang Parlin, Mbak Pur, dan Cak Qodim. Aji menoleh ke arahku, lalu tersenyum tipis dengan binar mata yang mengunci tatapanku dalam-dalam di bawah naungan kain mori yang berkibar.
+“Kami tidak bisa menjamin tidak akan ada cacat sama sekali. Itu sebabnya setiap panel diperiksa setelah dipasang. Kalau ada bagian terangkat atau kode tidak terbaca, kainnya kami pisahkan dan perbaiki sebelum diserahkan.”
+
+“Lima puluh lembar bukan jumlah kecil,” kata Haris.
+
+“Karena itu kami tidak mengandalkan satu prototipe untuk menyatakan semuanya berhasil,” jawab Aji. “Setiap kain punya nomor dan catatan sendiri.”
+
+Aku melihat Haris mengembalikan sampel ke meja. Ia tidak tampak puas, tetapi kali ini ia tidak punya alasan untuk mengubah pertanyaan menjadi ancaman pembatalan proyek.
+
+Salah satu staf meminta kami menunjukkan bagaimana data merchant disimpan. Aji membuka map terpisah yang berisi daftar nama warung, nomor kain, dan tanda konfirmasi. Ia menjelaskan bahwa file asli tidak diedit. Jika ada perbedaan antara nama yang dikenal pedagang dan nama yang tercatat pada aplikasi pembayaran, kami meminta pemiliknya memeriksa lebih dulu.
+
+“Jangan sampai kalian mengganti nama berdasarkan papan warung saja,” kata petugas.
+
+“Kami pernah menemukan nama usaha yang berbeda dengan nama merchant,” jawab Aji. “Kami tahan pemasangannya sampai pemilik mengonfirmasi.”
+
+Aku mengambil catatan Bu Siti dari map. “Konfirmasinya kami simpan di sini.”
+
+Petugas memeriksa catatan itu, lalu mengembalikannya. Ia juga meminta melihat proses pemindaian menggunakan ponsel lain. Kali ini Cak Qodim yang baru tiba mengeluarkan telepon dari saku kemejanya.
+
+“Pakai punya saya saja. Jangan sampai nanti dibilang cuma bisa dibaca ponsel orang kantor.”
+
+Petugas tersenyum tipis dan memindai kode yang sama. Nama merchant kembali muncul sesuai data.
+
+“Baik. Untuk hari ini cukup,” katanya. “Kami mencatat keterbacaan kode dan kecocokan data pada sampel yang diperiksa. Semua unit tetap harus diperiksa lagi saat pemeriksaan akhir.”
+
+Cak Qodim mengangguk. “Kami juga akan minta pemilik warung mengecek QRIS masing-masing sebelum dipasang.”
+
+“Bagus. Jangan ada pembayaran uji tanpa persetujuan pemilik merchant,” petugas mengingatkan.
+
+Aku melihat daftar di tangan Aji. Empat puluh kain sudah melewati pemeriksaan visual, tetapi beberapa masih menunggu tahap lain. Sepuluh sisanya belum selesai. Kunjungan itu membuat pekerjaan kami terasa lebih nyata, bukan karena ada orang dinas yang datang, melainkan karena semua catatan yang kami buat harus bisa dijelaskan.
+
+Sebelum rombongan pulang, salah satu staf meminta salinan catatan produksi untuk laporan tim. Aji menyerahkannya bersama daftar bahan dan contoh hasil uji. Tidak ada berita acara penerimaan yang ditandatangani hari itu. Jadwal pemeriksaan akhir tetap menunggu seluruh lima puluh spanduk selesai.
+
+Setelah mobil mereka pergi, Aji menutup map dan merapikan lembar yang tadi dibuka.
+
+“Setidaknya sekarang mereka tahu kita tidak sedang menebak-nebak,” katanya.
+
+Aku menggulung kain prototipe. “Mereka juga tahu kita belum selesai.”
+
+“Memang belum.”
+
+Pak Haris sempat menoleh sebelum masuk mobil. Tatapannya berhenti sebentar pada deretan kain di rak, lalu ia pergi tanpa mengatakan apa-apa.
+
+Cak Qodim menepuk bahu Aji. “Lanjutkan saja. Kalau ada yang belum beres, jangan disembunyikan.”
+
+Aku kembali ke meja dan mengambil kuas. Kunjungan itu tidak membuat tenggat mundur atau pekerjaan berkurang. Namun, setidaknya sekarang kami tahu hal-hal apa yang akan diperiksa lagi. Lima puluh spanduk itu harus selesai bukan hanya terlihat bagus, tetapi juga benar-benar cocok dengan pemiliknya.

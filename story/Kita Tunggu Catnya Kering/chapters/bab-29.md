@@ -1,35 +1,65 @@
 ## Bab 29: Gotong Royong
 
-Bang Parlin memanjat kerangka besi tenda setinggi tiga meter, mengikatkan simpul tali tambang tampar dengan kedua tangannya yang legam penuh oli.
+Bang Parlin berdiri di atas tangga lipat, mengikat simpul tali tambang pada kerangka besi tenda. Di bawahnya, beberapa pemuda paguyuban menahan kaki rangka agar tidak bergeser.
 
-Dentingan palu besi yang memukul pasak tenda bersahut-sahutan di sepanjang jalan protokol Cawang yang siang ini ditutup untuk kendaraan umum. Di bawah terik matahari yang mulai menyengat aspal, pemandangan luar biasa terhampar di depan mata kami. Lebih dari lima puluh pedagang tenda malam berkumpul bersama, saling bantu mendirikan tiang pipa besi, membentangkan terpal atap, dan menyusun meja makan kayu panjang.
+Menjelang siang, kawasan festival kuliner di Cawang mulai ramai oleh orang-orang yang menyiapkan tempat. Para pedagang mendirikan tenda, membentangkan terpal, menyusun meja, dan menata peralatan masak. Tidak ada yang bekerja sendirian. Pedagang soto membantu pemilik warung pecel lele, sementara anak-anak muda mengangkut bangku dan gulungan kain.
 
-Tidak ada sekat antar-pedagang soto, pecel lele, bebek goreng, maupun tahu campur. Semua orang bekerja dalam ritme gerak yang serentak dan penuh semangat. Di trotoar seberang, para istri pedagang mulai menyiapkan cobek sambal raksasa, mengiris kol segar, dan menyusun piring-piring kaleng di atas gerobak.
+Enam puluh spanduk mori dibawa dari ruko dengan dua mobil bak terbuka. Lima puluh spanduk utama yang semula dijadwalkan dikirim pada Senin tetap disimpan di ruko setelah jadwal pemasangan berubah. Sepuluh spanduk VIP yang baru selesai juga sudah diberi label. Sebelum berangkat, kami mencocokkan nomor pada setiap gulungan dengan daftar warung. Kain-kain itu disusun berlapis dan diikat agar tidak bergeser selama perjalanan.
 
-"Tarik ujung kain sebelah kiri sedikit lagi, Bang Parlin!" teriak Aji dari bawah trotoar.
+"Kelompok satu, pasang dari ujung sana!" seru Cak Qodim. "Jangan buka semua gulungan sekaligus. Nanti kainnya kena debu."
 
-Pemuda itu memegang sudut bawah kain spanduk mori nomor dua puluh satu, memastikan permukaan kain katun itu meregang kencang tanpa kerutan sedikit pun. Jaket kanvas abu-abunya yang masih bernoda kuning stabilo di siku kanan sudah digulung sampai ke lengan atas, memperlihatkan otot tangannya yang memerah terbakar terik matahari kota.
+Aji duduk di meja panitia dengan tangan kanan masih dibalut. Di depannya terbuka daftar pemasangan pada ponsel dan beberapa lembar catatan. Ia memeriksa nomor spanduk, nama warung, serta kode QRIS yang harus dipasang di lokasi yang tepat. Bang Parlin dan para pemuda mengurus tali serta rangka. Aku berjalan dari satu tenda ke tenda lain untuk memastikan lukisan tidak terlipat dan sisi kain terpasang dengan benar.
 
-"Beres, Mas Aji!" sahut Bang Parlin sambil mengencangkan simpul mati pada besi palang atas. "Kain ini sudah tegak kayak bendera upacara!"
+"Nomor dua puluh satu sudah?" tanyaku.
 
-Satu per satu, enam puluh lembar spanduk hibrida mulai membentang gagah di sepanjang jalan festival. Sapuan warna hijau dan oranye stabilo hasil lukisan tanganku memantulkan cahaya matahari siang dengan ketajaman yang mencolok, membedakannya secara mutlak dari spanduk vinil pabrik yang kusam dan kaku. Di sudut kanan bawah setiap tenda, panel sablon damar hitam berisi kode QRIS terpampang presisi pada ketinggian yang pas untuk dijangkau tangan pembeli.
+"Sudah, Win. Tapi panel QRIS-nya agak miring," jawab Bang Parlin.
 
-Aji berjalan menyusuri trotoar sambil memegang ponselnya, menguji sudut pantulan cahaya matahari pada panel kode pembayaran. Dari jarak dua meter, sensor kameranya langsung berbunyi bip jernih, menandakan seluruh panel siap melayani transaksi ribuan pengunjung festival.
+Aji melihat foto yang dikirim. "Putar sedikit ke kiri. Jangan tarik bagian panelnya, nanti kainnya berkerut."
 
-Pak Lik Harto duduk di kursi roda di bawah bayangan pohon angsana di pinggir trotoar. Tangannya yang keriput perlahan menyentuh lukisan kepala lele di kain tenda Cak Qodim yang tergantung di depannya.
+Bang Parlin mengendurkan tali, lalu menggeser posisi kain sesuai arahan. Aku menahan bagian bawahnya sampai permukaan kembali rata. Pekerjaan sederhana seperti itu ternyata bisa memakan waktu jika dilakukan terburu-buru. Satu tarikan yang salah bisa membuat kain miring atau panel pembayaran terlipat.
 
-"Mitos lele Lamongan itu bukan soal takut sama kutukan ikan," kata Pak Lik Harto pelan saat Cak Qodim berdiri di samping kursi rodanya. "Mitos itu tentang sumpah perantau untuk tidak pernah mengkhianati tanah asal dan selalu menjaga saudara di perantauan."
+Kami memasang spanduk satu per satu. Untuk setiap warung, Aji mencocokkan kode dengan nama merchant pada daftar. Kode milik warung Cak Qodim tidak boleh tertukar dengan milik warung Bang Samin. Setelah terpasang, pemilik warung diminta memindai kodenya sendiri untuk memastikan nama merchant yang muncul sesuai. Beberapa orang melakukannya dengan ponsel masing-masing, sementara yang lain meminta bantuan anak mereka.
 
-Cak Qodim mengusap kumis tebalnya, lalu mengangguk takzim menatap lukisan lele yang kumisnya melengkung gagah ke atas. "Benar, Lik Harto. Dari lele ini kita makan, dari tenda ini anak-anak kita bisa sekolah. Hari ini martabat perantau Lamongan berdiri tegak di tengah kota."
+"Kalau nama yang muncul beda, jangan langsung panik," kata Aji dari meja panitia. "Jangan dipakai dulu. Cocokkan dengan data merchant yang terdaftar, baru kita periksa file-nya."
 
-Aku tersenyum menatap dua sesepuh itu, merasakan kehangatan yang menjalar di dada. Perjalanan panjang dari ruko semen Kalimalang yang sempit, perang dingin lakban hitam, hingga malam badai talang yang mencekam, seolah terbayar lunas saat melihat deretan tenda ini berkibar megah di bawah langit biru ibu kota.
+Seorang pedagang menghampiri meja Aji karena nama usahanya masih tercantum dengan nama lama. Aji memeriksa data yang kami terima dari panitia, lalu meminta pedagang itu memastikan nama merchant yang terdaftar pada layanan pembayarannya. Ternyata nama yang muncul memang nama pemilik, bukan nama warung. Aji menjelaskan bahwa kode tersebut tetap milik pedagang yang sama. Setelah pedagang itu mengangguk, ia memberi tanda pada daftar.
 
-"Wiwin!" panggil Aji sambil melangkah mendekatiku, menyodorkan sebotol air mineral dingin. "Coba lihat ke seberang jalan."
+Menjelang pukul dua siang, sebagian besar spanduk sudah membentang di sepanjang area festival. Warna hijau dan jingga hasil lukisanku terlihat jelas di bawah cahaya matahari. Panel QRIS hitam berada di sisi kanan bawah, cukup mudah dijangkau tanpa harus menarik kain. Aku mundur beberapa langkah untuk melihat susunannya. Ada lukisan yang tampak sedikit lebih tinggi karena posisi rangka tenda berbeda-beda, tetapi semuanya masih terlihat dari jalur pengunjung.
 
-Aku menoleh mengikuti arah pandangannya. Di seberang trotoar, sebuah sedan hitam berpelat merah berhenti pelan di samping pos polisi. Dari balik kaca jendela mobil yang diturunkan separuh, wajah Pak Haris tampak memandang ke arah deretan tenda kami.
+Cak Qodim bergerak dari satu tenda ke tenda lain, memastikan nomor yang terpasang sesuai dengan daftar paguyuban. Para pedagang ikut memeriksa nama merchant di ponsel masing-masing. Ada yang meminta Aji mengulang penjelasan karena layar ponselnya terlalu redup, ada pula yang baru sadar nama usaha mereka masih memakai nama lama.
 
-Raut wajah sang kepala seksi tampak tegang dan kaku. Ia menatap deretan enam puluh spanduk mori yang berdiri rapi tanpa cela sebelum jam dua siang, jauh mendahului tenggat resmi yang ia tetapkan untuk menjebak kami. Tanpa turun dari mobil, Pak Haris menaikkan kembali kaca jendelanya dan sedan dinas itu langsung meluncur pergi meninggalkan arena festival.
+Aku ikut memeriksa bagian kain yang terlipat saat dibawa. Jika ada bekas lipatan, kami merapikannya sebelum pengunjung masuk. Bang Parlin mengingatkan para pemuda agar tidak menarik kain dari panel QRIS ketika mengencangkan tali. Sesekali ia turun dari tangga untuk membantu memindahkan meja atau mengambil gulungan berikutnya.
 
-Aji tersenyum tipis, lalu menoleh menatapku dengan binar mata yang jernih.
+Pekerjaan itu membuat kami bergerak lebih lambat, tetapi tidak ada yang mengeluh. Setiap orang tahu bagian yang harus dikerjakan. Anak-anak muda memasang rangka, pedagang memastikan lokasi dan nomor warung, Bang Parlin mengawasi ikatan, sementara aku dan Aji memeriksa hasil dari sisi yang berbeda. Untuk pertama kalinya, enam puluh spanduk itu bukan lagi sekadar tumpukan kain di ruko, melainkan bagian dari tempat usaha yang sebentar lagi akan dipenuhi pembeli.
 
-Di jalanan kota yang sering kali terasa dingin dan kejam ini, solidaritas orang kecil tidak pernah diukur dari seberapa tebal lembaran uang di dompet, melainkan dari kesediaan untuk saling menopang pundak saat badai menuntut pembuktian harga diri.
+Pak Lik Harto duduk di kursi dekat tenda utama. Ia tampak lelah setelah malam tanpa tidur, jadi aku sudah menyiapkan air minum dan memintanya tidak ikut mengangkat apa pun. Meski begitu, matanya masih mengikuti orang-orang yang memasang spanduk. Ia sempat memperhatikan lukisan kepala lele di tenda Cak Qodim.
+
+"Matanya jangan terlalu dekat dengan kumis," komentarnya.
+
+"Sudah telanjur kering, Lik," jawabku.
+
+"Ya sudah. Lain kali saja."
+
+Cak Qodim tertawa. "Kalau semua lukisan diperiksa Pak Lik, festivalnya bisa buka minggu depan."
+
+Aku sedang merapikan ujung kain ketika Aji memanggil dari meja panitia.
+
+"Wiwin, lihat siapa yang datang."
+
+Sebuah mobil hitam berhenti di seberang jalan. Pak Haris turun bersama seorang staf panitia. Ia bukan petugas dinas yang berwenang menerima pekerjaan, tetapi selama ini menjadi konsultan penyedia materi promosi dan pernah bekerja sama dengan panitia.
+
+Haris memperhatikan deretan spanduk, lalu mendekati meja tempat daftar pemasangan disimpan.
+
+"Sudah selesai semua?" tanyanya.
+
+"Pemasangan hampir selesai. Tinggal beberapa tenda yang perlu dirapikan," jawab Aji.
+
+Haris melihat tangan Aji yang dibalut. "Dengan kondisi begitu, kamu tetap turun?"
+
+"Aku mengurus daftar dan pemeriksaan. Pemasangan dibantu paguyuban."
+
+Haris mengambil satu lembar daftar, membaca beberapa baris, lalu mengembalikannya. Ia tidak menemukan alasan untuk memperdebatkan pekerjaan yang sedang berlangsung. Staf panitia mengajaknya menuju tenda utama untuk membahas persiapan acara.
+
+Aku memperhatikan mereka pergi. Tidak ada ancaman atau pertengkaran. Haris hanya datang melihat hasil yang selama ini ia ragukan. Kali ini, pekerjaan kami berdiri di tempat terbuka, bisa diperiksa oleh para pedagang dan panitia sendiri.
+
+Aji kembali menunduk ke layar ponselnya. Masih ada beberapa nomor yang harus dicentang sebelum semua spanduk dinyatakan terpasang. Aku menarik ujung kain terakhir agar jatuh lurus, lalu mundur untuk memeriksanya sekali lagi. Malam nanti, orang-orang akan datang membawa uang, ponsel, dan daftar makanan. Semoga semua yang kami siapkan bisa bekerja sebagaimana mestinya.

@@ -1,55 +1,115 @@
 ## Bab 14: Uji Coba
 
-Bilah karet rakel sablon berdecit keras saat ditekan miring empat puluh lima derajat di atas kain kasa saring monofilamen.
+Pukul empat sore, meja kerja ruko dipenuhi potongan kain, penggaris, dan selembar bahan transfer yang akhirnya dipilih Aji setelah beberapa hari mencari pemasok. Di dekat laptopnya tergeletak mesin pres termal pinjaman. Ukurannya tidak terlalu besar, tetapi cukup membuat meja kerja terasa sesak.
 
-SREK! SREK!
+"Ini yang paling mendekati spesifikasi kain kita," kata Aji sambil menunjukkan lembar bahan itu. "Pemasoknya juga memberi petunjuk suhu dan waktu penerapan. Tapi tetap harus diuji. Saya tidak mau menjanjikan hasil sebelum kita lihat sendiri."
 
-Suara gesekan bilah karet di atas permukaan kain kasa sutra nomor seratus dua puluh T berpadu dengan desah napas kami berdua. Pukul empat sore di pelataran ruko, angin Kalimalang berembus sejuk membawa bayang-bayang senja yang mulai temaram. Di atas meja sablon kayu darurat, bentangan kain mori primisima yang sudah dihiasi lukisan manual kepala lele dan huruf oranye stabilo terpasang kencang dengan empat penjepit besi di setiap sudutnya.
+Aku memeriksa permukaannya. "Kalau gagal, kita masih punya bahan lain?"
 
-Aji memegangi bingkai kayu presisi agar tidak bergeser satu milimeter pun. Kedua telapak tangannya menekan sisi kiri dan kanan plat saring, menahan getaran lantai ruko akibat deru truk yang melintas di jalan raya.
+"Ada satu alternatif, tapi harganya lebih mahal. Kita coba yang ini dulu."
 
-"Tarik dengan tekanan konstan, Win," bisik Aji tanpa mengalihkan pandangannya dari kain kasa. "Jangan berhenti di tengah jalan, nanti tintanya mengendap tebal di satu titik."
+Di layar laptop terbuka file QRIS milik salah satu pedagang yang sudah memberi izin untuk pengujian. Aji memastikan file itu berasal dari sumber resmi merchant. Ia tidak menggambar ulang atau mengubah bentuk kode. Ukuran cetak dan ruang kosong di sekelilingnya diperiksa sebelum dikirim ke printer.
 
-"Tahu, nggak usah bawel!" sahutku sambil menggenggam balok kayu rakel dengan kedua belah tangan.
+Aku menyelesaikan ilustrasi lele di bagian tengah kain mori. Kotak kosong di sudut kanan bawah sengaja kubiarkan tanpa cat.
 
-Kutuangkan adonan pasta damar hitam pekat dari piring blirik ke sepanjang bibir atas saringan. Dengan satu tarikan napas panjang, kutarik bilah karet miring itu ke bawah. Tekanan tanganku meluncur mulus, menyapu pasta damar melewati celah mikro kasa yang membentuk modul-modul piksel kode QRIS.
+"Jarak gambar ke kotak ini sudah cukup?" tanyaku.
 
-Pasta hitam berkilau itu tertekan masuk ke pori-pori kain mori dengan suara mendesing padat. Di samping pagar bengkel, Bang Parlin yang sedang memegang kunci pas bahkan ikut menghentikan pekerjaannya, melongok penasaran ke arah meja kami.
+Aji mengukur ulang dengan penggaris. "Cukup. Area kode dan ruang kosong di sekelilingnya tidak boleh tertutup cat atau ornamen."
 
-"Sekarang angkat bingkainya lurus ke atas," instruksi Aji cepat. "Satu, dua, tiga!"
+"Kalau terlalu jauh, gambarnya jadi kelihatan sendirian."
 
-Secara serentak, kami berdua mengangkat bingkai kayu sablon itu menjauh dari permukaan kain.
+"Kalau terlalu dekat, nanti justru mengganggu kode."
 
-Kedua mataku langsung terpaku ke pojok kanan bawah bentangan kain mori.
+Aku menggeser sedikit ujung ekor lele. "Begini?"
 
-Di sanalah sebuah keajaiban kecil terjadi.
+Aji memeriksa sekali lagi. "Nah, itu lebih pas."
 
-Kode QRIS berukuran dua puluh kali dua puluh sentimeter tercetak hitam legam, pekat, dan luar biasa tajam di atas permukaan katun putih. Tiga kotak jangkar di sudutnya berdiri tegak lurus tanpa distorsi. Tidak ada garis yang melengkung, tidak ada rembesan nol koma empat milimeter yang mengotori sela benang putih. Lapisan getah damar mata kucing mengunci pigmen karbon tepat di pori-pori benang, membentuk permukaan semi-kaca yang rata dan mengilap.
+Ia mencetak QRIS pada bahan transfer, lalu memeriksa hasilnya sebelum dipindahkan ke kain. Aku ikut mengamati pola hitam dan putihnya. Tidak ada bagian yang tampak pecah atau terpotong. Aji membandingkan hasil cetak dengan file di layar, memastikan bentuk dan susunannya tetap sama.
 
-"Garis tepinya tajam sempurna," gumam Aji dengan napas tertahan. Ia mendekatkan wajahnya hingga lima sentimeter dari permukaan cat basah. "Formula damar Pak Lik benar-benar menghentikan rembesan kapilaritas."
+"Jangan sampai kita terlalu sibuk membuat gambar bagus, lalu kode yang dibutuhkan pedagang malah berubah," kataku.
 
-"Jangan senang dulu," potongku cepat, meski dadaku sudah berdebar kencang oleh rasa haru. "Ujian aslinya ada di mata sensor digital, bukan di mata kita."
+"Itu sebabnya file sumbernya tidak kita utak-atik."
 
-Kurogoh ponsel jadulku dari saku celana. Dengan jari yang sedikit gemetar, kunyalakan aplikasi perbankan dan kuarahkan kamera ke kode QRIS yang baru saja kami cetak.
+Kami tidak langsung menerapkannya pada kain utama. Aji memotong sebagian bahan mori untuk dijadikan sampel. Ia menempatkan panel transfer pada posisi yang sudah diukur, kemudian mengikuti petunjuk penggunaan mesin pres dari pemasok. Aku membantu menjaga kain tetap rata, sementara Aji mengatur tekanan dan waktu.
 
-Jarak lima puluh senti. Belum sempat aku memposisikan kotak bidik hijau secara sempurna di layar, ponsel di genggamanku bergetar keras.
+Mesin bekerja beberapa saat. Setelah selesai, ia mematikan alat dan menunggu panel cukup dingin sebelum melepas lapisan pelindung. Aku berdiri di sampingnya, memperhatikan setiap gerakan.
 
-BIP!
+"Sudah boleh diangkat?" tanyaku.
 
-Bunyi nada konfirmasi bernada tinggi melengking nyaring membelah pelataran ruko. Layar ponsel seketika memunculkan tanda centang hijau besar, disusul rincian transaksi resmi: PAGUYUBAN TENDA LAMONGAN BERSATU, REKENING MERCHANT TERVERIFIKASI.
+"Sebentar. Kita ikuti petunjuknya, jangan buru-buru."
 
-"Nol koma dua detik," desis Aji takjub, matanya terbelalak menatap layarku. "Sensor membacanya dalam nol koma dua detik!"
+Aji memeriksa suhu permukaan sebelum mengangkat lapisan itu perlahan. Panel menempel rata. Tidak ada sudut yang terangkat, dan garis-garis hitamnya terlihat jelas.
 
-"Berhasil!" jeritku lepas tanpa bisa ditahan lagi.
+Aku mendekat. "Kelihatannya rapi."
 
-Spontan aku melompat girang, menepuk pundak Aji dengan tangan kiriku sampai pemuda itu terhuyung dua langkah. Aji yang biasanya kaku dan jaim mendadak tertawa lepas, mengangkat kedua tangannya ke udara sambil memutar rakel sablon seperti trofi kebanggaan.
+"Kelihatannya," ulang Aji. "Belum tentu cukup."
 
-"Berhasil, Win! Metode sablon damar ini benar-benar bekerja!" kata Aji dengan wajah berseri-seri.
+"Memang harus selalu ada catatan kaki setelah kamu bicara?"
 
-Tawa renyah kami memenuhi pelataran ruko, merayakan kemenangan pertama atas kebuntuan teknologi. Namun sorak kegembiraan itu tidak bertahan lama.
+"Kalau soal ini, iya."
 
-CITTT!
+Aku mengangkat sampel dari meja. Kami memeriksa bagian tepinya, lalu melipat kain pada bagian yang tidak mengenai kode. Setelah dibuka kembali, panel masih menempel. Tidak tampak kerutan yang mengganggu pola, tetapi kami belum bisa menyimpulkan ketahanannya untuk pemakaian jangka panjang.
 
-Suara decit ban mobil berkecepatan tinggi mendadak memekakkan telinga di bibir aspal depan ruko. Sebuah sedan hitam mulus berpelat nomor merah berhenti mendadak tepat di samping motor roda tiga Bang Parlin, menghalangi pintu masuk.
+"Berikutnya scan," kata Aji.
 
-Pintu kemudi terbuka perlahan. Seorang pria bersafari cokelat gelap dengan papan klip kulit di tangan kanannya melangkah turun dengan ekspresi dingin, menatap spanduk prototipe kami dengan pandangan mengintimidasi.
+Aku mengambil ponsel dan membuka aplikasi pembayaran. Kamera diarahkan ke kode dari jarak yang wajar. Beberapa detik kemudian, layar menampilkan nama merchant yang sesuai dengan data pedagang pemilik QRIS.
+
+"Terbaca," kataku.
+
+Aji mendekat untuk melihat layar. "Nama merchant-nya cocok?"
+
+Aku menunjukkan layar kepadanya. Ia membandingkan nama itu dengan lembar data yang diberikan pedagang, lalu mengangguk.
+
+"Ini baru memastikan kode bisa dibaca dan mengarah ke merchant yang benar. Kita belum melakukan pembayaran."
+
+"Aku tahu. Uang belanja kita belum perlu dikorbankan demi percobaan."
+
+Aji tertawa kecil. Ia mencatat waktu penerapan, jenis bahan, dan hasil pemeriksaan awal. Satu potongan kecil disimpan sebagai sampel pembanding. Aku meminta agar hasil uji itu tidak disebut tahan air atau tahan minyak. Kami baru memastikan panel menempel, tidak rusak saat dilipat, dan bisa dibaca kamera.
+
+"Kalau nanti ada panel yang gagal, jangan ditutup-tutupi," kataku. "Lebih baik kita tahu sebelum kain dipasang."
+
+"Setuju. Dan lima puluh kode nanti harus diperiksa satu per satu. Kita tidak bisa mengambil satu contoh lalu menganggap semuanya pasti sama."
+
+Dari pagar bengkel, Bang Parlin yang sejak tadi memperhatikan akhirnya bersuara.
+
+"Kalau begitu, kapan saya boleh pesan spanduk buat bengkel?"
+
+Aku menoleh. "Kalau lima puluh pesanan ini selesai, Bang."
+
+"Jangan lupa kasih harga saudara."
+
+"Saudara yang bayar tepat waktu dapat harga saudara."
+
+Bang Parlin tertawa. "Kalau begitu saya saudara yang paling tepat waktu."
+
+"Catat dulu utangnya yang kemarin."
+
+Tawanya terdengar sampai ke dalam ruko. Aji ikut tersenyum sambil menyimpan sampel di map. Aku membentangkan kembali prototipe di meja. Ilustrasi lele buatanku berdampingan dengan QRIS digital yang tercetak rapi. Untuk pertama kalinya, dua bagian yang semula terasa sulit disatukan itu tampak bisa bekerja dalam satu bidang kain.
+
+"Sepertinya metode ini bisa diteruskan," kata Aji.
+
+"Masih perlu pengujian dan persetujuan Cak Qodim. Jangan langsung merasa menang."
+
+"Setidaknya sekarang kita punya sesuatu yang bisa ditunjukkan."
+
+Aku mengangguk. Hasil itu belum menjawab semua persoalan produksi, tetapi cukup untuk dibawa ke pertemuan berikutnya.
+
+Sebuah sedan hitam berhenti di depan ruko. Seorang pria turun dari kursi penumpang, membawa map kulit dan mengenakan kemeja safari cokelat gelap. Ia menatap meja kerja sebelum melangkah mendekat.
+
+Aji yang sedang menyimpan laptop mendadak berhenti.
+
+"Pak Haris," katanya pelan.
+
+Aku memandang pria itu, lalu menoleh kepada Aji. "Kamu kenal?"
+
+Aji tidak segera menjawab. Pria itu sudah sampai di depan meja dan mengarahkan pandangannya pada prototipe kami.
+
+"Jadi ini hasil yang sedang kalian bicarakan?" tanyanya.
+
+Aji berdiri tegak. "Selamat sore, Pak."
+
+Pak Haris tidak langsung membalas sapaan itu. Matanya berpindah dari ilustrasi lele ke panel QRIS, lalu kembali kepada Aji.
+
+"Sudah lama kita tidak bertemu," katanya.
+
+Aku mulai mengerti bahwa kedatangan pria itu bukan sekadar kunjungan biasa.

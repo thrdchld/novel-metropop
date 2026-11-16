@@ -8,9 +8,9 @@ Aku yang sedang jongkok menjemur kuas di atas ember cat bekas langsung mendongak
 
 "Kumis lele kemarin itu melengkung gagah, Cak. Cak Qodim saja yang matanya ketutupan asap arang," sahutku sambil berdiri.
 
-"Gagah gundulmu!" Cak Qodim mematikan kunci kontak motornya dengan sentakan kasar. Ia melangkah masuk ke teras ruko membawa gulungan kain mori kusam yang penuh bercak minyak goreng dan lubang sundutan rokok di sudutnya. "Di Lamongan, lele itu hewan keramat. Kumisnya harus meliuk ke atas kayak taring harimau. Kalau kumisnya letoy ke bawah, auranya lesu, rezekinya ikut loyo. Pembeli yang mau mampir jadi putar balik karena ngira lele kita lele sakit!"
+"Gagah gundulmu!" Cak Qodim mematikan kunci kontak motornya dengan sentakan kasar. Ia melangkah masuk ke teras ruko membawa gulungan kain mori kusam yang penuh bercak minyak goreng dan lubang sundutan rokok di sudutnya. "Di keluarga kami, lele itu punya pantangan sendiri. Kumisnya harus meliuk ke atas kayak taring harimau. Kalau kumisnya letoy ke bawah, auranya lesu, rezekinya ikut loyo. Pembeli yang mau mampir jadi putar balik karena ngira lele kita lele sakit!"
 
-Aku menahan senyum geli di balik bibirku. Pak Lik Harto selalu bilang, orang Lamongan punya seribu satu alasan mistis untuk setiap tarikan kuas di spanduk mereka. Dari bentuk sirip punggung sampai lekuk ekor yang sedang melompat, semuanya dianggap membawa berkah dagang.
+Aku menahan senyum geli di balik bibirku. Pak Lik Harto pernah bercerita bahwa sebagian pedagang punya kepercayaan sendiri tentang gambar di spanduk. Dari bentuk sirip punggung sampai lekuk ekor yang sedang melompat, semuanya bisa dianggap membawa berkah dagang.
 
 "Iya, iya, nanti tak bikin kumisnya melengkung sampai tembus langit-langit," balasku sambil menerima kain kusam itu. Kainnya sudah kaku seperti kerupuk masuk angin, baunya amis gurih khas wajan penggorengan lima tahunan. "Mau selesai kapan, Cak?"
 
@@ -46,7 +46,7 @@ Cak Qodim langsung melangkah mundur dua tindak, mengangkat kedua tangannya ke de
 
 Aji mengernyit heran menatap reaksi Cak Qodim yang berlebihan. "Bapaknya nggak suka lele?"
 
-"Bukan nggak suka, Mas!" potong Cak Qodim cepat sambil memalingkan muka dari piring Mbak Pur. "Orang asli Lamongan dari desa leluhurku pantang makan lele seumur hidup. Kalau sampai nelan sebutir dagingnya saja, kulit kami bisa gatal-gatal bersisik kena kutuk sumpah Ki Boyopati. Jualan lele boleh, cari rezeki halal dari lele wajib, tapi makan dagingnya haram hukumnya!"
+"Bukan nggak suka, Mas!" potong Cak Qodim cepat sambil memalingkan muka dari piring Mbak Pur. "Keluarga saya dari desa leluhur punya pantangan makan lele. Katanya, kalau sampai nelan sebutir dagingnya saja, kulit kami bisa gatal-gatal bersisik kena kutuk sumpah Ki Boyopati. Jualan lele boleh, cari rezeki halal dari lele wajib, tapi makan dagingnya pantang bagi keluarga kami!"
 
 Mbak Pur tertawa sambil berjalan lewat, sementara Aji berdiri mematung menatap Cak Qodim dengan dahi berkerut dalam, tampak benar-benar tidak habis pikir dengan logika orang-orang di pinggir jalan ini.
 

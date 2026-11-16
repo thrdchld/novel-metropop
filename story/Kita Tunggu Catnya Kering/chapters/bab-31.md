@@ -1,41 +1,113 @@
 ## Bab 31: Lampu Kota
 
-Ada keajaiban yang hanya terjadi di jalanan Indonesia ketika malam tiba: bagaimana selembar kain mori sederhana bisa menyulap trotoar berdebu menjadi pesta rakyat penuh rasa.
+Menjelang pukul sembilan malam, festival semakin ramai. Antrean terbentuk di depan beberapa tenda, sementara para pedagang sibuk melayani pesanan. Bunyi notifikasi pembayaran sesekali terdengar dari meja kasir, diselingi suara wajan dan obrolan pengunjung. Di sepanjang jalan, lampu tenda memantul pada permukaan kain spanduk yang bergerak pelan tertiup angin.
 
-Pukul sembilan malam, kawasan jalan protokol Cawang telah berubah menjadi lautan manusia. Ribuan pengunjung dari berbagai penjuru ibu kota tumpah ruah memadati arena festival. Di bawah siraman lampu merkuri kota dan temaram lampu bohlam kuning, warna hijau dan jingga stabilo di spanduk-spanduk lukisan tanganku memancarkan pendaran magis yang mengundang selera.
+Aku baru saja selesai membantu seorang pedagang merapikan meja ketika Cak Qodim memanggil dari tenda utama.
 
-Desis minyak panas dari wajan raksasa Cak Qodim bergemuruh ritmis saat ekor lele berbumbu ketumbar dicelupkan ke dalam penggorengan.
+"Win, sini dulu. Makan. Dari tadi kamu mondar-mandir terus."
 
-Bunyi notifikasi transaksi digital berdering hampir tanpa jeda dari setiap meja pedagang. Para pembeli dengan riang mengarahkan kamera ponsel ke sudut bawah kain mori, menyelesaikan pembayaran dalam hitungan detik sebelum menikmati sepiring makanan hangat.
+Di meja sudah tersedia nasi uduk, lele goreng, sambal terasi, dan lalapan. Pak Lik duduk di kursi dekat dinding tenda. Mbak Pur menuangkan es teh ke gelas-gelas plastik, sementara Bang Parlin baru datang setelah memastikan beberapa tali spanduk terikat kuat.
 
-Di dalam tenda nomor satu milik Cak Qodim, seluruh bangku kayu panjang penuh sesak oleh pelanggan yang rela antre berdiri di pinggir trotoar.
+Cak Qodim membawa sebuah piring seng blirik hijau-putih. Aku langsung mengenalinya. Selama bertahun-tahun, benda itu menjadi wadah adukan cat di ruko. Bagian pinggirnya sudah sedikit penyok, tetapi corak hijaunya masih terlihat.
 
-"Ini pesanan khusus untuk dua pahlawan Kalimalang!" seru Cak Qodim sambil meletakkan sebuah piring seng di atas meja kayu kami.
+"Pakai piring ini, Win," kata Cak Qodim. "Dulu menampung cat, sekarang menampung makan malam."
 
-Aku terpaku menatap piring itu. Piring kaleng blirik bercorak loreng hijau dan putih, wadah legendaris yang bertahun-tahun kupakai mengaduk cat minyak di ruko. Kini piring itu sudah dicuci bersih mengilap, menjadi alas bagi seekor lele goreng renyah keemasan, sambal terasi merah segar, lalapan kemangi, dan nasi uduk hangat yang mengepul.
+"Sudah dicuci benar-benar, kan?" tanyaku.
 
-"Pakai piring ini, Win," kata Cak Qodim sambil tertawa lebar di balik kumis tebalnya. "Dulu piring ini menampung cat untuk menghidupi pamanmu. Sekarang piring ini menyajikan rezeki kemenangan kita semua."
+"Kalau masih ada cat, nanti lelenya ikut jadi lukisan," sahut Bang Parlin.
 
-Pak Lik Harto yang duduk di sampingku tersenyum haru, menepuk pundak Cak Qodim pelan. Matanya berbinar menatap puluhan anak muda yang antre dengan tertib. "Lele Lamongan malam ini rasanya pasti jauh lebih gurih dari biasanya. Warisan kuas jalanan kita akhirnya punya masa depan."
+Kami tertawa. Cak Qodim meletakkan lele goreng di atas piring itu, lalu mendorongnya ke tengah meja.
 
-Aji duduk di sebelah kananku. Pemuda itu mencelupkan jemari tangannya ke dalam mangkok kobokan air jeruk nipis tanpa ragu sedikit pun. Tidak ada lagi desainer kota yang kaku dan takut kotor. Dengan gerakan mantap, ia menyobek daging lele yang garing, mencocolkannya ke sambal terasi, lalu menyuapkannya ke mulut bersama gumpalan nasi uduk.
+Pak Lik memperhatikan piring tersebut cukup lama. "Dulu saya beli itu di pasar. Sudah dipakai entah berapa tahun. Ternyata belum juga pensiun."
 
-"Gimana rasanya, Mas Aji?" goda Mbak Pur yang sedang mengantarkan cangkir es teh manis jumbo.
+"Barang lama kalau dirawat memang bisa panjang umur," kata Mbak Pur.
 
-Aji mengunyah lahap dengan mata terpejam menikmati gurihnya bumbu ketumbar dan bawang putih. "Jauh lebih nikmat daripada makan steik di restoran gedung bertingkat, Mbak Pur. Sambal terasi ini bikin semua rasa lelah semalam hilang seketika."
+"Asal jangan dipakai mengaduk cat lagi," kataku.
 
-Tawa kami berderai hangat membelah keriuhan malam festival. Kulihat Bang Parlin di meja sebelah sedang asyik melahap lele ketiganya sambil bercanda dengan para sopir ojek yang datang memeriahkan acara.
+Aji duduk di sebelahku. Tangan kanannya masih dibalut, jadi ia makan menggunakan tangan kiri. Gerakannya lebih lambat daripada biasanya. Ketika ia kesulitan memisahkan duri dari daging lele, aku menggeser piring kecil ke dekatnya.
 
-Setelah menghabiskan makanan kami, aku dan Aji melangkah keluar dari tenda, berdiri di tepi trotoar di bawah naungan spanduk kain nomor satu yang berkibar pelan tertiup angin malam. Dari kejauhan, lampu-lampu gedung pencakar langit Jakarta berkerlap-kerlip megah, namun kilauannya terasa kalah hangat jika dibandingkan dengan pendaran warna kain mori kami yang menyala di jalanan.
+"Aku masih bisa sendiri," katanya.
 
-Aji menatap ke arahku. Jaket kanvas abu-abunya dengan noda cat kuning di siku kanan tampak bersinar terkena pantulan pigmen fosfor di atas kepala kami.
+"Aku tahu. Piringnya saja yang aku geser."
 
-"Mesin cetakku memang sudah mati terbakar," ucap Aji lembut, suaranya tenang dan teduh. "Tapi malam ini aku melihat masa depan yang jauh lebih luas daripada sekadar mencetak kertas di dalam ruangan ber-AC."
+"Oh, begitu."
 
-"Masa depan seperti apa, Mas?" tanyaku lirih, menatap sepasang matanya di balik kacamata barunya.
+Ia tersenyum, lalu melanjutkan makan. Aku tidak ingin membuatnya merasa seperti orang sakit, tetapi aku juga tidak mau ia memaksakan tangan yang belum pulih. Sesekali ia berhenti untuk mengistirahatkan pergelangan kirinya.
 
-Aji tidak langsung menjawab dengan kata-kata.
+Bang Parlin bercerita tentang salah satu pemuda paguyuban yang hampir memasang spanduk terbalik. Cak Qodim menyela dengan versi cerita yang berbeda, membuat Bang Parlin protes karena menurutnya ia yang paling dulu menyadari kesalahan itu. Pak Lik ikut tertawa sampai harus berhenti sejenak untuk mengatur napas. Mbak Pur segera menyodorkan air minum.
 
-Di tengah hiruk pikuk ribuan pengunjung yang berlalu-lalang, tangan kanannya perlahan bergerak turun. Jemarinya yang hangat dan mantap menyelip di antara sela jemariku, menggenggam erat telapak tanganku yang masih bernoda bekas cat hijau stabilo.
+"Sudah, jangan bikin saya tertawa terus," kata Pak Lik setelah napasnya kembali teratur. "Nanti lelenya tidak habis."
 
-Genggaman tangan itu mengunci seluruh jawaban yang kami cari selama ini: sebuah keyakinan tak terucap bahwa esok hari kami akan melangkah bersama, menyatukan rasa dan karya di bawah langit kota yang sama.
+Obrolan beralih ke hasil penjualan para pedagang. Beberapa warung sudah menghabiskan persediaan pertama, sementara yang lain masih menunggu pengunjung datang. Cak Qodim tampak puas melihat orang-orang duduk di bawah spanduk yang kami kerjakan. Ia tidak banyak bicara soal pujian wali kota. Baginya, yang lebih penting adalah para pedagang bisa berjualan dan menerima pembayaran tanpa kebingungan.
+
+Setelah makan, aku membawa piring seng itu ke tempat cuci. Air sabun mengalir melewati permukaan blirik, mengangkat sisa sambal dan minyak. Aku menggosoknya sampai bersih, lalu membilasnya dua kali. Saat mengeringkannya, aku teringat bagaimana piring itu dulu hampir setiap hari berisi campuran cat. Tidak pernah terpikir benda sederhana itu akan kembali dipakai untuk makan bersama orang-orang yang sama-sama ikut menyelesaikan pekerjaan ini.
+
+Aji menungguku di luar tenda. Ia berdiri di dekat salah satu tiang, memandangi spanduk yang menggantung di atas kepala kami. Jaket kanvas abu-abunya masih memiliki noda kuning di siku kanan. Angin menggerakkan ujung kain, tetapi ikatan talinya tetap kuat.
+
+"Mesin cetakku belum tentu bisa diperbaiki," katanya.
+
+"Teknisinya masih menghitung biaya," jawabku. "Kamu tidak harus memutuskan malam ini."
+
+"Aku tahu. Kalau terlalu mahal, mungkin aku mulai dari alat yang lebih sederhana. Untuk pekerjaan besar, kita bisa bekerja sama dengan tempat cetak lain dulu."
+
+"Itu lebih masuk akal daripada memaksakan beli mesin baru."
+
+Aji tertawa kecil. "Kamu sekarang terdengar seperti orang yang mengurus keuangan."
+
+"Karena ada orang yang perlu diawasi."
+
+Ia tidak membantah. Beberapa saat kami hanya melihat pengunjung yang berlalu-lalang. Seorang anak kecil menunjuk gambar bebek di salah satu spanduk, sementara ayahnya menjelaskan menu yang dijual di bawahnya.
+
+"Aku ingin tetap mengerjakan hal seperti ini," kata Aji. "Bukan cuma membuat desain dari layar, lalu mengirim file ke orang lain. Aku ingin ikut melihat hasilnya dipakai."
+
+Aku melirik ke arah tenda utama. "Pak Haris tadi datang, tapi kalian tidak bicara."
+
+Aji mengikuti arah pandangku. "Tidak ada yang perlu dibicarakan malam ini."
+
+"Dulu kamu kelihatan sangat terganggu setiap kali dia muncul."
+
+"Memang. Dulu aku ingin dia mengakui bahwa beberapa pekerjaan itu hasil kerjaku. Aku juga ingin tahu kenapa setelah protes, aku justru disingkirkan." Ia mengusap ibu jari tangan kirinya. "Tapi sekarang aku tidak bisa mengubah apa yang dia lakukan. Dan aku tidak mau terus menunggu pengakuannya untuk merasa pekerjaanku memang punya nilai."
+
+"Jadi sudah tidak marah?"
+
+"Masih ada bagian yang tidak enak kalau diingat. Bukan berarti semuanya langsung hilang." Aji menatap deretan spanduk. "Tapi malam ini orang-orang memakai hasil kerja kita. Mereka tidak perlu tahu cerita lama itu untuk bisa menilai hasilnya."
+
+Aku mengangguk. Rasanya lebih masuk akal daripada berpura-pura masa lalu bisa selesai hanya karena satu festival berjalan lancar.
+
+"Kamu bisa mulai dari pesanan kecil dulu."
+
+"Kalau kamu masih mau bekerja sama."
+
+Aku menoleh. "Aku mau membicarakannya. Tapi jangan memutuskan sesuatu hanya karena malam ini kita sedang senang. Kita belum tahu biaya, pembagian kerja, dan berapa banyak pesanan yang bisa kita tangani."
+
+"Aku tidak sedang mengajakmu menandatangani kontrak sekarang."
+
+"Bagus. Karena aku juga tidak membawa pulpen."
+
+Aji tertawa. Ia mengangguk, seolah menerima bahwa pembicaraan itu memang harus menunggu waktu yang lebih tepat.
+
+"Aku serius, Win."
+
+"Aku juga. Justru karena serius, kita perlu menghitungnya dengan benar."
+
+Kami berdiri berdampingan. Tangan kirinya bergerak mendekati tanganku, lalu berhenti sejenak, memberi kesempatan bagiku untuk menolak. Aku menyambut jemarinya. Genggamannya ringan, tidak lama, tetapi cukup membuatku tahu bahwa kami tidak lagi berdiri di dua sisi garis lakban seperti dulu.
+
+"Kita lihat nanti bisa sejauh apa," kataku.
+
+"Pelan-pelan saja," jawabnya.
+
+Dari dalam tenda, Pak Lik memanggil kami untuk mengambil sisa nasi uduk. Ia sedang bercerita kepada Cak Qodim bahwa dulu pernah melukis spanduk sampai pagi hanya untuk mengejar pesanan pembukaan warung.
+
+"Bedanya, dulu tidak ada QRIS," kata Pak Lik.
+
+"Kalau dulu ada, mungkin Pak Lik sudah minta orang bayar uang muka lewat ponsel," sahut Aji.
+
+Pak Lik tertawa. "Kalau begitu, saya juga minta kalian kirim bukti transfer sebelum mulai melukis."
+
+Cak Qodim mengangkat gelas. "Sekarang semua orang bisa jadi mandor."
+
+Kami kembali duduk. Aku meletakkan piring seng yang sudah kering di dekat Pak Lik. Ia mengambil sepotong lele dan menyodorkannya kepadaku, sementara Aji kembali mengatur nasi dengan tangan kirinya.
+
+Di luar, para pedagang masih melayani pengunjung. Ada yang sudah kehabisan lele, ada yang meminta tambahan nasi, dan ada yang menghitung hasil penjualan malam itu. Festival belum selesai, begitu juga urusan kami. Mesin Aji masih menunggu keputusan, pembayaran proyek belum seluruhnya tuntas, dan rencana bekerja bersama masih perlu dibicarakan.
+
+Namun malam itu kami sudah bisa duduk satu meja tanpa memikirkan siapa yang harus menang. Untuk sementara, itu cukup.

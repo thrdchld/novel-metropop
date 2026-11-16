@@ -6,38 +6,38 @@
 
 | Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
 |---|---|---|---|---|
-| 1 | Selasa, 04.30 | Ruko Wiwin Kalimalang | Wiwin, Pak Lik Harto, sopir pikap | Wiwin membentang kain subuh; ruko seberang menurunkan mesin cetak digital bekas |
-| 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur | Cak Qodim pesan spanduk lele kumis melengkung; Aji sebar brosur cetak murah; mitos pantang lele Lamongan |
-| 3 | Kamis, 19.30 | Depan ruko percetakan Aji | Wiwin, Aji, Bang Parlin, Cak Qodim | Wiwin melabrak Aji soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
-| 4 | Jumat, 21.45 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Spanduk MMT Aji melepuh terkena uap kompor mawar; jari Aji melepuh; Cak Qodim meradang |
-| 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; serat mori merembes 0,4 mm; tes scan HP gagal |
+| 1 | Pukul 04.40; hari tidak disebut eksplisit | Ruko Wiwin Kalimalang | Wiwin, Pak Lik Harto, sopir pikap | Wiwin membentang kain subuh; ruko seberang menurunkan mesin cetak digital bekas |
+| 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Aji, Mbak Pur | Cak Qodim pesan spanduk lele berkumis melengkung; Aji sebar brosur cetak murah; pantangan makan lele keluarga Cak Qodim |
+| 3 | Kamis malam (jam tidak disebut eksplisit) | Depan ruko percetakan Aji | Wiwin, Aji, Bang Parlin, Cak Qodim | Wiwin melabrak Aji soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
+| 4 | Kamis malam, sekitar 30 menit setelah pemasangan spanduk pada Bab 3 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Spanduk MMT Aji melepuh terkena uap kompor mawar; jari Aji melepuh; Cak Qodim meradang |
+| 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; modul dan jarak antarkotak berubah akibat rembesan sehingga tes scan gagal |
 | 6 | Minggu, 20.00 | Warkop Mbak Pur | Wiwin, Aji, Cak Qodim, Mbak Pur | Cak Qodim bawa map dinas proyek 50 spanduk festival kuliner ber-QRIS; Wiwin dan Aji bimbang |
 | 7 | Senin, 10.30 | Lantai ruko Wiwin | Wiwin, Aji | Aji bawa proposal; kucing belang injak lukisan lele; kuas kuning Wiwin nodai siku jaket Aji |
-| 8 | Selasa, 13.00 | Meja kayu ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Aji paparkan proposal QRIS transfer vinil; sepakat bagi hasil 60-40; jabat tangan aliansi |
-| 9 | Rabu, 08.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji pasang garis lakban hitam pembatas ruko; Wiwin balas dengan hembusan kipas angin nomor tiga |
-| 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Uji semprot air gagal; stiker vinil menggelembung dan robek saat ditekan squeegee; cara instan gugur |
-| 11 | Kamis, 20.30 | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin traktir makan lele kobokan; Aji luluh makan pakai tangan dan cicip sambal terasi |
-| 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin buka buku resep kuno; Aji temukan formula getah damar untuk tinta sablon saring QRIS |
-| 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Aji | Aji hitung viskositas centipoise; Wiwin koreksi takaran pakai kepekaan jemari; formula pasta damar pas |
-| 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Aji, Bang Parlin | Sablon saring pasta damar sukses cetak QRIS tajam; sensor HP baca 0,2 detik; mobil dinas pelat merah tiba |
-| 15 | Senin, 09.30 | Ruko Wiwin Kalimalang | Wiwin, Aji, Pak Haris | Pak Haris inspeksi ruko; uji semprot air & scan tembus seketika; tantangan 50 spanduk 2 minggu klausul denda 20% |
-| 16 | Rabu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji curhat di-PHK Pak Haris; Wiwin ungkap luka batal kuliah seni; keduanya saling memahami |
-| 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Borong 50 gulung mori primisima katun; Bang Rahmat kabarkan lobi gelap Pak Haris dan Mitra Graha |
-| 18 | Kamis, 07.30 | Warung lontong sayur stasiun | Wiwin, Aji, Bang Rahmat | Bang Rahmat bocorkan inspeksi mendadak dinas besok pagi; Wiwin susun rencana gerilya 50 kain maraton |
-| 19 | Kamis, 23.30 | Ruko Wiwin Kalimalang | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi maraton gerilya malam; tiner tumpah diserap serbuk kayu; Cak Qodim bawakan nasi uduk; 25 kain berkibar |
-| 20 | Jumat, 04.30 | Bengkel tambal ban Bang Parlin | Wiwin, Aji, Bang Parlin | Rakit blower panas kompresor; 10 kain terakhir kering tepat waktu; iring-iringan dinas tiba |
-| 21 | Jumat, 07.00 | Pelataran ruko Wiwin | Wiwin, Aji, Pak Haris, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim | Tes scan mendadak 50 spanduk hibrida; 49 kain tembus instan; kain ke-50 diuji HP retak seribu Mbak Pur dan lolos |
-| 22 | Jumat, 11.30 | Ruko Wiwin Kalimalang | Wiwin, Aji, Cak Qodim, Pak Haris | Cak Qodim uji kelenturan kain mori; Pak Haris tanda tangani BAPHP kelayakan; cap jempol ungu sesepuh |
-| 23 | Sabtu, 16.30 | Teras ruko Wiwin | Wiwin, Aji, kurir dinas | Minum kopi cangkir blirik bersama; Aji akui jiwa kuas manual; kurir antar surat kilat dinas |
-| 24 | Minggu, 09.00 | Ruang tengah ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Surat dinas majukan pembukaan festival Selasa malam; tambah 10 spanduk VIP; susun strategi kilat |
-| 25 | Senin, 21.00 | Lantai semen ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Maraton lembur 10 spanduk VIP; tangan Wiwin kram dan dipijat Aji; petir dan badai besar mendekat |
-| 26 | Selasa, 01.30 | Ruang tengah ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Badai terjang ruko; talang seng jebol tumpahkan air bah; 10 mori VIP diselamatkan; mesin cetak korslet |
-| 27 | Selasa, 02.15 | Ruang tengah ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Aji tahan seng talang dengan tubuhnya; Pak Lik matikan MCB; Aji limbung basah kuyup |
-| 28 | Selasa, 06.00 | Ruang tengah ruko Wiwin | Wiwin, Aji, Mbak Pur, Bang Parlin, Pak Lik Harto, Cak Qodim | Asap tipis mesin cetak gosong; Mbak Pur bawakan sambal terasi; Cak Qodim kerahkan pemuda paguyuban |
-| 29 | Selasa, 11.00 | Jalan protokol festival kota | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto | Gotong royong pasang 60 spanduk hibrida; Pak Lik sentuh kepala lele mori; Pak Haris tertegun |
-| 30 | Selasa, 19.00 | Arena utama festival kuliner | Wiwin, Aji, Cak Qodim, Pak Lik Harto, Menteri, Pak Haris | Pembukaan festival; 60 spanduk hibrida menyala neon; menteri sukses scan QRIS 0,2 detik |
-| 31 | Selasa, 21.00 | Tenda Cak Qodim di arena festival | Wiwin, Aji, Cak Qodim, Pak Lik Harto, Mbak Pur, Bang Parlin | Ribuan pengunjung serbu tenda; makan lele piring blirik; jemari Aji genggam tangan Wiwin |
-| 32 | Minggu, 16.30 | Studio Tenda Malam Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim | Pasang plang Studio Tenda Malam; ruko menyatu; Aji goreskan kuas cat oranye pertama |
+| 8 | Selasa (jam tidak disebut eksplisit) | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Menyepakati kerja sama dan pembagian hasil; pembagian dihitung dari laba bersih setelah biaya proyek. |
+| 9 | Rabu, 07.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Aji memasang garis lakban sebagai batas area kerja; mereka mengatur posisi meja, kipas, alat, dan aturan memakai ruang bersama |
+| 10 | Kamis, 15.00 | Ruko Wiwin Kalimalang | Wiwin, Aji | Bahan transfer pertama berkerut mengikuti tekstur mori dan sudutnya terangkat saat kain dilipat; bahan itu dinyatakan belum cocok |
+| 11 | Kamis malam, setelah eksperimen prototipe belum selesai sesuai target awal | Warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim | Wiwin dan Aji menyampaikan kepada Cak Qodim bahwa prototipe membutuhkan waktu tambahan; mereka meminta kesempatan sampai Minggu untuk menunjukkan hasil uji, dan Cak Qodim setuju meninjau tanpa menjanjikan persetujuan otomatis |
+| 12 | Jumat, 10.00 | Kamar belakang ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Wiwin membuka catatan bahan lama Pak Lik; mereka menjadikannya referensi eksperimen, bukan formula QRIS |
+| 13 | Sabtu, 11.00 | Meja kerja ruko Wiwin | Wiwin, Aji | Aji mencatat hasil uji beberapa campuran; tidak ada formula yang langsung dianggap sempurna |
+| 14 | Minggu, 16.00 | Pelataran ruko Wiwin | Wiwin, Aji, Bang Parlin | Prototipe panel QRIS digital berhasil dipasang dengan mesin pres termal pinjaman dan terbaca saat diuji; Haris tiba setelah melihat hasilnya |
+| 15 | Minggu, sekitar 16.15 | Ruko Wiwin | Wiwin, Aji, Pak Haris | Kunjungan Haris berlanjut dari akhir Bab 14; ia datang sebagai pemilik Mitra Graha/konsultan, bukan pejabat dinas. |
+| 16 | Minggu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji bercerita tentang PHK dan portofolio; Wiwin menceritakan kuliah seni yang batal; keduanya mulai memahami alasan masing-masing |
+| 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Membeli 53 gulung mori primisima (212 meter); 50 gulung/200 meter dialokasikan untuk pesanan awal, sedangkan 3 gulung/12 meter disimpan sebagai cadangan; Bang Rahmat mengabarkan Haris sedang menawarkan Mitra Graha sebagai vendor pengganti |
+| 18 | Kamis, 07.30 | Warung dekat stasiun | Wiwin, Aji, Bang Rahmat | Kabar peninjauan kesiapan yang akan dilakukan beberapa hari lagi; sumber informasi Bang Rahmat berasal dari sopir dekat kantor dinas, bukan akses jabatan. |
+| 19 | Pagi; tanggal tidak disebutkan, setelah persetujuan formal | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi bertahap dimulai setelah panitia meninjau dan menyetujui prototipe, desain, serta metode pemasangan; persetujuan tertulis dibawa Cak Qodim sehari sebelumnya. Masa produksi dua minggu resmi dihitung sejak persetujuan. |
+| 20 | Hari keenam masa produksi; hari kalender tidak disebutkan | Ruko Wiwin dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin | Empat puluh kain telah melewati pemeriksaan visual; sepuluh lainnya masih dikerjakan. Pengeringan memakai sirkulasi udara dan jarak antarkain. |
+| 21 | Pukul 09.00, pagi setelah Bab 20 | Pelataran ruko Wiwin | Wiwin, Aji, staf dinas, Cak Qodim | Tim verifikasi memeriksa proses produksi dan kecocokan data QRIS; pemindaian bukan bukti pembayaran atau penerimaan akhir. |
+| 22 | Pagi setelah sepuluh spanduk terakhir selesai; sebelum Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas | Pemeriksaan akhir lima puluh spanduk dan berita acara penerimaan dilakukan oleh pihak berwenang bersama paguyuban; Haris tidak menandatangani sebagai pejabat. Hari kalender tidak dinyatakan eksplisit. |
+| 23 | Minggu sore | Teras ruko Wiwin | Wiwin, Aji, kurir panitia | Momen kopi dan percakapan personal; surat resmi mengabarkan perubahan jadwal dan penundaan pengiriman. |
+| 24 | Minggu sore, berlanjut langsung dari Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Festival dimajukan ke Selasa malam; pengiriman 50 spanduk ditunda dan pesanan bertambah 10 spanduk VIP; biaya serta tambahan kain harus disetujui. |
+| 25 | Senin pagi hingga sekitar 23.00 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Kain tambahan 32 meter tiba Senin pagi; bersama 12 meter cadangan dari Bab 17 cukup untuk 10 spanduk VIP. Sampel pigmen disetujui, sepuluh spanduk VIP diselesaikan dengan mesin pres termal pinjaman; tangan Wiwin kram dan badai mendekat. |
+| 26 | Selasa, sekitar 01.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Talang terlepas dan air masuk; sepuluh kain VIP dipindahkan; mesin terkena rembesan dan listrik diputus dari sumber utama setelah bantuan petugas. |
+| 27 | Selasa dini hari, setelah area aman | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Aji membantu mengarahkan talang setelah listrik diputus; tepi seng melukai telapak tangannya. |
+| 28 | Selasa pagi | Ruko Wiwin | Wiwin, Aji, teknisi, Bang Parlin, Mbak Pur, Pak Lik Harto, Cak Qodim | Teknisi menemukan kerusakan komponen mesin, tetapi belum menyatakan mesin tidak bisa diperbaiki; paguyuban menyiapkan pemasangan. |
+| 29 | Selasa, menjelang siang | Area festival Cawang | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto, pedagang, Haris | Pengiriman yang tertunda dilakukan dari ruko; paguyuban memasang 60 spanduk. Wiwin memeriksa lukisan, Aji mengawasi daftar QRIS, Haris hadir sebagai konsultan/pemilik Mitra Graha. |
+| 30 | Selasa, 19.00 | Arena festival kuliner | Wiwin, Aji, Cak Qodim, Pak Lik Harto, wali kota, kepala dinas, panitia | Wali kota menguji QRIS Cak Qodim dan transaksi berhasil setelah konfirmasi; hasil proyek mendapat perhatian panitia. |
+| 31 | Selasa, 21.00 | Tenda Cak Qodim | Wiwin, Aji, Cak Qodim, Pak Lik Harto, Mbak Pur, Bang Parlin | Perayaan bersama; piring blirik dipakai menyajikan makanan; Wiwin dan Aji membicarakan kemungkinan usaha bersama. |
+| 32 | Minggu berikutnya, menjelang siang | Studio Tenda Malam, Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim | Studio mulai beroperasi dengan pembagian peran dan biaya yang disepakati; Aji memakai mesin pres bekas, sementara mesin cetak besar masih menunggu keputusan perbaikan. |
 
 ## A2. Timeline Masa Lalu
 
@@ -53,8 +53,8 @@
 |---|---|---|---|---|
 | Ruko Seni Spanduk Wiwin | Bab 1 | Lantai semen dingin, langit-langit berdebu, bau tiner menyengat | Wiwin, Pak Lik Harto | Pinggir Jalan Kalimalang |
 | Percetakan Digital Aji | Bab 1 | Kios seberang aspal, desing mesin cetak outdoor | Aji | Seberang jalan ruko Wiwin (15 meter) |
-| Warkop Mbak Pur | Bab 2 (rencana) | Meja kayu terpal kotak-kotak, stoples gorengan kaca | Mbak Pur, Bang Parlin, supir ojol | Samping bengkel tambal ban |
-| Warung Tenda Cak Qodim | Bab 2 (rencana) | Tenda terpal oranye dua petak, wajan lele berasap | Cak Qodim | Perempatan lampu merah (200 m) |
+| Warkop Mbak Pur | Bab 2 | Meja kayu terpal kotak-kotak, stoples gorengan kaca | Mbak Pur, Bang Parlin, supir ojol | Samping bengkel tambal ban |
+| Warung Tenda Cak Qodim | Bab 4 | Tenda terpal oranye dua petak, wajan lele berasap | Cak Qodim | Perempatan lampu merah (200 m) |
 
 ## C. Matriks Pengetahuan (Siapa Tahu Apa)
 
@@ -66,40 +66,40 @@
 
 ## D. Status Tokoh per Bab
 
-| Bab | POV | Emosi/perubahan | Benda yang dibawa | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
+| Bab | Emosi/perubahan | Benda/fokus | Hubungan terakhir | Fakta yang harus diingat | Urusan menggantung |
 |---|---|---|---|---|---|---|
-| 1 | Wiwin | Waspada & cemas | Kuas, piring cat blirik | Belum kenal Aji | Khawatir obat paman habis | Siapa penyewa ruko seberang |
-| 2 | Wiwin | Jengkel & tertantang | Kain mori kusam Cak Qodim | Saling sindir ruko seberang | Mengetahui mitos lele Lamongan | Pesanan Cak Qodim harus selesai besok malam |
-| 3 | Wiwin | Marah & terkejut | Sandal jepit karet | Berdebat sengit di trotoar | - | Spanduk MMT Cak Qodim siap dipasang di atas wajan |
-| 4 | Wiwin | Campur aduk (puas tapi iba) | Lap basah & gayung seng | Melihat Aji tersengat kenyataan | - | Aji menatap keunggulan kain mori |
-| 5 | Wiwin | Terguncang & sadar diri | Kuas liner, HP retak | Memahami batas fisik kuas manual | - | Merembesnya cat 0,4 mm menggagalkan scan QRIS |
-| 6 | Wiwin | Tergiur & bimbang | Cangkir kopi hitam | Saling menimbang gengsi vs peluang proyek | Sadar butuh uang 40 juta untuk obat Pak Lik | Tawaran proyek festival 50 spanduk menanti keputusan |
-| 7 | Wiwin | Syok & serba salah | Kuas pipih cat kuning | Masuk ke pusaran kerja sama yang kacau | - | Kain mori lele rusak dan jaket Aji bernoda permanen |
-| 8 | Wiwin | Lega & fokus | Kertas proposal, cangkir seng blirik | Bersekutu secara profesional (60-40) | - | Target 3 hari menyelesaikan prototipe spanduk hibrida |
-| 9 | Wiwin | Puas & jahil | Kuas, tombol kipas angin | Perang dingin batas lakban hitam | - | Menjaga wilayah ruko di tengah kerja sama hibrida |
-| 10 | Wiwin | Berempati & prihatin | Botol semprot oranye | Menyaksikan kegagalan stiker vinil Aji | - | Mencari metode alternatif selain stiker vinil tempel |
-| 11 | Wiwin | Hangat & terhibur | Mangkok kobokan jeruk nipis | Mencairkan dinding gengsi rivalitas | - | Menggali solusi teknis sablon dari tradisi |
-| 12 | Wiwin | Terinspirasi & takjub | Buku resep usang, toples getah damar | Menemukan titik temu sains dan tradisi | - | Menguji formula getah damar untuk sablon saring |
-| 13 | Wiwin | Bangga & serasi | Piring blirik, pasta damar hitam | Menyatukan sains modern dan kepekaan rabaan tangan | - | Uji coba sablon saring pada kain mori |
-| 14 | Wiwin | Girang lalu tegang | Rakel sablon kayu, HP jadul | Menikmati kemenangan kolaborasi hibrida | - | Menghadapi kedatangan mendadak mobil dinas pejabat |
-| 15 | Wiwin | Tertantang & geram | Kartu nama emas Pak Haris | Kompak melawan arogansi birokrat | - | Tenggat 2 minggu produksi 50 spanduk dengan denda 20% |
-| 16 | Wiwin | Terenyuh & terhubung | Cangkir seng blirik teh manis | Saling membuka luka masa lalu dan bersekutu hati | Mengetahui masa lalu PHK Aji | Menuntaskan 50 spanduk hibrida bersama |
-| 17 | Wiwin | Bersemangat lalu cemas | 50 gulung kain mori cap Garuda | Kompak bernegosiasi belanja bahan baku | - | Lobi kotor Mitra Graha mengancam proyek paguyuban |
-| 18 | Wiwin | Tenang & taktis | Kerupuk merah Padang, sendok bebek | Memimpin strategi perang gerilya produksi kain | - | Target membentangkan 50 kain sebelum inspeksi besok pagi |
-| 19 | Wiwin | Berpeluh & penuh daya juang | Kuas, rakel sablon, serbuk gergaji | Solidaritas tempur gotong royong | - | Menuntaskan 25 kain tersisa sebelum inspeksi subuh |
-| 20 | Wiwin | Tegang lalu lega | Corong seng kompresor, kain mori ke-50 | Bersatu padu dengan tetangga bengkel | - | Menghadapi inspeksi mendadak mobil dinas Pak Haris |
-| 21 | Wiwin | Tegang lalu bangga | Kain mori ke-50, HP retak Mbak Pur | Berdiri bersisian membela martabat usaha | - | Penandatanganan berita acara serah terima proyek |
-| 22 | Wiwin | Puas & waspada | Berita acara BAPHP, pulpen hitam | Bersama Cak Qodim mengunci kemenangan atas dinas | - | Persiapan pemasangan 50 tenda festival |
-| 23 | Wiwin | Hangat & terhubung | Cangkir blirik kopi hitam, amplop dinas kilat | Saling mengakui kelebihan dan menyatu rasa | Mengetahui apresiasi Aji pada lukisan kuas | Ada surat kilat dinas misterius tiba |
-| 24 | Wiwin | Tegang & tertantang | Surat dinas, kuas kayu jati Pak Lik | Solid bersama Aji dan sesepuh hadapi jebakan birokrasi | - | Menuntaskan 10 spanduk VIP sebelum Selasa fajar |
-| 25 | Wiwin | Berpeluh, linu, namun tersentuh | Kuas jati, plester koyo pergelangan tangan | Momen kedekatan fisik yang tulus saat Aji memijat tangan | - | Ancaman badai besar yang mengguncang atap ruko |
-| 26 | Wiwin | Panik lalu syok | Terpal oranye basah, ember plastik | Aji rela basah kuyup lindungi kain Wiwin | - | Mesin cetak digital Aji korslet tersiram air banjir |
-| 27 | Wiwin | Terharu & pilu | Senter kepala Pak Lik, jaket kanvas dingin | Wiwin memeluk Aji yang limbung; ikatan batin terkunci | - | Mesin cetak digital Aji mati total terendam air |
-| 28 | Wiwin | Berempati & bangkit berani | Cobek batu sambal terasi, handuk katun | Meneguhkan Aji yang terpukul; bersiap gotong royong | - | Memasang 60 spanduk sebelum pembukaan festival malam ini |
-| 29 | Wiwin | Bangga & terharu | Tali tambang, botol air mineral | Bersama seluruh komunitas jalanan mengibarkan 60 spanduk | - | Pembukaan akbar festival kuliner nanti malam |
-| 30 | Wiwin | Sangat bahagia & bangga | Spanduk mori nomor satu, lampu blitz kamera | Aji menyentuh jemari Wiwin di depan panggung menteri | - | Pesta perayaan malam festival kuliner |
-| 31 | Wiwin | Sangat bahagia & luluh | Piring blirik lele goreng, genggaman tangan Aji | Hubungan resmi bertransformasi menjadi cinta yang tulus | - | Rencana menyatukan ruko dan usaha bersama |
-| 32 | Wiwin | Damai & bahagia seutuhnya | Palu kayu, kuas nomor lima cat oranye | Menyatukan cinta dan masa depan bersama Aji | - | Kisah novel tamat dengan sempurna |
+| 1 | Waspada; usaha terancam | Kuas dan kain mori | Belum mengenal Aji | Obat Pak Lik perlu dibeli | Identitas penyewa ruko seberang |
+| 2 | Jengkel dan tertantang | Pesanan spanduk Cak Qodim | Saling sindir | Pantangan makan lele adalah kepercayaan pribadi keluarga Cak Qodim | Persaingan dengan Aji |
+| 3 | Marah dan defensif | Sandal jepit | Rival terbuka | - | Spanduk MMT Aji akan diuji |
+| 4 | Kesal tetapi mulai melihat risiko Aji | Spanduk MMT yang melengkung | Rivalitas dengan rasa iba | Aji mengalami luka bakar ringan saat melepas bahan yang melunak | Dampak spanduk MMT pada warung |
+| 5 | Sadar keterbatasan metode manual | Kuas liner dan ponsel | Masih bersaing | QRIS manual gagal terbaca | Mencari metode panel digital |
+| 6 | Bimbang menghadapi proyek | Map proyek | Saling menimbang kerja sama | Proyek awal 50 warung | Keputusan menerima proyek |
+| 7 | Terkejut dan canggung | Kuas dan jaket bernoda | Ketegangan mulai retak | Noda kuning menetap di siku jaket Aji | Kerja sama |
+| 8 | Fokus dan berhitung | Proposal dan catatan biaya | Sepakat bekerja sama | Bagi hasil dari laba bersih | Prototipe dan pembagian tugas |
+| 9 | Jahil tetapi waspada | Lakban pembatas | Rekan kerja yang belum akur | - | Menyatukan ruang kerja |
+| 10 | Menguji metode dan belajar dari gagal | Stiker vinil | Mulai mengakui keterbatasan metode masing-masing | Stiker tidak cocok untuk kain | Alternatif pemasangan panel |
+| 11 | Lebih terbuka | Mangkuk kobokan | Momen akrab pertama | Aji mulai menghargai kebiasaan lokal | Mencari solusi teknis |
+| 12 | Penasaran pada catatan Pak Lik | Buku resep | Mulai berbagi pengetahuan | Buku adalah catatan lama, bukan formula ajaib | Eksperimen bahan |
+| 13 | Tekun dan kritis | Tiga sampel kain dan alat uji | Saling melengkapi secara teknis | Campuran perlu diuji berulang | Menentukan bahan yang layak dilanjutkan |
+| 14 | Bangga dan tegang | Panel transfer dan ponsel | Kolaborasi mulai berhasil | QRIS harus sesuai merchant; mesin pres dipinjam dari pemasok | Kedatangan Haris |
+| 15 | Tertantang | Dokumen proyek | Berdiri bersama menghadapi tekanan bisnis | Haris mantan atasan Aji dan pemilik Mitra Graha | Tenggat dua minggu |
+| 16 | Mulai memahami luka masing-masing | Cangkir teh | Kepercayaan personal bertambah | Aji di-PHK; Wiwin batal kuliah seni | Menyelesaikan proyek |
+| 17 | Bersemangat dan cemas | Kain mori | Bekerja sebagai tim | 50 gulung × 4 meter untuk 50 spanduk | Lobi bisnis Haris |
+| 18 | Taktis | Catatan pemeriksaan | Saling mengandalkan | Sumber informasi Bang Rahmat dijelaskan | Persiapan produksi |
+| 19 | Tekun dalam produksi | Kain, kuas, rakel | Kerja sama makin teruji | QRIS dipasangkan per merchant | Produksi bertahap |
+| 20 | Lelah tetapi fokus | Rak pengering | Mulai memahami ritme kerja masing-masing | Pengeringan aman dan bertahap | Pemeriksaan hasil |
+| 21 | Tegang lalu lega | Ponsel penguji | Mendampingi pemeriksaan | Scan bukan transaksi | Penerimaan hasil |
+| 22 | Puas dan berhati-hati | Berita acara | Kerja sama profesional menguat | Pihak berwenang menandatangani penerimaan | Pemasangan dan festival |
+| 23 | Hangat dan mulai dekat | Cangkir kopi | Percakapan personal lebih terbuka | Aji menghargai lukisan Wiwin | Surat perubahan jadwal |
+| 24 | Tertantang oleh tambahan pekerjaan | Surat dan daftar bahan | Kompak menghadapi tekanan | Tambahan 10 VIP; total 60 | Kebutuhan kain dan biaya tambahan |
+| 25 | Kram dan tersentuh | Kuas; sepuluh VIP | Aji membantu tanpa mengambil alih | Tangan Wiwin perlu istirahat | Badai mendekat |
+| 26 | Panik tetapi bertindak hati-hati | Terpal dan senter | Saling menjaga keselamatan | Listrik harus diputus dari sumber utama | Mesin terkena air |
+| 27 | Khawatir pada Aji | Kotak P3K dan kasa | Kedekatan emosional meningkat | Aji terluka oleh tepi talang setelah area aman | Kerusakan mesin |
+| 28 | Berempati dan menyusun ulang tugas | Catatan teknisi | Wiwin mendukung tanpa menjanjikan solusi instan | Mesin belum dipastikan tidak bisa diperbaiki | Pemasangan 60 spanduk |
+| 29 | Bangga dan fokus | Daftar pemasangan | Paguyuban bekerja bersama | Aji tidak mengangkat beban berat | Festival malam |
+| 30 | Lega dan bangga | Panel QRIS dan ponsel | Momen kedekatan sederhana | Transaksi nyata berhasil | Masa depan usaha |
+| 31 | Mulai membicarakan masa depan | Piring blirik | Wiwin dan Aji saling menggenggam | Mesin dan biaya masih jadi persoalan | Keputusan usaha bersama |
+| 32 | Tenang tetapi realistis | Plang studio dan kuas | Pasangan sekaligus mitra usaha | Pembagian peran dan biaya disepakati | Studio baru mulai beroperasi |
 
 ## E. Fakta Keras dan Angka
 
@@ -110,7 +110,12 @@
 | Tokoh Utama | Dwi Winarsih (Wiwin, 26 tahun) | Canon |
 | Tokoh Pendamping | Aji Yudanta (28 tahun) | Canon |
 | Setting Utama | Koridor Kalimalang, Jakarta Timur | Canon |
-| Panjang kain spanduk standar | 4 meter × 1 meter | Bab 1 |
+| Ukuran spanduk standar | 4 meter × 1 meter | Bab 1 |
+| Jumlah spanduk | 50 pesanan awal + 10 VIP = 60 | Bab 6, 23–30 |
+| Kain awal | 53 gulung × 4 meter = 212 meter; 200 meter untuk 50 spanduk awal dan 12 meter cadangan | Bab 17 |
+| Kain tambahan VIP | 12 meter cadangan dari pembelian Bab 17 + 32 meter pembelian baru = 44 meter; 40 meter untuk 10 spanduk VIP dan 4 meter cadangan. | Bab 17, 24–25 |
+| Pembagian laba bersih | Bab 8: 60% Wiwin, 40% Aji untuk proyek festival setelah biaya; Bab 32: dipakai sebagai patokan awal Studio Tenda Malam dan dapat ditinjau ulang bila jenis pesanan/beban kerja berubah | Bab 8, 32 |
+| Mesin pres termal | Dipinjam dari pemasok saat proyek; Aji membeli unit bekas setelah festival | Bab 14, 25, 32 |
 
 ## F. Benang Terbuka (Setup / Planting 2x & Payoff)
 
@@ -120,4 +125,28 @@
 | Mitos pantang lele Lamongan | Bab 2 | Bab 11 | Bab 29 | Prinsip harga diri keluarga perantau |
 | Noda cat kuning di siku jaket | Bab 7 | Bab 20 | Bab 32 | Simbol abadi menyatunya dua dunia |
 | Cobek batu sambal terasi | Bab 11 | Bab 20 | Bab 28 | Simbol kehangatan komunal warga gang di saat krisis melanda |
-| Buku resep pigmen fosfor koyak | Bab 12 | Bab 19 | Bab 30 | Formula damar tradisional dipadukan dengan sablon transfer |
+| Buku catatan bahan dan percobaan cat lama | Bab 12 | Bab 19 | Bab 30 | Catatan lama menjadi rujukan eksperimen; panel QRIS tetap dicetak digital dan dipasang dengan transfer |
+
+
+## G. Catatan Audit Kronologi dan Kontinuitas
+
+- Bab 3 dan Bab 4 berlangsung pada malam yang sama. Bab 4 dimulai sekitar setengah jam setelah spanduk dipasang pada Bab 3.
+- Bab 8 berakhir dengan janji bertemu pukul 07.00 keesokan hari. Bab 9 kini menyebut Aji tiba pukul 07.00; ketidaksesuaian waktu yang sebelumnya ada sudah diperbaiki.
+- Bab 7 dan Bab 8 menetapkan target prototipe tiga hari. Eksperimen berlanjut sampai Sabtu, sedangkan prototipe berhasil pada Minggu sore di Bab 14. Bab 11 kini memperlihatkan Wiwin dan Aji meminta tambahan waktu sampai Minggu dan Cak Qodim setuju meninjau hasilnya, tanpa menjanjikan persetujuan otomatis.
+- Bab 18 menyatakan masa produksi dua minggu baru dihitung setelah rancangan dan prototipe disetujui. Bab 19 kini menjelaskan persetujuan formal panitia dan dokumen tertulis yang dibawa Cak Qodim sehari sebelum produksi dimulai.
+- Bab 20 menyebut hari keenam produksi. Bab 21 berlangsung keesokan paginya pukul 09.00 untuk verifikasi proses; Bab 22 berlangsung setelah sepuluh spanduk terakhir selesai untuk pemeriksaan akhir. Hari kalender Bab 19–22 tidak disebutkan dan tidak perlu ditebak.
+- Bab 17 kini menjelaskan pembelian 53 gulung/212 meter: 50 gulung/200 meter dialokasikan untuk pesanan awal dan 3 gulung/12 meter menjadi cadangan. Bab 24 memakai cadangan 12 meter itu bersama pembelian tambahan 32 meter untuk 10 spanduk VIP.
+- Bab 23–24 berlangsung Minggu sore secara berurutan; Bab 25 berlangsung Senin, Bab 26–31 Selasa, dan Bab 32 pada Minggu berikutnya.
+- Bab 31 berlangsung sekitar pukul 21.00 pada malam festival. Bab 32 berlangsung beberapa hari kemudian, Minggu menjelang siang, saat Studio Tenda Malam mulai beroperasi.
+
+## H. Aturan Fakta yang Mengikat Setelah Revisi
+
+- Haris adalah pemilik Mitra Graha dan mantan atasan Aji, bukan pejabat dinas. Keputusan proyek, inspeksi, dan penerimaan hasil berada pada panitia/perwakilan dinas yang berwenang.
+- Proyek awal 50 spanduk bertambah 10 VIP; total akhir 60.
+- Setiap warung memiliki QRIS sendiri. Pemindaian menampilkan identitas merchant; transaksi hanya berhasil setelah pembayaran dikonfirmasi.
+- Tambahan 10 spanduk membutuhkan tambahan kain dan biaya yang disetujui. Persediaan awal 200 meter hanya untuk 50 spanduk.
+- Wiwin melukis ilustrasi; panel QRIS disiapkan secara digital dan dipasang melalui metode transfer yang diuji.
+- Badai: listrik diputus dari sumber utama sebelum siapa pun kembali ke area tergenang. Aji terluka oleh tepi talang setelah area dinyatakan aman.
+- Mesin cetak Aji mengalami kerusakan komponen dan perlu pemeriksaan/perkiraan biaya lanjutan; jangan menyebutnya pasti mati total.
+- Aji tidak mengangkat beban berat setelah luka tangan. Bang Parlin bukan teknisi mesin.
+- Studio Tenda Malam membagi peran dan mencatat biaya. Keuntungan dihitung setelah seluruh biaya proyek, bukan dari omzet kotor.
