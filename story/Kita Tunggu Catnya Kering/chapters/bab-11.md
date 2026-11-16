@@ -78,4 +78,12 @@ Ia memandangku sebentar. "Itu pujian?"
 
 "Jangan geer. Aku cuma sedang menyampaikan fakta."
 
-Aji tersenyum, lalu kembali makan. Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
+Aji tersenyum, lalu kembali makan. Cak Qodim sempat bercerita bahwa pelanggan sering memilih warung bukan hanya karena rasa, tetapi juga karena spanduk yang mudah dikenali dari jalan. Ia hafal gambar mana yang membuat orang berhenti dan tulisan mana yang terlalu kecil untuk dibaca dari atas motor.
+
+"Makanya kumis lele harus kelihatan," katanya. "Orang lewat cuma punya waktu beberapa detik."
+
+Aku mengangguk. Selama ini aku menganggap bentuk dan warna sebagai bagian dari kebiasaan melukis. Mendengar Cak Qodim menjelaskannya sebagai cara menarik pelanggan membuatku sadar bahwa setiap detail punya fungsi.
+
+Aji memperhatikan percakapan itu tanpa menyela. Sesekali ia bertanya tentang posisi lampu dan jarak pandang dari jalan. Cak Qodim menjawab sambil membalik tempe, lalu menyuruh kami tidak membahas pekerjaan terus-menerus saat makan.
+
+Malam itu tidak ada pembicaraan besar tentang masa lalu atau rencana hidup. Kami hanya menghabiskan makan malam, membahas bahan yang belum ditemukan, dan sesekali berdebat soal sambal. Anehnya, percakapan sederhana itu terasa lebih mudah daripada saat kami berdiri berhadapan di ruko.
