@@ -10,7 +10,7 @@ Aku menatapnya. "Sejak kapan kamu hafal takaran kopiku?"
 
 "Sejak beberapa kali kamu mengeluh kalau gulanya terlalu banyak."
 
-Aku tertawa kecil. Kopi itu terasa pas, tidak terlalu manis. Di dalam ruko, lima puluh spanduk sudah dikemas dan disusun berdasarkan nomor. Senin pagi, anggota paguyuban akan mengangkutnya ke lokasi festival.
+Aku tertawa kecil. Kopi itu terasa pas, tidak terlalu manis. Di dalam ruko, lima puluh spanduk sudah dikemas dan disusun berdasarkan nomor. Pengangkutan ke lokasi festival dijadwalkan Senin pagi, sebelum pemasangan dilakukan.
 
 Aji memandangi tangannya. Jemarinya yang biasanya memegang tetikus kini masih menyisakan noda hitam dari proses sablon.
 
@@ -52,10 +52,10 @@ Aji tertawa. Ia tidak membantah.
 
 Menjelang malam, sebuah kurir datang membawa amplop dari panitia. Cak Qodim yang kebetulan sedang di ruko menerima dan membukanya. Wajahnya berubah serius setelah membaca surat.
 
-"Jadwal festival dimajukan," katanya. "Pembukaan yang semula Kamis dipindah ke Selasa malam karena perubahan agenda kunjungan."
+"Jadwal festival dimajukan," katanya. "Pembukaan yang semula Kamis dipindah ke Selasa malam karena perubahan agenda kunjungan. Pengiriman lima puluh spanduk utama yang semula dijadwalkan Senin pagi ikut ditunda sampai jadwal pemasangan dipastikan."
 
 Aji berdiri. "Pemasangan Senin masih bisa. Tapi kenapa Cak kelihatan begitu?"
 
-Cak Qodim membalik halaman kedua. "Ada tambahan permintaan sepuluh spanduk untuk zona VIP. Mereka minta selesai sebelum Selasa pagi."
+Cak Qodim membalik halaman kedua. "Ada tambahan permintaan sepuluh spanduk untuk zona VIP. Mereka minta selesai sebelum Selasa pagi, lalu dipasang bersama lima puluh spanduk utama."
 
 Aku menatap Aji. Kopi di cangkirku belum habis, tetapi sore santai kami rupanya sudah selesai.
