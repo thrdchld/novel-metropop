@@ -14,7 +14,7 @@ Aku melirik kain mori yang sudah kusiapkan. "Jangan langsung di kain yang gambar
 
 "Makanya saya bawa sampel."
 
-Kami memotong dua potongan kain sisa. Aji membersihkan salah satunya, lalu menempelkan bahan transfer dengan squeegee kecil. Pada awalnya, permukaannya tampak rata. Namun ketika kain diangkat dari meja, bagian tengahnya membentuk kerutan tipis mengikuti tekstur tenunan.
+Kami memotong dua potongan kain sisa dengan ukuran sama. Aji membersihkan salah satunya, lalu menempelkan bahan transfer menggunakan squeegee kecil. Pada awalnya, permukaannya tampak rata. Namun ketika kain diangkat dari meja, bagian tengahnya membentuk kerutan tipis mengikuti tekstur tenunan.
 
 "Kelihatan?" tanyaku.
 
@@ -22,15 +22,15 @@ Aji menekan bagian yang menggelembung dengan ujung jari. "Permukaan kainnya tida
 
 "Dan seratnya membuat lapisan itu tidak menempel sempurna."
 
-Kami mencoba sampel kedua dengan alas yang lebih rata dan tekanan lebih merata. Hasilnya sedikit lebih baik, tetapi ketika kain dilipat, salah satu sudut panel terangkat.
+Kami mencoba sampel kedua dengan alas yang lebih rata dan tekanan lebih merata. Aji menggosok permukaan bahan dari tengah ke pinggir, memastikan tidak ada udara yang terperangkap. Hasilnya sedikit lebih baik. Namun ketika kain dilipat perlahan, salah satu sudut panel terangkat.
 
 Aji memeriksanya dari dekat. "Kalau dipasang seperti ini, lama-lama bisa mengelupas."
 
 "Belum lagi kalau spanduknya digulung atau ditarik saat pemasangan."
 
-Ia tidak membantah. Ia mengangkat panel itu perlahan, lalu membandingkan bagian yang menempel dan bagian yang terangkat.
+Ia mengangkat kain dan mencoba membentangkannya kembali. Sudut yang terangkat tetap tidak mau menempel. Aji mengambil catatan, menuliskan jenis bahan, tekanan yang dipakai, dan hasil setelah kain dilipat.
 
-"Berarti bahan ini belum cocok untuk cara pemasangan kita," katanya.
+"Kalau ditempel di permukaan datar, bahan ini mungkin bagus," katanya. "Tapi kain mori punya tekstur. Kita tidak bisa menganggap hasilnya akan sama."
 
 Aku mengambil potongan kain itu dan membentangkannya di meja. "Bukan berarti semua bahan transfer gagal. Kita baru mencoba satu jenis."
 
@@ -39,6 +39,12 @@ Aji mengangguk. "Betul. Saya akan cari bahan yang memang sesuai untuk kain berte
 "Jangan membeli alat dulu sebelum tahu bahan apa yang dipakai."
 
 "Setuju."
+
+Aku mengambil sampel pertama, lalu membandingkan bagian yang menempel dengan bagian yang berkerut. Ada sisa perekat tipis yang menempel di serat kain. Kalau dipaksa dilepas, permukaan mori bisa ikut tertarik.
+
+"Ini juga harus dibersihkan," kataku. "Jangan sampai sisa lemnya mengganggu cat kalau nanti kita mencoba bahan lain."
+
+Aji mengambil plastik bening untuk membungkus sampel gagal. "Kita simpan sebagai pembanding. Kalau bahan berikutnya berhasil, kita tahu apa yang berubah."
 
 Aku tersenyum tipis. Biasanya Aji akan membela pilihannya panjang lebar. Kali ini ia mencatat kegagalan itu tanpa mencari alasan.
 
