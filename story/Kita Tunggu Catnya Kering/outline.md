@@ -142,83 +142,41 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 - **Detail Fisik & Planting-Callback:** Kertas kalkir gambar teknik, struk obat apotek resep asma.
 
 ### Bab 9: Aturan Main
-- **Adegan & Tokoh:** Rabu, pukul 09.00 WIB di ruko Wiwin | Wiwin, Aji, Bang Parlin.
-- **Variasi Pembuka:** Pikiran Tajam
-- **Skenario Masuk:** Dua orang yang terbiasa hidup saling membenci di pinggir jalan tidak akan pernah bisa rukun hanya karena selembar kertas perjanjian kerja sama.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji memindahkan laptop, meja potong akrilik, dan alat sablonnya ke sudut ruko Wiwin, memberi batas lakban merah di lantai.
-  2. Wiwin menetapkan tiga aturan mutlak: dilarang menyalakan rokok di dekat tiner, dilarang menyetel musik elektronik berisik, dan dilarang menyentuh kuas peninggalan pamannya.
-  3. Bang Parlin masuk meminta pinjam obeng kembang sambil tertawa melihat lakban merah yang membelah ruko menjadi dua negara.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Menyatukan tradisi dan teknologi di atas lantai semen retak ternyata membutuhkan lebih banyak lakban daripada akal sehat.
-- **Detail Fisik & Planting-Callback:** Lakban merah pembatas lantai, obeng kembang bergagang kayu.
+- **Adegan & Tokoh:** Rabu pagi di ruko Wiwin | Wiwin, Aji.
+- **Aksi:** Mereka menata dua area kerja yang berbeda. Lakban hitam menjadi penanda batas agar alat dan bahan tidak tercampur, tetapi keduanya sepakat batas itu bisa dilewati saat pekerjaan membutuhkan kolaborasi. Mereka menyepakati ukuran dan cara mengubah desain.
+- **Hook:** Prototipe harus segera dibuat, tetapi bahan transfer pertama belum terbukti cocok.
 
 ### Bab 10: Stiker
-- **Adegan & Tokoh:** Kamis, pukul 16.30 WIB di gang samping ruko | Wiwin, Aji.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Wiwin menyemprotkan air selang berkekuatan penuh tepat ke arah sudut spanduk uji coba pertama yang dipegang erat oleh Aji.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji mencoba menempelkan stiker vinil tahan air berisi kode QRIS di atas permukaan kain mori yang sudah dilukis.
-  2. Di bawah guyuran air selang simulasi hujan deras, sudut stiker vinil mulai menggelembung dan terkelupas dalam hitungan dua menit.
-  3. Wiwin mematikan kran air sambil tersenyum mengejek, membuktikan bahwa kain berpori menolak segala sesuatu yang dipaksakan menempel dari luar.
-- **Bentuk Hook Penutup:** Pertanyaan Menggantung
-- **Skenario Penutup:** Aji memungut stiker basah yang terkoyak di atas paving gang, memeras otak mencari cara agar tinta digital bisa meresap ke dalam jiwa serat kain.
-- **Detail Fisik & Planting-Callback:** Selang air hijau berlumut, stiker vinil terkelupas berkerut.
+- **Adegan & Tokoh:** Kamis sore di meja kerja | Wiwin, Aji.
+- **Aksi:** Aji mencoba bahan transfer pertama pada potongan mori. Permukaan bertekstur membuat panel tidak menempel rata dan salah satu sudut terangkat ketika kain dilipat. Mereka menyimpulkan bahan itu belum cocok, bukan menyatakan semua metode transfer gagal.
+- **Hook:** Aji mencari bahan yang memang sesuai untuk kain bertekstur.
 
 ### Bab 11: Makan Malam
-- **Adegan & Tokoh:** Jumat, pukul 23.30 WIB di warung tenda Cak Qodim | Wiwin, Aji, Cak Qodim.
-- **Variasi Pembuka:** Dialog Menusuk
-- **Skenario Masuk:** "Makan lele pakai sendok garpu itu kayak mandi pakai jas hujan, Mas! Nih, cuci tangan di mangkuk kobokan jeruk nipis!"
-- **Ketukan Aksi & Reaksi:**
-  1. Wiwin memaksa Aji yang lapar setelah seharian gagal uji coba untuk makan malam di warung Cak Qodim tanpa alat makan modern.
-  2. Aji memprotes sepiring kol goreng berminyak yang ia sebut karsinogenik, namun tertegun saat mencicipi kelezatan gurih-manisnya yang lumer di lidah.
-  3. Cak Qodim menceritakan filosofi kobokan air jeruk nipis yang meluruhkan lendir dan rasa lelah para pekerja malam di Jakarta.
-- **Bentuk Hook Penutup:** Pernyataan Retoris
-- **Skenario Penutup:** Malam itu Aji belajar bahwa kenikmatan hidup jalanan tidak pernah dihitung dari takaran gram nutrisi, melainkan dari keberanian mengotori tangan sendiri.
-- **Detail Fisik & Planting-Callback:** Mangkuk kobokan seng seiris jeruk nipis, kol goreng layu kecokelatan beraroma terasi.
+- **Adegan & Tokoh:** Kamis malam di warung Cak Qodim | Wiwin, Aji, Cak Qodim.
+- **Aksi:** Wiwin dan Aji makan bersama setelah mencuci tangan dengan sabun. Aji tetap memakai sendok, tetapi mulai menikmati makanan warung dan mengakui pengalaman Wiwin dalam membaca bahan. Percakapan mereka beralih dari saling merendahkan menjadi saling memahami cara kerja.
+- **Hook:** Mereka masih belum menemukan bahan transfer yang tepat.
 
 ### Bab 12: Buku Resep
-- **Adegan & Tokoh:** Sabtu, pukul 22.00 WIB di kamar belakang Pak Lik Harto | Wiwin, Aji, Pak Lik Harto.
-- **Variasi Pembuka:** Sensori Lingkungan
-- **Skenario Masuk:** Bau minyak kayu putih dan sesak napas memenuhi kamar sempit saat Pak Lik Harto terbatuk keras memegangi dadanya di atas kasur kapuk tua.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji sigap memapah Pak Lik Harto dan mengambilkan tabung inhaler dari atas laci kayu yang reot.
-  2. Dari laci yang terbuka, sebuah buku tulis bersampul cokelat lusuh dengan tulisan tangan tinta merah jatuh ke lantai, sebagian halamannya robek terkena tumpahan tiner masa lalu.
-  3. Pak Lik Harto berbisik lemah bahwa buku itu berisi rahasia oplosan pigmen neon Pantura yang bisa menyala di kegelapan tanpa bantuan listrik.
-- **Bentuk Hook Penutup:** Planting Tanda Tanya
-- **Skenario Penutup:** Aji memungut serpihan kertas yang memuat coretan takaran kimia lokal bertuliskan "Fosfor Kuning & Getah Damar", menyadari paman Wiwin bukan sekadar pelukis biasa.
-- **Detail Fisik & Planting-Callback:** Buku resep bersampul cokelat bertinta merah robek, inhaler asma warna biru.
+- **Adegan & Tokoh:** Jumat pagi di kamar belakang Pak Lik | Wiwin, Aji, Pak Lik Harto.
+- **Aksi:** Wiwin menemukan buku catatan lama Pak Lik yang berisi percobaan cat, pigmen, minyak pengering, dan getah damar. Pak Lik menjelaskan beberapa formula pernah gagal karena membuat kain kaku atau lapisan retak. Buku itu hanya menjadi referensi; Aji meminta izin memotret beberapa halaman lalu mengembalikannya ke lemari.
+- **Hook:** Catatan lama memberi petunjuk, tetapi bahan modern tetap harus diuji.
 
 ### Bab 13: Rumus Kimia
-- **Adegan & Tokoh:** Minggu, pukul 13.00 WIB di meja kerja Wiwin | Wiwin, Aji.
-- **Variasi Pembuka:** Reaksi Benda
-- **Skenario Masuk:** Jarum timbangan dapur manual bergetar pelan saat Aji menuangkan serbuk belerang kuning dan getah damar tumbuk ke dalam wadah kaleng bekas susu kental manis.
-- **Ketukan Aksi & Reaksi:**
-  1. Aji menguraikan catatan Pak Lik Harto menggunakan prinsip kimia modern, menghitung perbandingan viskositas agar cat bisa disablonkan secara presisi.
-  2. Wiwin menguji kepekatan adonan dengan ujung jarinya, mengoreksi takaran Aji berdasarkan rasa lengket yang sudah ia hafal sejak umur sepuluh tahun.
-  3. Kolaborasi pertama mereka membuahkan tinta pasta kental berwarna hijau neon yang tidak berbau tiner menyengat.
-- **Bentuk Hook Penutup:** Interupsi Tiba-Tiba
-- **Skenario Penutup:** Suara deru knalpot motor matik berhenti di depan ruko, menurunkan seorang pria berpakaian safari necis yang menatap sinis ke arah meja kerja mereka.
-- **Detail Fisik & Planting-Callback:** Kaleng susu kental manis tempat adukan pigmen, timbangan dapur warna merah.
+- **Adegan & Tokoh:** Sabtu siang di meja kerja | Wiwin, Aji.
+- **Aksi:** Mereka membandingkan tiga campuran pada potongan kain. Setiap sampel diberi label dan diuji setelah kering, termasuk kelenturan, daya tutup, dan kemungkinan warna berpindah. Tidak ada formula ajaib atau campuran yang langsung dinyatakan sempurna; catatan Pak Lik membantu mereka menghindari kesalahan lama.
+- **Hook:** Mereka masih perlu menemukan cara memasang QRIS digital yang tidak merusak kain.
 
 ### Bab 14: Uji Coba
-- **Adegan & Tokoh:** Senin, pukul 20.30 WIB di ruko Wiwin yang gelap | Wiwin, Aji.
-- **Variasi Pembuka:** Aksi Fisik
-- **Skenario Masuk:** Aji menarik sakelar utama ruko ke bawah, menenggelamkan seluruh ruangan ke dalam kegelapan pekat tanpa seberkas cahaya jalanan.
-- **Ketukan Aksi & Reaksi:**
-  1. Di atas kain mori yang terbentang di lantai, siluet ikan lele dan kepala ayam jago mendadak berpendar terang memancarkan cahaya hijau stabilo yang magis.
-  2. Aji menatap pendaran lukisan itu tanpa berkedip, terpesona oleh kekuatan visual yang tidak pernah bisa dihasilkan oleh layar monitor komputer mana pun.
-  3. Wiwin yang berdiri tepat di samping Aji tanpa sadar menahan napas saat tangan Aji menyentuh pergelangan tangannya untuk memastikan catnya sudah kering.
-- **Bentuk Hook Penutup:** Keputusan Sunyi
-- **Skenario Penutup:** Dalam remang pendaran hijau neon di kegelapan ruko, jarak di antara dua orang yang tadinya bermusuhan mencair tanpa satu patah kata pun terucap.
-- **Detail Fisik & Planting-Callback:** Pendaran fosfor hijau stabilo di kegelapan, sakelar listrik besi hitam tua.
-
+- **Adegan & Tokoh:** Minggu sore di ruko Wiwin | Wiwin, Aji, Bang Parlin, Pak Haris.
+- **Aksi:** Aji menggunakan file QRIS resmi merchant, mencetaknya pada bahan transfer yang dipilih, lalu menerapkannya dengan mesin pres termal pinjaman pemasok. Panel diuji setelah dingin, dilipat, dan dipindai untuk memastikan nama merchant benar. Prototipe berhasil, tetapi belum mewakili hasil produksi massal. Pak Haris tiba saat mereka memeriksa hasil.
+- **Hook:** Aji mengenali mantan atasannya, Pak Haris, yang datang menilai prototipe.
+ 
 ### Bab 15: Kunjungan
 - **Adegan & Tokoh:** Minggu sore, berlanjut dari Bab 14 di ruko Wiwin | Wiwin, Aji, Pak Haris.
-- **Aksi:** Haris datang sebagai pemilik Mitra Graha dan mantan atasan Aji. Ia menekan Aji melalui hubungan bisnis dan menawarkan pekerjaan kembali. Pemeriksaan proyek dilakukan sebagai pemeriksaan kesiapan, bukan penerimaan akhir. Tenggat produksi dua minggu dimulai setelah rancangan/prototipe disetujui.
+- **Aksi:** Haris datang sebagai pemilik Mitra Graha dan mantan atasan Aji. Ia mempertanyakan kemampuan produksi skala besar dan menegaskan bahwa panitia dapat memilih vendor lain jika paguyuban belum siap. Pemeriksaan proyek tetap menjadi kewenangan panitia/dinas, bukan Haris. Tenggat produksi dua minggu dimulai setelah rancangan/prototipe disetujui.
 - **Hook:** Haris memberi tekanan agar proyek paguyuban beralih ke Mitra Graha, tetapi keputusan tetap berada pada panitia/dinas.
 
-### Bab 16: Cerita Lama
+### Bab 16: Shortcut
 - **Adegan & Tokoh:** Minggu malam di tangga ruko | Wiwin, Aji.
 - **Aksi:** Aji membuka cerita PHK dan portofolionya yang diambil mantan atasan. Wiwin menceritakan kuliah seni yang batal dan alasan bertahan di usaha Pak Lik. Informasi dibuka bertahap dalam percakapan, bukan monolog panjang.
 - **Hook:** Keduanya mulai memahami alasan di balik sikap defensif masing-masing.
