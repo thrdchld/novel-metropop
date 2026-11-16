@@ -24,17 +24,17 @@
 | 16 | Minggu, 21.00 | Tangga ruko lantai dua | Wiwin, Aji | Aji bercerita tentang PHK dan portofolio; Wiwin menceritakan kuliah seni yang batal; keduanya mulai memahami alasan masing-masing |
 | 17 | Kamis, 05.00 | Blok A Pasar Tanah Abang | Wiwin, Aji, Koh Acong, Bang Rahmat | Borong 50 gulung mori primisima katun; Bang Rahmat kabarkan lobi gelap Pak Haris dan Mitra Graha |
 | 18 | Kamis, 07.30 | Warung dekat stasiun | Wiwin, Aji, Bang Rahmat | Kabar peninjauan kesiapan yang akan dilakukan beberapa hari lagi; sumber informasi Bang Rahmat berasal dari sopir dekat kantor dinas, bukan akses jabatan. |
-| 19 | Beberapa hari setelah Bab 18 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi massal dimulai bertahap di meja dan rak kerja; tiap QRIS dicocokkan dengan merchant pemiliknya. |
-| 20 | Dalam masa produksi | Ruko Wiwin dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin | Pengeringan dilakukan dengan sirkulasi udara dan jarak antarkain; tidak memakai udara kompresor dari knalpot panas. |
+| 19 | Beberapa hari setelah Bab 18 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Produksi bertahap dimulai setelah persetujuan prototipe; tiap QRIS dicocokkan dengan merchant pemiliknya. |
+| 20 | Hari keenam masa produksi | Ruko Wiwin dan bengkel Bang Parlin | Wiwin, Aji, Bang Parlin | Empat puluh kain telah lolos pemeriksaan visual; sepuluh lainnya masih dikerjakan. Pengeringan memakai sirkulasi udara dan jarak antarkain. |
 | 21 | Beberapa hari setelah produksi dimulai, pukul 09.00 | Pelataran ruko Wiwin | Wiwin, Aji, staf dinas, Cak Qodim | Tim verifikasi memeriksa proses produksi dan kecocokan data QRIS; pemindaian bukan bukti pembayaran atau penerimaan akhir. |
 | 22 | Setelah pemeriksaan akhir | Ruko Wiwin | Wiwin, Aji, Cak Qodim, perwakilan dinas | Pemeriksaan hasil dan berita acara dilakukan oleh pihak berwenang bersama paguyuban; Haris tidak menandatangani sebagai pejabat. |
 | 23 | Minggu sore | Teras ruko Wiwin | Wiwin, Aji, kurir panitia | Momen kopi dan percakapan personal; surat resmi mengabarkan perubahan jadwal dan penundaan pengiriman. |
 | 24 | Minggu sore, berlanjut langsung dari Bab 23 | Ruko Wiwin | Wiwin, Aji, Cak Qodim, Pak Lik Harto | Festival dimajukan ke Selasa malam; pengiriman 50 spanduk ditunda dan pesanan bertambah 10 spanduk VIP; biaya serta tambahan kain harus disetujui. |
-| 25 | Senin, sekitar 21.00–23.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Sepuluh spanduk VIP diselesaikan; tangan Wiwin kram dan mereka beristirahat; badai mendekat. |
+| 25 | Senin, sekitar 21.00–23.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Kain tambahan 32 meter telah tiba setelah perubahan pesanan disetujui. Sepuluh spanduk VIP diselesaikan dengan mesin pres termal pinjaman; tangan Wiwin kram dan badai mendekat. |
 | 26 | Selasa, sekitar 01.30 | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Talang terlepas dan air masuk; sepuluh kain VIP dipindahkan; mesin terkena rembesan dan listrik diputus dari sumber utama setelah bantuan petugas. |
 | 27 | Selasa dini hari, setelah area aman | Ruko Wiwin | Wiwin, Aji, Pak Lik Harto | Aji membantu mengarahkan talang setelah listrik diputus; tepi seng melukai telapak tangannya. |
 | 28 | Selasa pagi | Ruko Wiwin | Wiwin, Aji, teknisi, Bang Parlin, Mbak Pur, Pak Lik Harto, Cak Qodim | Teknisi menemukan kerusakan komponen mesin, tetapi belum menyatakan mesin tidak bisa diperbaiki; paguyuban menyiapkan pemasangan. |
-| 29 | Selasa, menjelang siang | Area festival Cawang | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto, pedagang, Haris | Paguyuban memasang 60 spanduk; Wiwin memeriksa lukisan, Aji mengawasi daftar QRIS, Haris hadir sebagai konsultan/pemilik Mitra Graha. |
+| 29 | Selasa, menjelang siang | Area festival Cawang | Wiwin, Aji, Cak Qodim, Bang Parlin, Pak Lik Harto, pedagang, Haris | Pengiriman yang tertunda dilakukan dari ruko; paguyuban memasang 60 spanduk. Wiwin memeriksa lukisan, Aji mengawasi daftar QRIS, Haris hadir sebagai konsultan/pemilik Mitra Graha. |
 | 30 | Selasa, 19.00 | Arena festival kuliner | Wiwin, Aji, Cak Qodim, Pak Lik Harto, wali kota, kepala dinas, panitia | Wali kota menguji QRIS Cak Qodim dan transaksi berhasil setelah konfirmasi; hasil proyek mendapat perhatian panitia. |
 | 31 | Selasa, 21.00 | Tenda Cak Qodim | Wiwin, Aji, Cak Qodim, Pak Lik Harto, Mbak Pur, Bang Parlin | Perayaan bersama; piring blirik dipakai menyajikan makanan; Wiwin dan Aji membicarakan kemungkinan usaha bersama. |
 | 32 | Minggu berikutnya, menjelang siang | Studio Tenda Malam, Kalimalang | Wiwin, Aji, Pak Lik Harto, Mbak Pur, Bang Parlin, Cak Qodim | Studio mulai beroperasi dengan pembagian peran dan biaya yang disepakati; Aji memakai mesin pres bekas, sementara mesin cetak besar masih menunggu keputusan perbaikan. |
@@ -53,8 +53,8 @@
 |---|---|---|---|---|
 | Ruko Seni Spanduk Wiwin | Bab 1 | Lantai semen dingin, langit-langit berdebu, bau tiner menyengat | Wiwin, Pak Lik Harto | Pinggir Jalan Kalimalang |
 | Percetakan Digital Aji | Bab 1 | Kios seberang aspal, desing mesin cetak outdoor | Aji | Seberang jalan ruko Wiwin (15 meter) |
-| Warkop Mbak Pur | Bab 2 (rencana) | Meja kayu terpal kotak-kotak, stoples gorengan kaca | Mbak Pur, Bang Parlin, supir ojol | Samping bengkel tambal ban |
-| Warung Tenda Cak Qodim | Bab 2 (rencana) | Tenda terpal oranye dua petak, wajan lele berasap | Cak Qodim | Perempatan lampu merah (200 m) |
+| Warkop Mbak Pur | Bab 6 | Meja kayu terpal kotak-kotak, stoples gorengan kaca | Mbak Pur, Bang Parlin, supir ojol | Samping bengkel tambal ban |
+| Warung Tenda Cak Qodim | Bab 4 | Tenda terpal oranye dua petak, wajan lele berasap | Cak Qodim | Perempatan lampu merah (200 m) |
 
 ## C. Matriks Pengetahuan (Siapa Tahu Apa)
 
@@ -110,7 +110,12 @@
 | Tokoh Utama | Dwi Winarsih (Wiwin, 26 tahun) | Canon |
 | Tokoh Pendamping | Aji Yudanta (28 tahun) | Canon |
 | Setting Utama | Koridor Kalimalang, Jakarta Timur | Canon |
-| Panjang kain spanduk standar | 4 meter × 1 meter | Bab 1 |
+| Ukuran spanduk standar | 4 meter × 1 meter | Bab 1 |
+| Jumlah spanduk | 50 pesanan awal + 10 VIP = 60 | Bab 6, 23–30 |
+| Kain awal | 50 gulung × 4 meter = 200 meter | Bab 17 |
+| Kain tambahan VIP | 32 meter dibeli, ditambah sisa 12 meter | Bab 24–25 |
+| Pembagian laba bersih | 60% Wiwin, 40% Aji setelah semua biaya | Bab 8, 32 |
+| Mesin pres termal | Dipinjam dari pemasok saat proyek; Aji membeli unit bekas setelah festival | Bab 14, 25, 32 |
 
 ## F. Benang Terbuka (Setup / Planting 2x & Payoff)
 
