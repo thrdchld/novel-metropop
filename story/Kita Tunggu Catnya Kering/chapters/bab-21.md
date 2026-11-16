@@ -4,7 +4,7 @@ Pukul sembilan pagi, dua mobil minibus berhenti di depan ruko. Empat staf dinas 
 
 Aji menyambut rombongan di depan meja. "Selamat pagi. Ini prototipe dan catatan proses produksi kami."
 
-Salah satu staf memperkenalkan diri sebagai anggota tim verifikasi teknis. Ia menjelaskan bahwa kunjungan tersebut bertujuan memeriksa kesiapan produksi, bukan menerima hasil akhir.
+Salah satu staf memperkenalkan diri sebagai anggota tim verifikasi teknis. Ia menjelaskan bahwa kunjungan tersebut bertujuan memeriksa proses produksi yang sedang berjalan dan kecocokan data, bukan menerima hasil akhir.
 
 Aku menarik seutas tali untuk membuka kain prototipe yang sudah dibentangkan. Ilustrasi lele dan panel QRIS terlihat jelas di bawah cahaya pagi.
 
