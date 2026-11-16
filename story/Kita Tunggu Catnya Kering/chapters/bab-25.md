@@ -1,43 +1,51 @@
 ## Bab 25: Kerja Rodi
 
-Ujung kuas nomor tiga melesat cepat di atas bentangan mori putih, menyapukan lengkungan kurva kuning cerah yang membentuk punggung lele raksasa.
+Ujung kuas nomor tiga melesat di atas bentangan mori putih, menyapukan lengkungan kuning cerah yang membentuk punggung lele raksasa.
 
-Keringat dingin membasahi kaus oblong hitamku yang sudah kaku oleh percikan cat minyak. Di lantai semen ruko, seluruh ruangan telah berubah menjadi jalur perakitan kain raksasa. Enam lembar spanduk VIP yang sudah selesai tergantung berjejer di tali tambang langit-langit, memancarkan pendaran hijau dan jingga neon di bawah temaram lampu TL empat puluh watt yang sesekali berkedip pelan.
+Keringat membasahi kaus hitamku yang sudah kaku oleh percikan cat. Enam lembar spanduk VIP yang selesai dilukis tergantung di rak pengering. Empat lainnya masih menunggu giliran. Kami tidak lagi menggantung kain di tali tambang langit-langit karena bagian plafon dekat talang semalam sudah beberapa kali meneteskan air.
 
-Aji berlutut di sudut lain meja kerja, mengoperasikan mesin pres transfer panas portabel dengan gerakan yang sangat mekanis. Tuas besi mesin itu ditekan kuat selama lima belas detik, diangkat, lalu dialihkan ke panel kain berikutnya. Tangan kanannya terbalut perban kain putih untuk menahan panas pelat logam yang mencapai suhu kerja optimal.
+Aji duduk di sisi meja lain, memeriksa lembar transfer QRIS yang sudah dipasangkan dengan nama masing-masing warung. Tangan kanannya masih dibalut perban dari luka saat mengamankan rangka talang. Ia mengoperasikan mesin pres dengan tangan kiri, sementara tangan kanannya hanya membantu menjaga posisi kain jika diperlukan.
 
-"Suhu mesin stabil di seratus lima puluh derajat," kata Aji tanpa menoleh dari meja, suaranya parau oleh lelah. "Panel kedelapan sudah merekat sempurna. Garis tepi sablon damarnya rata dan menyatu dengan serat kapas. Tinggal dua kain lagi, Wiwin."
+"Panel kesembilan sudah terpasang," katanya. "Aku ikuti suhu dan waktu yang tertera di petunjuk bahan transfernya. Tapi kita tetap perlu cek hasilnya setelah dingin."
 
-Pak Lik Harto duduk tenang di kursi rotannya di dekat pintu bilik. Tangannya yang kurus mengayunkan kipas anyaman bambu secara teratur, mengalirkan udara kering ke permukaan cat basah yang baru saja kutarik. Sesekali pria tua itu menuangkan air jahe hangat dari termos kecil ke cangkir kaleng, lalu meletakkannya di dekat kakiku.
+"Jangan sampai nama warungnya tertukar," kataku tanpa mengangkat kepala. "Kalau kode Pak Samin masuk ke tenda Cak Qodim, kita yang repot."
 
-"Jangan dipaksa cepat kalau garisnya jadi goyang, Win," pesan Pak Lik Harto pelan. "Kekuatan spanduk tenda malam itu ada pada tatapan mata hewannya. Kalau matanya hidup, warung yang masang bakal ramai dikerubungi pembeli sampai larut malam."
+"Sudah kucocokkan dua kali. Nanti kita cek lagi sebelum dikemas."
 
-Aku mengangguk patuh, mencelupkan ujung bulu musang ke adukan pigmen fosfor hitam untuk memberi titik pupil pada mata lele kain kesembilan. Namun saat kuas hendak mendarat di serat katun, otot ibu jari dan telunjuk kananku mendadak mengejang hebat.
+Pak Lik Harto duduk di kursi rotan dekat pintu bilik. Ia mengipasi kain yang baru selesai kulukis dengan kipas anyaman bambu. Udara dari kipas tidak membuat cat langsung kering, tetapi setidaknya membantu sirkulasi di ruangan yang pengap.
 
-Rasa kram yang menusuk tajam membuat batang kayu jati di jemariku terlepas dan jatuh berdering ke lantai semen.
+"Jangan dipaksa cepat kalau garisnya jadi goyang, Win," pesannya. "Kalau perlu istirahat sebentar."
 
-"Aduh!" keluhku sambil menahan napas, memegangi pergelangan tangan kanan yang gemetar kaku.
+Aku mengangguk. Namun saat hendak memberi titik pupil pada mata lele kain kesembilan, otot ibu jari dan telunjuk kananku mendadak mengejang. Kuas terlepas dan jatuh ke lantai.
 
-Aji langsung melepaskan tuas mesin pres dan melompat menghampiriku. Ia berlutut di depanku, lalu mengambil tangan kananku dengan sangat hati-hati. Jemarinya yang kasar menekan titik nadi di pergelangan tanganku, memijat otot-otot tendon yang tegang dengan pijatan mantap yang terarah.
+"Aduh!"
 
-"Otot jarimu kaku gara-gara memegang kuas terlalu kencang," kata Aji, nada bicaranya melembut penuh perhatian. "Tarik napas panjang, lemaskan pundakmu sekarang."
+Aji segera menghentikan mesin. Ia mendekat, tetapi tidak langsung menarik tanganku. "Kram?"
 
-Rasa sakit berdenyut perlahan mereda seiring hangatnya tekanan tangan Aji di kulit tanganku. Dari saku celana jinsnya, ia menarik selembar plester koyo hangat berpori, lalu menempelkannya melingkar di pergelangan tanganku yang linu.
+Aku mengangguk sambil meluruskan jari perlahan.
 
-"Terima kasih, Mas," bisikku pelan, membiarkan jemariku kembali rileks.
+"Sudah berapa lama kamu pegang kuas tanpa berhenti?"
 
-Aji tersenyum tipis, lalu memungut kuas jati yang terjatuh dan membersihkan ujung bulunya dengan lap basah sebelum menyerahkannya kembali padaku. "Kita selesaikan dua kain terakhir ini bersama-sama. Aku yang tahan bentangan kainnya biar kamu nggak perlu menekan terlalu keras."
+"Entahlah. Dari tadi."
 
-Aku tersenyum, menyambut kuas itu dengan tekad yang kembali menyala di dada. Kami kembali bekerja dalam keselarasan yang tenang. Aji menahan serat mori dengan kedua tangannya, menjaga ketegangan kain agar tarikan garisku tetap lurus, sementara kuasku menyapu kain dengan sapuan warna yang kembali mantap dan bertenaga.
+"Berarti sekarang berhenti dulu."
 
-Pukul sebelas malam lewat tiga puluh menit, lukisan sayap ayam jago di kain kesepuluh selesai kugoreskan. Aji segera mempres panel QRIS terakhir di samping cakar ayam, menyempurnakan sepuluh spanduk VIP pesanan dinas. Seluruh sepuluh kain ditumpuk rapi di atas meja kerja beralas terpal tebal, menunggu kering sempurna sebelum serah terima besok.
+Ia mengambil air minum dan menggeser kursi ke dekat meja. Pak Lik ikut menyuruhku mengistirahatkan tangan. Aku sempat ingin membantah, tetapi jari-jariku masih terasa kaku. Tak ada gunanya memaksa satu garis lagi kalau hasilnya malah harus diulang.
 
-Desah napas lega kami bertiga memenuhi ruangan yang pengap oleh uap tiner.
+Aji membersihkan kuas yang jatuh, lalu meletakkannya di atas lap. "Aku bisa bantu menahan kainnya nanti. Kamu yang menentukan garisnya."
 
-Namun sebelum kami sempat meneguk air jahe hangat di cangkir kaleng, kilatan petir menyilaukan mata mendadak menyambar di langit timur Kalimalang.
+"Kalau hasilnya miring, jangan salahkan aku."
 
-DORRR!
+"Kalau miring, kita perbaiki. Kalau kamu memaksakan tangan sampai cedera, pekerjaan kita malah berhenti."
 
-Suara gemuruh guntur pertama menggelegar dahsyat, mengguncang dinding ruko dan membuat deretan kaca jendela bergetar keras. Tiupan angin kencang menerobos celah ventilasi atas, membawa hawa dingin lembap yang menyengat kulit dan aroma tanah basah yang pekat.
+Aku tertawa kecil. Setelah beristirahat dan menggerakkan jari perlahan, rasa kaku mulai berkurang. Aku kembali bekerja dengan jeda lebih teratur. Aji menahan sisi kain dengan tangan kirinya, sementara tangan kanannya tetap dijaga agar tidak banyak bergerak.
 
-Di luar ruko, langit Jakarta mendadak pekat gulita tanpa bintang, pertanda badai besar siap menumpahkan air bah ke bumi malam ini.
+Menjelang pukul sebelas malam, lukisan ayam jago di kain kesepuluh selesai. Aji memasang panel QRIS terakhir, kemudian kami mencocokkan seluruh kode dengan daftar pemilik warung. Sepuluh spanduk itu belum siap diserahkan. Catnya harus kering sempurna, panel transfer perlu diperiksa sekali lagi, dan kain harus dikemas tanpa terlipat pada bagian yang masih rentan.
+
+Pak Lik menuangkan air jahe dari termos. Baru saja aku hendak mengambil cangkir, kilatan petir menyambar di langit timur Kalimalang.
+
+Gemuruhnya menyusul beberapa detik kemudian. Angin menerobos ventilasi dan menggoyangkan daun jendela ruko.
+
+"Sepertinya hujannya bakal besar," kata Aji sambil melihat ke arah pintu.
+
+Aku menoleh ke rak pengering. Sepuluh kain yang kami kerjakan berhari-hari itu masih harus melewati satu malam lagi sebelum bisa diserahkan.
