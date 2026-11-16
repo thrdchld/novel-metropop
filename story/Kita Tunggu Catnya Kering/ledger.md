@@ -114,7 +114,7 @@
 | Jumlah spanduk | 50 pesanan awal + 10 VIP = 60 | Bab 6, 23–30 |
 | Kain awal | 53 gulung × 4 meter = 212 meter; 200 meter untuk 50 spanduk awal dan 12 meter cadangan | Bab 17 |
 | Kain tambahan VIP | 12 meter cadangan dari pembelian Bab 17 + 32 meter pembelian baru = 44 meter; 40 meter untuk 10 spanduk VIP dan 4 meter cadangan. | Bab 17, 24–25 |
-| Pembagian laba bersih | 60% Wiwin, 40% Aji setelah semua biaya | Bab 8, 32 |
+| Pembagian laba bersih | Bab 8: 60% Wiwin, 40% Aji untuk proyek festival setelah biaya; Bab 32: dipakai sebagai patokan awal Studio Tenda Malam dan dapat ditinjau ulang bila jenis pesanan/beban kerja berubah | Bab 8, 32 |
 | Mesin pres termal | Dipinjam dari pemasok saat proyek; Aji membeli unit bekas setelah festival | Bab 14, 25, 32 |
 
 ## F. Benang Terbuka (Setup / Planting 2x & Payoff)
