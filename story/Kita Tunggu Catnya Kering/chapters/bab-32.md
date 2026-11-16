@@ -22,9 +22,7 @@ Pak Lik duduk di kursi rotan dekat pintu. Kondisinya sudah lebih baik setelah be
 
 "Benar, Cak," jawabku. "Tapi kami mulai kecil dulu."
 
-Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis pembagian pekerjaan dan modal awal. Kami sepakat menjalankan studio ini bersama. Untuk setiap pesanan, pembagian laba bersih tetap mengikuti kesepakatan 60:40 setelah biaya bahan, produksi, transportasi, tenaga tambahan, dan pemasangan dipotong. Peralatan yang sudah dimiliki masing-masing tetap menjadi aset pemiliknya. Aku menangani ilustrasi, pemilihan kain, serta pemeriksaan hasil manual. Aji menangani desain digital, pengolahan file, panel QRIS, dan kerja sama dengan percetakan luar selama mesin lamanya belum jelas nasibnya.
-
-Untuk pesanan bersama, semua biaya bahan, ongkos produksi, transportasi, dan tenaga tambahan akan dicatat lebih dulu. Keuntungan bersih dibagi sesuai kesepakatan. Kami juga menyisihkan sebagian pemasukan untuk perawatan alat dan kebutuhan studio.
+Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis pembagian pekerjaan dan modal awal. Kami sepakat menjalankan studio ini bersama. Untuk setiap pesanan bersama, biaya bahan, produksi, transportasi, tenaga tambahan, dan pemasangan dicatat lebih dulu. Setelah semua biaya dipotong, laba bersih dibagi 60 persen untukku dan 40 persen untuk Aji, sesuai kesepakatan proyek. Peralatan yang sudah dimiliki masing-masing tetap menjadi aset pemiliknya. Aku menangani ilustrasi, pemilihan kain, serta pemeriksaan hasil manual. Aji menangani desain digital, pengolahan file, panel QRIS, dan kerja sama dengan percetakan luar selama mesin lamanya belum jelas nasibnya. Sebagian pemasukan juga kami sisihkan untuk perawatan alat dan kebutuhan studio.
 
 "Jangan sampai nanti ribut gara-gara uang," kata Pak Lik.
 
@@ -36,7 +34,7 @@ Mesin cetak digitalnya masih berada di bengkel untuk diperiksa. Biaya perbaikan 
 
 Aku mengangguk. "Yang penting hasilnya tetap kita periksa."
 
-Pagi itu ada pesanan pertama yang masuk setelah kabar festival menyebar. Sebuah asosiasi pedagang soto dari Bekasi meminta desain spanduk dengan ilustrasi ayam jago di samping mangkuk soto. Jumlahnya belum banyak, tetapi cukup untuk memulai.
+Menjelang siang, pesanan pertama masuk setelah kabar festival menyebar. Sebuah asosiasi pedagang soto dari Bekasi meminta desain spanduk dengan ilustrasi ayam jago di samping mangkuk soto. Jumlahnya belum banyak, tetapi cukup untuk memulai.
 
 Aji membentangkan kain contoh di atas meja. Ia mengambil kuas nomor lima, lalu menatap ujungnya dengan ragu.
 
