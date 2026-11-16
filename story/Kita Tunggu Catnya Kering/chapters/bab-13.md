@@ -1,4 +1,4 @@
-## Bab 13: Rumus Kimia
+## Bab 13: Uji Bahan
 
 Tiga potongan kain mori terbentang di atas meja. Masing-masing diberi tanda A, B, dan C menggunakan kertas kecil yang ditempel di ujungnya.
 
