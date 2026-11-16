@@ -5,7 +5,7 @@
 ## I. Status Cerita
 
 - **Bab terakhir:** Bab 32, *Bergabung*.
-- **Status:** Naskah lengkap, masih memerlukan audit integrasi dan penyelarasan dokumen pendamping.
+- **Status:** Naskah lengkap; audit kronologi Bab 1–32 selesai dan dokumen pendamping sedang diselaraskan.
 - **Titik waktu akhir:** Minggu menjelang siang berikutnya, beberapa hari setelah festival Selasa malam.
 - **Lokasi:** Studio Tenda Malam, ruang kerja bersama di ruko Kalimalang.
 - **POV:** Dwi Winarsih (Wiwin), orang pertama.
@@ -59,7 +59,7 @@
 ## VI. Aturan Kontinuitas Teknis dan Proyek
 
 1. Pesanan awal berjumlah 50 spanduk; tambahan 10 VIP menjadikan total 60.
-2. Satu spanduk menggunakan kain sekitar 4 × 1 meter. Persediaan 200 meter awal hanya mencukupi 50 spanduk; tambahan kain harus dibeli untuk 10 VIP.
+2. Satu spanduk menggunakan kain sekitar 4 × 1 meter. Bab 17 menetapkan pembelian 53 gulung/212 meter: 200 meter dialokasikan untuk 50 spanduk awal dan 12 meter menjadi cadangan. Untuk 10 VIP, 12 meter cadangan digabung dengan pembelian tambahan 32 meter, menyisakan 4 meter.
 3. Setiap warung memakai QRIS miliknya sendiri. Jangan mengubahnya menjadi satu QRIS paguyuban.
 4. Pemindaian kode hanya menampilkan data merchant; pembayaran baru berhasil setelah nominal dikonfirmasi dan transaksi diterima.
 5. Wiwin melukis ilustrasi secara manual. Panel QRIS dibuat digital dan dipasang dengan metode transfer yang telah diuji.
@@ -69,7 +69,15 @@
 9. Pembagian laba bersih pesanan bersama adalah 60 persen untuk Wiwin dan 40 persen untuk Aji setelah bahan, transportasi, tenaga tambahan, biaya produksi, dan pemasangan dipotong.
 10. Studio dijalankan bersama, tetapi Bab 32 belum menetapkan kepemilikan formal badan usaha. Ruko dan alat lama tetap milik masing-masing; perlengkapan yang dibeli bersama dicatat terpisah. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel pembayaran, dan vendor. Pekerjaan produksi tetap dapat dibagi sesuai kebutuhan.
 
-## VII. Benang Callback yang Sudah Dibayar
+## VII. Catatan Kronologi Final
+
+- Bab 9 sudah diselaraskan dengan janji pukul 07.00 pada Bab 8.
+- Bab 11 menunjukkan permintaan tambahan waktu untuk prototipe sampai Minggu; Cak Qodim setuju meninjau, bukan memberi persetujuan otomatis.
+- Bab 19 menjelaskan persetujuan formal panitia sebelum masa produksi dua minggu dimulai.
+- Bab 21 berlangsung keesokan pagi setelah Bab 20; Bab 22 berlangsung setelah sepuluh spanduk terakhir selesai. Hari kalender Bab 19–22 tetap tidak ditetapkan karena naskah tidak memberi jangkar tanggal yang cukup.
+- Persediaan kain cadangan 12 meter berasal dari 3 gulung sisa pembelian Bab 17, bukan dari 200 meter yang dialokasikan untuk pesanan awal.
+
+## VIII. Benang Callback yang Sudah Dibayar
 
 - Pantangan makan lele adalah kepercayaan keluarga Cak Qodim, bukan adat yang berlaku untuk semua orang Lamongan.
 - Noda kuning di siku jaket Aji: tetap terlihat sampai akhir.
