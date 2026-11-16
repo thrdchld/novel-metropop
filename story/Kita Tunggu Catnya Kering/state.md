@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 4 (*Uap Panas*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 5 (*Garis*)
-- **Titik Waktu Cerita:** Sabtu, Pukul 14.00 WIB
-- **Lokasi Terkini Tokoh Utama:** Meja kerja ruko seni spanduk Wiwin, Kalimalang
-- **Cuaca / Suasana Fisik:** Siang hari terik gerah berdebu, suara desau kipas angin tua berderit
+- **Bab Terakhir Selesai:** Bab 5 (*Garis*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 6 (*Kabar*)
+- **Titik Waktu Cerita:** Minggu, Pukul 20.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Warkop Mbak Pur, Kalimalang
+- **Cuaca / Suasana Fisik:** Malam hari riuh, asap rokok kretek bercampur aroma kopi tubruk
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Termotivasi membuktikan keahlian kuasnya melukis kode QRIS presisi tapi mulai frustrasi menghadapi keterbatasan serat kain mori
+- **Kondisi Emosi Tokoh Utama:** Gundah memikirkan kegagalan tes scan QRIS manual, lalu terperangah mendengar pengumuman proyek festival dari Cak Qodim
 
 ---
 

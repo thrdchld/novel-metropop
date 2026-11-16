@@ -10,6 +10,7 @@
 | 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Bachtiar, Mbak Pur | Cak Qodim pesan spanduk lele kumis melengkung; Bachtiar sebar brosur cetak murah; mitos pantang lele Lamongan |
 | 3 | Kamis, 19.30 | Depan ruko percetakan Bachtiar | Wiwin, Bachtiar, Bang Parlin, Cak Qodim | Wiwin melabrak Bachtiar soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
 | 4 | Jumat, 21.45 | Warung tenda Cak Qodim | Wiwin, Bachtiar, Cak Qodim | Spanduk MMT Bachtiar melepuh terkena uap kompor mawar; jari Bachtiar melepuh; Cak Qodim meradang |
+| 5 | Sabtu, 14.00 | Meja kerja ruko Wiwin | Wiwin, Pak Lik Harto | Wiwin melukis kode QRIS manual; serat mori merembes 0,4 mm; tes scan HP gagal |
 
 ## A2. Timeline Masa Lalu
 
@@ -44,6 +45,7 @@
 | 2 | Wiwin | Jengkel & tertantang | Kain mori kusam Cak Qodim | Saling sindir ruko seberang | Mengetahui mitos lele Lamongan | Pesanan Cak Qodim harus selesai besok malam |
 | 3 | Wiwin | Marah & terkejut | Sandal jepit karet | Berdebat sengit di trotoar | - | Spanduk MMT Cak Qodim siap dipasang di atas wajan |
 | 4 | Wiwin | Campur aduk (puas tapi iba) | Lap basah & gayung seng | Melihat Bachtiar tersengat kenyataan | - | Bachtiar menatap keunggulan kain mori |
+| 5 | Wiwin | Terguncang & sadar diri | Kuas liner, HP retak | Memahami batas fisik kuas manual | - | Merembesnya cat 0,4 mm menggagalkan scan QRIS |
 
 ## E. Fakta Keras dan Angka
 
