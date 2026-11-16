@@ -22,7 +22,7 @@
 | `NOV-002` | `PRM-002` | Catatan untuk Orang Sungkan | `TAMAT` | 32 | 23.456 | Jakarta (Cikini, Rawamangun, Kwitang) | 2026 | 2026-11-06 |
 | `NOV-003` | `PRM-003` | Ada Kamu di Jadwalku | `TAMAT` | 32 | 21.613 | Jakarta Selatan (Kebayoran Baru, Mayestik, Cipete) | 2026 | 2026-11-11 |
 | `NOV-004` | `PRM-004` | Kita Tunggu Catnya Kering | `TAMAT` | 32 | 21.697 | Jakarta Timur (Kalimalang, Cipinang, Duren Sawit) | 2026 | 2026-11-16 |
-| `NOV-005` | `PRM-005` | Tuangkan Lagi Kuah Itu | `PROSES` | 32 | 20.865 | Jakarta Pusat (Cikini, Thamrin, Senen) | 2026 | - |
+| `NOV-005` | `PRM-005` | Tuangkan Lagi Kuah Itu | `TAMAT` | 32 | 20.865 | Jakarta Pusat (Cikini, Thamrin, Senen) | 2026 | 2026-11-16 |
 
 ---
 
@@ -68,7 +68,7 @@
 
 #### PRM-005: Tuangkan Lagi Kuah Itu
 - **Proyek Terkait:** `NOV-005` (Folder: `story/Tuangkan Lagi Kuah Itu/`)
-- **Status:** `DITERIMA / AKTIF` (Tahap Outline Skenario Adegan Terkunci 32 Bab)
+- **Status:** `TAMAT` (32 Bab Selesai, 100% Lulus Uji Kelayakan)
 - **Tanggal Disetujui:** 2026-11-16
 - **Premis ABCD Simpel:**
   - *A (Character):* Renata Kusuma (26), analis data korporat logistik di Thamrin yang mengelola akun media sosial ulasan kuliner anonim *Kritik Halus*; berlidah sangat peka, mandiri, gengsian, dan takut dituduh tidak berintegritas.
