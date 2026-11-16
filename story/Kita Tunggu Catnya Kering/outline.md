@@ -94,7 +94,7 @@ Pagi harinya, paguyuban mengatur tenaga dan kendaraan untuk memasang 60 spanduk.
 ### Bab 6: Kabar
 - **Adegan & Tokoh:** Minggu, pukul 20.00 WIB di warkop Mbak Pur | Wiwin, Aji, Cak Qodim, Mbak Pur.
 - **Variasi Pembuka:** Dialog Menusuk
-- **Skenario Masuk:** "Dinas Pariwisata nggak mau tahu, pokoknya spanduk tenda festival harus lukisan tangan khas Lamongan tapi wajib punya barcode QRIS yang tembus sensor!"
+- **Skenario Masuk:** "Dinas Pariwisata meminta spanduk festival tetap menampilkan lukisan tangan, tetapi setiap warung juga harus memiliki kode QRIS yang terbaca!"
 - **Ketukan Aksi & Reaksi:**
   1. Cak Qodim membanting map dinas ke atas meja warkop di antara piring gorengan Mbak Pur, mengumumkan proyek akbar 50 warung tenda.
   2. Aji sadar mesin cetaknya ditolak karena dinas menuntut estetika lukisan kain, sementara Wiwin sadar kuasnya ditolak karena gagal sensor QRIS.
