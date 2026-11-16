@@ -1,4 +1,4 @@
-## Bab 27: Pengorbanan
+## Bab 27: Tepi Seng
 
 Air masih mengalir dari sambungan talang yang patah. Setelah petugas memastikan aliran listrik utama sudah diputus, kami bisa kembali ke ruang depan tanpa risiko menyentuh instalasi yang masih bertegangan.
 
