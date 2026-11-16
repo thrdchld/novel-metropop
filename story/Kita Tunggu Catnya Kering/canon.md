@@ -94,8 +94,8 @@
 - Mesin cetak digital Aji rusak akibat rembesan air. Teknisi menemukan kerusakan pada beberapa komponen, tetapi belum menyatakan seluruh mesin tidak dapat diperbaiki.
 - Listrik di area banjir harus diputus dari sumber utama oleh petugas/tenaga yang kompeten sebelum siapa pun kembali ke area tersebut.
 - Pak Haris adalah pemilik Mitra Graha dan mantan atasan Aji, bukan kepala seksi atau pejabat dinas. Keputusan proyek berada pada panitia/dinas yang berwenang.
-- Keuntungan dibagi dari laba bersih setelah biaya bahan, transportasi, produksi, tenaga tambahan, dan pemasangan: 60 persen untuk Wiwin dan 40 persen untuk Aji.
-- Studio Tenda Malam dijalankan bersama. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel QRIS, dan vendor. Mesin pres termal kecil dibeli bekas dari tabungan dan bagian keuntungan yang disisihkan, bukan bonus dinas yang tidak pernah ditanam sebelumnya.
+- Untuk proyek festival, Bab 8 menetapkan pembagian laba bersih 60 persen untuk Wiwin dan 40 persen untuk Aji setelah biaya bahan, transportasi, produksi, tenaga tambahan, dan pemasangan dipotong. Di Bab 32, rasio itu menjadi patokan awal Studio Tenda Malam, bukan aturan permanen; mereka sepakat meninjaunya jika jenis pesanan atau beban kerja berubah.
+- Studio Tenda Malam dijalankan bersama. Wiwin menangani ilustrasi dan kualitas visual; Aji menangani desain digital, panel QRIS, dan vendor. Aji membeli mesin pres termal kecil bekas setelah festival dari tabungan dan bagian keuntungan yang disisihkan, bukan bonus dinas.
 - Cedera Aji pada telapak tangan adalah sayatan dangkal akibat tepi talang berkarat. Ia mendapat perawatan dan sementara tidak mengangkat beban berat.
 - Kondisi asma Pak Lik tetap membutuhkan perawatan rutin. Jangan memberi kesan penyakitnya sembuh hanya karena proyek berhasil.
 
@@ -107,4 +107,4 @@
 - Kain tambahan untuk 10 spanduk VIP berjumlah 32 meter, ditambah 12 meter cadangan dari 3 gulung yang tersisa pada pembelian 53 gulung/212 meter di Bab 17. Pembelian 32 meter dilakukan setelah perubahan pesanan dan uang muka disetujui.
 - Pengiriman 50 spanduk utama yang semula dijadwalkan Senin ditunda setelah festival dimajukan ke Selasa. Seluruh 60 spanduk dibawa ke lokasi pada Selasa sebelum pemasangan.
 - Pada akhir cerita, studio mulai beroperasi pada Minggu menjelang siang setelah festival Selasa malam.
-- Pembagian laba bersih untuk pesanan bersama adalah 60 persen Wiwin dan 40 persen Aji; biaya proyek dipotong terlebih dahulu.
+- Studio Tenda Malam belum memiliki pembagian kepemilikan formal. Pembagian laba awal 60:40 tidak mengubah kepemilikan alat atau aset pribadi dan perlu ditinjau sesuai jenis pesanan serta beban kerja.
