@@ -2316,3 +2316,655 @@ Aku mengambil kuas peninggalannya dari tempat penyimpanan dan memeriksa gagangny
 
 Di luar, suara kendaraan masih ramai melewati Kalimalang. Di dalam ruko, daftar kebutuhan baru tergeletak di samping surat perubahan pesanan. Festival tinggal beberapa hari lagi, dan pekerjaan kami bertambah sepuluh.
 
+
+---
+
+## Bab 25: Kerja Rodi
+
+Ujung kuas nomor tiga menyapukan lengkungan kuning di atas kain mori putih. Punggung lele mulai terbentuk, sementara bagian kepalanya masih berupa garis sketsa yang menunggu warna.
+
+Kain tambahan tiga puluh dua meter tiba Senin pagi. Cak Qodim mengirim dua anggota paguyuban untuk membantu menurunkan gulungan dan memotong kain sesuai ukuran. Mereka juga membantu menyiapkan tepi kain dan mengelompokkan potongan berdasarkan nomor pesanan. Setelah pekerjaan persiapan selesai, keduanya kembali ke sekretariat. Urusan lukisan dan panel QRIS tetap kami tangani sendiri.
+
+Dua belas meter sisa persediaan lama kami gunakan lebih dulu. Dengan tambahan kain itu, jumlahnya cukup untuk sepuluh spanduk VIP dan sedikit cadangan. Semua sudah dipotong menjadi ukuran empat kali satu meter, lalu diberi nomor agar tidak tertukar.
+
+Menjelang sore, panitia mengirimkan spesifikasi bahan pigmen yang mereka maksud. Bukan cat yang bisa menyala sendiri dalam gelap, melainkan pigmen fosfor yang perlu mendapat paparan cahaya terlebih dahulu. Kami membuat sampel kecil di potongan kain sisa. Setelah diuji di bawah lampu dan dibiarkan beberapa saat dalam ruangan yang diredupkan, efeknya terlihat, meski tidak seterang yang dibayangkan orang dari kata menyala.
+
+Aku mengirimkan foto dan video singkat kepada Cak Qodim untuk diteruskan ke panitia. Mereka menyetujui hasil sampel itu. Setidaknya sekarang kami tahu apa yang harus dikerjakan, bukan menebak-nebak dari satu kalimat di surat.
+
+Malam mulai turun ketika aku kembali ke meja lukis. Enam spanduk sudah selesai diberi warna utama dan tergantung di rak pengering. Empat lainnya masih harus kuselesaikan. Cat di beberapa bagian belum kering, jadi aku memberi jarak antarkain agar tidak saling menempel.
+
+Aji duduk di meja sebelah. Di hadapannya tersusun sepuluh panel QRIS yang sudah dicetak berdasarkan file masing-masing merchant. Ia mencocokkan nama warung, nomor pesanan, dan kode sebelum memasangnya dengan mesin pres termal pinjaman pemasok.
+
+“Panel kedelapan sudah selesai,” katanya. Ia mengenakan sarung tangan tahan panas saat mengangkat bahan dari pelat mesin. “Aku ikuti petunjuk suhu dan waktu dari pemasok. Setelah dingin, kita cek lagi apakah ada bagian yang terangkat.”
+
+“Pastikan kode Pak Samin tidak masuk ke spanduk Cak Qodim.”
+
+“Sudah dua kali kucocokkan.”
+
+“Kalau begitu, nanti kita cocokkan sekali lagi.”
+
+Aji menoleh. “Kamu memang tidak percaya sebelum memeriksa sendiri?”
+
+“Ini bukan soal percaya. Kalau salah pasang, yang repot pemilik warung.”
+
+“Baik, Bu Pemeriksa.”
+
+Aku kembali menunduk. Pak Lik Harto duduk di kursi rotan dekat pintu bilik, memperhatikan pekerjaan kami sambil mengipasi kain yang baru selesai kulukis. Kipas anyaman itu hanya membantu udara bergerak; kain tetap harus dibiarkan kering sesuai waktunya.
+
+“Jangan terlalu dekat jarak kainnya,” kata Pak Lik. “Nanti kalau bergesekan, catnya bisa rusak.”
+
+“Sudah kuatur, Lik.”
+
+“Dan kalau tanganmu mulai sakit, berhenti.”
+
+Aku mengangguk. Sayangnya, aku baru mengingat pesan itu ketika hendak memberi titik hitam pada mata lele di kain kesembilan. Otot ibu jari dan telunjuk kananku tiba-tiba menegang. Kuas terlepas dan jatuh ke lantai.
+
+“Aduh!”
+
+Aji segera menghentikan pekerjaannya. Ia mendekat, tetapi tidak langsung menyentuh tanganku.
+
+“Kram?”
+
+Aku mengangguk sambil meluruskan jari perlahan.
+
+“Sejak tadi kamu belum berhenti, ya?”
+
+“Sudah istirahat waktu makan.”
+
+“Itu bukan berarti tanganmu boleh dipakai terus sampai malam.”
+
+Pak Lik menyodorkan segelas air. Aku duduk dan membiarkan tanganku beristirahat. Jari-jariku terasa kaku, tetapi perlahan mulai lemas setelah tidak lagi menggenggam kuas.
+
+Aji mengambil kuas yang jatuh, membersihkan ujungnya, lalu meletakkannya di atas lap. “Aku bisa bantu menahan kainnya kalau kamu lanjut nanti. Kamu tetap yang menentukan garisnya.”
+
+“Jangan sampai gambarnya berubah jadi lele berkumis.”
+
+“Kalau itu terjadi, kita bisa bilang desain edisi khusus.”
+
+Aku tertawa kecil. Setelah jeda lebih panjang, aku kembali melukis. Kali ini aku mengatur waktu untuk berhenti sejenak di antara satu kain dan kain berikutnya. Aji membantu menahan ujung mori saat diperlukan, lalu kembali ke meja pres. Ia tidak mengambil alih pekerjaanku, dan aku tidak mengganggu urutannya.
+
+Menjelang pukul sebelas malam, lukisan ayam jago di kain kesepuluh selesai. Aji memasang panel QRIS terakhir. Kami menunggu panel cukup dingin sebelum memeriksa tepinya, lalu mencocokkan seluruh kode dengan daftar pemilik warung. Tidak ada nama yang tertukar. Sepuluh spanduk itu belum boleh langsung dilipat. Cat harus kering sempurna, dan panel perlu diperiksa sekali lagi sebelum dikemas.
+
+Pak Lik menuangkan air jahe dari termos. Aku baru hendak mengambil cangkir ketika kilatan petir terlihat dari jendela.
+
+Beberapa detik kemudian, suara guntur menyusul. Angin menggoyangkan daun jendela dan membuat salah satu ujung terpal di dekat pintu berkibar.
+
+“Sepertinya hujannya bakal besar,” kata Aji.
+
+Aku melihat rak pengering. Sepuluh spanduk VIP tergantung di sana, sementara lima puluh spanduk utama masih tersimpan dalam bungkus pelindung. Bagian plafon dekat talang pernah meneteskan air beberapa kali, dan kami belum sempat memperbaikinya.
+
+Aji berdiri untuk memeriksa jendela dari sisi dalam. “Kita pindahkan barang-barang yang dekat dinding dulu. Jangan tunggu sampai air masuk.”
+
+Aku mengambil terpal tambahan. Di luar, angin kembali bertiup, kali ini lebih kencang. Pekerjaan sepuluh spanduk sudah selesai, tetapi malam itu rupanya belum memberi kami kesempatan untuk beristirahat.
+---
+
+## Bab 26: Talang
+
+Hujan menghantam atap seng ruko tua dengan suara yang membuat kami sulit mendengar satu sama lain.
+
+Pukul setengah dua dini hari, badai menerjang kawasan Kalimalang. Angin mengguncang daun jendela dan membuat air merembes dari beberapa sambungan atap. Kami bertiga baru saja hendak beristirahat di atas tikar ketika terdengar derak logam dari ruang tengah.
+
+KRAAAK!
+
+Sambungan talang seng yang sudah berkarat terlepas. Air hujan yang tertahan di lekukan atap tumpah ke dalam ruko, menghantam meja kerja dan lantai semen. Dalam beberapa detik, air mengalir dari dinding menuju rak pengering.
+
+“Spanduknya!” seruku.
+
+Aku bangkit dan menarik kain yang paling dekat dengan cipratan. Ujungnya sudah basah. Aji mengambil terpal plastik dari bawah meja dan membentangkannya untuk melindungi kain-kain lain.
+
+“Win, bawa kainnya ke kamar belakang! Jangan lewat dekat mesin!” teriaknya.
+
+Aku mengangkat dua kain sekaligus. Kain mori yang panjang terasa lebih berat saat terkena air. Pak Lik muncul dari bilik sambil membawa senter. Ia tidak mendekati stopkontak atau kabel yang mulai terendam.
+
+“Jangan lewat tengah. Airnya sudah sampai bawah meja,” katanya. Ia menunjuk jalur di sisi kiri, tempat lantai sedikit lebih tinggi.
+
+Pak Lik sempat berhenti untuk mengatur napas. Aku menyuruhnya kembali ke bilik, tetapi ia bersikeras membantu mengarahkan kain. Aji meminta ia tetap di ambang pintu dan memegang senter saja.
+
+“Kasur sudah Pak Lik lapisi plastik. Bawa ke sana. Lewat sisi kiri, lantainya lebih tinggi!”
+
+Aku membawa kain pertama ke bilik belakang, lalu kembali untuk mengambil yang berikutnya. Aji menahan terpal dari sisi yang masih kering. Sesekali ia menggeser wadah penampung yang hampir meluap, tetapi tidak mencoba memperbaiki talang. Air terus jatuh dari plafon, membuat suara seperti keran yang dibuka penuh.
+
+Sembilan kain berhasil kami pindahkan. Saat aku hendak kembali mengambil kain terakhir, Aji mengangkat tangan.
+
+“Berhenti. Ada air dekat kabel mesin.”
+
+Aku menahan langkah. Dari sudut ruang depan terdengar letupan kecil, disusul desis tajam. Percikan muncul di dekat bagian bawah mesin cetak digital yang terkena rembesan.
+
+“Matikan listriknya!” teriakku.
+
+“Jangan sentuh apa pun yang basah,” kata Aji. “Pak Lik, telepon petugas listrik. Minta aliran dari sumber utama diputus. Jangan dekati meteran kalau lantainya tergenang.”
+
+Pak Lik segera mengambil telepon dari tempat yang kering dan menghubungi layanan darurat listrik. Kami menjauh dari ruang depan. Tidak ada yang mencoba mencabut steker atau menyentuh sakelar. Aku ingin mengambil kain terakhir, tetapi Aji menahanku.
+
+“Jangan ambil risiko. Tunggu sampai aman.”
+
+Aku berdiri di ambang bilik, memandangi kain kesepuluh yang masih tertutup sebagian oleh terpal. Air merembes ke bawah meja. Setiap kali petir menyambar, cahaya putih masuk dari jendela dan memperlihatkan genangan yang semakin melebar.
+
+Jaket kanvas abu-abu Aji basah kuyup. Cipratan air bercampur karat menempel di bagian lengan. Noda kuning di siku kanannya masih terlihat di antara bercak cokelat. Ia berdiri agak jauh dari mesin, memperhatikan percikan yang sesekali muncul tanpa berani mendekat.
+
+“Mesinnya kena air?” tanyaku.
+
+“Bagian bawahnya. Jangan dekati dulu.”
+
+Beberapa menit kemudian, petugas datang dan memeriksa kondisi dari area yang tidak tergenang. Setelah memastikan aliran listrik dari sumber utama telah diputus, mereka menyatakan area itu aman untuk dimasuki. Kami tetap menghindari kabel dan bagian mesin yang basah.
+
+Barulah Aji menarik terpal dari sisi yang aman, sementara aku mengambil kain terakhir dari rak. Kami membawanya ke bilik belakang. Sepuluh spanduk VIP kini berada di tempat yang lebih terlindung. Beberapa bagian terpal basah dan kain harus diperiksa ulang setelah kering, tetapi tidak ada yang terkena lumpur secara langsung.
+
+Rasa lega itu belum sempat muncul sepenuhnya ketika kami melihat mesin cetak digital Aji. Air telah merembes ke bagian bawah sasis. Bau hangus tipis keluar dari kisi-kisi mesin. Lampu indikatornya padam.
+
+Aji berdiri diam. Ia tidak menyentuh tombol atau mencoba menyalakannya kembali.
+
+“Jangan dicoba dulu,” kata petugas. “Tunggu sampai teknisi memeriksa. Mesin yang kemasukan air bisa berbahaya kalau langsung dialiri listrik.”
+
+Aji mengangguk. Ia mengambil beberapa langkah mundur, lalu menatap mesin itu lagi. Selama ini, benda tersebut menjadi sumber penghasilannya. Sekarang, bahkan untuk mengetahui seberapa parah kerusakannya, ia harus menunggu pemeriksaan.
+
+Pak Lik duduk di kursi dekat pintu bilik. Napasnya masih terdengar berat, tetapi mulai teratur. Aku mengambilkan air dan memastikan ia tidak perlu kembali ke ruang depan.
+
+“Yang penting kalian jangan memaksakan diri,” katanya pelan.
+
+Di luar, hujan masih memukul atap seng. Sepuluh spanduk sudah selamat, tetapi ruko kami berantakan. Dan mesin yang selama ini menjadi andalan Aji terdiam di sudut ruangan, menyisakan bau hangus yang belum hilang.
+---
+
+## Bab 27: Tepi Seng
+
+Air masih mengalir dari sambungan talang yang patah. Setelah petugas memastikan aliran listrik utama sudah diputus dan area ruang depan aman dimasuki, kami bisa kembali bergerak tanpa menyentuh instalasi yang masih bertegangan.
+
+Namun talang yang terlepas terus mengucurkan air ke lantai. Salah satu ujungnya tersangkut pada rangka kayu dekat plafon. Setiap kali angin bertiup, lempengan seng itu berderak dan bergeser, mengarahkan air ke pintu bilik belakang.
+
+“Kalau dibiarkan, airnya masuk ke kamar,” kata Pak Lik.
+
+Aji mengambil senter dan mengamati rangka dari jarak aman. “Kita perlu mengarahkan ujung talangnya menjauh dari pintu. Jangan ada yang berdiri tepat di bawahnya.”
+
+Aku menatap bagian seng yang menggantung. “Kita tunggu Bang Parlin saja. Dia lebih paham urusan rangka.”
+
+“Kalau menunggu sampai pagi, airnya bisa terus masuk,” jawab Aji. “Kita tidak perlu membongkar. Cukup geser ujung yang sudah lepas itu supaya alirannya menjauh.”
+
+Ia mengambil galah kayu panjang dari dekat pintu dan seutas tali tambang. Aku berdiri di sisi bilik, memegangi senter agar ia bisa melihat sambungan yang terlepas. Pak Lik tetap berada di bagian lantai yang lebih tinggi, jauh dari talang.
+
+Dorongan pertama tidak berhasil. Talang itu bergeser sedikit, tetapi ujung seng yang tajam justru tersangkut pada sisi rangka.
+
+“Jangan dipaksa,” kataku.
+
+Aji menurunkan galah dan mengubah posisinya. Ia mencoba sekali lagi dari samping, menjaga tubuhnya tidak berada tepat di bawah lempengan. Kali ini ujung talang bergerak menjauh dari pintu bilik. Air yang semula mengucur ke ambang pintu mulai jatuh ke sisi luar ruko.
+
+Namun bagian seng yang robek tersangkut pada galah. Saat Aji menariknya, lempengan itu bergeser mendadak. Tepi seng menyambar telapak tangannya. Ia spontan melepaskan galah dan mundur, tetapi kakinya terpeleset di lantai basah hingga jatuh terduduk.
+
+“Aji!”
+
+Aku mendekat setelah memastikan tidak ada kabel atau bagian listrik yang masih berbahaya. Telapak tangannya lecet dan ada sayatan dangkal akibat tepi seng berkarat. Darah merembes di antara jari-jarinya.
+
+“Jangan bergerak dulu,” kataku.
+
+Pak Lik mengambil kotak P3K dari bilik. Aku menekan luka Aji dengan kasa bersih sementara Pak Lik mencari perban. Sayatannya tidak tampak dalam, tetapi karena terkena logam kotor, kami tidak mau menganggapnya sepele.
+
+“Bisa berdiri?” tanyaku.
+
+“Bisa. Cuma kaget.”
+
+“Jangan buru-buru.”
+
+Kami membersihkan luka dengan air bersih dan menutupnya menggunakan kasa. Aji meringis saat telapak tangannya dibersihkan. Pak Lik menyarankan agar ia memeriksakan luka itu ke klinik setelah hujan mereda. Kami juga perlu memastikan apakah ia membutuhkan penanganan lebih lanjut karena terkena seng berkarat.
+
+Aji mencoba berdiri untuk melihat talang sekali lagi. Aku menahan bahunya.
+
+“Sudah. Kamu tidak perlu memastikan semuanya sendiri.”
+
+“Kalau talangnya bergeser lagi?”
+
+“Bang Parlin bisa membantu setelah terang. Sekarang kita tunggu. Jangan sampai luka kecil ini jadi lebih parah.”
+
+Ia akhirnya duduk kembali. Aku mengambil handuk kering dari bilik dan meletakkannya di pundaknya. Jaket kanvas abu-abunya basah kuyup. Noda kuning di siku kanan masih terlihat di antara bercak air dan karat.
+
+Pak Lik mengarahkan senter ke bagian talang yang menggantung. “Posisinya sudah tidak mengarah ke pintu. Jangan disentuh lagi. Besok kita minta Bang Parlin lihat rangkanya.”
+
+Aku mengangguk. Air masih menetes, tetapi alirannya kini jatuh lebih banyak ke luar. Kami sepakat tidak mencoba memperbaiki atau mengangkat lempengan itu lagi sampai ada cukup cahaya dan bantuan yang tepat.
+
+Aji masih berusaha bangkit. “Kain VIP aman?”
+
+“Sepuluh-sepuluhnya aman,” jawabku. “Sudah di bilik belakang.”
+
+Ia mengembuskan napas panjang. Bahunya turun, seolah baru sekarang ia mengizinkan dirinya merasa lelah.
+
+Aku duduk di sampingnya. Air masih menetes dari rambut dan ujung jaketnya. “Kamu tadi bisa saja menunggu bantuan. Tidak perlu mengurus semuanya sendiri.”
+
+“Kalau airnya masuk ke bilik, kainnya bisa rusak lagi.”
+
+“Dan kalau tanganmu lebih parah, bagaimana?”
+
+Aji tidak langsung menjawab. Ia menunduk, memandangi kasa putih yang membungkus telapak tangannya. Aku tahu ia tidak sedang memikirkan luka itu saja. Mesin cetaknya masih terendam di bagian bawah, dan sekarang tangannya juga tidak bisa dipakai bekerja seperti biasa.
+
+Aku membantu Pak Lik membersihkan sisa air dari jalur menuju bilik. Setelah itu, kami menghubungi klinik untuk memastikan luka Aji bisa ditangani begitu keadaan memungkinkan. Ia sempat ingin menolak, tetapi kali ini aku tidak memberinya kesempatan berdebat.
+
+Menjelang subuh, hujan mulai mengecil. Kami duduk di ruang tengah yang berantakan, ditemani suara tetesan air dari atap. Pak Lik beberapa kali batuk dan mengatur napas setelah semalaman terjaga. Aku menyuruhnya beristirahat di bilik, sementara Aji menyandarkan kepala ke dinding.
+
+Mesin cetak di sudut ruangan masih terendam di bagian bawah. Tak seorang pun berani menyalakannya. Sepuluh kain sudah selamat, tetapi ruko kami berantakan dan talang belum bisa diperbaiki.
+
+Aku duduk di sebelah Aji, cukup dekat untuk memastikan ia tidak menggigil sendirian. Ia mengangkat tangan kirinya, seolah hendak merapikan rambut yang menempel di dahiku, tetapi berhenti ketika melihat kasa di telapak tangan kanannya.
+
+“Kamu juga harus istirahat,” katanya.
+
+“Nanti.”
+
+“Jangan menunggu sampai tanganmu kram lagi.”
+
+Aku menatapnya. “Sekarang kamu yang memberi nasihat?”
+
+“Sekali-sekali.”
+
+Aku tidak menjawab. Di luar, hujan tinggal berupa gerimis. Malam itu kami berhasil menyelamatkan kain-kain pesanan, tetapi ketika melihat mesin yang menjadi sumber penghidupan Aji terdiam di sudut ruangan, aku tahu ada harga lain yang belum kami hitung.
+---
+
+## Bab 28: Asap Tipis
+
+“Jangan dinyalakan dulu, Mas. Kita tunggu teknisinya datang.”
+
+Bang Parlin menahan Aji yang sudah berdiri di dekat mesin cetak digital. Pagi itu, pukul enam lewat, langit Kalimalang masih kelabu. Sisa air hujan menggenang di pinggir jalan dan meninggalkan lumpur di depan ruko.
+
+Aji menarik tangannya dari kabel. Telapak kanannya sudah dibersihkan dan dibalut kasa di klinik yang baru buka. Dokter menyarankan agar ia tidak mengangkat beban berat selama beberapa hari dan menjaga luka tetap bersih. Namun sejak pulang, perhatiannya tidak lepas dari mesin yang bagian bawahnya masih basah.
+
+“Kalau cuma dikeringkan, mungkin masih bisa dipakai,” katanya.
+
+“Justru karena belum tahu kerusakannya, jangan dicolok,” jawab Bang Parlin. “Aku bisa bantu urusan rangka dan pemasangan. Kalau bagian dalam mesin, aku nggak berani mengira-ngira.”
+
+Aji tidak membantah. Ia duduk di lantai, agak jauh dari mesin. Ada bekas air di bagian bawah sasis dan bau hangus yang belum hilang. Selama dua tahun, mesin itu menjadi tumpuan pekerjaannya. Ia membelinya dari tabungan setelah kehilangan pekerjaan di agensi, lalu mengandalkannya untuk menerima pesanan kecil maupun besar.
+
+Aku datang membawa handuk kering dan segelas teh hangat. “Tanganmu jangan dipakai dulu.”
+
+“Aku cuma duduk.”
+
+“Tadi kamu sudah mau menyentuh kabel.”
+
+“Aku cuma mau lihat.”
+
+“Melihat boleh. Menyalakan jangan.”
+
+Ia menerima teh itu tanpa menjawab. Di dekat pintu, Pak Lik duduk dengan selimut tipis di bahu. Semalaman ia beberapa kali terbangun karena batuk. Aku sudah memintanya kembali beristirahat, tetapi ia ingin tahu keadaan mesin dan talang.
+
+“Talangnya nanti saja,” kataku. “Bang Parlin akan memeriksa setelah terang.”
+
+“Yang penting jangan ada yang naik-naik dulu,” sahut Pak Lik. “Rangkanya sudah tua.”
+
+Menjelang pukul delapan, teknisi yang dihubungi Bang Parlin tiba. Ia meminta kami menjaga jarak saat membuka panel mesin, lalu memeriksa bagian catu daya dan papan kendali. Beberapa komponen menunjukkan bekas kemasukan air. Ia mengambil foto, mencatat nomor komponen, dan memeriksa bagian lain tanpa mencoba menyalakan mesin.
+
+“Kerusakannya cukup berat,” jelasnya. “Bagian daya dan papan kendali kemungkinan perlu diganti. Tapi saya belum bisa memastikan seluruh mesin masih layak atau tidak sebelum dibersihkan dan diuji di bengkel.”
+
+“Berapa biaya perbaikannya?” tanya Aji.
+
+“Belum bisa saya pastikan sekarang. Saya perlu bawa komponen yang rusak untuk diperiksa lebih lanjut. Nanti saya buatkan perkiraan biaya dan pilihan perbaikannya.”
+
+“Masih mungkin hidup lagi?”
+
+“Mungkin. Tapi jangan berharap selesai hari ini. Dan jangan dinyalakan sebelum pemeriksaan tuntas.”
+
+Aji mengangguk pelan. Ia memandangi catatan teknisi cukup lama. Aku tahu ia sedang menghitung sesuatu di kepalanya, mungkin tabungan yang tersisa, mungkin jumlah pesanan yang tidak bisa ia kerjakan tanpa mesin itu.
+
+“Mesin ini modal terakhirku setelah kena PHK,” katanya setelah teknisi selesai memeriksa. “Kalau perbaikannya mahal, aku nggak tahu harus mulai dari mana lagi.”
+
+Aku meletakkan gelas di meja. “Kita tunggu perkiraan biayanya dulu. Jangan putuskan semuanya pagi ini.”
+
+“Pesanan kita bagaimana?”
+
+“Yang sudah selesai tetap bisa kita serahkan. Untuk pekerjaan digital berikutnya, kita cari tempat cetak yang bisa diajak kerja sama.”
+
+Aji mengusap wajah dengan tangan kirinya. “Aku terbiasa menyelesaikan semuanya sendiri.”
+
+“Kelihatannya itu kebiasaan yang merepotkan.”
+
+Ia tertawa pendek. Kali ini tawanya terdengar lebih nyata.
+
+Pintu ruko terbuka. Mbak Pur masuk membawa rantang susun dan cobek batu kecil beralas serbet. Aroma nasi uduk dan sambal terasi memenuhi ruangan, bercampur dengan bau logam lembap yang masih tertinggal.
+
+“Makan dulu. Mesin rusak tidak akan sembuh kalau kalian cuma ditatap,” katanya.
+
+Pak Lik ikut membantu menata piring, tetapi aku menyuruhnya duduk. Ia menurut setelah memastikan semua orang mendapat bagian. Aji makan perlahan dengan tangan kirinya. Sesekali ia melirik mesin, sampai Mbak Pur menggeser rantang ke hadapannya.
+
+“Kalau terus dilihatin, nanti mesinnya merasa bersalah,” katanya.
+
+“Bisa-bisa malah minta maaf,” sahutku.
+
+Aji tersenyum kecil.
+
+Cak Qodim datang tidak lama kemudian. Ia membawa kabar bahwa panitia tetap akan membuka festival malam itu. Pemasangan spanduk dijadwalkan mulai menjelang siang, dan paguyuban sudah menyiapkan kendaraan serta beberapa orang untuk membantu mengangkut dan memasang.
+
+“Enam puluh kain harus dibawa ke lokasi. Kami bagi jadi beberapa kelompok supaya cepat,” katanya. “Kalian cukup dampingi pemasangan dan cek hasilnya. Jangan ada yang mengangkat kalau kondisinya belum memungkinkan.”
+
+Aji menatap tangan kanannya yang masih dibalut. Ia ingin ikut mengurus semuanya, tetapi kali ini tidak bisa mengandalkan tenaganya sendiri.
+
+“Bang Parlin bisa mengawasi rangka dan posisi panel,” kataku. “Aku periksa lukisan dan kondisi kain. Aji mengatur daftar pemasangan dari ponsel. Jangan angkat barang.”
+
+“Kalau ada kode yang tertukar, aku harus cek langsung.”
+
+“Cek dari daftar dan foto. Kalau perlu, minta pemilik warung ikut memastikan nama merchant-nya.”
+
+Cak Qodim mengangguk. “Anak-anak paguyuban juga bisa bantu mencocokkan nomor. Tidak perlu kalian kerjakan semua.”
+
+Aji menatapku sebentar, lalu mengangguk. Ia mengambil ponsel dan mulai menyusun daftar berdasarkan kelompok pemasangan. Bang Parlin menghubungi orang-orang yang akan membawa kendaraan. Cak Qodim memastikan setiap pedagang tahu nomor spanduk dan lokasi tendanya.
+
+Pagi itu, mesin cetak Aji belum punya kepastian. Biaya perbaikannya masih harus dihitung, dan ia belum tahu kapan bisa bekerja seperti biasa. Namun pekerjaan yang sudah kami selesaikan masih punya jalan untuk sampai ke festival. Untuk sementara, itu yang bisa kami urus lebih dulu.
+---
+
+## Bab 29: Gotong Royong
+
+Bang Parlin berdiri di atas tangga lipat, mengikat simpul tali tambang pada kerangka besi tenda. Di bawahnya, beberapa pemuda paguyuban menahan kaki rangka agar tidak bergeser.
+
+Menjelang siang, kawasan festival kuliner di Cawang mulai ramai oleh orang-orang yang menyiapkan tempat. Para pedagang mendirikan tenda, membentangkan terpal, menyusun meja, dan menata peralatan masak. Tidak ada yang bekerja sendirian. Pedagang soto membantu pemilik warung pecel lele, sementara anak-anak muda mengangkut bangku dan gulungan kain.
+
+Enam puluh spanduk mori dibawa dari ruko dengan dua mobil bak terbuka. Lima puluh spanduk utama yang semula dijadwalkan dikirim pada Senin tetap disimpan di ruko setelah jadwal pemasangan berubah. Sepuluh spanduk VIP yang baru selesai juga sudah diberi label. Sebelum berangkat, kami mencocokkan nomor pada setiap gulungan dengan daftar warung. Kain-kain itu disusun berlapis dan diikat agar tidak bergeser selama perjalanan.
+
+"Kelompok satu, pasang dari ujung sana!" seru Cak Qodim. "Jangan buka semua gulungan sekaligus. Nanti kainnya kena debu."
+
+Aji duduk di meja panitia dengan tangan kanan masih dibalut. Di depannya terbuka daftar pemasangan pada ponsel dan beberapa lembar catatan. Ia memeriksa nomor spanduk, nama warung, serta kode QRIS yang harus dipasang di lokasi yang tepat. Bang Parlin dan para pemuda mengurus tali serta rangka. Aku berjalan dari satu tenda ke tenda lain untuk memastikan lukisan tidak terlipat dan sisi kain terpasang dengan benar.
+
+"Nomor dua puluh satu sudah?" tanyaku.
+
+"Sudah, Win. Tapi panel QRIS-nya agak miring," jawab Bang Parlin.
+
+Aji melihat foto yang dikirim. "Putar sedikit ke kiri. Jangan tarik bagian panelnya, nanti kainnya berkerut."
+
+Bang Parlin mengendurkan tali, lalu menggeser posisi kain sesuai arahan. Aku menahan bagian bawahnya sampai permukaan kembali rata. Pekerjaan sederhana seperti itu ternyata bisa memakan waktu jika dilakukan terburu-buru. Satu tarikan yang salah bisa membuat kain miring atau panel pembayaran terlipat.
+
+Kami memasang spanduk satu per satu. Untuk setiap warung, Aji mencocokkan kode dengan nama merchant pada daftar. Kode milik warung Cak Qodim tidak boleh tertukar dengan milik warung Bang Samin. Setelah terpasang, pemilik warung diminta memindai kodenya sendiri untuk memastikan nama merchant yang muncul sesuai. Beberapa orang melakukannya dengan ponsel masing-masing, sementara yang lain meminta bantuan anak mereka.
+
+"Kalau nama yang muncul beda, jangan langsung panik," kata Aji dari meja panitia. "Jangan dipakai dulu. Cocokkan dengan data merchant yang terdaftar, baru kita periksa file-nya."
+
+Seorang pedagang menghampiri meja Aji karena nama usahanya masih tercantum dengan nama lama. Aji memeriksa data yang kami terima dari panitia, lalu meminta pedagang itu memastikan nama merchant yang terdaftar pada layanan pembayarannya. Ternyata nama yang muncul memang nama pemilik, bukan nama warung. Aji menjelaskan bahwa kode tersebut tetap milik pedagang yang sama. Setelah pedagang itu mengangguk, ia memberi tanda pada daftar.
+
+Menjelang pukul dua siang, sebagian besar spanduk sudah membentang di sepanjang area festival. Warna hijau dan jingga hasil lukisanku terlihat jelas di bawah cahaya matahari. Panel QRIS hitam berada di sisi kanan bawah, cukup mudah dijangkau tanpa harus menarik kain. Aku mundur beberapa langkah untuk melihat susunannya. Ada lukisan yang tampak sedikit lebih tinggi karena posisi rangka tenda berbeda-beda, tetapi semuanya masih terlihat dari jalur pengunjung.
+
+Cak Qodim bergerak dari satu tenda ke tenda lain, memastikan nomor yang terpasang sesuai dengan daftar paguyuban. Para pedagang ikut memeriksa nama merchant di ponsel masing-masing. Ada yang meminta Aji mengulang penjelasan karena layar ponselnya terlalu redup, ada pula yang baru sadar nama usaha mereka masih memakai nama lama.
+
+Aku ikut memeriksa bagian kain yang terlipat saat dibawa. Jika ada bekas lipatan, kami merapikannya sebelum pengunjung masuk. Bang Parlin mengingatkan para pemuda agar tidak menarik kain dari panel QRIS ketika mengencangkan tali. Sesekali ia turun dari tangga untuk membantu memindahkan meja atau mengambil gulungan berikutnya.
+
+Pekerjaan itu membuat kami bergerak lebih lambat, tetapi tidak ada yang mengeluh. Setiap orang tahu bagian yang harus dikerjakan. Anak-anak muda memasang rangka, pedagang memastikan lokasi dan nomor warung, Bang Parlin mengawasi ikatan, sementara aku dan Aji memeriksa hasil dari sisi yang berbeda. Untuk pertama kalinya, enam puluh spanduk itu bukan lagi sekadar tumpukan kain di ruko, melainkan bagian dari tempat usaha yang sebentar lagi akan dipenuhi pembeli.
+
+Pak Lik Harto duduk di kursi dekat tenda utama. Ia tampak lelah setelah malam tanpa tidur, jadi aku sudah menyiapkan air minum dan memintanya tidak ikut mengangkat apa pun. Meski begitu, matanya masih mengikuti orang-orang yang memasang spanduk. Ia sempat memperhatikan lukisan kepala lele di tenda Cak Qodim.
+
+"Matanya jangan terlalu dekat dengan kumis," komentarnya.
+
+"Sudah telanjur kering, Lik," jawabku.
+
+"Ya sudah. Lain kali saja."
+
+Cak Qodim tertawa. "Kalau semua lukisan diperiksa Pak Lik, festivalnya bisa buka minggu depan."
+
+Aku sedang merapikan ujung kain ketika Aji memanggil dari meja panitia.
+
+"Wiwin, lihat siapa yang datang."
+
+Sebuah mobil hitam berhenti di seberang jalan. Pak Haris turun bersama seorang staf panitia. Ia bukan petugas dinas yang berwenang menerima pekerjaan, tetapi selama ini menjadi konsultan penyedia materi promosi dan pernah bekerja sama dengan panitia.
+
+Haris memperhatikan deretan spanduk, lalu mendekati meja tempat daftar pemasangan disimpan.
+
+"Sudah selesai semua?" tanyanya.
+
+"Pemasangan hampir selesai. Tinggal beberapa tenda yang perlu dirapikan," jawab Aji.
+
+Haris melihat tangan Aji yang dibalut. "Dengan kondisi begitu, kamu tetap turun?"
+
+"Aku mengurus daftar dan pemeriksaan. Pemasangan dibantu paguyuban."
+
+Haris mengambil satu lembar daftar, membaca beberapa baris, lalu mengembalikannya. Ia tidak menemukan alasan untuk memperdebatkan pekerjaan yang sedang berlangsung. Staf panitia mengajaknya menuju tenda utama untuk membahas persiapan acara.
+
+Aku memperhatikan mereka pergi. Tidak ada ancaman atau pertengkaran. Haris hanya datang melihat hasil yang selama ini ia ragukan. Kali ini, pekerjaan kami berdiri di tempat terbuka, bisa diperiksa oleh para pedagang dan panitia sendiri.
+
+Aji kembali menunduk ke layar ponselnya. Masih ada beberapa nomor yang harus dicentang sebelum semua spanduk dinyatakan terpasang. Aku menarik ujung kain terakhir agar jatuh lurus, lalu mundur untuk memeriksanya sekali lagi. Malam nanti, orang-orang akan datang membawa uang, ponsel, dan daftar makanan. Semoga semua yang kami siapkan bisa bekerja sebagaimana mestinya.
+---
+
+## Bab 30: Hari Pembuktian
+
+Pukul tujuh malam, pengunjung mulai memenuhi area festival kuliner di Cawang. Lampu-lampu tenda menyala, asap arang naik dari panggangan, dan suara pedagang menawarkan menu bersahutan di sepanjang jalan. Beberapa orang berhenti untuk membaca daftar makanan, sementara yang lain langsung mencari tempat duduk.
+
+Enam puluh spanduk mori terbentang di atas masing-masing tenda. Lukisan lele, ayam jago, bebek goreng, dan burung dara terlihat jelas di bawah lampu. Warna hijau dan jingga yang kupakai memang tidak menyala sendiri seperti lampu, tetapi tetap tampak terang ketika terkena pencahayaan festival. Aku sempat berjalan menyusuri deretan tenda untuk memastikan tidak ada kain yang terlepas atau terlipat setelah beberapa jam terkena angin.
+
+Di sisi kanan bawah setiap kain, panel QRIS terpasang pada bidang yang rata. Sebelum acara dibuka, kami sudah menguji setiap kode dengan ponsel dan mencocokkan nama merchant yang muncul. Pengujian itu memastikan kode dapat dibaca dan mengarah ke merchant yang benar, bukan membuktikan pembayaran sudah berhasil.
+
+Aji duduk di meja panitia. Tangan kanannya masih dibalut, jadi ia tidak ikut berkeliling memeriksa kain. Ia memegang daftar pemasangan dan sesekali menerima pertanyaan dari pedagang yang ingin memastikan kode miliknya. Bang Parlin membantu di area tenda, sementara Cak Qodim mondar-mandir memastikan semua pedagang siap melayani pengunjung.
+
+Sebuah pengumuman terdengar dari pengeras suara. Wali kota tiba bersama kepala dinas dan rombongan panitia. Mereka berhenti di tenda utama milik Cak Qodim. Beberapa wartawan lokal dan petugas protokol mengikuti dari belakang.
+
+Wali kota mengamati lukisan kepala lele di spanduk, lalu bertanya kepada Cak Qodim siapa yang membuatnya.
+
+"Dwi Winarsih yang melukis, Pak. Mas Aji yang mengurus desain panel dan pembayaran digitalnya," jawab Cak Qodim sambil menunjuk ke arah kami.
+
+Aku sedikit salah tingkah ketika beberapa orang menoleh. Aji berdiri dari kursinya, lalu mendekat dengan hati-hati.
+
+Wali kota mengangguk. "Menarik. Bagaimana kode pembayarannya bisa dipasang di kain seperti ini?"
+
+Aji menjelaskan bahwa panel QRIS dicetak terpisah, kemudian dipasang pada kain menggunakan metode transfer yang sudah diuji. Setiap warung memakai kode miliknya sendiri. Kami mencocokkan file dengan data merchant sebelum produksi, lalu meminta pemilik warung memeriksa kembali setelah pemasangan.
+
+"Berarti bukan satu kode untuk semua warung?" tanya wali kota.
+
+"Bukan, Pak. Setiap pedagang punya kode sendiri. Jadi pembayarannya langsung masuk ke merchant masing-masing."
+
+Wali kota melihat ke arah Cak Qodim. "Kalau begitu, kita coba salah satunya."
+
+Cak Qodim mengambil ponselnya dari saku dan berdiri di samping meja. Wali kota mengeluarkan ponsel sendiri, lalu memindai kode pada spanduk warung tersebut. Nama merchant yang muncul sesuai dengan data milik Cak Qodim.
+
+Aji tidak langsung menyatakan semuanya beres. Ia meminta Cak Qodim memastikan nama yang tampil sebelum pembayaran diteruskan. Setelah Cak Qodim mengangguk, wali kota memasukkan nominal seratus ribu rupiah dan mengonfirmasi transaksi.
+
+Beberapa detik kemudian, ponsel Cak Qodim berbunyi. Ia memeriksa notifikasi, lalu memperlihatkan layar kepada orang-orang di sekitarnya.
+
+"Sudah masuk!" katanya.
+
+Orang-orang bertepuk tangan. Aku ikut tersenyum lega. Bukan karena satu transaksi itu membuktikan semua hal, melainkan karena kode yang kami pasang benar-benar berfungsi pada saat dibutuhkan. Nama merchant cocok dan pembayaran diterima oleh pemilik warung yang tepat.
+
+Wali kota menanyakan proses pengerjaan dan siapa saja yang terlibat. Aku menjelaskan bahwa ilustrasi dibuat manual, sedangkan panel pembayaran disiapkan secara digital. Aji menambahkan bahwa proses pemeriksaan dilakukan bersama para pedagang agar tidak ada kode yang tertukar.
+
+"Kerja sama seperti ini menarik," kata wali kota. "Ada keterampilan yang sudah lama dimiliki warga, lalu ada teknologi yang membantu kebutuhan sekarang. Keduanya bisa berjalan bersama."
+
+Kepala dinas kemudian berbicara dengan Cak Qodim mengenai evaluasi acara dan pelaksanaan proyek. Seorang staf panitia mencatat nama kami untuk dokumentasi. Tidak ada pengumuman besar atau janji bahwa pekerjaan kami akan langsung menjadi contoh untuk seluruh kota. Mereka hanya meminta beberapa keterangan dan mengambil foto hasil pemasangan.
+
+Setelah rombongan bergerak ke tenda berikutnya, pengunjung kembali memenuhi area. Beberapa pedagang mulai menerima pembayaran melalui QRIS. Bunyi notifikasi terdengar dari meja kasir, bercampur dengan suara wajan dan obrolan pembeli. Aku melihat pemilik warung soto memeriksa nama merchant sebelum menunjukkan layar ponselnya kepada pelanggan.
+
+Aji memperhatikan dari samping meja panitia. "Yang penting pemiliknya tahu kode mana yang dipakai. Kalau ada masalah, mereka bisa menghubungi bank atau penyedia layanan pembayaran. Jangan asal mengganti file sendiri."
+
+Aku mengangguk. Satu transaksi wali kota tadi bukan jaminan tidak akan ada masalah di kemudian hari. Namun setidaknya, setiap panel telah dipasang pada warung yang benar dan pemiliknya tahu cara memeriksanya. Hasil pekerjaan kami mendapat perhatian, tetapi urusan berikutnya tetap harus dijalani seperti biasa.
+
+Di sisi lain area, Pak Haris berdiri bersama beberapa orang dari panitia. Ia sempat berbicara singkat dengan kepala dinas sambil menyerahkan map. Aku tidak tahu apa yang dibicarakan. Setelah itu ia berpamitan kepada salah satu staf dan berjalan menuju mobilnya. Ia tidak menghampiri kami.
+
+Aji berdiri di sampingku. Tangan kanannya masih dibalut, jadi ia hanya menyentuh ujung jemariku dengan tangan kiri.
+
+"Sudah selesai," katanya.
+
+"Acara baru mulai."
+
+"Maksudku, bagian yang paling kita takutkan."
+
+Aku memandang layar ponsel Cak Qodim yang masih menampilkan notifikasi pembayaran. Ada banyak hal yang belum selesai: mesin Aji, biaya produksi, dan pekerjaan berikutnya. Malam itu kami berhasil menyerahkan hasil yang bisa dipakai para pedagang. Besok, persoalan lain mungkin sudah menunggu. Untuk sekarang, aku membiarkan diriku menikmati satu hal sederhana: usaha kami tidak berakhir sia-sia.
+---
+
+## Bab 31: Lampu Kota
+
+Menjelang pukul sembilan malam, festival semakin ramai. Antrean terbentuk di depan beberapa tenda, sementara para pedagang sibuk melayani pesanan. Bunyi notifikasi pembayaran sesekali terdengar dari meja kasir, diselingi suara wajan dan obrolan pengunjung. Di sepanjang jalan, lampu tenda memantul pada permukaan kain spanduk yang bergerak pelan tertiup angin.
+
+Aku baru saja selesai membantu seorang pedagang merapikan meja ketika Cak Qodim memanggil dari tenda utama.
+
+"Win, sini dulu. Makan. Dari tadi kamu mondar-mandir terus."
+
+Di meja sudah tersedia nasi uduk, lele goreng, sambal terasi, dan lalapan. Pak Lik duduk di kursi dekat dinding tenda. Mbak Pur menuangkan es teh ke gelas-gelas plastik, sementara Bang Parlin baru datang setelah memastikan beberapa tali spanduk terikat kuat.
+
+Cak Qodim membawa sebuah piring seng blirik hijau-putih. Aku langsung mengenalinya. Selama bertahun-tahun, benda itu menjadi wadah adukan cat di ruko. Bagian pinggirnya sudah sedikit penyok, tetapi corak hijaunya masih terlihat.
+
+"Pakai piring ini, Win," kata Cak Qodim. "Dulu menampung cat, sekarang menampung makan malam."
+
+"Sudah dicuci benar-benar, kan?" tanyaku.
+
+"Kalau masih ada cat, nanti lelenya ikut jadi lukisan," sahut Bang Parlin.
+
+Kami tertawa. Cak Qodim meletakkan lele goreng di atas piring itu, lalu mendorongnya ke tengah meja.
+
+Pak Lik memperhatikan piring tersebut cukup lama. "Dulu saya beli itu di pasar. Sudah dipakai entah berapa tahun. Ternyata belum juga pensiun."
+
+"Barang lama kalau dirawat memang bisa panjang umur," kata Mbak Pur.
+
+"Asal jangan dipakai mengaduk cat lagi," kataku.
+
+Aji duduk di sebelahku. Tangan kanannya masih dibalut, jadi ia makan menggunakan tangan kiri. Gerakannya lebih lambat daripada biasanya. Ketika ia kesulitan memisahkan duri dari daging lele, aku menggeser piring kecil ke dekatnya.
+
+"Aku masih bisa sendiri," katanya.
+
+"Aku tahu. Piringnya saja yang aku geser."
+
+"Oh, begitu."
+
+Ia tersenyum, lalu melanjutkan makan. Aku tidak ingin membuatnya merasa seperti orang sakit, tetapi aku juga tidak mau ia memaksakan tangan yang belum pulih. Sesekali ia berhenti untuk mengistirahatkan pergelangan kirinya.
+
+Bang Parlin bercerita tentang salah satu pemuda paguyuban yang hampir memasang spanduk terbalik. Cak Qodim menyela dengan versi cerita yang berbeda, membuat Bang Parlin protes karena menurutnya ia yang paling dulu menyadari kesalahan itu. Pak Lik ikut tertawa sampai harus berhenti sejenak untuk mengatur napas. Mbak Pur segera menyodorkan air minum.
+
+"Sudah, jangan bikin saya tertawa terus," kata Pak Lik setelah napasnya kembali teratur. "Nanti lelenya tidak habis."
+
+Obrolan beralih ke hasil penjualan para pedagang. Beberapa warung sudah menghabiskan persediaan pertama, sementara yang lain masih menunggu pengunjung datang. Cak Qodim tampak puas melihat orang-orang duduk di bawah spanduk yang kami kerjakan. Ia tidak banyak bicara soal pujian wali kota. Baginya, yang lebih penting adalah para pedagang bisa berjualan dan menerima pembayaran tanpa kebingungan.
+
+Setelah makan, aku membawa piring seng itu ke tempat cuci. Air sabun mengalir melewati permukaan blirik, mengangkat sisa sambal dan minyak. Aku menggosoknya sampai bersih, lalu membilasnya dua kali. Saat mengeringkannya, aku teringat bagaimana piring itu dulu hampir setiap hari berisi campuran cat. Tidak pernah terpikir benda sederhana itu akan kembali dipakai untuk makan bersama orang-orang yang sama-sama ikut menyelesaikan pekerjaan ini.
+
+Aji menungguku di luar tenda. Ia berdiri di dekat salah satu tiang, memandangi spanduk yang menggantung di atas kepala kami. Jaket kanvas abu-abunya masih memiliki noda kuning di siku kanan. Angin menggerakkan ujung kain, tetapi ikatan talinya tetap kuat.
+
+"Mesin cetakku belum tentu bisa diperbaiki," katanya.
+
+"Teknisinya masih menghitung biaya," jawabku. "Kamu tidak harus memutuskan malam ini."
+
+"Aku tahu. Kalau terlalu mahal, mungkin aku mulai dari alat yang lebih sederhana. Untuk pekerjaan besar, kita bisa bekerja sama dengan tempat cetak lain dulu."
+
+"Itu lebih masuk akal daripada memaksakan beli mesin baru."
+
+Aji tertawa kecil. "Kamu sekarang terdengar seperti orang yang mengurus keuangan."
+
+"Karena ada orang yang perlu diawasi."
+
+Ia tidak membantah. Beberapa saat kami hanya melihat pengunjung yang berlalu-lalang. Seorang anak kecil menunjuk gambar bebek di salah satu spanduk, sementara ayahnya menjelaskan menu yang dijual di bawahnya.
+
+"Aku ingin tetap mengerjakan hal seperti ini," kata Aji. "Bukan cuma membuat desain dari layar, lalu mengirim file ke orang lain. Aku ingin ikut melihat hasilnya dipakai."
+
+"Kamu bisa mulai dari pesanan kecil dulu."
+
+"Kalau kamu masih mau bekerja sama."
+
+Aku menoleh. "Aku mau membicarakannya. Tapi jangan memutuskan sesuatu hanya karena malam ini kita sedang senang. Kita belum tahu biaya, pembagian kerja, dan berapa banyak pesanan yang bisa kita tangani."
+
+"Aku tidak sedang mengajakmu menandatangani kontrak sekarang."
+
+"Bagus. Karena aku juga tidak membawa pulpen."
+
+Aji tertawa. Ia mengangguk, seolah menerima bahwa pembicaraan itu memang harus menunggu waktu yang lebih tepat.
+
+"Aku serius, Win."
+
+"Aku juga. Justru karena serius, kita perlu menghitungnya dengan benar."
+
+Kami berdiri berdampingan. Tangan kirinya bergerak mendekati tanganku, lalu berhenti sejenak, memberi kesempatan bagiku untuk menolak. Aku menyambut jemarinya. Genggamannya ringan, tidak lama, tetapi cukup membuatku tahu bahwa kami tidak lagi berdiri di dua sisi garis lakban seperti dulu.
+
+"Kita lihat nanti bisa sejauh apa," kataku.
+
+"Pelan-pelan saja," jawabnya.
+
+Dari dalam tenda, Pak Lik memanggil kami untuk mengambil sisa nasi uduk. Ia sedang bercerita kepada Cak Qodim bahwa dulu pernah melukis spanduk sampai pagi hanya untuk mengejar pesanan pembukaan warung.
+
+"Bedanya, dulu tidak ada QRIS," kata Pak Lik.
+
+"Kalau dulu ada, mungkin Pak Lik sudah minta orang bayar uang muka lewat ponsel," sahut Aji.
+
+Pak Lik tertawa. "Kalau begitu, saya juga minta kalian kirim bukti transfer sebelum mulai melukis."
+
+Cak Qodim mengangkat gelas. "Sekarang semua orang bisa jadi mandor."
+
+Kami kembali duduk. Aku meletakkan piring seng yang sudah kering di dekat Pak Lik. Ia mengambil sepotong lele dan menyodorkannya kepadaku, sementara Aji kembali mengatur nasi dengan tangan kirinya.
+
+Di luar, para pedagang masih melayani pengunjung. Ada yang sudah kehabisan lele, ada yang meminta tambahan nasi, dan ada yang menghitung hasil penjualan malam itu. Festival belum selesai, begitu juga urusan kami. Mesin Aji masih menunggu keputusan, pembayaran proyek belum seluruhnya tuntas, dan rencana bekerja bersama masih perlu dibicarakan.
+
+Namun malam itu kami sudah bisa duduk satu meja tanpa memikirkan siapa yang harus menang. Untuk sementara, itu cukup.
+---
+
+## Bab 32: Bergabung
+
+Papan kayu bertuliskan Studio Tenda Malam terpasang di atas pintu ruko. Di bawah nama itu, ada tulisan yang lebih kecil: Lukis Spanduk dan Layanan Desain.
+
+Aku berdiri di anak tangga lipat untuk memastikan papan tidak miring. Aji mengawasi dari bawah sambil memegang waterpass dengan tangan kiri. Luka di telapak tangan kanannya sudah menutup, tetapi kulit di sekitarnya masih terasa kaku. Ia belum bisa memakai tangan itu terlalu lama.
+
+"Kiri sedikit," katanya.
+
+"Katanya tadi kanan."
+
+"Sekarang sudah beda. Geser sedikit ke kiri."
+
+"Dua milimeter saja kamu ribut."
+
+"Kalau papan nama saja miring, nanti orang ragu sama pekerjaan kita."
+
+Aku mengetuk sisi papan dengan palu sampai gelembung pada waterpass berada di tengah. Setelah turun, aku memandangi ruangan yang dulu dibagi garis lakban hitam. Sekat tripleks sudah dibongkar. Meja kerja kami sekarang berdampingan, tetapi masing-masing tetap punya tempat untuk menyimpan alat.
+
+Pak Lik duduk di kursi rotan dekat pintu. Ia masih harus menjaga kondisi dan menjalani pemeriksaan rutin, tetapi sudah cukup kuat untuk menemani kami sejak pagi. Bang Parlin membantu memasang rak, sementara Mbak Pur datang membawa pisang goreng dalam wadah plastik.
+
+"Jadi benar-benar buka studio?" tanya Cak Qodim yang baru datang.
+
+"Benar, Cak. Tapi kami mulai kecil dulu," jawabku.
+
+"Namanya juga usaha. Kalau langsung besar, nanti yang pusing bukan cuma kepala, tapi dompet."
+
+Aji mengeluarkan buku catatan dari laci. Di halaman pertama tertulis daftar alat, biaya awal, dan pembagian pekerjaan. Kami sudah membicarakannya beberapa kali sejak festival selesai. Bukan cuma soal siapa mendapat bagian berapa, tetapi juga tentang apa yang sebenarnya kami miliki bersama.
+
+Ruko dan peralatan lama tetap menjadi milik masing-masing. Meja tambahan dan rak yang dibeli untuk studio dicatat sebagai perlengkapan bersama, lengkap dengan sumber uang pembeliannya. Kalau nanti kami membeli alat baru dari kas studio, pembeliannya juga harus dicatat. Kami belum membentuk badan usaha atau menentukan pembagian kepemilikan formal. Untuk sekarang, kami sepakat menjalankan tempat kerja bersama dengan catatan yang terbuka.
+
+Untuk setiap pesanan yang dikerjakan bersama, biaya bahan, produksi, transportasi, tenaga tambahan, dan pemasangan dipotong lebih dulu. Setelah itu, laba bersih dibagi 60 persen untukku dan 40 persen untuk Aji, mengikuti kesepakatan proyek festival. Pembagian itu berlaku untuk hasil pekerjaan bersama, bukan berarti seluruh alat atau aset pribadi otomatis berubah kepemilikan.
+
+Aku menangani ilustrasi, pemilihan kain, dan pemeriksaan hasil lukisan. Aji menangani desain digital, pengolahan file, panel QRIS, serta komunikasi dengan percetakan luar selama mesin besarnya belum jelas nasibnya. Kami berdua tetap memeriksa hasil akhir sebelum diserahkan kepada pelanggan.
+
+"Jangan sampai nanti ribut gara-gara uang," kata Pak Lik.
+
+"Makanya dicatat, Lik," jawab Aji.
+
+"Kalau begitu, catat juga pisang goreng Mbak Pur. Jangan sampai masuk biaya produksi."
+
+"Itu masuk biaya konsumsi," sahut Mbak Pur.
+
+Kami tertawa. Aji menulis sesuatu di buku, lalu menunjukkan halaman itu kepada Pak Lik. Di sana memang ada kolom konsumsi, meski belum terisi apa-apa.
+
+Mesin cetak digital Aji masih berada di bengkel. Teknisi sudah memberi perkiraan biaya perbaikan, tetapi Aji belum memutuskan apakah mesin itu layak diperbaiki. Biayanya cukup besar dan belum tentu semua komponen bisa dipakai kembali. Untuk sementara, ia membeli mesin pres termal bekas berukuran kecil dengan sebagian tabungan dan bagian keuntungan proyek festival yang sudah disisihkan untuk alat.
+
+Mesin itu tidak bisa menggantikan printer besar. Fungsinya lebih terbatas, tetapi cukup untuk memasang panel transfer pada pekerjaan tertentu. Untuk cetakan berukuran besar, kami tetap akan bekerja sama dengan vendor.
+
+"Tidak perlu memaksakan punya semua mesin sendiri," kata Aji. "Yang penting kita tahu pekerjaan mana yang bisa dikerjakan di sini dan mana yang harus diserahkan ke tempat lain."
+
+Aku mengangguk. "Dan jangan lupa menghitung ongkosnya sebelum kasih harga."
+
+"Itu tugas orang yang sekarang terdengar seperti bagian keuangan."
+
+"Kalau kamu terus mengomentari, nanti bagian keuangan juga yang menentukan uang jajanmu."
+
+Aji tertawa sambil menutup buku catatan.
+
+Beberapa hari setelah festival, pelunasan proyek akhirnya masuk. Setelah semua pengeluaran dicocokkan dengan catatan, kami memisahkan uang untuk kebutuhan studio dan bagian keuntungan masing-masing. Tidak ada bonus mendadak atau uang tambahan yang membuat usaha kami langsung mapan. Hasilnya cukup untuk membeli mesin pres bekas dan menyisakan sedikit dana operasional.
+
+Menjelang siang, pesanan pertama masuk setelah kabar festival menyebar. Sebuah asosiasi pedagang soto dari Bekasi meminta desain spanduk dengan ilustrasi ayam jago di samping mangkuk soto. Jumlahnya belum banyak, tetapi mereka meminta kami mengirim rancangan awal sebelum kain dipotong.
+
+Aji membentangkan kain contoh di atas meja. Ia mengambil kuas nomor lima dengan tangan kanannya, lalu menggerakkannya perlahan untuk memastikan telapak tangannya tidak terasa sakit. Garis pertama yang ia tarik sedikit bergetar.
+
+"Tangan desainer digital ini belum tentu bisa bikin garis lurus," katanya.
+
+"Memang tidak harus langsung bagus."
+
+Aku berdiri di sampingnya dan menunjukkan cara memegang kuas agar pergelangan tidak kaku. Aji mencoba menarik lengkungan jingga sekali lagi. Hasilnya lebih rata, meski ujung garis masih sedikit melebar.
+
+"Sudah lumayan," kataku.
+
+"Kalau menurutmu lumayan, berarti masih perlu latihan."
+
+"Betul."
+
+Ia meletakkan kuas dan membiarkan cat pertama mengering sebelum menarik garis berikutnya. Aku memeriksa sketsa ayam jago dari layar laptop, lalu memberi tanda pada bagian yang perlu disederhanakan agar mudah dilukis di atas kain.
+
+Di luar, suara kendaraan Kalimalang kembali memenuhi jalan. Pak Lik mengobrol dengan Cak Qodim di teras, sementara Bang Parlin mencoba memastikan rak baru tidak bergoyang. Mbak Pur sudah pulang, tetapi wadah pisang gorengnya tertinggal di meja.
+
+Ruangan ini belum sempurna. Masih ada bekas lubang sekrup di dinding, beberapa kabel perlu dirapikan, dan mesin cetak lama Aji belum punya keputusan akhir. Kami juga belum tahu berapa banyak pesanan yang akan datang atau apakah pembagian kerja ini akan selalu berjalan lancar.
+
+Namun, untuk pertama kalinya, kami punya tempat kerja dengan aturan yang disepakati bersama. Ada satu pesanan yang harus diselesaikan, alat yang cukup untuk memulainya, dan catatan biaya yang bisa diperiksa kapan saja.
+
+Aji menatap lengkungan jingga yang mulai mengering.
+
+"Kita tunggu catnya kering bersama-sama," katanya.
+
+Aku mengambil kuas lain dari kaleng.
+
+"Setelah itu baru lanjut garis berikutnya."
+
+Ia mengangguk, lalu kembali memeriksa sketsa. Aku mulai menyiapkan warna, sementara cat pertama mengering di atas kain.
+
