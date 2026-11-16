@@ -7,6 +7,8 @@
 | Bab | Hari/jam | Lokasi | Tokoh hadir | Kejadian kunci |
 |---|---|---|---|---|
 | 1 | Selasa, 04.30 | Ruko Wiwin Kalimalang | Wiwin, Pak Lik Harto, sopir pikap | Wiwin membentang kain subuh; ruko seberang menurunkan mesin cetak digital bekas |
+| 2 | Rabu, 16.00 | Pelataran ruko Wiwin | Wiwin, Cak Qodim, Bachtiar, Mbak Pur | Cak Qodim pesan spanduk lele kumis melengkung; Bachtiar sebar brosur cetak murah; mitos pantang lele Lamongan |
+| 3 | Kamis, 19.30 | Depan ruko percetakan Bachtiar | Wiwin, Bachtiar, Bang Parlin, Cak Qodim | Wiwin melabrak Bachtiar soal warna spanduk bebek; kompresor Bang Parlin menyala; Cak Qodim datang bawa spanduk MMT baru |
 
 ## A2. Timeline Masa Lalu
 
@@ -38,6 +40,8 @@
 | Bab | POV | Emosi/perubahan | Benda yang dibawa | Hubungan terakhir | Rahasia yang dipegang | Urusan menggantung |
 |---|---|---|---|---|---|---|
 | 1 | Wiwin | Waspada & cemas | Kuas, piring cat blirik | Belum kenal Bachtiar | Khawatir obat paman habis | Siapa penyewa ruko seberang |
+| 2 | Wiwin | Jengkel & tertantang | Kain mori kusam Cak Qodim | Saling sindir ruko seberang | Mengetahui mitos lele Lamongan | Pesanan Cak Qodim harus selesai besok malam |
+| 3 | Wiwin | Marah & terkejut | Sandal jepit karet | Berdebat sengit di trotoar | - | Spanduk MMT Cak Qodim siap dipasang di atas wajan |
 
 ## E. Fakta Keras dan Angka
 

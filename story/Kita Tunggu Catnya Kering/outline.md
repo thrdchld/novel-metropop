@@ -46,16 +46,16 @@ Melihat pengorbanan Bachtiar dan tangisan Wiwin, seluruh warga sekitar—Cak Qod
 ## 4. Rincian per Bab (Format Skenario Adegan / Scene Treatment)
 
 ### Bab 1: Kuas
-- **Adegan & Tokoh:** Selasa, pukul 04.30 WIB di ruko semen pinggir Kalimalang | Wiwin, Pak Lik Harto, sopir pikap sewaan.
-- **Variasi Pembuka:** Sensori Lingkungan
-- **Skenario Masuk (Opening Beat):** Udara dingin Kalimalang bercampur uap knalpot truk pasir dan bau tiner menyengat saat Wiwin membentang kain mori putih sepanjang empat meter di lantai semen.
+- **Adegan & Tokoh:** Selasa, pukul 04.30 WIB di ruko semen pinggir Kalimalang | Wiwin, Bachtiar, sopir pikap, Pak Lik Harto.
+- **Variasi Pembuka:** In Medias Res Fisik
+- **Skenario Masuk (Opening Beat):** Ujung kuas liner bulu musang di tangan Wiwin tergelincir mencoret dahi lele di atas kain mori saat lantai semen bergetar hebat akibat dentuman peti kayu mesin seberat 400 kilogram yang dijatuhkan dari bak pikap di seberang jalan.
 - **Ketukan Aksi & Reaksi:**
-  1. Wiwin meracik cat oranye stabilo di piring kaleng blirik hijau sambil mendengarkan batuk asma Pak Lik Harto dari kamar belakang.
-  2. Truk pikap berhenti di seberang jalan, menurunkan peti kayu besar berisi mesin cetak digital bekas milik penyewa baru.
-  3. Pak Lik Harto memperingatkan Wiwin dari kusen pintu bahwa zaman mesin cetak sudah tiba di depan mata mereka.
+  1. Wiwin mengumpat panik berusaha mengeringkan noda cat hitam sebelum pesanan Cak Qodim dijemput jam enam pagi, sementara sopir pikap seberang menyeberang mengetuk pintu ruko meminjam linggis besi.
+  2. Wiwin keluar menenteng linggis dengan tangan penuh cat oranye, berhadapan langsung dengan Bachtiar di samping peti kayu bertuliskan "High-Speed Outdoor Digital Printer 120 Meter Per Jam".
+  3. Bachtiar melirik tangan belepotan cat Wiwin dan menyeletuk sinis apakah hari gini masih ada orang menggambar spanduk pakai kuas manual, memicu amarah dan perdebatan pertama mereka di tepi aspal.
 - **Bentuk Hook Penutup:** Pertanyaan Menggantung
-- **Skenario Penutup:** Wiwin menatap bayangan mesin cetak raksasa di seberang aspal, bertanya dalam hati apakah sapuan kuas tangannya masih punya harga di kota ini.
-- **Detail Fisik & Planting-Callback:** Piring kaleng blirik hijau loreng tempat menaruh cat, debu aspal Kalimalang.
+- **Skenario Penutup:** Wiwin membanting linggis ke tanah dan kembali masuk ke rukonya, menatap kuasnya dengan dada bergemuruh, bertanya-tanya bagaimana tangannya bisa menyelamatkan kain yang rusak sebelum matahari terbit.
+- **Detail Fisik & Planting-Callback:** Piring kaleng blirik hijau loreng tempat menaruh cat, linggis besi berkarat, stempel peti kayu 120 meter per jam.
 
 ### Bab 2: Kumis Lele
 - **Adegan & Tokoh:** Rabu, pukul 16.00 WIB di pelataran ruko Wiwin | Wiwin, Cak Qodim.

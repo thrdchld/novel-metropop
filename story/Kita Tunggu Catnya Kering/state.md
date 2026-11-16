@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Belum ada (Menjelang Bab 1)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 1 (*Kuas*)
-- **Titik Waktu Cerita:** Selasa, Pukul 04.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Lantai semen ruko bengkel spanduk kain mori, Kalimalang, Jakarta Timur
-- **Cuaca / Suasana Fisik:** Udara subuh dingin berkabut tipis, aroma knalpot truk pasir bercampur bau tiner cat tekstil
+- **Bab Terakhir Selesai:** Bab 3 (*Spanduk*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 4 (*Uap Panas*)
+- **Titik Waktu Cerita:** Jumat, Pukul 21.45 WIB
+- **Lokasi Terkini Tokoh Utama:** Warung tenda pecel lele Cak Qodim, Kalimalang
+- **Cuaca / Suasana Fisik:** Malam hari riuh, uap minyak jelantah mengepul dari wajan baja panas
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Lelah fisik setelah begadang, cemas mendengar batuk paman, waspada melihat ruko seberang menurunkan mesin cetak
+- **Kondisi Emosi Tokoh Utama:** Waswas bercampur penasaran menyaksikan spanduk plastik MMT Bachtiar yang dipasang tepat di atas wajan penggorengan lele Cak Qodim
 
 ---
 
