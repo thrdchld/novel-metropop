@@ -26,6 +26,24 @@ Setelah telepon ditutup, Aji tampak lebih tenang.
 
 "Berarti malam ini kita tidak perlu menyulap ruko jadi pabrik dalam satu hari," katanya.
 
+Aku mengambil buku catatan dari tas. "Tapi kita tetap harus siap kalau mereka datang lebih cepat."
+
+Kami menyusun daftar yang harus tersedia saat peninjauan: satu prototipe, daftar bahan, contoh file QRIS, catatan waktu penerapan, dan pembagian kerja. Aji menambahkan satu kolom khusus untuk mencatat kode yang sudah diperiksa dan yang masih perlu dikonfirmasi.
+
+"Kalau ada nama merchant yang berbeda dengan daftar paguyuban, kita jangan menebak," katanya. "Harus tanya pemiliknya langsung."
+
+"Dan kalau ada kain yang gagal, pisahkan. Jangan dicampur dengan yang sudah siap."
+
+Bang Rahmat memperhatikan daftar itu. "Anak-anak paguyuban bisa bantu mengangkat meja atau menyiapkan rak. Tapi untuk data QRIS, lebih baik pemilik warung ikut memastikan."
+
+"Setuju," jawabku. "Jangan sampai nanti ada yang bilang kami mengganti kode mereka."
+
+Bang Rahmat menyimpan ponselnya. Ia mengingatkan bahwa kabar tentang Haris tetap sebatas informasi yang ia dengar dari sopir. Kami tidak punya bukti bahwa panitia sudah memutuskan apa pun, jadi tidak ada gunanya membangun rencana berdasarkan rumor.
+
+Aji menutup buku catatan. "Kita kerjakan yang bisa kita kendalikan dulu. Bahan, alur, dan kecocokan data."
+
+Aku mengangguk. Untuk sekali ini, aku setuju dengan cara berpikirnya.
+
 "Bagus. Aku juga tidak mau melukis sambil berdiri di atas gulungan kain."
 
 Bang Rahmat tertawa. "Kalau butuh tenaga angkut atau tambahan orang, kabari. Anak-anak paguyuban bisa membantu."
