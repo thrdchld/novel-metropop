@@ -2,7 +2,7 @@
 
 "Jangan sentuh kuas bulu musang nomor satuku kalau tanganmu belum dicuci!"
 
-Pekikanku membuat Aji berhenti di ambang pintu. Pukul delapan pagi, ia datang membawa meja lipat aluminium, kotak perkakas, dan dua gelas kopi plastik.
+Pekikanku membuat Aji berhenti di ambang pintu. Pukul tujuh pagi, ia datang membawa meja lipat aluminium, kotak perkakas, dan dua gelas kopi plastik.
 
 "Aku baru dari kamar mandi," katanya. "Dan aku tidak berniat menyentuh kuasmu."
 
