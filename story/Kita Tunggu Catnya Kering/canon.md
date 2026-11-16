@@ -1,7 +1,7 @@
 # Canon — Kita Tunggu Catnya Kering
 
 > Status: TERKUNCI
-> Versi: v1.1 — diselaraskan setelah revisi Bab 1–32
+> Versi: v1.2 — diselaraskan setelah audit kronologi Bab 1–32
 > Sumber kebenaran cerita. Jangan diubah diam-diam di tengah jalan.
 
 ## 1. Identitas Cerita
@@ -86,7 +86,7 @@
 ## 7. Aturan Kontinuitas Final
 
 - Pesanan awal adalah 50 spanduk; perubahan pesanan menambah 10 spanduk VIP, sehingga total menjadi 60.
-- Kebutuhan kain untuk 10 spanduk tambahan tidak boleh diambil dari persediaan 200 meter yang sudah dialokasikan untuk 50 spanduk awal. Tambahan kain harus dibeli.
+- Pembelian kain awal Bab 17 berjumlah 53 gulung × 4 meter = 212 meter. Sebanyak 50 gulung/200 meter dialokasikan untuk 50 spanduk awal; 3 gulung/12 meter disimpan sebagai cadangan. Untuk 10 spanduk VIP dibutuhkan 40 meter: 12 meter cadangan ditambah pembelian 32 meter, menyisakan 4 meter.
 - QRIS bersifat individual untuk setiap warung. Panel kode pada kain harus cocok dengan pemilik merchant yang benar.
 - Pemindaian QRIS hanya memverifikasi keterbacaan dan identitas merchant. Pembayaran baru terjadi setelah nominal dikonfirmasi dan transaksi diterima.
 - Wiwin membuat ilustrasi dengan tangan. Aji menyiapkan file dan panel QRIS secara digital; panel dipasang melalui proses transfer yang diuji. Jangan menggambarkan kode QRIS dilukis manual.
@@ -104,7 +104,7 @@
 
 - Panel QRIS dibuat dari file resmi merchant, dicetak digital pada bahan transfer, lalu diterapkan ke kain dengan mesin pres termal pinjaman pemasok selama proyek festival.
 - Mesin pres termal yang dipakai selama proyek dipinjam dari pemasok bahan. Mesin pres termal kecil yang muncul pada akhir cerita adalah pembelian baru Aji setelah festival, bukan alat yang sejak awal dimiliki studio.
-- Kain tambahan untuk 10 spanduk VIP berjumlah 32 meter, ditambah sisa 12 meter dari persediaan awal. Pembelian dilakukan setelah perubahan pesanan dan uang muka disetujui.
+- Kain tambahan untuk 10 spanduk VIP berjumlah 32 meter, ditambah 12 meter cadangan dari 3 gulung yang tersisa pada pembelian 53 gulung/212 meter di Bab 17. Pembelian 32 meter dilakukan setelah perubahan pesanan dan uang muka disetujui.
 - Pengiriman 50 spanduk utama yang semula dijadwalkan Senin ditunda setelah festival dimajukan ke Selasa. Seluruh 60 spanduk dibawa ke lokasi pada Selasa sebelum pemasangan.
 - Pada akhir cerita, studio mulai beroperasi pada Minggu menjelang siang setelah festival Selasa malam.
 - Pembagian laba bersih untuk pesanan bersama adalah 60 persen Wiwin dan 40 persen Aji; biaya proyek dipotong terlebih dahulu.
