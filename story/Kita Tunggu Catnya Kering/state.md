@@ -8,13 +8,13 @@
 
 ## I. Status Garis Depan Penulisan (Writing Frontier)
 
-- **Bab Terakhir Selesai:** Bab 22 (*Inspeksi*)
-- **Bab Berikutnya yang Akan Ditulis:** Bab 23 (*Cangkir Kopi*)
-- **Titik Waktu Cerita:** Sabtu, Pukul 16.30 WIB
-- **Lokasi Terkini Tokoh Utama:** Teras ruko Wiwin & warkop Mbak Pur, Kalimalang
-- **Cuaca / Suasana Fisik:** Sore teduh berangin sejuk, deru lalu lintas akhir pekan mulai ramai
+- **Bab Terakhir Selesai:** Bab 23 (*Cangkir Kopi*)
+- **Bab Berikutnya yang Akan Ditulis:** Bab 24 (*Pemberitahuan*)
+- **Titik Waktu Cerita:** Minggu, Pukul 09.00 WIB
+- **Lokasi Terkini Tokoh Utama:** Sekretariat Paguyuban Tenda & Ruko Wiwin, Kalimalang
+- **Cuaca / Suasana Fisik:** Minggu pagi yang gerah, langit Kalimalang berawan mendung tipis
 - **POV Aktif:** Dwi Winarsih (Wiwin) — POV 1 ("Aku")
-- **Kondisi Emosi Tokoh Utama:** Hangat, tenang, dan mulai membuka hati sambil menikmati secangkir kopi hitam
+- **Kondisi Emosi Tokoh Utama:** Kaget dan tegang menghadapi surat pemberitahuan pemajuan jadwal pembukaan festival
 
 ---
 
@@ -22,10 +22,10 @@
 
 | Label Waktu | Hari & Jam Kalender Cerita | Kejadian yang Terjadi |
 |---|---|---|
-| **Hari Ini** | Sabtu (16.30 WIB) | Menikmati sore santai merayakan kemenangan verifikasi spanduk |
-| **Kemarin (H-1)** | Jumat | Uji scan dan penandatanganan berita acara kelayakan oleh Pak Haris |
-| **Dua Hari Lalu (H-2)** | Kamis | Belanja mori ke Tanah Abang dan gerilya sablon malam |
-| **Tenggat / Acara Mendatang** | Senin Depan | Pemasangan serentak 50 tenda festival di jalan protokol kota |
+| **Hari Ini** | Minggu (09.00 WIB) | Rapat darurat paguyuban membahas surat pemberitahuan pemajuan jadwal |
+| **Kemarin (H-1)** | Sabtu | Kurir dinas mengantar amplop kilat saat minum kopi sore |
+| **Dua Hari Lalu (H-2)** | Jumat | Uji scan dan penandatanganan berita acara kelayakan oleh Pak Haris |
+| **Tenggat / Acara Mendatang** | Besok Malam (Senin) | Jadwal baru pembukaan festival yang dimajukan mendadak |
 
 ---
 

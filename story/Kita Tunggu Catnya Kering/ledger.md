@@ -28,6 +28,7 @@
 | 20 | Jumat, 04.30 | Bengkel tambal ban Bang Parlin | Wiwin, Bachtiar, Bang Parlin | Rakit blower panas kompresor; 10 kain terakhir kering tepat waktu; iring-iringan dinas tiba |
 | 21 | Jumat, 07.00 | Pelataran ruko Wiwin | Wiwin, Bachtiar, Pak Haris, staf dinas, Mbak Pur, Bang Parlin, Cak Qodim | Tes scan mendadak 50 spanduk hibrida; 49 kain tembus instan; kain ke-50 diuji HP retak seribu Mbak Pur dan lolos |
 | 22 | Jumat, 11.30 | Ruko Wiwin Kalimalang | Wiwin, Bachtiar, Cak Qodim, Pak Haris | Cak Qodim uji kelenturan kain mori; Pak Haris tanda tangani BAPHP kelayakan; cap jempol ungu sesepuh |
+| 23 | Sabtu, 16.30 | Teras ruko Wiwin | Wiwin, Bachtiar, kurir dinas | Minum kopi cangkir blirik bersama; Bachtiar akui jiwa kuas manual; kurir antar surat kilat dinas |
 
 ## A2. Timeline Masa Lalu
 
@@ -80,6 +81,7 @@
 | 20 | Wiwin | Tegang lalu lega | Corong seng kompresor, kain mori ke-50 | Bersatu padu dengan tetangga bengkel | - | Menghadapi inspeksi mendadak mobil dinas Pak Haris |
 | 21 | Wiwin | Tegang lalu bangga | Kain mori ke-50, HP retak Mbak Pur | Berdiri bersisian membela martabat usaha | - | Penandatanganan berita acara serah terima proyek |
 | 22 | Wiwin | Puas & waspada | Berita acara BAPHP, pulpen hitam | Bersama Cak Qodim mengunci kemenangan atas dinas | - | Persiapan pemasangan 50 tenda festival |
+| 23 | Wiwin | Hangat & terhubung | Cangkir blirik kopi hitam, amplop dinas kilat | Saling mengakui kelebihan dan menyatu rasa | Mengetahui apresiasi Bachtiar pada lukisan kuas | Ada surat kilat dinas misterius tiba |
 
 ## E. Fakta Keras dan Angka
 
