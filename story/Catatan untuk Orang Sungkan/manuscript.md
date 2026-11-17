@@ -381,7 +381,7 @@ Namun sebelum tanganku terulur, gerakan dari sisi kananku menarik perhatianku.
 
 Saka menyandarkan punggungnya ke kursi dengan kedua lengan bersedekap di depan dada. Tatapannya tertuju lurus padaku.
 
-Berbeda dengan kejadian kemarin saat menghadapi Mbak Dinda, kali ini Saka tidak memotong pembicaraan. Dia tidak pasang badan, tidak pula mengeluarkan kata-kata tajam untuk mengusir Dimas. Saka hanya memperhatikanku dalam hening, seolah memberi ruang penuh padaku untuk menentukan pilihan: apakah aku akan kembali membiarkan orang lain menginjak batas kenyamananku, atau akhirnya berani bersuara untuk diriku sendiri.
+Berbeda dengan kejadian Selasa sore saat menghadapi Mbak Dinda, kali ini Saka tidak memotong pembicaraan. Dia tidak pasang badan, tidak pula mengeluarkan kata-kata tajam untuk mengusir Dimas. Saka hanya memperhatikanku dalam hening, seolah memberi ruang penuh padaku untuk menentukan pilihan: apakah aku akan kembali membiarkan orang lain menginjak batas kenyamananku, atau akhirnya berani bersuara untuk diriku sendiri.
 
 ---
 
