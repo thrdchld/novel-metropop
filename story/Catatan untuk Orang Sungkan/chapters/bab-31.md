@@ -54,9 +54,9 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Mutasi tetap ke Jakarta? Jadi... Mas Saka ke Jogja bukan mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Pak Ramdan nawarin posisi tetap pegang lini buku ilustrasi baru sejak awal proyek," jelas Saka tenang seraya tersenyum tipis. "Peluang kerjanya bagus, dan lini baru itu butuh ilustrator meja nomor empat."
+"Pak Ramdan nawarin posisi tetap pegang lini buku ilustrasi baru sejak awal proyek," jelas Saka tenang seraya tersenyum tipis.
 
-Dia menatap surat di tanganku. Keputusan pindahnya sudah bulat sejak pengajuan tiga minggu lalu, bukan cuma karena lini buku baru itu, tapi juga karena aku.
+Dia menatap surat di tanganku. "Keputusan saya pindah sudah bulat sejak pengajuan tiga pekan lalu, dan lini buku baru itu alasannya."
 
 "Waktu kamu tanya rencana saya, surat pelepasan memang belum turun," lanjut Saka pelan. "Perjalanan Selasa sore itu dari awal memang buat tanda tangan Pak Bambang dan beresin kos lama."
 
