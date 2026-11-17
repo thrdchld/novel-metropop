@@ -1247,7 +1247,7 @@ Senyum tipis di wajahku langsung memudar. Tanganku yang memegang gagang cangkir 
 
 "Loh, Mas Saka belum cerita ke kamu?" Dimas menatapku dengan ekspresi iba yang halus.
 
-Dia melangkah setapak mendekat. "Tadi pagi orang HRD baru aja bahas tiket kepulangan dia ke Jogja."
+Dia melangkah setapak mendekat. "Orang HRD tadi pagi baru aja bahas masa tugas Mas Saka."
 
 Dimas melipat tangannya di dada. "Begitu buku Sela Waktu beres, tugas perbantuan dia di Jakarta habis."
 
