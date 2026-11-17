@@ -6,7 +6,7 @@ Dari jam satu siang sampai menjelang jam lima sore, aku hampir tidak mengeluarka
 
 Tepat pukul lima lewat satu menit sore, bunyi klik layar laptop Saka yang ditutup terdengar tegas di telingaku.
 
-"Seluruh file akhir Sela Waktu sudah saya kirim ke percetakan rekanan barusan," kata Saka sambil mencabut kabel laptopnya. "Senin sore cetak percobaan dikirim ke sini buat kita periksa. Jumat depan langsung acara peluncuran di toko buku Cikini."
+"Seluruh file akhir Sela Waktu sudah saya kirim ke percetakan rekanan barusan," kata Saka sambil mencabut kabel laptopnya. "Senin sore cetak percobaan dikirim ke sini buat kita periksa. Jumat depan langsung acara peluncuran di toko buku Cikini. Edisi peluncurannya dicetak digital dalam jumlah terbatas supaya keburu, cetak offset menyusul."
 
 Aku mematikan papan gambar digitalku dengan gerakan lambat. Tanganku di atas meja mendadak dingin karena AC ruangan, atau mungkin karena nyaliku sendiri yang menciut.
 

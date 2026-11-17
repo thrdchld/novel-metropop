@@ -126,7 +126,7 @@
 - **Waktu & Lokasi:** Kamis sore pukul 15.30, Ruang Rapat Redaksi Penerbit Aksara Senja.
 - **Kejadian Inti:** Dalam rapat evaluasi sampul bersama Pak Ramdan, Dimas kembali mencoba menjatuhkan draf ilustrasi sampul buatan Nadia dengan alasan kurang menjual. Tanpa menaikkan nada suara sedikit pun, Saka membuka lembar data penjualan buku sebelumnya di layar proyektor dan mematahkan argumen asal-asalan Dimas poin demi poin hingga Dimas terdiam malu di depan Pak Ramdan.
 - **Perkembangan Emosi / Hubungan:** Nadia menatap Saka dengan rasa kagum yang hangat karena baru kali ini ada rekan kerja yang membela hasil jerih payahnya secara terbuka dan elegan.
-- **Detail Kecil / Planting-Callback:** Pak Ramdan langsung menyetujui sampul buatan Nadia tanpa revisi tambahan.
+- **Detail Kecil / Planting-Callback:** Pak Ramdan langsung menyetujui sampul buatan Nadia tanpa revisi tambahan dan menjadwalkan tahap finalisasi tata letak.
 
 ### Bab 16: Satu Payung di Sepanjang Cikini
 - **Waktu & Lokasi:** Kamis petang pukul 17.30, Halte & Trotoar Jalan Cikini Raya.
@@ -160,7 +160,7 @@
 
 ### Bab 21: Jawaban yang Terdengar Dingin
 - **Waktu & Lokasi:** Jumat sore pukul 17.00, Meja Proyek Nadia & Saka.
-- **Kejadian Inti:** Dengan hati ketar-ketir, Nadia mencoba memancing obrolan kepada Saka tentang rencana Saka setelah buku *Sela Waktu* naik cetak minggu depan. Karena surat permohonan mutasi permanen yang diajukan Saka ke HRD belum turun persetujuannya dan Saka pantang memberi janji kosong sebelum ada kepastian resmi, Saka menjawab dengan gaya realistisnya yang datar bahwa minggu depan ia memang harus kembali ke Yogyakarta dulu untuk membereskan urusan kantornya di sana.
+- **Kejadian Inti:** Setelah Saka mengabarkan bahwa file akhir *Sela Waktu* sudah dikirim ke percetakan (edisi peluncuran dicetak digital terbatas lebih dulu agar terkejar, sedangkan cetak offset menyusul), Nadia dengan hati ketar-ketir mencoba memancing obrolan tentang rencana Saka minggu depan. Karena surat permohonan mutasi permanen yang diajukan Saka ke HRD belum turun persetujuannya dan Saka pantang memberi janji kosong sebelum ada kepastian resmi, Saka menjawab dengan gaya realistisnya yang datar bahwa minggu depan ia memang harus kembali ke Yogyakarta dulu untuk membereskan urusan kantornya di sana.
 - **Perkembangan Emosi / Hubungan:** Jawaban singkat Saka membuat Nadia salah paham dan merasa hancur; Nadia menyimpulkan bahwa bagi Saka, kedekatan mereka selama ini hanyalah keakraban rekan satu proyek sementara.
 - **Detail Kecil / Planting-Callback:** Karena terluka dan gengsi, Nadia langsung berbicara kaku seperti operator *customer service* dan menolak ajakan Saka pulang bareng.
 
@@ -178,7 +178,7 @@
 
 ### Bab 24: Ilustrasi Kursi Kosong
 - **Waktu & Lokasi:** Senin sore pukul 16.00, Ruang Redaksi Penerbit Aksara Senja.
-- **Kejadian Inti:** Nadia dan Saka harus memeriksa cetakan percobaan (*dummy* buku) *Sela Waktu* sebelum naik cetak massal. Suasana di antara mereka hening dan kaku karena Nadia masih menjaga jarak sejak hari Jumat. Saat memeriksa halaman terakhir buku, gerakan tangan Saka terhenti melihat ilustrasi kecil buatan Nadia yang dibuat minggu lalu: gambar dua meja kerja yang bersebelahan, di mana satu kursinya sudah kosong dan hanya menyisakan bayangan botol minum hitam.
+- **Kejadian Inti:** Nadia dan Saka harus memeriksa cetakan percobaan (*dummy* buku) *Sela Waktu* sebelum naik cetak terbatas edisi peluncuran. Suasana di antara mereka hening dan kaku karena Nadia masih menjaga jarak sejak hari Jumat. Saat memeriksa halaman terakhir buku, gerakan tangan Saka terhenti melihat ilustrasi kecil buatan Nadia yang dibuat minggu lalu: gambar dua meja kerja yang bersebelahan, di mana satu kursinya sudah kosong dan hanya menyisakan bayangan botol minum hitam.
 - **Perkembangan Emosi / Hubungan:** Saka menatap gambar itu lama dan hendak bertanya pada Nadia, namun ponsel Nadia lebih dulu bergetar karena pesan dari Dimas yang mengabarkan sudah menunggu di lobi gedung.
 - **Detail Kecil / Planting-Callback:** Ilustrasi kursi kosong dan bayangan botol minum hitam menjadi bukti bisu perasaan Nadia yang sedang ia tekan sendiri.
 
@@ -190,7 +190,7 @@
 
 ### Bab 26: Meja Kerja yang Membeku
 - **Waktu & Lokasi:** Selasa siang, Ruang Desain & Redaksi Penerbit Aksara Senja.
-- **Kejadian Inti:** Seharian di kantor, suasana di meja proyek nomor empat membeku total; Saka hanya berbicara seperlunya soal teknis halaman terakhir buku tanpa menatap mata Nadia, sementara Dimas berkali-kali datang ke meja Nadia dengan senyum kemenangan untuk memastikan jadwal makan malam keluarga nanti malam. Saat jam makan siang, Tari berusaha memperingatkan Nadia apakah Nadia yakin kembali pada Dimas bukan sekadar karena patah hati pada Saka, tetapi Nadia yang sudah terlanjur goyah dan gengsi berusaha meyakinkan dirinya sendiri bahwa keputusannya sudah benar.
+- **Kejadian Inti:** Seharian di kantor, suasana di meja proyek nomor empat membeku total; Saka hanya menyerahkan lembar persetujuan naik cetak terbatas edisi peluncuran tanpa menatap mata Nadia, sementara Dimas berkali-kali datang ke meja Nadia dengan senyum kemenangan untuk memastikan jadwal makan malam keluarga nanti malam. Saat jam makan siang, Tari berusaha memperingatkan Nadia apakah Nadia yakin kembali pada Dimas bukan sekadar karena patah hati pada Saka, tetapi Nadia yang sudah terlanjur goyah dan gengsi berusaha meyakinkan dirinya sendiri bahwa keputusannya sudah benar.
 - **Perkembangan Emosi / Hubungan:** Meski mulut Nadia berkata ia siap kembali pada Dimas nanti malam, dadanya justru terasa sesak dan hampa setiap kali melirik kursi Saka di sebelahnya.
 - **Detail Kecil / Planting-Callback:** Nadia melihat catatan *post-it* kuning dari Saka di pojok monitornya yang mulai agak mengelupas, lalu mencopot dan menyimpannya ke dalam buku sketsanya dengan hati berat.
 

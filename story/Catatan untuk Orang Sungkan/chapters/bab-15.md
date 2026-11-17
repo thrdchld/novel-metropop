@@ -48,7 +48,7 @@ Wajah Dimas seketika memerah menahan malu. Bolpoin yang tadi dipegangnya untuk m
 
 Pak Ramdan tertawa kecil sambil menepuk meja. "Untung Saka rajin baca tabel pemasaran. Sampul buatan Nadia langsung kita kunci tanpa revisi tambahan."
 
-Beliau merapikan map berkas di depannya. "Jadwal berikutnya langsung masuk tahap cetak percobaan."
+Beliau merapikan map berkas di depannya. "Jadwal berikutnya langsung masuk tahap finalisasi tata letak."
 
 "Terima kasih, Pak," ucapku lega.
 

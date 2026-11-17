@@ -4,7 +4,7 @@ Suasana di meja proyek nomor empat pada Selasa pagi ini benar-benar membeku.
 
 Sejak datang pukul sembilan pagi tadi, Saka sama sekali tidak menoleh ke arahku. Tidak ada lagi segelas kopi susu dingin di sebelah tempat pensilku, tidak ada juga komentar soal gambar kucing atau warna gerobak bakso.
 
-Saat menyerahkan lembar persetujuan naik cetak untuk kutandatangani pukul sepuluh pagi, Saka hanya meletakkan kertas itu di garis tengah meja tanpa menatap mataku.
+Saat menyerahkan lembar persetujuan naik cetak terbatas edisi peluncuran untuk kutandatangani pukul sepuluh pagi, Saka hanya meletakkan kertas itu di garis tengah meja tanpa menatap mataku.
 
 "Tanda tangan di kolom bawah, Nad. Jam sebelas kurir percetakannya ambil ke sini," kata Saka singkat, lalu langsung kembali menatap layar laptopnya.
 

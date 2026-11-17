@@ -2,7 +2,7 @@
 
 Jumat sore pukul empat lewat lima belas menit, aula diskusi di lantai dua toko buku kawasan Cikini sudah dipenuhi sekitar lima puluh pengunjung yang duduk berderet di kursi lipat kayu.
 
-Di barisan paling depan, Ibu duduk berdampingan dengan Tari sambil memegang satu eksemplar buku Sela Waktu yang baru saja terbit pagi ini. Ibu tersenyum bangga ke arahku yang duduk di sofa panggung kecil bersama Pak Ramdan dan seorang moderator acara.
+Di barisan paling depan, Ibu duduk berdampingan dengan Tari sambil memegang satu eksemplar buku Sela Waktu edisi pertama yang baru tiba dari percetakan pagi ini. Ibu tersenyum bangga ke arahku yang duduk di sofa panggung kecil bersama Pak Ramdan dan seorang moderator acara.
 
 Sementara itu, satu kursi sofa di sebelah kananku yang seharusnya ditempati oleh editor utama buku ini masih kosong sejak acara dimulai lima belas menit lalu.
 

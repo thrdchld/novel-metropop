@@ -49,7 +49,6 @@ Detik itu juga, seluruh darah di tubuhku rasanya berhenti mengalir.
 Aku mematung. Kepalaku perlahan terangkat ke atas dengan gerakan kaku seperti engsel pintu karatan. Di anak tangga lantai tiga menuju lantai empat yang remang-remang, seorang pria berkemeja flanel gelap sedang duduk bersila santai sambil menatapku lurus.
 
 Di tangan kanannya, ada sebuah botol minum hitam legam yang bagian bawahnya penyok sedikit.
-
 ---
 
 ## **Bab 2: Pria Berbotol Minum Penyok**
@@ -105,7 +104,6 @@ Rasa malu yang membakar membuatku tidak tahan berlama-lama lagi di tangga darura
 Bodo amat. Malam ini aku tidak peduli lagi.
 
 Aku menyambar tas selempangku dari laci, mematikan sakelar monitor dengan sekali tekan, lalu melesat kabur menuju lobi bawah sebelum aku berpapasan lagi dengan si pria berbotol penyok itu.
-
 ---
 
 ## **Bab 3: Meja Sebelah Si Raja Tega**
@@ -173,7 +171,6 @@ Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum,
 "Nggak bisa. Jadwal proyek saya sudah penuh."
 
 Riko tertegun kaku dengan mulut setengah terbuka. Dan tanpa menunggu balasan apa pun, Saka melangkah santai melewatinya menuju meja proyek nomor empat, tepat di seberang tempat dudukku.
-
 ---
 
 ## **Bab 4: Peraturan Jam Lima Sore**
@@ -974,7 +971,7 @@ Wajah Dimas seketika memerah menahan malu. Bolpoin yang tadi dipegangnya untuk m
 
 Pak Ramdan tertawa kecil sambil menepuk meja. "Untung Saka rajin baca tabel pemasaran. Sampul buatan Nadia langsung kita kunci tanpa revisi tambahan."
 
-Beliau merapikan map berkas di depannya. "Jadwal berikutnya langsung masuk tahap cetak percobaan."
+Beliau merapikan map berkas di depannya. "Jadwal berikutnya langsung masuk tahap finalisasi tata letak."
 
 "Terima kasih, Pak," ucapku lega.
 
@@ -1326,7 +1323,7 @@ Dari jam satu siang sampai menjelang jam lima sore, aku hampir tidak mengeluarka
 
 Tepat pukul lima lewat satu menit sore, bunyi klik layar laptop Saka yang ditutup terdengar tegas di telingaku.
 
-"Seluruh file akhir Sela Waktu sudah saya kirim ke percetakan rekanan barusan," kata Saka sambil mencabut kabel laptopnya. "Senin sore cetak percobaan dikirim ke sini buat kita periksa. Jumat depan langsung acara peluncuran di toko buku Cikini."
+"Seluruh file akhir Sela Waktu sudah saya kirim ke percetakan rekanan barusan," kata Saka sambil mencabut kabel laptopnya. "Senin sore cetak percobaan dikirim ke sini buat kita periksa. Jumat depan langsung acara peluncuran di toko buku Cikini. Edisi peluncurannya dicetak digital dalam jumlah terbatas supaya keburu, cetak offset menyusul."
 
 Aku mematikan papan gambar digitalku dengan gerakan lambat. Tanganku di atas meja mendadak dingin karena AC ruangan, atau mungkin karena nyaliku sendiri yang menciut.
 
@@ -1650,7 +1647,7 @@ Suasana di meja proyek nomor empat pada Selasa pagi ini benar-benar membeku.
 
 Sejak datang pukul sembilan pagi tadi, Saka sama sekali tidak menoleh ke arahku. Tidak ada lagi segelas kopi susu dingin di sebelah tempat pensilku, tidak ada juga komentar soal gambar kucing atau warna gerobak bakso.
 
-Saat menyerahkan lembar persetujuan naik cetak untuk kutandatangani pukul sepuluh pagi, Saka hanya meletakkan kertas itu di garis tengah meja tanpa menatap mataku.
+Saat menyerahkan lembar persetujuan naik cetak terbatas edisi peluncuran untuk kutandatangani pukul sepuluh pagi, Saka hanya meletakkan kertas itu di garis tengah meja tanpa menatap mataku.
 
 "Tanda tangan di kolom bawah, Nad. Jam sebelas kurir percetakannya ambil ke sini," kata Saka singkat, lalu langsung kembali menatap layar laptopnya.
 
@@ -1916,7 +1913,7 @@ Tari mengangguk yakin. "Begitu ponselnya nyala di Jogja, dia pasti baca."
 
 Jumat sore pukul empat lewat lima belas menit, aula diskusi di lantai dua toko buku kawasan Cikini sudah dipenuhi sekitar lima puluh pengunjung yang duduk berderet di kursi lipat kayu.
 
-Di barisan paling depan, Ibu duduk berdampingan dengan Tari sambil memegang satu eksemplar buku Sela Waktu yang baru saja terbit pagi ini. Ibu tersenyum bangga ke arahku yang duduk di sofa panggung kecil bersama Pak Ramdan dan seorang moderator acara.
+Di barisan paling depan, Ibu duduk berdampingan dengan Tari sambil memegang satu eksemplar buku Sela Waktu edisi pertama yang baru tiba dari percetakan pagi ini. Ibu tersenyum bangga ke arahku yang duduk di sofa panggung kecil bersama Pak Ramdan dan seorang moderator acara.
 
 Sementara itu, satu kursi sofa di sebelah kananku yang seharusnya ditempati oleh editor utama buku ini masih kosong sejak acara dimulai lima belas menit lalu.
 
