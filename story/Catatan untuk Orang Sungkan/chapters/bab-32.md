@@ -1,6 +1,6 @@
 ## **Bab 32: Catatan Post-it Terakhir**
 
-Tiga hari setelah acara peluncuran buku Sela Waktu yang kini sudah terpajang rapi di rak depan toko-toko buku kawasan Cikini dan Matraman dengan sambutan hangat dari para pembaca, suasana Senin sore di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
+Tiga hari setelah acara peluncuran buku Sela Waktu yang edisi perdananya kini sudah terpajang rapi di etalase toko buku tempat peluncuran di Cikini sambil menunggu cetak massal menyusul, suasana Senin sore di lantai tiga Kantor Penerbit Aksara Senja kembali berjalan normal seperti biasa.
 
 Atau setidaknya, hampir normal.
 
