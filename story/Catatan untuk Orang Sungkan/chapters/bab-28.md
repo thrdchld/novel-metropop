@@ -6,7 +6,7 @@ Di seberang meja, senyum di wajah Ibu ternyata sudah luntur sejak mendengar Dima
 
 "Enggak bisa, Mas Dimas," kataku tenang.
 
-Dimas yang sedang menyuap nasi berhenti mengunyah. Dia menoleh ke arahku dengan alis terangkat heran. "Apanya yang nggak bisa, Nad? Tadi kan kubilang biar besok aku yang ngomong ke bos."
+Dimas yang sedang menyuap nasi berhenti mengunyah. Dia menoleh ke arahku dengan alis terangkat heran. "Apanya yang nggak bisa, Nad? Tadi kan kubilang tinggal izin ke bos, bilang urusan keluarga."
 
 "Jumat sore nanti aku tetap akan duduk di panggung peluncuran buku Sela Waktu sebagai ilustratornya," potongku. Suaraku tidak bergetar sedikit pun. Jernih, lurus, dan mantap. "Dan aku juga nggak akan menemani Mas Dimas ke acara makan malam bos pemasaran, atau ke acara mana pun lagi."
 
