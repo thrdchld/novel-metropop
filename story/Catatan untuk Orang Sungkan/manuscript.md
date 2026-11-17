@@ -1751,7 +1751,7 @@ Dia menoleh ke arah Ibu. "Lagian Nadia kan dari dulu gugup kalau ngomong depan o
 
 Dimas mengunyah nasinya. "Lebih penting nemenin saya ke acara bos pemasaran buat karier saya."
 
-Dia tersenyum percaya diri. "Soal izin ke Pak Ramdan, besok biar saya yang bilang kalau Nadia nggak usah tampil."
+Dia tersenyum percaya diri. "Soal izin ke Pak Ramdan, besok kamu izin sendiri aja bilang ada urusan keluarga."
 
 Suara bising pengunjung rumah makan di sekeliling kami mendadak lenyap dari pendengaranku.
 
