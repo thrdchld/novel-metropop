@@ -1869,9 +1869,9 @@ Tanganku yang memegang gelas kertas kopi hitam itu langsung melemas, hampir saja
 
 Dia menatap meja kosong itu. "Mas Saka izin balik ke Jogja naik kereta malam buat ngurus berkas kantor."
 
-Riko berbalik menuju mejanya. "Katanya urusan di sini udah nggak ada yang perlu ditunggu."
+Riko berbalik menuju mejanya. "Katanya urusan cetak di sini udah beres, jadi dia ke Jogja ngurus berkas."
 
-Urusan di sininya udah nggak ada yang perlu ditungguin lagi.
+Langsung berangkat ke Jogja begitu urusan cetak beres.
 
 Aku terduduk lemas di kursiku sendiri, menatap kursi kerja kosong di sebelahku dengan dada yang terasa sesak dan nyeri.
 
@@ -2029,17 +2029,13 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Mutasi tetap ke Jakarta? Jadi... Mas Saka ke Jogja bukan mau pindah balik ke sana?" tanyaku hampir tidak percaya.
 
-"Pak Ramdan nawarin posisi tetap pegang lini buku ilustrasi baru sejak awal proyek," jelas Saka tenang seraya tersenyum tipis.
+"Pak Ramdan nawarin posisi tetap pegang lini buku ilustrasi baru sejak awal proyek," jelas Saka tenang seraya tersenyum tipis. "Peluang kerjanya bagus, dan lini baru itu butuh ilustrator meja nomor empat."
 
-Dia menatap surat di tanganku. "Saya sudah ajukan berkasnya ke HRD."
+Dia menatap surat di tanganku. Keputusan pindahnya sudah bulat sejak pengajuan tiga minggu lalu, bukan cuma karena lini buku baru itu, tapi juga karena aku.
 
-Saka melanjutkan pelan. "Waktu kamu tanya rencana saya, surat pelepasan belum turun tanda tangannya."
+"Waktu kamu tanya rencana saya, surat pelepasan memang belum turun," lanjut Saka pelan. "Perjalanan Selasa sore itu dari awal memang buat tanda tangan Pak Bambang dan beresin kos lama."
 
-"Makanya saya bilang harus ke Jogja dulu buat bereskan semuanya," sambung Saka seraya memandang langit sore.
-
-Saka menatap mataku lekat. "Begitu baca pesan dari Tari kalau kamu nolak Dimas, saya langsung beresin kos lama."
-
-Dia merapikan tali ranselnya. "Saya kejar tanda tangan Pak Bambang kemarin siang supaya bisa naik kereta pagi ke Gambir."
+Saka menatap mataku lekat. "Pesan Tari di kereta nggak mengubah keputusan itu, cuma bikin hati saya tenang waktu mengejar tanda tangan kemarin siang supaya bisa naik kereta pagi ke Gambir."
 
 "Mulai Senin depan, meja nomor empat meja tetap saya," pungkas Saka seraya menatapku lurus.
 

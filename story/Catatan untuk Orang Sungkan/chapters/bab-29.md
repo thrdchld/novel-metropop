@@ -30,9 +30,9 @@ Tanganku yang memegang gelas kertas kopi hitam itu langsung melemas, hampir saja
 
 Dia menatap meja kosong itu. "Mas Saka izin balik ke Jogja naik kereta malam buat ngurus berkas kantor."
 
-Riko berbalik menuju mejanya. "Katanya urusan di sini udah nggak ada yang perlu ditunggu."
+Riko berbalik menuju mejanya. "Katanya urusan cetak di sini udah beres, jadi dia ke Jogja ngurus berkas."
 
-Urusan di sininya udah nggak ada yang perlu ditungguin lagi.
+Langsung berangkat ke Jogja begitu urusan cetak beres.
 
 Aku terduduk lemas di kursiku sendiri, menatap kursi kerja kosong di sebelahku dengan dada yang terasa sesak dan nyeri.
 
