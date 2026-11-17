@@ -50,7 +50,7 @@ Sepeninggal Tari yang turun mencari makan siang, aku duduk sendirian di meja nom
 
 Aku menatap kursi kerja Saka yang kosong di sebelahku, lalu pandanganku beralih ke pojok kiri bawah bingkai monitorku.
 
-Kertas post-it kuning bertuliskan Bilang enggak itu nggak bikin langit runtuh yang ditempelkan Saka tiga minggu lalu kini bagian sudut lemnya sudah mulai kering dan agak mengelupas terkena angin AC.
+Kertas post-it kuning bertuliskan Bilang enggak itu nggak bikin langit runtuh yang ditempelkan Saka empat minggu lalu kini bagian sudut lemnya sudah mulai kering dan agak mengelupas terkena angin AC.
 
 Tenggorokanku mendadak tercekat melihat kertas kuning itu. Kalau nanti malam aku resmi kembali berpacaran dengan Dimas, aku tidak berhak lagi menyimpan harapan pada pemilik tulisan tangan di sana.
 

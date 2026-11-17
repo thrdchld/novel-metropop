@@ -191,7 +191,7 @@ Meski begitu, bekerja dengannya jauh lebih tenang dibanding duduk di kubikel lam
 
 Tepat saat jarum jam dinding menyentuh angka lima lewat satu menit, terdengar bunyi klik pelan dari sebelahku.
 
-Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke tas selempang kanvas hitam dengan gerakan luwes tanpa ragu sedikit pun.
+Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke ransel hitamnya dengan gerakan luwes tanpa ragu sedikit pun.
 
 Aku menoleh heran, jemariku masih memegang pena digital di atas layar tablet. "Kok udah siap-siap pulang, Mas? Sketsa haltenya belum selesai kuwarnai."
 
@@ -237,7 +237,7 @@ Trotoar depan gerbang masih ramai oleh orang yang berjalan santai menuju stasiun
 
 "Mbak Dinda pasti kesel banget besok pagi," gumamku cemas sambil merapatkan jaket. "Harusnya tadi kuambil aja ya, Mas? Kasihan kalau dia buru-buru."
 
-Saka yang menunggu lampu penyeberangan pejalan kaki berubah hijau di sampingku menoleh sekilas. Tangannya merogoh saku kemeja flanel, mengeluarkan setumpuk kertas catatan tempel warna kuning bersama sebatang pulpen hitam.
+Saka yang menunggu lampu penyeberangan pejalan kaki berubah hijau di sampingku menoleh sekilas. Tangannya merogoh saku kemeja katun abu-abunya, mengeluarkan setumpuk kertas catatan tempel warna kuning bersama sebatang pulpen hitam.
 
 Dia mencoretkan satu kalimat cepat di atas kertas persegi kecil itu, mencabut selembar, lalu menempelkannya tepat di tengah sampul depan buku sketsaku.
 
@@ -493,7 +493,7 @@ Kami berhenti di salah satu kios buku tua yang bagian depannya dipenuhi tumpukan
 
 Aku ikut berjongkok di sebelahnya, menarik buku sketsaku dari dalam tas. "Gaya arsiran kasar pakai pensil arang begini cocok nggak, Mas?"
 
-Aku meringis canggung. "Kemarin Dimas bilang gaya kayak gini kusam dan kurang komersial."
+Aku meringis canggung. "Dimas pernah bilang gaya kayak gini kusam dan kurang komersial."
 
 Tangan Saka yang sedang menarik sebuah buku kumpulan foto Jakarta tempo dulu berhenti bergerak. Dia menoleh menatap halaman buku sketsaku.
 
@@ -893,7 +893,7 @@ Rupanya Dimas baru paham bahwa tidak semua perempuan di kantor ini punya stok ke
 
 Tawa di wajahku langsung reda, berganti ekspresi netral yang tenang. Aku tidak lagi merasa mulas atau salah tingkah setiap kali dia muncul.
 
-"Iya, Mas. Ini lagi merapikan draf sampul depan buat dibawa ke rapat evaluasi Pak Ramdan jam tiga sore nanti," jawabku biasa saja.
+"Iya, Mas. Ini lagi merapikan draf sampul depan buat dibawa ke rapat evaluasi Pak Ramdan jam setengah empat sore nanti," jawabku biasa saja.
 
 Dimas memiringkan kepalanya, menatap gambar sampul buatanku yang menampilkan siluet halte bus tua di bawah pohon rindang dengan arsiran pensil arang yang hangat.
 
@@ -913,11 +913,11 @@ Dari sudut mataku, aku bisa melihat Tari di meja sebelah menutup mulutnya menaha
 
 Saka menyandarkan punggungnya ke kursi, menatap Dimas dari balik meja dengan wajah lempengnya.
 
-"Kalau staf pemasaran punya masukan soal sampul redaksi, sampaikan nanti di rapat jam tiga sore depan Pak Ramdan," kata Saka datar. "Jangan ganggu ilustrator saya waktu lagi kerja."
+"Kalau staf pemasaran punya masukan soal sampul redaksi, sampaikan nanti di rapat jam setengah empat sore depan Pak Ramdan," kata Saka datar. "Jangan ganggu ilustrator saya waktu lagi kerja."
 
 Kata ilustrator saya yang diucapkan Saka dengan nada biasa itu sukses membuat tangan Dimas berhenti mengaduk kopinya. Mantan pacarku itu mendengus pendek, melirik kami berdua bergantian dengan tatapan panas, lalu melangkah pergi kembali ke kubikelnya.
 
-"Siap-siap aja, Nad," gumam Saka sambil kembali membuka berkas di laptopnya. "Jam tiga nanti di ruang rapat, dia pasti bakal cari gara-gara lagi soal sampul kamu."
+"Siap-siap aja, Nad," gumam Saka sambil kembali membuka berkas di laptopnya. "Jam setengah empat nanti di ruang rapat, dia pasti bakal cari gara-gara lagi soal sampul kamu."
 
 ---
 
@@ -1065,9 +1065,9 @@ Aku menatap kotak martabak itu. Di bagian atas kardusnya, tertulis jelas dengan 
 
 Sejak kapan tukang martabak kaki lima di mulut gang Cikini mengadakan promo beli nol gratis satu loyang spesial?
 
-Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kiri Saka yang sedang menyentuh botol minum hitam penyok di kantong samping tas selempangnya.
+Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kanan Saka yang sedang menyentuh botol minum hitam penyok di kantong samping tas selempangnya.
 
-Di bawah lampu teras kos yang temaram, ibu jari tangan kiri Saka bergerak memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya kembali.
+Di bawah lampu teras kos yang temaram, ibu jari tangan kanan Saka bergerak memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya kembali.
 
 Klik. Klik.
 
@@ -1077,7 +1077,7 @@ Kali ini aku benar-benar tidak tahan lagi. Tawa yang sejak tadi kutahan langsung
 
 Kening Saka berkerut tipis melihatku tertawa. "Kenapa ketawa? Ada yang salah sama martabaknya?"
 
-"Bukan martabaknya yang salah, Mas," kataku di sela sisa tawaku. Aku mengangkat jari telunjukku, menunjuk tepat ke arah tangan kirinya yang masih bertengger di atas tutup botol minum hitam penyoknya. "Tangan Mas Saka tuh yang bocorin rahasia."
+"Bukan martabaknya yang salah, Mas," kataku di sela sisa tawaku. Aku mengangkat jari telunjukku, menunjuk tepat ke arah tangan kanannya yang masih bertengger di atas tutup botol minum hitam penyoknya. "Tangan Mas Saka tuh yang bocorin rahasia."
 
 Saka menunduk melihat tangannya sendiri dengan tatapan bingung. "Kenapa tangan saya?" tanyanya keheranan.
 
@@ -1099,7 +1099,7 @@ Suara jangkrik dari pot tanaman ibu kos di pojok teras terdengar mengisi jeda di
 
 Untuk pertama kalinya sejak aku mengenal editor pindahan dari cabang Yogyakarta ini, wajah datar yang biasanya dingin dan tak tergoyahkan itu berubah warna. Di bawah sinar lampu teras yang kekuningan, rona kemerahan merambat naik dengan jelas dari leher sampai ke kedua daun telinga Saka.
 
-Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya.
+Buru-buru Saka menarik tangan kanannya menjauh dari tutup botol minum hitamnya.
 
 "Enggak ada hubungannya," sanggah Saka seraya membuang pandangan ke arah pot lidah mertua di samping pagar. "Tutup botolnya emang agak dol karetnya. Makanya sering saya kencangkan."
 
@@ -1125,7 +1125,7 @@ Dua menit kemudian, Saka datang dari arah lift sambil menenteng tas kanvasnya. L
 
 "Tumben ada biskuit asin," kata Saka seraya menaruh es kopi susu di sebelah tempat pensilku.
 
-"Kemarin Mas Saka bilang nggak suka makanan manis," godaku sambil menahan senyum. "Makanya jangan diputar lagi tutup botolnya."
+"Kamis sore Mas Saka bilang nggak suka makanan manis," godaku sambil menahan senyum. "Makanya jangan diputar lagi tutup botolnya."
 
 Saka menarik kursinya, duduk di sebelahku, lalu membuka bungkusan biskuit gandum itu tanpa mengarang alasan apa-apa lagi. "Makasih. Pas banget saya belum sarapan tadi."
 
@@ -1143,7 +1143,7 @@ Saat jam istirahat makan siang tiba dan Saka sedang dipanggil Pak Ramdan ke ruan
 
 "Rekan satu proyek gundulmu!" dengus Tari seraya memelototiku. "Tiap pagi ada aja makanan atau minuman nangkring di meja lo."
 
-Tari meletakkan kertasnya ke meja. "Kemarin sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
+Tari meletakkan kertasnya ke meja. "Kamis sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
 
 Dia berbisik heboh. "Padahal waktu Riko minta nebeng payung, Mas Saka bilang payungnya cuma muat ranselnya sendiri!"
 
@@ -1153,7 +1153,7 @@ Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung 
 
 "Yang penting, penyakit customer service lo berkurang drastis," tambah Tari.
 
-Dia melongok ke arah lorong lantai dua. "Kemarin waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
+Dia melongok ke arah lorong lantai dua. "Kemarin hari Jumat waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
 
 Tari menatapku penasaran. "Lo tahu dia lagi ngurus surat apa?"
 
@@ -1221,7 +1221,7 @@ Aku tetap diam bersandar di tepi meja kabinet dapur, menjaga jarak aman. "Semua 
 
 "Aku tahu nggak berhak minta kamu langsung percaya," kata Dimas seraya menatapku rapuh.
 
-Dia menunduk lagi menatap cangkirnya. "Seminggu ini setelah Vanya pergi, aku baru sadar nggak ada orang setulus kamu, Nad."
+Dia menunduk lagi menatap cangkirnya. "Beberapa hari ini setelah Vanya pergi, aku baru sadar nggak ada orang setulus kamu, Nad."
 
 Dimas memandangku nanar. "Aku kangen ngobrol berdua, kangen nganterin kamu ke rumah Ibu di Rawamangun."
 
@@ -1291,7 +1291,7 @@ Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan 
 
 Aku berdiri diam di depan celah pintu itu. Dadaku mendadak menyempit sesak.
 
-Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Aku sempat teringat tab kos tahunan Cikini dan formulir kepegawaian antar-cabang di layar laptopnya waktu itu. Namun ingatan itu langsung kutepis karena Saka sendiri sudah bilang bahwa info kos tersebut cuma buat temannya dari Jogja. Kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Aku sempat teringat tab kos tahunan Cikini dan formulir kepegawaian antar-cabang di layar laptopnya waktu itu. Namun ingatan itu langsung kutepis karena Saka sendiri sudah bilang bahwa info kos tersebut cuma buat temannya dari Jogja. Kalimat Tari Senin lalu soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
 Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
 
@@ -1479,7 +1479,7 @@ Ibu rupanya sudah duduk bersandar di tumpukan bantal kapuk. Begitu aku meletakka
 
 "Iya, Bu. Tadi di luar dia juga sempat bilang," jawabku lirih seraya menatap motif bunga di seprai ranjang.
 
-Ibu membelai punggung tanganku perlahan. Tak ada ketegangan kaku seperti saat kami memperdebatkan permintaan Mbak Raras minggu lalu. Nada bicara Ibu sore ini murni mencerminkan kecemasan seorang ibu yang baru saja melewati masa genting saat tubuhnya mendadak tumbang.
+Ibu membelai punggung tanganku perlahan. Tak ada ketegangan kaku seperti saat kami memperdebatkan permintaan Mbak Raras dua minggu lalu. Nada bicara Ibu sore ini murni mencerminkan kecemasan seorang ibu yang baru saja melewati masa genting saat tubuhnya mendadak tumbang.
 
 "Ibu bukannya berniat membela kesalahan Dimas di masa lalu, Nak," nasihat Ibu lembut.
 
@@ -1541,7 +1541,7 @@ Aku menahan napas sejenak, meremas pensil merah di tanganku. "Itu cuma ilustrasi
 
 "Kamu nggak pandai bohong, Nad," potong Saka tenang.
 
-Dia menutup buku cetak percobaan itu perlahan. "Sejak kemarin kamu ngomong kaku banget ke saya."
+Dia menutup buku cetak percobaan itu perlahan. "Sejak Jumat kamu ngomong kaku banget ke saya."
 
 Saka menunjuk gambar kursi kosong itu. "Sekarang ada gambar meja saya kosong. Kamu sebenarnya mikirin apa?"
 
@@ -1693,7 +1693,7 @@ Sepeninggal Tari yang turun mencari makan siang, aku duduk sendirian di meja nom
 
 Aku menatap kursi kerja Saka yang kosong di sebelahku, lalu pandanganku beralih ke pojok kiri bawah bingkai monitorku.
 
-Kertas post-it kuning bertuliskan Bilang enggak itu nggak bikin langit runtuh yang ditempelkan Saka tiga minggu lalu kini bagian sudut lemnya sudah mulai kering dan agak mengelupas terkena angin AC.
+Kertas post-it kuning bertuliskan Bilang enggak itu nggak bikin langit runtuh yang ditempelkan Saka empat minggu lalu kini bagian sudut lemnya sudah mulai kering dan agak mengelupas terkena angin AC.
 
 Tenggorokanku mendadak tercekat melihat kertas kuning itu. Kalau nanti malam aku resmi kembali berpacaran dengan Dimas, aku tidak berhak lagi menyimpan harapan pada pemilik tulisan tangan di sana.
 

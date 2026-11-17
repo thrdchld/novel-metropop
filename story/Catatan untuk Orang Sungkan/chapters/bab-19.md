@@ -36,7 +36,7 @@ Aku tetap diam bersandar di tepi meja kabinet dapur, menjaga jarak aman. "Semua 
 
 "Aku tahu nggak berhak minta kamu langsung percaya," kata Dimas seraya menatapku rapuh.
 
-Dia menunduk lagi menatap cangkirnya. "Seminggu ini setelah Vanya pergi, aku baru sadar nggak ada orang setulus kamu, Nad."
+Dia menunduk lagi menatap cangkirnya. "Beberapa hari ini setelah Vanya pergi, aku baru sadar nggak ada orang setulus kamu, Nad."
 
 Dimas memandangku nanar. "Aku kangen ngobrol berdua, kangen nganterin kamu ke rumah Ibu di Rawamangun."
 

@@ -8,7 +8,7 @@ Dua menit kemudian, Saka datang dari arah lift sambil menenteng tas kanvasnya. L
 
 "Tumben ada biskuit asin," kata Saka seraya menaruh es kopi susu di sebelah tempat pensilku.
 
-"Kemarin Mas Saka bilang nggak suka makanan manis," godaku sambil menahan senyum. "Makanya jangan diputar lagi tutup botolnya."
+"Kamis sore Mas Saka bilang nggak suka makanan manis," godaku sambil menahan senyum. "Makanya jangan diputar lagi tutup botolnya."
 
 Saka menarik kursinya, duduk di sebelahku, lalu membuka bungkusan biskuit gandum itu tanpa mengarang alasan apa-apa lagi. "Makasih. Pas banget saya belum sarapan tadi."
 
@@ -26,7 +26,7 @@ Saat jam istirahat makan siang tiba dan Saka sedang dipanggil Pak Ramdan ke ruan
 
 "Rekan satu proyek gundulmu!" dengus Tari seraya memelototiku. "Tiap pagi ada aja makanan atau minuman nangkring di meja lo."
 
-Tari meletakkan kertasnya ke meja. "Kemarin sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
+Tari meletakkan kertasnya ke meja. "Kamis sore gue lihat dari jendela atas, Mas Saka balik dari stasiun buat mayungin lo jalan kaki."
 
 Dia berbisik heboh. "Padahal waktu Riko minta nebeng payung, Mas Saka bilang payungnya cuma muat ranselnya sendiri!"
 
@@ -36,7 +36,7 @@ Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung 
 
 "Yang penting, penyakit customer service lo berkurang drastis," tambah Tari.
 
-Dia melongok ke arah lorong lantai dua. "Kemarin waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
+Dia melongok ke arah lorong lantai dua. "Kemarin hari Jumat waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
 
 Tari menatapku penasaran. "Lo tahu dia lagi ngurus surat apa?"
 

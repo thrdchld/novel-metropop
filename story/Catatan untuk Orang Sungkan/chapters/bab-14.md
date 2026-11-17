@@ -32,7 +32,7 @@ Rupanya Dimas baru paham bahwa tidak semua perempuan di kantor ini punya stok ke
 
 Tawa di wajahku langsung reda, berganti ekspresi netral yang tenang. Aku tidak lagi merasa mulas atau salah tingkah setiap kali dia muncul.
 
-"Iya, Mas. Ini lagi merapikan draf sampul depan buat dibawa ke rapat evaluasi Pak Ramdan jam tiga sore nanti," jawabku biasa saja.
+"Iya, Mas. Ini lagi merapikan draf sampul depan buat dibawa ke rapat evaluasi Pak Ramdan jam setengah empat sore nanti," jawabku biasa saja.
 
 Dimas memiringkan kepalanya, menatap gambar sampul buatanku yang menampilkan siluet halte bus tua di bawah pohon rindang dengan arsiran pensil arang yang hangat.
 
@@ -52,8 +52,8 @@ Dari sudut mataku, aku bisa melihat Tari di meja sebelah menutup mulutnya menaha
 
 Saka menyandarkan punggungnya ke kursi, menatap Dimas dari balik meja dengan wajah lempengnya.
 
-"Kalau staf pemasaran punya masukan soal sampul redaksi, sampaikan nanti di rapat jam tiga sore depan Pak Ramdan," kata Saka datar. "Jangan ganggu ilustrator saya waktu lagi kerja."
+"Kalau staf pemasaran punya masukan soal sampul redaksi, sampaikan nanti di rapat jam setengah empat sore depan Pak Ramdan," kata Saka datar. "Jangan ganggu ilustrator saya waktu lagi kerja."
 
 Kata ilustrator saya yang diucapkan Saka dengan nada biasa itu sukses membuat tangan Dimas berhenti mengaduk kopinya. Mantan pacarku itu mendengus pendek, melirik kami berdua bergantian dengan tatapan panas, lalu melangkah pergi kembali ke kubikelnya.
 
-"Siap-siap aja, Nad," gumam Saka sambil kembali membuka berkas di laptopnya. "Jam tiga nanti di ruang rapat, dia pasti bakal cari gara-gara lagi soal sampul kamu."
+"Siap-siap aja, Nad," gumam Saka sambil kembali membuka berkas di laptopnya. "Jam setengah empat nanti di ruang rapat, dia pasti bakal cari gara-gara lagi soal sampul kamu."

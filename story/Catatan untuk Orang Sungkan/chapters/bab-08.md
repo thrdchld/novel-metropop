@@ -32,7 +32,7 @@ Kami berhenti di salah satu kios buku tua yang bagian depannya dipenuhi tumpukan
 
 Aku ikut berjongkok di sebelahnya, menarik buku sketsaku dari dalam tas. "Gaya arsiran kasar pakai pensil arang begini cocok nggak, Mas?"
 
-Aku meringis canggung. "Kemarin Dimas bilang gaya kayak gini kusam dan kurang komersial."
+Aku meringis canggung. "Dimas pernah bilang gaya kayak gini kusam dan kurang komersial."
 
 Tangan Saka yang sedang menarik sebuah buku kumpulan foto Jakarta tempo dulu berhenti bergerak. Dia menoleh menatap halaman buku sketsaku.
 

@@ -38,7 +38,7 @@ Ibu rupanya sudah duduk bersandar di tumpukan bantal kapuk. Begitu aku meletakka
 
 "Iya, Bu. Tadi di luar dia juga sempat bilang," jawabku lirih seraya menatap motif bunga di seprai ranjang.
 
-Ibu membelai punggung tanganku perlahan. Tak ada ketegangan kaku seperti saat kami memperdebatkan permintaan Mbak Raras minggu lalu. Nada bicara Ibu sore ini murni mencerminkan kecemasan seorang ibu yang baru saja melewati masa genting saat tubuhnya mendadak tumbang.
+Ibu membelai punggung tanganku perlahan. Tak ada ketegangan kaku seperti saat kami memperdebatkan permintaan Mbak Raras dua minggu lalu. Nada bicara Ibu sore ini murni mencerminkan kecemasan seorang ibu yang baru saja melewati masa genting saat tubuhnya mendadak tumbang.
 
 "Ibu bukannya berniat membela kesalahan Dimas di masa lalu, Nak," nasihat Ibu lembut.
 

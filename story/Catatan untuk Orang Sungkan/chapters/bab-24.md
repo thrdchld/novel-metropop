@@ -42,7 +42,7 @@ Aku menahan napas sejenak, meremas pensil merah di tanganku. "Itu cuma ilustrasi
 
 "Kamu nggak pandai bohong, Nad," potong Saka tenang.
 
-Dia menutup buku cetak percobaan itu perlahan. "Sejak kemarin kamu ngomong kaku banget ke saya."
+Dia menutup buku cetak percobaan itu perlahan. "Sejak Jumat kamu ngomong kaku banget ke saya."
 
 Saka menunjuk gambar kursi kosong itu. "Sekarang ada gambar meja saya kosong. Kamu sebenarnya mikirin apa?"
 

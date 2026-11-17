@@ -26,9 +26,9 @@ Aku menatap kotak martabak itu. Di bagian atas kardusnya, tertulis jelas dengan 
 
 Sejak kapan tukang martabak kaki lima di mulut gang Cikini mengadakan promo beli nol gratis satu loyang spesial?
 
-Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kiri Saka yang sedang menyentuh botol minum hitam penyok di kantong samping tas selempangnya.
+Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kanan Saka yang sedang menyentuh botol minum hitam penyok di kantong samping tas selempangnya.
 
-Di bawah lampu teras kos yang temaram, ibu jari tangan kiri Saka bergerak memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya kembali.
+Di bawah lampu teras kos yang temaram, ibu jari tangan kanan Saka bergerak memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya kembali.
 
 Klik. Klik.
 
@@ -38,7 +38,7 @@ Kali ini aku benar-benar tidak tahan lagi. Tawa yang sejak tadi kutahan langsung
 
 Kening Saka berkerut tipis melihatku tertawa. "Kenapa ketawa? Ada yang salah sama martabaknya?"
 
-"Bukan martabaknya yang salah, Mas," kataku di sela sisa tawaku. Aku mengangkat jari telunjukku, menunjuk tepat ke arah tangan kirinya yang masih bertengger di atas tutup botol minum hitam penyoknya. "Tangan Mas Saka tuh yang bocorin rahasia."
+"Bukan martabaknya yang salah, Mas," kataku di sela sisa tawaku. Aku mengangkat jari telunjukku, menunjuk tepat ke arah tangan kanannya yang masih bertengger di atas tutup botol minum hitam penyoknya. "Tangan Mas Saka tuh yang bocorin rahasia."
 
 Saka menunduk melihat tangannya sendiri dengan tatapan bingung. "Kenapa tangan saya?" tanyanya keheranan.
 
@@ -60,7 +60,7 @@ Suara jangkrik dari pot tanaman ibu kos di pojok teras terdengar mengisi jeda di
 
 Untuk pertama kalinya sejak aku mengenal editor pindahan dari cabang Yogyakarta ini, wajah datar yang biasanya dingin dan tak tergoyahkan itu berubah warna. Di bawah sinar lampu teras yang kekuningan, rona kemerahan merambat naik dengan jelas dari leher sampai ke kedua daun telinga Saka.
 
-Buru-buru Saka menarik tangan kirinya menjauh dari tutup botol minum hitamnya.
+Buru-buru Saka menarik tangan kanannya menjauh dari tutup botol minum hitamnya.
 
 "Enggak ada hubungannya," sanggah Saka seraya membuang pandangan ke arah pot lidah mertua di samping pagar. "Tutup botolnya emang agak dol karetnya. Makanya sering saya kencangkan."
 

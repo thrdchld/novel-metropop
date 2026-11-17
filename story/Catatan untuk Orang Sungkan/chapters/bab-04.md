@@ -16,7 +16,7 @@ Meski begitu, bekerja dengannya jauh lebih tenang dibanding duduk di kubikel lam
 
 Tepat saat jarum jam dinding menyentuh angka lima lewat satu menit, terdengar bunyi klik pelan dari sebelahku.
 
-Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke tas selempang kanvas hitam dengan gerakan luwes tanpa ragu sedikit pun.
+Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke ransel hitamnya dengan gerakan luwes tanpa ragu sedikit pun.
 
 Aku menoleh heran, jemariku masih memegang pena digital di atas layar tablet. "Kok udah siap-siap pulang, Mas? Sketsa haltenya belum selesai kuwarnai."
 
@@ -62,7 +62,7 @@ Trotoar depan gerbang masih ramai oleh orang yang berjalan santai menuju stasiun
 
 "Mbak Dinda pasti kesel banget besok pagi," gumamku cemas sambil merapatkan jaket. "Harusnya tadi kuambil aja ya, Mas? Kasihan kalau dia buru-buru."
 
-Saka yang menunggu lampu penyeberangan pejalan kaki berubah hijau di sampingku menoleh sekilas. Tangannya merogoh saku kemeja flanel, mengeluarkan setumpuk kertas catatan tempel warna kuning bersama sebatang pulpen hitam.
+Saka yang menunggu lampu penyeberangan pejalan kaki berubah hijau di sampingku menoleh sekilas. Tangannya merogoh saku kemeja katun abu-abunya, mengeluarkan setumpuk kertas catatan tempel warna kuning bersama sebatang pulpen hitam.
 
 Dia mencoretkan satu kalimat cepat di atas kertas persegi kecil itu, mencabut selembar, lalu menempelkannya tepat di tengah sampul depan buku sketsaku.
 
