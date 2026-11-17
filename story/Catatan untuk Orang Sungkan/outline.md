@@ -160,7 +160,7 @@
 
 ### Bab 21: Jawaban yang Terdengar Dingin
 - **Waktu & Lokasi:** Jumat sore pukul 17.00, Meja Proyek Nadia & Saka.
-- **Kejadian Inti:** Setelah Saka mengabarkan bahwa file akhir *Sela Waktu* sudah dikirim ke percetakan (edisi peluncuran dicetak digital terbatas lebih dulu agar terkejar, sedangkan cetak offset menyusul), Nadia dengan hati ketar-ketir mencoba memancing obrolan tentang rencana Saka minggu depan. Karena surat permohonan mutasi permanen yang diajukan Saka ke HRD belum turun persetujuannya dan Saka pantang memberi janji kosong sebelum ada kepastian resmi, Saka menjawab dengan gaya realistisnya yang datar bahwa minggu depan ia memang harus kembali ke Yogyakarta dulu untuk membereskan urusan kantornya di sana.
+- **Kejadian Inti:** Setelah Saka mengabarkan bahwa semua file akhir *Sela Waktu* kecuali halaman penutup sudah dikirim ke percetakan dan meminta Nadia mengirim halaman penutup itu terakhir (edisi peluncuran dicetak digital terbatas lebih dulu agar terkejar, sedangkan cetak offset menyusul), Nadia dengan hati ketar-ketir mencoba memancing obrolan tentang rencana Saka minggu depan. Karena surat permohonan mutasi permanen yang diajukan Saka ke HRD belum turun persetujuannya dan Saka pantang memberi janji kosong sebelum ada kepastian resmi, Saka menjawab dengan gaya realistisnya yang datar bahwa minggu depan ia memang harus kembali ke Yogyakarta dulu untuk membereskan urusan kantornya di sana.
 - **Perkembangan Emosi / Hubungan:** Jawaban singkat Saka membuat Nadia salah paham dan merasa hancur; Nadia menyimpulkan bahwa bagi Saka, kedekatan mereka selama ini hanyalah keakraban rekan satu proyek sementara.
 - **Detail Kecil / Planting-Callback:** Karena terluka dan gengsi, Nadia langsung berbicara kaku seperti operator *customer service* dan menolak ajakan Saka pulang bareng.
 
@@ -178,7 +178,7 @@
 
 ### Bab 24: Ilustrasi Kursi Kosong
 - **Waktu & Lokasi:** Senin sore pukul 16.00, Ruang Redaksi Penerbit Aksara Senja.
-- **Kejadian Inti:** Nadia dan Saka harus memeriksa cetakan percobaan (*dummy* buku) *Sela Waktu* sebelum naik cetak terbatas edisi peluncuran. Suasana di antara mereka hening dan kaku karena Nadia masih menjaga jarak sejak hari Jumat. Saat memeriksa halaman terakhir buku, gerakan tangan Saka terhenti melihat ilustrasi kecil buatan Nadia yang dibuat minggu lalu: gambar dua meja kerja yang bersebelahan, di mana satu kursinya sudah kosong dan hanya menyisakan bayangan botol minum hitam.
+- **Kejadian Inti:** Nadia dan Saka harus memeriksa cetakan percobaan (*dummy* buku) *Sela Waktu* sebelum naik cetak terbatas edisi peluncuran. Suasana di antara mereka hening dan kaku karena Nadia masih menjaga jarak sejak hari Jumat. Saat memeriksa halaman terakhir buku yang dikirim Nadia setelah Saka pulang pada Jumat sore, gerakan tangan Saka terhenti melihat ilustrasi kecil buatan Nadia: gambar dua meja kerja yang bersebelahan, di mana satu kursinya sudah kosong dan hanya menyisakan bayangan botol minum hitam.
 - **Perkembangan Emosi / Hubungan:** Saka menatap gambar itu lama dan hendak bertanya pada Nadia, namun ponsel Nadia lebih dulu bergetar karena pesan dari Dimas yang mengabarkan sudah menunggu di lobi gedung.
 - **Detail Kecil / Planting-Callback:** Ilustrasi kursi kosong dan bayangan botol minum hitam menjadi bukti bisu perasaan Nadia yang sedang ia tekan sendiri.
 

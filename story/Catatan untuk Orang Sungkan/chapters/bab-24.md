@@ -26,7 +26,7 @@ Dari sudut mataku, aku melihat punggung Saka yang tadinya bersandar santai di ku
 
 Aku langsung menahan napas.
 
-Aku baru ingat bahwa pada Jumat sore lalu, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
+Aku baru ingat bahwa pada Jumat sore lalu, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu sebelum mengirimkan file terakhir tersebut ke percetakan setelah Saka pulang.
 
 Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
 

@@ -1323,7 +1323,7 @@ Dari jam satu siang sampai menjelang jam lima sore, aku hampir tidak mengeluarka
 
 Tepat pukul lima lewat satu menit sore, bunyi klik layar laptop Saka yang ditutup terdengar tegas di telingaku.
 
-"Seluruh file akhir Sela Waktu sudah saya kirim ke percetakan rekanan barusan," kata Saka sambil mencabut kabel laptopnya. "Senin sore cetak percobaan dikirim ke sini buat kita periksa. Jumat depan langsung acara peluncuran di toko buku Cikini. Edisi peluncurannya dicetak digital dalam jumlah terbatas supaya keburu, cetak offset menyusul."
+"Semua file akhir Sela Waktu kecuali halaman penutup sudah saya kirim ke percetakan rekanan barusan, yang itu kamu kirim terakhir ya," kata Saka sambil mencabut kabel laptopnya. "Senin sore cetak percobaan dikirim ke sini buat kita periksa. Jumat depan langsung acara peluncuran di toko buku Cikini. Edisi peluncurannya dicetak digital dalam jumlah terbatas supaya keburu, cetak offset menyusul."
 
 Aku mematikan papan gambar digitalku dengan gerakan lambat. Tanganku di atas meja mendadak dingin karena AC ruangan, atau mungkin karena nyaliku sendiri yang menciut.
 
@@ -1525,7 +1525,7 @@ Dari sudut mataku, aku melihat punggung Saka yang tadinya bersandar santai di ku
 
 Aku langsung menahan napas.
 
-Aku baru ingat bahwa pada Jumat sore lalu, sebelum mengirimkan file terakhir ke percetakan dan sebelum bertanya soal kepulangan Saka ke Jogja, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu.
+Aku baru ingat bahwa pada Jumat sore lalu, aku sempat menyelipkan satu sketsa kecil tambahan di bagian tengah halaman penutup buku itu sebelum mengirimkan file terakhir tersebut ke percetakan setelah Saka pulang.
 
 Di halaman kertas putih gading yang sedang ditatap Saka sekarang, tercetak sebuah gambar sederhana tanpa teks: sketsa dua meja kerja yang berdempetan di dekat jendela besar. Di meja sebelah kiri, ada papan gambar digital dan tempat pensil yang penuh. Namun di meja sebelah kanan, kursinya kosong melompong, laptopnya sudah tidak ada, dan di sudut mejanya hanya tersisa bayangan tipis berbentuk botol minum hitam.
 
