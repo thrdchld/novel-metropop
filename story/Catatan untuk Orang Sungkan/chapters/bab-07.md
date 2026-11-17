@@ -28,7 +28,7 @@ Kening Dimas berkerut dalam. Dia menatapku seolah baru saja mendengar kata-kata 
 
 "Loh, kan cuma tinggal tarik ukuran dari file poster yang kemarin, Nad," desak Dimas kesal. "Masa tega sih biarin panggung acara besok kosong melompong?"
 
-"File mentahnya sudah kuunggah ke folder bersama divisi pemasaran dari Senin malam, Mas," tanggapku tenang, meski di bawah meja jari-jemariku saling bertaut menahan gugup. "Aplikasi di komputer pemasaran juga lengkap. Mas Dimas atau Vanya bisa langsung ubah skalanya sendiri dari sana."
+"File mentahnya sudah kuunggah ke folder bersama divisi pemasaran dari Selasa pagi, Mas," tanggapku tenang, meski di bawah meja jari-jemariku saling bertaut menahan gugup. "Aplikasi di komputer pemasaran juga lengkap. Mas Dimas atau Vanya bisa langsung ubah skalanya sendiri dari sana."
 
 Vanya yang berdiri di samping Dimas mendadak salah tingkah. Dia melirik jam di pergelangan tangannya, lalu menarik ujung lengan kemeja Dimas pelan. "Mas, mending kita minta tolong orang percetakan aja yang sesuaikan. Nanti bayar biaya jasa desain dikit nggak apa-apa kok."
 

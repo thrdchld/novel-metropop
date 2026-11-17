@@ -2,7 +2,7 @@
 
 Semalaman suntuk, aku hampir tidak bisa memejamkan mata.
 
-Setiap kali kelopak mataku tertutup, wajah lempeng pria di tangga darurat itu mendadak muncul di kegelapan, lengkap dengan kalimatnya yang menohok telak: Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf.
+Setiap kali kelopak mataku tertutup, wajah lempeng pria di tangga darurat itu mendadak muncul di kegelapan, lengkap dengan kalimatnya yang menohok telak: Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf. Karena tidak bisa tidur, dini hari tadi di kos aku akhirnya malah membuka laptop dan menyelesaikan poster titipan Dimas.
 
 Alhasil, Selasa pagi ini aku tiba di lantai tiga Kantor Penerbit Aksara Senja dengan kantung mata tebal dan langkah gontai. Di kepalaku, aku hanya punya satu doa sederhana: semoga pria berbotol penyok itu cuma tamu nyasar atau staf vendor yang tidak akan pernah kutemui lagi seumur hidupku.
 

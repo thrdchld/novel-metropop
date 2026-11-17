@@ -110,7 +110,7 @@ Aku menyambar tas selempangku dari laci, mematikan sakelar monitor dengan sekali
 
 Semalaman suntuk, aku hampir tidak bisa memejamkan mata.
 
-Setiap kali kelopak mataku tertutup, wajah lempeng pria di tangga darurat itu mendadak muncul di kegelapan, lengkap dengan kalimatnya yang menohok telak: Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf.
+Setiap kali kelopak mataku tertutup, wajah lempeng pria di tangga darurat itu mendadak muncul di kegelapan, lengkap dengan kalimatnya yang menohok telak: Kalau marahnya sama tembok, sampai tahun depan juga temboknya nggak bakal minta maaf. Karena tidak bisa tidur, dini hari tadi di kos aku akhirnya malah membuka laptop dan menyelesaikan poster titipan Dimas.
 
 Alhasil, Selasa pagi ini aku tiba di lantai tiga Kantor Penerbit Aksara Senja dengan kantung mata tebal dan langkah gontai. Di kepalaku, aku hanya punya satu doa sederhana: semoga pria berbotol penyok itu cuma tamu nyasar atau staf vendor yang tidak akan pernah kutemui lagi seumur hidupku.
 
@@ -415,7 +415,7 @@ Kening Dimas berkerut dalam. Dia menatapku seolah baru saja mendengar kata-kata 
 
 "Loh, kan cuma tinggal tarik ukuran dari file poster yang kemarin, Nad," desak Dimas kesal. "Masa tega sih biarin panggung acara besok kosong melompong?"
 
-"File mentahnya sudah kuunggah ke folder bersama divisi pemasaran dari Senin malam, Mas," tanggapku tenang, meski di bawah meja jari-jemariku saling bertaut menahan gugup. "Aplikasi di komputer pemasaran juga lengkap. Mas Dimas atau Vanya bisa langsung ubah skalanya sendiri dari sana."
+"File mentahnya sudah kuunggah ke folder bersama divisi pemasaran dari Selasa pagi, Mas," tanggapku tenang, meski di bawah meja jari-jemariku saling bertaut menahan gugup. "Aplikasi di komputer pemasaran juga lengkap. Mas Dimas atau Vanya bisa langsung ubah skalanya sendiri dari sana."
 
 Vanya yang berdiri di samping Dimas mendadak salah tingkah. Dia melirik jam di pergelangan tangannya, lalu menarik ujung lengan kemeja Dimas pelan. "Mas, mending kita minta tolong orang percetakan aja yang sesuaikan. Nanti bayar biaya jasa desain dikit nggak apa-apa kok."
 
