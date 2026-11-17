@@ -56,7 +56,7 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Pak Ramdan nawarin posisi tetap pegang lini buku ilustrasi baru sejak awal proyek," jelas Saka tenang seraya tersenyum tipis.
 
-Dia menatap surat di tanganku. "Keputusan saya pindah sudah bulat sejak pengajuan tiga pekan lalu, dan lini buku baru itu alasannya."
+"Keputusan saya pindah sudah bulat sejak pengajuan itu," kata Saka menunjuk tanggal tiga minggu lalu di suratnya. "Lini buku baru itulah alasannya."
 
 "Waktu kamu tanya rencana saya, surat pelepasan memang belum turun," lanjut Saka pelan. "Perjalanan Selasa sore itu dari awal memang buat tanda tangan Pak Bambang dan beresin kos lama."
 
