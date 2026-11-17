@@ -36,7 +36,7 @@ Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung 
 
 "Yang penting, penyakit customer service lo berkurang drastis," tambah Tari.
 
-Dia melongok ke arah lorong lantai dua. "Kemarin hari Jumat waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
+Dia melongok ke arah lorong lantai dua. "Hari Jumat kemarin waktu antar berkas personalia, gue lihat Mas Saka nyerahin map formulir ke Mbak Sinta HRD."
 
 Tari menatapku penasaran. "Lo tahu dia lagi ngurus surat apa?"
 

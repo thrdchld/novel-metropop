@@ -118,7 +118,7 @@
 
 ### Bab 14: Gangguan dari Meja Pemasaran
 - **Waktu & Lokasi:** Kamis siang, Ruang Kerja Penerbit Aksara Senja.
-- **Kejadian Inti:** Dua minggu berlalu; meja kerja Nadia kini jauh lebih rapi karena ia sudah berani menolak titipan kerjaan yang bukan tanggung jawabnya. Perubahan Nadia yang tampak lebih segar, tenang, dan sering tertawa kecil saat berdebat soal ilustrasi dengan Saka justru membuat Dimas mulai gelisah dan cemburu. Dimas sengaja datang ke meja mereka untuk mengkritik konsep sampul buku *Sela Waktu* dan menyindir Saka yang dianggapnya terlalu kaku.
+- **Kejadian Inti:** Hampir tiga minggu berlalu; meja kerja Nadia kini jauh lebih rapi karena ia sudah berani menolak titipan kerjaan yang bukan tanggung jawabnya. Perubahan Nadia yang tampak lebih segar, tenang, dan sering tertawa kecil saat berdebat soal ilustrasi dengan Saka justru membuat Dimas mulai gelisah dan cemburu. Dimas sengaja datang ke meja mereka untuk mengkritik konsep sampul buku *Sela Waktu* dan menyindir Saka yang dianggapnya terlalu kaku.
 - **Perkembangan Emosi / Hubungan:** Nadia tidak lagi gugup saat berhadapan dengan Dimas, sementara Saka mulai menunjukkan sikap protektif yang tenang terhadap karya Nadia.
 - **Detail Kecil / Planting-Callback:** Tari memotret diam-diam dari mejanya saat Saka dan Nadia serempak menoleh datar ke arah Dimas.
 

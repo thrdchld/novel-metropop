@@ -110,7 +110,7 @@ def audit_story(story_dir: Path) -> int:
                         break
 
     day_adj_re = re.compile(
-        r"\b(senin|selasa|rabu|kamis|jumat|sabtu|minggu)(?:\s+(?:pagi|siang|sore|petang|malam))?\s+(besok|kemarin)\b",
+        r"(?<!hari )\b(senin|selasa|rabu|kamis|jumat|sabtu|minggu)(?:\s+(?:pagi|siang|sore|petang|malam))?\s+(besok|kemarin)\b",
         re.I,
     )
 

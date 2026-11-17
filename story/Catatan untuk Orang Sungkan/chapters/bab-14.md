@@ -1,10 +1,10 @@
 ## **Bab 14: Gangguan dari Meja Pemasaran**
 
-Dua minggu duduk satu meja dengan Saka Wijaya ternyata membawa perubahan yang cukup mencolok pada pemandangan mejaku di lantai tiga.
+Hampir tiga minggu duduk satu meja dengan Saka Wijaya ternyata membawa perubahan yang cukup mencolok pada pemandangan mejaku di lantai tiga.
 
 Pertama, di atas meja kerjaku sekarang sudah bertengger sebuah papan gambar digital baru berwarna abu-abu gelap yang kabelnya mulus tanpa lilitan lakban listrik. Kedua, tumpukan map plastik warna-warni titipan warga kantor yang dulu selalu menghalangi pandanganku kini sudah punah sama sekali.
 
-Bukan karena Mbak Dinda dan Riko mendadak tobat, melainkan karena setiap kali mereka mendekat sambil memasang senyum ada maunya, aku memaksa diriku mengucapkan kalimat penolakan yang sudah kulatih. Memang belum mulus seratus persen. Kadang sehabis menolak titipan kerjaan Mbak Dinda, aku masih suka kepikiran selama sepuluh menit dan gatal ingin minta maaf. Di grup WhatsApp keluarga pun, Mbak Raras masih mendiamkanku sejak malam itu, meski kemarin siang Ibu akhirnya sudah mau mengirim pesan suara menanyakan apakah papan gambar baruku sudah dipakai kerja.
+Bukan karena Mbak Dinda dan Riko mendadak tobat, melainkan karena setiap kali mereka mendekat sambil memasang senyum ada maunya, aku memaksa diriku mengucapkan kalimat penolakan yang sudah kulatih. Memang belum mulus seratus persen. Kadang sehabis menolak titipan kerjaan Mbak Dinda, aku masih suka kepikiran selama sepuluh menit dan gatal ingin minta maaf. Di grup WhatsApp keluarga pun, Mbak Raras masih mendiamkanku sejak malam itu, meski beberapa hari lalu Ibu akhirnya sudah mau mengirim pesan suara menanyakan apakah papan gambar baruku sudah dipakai kerja.
 
 Setidaknya, aku belajar bahwa dicemberuti orang sedikit itu jauh lebih sehat daripada lembur sambil menangis di tangga darurat.
 
