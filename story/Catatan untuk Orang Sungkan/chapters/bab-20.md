@@ -16,17 +16,15 @@ Aku menurunkan tanganku yang hendak mengetuk pintu, menunggu Pak Ramdan menyeles
 
 Namun kalimat Pak Ramdan berikutnya langsung membuat kakiku terpaku di atas karpet lorong.
 
-"Soal Saka, masa perbantuannya di Jakarta memang lima minggu sampai proyek beres," lanjut Pak Ramdan.
+"Soal Saka, jadwal perbantuannya lima minggu untuk proyek awal di Jakarta memang selesai akhir minggu depan," lanjut Pak Ramdan.
 
-Pak Ramdan menyandarkan punggungnya ke kursi. "Berarti akhir minggu depan masa tugas sementaranya sudah habis."
-
-Beliau mengangguk ke arah map di mejanya. "Nanti biar Saka sendiri yang pulang ke Yogyakarta minta tanda tangan Pak Bambang."
+Pak Ramdan menyandarkan punggungnya ke kursi, mengangguk ke arah map di mejanya. "Nanti biar Saka sendiri yang menghadap Pak Bambang di Yogyakarta untuk membereskan tanda tangan berkas administrasinya."
 
 Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan dengan salam hangat.
 
 Aku berdiri diam di depan celah pintu itu. Dadaku mendadak menyempit sesak.
 
-Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Aku sempat teringat tab kos tahunan Cikini dan formulir kepegawaian antar-cabang di layar laptopnya waktu itu. Namun ingatan itu langsung kutepis karena Saka sendiri sudah bilang bahwa info kos tersebut cuma buat temannya dari Jogja. Kalimat Tari Senin lalu soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke Cabang Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Aku sempat teringat tab kos tahunan Cikini dan formulir kepegawaian antar-cabang di layar laptopnya waktu itu. Namun ingatan itu langsung kutepis karena Saka sendiri sudah bilang bahwa info kos tersebut cuma buat temannya dari Jogja, sedangkan formulir kepegawaian antar-cabang itu kupikir adalah berkas pengembalian masa tugasnya ke cabang asal. Kalimat Tari Senin lalu soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke Cabang Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
 Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
 

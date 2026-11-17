@@ -154,8 +154,8 @@
 
 ### Bab 20: Kabar dari Cabang Yogyakarta
 - **Waktu & Lokasi:** Jumat siang, Depan Ruangan Kepala Redaksi (Pak Ramdan) & Meja Proyek.
-- **Kejadian Inti:** Ucapan Dimas terbukti ketika Nadia tidak sengaja mendengar Pak Ramdan berbicara di telepon dengan kepala cabang Yogyakarta bahwa seiring rampungnya buku *Sela Waktu* akhir bulan ini, jadwal penugasan lima minggu Saka di Jakarta akan berakhir minggu depan. Saat kembali ke meja, Nadia melihat amplop cokelat berlogo Cabang Yogyakarta di bawah buku catatan Saka.
-- **Perkembangan Emosi / Hubungan:** Dada Nadia mencelos karena merasa bisikan Dimas ada benarnya: ia sempat mengingat tab kos tahunan Cikini dan formulir di laptop Saka namun menepisnya karena Saka sendiri bilang itu untuk teman Jogja, apalagi Saka tidak pernah sekalipun membahas kelanjutan hubungan mereka setelah proyek buku selesai.
+- **Kejadian Inti:** Ucapan Dimas terbukti ketika Nadia tidak sengaja mendengar Pak Ramdan berbicara di telepon dengan kepala cabang Yogyakarta bahwa jadwal perbantuan lima minggu Saka untuk proyek awal di Jakarta selesai minggu depan dan Saka sendiri yang akan menghadap Pak Bambang di Yogyakarta untuk membereskan tanda tangan berkas administrasinya. Saat kembali ke meja, Nadia melihat amplop cokelat berlogo Cabang Yogyakarta di bawah buku catatan Saka.
+- **Perkembangan Emosi / Hubungan:** Dada Nadia mencelos karena merasa bisikan Dimas ada benarnya: ia sempat mengingat tab kos tahunan Cikini dan formulir kepegawaian antar-cabang di laptop Saka namun menepisnya karena Saka sendiri bilang info kos itu untuk teman Jogja dan ia mengira formulir antar-cabang itu adalah berkas pengembalian masa tugas ke cabang asal, apalagi Saka tidak pernah sekalipun membahas kelanjutan hubungan mereka setelah proyek buku selesai.
 - **Detail Kecil / Planting-Callback:** Tangan Nadia kembali refleks menyentuh ujung karet penghapus pensilnya karena cemas akan ditinggalkan.
 
 ### Bab 21: Jawaban yang Terdengar Dingin
