@@ -30,7 +30,7 @@ Bibirku terkatup rapat, rasanya ingin ambles menembus lantai semen sampai ke das
 
 "Mas... Mas sendiri ngapain duduk di tangga darurat jam segini?" tanyaku memberanikan diri, mencoba mengalihkan pembicaraan dari aibku sendiri. "Masih lembur?"
 
-"Saya nggak pernah lembur kalau itu yang kamu pikirkan," jawabnya lempeng tanpa ragu. "Saya baru pindah ke Jakarta kemarin lusa. Kosan saya di belakang stasiun Cikini pompanya lagi dibongkar sampai jam delapan malam. Daripada nunggu di kafe berisik atau kena desak-desakan KRL jam pulang kantor, di sini lebih tenang."
+"Saya nggak pernah lembur kalau itu yang kamu pikirkan," jawabnya lempeng tanpa ragu. "Saya baru pindah ke Jakarta kemarin lusa. Kosan saya di Tebet pompanya lagi dibongkar sampai jam delapan malam. Daripada nunggu di kafe berisik atau kena desak-desakan KRL jam pulang kantor, di sini lebih tenang."
 
 Pria itu melirik anak tangga yang tadi kutendang.
 
