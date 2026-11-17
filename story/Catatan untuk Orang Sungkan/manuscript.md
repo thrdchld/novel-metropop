@@ -837,7 +837,7 @@ Di seberang telepon, desah napas Ibu terdengar berat dan kecewa.
 
 "Ya udah kalau memang uangmu nggak bisa dipinjam," kata Ibu datar.
 
-Ibu terdiam sejenak. "Biar Mbakmu liburan ke Puncak aja sesuai uang yang ada. Uang jajan Daffa terserah kamu transfer kapan."
+Ibu terdiam sejenak. "Biar Mbakmu cari penginapan yang lebih murah di Bali aja sesuai uang yang ada. Uang jajan Daffa terserah kamu transfer kapan."
 
 "Makasih ya, Bu... maaf Nadia belum bisa bantu banyak," bisikku sebelum Ibu menutup telepon.
 
