@@ -26,7 +26,7 @@ Aku menatap kotak martabak itu. Di bagian atas kardusnya, tertulis jelas dengan 
 
 Sejak kapan tukang martabak kaki lima di mulut gang Cikini mengadakan promo beli nol gratis satu loyang spesial?
 
-Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kanan Saka yang sedang menyentuh botol minum hitam penyok di kantong samping tas selempangnya.
+Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kanan Saka yang sedang menyentuh botol minum hitam penyok di kantong samping ransel kanvas hitamnya.
 
 Di bawah lampu teras kos yang temaram, ibu jari tangan kanan Saka bergerak memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya kembali.
 
@@ -66,7 +66,7 @@ Buru-buru Saka menarik tangan kanannya menjauh dari tutup botol minum hitamnya.
 
 "Oh, karetnya dol ya," godaku seraya menerima kantong plastik martabak manis hangat itu dari tangannya. "Berarti karetnya pilih kasih ya, Mas. Cuma dol tiap kali Mas Saka habis beliin aku makanan."
 
-Saka tidak menjawab. Dia hanya berdeham sekali lagi, membetulkan tali tas selempang di bahunya yang sebenarnya sudah rapi.
+Saka tidak menjawab. Dia hanya berdeham sekali lagi, membetulkan tali ransel kanvas hitam di bahunya yang sebenarnya sudah rapi.
 
 "Udah malam. Masuk sana, makan selagi hangat," kata Saka tanpa menatap mataku lagi.
 

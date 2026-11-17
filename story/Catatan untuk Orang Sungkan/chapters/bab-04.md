@@ -16,7 +16,7 @@ Meski begitu, bekerja dengannya jauh lebih tenang dibanding duduk di kubikel lam
 
 Tepat saat jarum jam dinding menyentuh angka lima lewat satu menit, terdengar bunyi klik pelan dari sebelahku.
 
-Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke ransel hitamnya dengan gerakan luwes tanpa ragu sedikit pun.
+Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke ransel kanvas hitamnya dengan gerakan luwes tanpa ragu sedikit pun.
 
 Aku menoleh heran, jemariku masih memegang pena digital di atas layar tablet. "Kok udah siap-siap pulang, Mas? Sketsa haltenya belum selesai kuwarnai."
 

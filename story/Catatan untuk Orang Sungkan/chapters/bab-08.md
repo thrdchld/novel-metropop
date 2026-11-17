@@ -2,7 +2,7 @@
 
 Sabtu siang pukul sebelas kurang lima menit, aku turun dari jembatan penyeberangan Halte Senen dan mendapati Saka sudah berdiri berteduh di bawah kanopi toko cat yang tutup.
 
-Pemandangan hari itu agak bikin aku pangling. Selama seminggu di kantor, aku selalu melihatnya memakai kemeja flanel lengan panjang dan celana bahan gelap. Siang ini, dia memakai kaus oblong hitam polos, kemeja tipis warna hijau lumut yang tidak dikancingkan sebagai luaran, dan celana jins pudar. Hanya satu benda yang masih setia menempel di kantong samping tas selempang kanvasnya: botol minum hitam legam yang penyok sedikit di bagian bawah.
+Pemandangan hari itu agak bikin aku pangling. Selama seminggu di kantor, aku selalu melihatnya memakai kemeja flanel lengan panjang dan celana bahan gelap. Siang ini, dia memakai kaus oblong hitam polos, kemeja tipis warna hijau lumut yang tidak dikancingkan sebagai luaran, dan celana jins pudar. Hanya satu benda yang masih setia menempel di kantong samping ransel kanvas hitamnya: botol minum hitam legam yang penyok sedikit di bagian bawah.
 
 "Maaf, Mas, udah nunggu lama ya?" sapaku sambil merapikan tali tas selempangku yang melorot.
 

@@ -4,7 +4,7 @@ Sejak rahasia tutup botol minum hitamnya terbongkar di teras kosku malam Jumat l
 
 Senin pagi pukul sembilan kurang sepuluh menit, aku sengaja datang lebih awal dan menyeduhkan secangkir kopi hitam panas tanpa gula di dapur kantor, lalu meletakkannya di meja Saka bersama sebungkus biskuit gandum asin yang kubeli di minimarket stasiun.
 
-Dua menit kemudian, Saka datang dari arah lift sambil menenteng tas kanvasnya. Langkahnya sempat terhenti melihat cangkir kopi hitam dan biskuit asin di mejanya, sementara tangan kanannya sendiri ternyata sedang membawa segelas es kopi susu berlabel kedai bawah untukku.
+Dua menit kemudian, Saka datang dari arah lift sambil membawa ransel kanvas hitamnya. Langkahnya sempat terhenti melihat cangkir kopi hitam dan biskuit asin di mejanya, sementara tangan kanannya sendiri ternyata sedang membawa segelas es kopi susu berlabel kedai bawah untukku.
 
 "Tumben ada biskuit asin," kata Saka seraya menaruh es kopi susu di sebelah tempat pensilku.
 
@@ -30,7 +30,7 @@ Tari meletakkan kertasnya ke meja. "Kamis sore gue lihat dari jendela atas, Mas 
 
 Dia berbisik heboh. "Padahal waktu Riko minta nebeng payung, Mas Saka bilang payungnya cuma muat ranselnya sendiri!"
 
-Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung gara-gara kalah penting sama tas ransel kanvas Saka memang terdengar sangat khas Saka Wijaya.
+Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung gara-gara kalah penting sama ransel kanvas hitam Saka memang terdengar sangat khas Saka Wijaya.
 
 "Dia emang orangnya baik kok kalau udah kenal, Tar," kataku pelan, mataku melirik ke arah botol minum hitam penyok yang berdiri di meja sebelah. "Cuma caranya aja yang nggak pakai bungkus manis."
 

@@ -44,11 +44,11 @@ Klik.
 
 Layar laptop perak di sebelahku tertutup rapat.
 
-"Lumayan," komentar Saka santai sambil memasukkan kabel pengisi dayanya ke dalam tas selempang kanvas hitamnya. "Sekarang nolak dua orang sekaligus cuma butuh waktu kurang dari sepuluh detik. Sekalian nagih utang pula."
+"Lumayan," komentar Saka santai sambil memasukkan kabel pengisi dayanya ke dalam ransel kanvas hitamnya. "Sekarang nolak dua orang sekaligus cuma butuh waktu kurang dari sepuluh detik. Sekalian nagih utang pula."
 
 "Kan gurunya galak, Mas. Kalau muridnya nggak lulus-lulus nanti disuruh ngomel di tangga darurat lagi," sahutku sambil tertawa kecil dan mulai merapikan tempat pensilku.
 
-Saka berdiri dari kursinya, menyampirkan tali tas ke bahunya, lalu menatapku. Meski wajahnya tetap tenang seperti biasa, sorot matanya saat menatapku kini selalu menyimpan kehangatan yang hanya kami berdua yang tahu.
+Saka berdiri dari kursinya, menyampirkan tali ransel ke bahunya, lalu menatapku. Meski wajahnya tetap tenang seperti biasa, sorot matanya saat menatapku kini selalu menyimpan kehangatan yang hanya kami berdua yang tahu.
 
 "Malam ini Ibu kamu di Rawamangun masak ikan nila goreng lagi nggak?" tanya Saka.
 

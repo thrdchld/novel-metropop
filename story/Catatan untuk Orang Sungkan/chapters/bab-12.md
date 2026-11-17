@@ -50,7 +50,7 @@ Selama ini aku selalu takut dicap pelit jika menolak permintaan keluarga di ruma
 
 "Kalau kamu sendiri tidak melindungi batasanmu, orang lain tidak akan pernah peduli," ucap Saka tegas.
 
-Dua lembar uang pas diletakkannya ke meja kasir. Ia menyampirkan tas kanvas ke bahu kirinya dengan gerakan terlatih seraya merapikan botol minum hitam penyok di kantong samping.
+Dua lembar uang pas diletakkannya ke meja kasir. Ia menyampirkan ransel kanvas hitam ke bahu kirinya dengan gerakan terlatih seraya merapikan botol minum hitam penyok di kantong samping.
 
 Hujan di luar benar-benar reda. Udara petang begitu segar dan sejuk. Jalanan aspal Cikini mengilap basah oleh pantulan lampu ruko.
 

@@ -1,6 +1,6 @@
 ## **Bab 21: Jawaban yang Terdengar Dingin**
 
-Sepanjang Jumat sore itu, amplop cokelat berlogo cabang Yogyakarta yang sudah dimasukkan Saka ke dalam tas selempangnya terus membayangi pikiranku.
+Sepanjang Jumat sore itu, amplop cokelat berlogo cabang Yogyakarta yang sudah dimasukkan Saka ke dalam ransel kanvas hitamnya terus membayangi pikiranku.
 
 Dari jam satu siang sampai menjelang jam lima sore, aku hampir tidak mengeluarkan suara sama sekali kecuali menjawab singkat urusan ukuran margin halaman. Namun di tengah kesibukanku merapikan halaman terakhir buku Sela Waktu, tanganku sempat membuat satu gambar kecil tambahan di lembar penutup: sketsa dua meja kerja yang bersebelahan, di mana satu kursinya kosong dan hanya menyisakan bayangan sebuah botol minum hitam.
 
@@ -14,7 +14,7 @@ Kalau aku tidak bertanya sekarang, aku bakal senewen sendiri sepanjang akhir pek
 
 "Berarti... minggu depan tugas kita di meja nomor empat ini udah selesai ya, Mas?" pancingku hati-hati, berusaha membuat suaraku tetap santai.
 
-"Iya. Sesuai target lima minggu dari awal, malah naskahnya sudah beres beberapa hari lebih cepat sebelum peluncuran Jumat depan," jawab Saka sambil memasukkan laptop ke dalam tas kanvasnya.
+"Iya. Sesuai target lima minggu dari awal, malah naskahnya sudah beres beberapa hari lebih cepat sebelum peluncuran Jumat depan," jawab Saka sambil memasukkan laptop ke dalam ransel kanvas hitamnya.
 
 Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 

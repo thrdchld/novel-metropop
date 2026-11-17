@@ -49,7 +49,6 @@ Detik itu juga, seluruh darah di tubuhku rasanya berhenti mengalir.
 Aku mematung. Kepalaku perlahan terangkat ke atas dengan gerakan kaku seperti engsel pintu karatan. Di anak tangga lantai tiga menuju lantai empat yang remang-remang, seorang pria berkemeja flanel gelap sedang duduk bersila santai sambil menatapku lurus.
 
 Di tangan kanannya, ada sebuah botol minum hitam legam yang bagian bawahnya penyok sedikit.
-
 ---
 
 ## **Bab 2: Pria Berbotol Minum Penyok**
@@ -105,7 +104,6 @@ Rasa malu yang membakar membuatku tidak tahan berlama-lama lagi di tangga darura
 Bodo amat. Malam ini aku tidak peduli lagi.
 
 Aku menyambar tas selempangku dari laci, mematikan sakelar monitor dengan sekali tekan, lalu melesat kabur menuju lobi bawah sebelum aku berpapasan lagi dengan si pria berbotol penyok itu.
-
 ---
 
 ## **Bab 3: Meja Sebelah Si Raja Tega**
@@ -146,7 +144,7 @@ Tepat pukul sembilan pagi, lonceng pemanggil rapat redaksi berbunyi dari ruang t
 
 Pintu ruang rapat berderit pelan.
 
-Seorang pria bertubuh jangkung melangkah masuk. Dia mengenakan kemeja katun abu-abu rapi dan ransel hitam di pundak kirinya. Langkah kakinya tenang, tanpa senyum, dan matanya menyapu seisi ruangan dengan sorot lurus.
+Seorang pria bertubuh jangkung melangkah masuk. Dia mengenakan kemeja katun abu-abu rapi dan ransel kanvas hitam di pundak kirinya. Langkah kakinya tenang, tanpa senyum, dan matanya menyapu seisi ruangan dengan sorot lurus.
 
 Begitu dia menarik kursi di sisi kanan meja dan meletakkan sebuah botol minum hitam legam yang bagian bawahnya penyok ke atas meja rapat, nafasku tersendat seketika.
 
@@ -173,7 +171,6 @@ Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum,
 "Nggak bisa. Jadwal proyek saya sudah penuh."
 
 Riko tertegun kaku dengan mulut setengah terbuka. Dan tanpa menunggu balasan apa pun, Saka melangkah santai melewatinya menuju meja proyek nomor empat, tepat di seberang tempat dudukku.
-
 ---
 
 ## **Bab 4: Peraturan Jam Lima Sore**
@@ -194,7 +191,7 @@ Meski begitu, bekerja dengannya jauh lebih tenang dibanding duduk di kubikel lam
 
 Tepat saat jarum jam dinding menyentuh angka lima lewat satu menit, terdengar bunyi klik pelan dari sebelahku.
 
-Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke ransel hitamnya dengan gerakan luwes tanpa ragu sedikit pun.
+Saka melipat layar laptop peraknya, mencabut kabel pengisi daya, lalu memasukkannya ke ransel kanvas hitamnya dengan gerakan luwes tanpa ragu sedikit pun.
 
 Aku menoleh heran, jemariku masih memegang pena digital di atas layar tablet. "Kok udah siap-siap pulang, Mas? Sketsa haltenya belum selesai kuwarnai."
 
@@ -458,7 +455,7 @@ Padahal seingatku pagi tadi waktu tiba di kantor, Saka tidak menenteng kopi boto
 
 Kujangkau cokelat susu itu dari meja, menyembunyikan senyum geli yang mendesak naik ke sudut bibirku. "Oh, promo kasir ya. Makasih banyak, Mas Saka."
 
-"Hm," gumam Saka singkat sambil menyampirkan tas kanvasnya ke pundak. "Besok jam sebelas siang jangan telat. Saya tunggu di halte Senen dekat deretan toko buku Kwitang."
+"Hm," gumam Saka singkat sambil menyampirkan ransel kanvas hitamnya ke pundak. "Besok jam sebelas siang jangan telat. Saya tunggu di halte Senen dekat deretan toko buku Kwitang."
 
 ---
 
@@ -466,7 +463,7 @@ Kujangkau cokelat susu itu dari meja, menyembunyikan senyum geli yang mendesak n
 
 Sabtu siang pukul sebelas kurang lima menit, aku turun dari jembatan penyeberangan Halte Senen dan mendapati Saka sudah berdiri berteduh di bawah kanopi toko cat yang tutup.
 
-Pemandangan hari itu agak bikin aku pangling. Selama seminggu di kantor, aku selalu melihatnya memakai kemeja flanel lengan panjang dan celana bahan gelap. Siang ini, dia memakai kaus oblong hitam polos, kemeja tipis warna hijau lumut yang tidak dikancingkan sebagai luaran, dan celana jins pudar. Hanya satu benda yang masih setia menempel di kantong samping tas selempang kanvasnya: botol minum hitam legam yang penyok sedikit di bagian bawah.
+Pemandangan hari itu agak bikin aku pangling. Selama seminggu di kantor, aku selalu melihatnya memakai kemeja flanel lengan panjang dan celana bahan gelap. Siang ini, dia memakai kaus oblong hitam polos, kemeja tipis warna hijau lumut yang tidak dikancingkan sebagai luaran, dan celana jins pudar. Hanya satu benda yang masih setia menempel di kantong samping ransel kanvas hitamnya: botol minum hitam legam yang penyok sedikit di bagian bawah.
 
 "Maaf, Mas, udah nunggu lama ya?" sapaku sambil merapikan tali tas selempangku yang melorot.
 
@@ -776,7 +773,7 @@ Selama ini aku selalu takut dicap pelit jika menolak permintaan keluarga di ruma
 
 "Kalau kamu sendiri tidak melindungi batasanmu, orang lain tidak akan pernah peduli," ucap Saka tegas.
 
-Dua lembar uang pas diletakkannya ke meja kasir. Ia menyampirkan tas kanvas ke bahu kirinya dengan gerakan terlatih seraya merapikan botol minum hitam penyok di kantong samping.
+Dua lembar uang pas diletakkannya ke meja kasir. Ia menyampirkan ransel kanvas hitam ke bahu kirinya dengan gerakan terlatih seraya merapikan botol minum hitam penyok di kantong samping.
 
 Hujan di luar benar-benar reda. Udara petang begitu segar dan sejuk. Jalanan aspal Cikini mengilap basah oleh pantulan lampu ruko.
 
@@ -1068,7 +1065,7 @@ Aku menatap kotak martabak itu. Di bagian atas kardusnya, tertulis jelas dengan 
 
 Sejak kapan tukang martabak kaki lima di mulut gang Cikini mengadakan promo beli nol gratis satu loyang spesial?
 
-Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kanan Saka yang sedang menyentuh botol minum hitam penyok di kantong samping tas selempangnya.
+Namun yang paling menarik perhatianku bukanlah alasan promo fiktifnya itu, melainkan gerakan tangan kanan Saka yang sedang menyentuh botol minum hitam penyok di kantong samping ransel kanvas hitamnya.
 
 Di bawah lampu teras kos yang temaram, ibu jari tangan kanan Saka bergerak memutar tutup botol minum hitamnya sedikit, lalu mengencangkannya kembali.
 
@@ -1108,7 +1105,7 @@ Buru-buru Saka menarik tangan kanannya menjauh dari tutup botol minum hitamnya.
 
 "Oh, karetnya dol ya," godaku seraya menerima kantong plastik martabak manis hangat itu dari tangannya. "Berarti karetnya pilih kasih ya, Mas. Cuma dol tiap kali Mas Saka habis beliin aku makanan."
 
-Saka tidak menjawab. Dia hanya berdeham sekali lagi, membetulkan tali tas selempang di bahunya yang sebenarnya sudah rapi.
+Saka tidak menjawab. Dia hanya berdeham sekali lagi, membetulkan tali ransel kanvas hitam di bahunya yang sebenarnya sudah rapi.
 
 "Udah malam. Masuk sana, makan selagi hangat," kata Saka tanpa menatap mataku lagi.
 
@@ -1124,7 +1121,7 @@ Sejak rahasia tutup botol minum hitamnya terbongkar di teras kosku malam Jumat l
 
 Senin pagi pukul sembilan kurang sepuluh menit, aku sengaja datang lebih awal dan menyeduhkan secangkir kopi hitam panas tanpa gula di dapur kantor, lalu meletakkannya di meja Saka bersama sebungkus biskuit gandum asin yang kubeli di minimarket stasiun.
 
-Dua menit kemudian, Saka datang dari arah lift sambil menenteng tas kanvasnya. Langkahnya sempat terhenti melihat cangkir kopi hitam dan biskuit asin di mejanya, sementara tangan kanannya sendiri ternyata sedang membawa segelas es kopi susu berlabel kedai bawah untukku.
+Dua menit kemudian, Saka datang dari arah lift sambil membawa ransel kanvas hitamnya. Langkahnya sempat terhenti melihat cangkir kopi hitam dan biskuit asin di mejanya, sementara tangan kanannya sendiri ternyata sedang membawa segelas es kopi susu berlabel kedai bawah untukku.
 
 "Tumben ada biskuit asin," kata Saka seraya menaruh es kopi susu di sebelah tempat pensilku.
 
@@ -1150,7 +1147,7 @@ Tari meletakkan kertasnya ke meja. "Kamis sore gue lihat dari jendela atas, Mas 
 
 Dia berbisik heboh. "Padahal waktu Riko minta nebeng payung, Mas Saka bilang payungnya cuma muat ranselnya sendiri!"
 
-Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung gara-gara kalah penting sama tas ransel kanvas Saka memang terdengar sangat khas Saka Wijaya.
+Aku tertawa kecil mendengar cerita itu. Membayangkan Riko ditolak nebeng payung gara-gara kalah penting sama ransel kanvas hitam Saka memang terdengar sangat khas Saka Wijaya.
 
 "Dia emang orangnya baik kok kalau udah kenal, Tar," kataku pelan, mataku melirik ke arah botol minum hitam penyok yang berdiri di meja sebelah. "Cuma caranya aja yang nggak pakai bungkus manis."
 
@@ -1320,7 +1317,7 @@ Aku buru-buru menurunkan pensil dari depan mulutku tepat saat Saka tiba di meja 
 
 ## **Bab 21: Jawaban yang Terdengar Dingin**
 
-Sepanjang Jumat sore itu, amplop cokelat berlogo cabang Yogyakarta yang sudah dimasukkan Saka ke dalam tas selempangnya terus membayangi pikiranku.
+Sepanjang Jumat sore itu, amplop cokelat berlogo cabang Yogyakarta yang sudah dimasukkan Saka ke dalam ransel kanvas hitamnya terus membayangi pikiranku.
 
 Dari jam satu siang sampai menjelang jam lima sore, aku hampir tidak mengeluarkan suara sama sekali kecuali menjawab singkat urusan ukuran margin halaman. Namun di tengah kesibukanku merapikan halaman terakhir buku Sela Waktu, tanganku sempat membuat satu gambar kecil tambahan di lembar penutup: sketsa dua meja kerja yang bersebelahan, di mana satu kursinya kosong dan hanya menyisakan bayangan sebuah botol minum hitam.
 
@@ -1334,7 +1331,7 @@ Kalau aku tidak bertanya sekarang, aku bakal senewen sendiri sepanjang akhir pek
 
 "Berarti... minggu depan tugas kita di meja nomor empat ini udah selesai ya, Mas?" pancingku hati-hati, berusaha membuat suaraku tetap santai.
 
-"Iya. Sesuai target lima minggu dari awal, malah naskahnya sudah beres beberapa hari lebih cepat sebelum peluncuran Jumat depan," jawab Saka sambil memasukkan laptop ke dalam tas kanvasnya.
+"Iya. Sesuai target lima minggu dari awal, malah naskahnya sudah beres beberapa hari lebih cepat sebelum peluncuran Jumat depan," jawab Saka sambil memasukkan laptop ke dalam ransel kanvas hitamnya.
 
 Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 
@@ -1576,7 +1573,7 @@ Namun belum sempat aku melangkah melewati pilar marmer di samping lift, suara la
 
 Suara rendah Saka membuat langkahku terhenti tepat di balik pilar besar itu, sedikit terhalang dari pandangan Dimas di dekat pintu kaca depan.
 
-Aku menoleh ke samping. Saka berdiri hanya berjarak satu langkah dariku sambil menyampirkan tas kanvasnya di bahu. Pandangannya beralih dari wajahku ke arah Dimas yang sedang menunggu di dekat sofa lobi, lalu kembali menatap mataku.
+Aku menoleh ke samping. Saka berdiri hanya berjarak satu langkah dariku sambil menyampirkan ransel kanvas hitamnya di bahu. Pandangannya beralih dari wajahku ke arah Dimas yang sedang menunggu di dekat sofa lobi, lalu kembali menatap mataku.
 
 "Kenapa dia nunggu kamu di lobi sambil bawa bungkusan buat Ibu kamu?" tanya Saka tanpa basa-basi.
 
@@ -2108,11 +2105,11 @@ Klik.
 
 Layar laptop perak di sebelahku tertutup rapat.
 
-"Lumayan," komentar Saka santai sambil memasukkan kabel pengisi dayanya ke dalam tas selempang kanvas hitamnya. "Sekarang nolak dua orang sekaligus cuma butuh waktu kurang dari sepuluh detik. Sekalian nagih utang pula."
+"Lumayan," komentar Saka santai sambil memasukkan kabel pengisi dayanya ke dalam ransel kanvas hitamnya. "Sekarang nolak dua orang sekaligus cuma butuh waktu kurang dari sepuluh detik. Sekalian nagih utang pula."
 
 "Kan gurunya galak, Mas. Kalau muridnya nggak lulus-lulus nanti disuruh ngomel di tangga darurat lagi," sahutku sambil tertawa kecil dan mulai merapikan tempat pensilku.
 
-Saka berdiri dari kursinya, menyampirkan tali tas ke bahunya, lalu menatapku. Meski wajahnya tetap tenang seperti biasa, sorot matanya saat menatapku kini selalu menyimpan kehangatan yang hanya kami berdua yang tahu.
+Saka berdiri dari kursinya, menyampirkan tali ransel ke bahunya, lalu menatapku. Meski wajahnya tetap tenang seperti biasa, sorot matanya saat menatapku kini selalu menyimpan kehangatan yang hanya kami berdua yang tahu.
 
 "Malam ini Ibu kamu di Rawamangun masak ikan nila goreng lagi nggak?" tanya Saka.
 

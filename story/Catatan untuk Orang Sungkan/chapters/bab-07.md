@@ -68,4 +68,4 @@ Padahal seingatku pagi tadi waktu tiba di kantor, Saka tidak menenteng kopi boto
 
 Kujangkau cokelat susu itu dari meja, menyembunyikan senyum geli yang mendesak naik ke sudut bibirku. "Oh, promo kasir ya. Makasih banyak, Mas Saka."
 
-"Hm," gumam Saka singkat sambil menyampirkan tas kanvasnya ke pundak. "Besok jam sebelas siang jangan telat. Saya tunggu di halte Senen dekat deretan toko buku Kwitang."
+"Hm," gumam Saka singkat sambil menyampirkan ransel kanvas hitamnya ke pundak. "Besok jam sebelas siang jangan telat. Saya tunggu di halte Senen dekat deretan toko buku Kwitang."

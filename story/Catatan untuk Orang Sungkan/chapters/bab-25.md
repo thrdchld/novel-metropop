@@ -10,7 +10,7 @@ Namun belum sempat aku melangkah melewati pilar marmer di samping lift, suara la
 
 Suara rendah Saka membuat langkahku terhenti tepat di balik pilar besar itu, sedikit terhalang dari pandangan Dimas di dekat pintu kaca depan.
 
-Aku menoleh ke samping. Saka berdiri hanya berjarak satu langkah dariku sambil menyampirkan tas kanvasnya di bahu. Pandangannya beralih dari wajahku ke arah Dimas yang sedang menunggu di dekat sofa lobi, lalu kembali menatap mataku.
+Aku menoleh ke samping. Saka berdiri hanya berjarak satu langkah dariku sambil menyampirkan ransel kanvas hitamnya di bahu. Pandangannya beralih dari wajahku ke arah Dimas yang sedang menunggu di dekat sofa lobi, lalu kembali menatap mataku.
 
 "Kenapa dia nunggu kamu di lobi sambil bawa bungkusan buat Ibu kamu?" tanya Saka tanpa basa-basi.
 
