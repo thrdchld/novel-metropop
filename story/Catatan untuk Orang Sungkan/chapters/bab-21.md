@@ -22,7 +22,7 @@ Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 
 Saka terdiam selama tiga detik.
 
-Ada kerutan tipis di dahinya, seolah menimbang kata-kata yang belum ingin diucapkannya. Tangan kanannya menyentuh ritsleting tas tempat amplop HRD tadi berada, namun jarinya berhenti di sana. Aku teringat ceritanya di warung soto dulu: sejak ditinggal mantannya di Yogyakarta saat studionya bangkrut, Saka paling pantang mengumbar janji kepada perempuan sebelum ada kepastian resmi yang benar-benar sudah beres di tangannya.
+Ada kerutan tipis di dahinya, seolah menimbang kata-kata yang belum ingin diucapkannya. Tangan kanannya menyentuh ritsleting tas tempat amplop HRD tadi berada, namun jarinya berhenti di sana. Aku teringat ceritanya di kedai kopi dulu: sejak ditinggal mantannya di Yogyakarta saat studionya bangkrut, Saka paling pantang mengumbar janji kepada perempuan sebelum ada kepastian resmi yang benar-benar sudah beres di tangannya.
 
 Namun karena aku sudah telanjur yakin bahwa amplop di dalam tasnya itu adalah surat kepulangan, sikap diamnya justru menjadi pembenaran atas kekhawatiranku.
 

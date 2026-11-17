@@ -24,7 +24,7 @@ Suaranya mengalir datar tapi jujur. "Dulu saya merintis studio penyuntingan keci
 
 Aku mendengarkan dengan saksama.
 
-"Sampai akhirnya tabungan saya habis dan studio tutup," lanjut Saka dengan tatapan lurus. "Teman saya lepas tangan begitu saja. Hubungan saya sama pacar di Jogja juga ikut bubar karena hidup saya berantakan."
+"Sampai akhirnya tabungan saya habis dan studio tutup," lanjut Saka dengan tatapan lurus. "Teman saya lepas tangan begitu saja. Hubungan saya sama pacar di Jogja juga ikut bubar karena hidup saya berantakan. Dia akhirnya memilih laki-laki yang direstui orang tuanya karena pekerjaannya sudah jelas dan dianggap lebih mapan."
 
 Aku menutup mulutku dengan satu tangan. "Ya ampun, Mas..."
 

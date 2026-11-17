@@ -32,7 +32,7 @@ Di dalam lubuk hatiku yang paling dalam, sebenarnya ada alasan bodoh kenapa aku 
 
 Satu kalimat saja darinya, aku akan menolak Dimas.
 
-Namun aku lupa cerita Saka di warung soto dulu. Saat studionya di Yogyakarta bangkrut, mantan kekasihnya meninggalkannya demi laki-laki pilihan orang tua yang dianggap lebih mapan dan sudah jelas di depan mata. Tanpa kusadari, kalimatku yang membawa-bawa restu Ibu dan hubungan masa lalu bersama Dimas barusan telah menyentuh luka lama yang paling dihindari Saka.
+Namun aku lupa cerita Saka di kedai kopi dulu. Saat studionya di Yogyakarta bangkrut, mantan kekasihnya meninggalkannya demi laki-laki pilihan orang tua yang dianggap lebih mapan dan sudah jelas di depan mata. Tanpa kusadari, kalimatku yang membawa-bawa restu Ibu dan hubungan masa lalu bersama Dimas barusan telah menyentuh luka lama yang paling dihindari Saka.
 
 Wajah Saka menegang kaku. Sorot matanya yang tadinya menatapku penuh tanda tanya perlahan meredup, tertutup rapat oleh tembok pertahanan dirinya sendiri.
 

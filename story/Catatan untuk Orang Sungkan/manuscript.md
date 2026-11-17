@@ -747,7 +747,7 @@ Suaranya mengalir datar tapi jujur. "Dulu saya merintis studio penyuntingan keci
 
 Aku mendengarkan dengan saksama.
 
-"Sampai akhirnya tabungan saya habis dan studio tutup," lanjut Saka dengan tatapan lurus. "Teman saya lepas tangan begitu saja. Hubungan saya sama pacar di Jogja juga ikut bubar karena hidup saya berantakan."
+"Sampai akhirnya tabungan saya habis dan studio tutup," lanjut Saka dengan tatapan lurus. "Teman saya lepas tangan begitu saja. Hubungan saya sama pacar di Jogja juga ikut bubar karena hidup saya berantakan. Dia akhirnya memilih laki-laki yang direstui orang tuanya karena pekerjaannya sudah jelas dan dianggap lebih mapan."
 
 Aku menutup mulutku dengan satu tangan. "Ya ampun, Mas..."
 
@@ -1339,7 +1339,7 @@ Aku menelan ludah, melirik kantong tasnya tempat amplop cokelat tadi disimpan.
 
 Saka terdiam selama tiga detik.
 
-Ada kerutan tipis di dahinya, seolah menimbang kata-kata yang belum ingin diucapkannya. Tangan kanannya menyentuh ritsleting tas tempat amplop HRD tadi berada, namun jarinya berhenti di sana. Aku teringat ceritanya di warung soto dulu: sejak ditinggal mantannya di Yogyakarta saat studionya bangkrut, Saka paling pantang mengumbar janji kepada perempuan sebelum ada kepastian resmi yang benar-benar sudah beres di tangannya.
+Ada kerutan tipis di dahinya, seolah menimbang kata-kata yang belum ingin diucapkannya. Tangan kanannya menyentuh ritsleting tas tempat amplop HRD tadi berada, namun jarinya berhenti di sana. Aku teringat ceritanya di kedai kopi dulu: sejak ditinggal mantannya di Yogyakarta saat studionya bangkrut, Saka paling pantang mengumbar janji kepada perempuan sebelum ada kepastian resmi yang benar-benar sudah beres di tangannya.
 
 Namun karena aku sudah telanjur yakin bahwa amplop di dalam tasnya itu adalah surat kepulangan, sikap diamnya justru menjadi pembenaran atas kekhawatiranku.
 
@@ -1595,7 +1595,7 @@ Di dalam lubuk hatiku yang paling dalam, sebenarnya ada alasan bodoh kenapa aku 
 
 Satu kalimat saja darinya, aku akan menolak Dimas.
 
-Namun aku lupa cerita Saka di warung soto dulu. Saat studionya di Yogyakarta bangkrut, mantan kekasihnya meninggalkannya demi laki-laki pilihan orang tua yang dianggap lebih mapan dan sudah jelas di depan mata. Tanpa kusadari, kalimatku yang membawa-bawa restu Ibu dan hubungan masa lalu bersama Dimas barusan telah menyentuh luka lama yang paling dihindari Saka.
+Namun aku lupa cerita Saka di kedai kopi dulu. Saat studionya di Yogyakarta bangkrut, mantan kekasihnya meninggalkannya demi laki-laki pilihan orang tua yang dianggap lebih mapan dan sudah jelas di depan mata. Tanpa kusadari, kalimatku yang membawa-bawa restu Ibu dan hubungan masa lalu bersama Dimas barusan telah menyentuh luka lama yang paling dihindari Saka.
 
 Wajah Saka menegang kaku. Sorot matanya yang tadinya menatapku penuh tanda tanya perlahan meredup, tertutup rapat oleh tembok pertahanan dirinya sendiri.
 
