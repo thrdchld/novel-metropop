@@ -38,7 +38,7 @@ Pintu ruang rapat berderit pelan.
 
 Seorang pria bertubuh jangkung melangkah masuk. Dia mengenakan kemeja katun abu-abu rapi dan ransel kanvas hitam di pundak kirinya. Langkah kakinya tenang, tanpa senyum, dan matanya menyapu seisi ruangan dengan sorot lurus.
 
-Begitu dia menarik kursi di sisi kanan meja dan meletakkan sebuah botol minum hitam legam yang bagian bawahnya penyok ke atas meja rapat, nafasku tersendat seketika.
+Begitu dia menarik kursi di sisi kanan meja dan meletakkan sebuah botol minum hitam legam yang bagian bawahnya penyok ke atas meja rapat, napasku tersendat seketika.
 
 Tuhan... itu dia!
 

@@ -24,7 +24,7 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 Aku menatap matanya nanar. "Dia nunggu berjam-jam di apotek dan udah minta maaf langsung ke Ibu."
 
-Nafasku memburu. "Dia berusaha berubah dan minta kesempatan kedua sama aku."
+Napasku memburu. "Dia berusaha berubah dan minta kesempatan kedua sama aku."
 
 Saka terdiam menatapku. Suasana di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak senyap di telingaku.
 

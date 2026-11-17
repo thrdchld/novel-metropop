@@ -146,7 +146,7 @@ Pintu ruang rapat berderit pelan.
 
 Seorang pria bertubuh jangkung melangkah masuk. Dia mengenakan kemeja katun abu-abu rapi dan ransel kanvas hitam di pundak kirinya. Langkah kakinya tenang, tanpa senyum, dan matanya menyapu seisi ruangan dengan sorot lurus.
 
-Begitu dia menarik kursi di sisi kanan meja dan meletakkan sebuah botol minum hitam legam yang bagian bawahnya penyok ke atas meja rapat, nafasku tersendat seketika.
+Begitu dia menarik kursi di sisi kanan meja dan meletakkan sebuah botol minum hitam legam yang bagian bawahnya penyok ke atas meja rapat, napasku tersendat seketika.
 
 Tuhan... itu dia!
 
@@ -425,7 +425,7 @@ Dimas menatapku tajam. Rasa gengsinya jelas tercoreng karena ditolak mentah-ment
 
 Tanpa mengucap pamit, Dimas berbalik dan melangkah pergi dengan tergesa. Vanya bergegas mengekor di belakangnya.
 
-Begitu pintu kaca lorong tertutup rapat di belakang mereka, seluruh udara yang kutahan di dada mendadak terhembus keluar.
+Begitu pintu kaca lorong tertutup rapat di belakang mereka, seluruh udara yang kutahan di dada mendadak terembus keluar.
 
 Kusandarkan punggung ke kursi dan kuangkat kedua tanganku ke atas meja. Jari-jariku rupanya masih gemetar cukup keras waktu menyentuh tepi tablet gambar.
 
@@ -633,7 +633,7 @@ Empat juta rupiah. Itu hampir seluruh uang tabungan yang kukumpulkan sedikit dem
 
 Wajah Mbak Raras langsung berubah cemberut. "Tablet gambar lama kamu kan masih nyala kalau diganjal buku, Nad."
 
-Mbak Raras merengut menuntut. "Liburan Daffa kan setahun sekali, kasihan keponakan kamu udah telanjur dijanyiin naik pesawat."
+Mbak Raras merengut menuntut. "Liburan Daffa kan setahun sekali, kasihan keponakan kamu udah telanjur dijanjiin naik pesawat."
 
 Ibu yang duduk di ujung meja langsung menatapku dengan pandangan membujuk yang sudah kuhafal sejak aku duduk di bangku sekolah dasar.
 
@@ -1585,7 +1585,7 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 Aku menatap matanya nanar. "Dia nunggu berjam-jam di apotek dan udah minta maaf langsung ke Ibu."
 
-Nafasku memburu. "Dia berusaha berubah dan minta kesempatan kedua sama aku."
+Napasku memburu. "Dia berusaha berubah dan minta kesempatan kedua sama aku."
 
 Saka terdiam menatapku. Suasana di sekitar pilar lobi yang ramai oleh karyawan pulang kerja itu mendadak senyap di telingaku.
 
@@ -2067,7 +2067,7 @@ Di kubikel pemasaran sana, Dimas sudah tidak pernah lagi mondar-mandir melewati 
 
 Sementara itu, di meja nomor empat dekat jendela besar, tumpukan buku referensi baru sudah kembali menghiasi sudut meja sebelah kananku. Pak Ramdan baru saja menugaskan aku dan Saka untuk menggarap buku seri kedua yang rencananya akan membahas sudut-sudut pasar tradisional dan kedai tua di Jakarta.
 
-"Nad, sore ini lo nggak ada jadwal kemana-mana kan?"
+"Nad, sore ini lo nggak ada jadwal ke mana-mana kan?"
 
 Suara cempreng yang sangat kukenal itu muncul dari samping mejaku pada Senin sore pukul lima kurang lima menit.
 

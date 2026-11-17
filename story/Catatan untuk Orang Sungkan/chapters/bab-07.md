@@ -38,7 +38,7 @@ Dimas menatapku tajam. Rasa gengsinya jelas tercoreng karena ditolak mentah-ment
 
 Tanpa mengucap pamit, Dimas berbalik dan melangkah pergi dengan tergesa. Vanya bergegas mengekor di belakangnya.
 
-Begitu pintu kaca lorong tertutup rapat di belakang mereka, seluruh udara yang kutahan di dada mendadak terhembus keluar.
+Begitu pintu kaca lorong tertutup rapat di belakang mereka, seluruh udara yang kutahan di dada mendadak terembus keluar.
 
 Kusandarkan punggung ke kursi dan kuangkat kedua tanganku ke atas meja. Jari-jariku rupanya masih gemetar cukup keras waktu menyentuh tepi tablet gambar.
 

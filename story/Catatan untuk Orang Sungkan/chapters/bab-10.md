@@ -38,7 +38,7 @@ Empat juta rupiah. Itu hampir seluruh uang tabungan yang kukumpulkan sedikit dem
 
 Wajah Mbak Raras langsung berubah cemberut. "Tablet gambar lama kamu kan masih nyala kalau diganjal buku, Nad."
 
-Mbak Raras merengut menuntut. "Liburan Daffa kan setahun sekali, kasihan keponakan kamu udah telanjur dijanyiin naik pesawat."
+Mbak Raras merengut menuntut. "Liburan Daffa kan setahun sekali, kasihan keponakan kamu udah telanjur dijanjiin naik pesawat."
 
 Ibu yang duduk di ujung meja langsung menatapku dengan pandangan membujuk yang sudah kuhafal sejak aku duduk di bangku sekolah dasar.
 

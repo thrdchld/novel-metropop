@@ -8,7 +8,7 @@ Di kubikel pemasaran sana, Dimas sudah tidak pernah lagi mondar-mandir melewati 
 
 Sementara itu, di meja nomor empat dekat jendela besar, tumpukan buku referensi baru sudah kembali menghiasi sudut meja sebelah kananku. Pak Ramdan baru saja menugaskan aku dan Saka untuk menggarap buku seri kedua yang rencananya akan membahas sudut-sudut pasar tradisional dan kedai tua di Jakarta.
 
-"Nad, sore ini lo nggak ada jadwal kemana-mana kan?"
+"Nad, sore ini lo nggak ada jadwal ke mana-mana kan?"
 
 Suara cempreng yang sangat kukenal itu muncul dari samping mejaku pada Senin sore pukul lima kurang lima menit.
 
