@@ -49,7 +49,6 @@ Detik itu juga, seluruh darah di tubuhku rasanya berhenti mengalir.
 Aku mematung. Kepalaku perlahan terangkat ke atas dengan gerakan kaku seperti engsel pintu karatan. Di anak tangga lantai tiga menuju lantai empat yang remang-remang, seorang pria berkemeja flanel gelap sedang duduk bersila santai sambil menatapku lurus.
 
 Di tangan kanannya, ada sebuah botol minum hitam legam yang bagian bawahnya penyok sedikit.
-
 ---
 
 ## **Bab 2: Pria Berbotol Minum Penyok**
@@ -105,7 +104,6 @@ Rasa malu yang membakar membuatku tidak tahan berlama-lama lagi di tangga darura
 Bodo amat. Malam ini aku tidak peduli lagi.
 
 Aku menyambar tas selempangku dari laci, mematikan sakelar monitor dengan sekali tekan, lalu melesat kabur menuju lobi bawah sebelum aku berpapasan lagi dengan si pria berbotol penyok itu.
-
 ---
 
 ## **Bab 3: Meja Sebelah Si Raja Tega**
@@ -173,7 +171,6 @@ Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum,
 "Nggak bisa. Jadwal proyek saya sudah penuh."
 
 Riko tertegun kaku dengan mulut setengah terbuka. Dan tanpa menunggu balasan apa pun, Saka melangkah santai melewatinya menuju meja proyek nomor empat, tepat di seberang tempat dudukku.
-
 ---
 
 ## **Bab 4: Peraturan Jam Lima Sore**
@@ -1898,7 +1895,7 @@ Dan tepat di bawah gambar bayangan botol minum itu, ada sebaris tulisan tangan t
 
 Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimpulkan isi kepala orang sebelum bertanya sampai selesai.
 
-Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun suara operator hanya menjawab bahwa nomor yang kutuju sedang berada di luar jangkauan sinyal kereta.
+Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun hanya terdengar nada sambung panjang yang tidak diangkat sampai akhirnya terputus sendiri.
 
 Jemariku sempat beralih membuka ruang obrolan dan mengetik pesan permintaan maaf yang panjang lebar untuknya. Namun sebelum menekan tombol kirim, kuhapus kembali seluruh teks itu huruf demi huruf. Semua yang ingin kukatakan kepadanya harus kuucapkan langsung di depan wajahnya, bukan bersembunyi lagi di balik layar ponsel. Aku pun mengurungkan niat bertanya ke ruangan Pak Ramdan karena terlalu takut mendengar jawaban yang memastikan Saka sudah pergi untuk selamanya.
 
@@ -2040,7 +2037,7 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Waktu kamu tanya rencana saya, surat pelepasan memang belum turun," lanjut Saka pelan. "Perjalanan Selasa sore itu dari awal memang buat tanda tangan Pak Bambang dan beresin kos lama."
 
-Saka menatap mataku lekat. "Pesan Tari di kereta nggak mengubah keputusan itu, cuma bikin hati saya tenang waktu mengejar tanda tangan kemarin siang supaya bisa naik kereta pagi ke Gambir."
+Saka menatap mataku lekat. "Pesan Tari pagi itu nggak mengubah keputusan itu, cuma bikin hati saya tenang waktu mengejar tanda tangan kemarin siang supaya bisa naik kereta pagi ke Gambir."
 
 "Mulai Senin depan, meja nomor empat meja tetap saya," pungkas Saka seraya menatapku lurus.
 
