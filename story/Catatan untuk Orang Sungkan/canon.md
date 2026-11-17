@@ -69,7 +69,7 @@
 
 1. **Bunyi *Klik* Dua Kali Tutup Botol Minum Saka (*Silent Emotional Callback*):**
    - *Ditanam:* Bab 5, Bab 7, & Bab 17 (Nadia menyadari bahwa setiap kali Saka berbohong demi menutupi kebaikannya pada Nadia, jempol Saka selalu memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali).
-   - *Dibayar Tanpa Penjelasan Narator:* Bab 31 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung depan gedung kantor,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
+   - *Dibayar Tanpa Penjelasan Narator:* Bab 31 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung soto Kwitang,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
 2. **Kalimat Operator *Customer Service*:**
    - *Ditanam:* Bab 1 (Dimas memutuskan Nadia dengan ejekan bahwa Nadia terlalu lembek dan kalau bicara sopan terus seperti operator *customer service*).
    - *Dibayar:* Bab 28 (Saat Dimas merasa sudah berhasil membujuk Nadia balikan namun sifat aslinya keceplosan di depan keluarga, Nadia menolaknya dengan senyum tenang menggunakan kalimat penolakan ala operator *customer service* paling sopan namun paling telak).
