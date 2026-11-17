@@ -26,7 +26,7 @@ Suara di seberang telepon menjawab sesuatu, lalu Pak Ramdan menutup pembicaraan 
 
 Aku berdiri diam di depan celah pintu itu. Dadaku mendadak menyempit sesak.
 
-Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Dan kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
+Jadi Dimas tidak mengarang cerita. Surat tugas Saka di gedung Cikini ini memang hanya berlaku lima minggu. Aku sempat teringat tab kos tahunan Cikini dan formulir kepegawaian antar-cabang di layar laptopnya waktu itu. Namun ingatan itu langsung kutepis karena Saka sendiri sudah bilang bahwa info kos tersebut cuma buat temannya dari Jogja. Kalimat Tari kemarin pagi soal formulir di meja Mbak Sinta HRD itu ternyata memang urusan kepulangan Saka ke kantor pusatnya di Yogyakarta. Karena sekarang sudah masuk akhir minggu keempat dan buku Sela Waktu akan diluncurkan hari Jumat minggu depan, artinya waktu kami duduk bersebelahan di meja nomor empat tinggal menghitung hari.
 
 Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada Pak Ramdan dan berjalan kembali menuju meja proyek nomor empat.
 

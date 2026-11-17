@@ -68,7 +68,7 @@ Air mata yang sejak tadi kutahan akhirnya jatuh satu tetes melewati pipiku, tapi
 
 Aku menyeka pipiku cepat-cepat dengan punggung tangan, lalu menatap laki-laki berkemeja flanel di depanku ini dengan mata berbinar geli.
 
-"Katanya waktu minggu pertama dulu lebih suka suasana kerja di Jogja," kataku sambil menunjuk baris tanggal pengajuan di surat itu. "Berarti cari kos tahunan di Cikini itu gara-gara pengin duduk semeja terus sama aku ya?"
+"Katanya kos tahunan itu buat teman Jogja," kataku sambil menunjuk baris tanggal pengajuan di surat itu. "Berarti cari kos tahunan di Cikini itu gara-gara pengin duduk semeja terus sama aku ya?"
 
 Saka langsung menarik kembali surat itu dari tanganku dan memasukkannya ke dalam tas dengan wajah yang kembali dipasang lempeng tanpa ekspresi.
 
