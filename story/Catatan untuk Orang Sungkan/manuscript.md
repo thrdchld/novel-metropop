@@ -49,7 +49,6 @@ Detik itu juga, seluruh darah di tubuhku rasanya berhenti mengalir.
 Aku mematung. Kepalaku perlahan terangkat ke atas dengan gerakan kaku seperti engsel pintu karatan. Di anak tangga lantai tiga menuju lantai empat yang remang-remang, seorang pria berkemeja flanel gelap sedang duduk bersila santai sambil menatapku lurus.
 
 Di tangan kanannya, ada sebuah botol minum hitam legam yang bagian bawahnya penyok sedikit.
-
 ---
 
 ## **Bab 2: Pria Berbotol Minum Penyok**
@@ -105,7 +104,6 @@ Rasa malu yang membakar membuatku tidak tahan berlama-lama lagi di tangga darura
 Bodo amat. Malam ini aku tidak peduli lagi.
 
 Aku menyambar tas selempangku dari laci, mematikan sakelar monitor dengan sekali tekan, lalu melesat kabur menuju lobi bawah sebelum aku berpapasan lagi dengan si pria berbotol penyok itu.
-
 ---
 
 ## **Bab 3: Meja Sebelah Si Raja Tega**
@@ -173,7 +171,6 @@ Saka melirik bundel naskah tebal itu selama tepat tiga detik. Lalu tanpa senyum,
 "Nggak bisa. Jadwal proyek saya sudah penuh."
 
 Riko tertegun kaku dengan mulut setengah terbuka. Dan tanpa menunggu balasan apa pun, Saka melangkah santai melewatinya menuju meja proyek nomor empat, tepat di seberang tempat dudukku.
-
 ---
 
 ## **Bab 4: Peraturan Jam Lima Sore**
@@ -1582,7 +1579,7 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 "Mas Dimas mau nganterin puding buat Ibu di Rawamangun," jawabku pendek.
 
-"Kamu sendiri yang bilang di kedai kopi kalau urusan kalian sudah selesai," kata Saka tajam. Keningnya berkerut rapat. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
+"Kamu sendiri yang nolak dia di depan saya waktu dia minta dibuatkan backdrop," kata Saka tajam. Keningnya berkerut rapat. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
 
 "Waktu vertigo Ibu kambuh parah, Mas Dimas yang datang bantuin bawa ke klinik!" kataku dengan suara bergetar menahan emosi.
 

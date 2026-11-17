@@ -18,7 +18,7 @@ Nada suaranya yang terdengar seperti sedang menginterogasi itu langsung memantik
 
 "Mas Dimas mau nganterin puding buat Ibu di Rawamangun," jawabku pendek.
 
-"Kamu sendiri yang bilang di kedai kopi kalau urusan kalian sudah selesai," kata Saka tajam. Keningnya berkerut rapat. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
+"Kamu sendiri yang nolak dia di depan saya waktu dia minta dibuatkan backdrop," kata Saka tajam. Keningnya berkerut rapat. "Kenapa sekarang dia balik lagi ngurusin rumah kamu?"
 
 "Waktu vertigo Ibu kambuh parah, Mas Dimas yang datang bantuin bawa ke klinik!" kataku dengan suara bergetar menahan emosi.
 
