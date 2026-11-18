@@ -1,6 +1,7 @@
 # Panduan Mandiri Web Chat — Penulis & Editor Novel MetroPop Indonesia
 
 Dokumen ini digunakan saat bekerja di antarmuka Web Chat (Claude Web, ChatGPT Web, atau Gemini Web).
+Baca [engine/CORE.md](engine/CORE.md) terlebih dahulu untuk aturan bukti tertulis per tahap (G1, G2, Tahap 4), gerbang eksternal, dan peta baca.
 
 ---
 

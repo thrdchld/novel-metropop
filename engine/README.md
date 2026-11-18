@@ -15,6 +15,7 @@ Folder ini adalah panduan utama untuk merancang dan menulis web novel **MetroPop
 
 | File Pemilik | Isi & Tanggung Jawab Tunggal |
 |---|---|
+| `CORE.md` | Inti wajib baca di awal setiap sesi, bukti tertulis per tahap (G1, G2, Tahap 4), 12 cacat tersering, gerbang eksternal (`novel-editor`), & peta baca. |
 | `00-workflow.md` | Alur kerja simpel 4 tahap (Premis ABCD -> Cerita Utuh 5 Paragraf -> Outline Skenario Adegan -> Menulis Bab) & Smart-Reading. |
 | `01-genre.md` | Definisi MetroPop Indonesia (cerita harian yang *relate* dan bermakna, batasan 13+). |
 | `02-premise.md` | Rumus ABCD simpel, Filter Anti-Yes-Man (3 Uji Mati/Lanjut), & penyusunan Cerita Utuh Awal-Tengah-Akhir (4-5 paragraf). |

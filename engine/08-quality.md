@@ -69,7 +69,7 @@ Gunakan 10 uji ini untuk menilai premis, outline, maupun naskah novel yang sedan
 
 ---
 
-## 2B. Tujuh Uji Logika Mikro & Prosedur Dunia Nyata (Anti-Cacat Logika Fiksi)
+## 2B. Sepuluh Uji Logika Mikro & Prosedur Dunia Nyata (Anti-Cacat Logika Fiksi)
 
 Cacat logika mikro (prosedur dunia nyata yang salah, urutan dialog yang tumpang tindih, atau tindakan fisik yang mustahil) adalah ciri paling fatal dari *AI slop* yang membuat pembaca langsung berhenti membaca. **Setiap bab wajib lulus 7 uji logika mikro ini sebelum dikirim:**
 
