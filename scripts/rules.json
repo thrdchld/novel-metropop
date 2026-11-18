@@ -124,7 +124,7 @@
    "key": "word_range",
    "title": "Rentang kata bab",
    "doc": "AGENTS.md 4.2; engine/06-chapter.md",
-   "rule": "Setiap bab {word_min}-{word_max} kata (darurat maks {word_max_emergency} kata)."
+   "rule": "Setiap bab {word_min}-{word_max} kata (bab kunci di outline maks {word_max_emergency} kata)."
   },
   {
    "key": "plain_text",

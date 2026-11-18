@@ -5,7 +5,7 @@
 
 ## 1. Spesifikasi Wajib per Bab
 
-- **Rentang Kata:** Standar wajib **600–900 kata** (target ideal **±750 kata**; bab titik balik/klimaks target **900 kata**). **Kelonggaran Darurat (Maksimal 1.200 Kata):** Hanya jika benar-benar *urgent* (misal bab padat yang jika dipaksa dipotong ke 900 kata berpotensi memotong kejadian penting, *planting*, atau merusak logika cerita), batas atas boleh dilonggarkan hingga **maksimal 1.200 kata**. Dilarang keras di bawah 600 kata. Hitung hanya teks prosa cerita (header metadata atau komentar tidak dihitung).
+- **Rentang Kata:** Standar wajib **600–900 kata** (target ideal **±750 kata**; bab titik balik/klimaks target **900 kata**). **Bab Kunci (Maksimal 1.200 Kata):** Bab yang ditandai **"kunci"** di outline (pengungkapan latar belakang, titik balik) boleh sampai **maksimal 1.200 kata**. Dilarang keras di bawah 600 kata. Hitung hanya teks prosa cerita (header metadata atau komentar tidak dihitung).
 - **Fokus Tunggal:** Satu POV, satu adegan/kejadian utama, dan satu perubahan nyata di akhir bab.
 - **Format Judul & Teks Polos (Plain Text):** `## **Bab N: Judul**` (1–4 kata), wajib mengikuti **Prinsip Clue Inti Bab (Membangun Rasa Penasaran, Bukan Menjelaskan)**:
   1. **Dilarang Menyebut Nama Tokoh di Judul Bab:** Jangan pernah memasukkan nama karakter ke dalam judul bab (misal: jangan tulis *Perhatian Kecil Bima* atau *Kejutan Nino*).
