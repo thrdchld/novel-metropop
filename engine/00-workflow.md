@@ -22,9 +22,9 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 | Tahap | Apa yang Dikerjakan | Aturan Lulus / Buang |
 |---|---|---|
 | **Tahap 1: Premis ABCD Simpel** | Tulis 4 kalimat sederhana: **A (Tokoh)**, **B (Keseharian)**, **C (Kejadian Pemicu)**, **D (Tindakan Utama)**. | Jika pekerjaan/rutinitas di **B** atau pemicu di **C** tidak wajar dialami orang Indonesia sehari-hari -> **BUANG IDENYA, jangan dilanjut!** |
-| **Tahap 2: Cerita Utuh Awal-Tengah-Akhir (4-5 Paragraf)** | Sebelum membuat daftar bab, tulis dulu **jalan cerita utuh dari Awal, Tengah, sampai Akhir dalam 4-5 paragraf bahasa manusia biasa**. | Uji pakai akal sehat: Apakah reaksi tokoh wajar sebagai manusia? Apakah ada bagian yang dipaksakan? Jika terasa mengada-ada -> **BERHENTI & GANTI CERITA di tahap ini.** |
-| **Tahap 3: Outline Skenario Adegan (Scene Treatment)** | Setelah Cerita Utuh 4-5 paragraf disetujui, pecah menjadi daftar bab dengan format **Skenario Adegan (`03-structure.md`)**: (1) Adegan & Tokoh (+alasan fisik hadir), (2) Variasi Pembuka & Skenario Masuk, (3) Ketukan Aksi & Reaksi (1-2-3), (4) Bentuk Hook & Skenario Penutup, (5) Detail Fisik / Planting. | Kunci `outline.md` (**TERKUNCI v1.0**). Rantai kausalitas dan aksi fisik mengunci AI agar tidak melenceng atau berhalusinasi saat menulis bab. |
-| **Tahap 4: Menulis Bab (1 per 1)** | Tulis 1 bab (600-900 kata, teks polos tanpa bintang tebal/miring, 0 em dash) mengikuti `outline.md` secara lurus dengan gaya bercerita sederhana & *to the point* (`05-style.md`). Perbarui `state.md` & `ledger.md`. | **Wajib Lolos Dua Pilar Uji Kelayakan:** Pilar 1 (Uji Kelayakan Teknis via `stress-test.py`) + Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi: sebab-akibat nyata, psikologi manusiawi, anti-garing, keluwesan tutur lisan, dan irama musikalitas). |
+| **Tahap 2: Cerita Utuh Awal-Tengah-Akhir (4-5 Paragraf)** | Sebelum membuat daftar bab, tulis dulu **jalan cerita utuh dari Awal, Tengah, sampai Akhir dalam 4-5 paragraf bahasa manusia biasa**. | Susun bagian **"Bukti G1"** di atas `outline.md` sesuai `engine/CORE.md`. Lulus ditentukan gerbang eksternal **G1** (`novel-editor`) tanpa temuan HIGH/BLOCKER. Jika gagal/dipaksakan -> **BERHENTI & GANTI CERITA.** |
+| **Tahap 3: Outline Skenario Adegan (Scene Treatment)** | Setelah Cerita Utuh 4-5 paragraf disetujui, pecah menjadi daftar bab dengan format **Skenario Adegan (`03-structure.md`)**: (1) Adegan & Tokoh (+alasan fisik hadir), (2) Variasi Pembuka & Skenario Masuk, (3) Ketukan Aksi & Reaksi (1-2-3), (4) Bentuk Hook & Skenario Penutup, (5) Detail Fisik / Planting. | Susun bagian **"Bukti G2"** di `outline.md` sesuai `engine/CORE.md`. Lulus ditentukan gerbang eksternal **G2** (`novel-editor`); outline baru boleh dikunci (**TERKUNCI v1.0**) bila laporan G2 bebas HIGH/BLOCKER. |
+| **Tahap 4: Menulis Bab (1 per 1)** | Tulis 1 bab (600-900 kata, teks polos tanpa bintang tebal/miring, 0 em dash) mengikuti `outline.md` secara lurus dengan gaya bercerita sederhana & *to the point* (`05-style.md`). Perbarui `state.md` & `ledger.md`. | Tulis **"Bukti tiap bab"** di `ledger.md` sesuai `engine/CORE.md`, lulus Pilar 1 (`stress-test.py`), dan lakukan audit mandiri Pilar 2 sebagai persiapan. Lulus akhir ditentukan oleh bukti tertulis di `ledger.md` dan gerbang eksternal **G3** (`novel-editor`). |
 
 ---
 
@@ -32,12 +32,11 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 
 | Mode Kerja | File yang Dibaca |
 |---|---|
-| **Awal Sesi Baru** | `AGENTS.md`, `engine/README.md`, `engine/00-workflow.md`, cek daftar folder di `story/` |
-| **Mode A (Cari Ide / Premis ABCD & Cerita Utuh 5 Paragraf)** | `story/universe-registry.md`, `engine/01-genre.md`, `engine/02-premise.md`, `engine/11-worldbuilding.md` |
-| **Mode B (Susun Canon & Outline Skenario Adegan)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/11-worldbuilding.md`, `engine/templates/` |
-| **Mode C (Menulis Bab)** | `story/<Judul>/state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, 1 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md` |
-| **Mode D (Revisi / Evaluasi)** | `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, dan bab terkait |
-| **Mode E (Riset / Update Engine)** | `engine/sources.md`, `engine/10-evolution.md` |
+| **Awal sesi** | `AGENTS.md`, `engine/CORE.md` |
+| **Mode A (ide/premis)** | `engine/01-genre.md`, `engine/02-premise.md`, `engine/11-worldbuilding.md`, `story/universe-registry.md` |
+| **Mode B (canon dan outline)** | `engine/03-structure.md`, `engine/04-character.md`, `engine/11-worldbuilding.md`, `engine/08-quality.md` (§2, §4, §4A), `engine/templates/` |
+| **Mode C (menulis bab)** | `state.md`, `canon.md`, `outline.md` (bab aktif), `ledger.md`, 1 bab terakhir, `engine/05-style.md`, `engine/06-chapter.md`, `engine/07-continuity.md`, `engine/08-quality.md` (§2B) |
+| **Mode D (revisi)** | `engine/05-style.md`, `engine/08-quality.md`, `engine/09-revision.md`, dan bab terkait |
 
 *(Jangan pernah membaca `engine/learnings/` saat sesi kerja normal).*
 
@@ -48,15 +47,10 @@ Jangan pernah melompat langsung membuat daftar puluhan bab sebelum jalan cerita 
 Setiap selesai menulis satu bab ke `story/<Judul>/chapters/bab-NN.md`:
 1. **Tampilkan teks bab** (`## Bab N: Judul`, 600-900 kata, teks polos, 0 em dash, 0 quote pembuka).
 2. **Catatan kontinuitas singkat (3-5 baris):** waktu/lokasi, kejadian baru, dan benih *planting/callback* yang ditanam atau dibayar.
-3. **Perbarui `state.md` & `ledger.md`**, lalu **WAJIB** jalankan **Dua Pilar Uji Kelayakan**:
+3. **Perbarui `state.md` & `ledger.md`**, lalu **WAJIB** jalankan langkah persiapan dan verifikasi berikut:
    - **Pilar 1 (Uji Kelayakan Teknis):**
      `python3 scripts/stress-test.py "story/<Judul>"`
      *(Skrip ini otomatis menguji 22 pemeriksaan teknis: 8 sinkronisasi aset + 14 aturan format prosa polos, batas dialog, 0 em dash, dan header). Wajib berstatus `[LULUS]` (0 pelanggaran). Gunakan `--fix` untuk sinkronisasi otomatis aset turunan.*
-   - **Pilar 2 (Uji Kelayakan Baca / Finishing Manusiawi):**
-     AI wajib melakukan audit pemolesan mandiri berfokus 100% pada kelayakan baca sebelum menyetorkan bab:
-     a. *Sebab-Akibat Nyata:* Alasan keberadaan & tindakan tokoh masuk akal di dunia nyata.
-     b. *Psikologi Manusiawi:* Emosi & reaksi tokoh jujur sesuai kondisi psikologisnya.
-     c. *Anti-Garing & Konteks:* Buang celetukan yang hanya "pengin melucu" tapi merusak suasana atau analogi aneh.
-     d. *Kewajaran Tutur Lisan:* Dialog mengalir santai & luwes seperti manusia Jakarta asli.
-     e. *Musikalitas & Irama Prosa:* Kalimat memiliki variasi panjang-pendek yang enak didengar.
-   AI dilarang mengirim hasil atau melakukan commit jika salah satu pilar belum lulus 100%.
+   - **Pilar 2 (Persiapan Kelayakan Baca / Finishing Manusiawi):**
+     Audit mandiri berdasarkan 5 filter di `engine/08-quality.md` §1B (sebab-akibat nyata, psikologi manusiawi, anti-garing, kewajaran tutur lisan, dan musikalitas irama prosa) tetap dilakukan sebagai persiapan sebelum menyetorkan bab, **tetapi bukan penentu lulus**. Yang menentukan kelulusan adalah **bukti tertulis per bab di `ledger.md`** (sesuai `engine/CORE.md`) serta laporan gerbang eksternal **G3** (`novel-editor`, tiap 10 bab dan saat tamat, tanpa temuan HIGH/BLOCKER).
+   AI dilarang mengirim hasil, mengklaim bab lulus, atau menyatakan tamat jika Pilar 1 belum lulus 100%, bukti tertulis di `ledger.md` belum lengkap, atau laporan G3 terakhir masih memuat temuan HIGH/BLOCKER.
