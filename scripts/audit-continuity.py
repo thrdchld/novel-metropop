@@ -35,6 +35,100 @@ INTRO_PATTERNS = [
 MONEY_RE = re.compile(r"(?:Rp\s?[\d.,]+(?:\s?(?:juta|ribu))?|\b(?:[a-z]+(?: [a-z]+)?) (?:juta|ribu) rupiah)", re.I)
 
 
+def check_backward_references(ledger_path: Path, chapter_texts: dict[int, str]) -> int:
+    """Memvalidasi tabel 'Rujukan Mundur' di ledger.md terhadap bab penanaman."""
+    issues = 0
+    if not ledger_path.is_file():
+        print("   [WARN] Rujukan Mundur: tabel tidak ada (ledger.md tidak ditemukan).")
+        return 0
+
+    lines = ledger_path.read_text(encoding="utf-8", errors="ignore").splitlines()
+    heading_re = re.compile(r"^#{1,6}\s+(?:[A-Za-z0-9.]+\s+)?Rujukan\s+Mundur\b", re.I)
+
+    section_lines: list[str] = []
+    in_section = False
+    for ln in lines:
+        if heading_re.match(ln.strip()):
+            in_section = True
+            continue
+        if in_section:
+            if re.match(r"^#{1,6}\s+", ln.strip()):
+                break
+            section_lines.append(ln)
+
+    table_lines = [ln.strip() for ln in section_lines if ln.strip().startswith("|")]
+    if len(table_lines) < 2:
+        print("   [WARN] Rujukan Mundur: tabel tidak ada di ledger.md.")
+        return 0
+
+    sep_re = re.compile(r"^\|\s*:?-{2,}:?\s*\|")
+    data_rows: list[list[str]] = []
+    header_seen = False
+    for ln in table_lines:
+        if sep_re.match(ln):
+            continue
+        cols = [c.strip() for c in ln.strip().strip("|").split("|")]
+        if not header_seen:
+            header_seen = True
+            continue
+        if len(cols) < 4:
+            print(f"   [FAIL] Rujukan Mundur: baris tabel kurang dari 4 kolom: {ln}")
+            issues += 1
+            continue
+        if all(c in ("...", "-", "") for c in cols[:4]):
+            continue
+        data_rows.append(cols[:4])
+
+    if not data_rows:
+        print("   [OK] Tabel Rujukan Mundur ditemukan (belum ada baris data).")
+        return issues
+
+    for fakta, use_col, plant_col, quote_col in data_rows:
+        m_use = re.search(r"\d+", use_col)
+        m_plant = re.search(r"\d+", plant_col)
+        if not m_use or not m_plant:
+            print(f"   [FAIL] Rujukan '{fakta}': nomor bab pemakaian ('{use_col}') atau penanaman ('{plant_col}') tidak valid!")
+            issues += 1
+            continue
+
+        use_bab = int(m_use.group(0))
+        plant_bab = int(m_plant.group(0))
+        row_ok = True
+
+        if plant_bab >= use_bab:
+            print(f"   [FAIL] Rujukan '{fakta}': bab penanaman ({plant_bab}) >= bab pemakaian ({use_bab})!")
+            issues += 1
+            row_ok = False
+
+        if plant_bab not in chapter_texts:
+            print(f"   [FAIL] Rujukan '{fakta}': file bab penanaman (bab-{plant_bab:02d}.md) tidak ada!")
+            issues += 1
+            row_ok = False
+
+        if use_bab not in chapter_texts:
+            print(f"   [FAIL] Rujukan '{fakta}': file bab pemakaian (bab-{use_bab:02d}.md) tidak ada!")
+            issues += 1
+            row_ok = False
+
+        quote_clean = quote_col.strip().strip('"`\'“”‘’')
+        quote_norm = re.sub(r"\s+", " ", quote_clean).strip().lower()
+        if not quote_norm or quote_norm in ("...", "-"):
+            print(f"   [FAIL] Rujukan '{fakta}': kutipan penanda kosong!")
+            issues += 1
+            row_ok = False
+        elif plant_bab in chapter_texts:
+            plant_norm = re.sub(r"\s+", " ", chapter_texts[plant_bab]).lower()
+            if quote_norm not in plant_norm:
+                print(f"   [FAIL] Rujukan '{fakta}': kutipan penanda '{quote_clean}' tidak ditemukan di Bab {plant_bab:02d}!")
+                issues += 1
+                row_ok = False
+
+        if row_ok:
+            print(f"   [OK] Rujukan '{fakta}': Bab {plant_bab:02d} -> Bab {use_bab:02d} (kutipan valid).")
+
+    return issues
+
+
 def load(story: Path) -> list[tuple[int, list[str]]]:
     chapters = story / "chapters" if (story / "chapters").is_dir() else story
     out = []
@@ -208,6 +302,14 @@ def audit_story(story_dir: Path) -> int:
             if "cium tangan ibu" in text or "rian mencium tangan ibu" in text or "rian duduk di ruang tengah" in text:
                 print(f"   [FAIL] Bab 20: Pelanggaran milestone Rian bertemu Ibu sebelum Bab 23!")
                 issues += 1
+
+    # 6. Verifikasi Tabel Rujukan Mundur (vs ledger.md)
+    print()
+    print("=" * 70)
+    print("6. VERIFIKASI RUJUKAN MUNDUR (vs ledger.md)")
+    print("=" * 70)
+    chapter_texts = {n: "\n".join(lines) for n, lines in chapters}
+    issues += check_backward_references(ledger_path, chapter_texts)
 
     if issues == 0:
         print("   [PASS] Seluruh pengecekan kontinuitas otomatis BERSIH (0 isu).")
