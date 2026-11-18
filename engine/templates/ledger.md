@@ -60,3 +60,17 @@
 | Versi | Tanggal | Perubahan | Alasan | Bab terdampak |
 |---|---|---|---|---|
 | 0.1 | ... | Outline awal | - | - |
+
+## Rujukan Mundur
+
+| Fakta | Dipakai di bab | Ditanam di bab | Kutipan penanda |
+|---|---|---|---|
+| ... | ... | ... | ... |
+
+## Bukti bab
+
+### Bab 1
+- **Hari, jam, lokasi:** ... (sumber waktu dari bab sebelumnya: ...)
+- **Rujukan mundur:** fakta | ditanam di bab N | kutipan penanda
+- **Informasi baru:** siapa tahu apa | dari mana (lihat/dengar/baca)
+- **Uji mikro yang tersentuh (`engine/08 §2B`):** ...

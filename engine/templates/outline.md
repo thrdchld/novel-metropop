@@ -7,6 +7,52 @@
 
 ---
 
+## Bukti G1
+
+### Titik Balik (minimal 6 untuk 30 bab, 8 untuk 40 bab)
+1. Karena [A], [tokoh] memilih [Y]. Jalan pintas: [Z]. Kenapa Z tertutup: [salah satu dari 7 cara sah di engine/08 §4A.3, konkret].
+
+### Proses Dunia Nyata yang Dipakai
+| Proses | Durasi atau urutan nyata | URL sumber |
+|---|---|---|
+| ... | ... | ... |
+
+### Tiga Uji Mati/Lanjut (`engine/02 §2`)
+- **Uji Kehidupan Nyata:** ...
+- **Uji Reaksi Manusia Waras:** ...
+- **Uji Tanpa Kebetulan Berlapis:** ...
+
+---
+
+## Bukti G2
+
+### Kalender
+| Bab | Hari & Minggu | Jarak waktu antarperistiwa |
+|---|---|---|
+| 1 | ... | ... |
+
+### Peta Pengetahuan
+| Informasi/rahasia | Siapa tahu sejak bab berapa | Siapa tidak boleh tahu sampai bab berapa | Saluran (lihat/dengar/baca) |
+|---|---|---|---|
+| ... | ... | ... | ... |
+
+### Jejak Mundur dari Klimaks (`engine/08 §4A.1`)
+| Tiap syarat klimaks | Ditanam di bab mana (minimal 2 kali) |
+|---|---|
+| ... | ... |
+
+### Rujukan Mundur
+| Fakta masa lalu yang dipakai sebagai pemicu | Bab penanaman (harus lebih kecil dari bab pemakaian) |
+|---|---|
+| ... | ... |
+
+### Simulasi Tiga Peran (`engine/08 §4`)
+- **Pembaca awam yang curiga:** ...
+- **Antagonis yang cerdas:** ...
+- **Protagonis yang berpikir logis:** ...
+
+---
+
 ## 1. Premis ABCD Simpel
 
 - **A (Character / Tokoh):** ...
@@ -38,6 +84,7 @@
 ## 4. Rincian per Bab (Format Skenario Adegan / Scene Treatment)
 
 ### Bab 1: <Judul 2-5 kata>
+- **Hari/Minggu:** <Hari ..., Minggu ...>
 - **Adegan & Tokoh:** <Hari, jam, lokasi fisik spesifik + alasan fisik konkret kenapa tokoh ada di tempat> | Tokoh hadir: <Daftar tokoh>
 - **Variasi Pembuka:** <Aksi Fisik / Dialog Langsung / Sensori Lingkungan / Reaksi Benda / Pikiran Tajam>
 - **Skenario Masuk (Opening Beat):** <Aksi fisik nyata saat adegan dimulai>
@@ -48,8 +95,10 @@
 - **Bentuk Hook Penutup:** <Pertanyaan Menggantung / Pernyataan Retoris / Interupsi Tiba-Tiba / Keputusan Sunyi / Planting Tanda Tanya>
 - **Skenario Penutup (Ending Beat):** <Kalimat/tindakan terakhir pengunci rasa penasaran>
 - **Detail Fisik & Planting-Callback:** <Benda konkret atau gestur manusiawi>
+- **Rujukan mundur:** [fakta] -> ditanam di bab N
 
 ### Bab 2: <Judul 2-5 kata>
+- **Hari/Minggu:** <Hari ..., Minggu ...>
 - **Adegan & Tokoh:** <Hari, jam, lokasi fisik spesifik + alasan fisik konkret kenapa tokoh ada di tempat> | Tokoh hadir: <Daftar tokoh>
 - **Variasi Pembuka:** <Aksi Fisik / Dialog Langsung / Sensori Lingkungan / Reaksi Benda / Pikiran Tajam>
 - **Skenario Masuk (Opening Beat):** <Aksi fisik nyata saat adegan dimulai>
@@ -60,5 +109,6 @@
 - **Bentuk Hook Penutup:** <Pertanyaan Menggantung / Pernyataan Retoris / Interupsi Tiba-Tiba / Keputusan Sunyi / Planting Tanda Tanya>
 - **Skenario Penutup (Ending Beat):** <Kalimat/tindakan terakhir pengunci rasa penasaran>
 - **Detail Fisik & Planting-Callback:** <Benda konkret atau gestur manusiawi>
+- **Rujukan mundur:** [fakta] -> ditanam di bab N
 
 *(Lanjutkan sampai bab terakhir)*
