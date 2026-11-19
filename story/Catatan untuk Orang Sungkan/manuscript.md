@@ -229,7 +229,7 @@ Aku menelan ludah, menatap Saka yang bergeming di samping kursinya, lalu menatap
 
 Mbak Dinda mendengus kesal, menarik kembali flash disk-nya dengan gerakan menyentak. "Ya udah deh, besok pagi aja gue urus sendiri. Permisi."
 
-Begitu Mbak Dinda berbalik dan melangkah cepat menjauh, napas panjang yang sedari tadi kutahan akhirnya keluar. Tanganku terasa dingin sewaktu mematikan monitor dan memasukkan buku sketsa ke ransel.
+Begitu Mbak Dinda berbalik dan melangkah cepat menjauh, napas panjang yang sedari tadi kutahan akhirnya keluar. Tanganku terasa dingin sewaktu mematikan monitor dan memasukkan buku sketsa ke tas selempangku.
 
 Lima menit kemudian, untuk kali pertama dalam sebulan terakhir, aku melangkah keluar dari lobi gedung Aksara Senja saat langit Cikini masih bermandikan cahaya sore.
 
