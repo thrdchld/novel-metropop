@@ -30,18 +30,12 @@ Aku bahkan tidak ingat bagaimana caranya aku menyerahkan map kuning itu kepada P
 
 Kursi kerja Saka di sebelahku masih kosong karena orangnya belum naik dari lantai dua.
 
-Saat aku duduk di kursiku dan meletakkan map kosong ke atas meja, pandanganku tanpa sengaja tertuju pada tumpukan buku referensi di dekat laptop Saka yang sedang menyala dalam mode istirahat.
-
-Terselip di bawah buku catatan hitam milik Saka, ada sepucuk amplop cokelat panjang resmi yang sebagian ujungnya menyembul keluar. Di sudut kiri atas amplop itu, tercetak jelas logo Penerbit Aksara Senja Cabang Yogyakarta, dengan perihal surat yang separuh tertutup buku: Verifikasi Masa Tugas dan Pelepasan Pegawai.
+Dua menit kemudian, suara langkah kaki yang tenang terdengar mendekat dari arah pintu kaca lantai tiga. Saka kembali dari lantai dua membawa amplop cokelat panjang resmi berlogo Cabang Yogyakarta dari bagian personalia bersama selembar surat di tangannya. Tanpa menyinggung amplop itu, dia memasukkannya ke dalam ransel kanvas hitamnya dengan gerakan cepat. Namun sepersekian detik sebelum tertutup telapak tangannya, judul Verifikasi Masa Tugas dan Pelepasan Pegawai sudah sempat terlihat olehku di kepala surat.
 
 Dadaku mendadak terasa nyeri dan perih.
 
-Tanganku meraih pensil gambar dari tempat pensil. Ujung karet penghapusnya yang sudah lama tidak kugigit kini kuangkat ke dekat bibir.
+Tanganku meraih pensil gambar dari tempat pensil. Ujung karet penghapusnya yang sudah lama tidak kugigit kini kuangkat ke dekat bibir, lalu buru-buru kuturunkan ke atas meja sebelum Saka yang duduk di kursinya menoleh.
 
 Hanya karena Saka membelikanku es jeruk, memberiku cokelat saat tanganku gemetar, dan memayungiku sepanjang Cikini, aku sudah terlalu cepat melambung tinggi. Padahal dari awal sampai hari ini, Saka tidak pernah sekali pun mengucapkan kata suka atau mengajakku membicarakan hubungan di luar meja nomor empat.
 
 Jangan-jangan, bagi laki-laki yang paling taat aturan jam kerja itu, semua perhatian kecilnya selama ini hanyalah bentuk tanggung jawab seorang editor proyek agar ilustratornya tidak mogok kerja sebelum bukunya terbit? Dan begitu jam lima sore di hari terakhir proyek nanti tiba, dia akan menutup laptopnya, lalu pulang ke kotanya tanpa menoleh lagi.
-
-Suara langkah kaki yang tenang terdengar mendekat dari arah pintu kaca lobi lantai tiga.
-
-Aku buru-buru menurunkan pensil dari depan mulutku tepat saat Saka tiba di meja kami dan menarik kursinya.

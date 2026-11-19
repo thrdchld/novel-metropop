@@ -44,7 +44,7 @@ Dia menatapku lagi dengan sorot bersalah. "Saya pantang menahan orang pakai janj
 
 Aku menatapnya bingung. "Surat keputusan apa maksudnya, Mas?"
 
-Saka membungkuk sedikit, membuka ritsleting depan ransel besar di dekat kakinya, lalu mengeluarkan sepucuk amplop cokelat panjang berlogo Cabang Yogyakarta. Itu amplop yang sama persis dengan yang kulihat di bawah buku catatannya hari Jumat minggu lalu.
+Saka membungkuk sedikit, membuka ritsleting depan ransel besar di dekat kakinya, lalu mengeluarkan sepucuk amplop cokelat panjang berlogo Cabang Yogyakarta. Itu amplop yang sama persis dengan yang kulihat Jumat minggu lalu saat dimasukkannya ke ransel.
 
 Dia menyerahkan lembar kertas resmi di dalam amplop itu ke tanganku.
 
