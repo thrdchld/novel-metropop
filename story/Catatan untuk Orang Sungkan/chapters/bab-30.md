@@ -30,25 +30,27 @@ Aku menatap Ibu di barisan depan. "Saya nggak pernah berani bilang enggak, bahka
 
 Di barisan depan, Tari tersenyum sambil mengacungkan jempolnya, sementara Ibu menatapku dengan mata berkaca-kaca yang hangat.
 
-"Lalu Pak Ramdan memindahkan saya duduk semeja dengan editor buku ini, yang baru datang dari cabang Yogyakarta," lanjutku sambil tersenyum kecil mengingat hari pertama kami. "Orangnya galak, kaku, dan kalau jam lima sore langsung menutup laptopnya karena merasa sudah warga sipil."
+Di tengah cerita, mataku sempat melirik kartu catatan di tangan, tapi mendadak aku kehilangan alur poin berikutnya. Aku melipat kartu itu begitu saja di pangkuan dan memilih terus bicara tanpa catatan.
+
+"Lalu Pak Ramdan mindahin saya semeja sama editor buku ini dari cabang Yogyakarta," lanjutku lebih lepas. "Orangnya kaku banget, apalagi kalau udah jadi warga sipil jam lima lewat satu menit, laptopnya langsung tutup." Aku tertawa kecil sambil melirik ke arah Tari di barisan depan.
 
 Pengunjung tertawa hangat. Pak Ramdan di sebelahku pun ikut terkekeh.
 
-"Dari rekan kaku itulah saya belajar satu hal penting," kataku seraya tersenyum ke arah penonton. "Bilang enggak pada hal yang merugikan kita nggak bakal bikin langit runtuh."
+"Gara-gara dia juga saya akhirnya belajar satu hal," kataku seraya tersenyum ke arah penonton. "Bilang enggak pada hal yang merugikan diri sendiri nggak bakal bikin langit runtuh."
 
 Aku melirik Pak Ramdan di sampingku. "Dia orang pertama yang membela arsiran kasar gambar saya dalam rapat."
 
-Suaraku bergema lembut. "Dia mengajari saya bahwa menghargai karya sendiri sama pentingnya dengan menghargai waktu orang lain."
+Aku tersenyum tipis. "Dari dia saya belajar, karya sendiri itu layak dibela, nggak melulu harus ngalah demi enaknya orang lain."
 
 Ruangan aula menjadi hening, menyimak setiap kata yang kuucapkan dengan senyum hangat.
 
 Aku menarik napas pelan, menatap kursi sofa kosong di sebelah kananku.
 
-"Gambar kursi kosong itu tadinya saya buat karena mengira meja nomor empat bakal sepi," tutupku jujur seraya tersenyum tipis.
+"Gambar kursi kosong itu tadinya saya buat karena mengira..." Suaraku sempat tercekat. Aku berhenti sebentar sambil berdeham pelan, lalu tersenyum tipis. "...mengira meja nomor empat bakal sepi lagi."
 
-Aku menatap deretan kursi pengunjung. "Lewat buku ini, saya mengucapkan terima kasih untuk sang editor pemilik botol minum hitam."
+Aku menatap deretan kursi pengunjung. "Lewat buku ini, saya cuma mau bilang terima kasih buat pemilik botol minum hitam itu."
 
-Kutundukkan kepalaku sedikit. "Terima kasih sudah menjadi rekan kerja terbaik yang pernah duduk di sebelah saya."
+Kutundukkan kepalaku sedikit. "Terima kasih sudah jadi rekan kerja terbaik yang pernah duduk di sebelah saya."
 
 Tepuk tangan hangat langsung memenuhi ruangan aula begitu aku menurunkan mikrofon dari depan bibirku.
 
