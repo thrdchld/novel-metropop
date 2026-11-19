@@ -44,7 +44,7 @@ Tangan Saka yang sedang menarik sebuah buku kumpulan foto Jakarta tempo dulu ber
 
 Dia menunjuk kertas sketsaku. "Arsiran kasar bayangan gedung ini justru bikin gambarnya hidup. Jangan diubah jadi licin kayak brosur perumahan. Pertahankan gayamu sendiri."
 
-Dadaku menghangat mendengar kalimat itu. Selama dua tahun di kantor, setiap kali aku menunjukkan sketsa pribadi ke Dimas, selalu ada saja yang disuruh ubah supaya mirip tren desain orang lain. Baru kali ini ada orang yang menyuruhku mempertahankan goresan tanganku sendiri.
+Aku menatap lagi halaman buku sketsaku sambil mengangguk pelan. Lega rasanya akhirnya ada yang menghargai goresan tanganku sendiri.
 
 Saka mengambil buku tebal bersampul kain beludru pudar dari rak bawah. Debu tipis mengepul dari punggung buku itu.
 
