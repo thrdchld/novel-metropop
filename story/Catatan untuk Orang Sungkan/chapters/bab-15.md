@@ -14,9 +14,9 @@ Aku melirik ke arah kursi sebelahku. Saka tetap duduk bersandar dengan tenang, j
 
 Dimas menegakkan duduknya, merapikan kerah kemejanya, lalu menunjuk layar proyektor dengan bolpoin. "Dari kacamata penjualan toko buku, kami khawatir warna redup begini kurang menarik pembeli muda."
 
-Dia berdeham sejenak sebelum menambahkan komentarnya. "Tren sekarang kan ilustrasi vektor cerah. Sayang kalau naskah bagus dari cabang Jogja sampulnya kelihatan murahan."
+Dia berdeham sejenak sebelum menambahkan komentarnya. "Tren sekarang kan vektor cerah. Sayang kalau naskah bagus cabang Jogja sampulnya kurang punya nilai jual di rak depan."
 
-Kata murahan itu diucapkannya sambil melirik sekilas ke arahku.
+Sindiran soal nilai jual itu diucapkannya sambil melirik sekilas ke arahku.
 
 Di bawah meja, tanganku otomatis menekan tepi buku catatan. Dulu waktu kami masih berpacaran, setiap kali ada rapat gabungan dan ide desainku dikritik orang lain, Dimas tidak pernah sekali pun membela karyaku. Dia malah sering ikut menyuruhku mengalah supaya rapat cepat selesai. Sekarang, hanya karena egonya terluka melihatku tidak lagi menurut padanya, dia tega menjatuhkan hasil kerjaku selama dua minggu di depan kepala redaksi.
 
