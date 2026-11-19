@@ -725,7 +725,7 @@ Di seberang meja, Saka tidak langsung menjawab dengan kalimat ledekan pedas sepe
 
 Hujan deras di luar kedai kopi mulai mereda menjadi rintik sedang saat cangkir teh hangat kami tinggal setengah. Dari balik kaca jendela, tempias air masih membasahi aspal trotoar Cikini yang lengang.
 
-Aku tadinya mengira Saka akan langsung menceramahiku dengan kalimat singkat yang pedas seperti waktu dia menyuruhku menyingkirkan map titipan teman-teman kantor dari meja nomor empat. Biasanya editor asal Jogja ini tidak pernah menyisakan ruang untuk basa-basi atau penghiburan manis. Namun sore ini, nada bicara dan gerak-geriknya jauh lebih tenang dari hari-hari sebelumnya saat kami bekerja di meja nomor empat.
+Aku tadinya mengira Saka akan langsung menceramahiku dengan kalimat singkat yang pedas seperti waktu dia menyuruhku menyingkirkan map titipan teman-teman kantor dari meja nomor empat. Biasanya editor asal Jogja ini tidak pernah menyisakan ruang untuk basa-basi atau penghiburan manis. Namun sore ini, nada bicara dan gerak-geriknya jauh lebih tenang dari hari-hari sebelumnya saat kami bekerja di meja kami.
 
 Namun Saka justru meraih botol minum hitamnya yang tergeletak di pinggir meja, lalu memutar bagian bawahnya yang penyok sedikit ke arahku.
 
