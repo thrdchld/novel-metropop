@@ -58,7 +58,7 @@ Gambarnya bagus. Jangan dihapus dari cetakan. Tapi lain kali jangan suka menyimp
 
 Setetes air mataku jatuh tepat di atas pinggiran kertas halaman itu. Aku buru-buru merogoh ponsel dari dalam tasku dan menekan nomor telepon Saka, namun hanya terdengar nada sambung panjang yang tidak diangkat sampai akhirnya terputus sendiri.
 
-Jemariku sempat beralih membuka ruang obrolan dan mengetik pesan permintaan maaf yang panjang lebar untuknya. Namun sebelum menekan tombol kirim, kuhapus kembali seluruh teks itu huruf demi huruf. Semua yang ingin kukatakan kepadanya harus kuucapkan langsung di depan wajahnya, bukan bersembunyi lagi di balik layar ponsel. Aku pun mengurungkan niat bertanya ke ruangan Pak Ramdan karena terlalu takut mendengar jawaban yang memastikan Saka sudah pergi untuk selamanya.
+Jemariku sempat beralih membuka ruang obrolan dan mengetik pesan permintaan maaf yang panjang lebar untuknya. Namun sebelum menekan tombol kirim, kuhapus kembali seluruh teks itu huruf demi huruf. Semua yang ingin kukatakan kepadanya harus kuucapkan langsung di depan wajahnya, bukan bersembunyi lagi di balik layar ponsel. Aku pun mengurungkan niat bertanya ke ruangan Pak Ramdan, karena kepastian tentang dirinya ingin kudengar langsung dari Saka sendiri, bukan dari orang lain.
 
 Tadi malam, setelah pulang dari Rawamangun, aku sempat mengirim pesan kepada Tari. Kuceritakan bahwa aku menolak Dimas di depan Ibu dan tidak akan kembali kepadanya.
 
