@@ -1723,11 +1723,11 @@ Namun tepat di detik aku hendak membuka mulut, seorang pelayan rumah makan datan
 
 "Oh, maaf, Mbak, tadi catatannya ketukar sama meja sebelah. Saya ganti sekarang ya," kata pelayan muda itu agak gugup sambil mengangkat kembali gelas es jeruk tersebut.
 
-Begitu petugas rumah makan itu berbalik pergi, Dimas tiba-tiba terkekeh geli sambil menyandarkan punggungnya ke kursi dengan gaya santai yang sangat kuhafal. Merasa bahwa di detik itu aku sudah resmi kembali ke dalam genggamannya dan Ibu sudah berada di pihaknya, topeng merendah yang dipakainya sejak hari Rabu lalu mulai melorot tanpa ia sadari.
+Begitu petugas rumah makan itu berbalik pergi, Dimas tersenyum tipis sambil menyandarkan punggungnya ke kursi dengan gaya santai yang sangat kuhafal. Merasa bahwa di detik itu aku sudah resmi kembali ke dalam genggamannya dan Ibu sudah berada di pihaknya, topeng merendah yang dipakainya sejak hari Rabu lalu mulai melorot tanpa ia sadari.
 
-"Tuh kan, Bu, lihat deh Nadia," kata Dimas kepada Ibu seraya terkekeh. "Sama orang salah antar minum aja ngomongnya masih kaku begitu."
+"Nadia tuh masih suka terlalu sungkan sama orang baru, Bu," kata Dimas kepada Ibu dengan senyum maklum.
 
-Dimas melirikku santai. "Untung udah balik sama saya lagi, jadi ada yang ngarahin."
+Dimas melirikku tenang. "Untung sekarang udah balik sama saya lagi, jadi ke depan bisa saya bantu arahin."
 
 Gerakan kepalaku yang tadinya hampir mengangguk langsung berhenti di tengah jalan.
 
@@ -1741,13 +1741,13 @@ Dia menatapku santai. "Kamu temani aku ke sana ya? Sekalian kukenalkan sama istr
 
 Aku menoleh cepat menatap Dimas. "Jumat sore jam empat?" tanyaku kaget. "Itu jadwal peluncuran buku Sela Waktu di Cikini. Aku harus duduk di panggung bareng Mas Saka."
 
-Dimas mengibaskan tangan kirinya di udara dengan enteng, seolah peluncuran buku yang kukerjakan sebulan penuh itu sama sekali tidak penting.
+Dimas mengibaskan tangan kirinya pelan sambil tersenyum sabar, memandang peluncuran buku yang kukerjakan sebulan penuh itu bukan hal yang mendesak.
 
-"Buku esai kecil gitu biar diurus editor Jogja itu sendiri aja di panggung," kata Dimas enteng.
+"Buku esai gitu kan urusan editornya saja di panggung, Nad," bujuk Dimas dengan nada manis.
 
-Dia menoleh ke arah Ibu. "Lagian Nadia kan dari dulu gugup kalau ngomong depan orang banyak."
+Dia menoleh ke arah Ibu. "Kamu cuma bantu gambar, nggak usah repot ikut tampil demi acara kecil begitu."
 
-Dimas mengunyah nasinya. "Lebih penting nemenin saya ke acara bos pemasaran buat karier saya."
+Dimas mengunyah nasinya lalu menatapku. "Demi kebaikan bersama, lebih penting kamu temani saya ke acara bos pemasaran buat masa depan kita."
 
 Dia tersenyum percaya diri. "Soal izin ke Pak Ramdan, besok kamu izin sendiri aja bilang ada urusan keluarga."
 
@@ -1759,7 +1759,7 @@ Detik itu juga, seluruh keraguan yang membebani kepalaku selama tiga hari terakh
 
 Tari benar.
 
-Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Mungkin rasa menyesalnya waktu kesepian di dapur kantor atau bantuannya mengantar ibuku ke klinik hari Sabtu lalu memang ada benarnya, tetapi semua itu tidak mengubah cara pandangnya terhadapku. Di matanya, yang dia rindukan bukanlah aku sebagai pasangan yang setara, melainkan pelayan sabar yang selalu rela mengorbankan impiannya sendiri demi menuruti kemauannya.
+Laki-laki di sebelahku ini sama sekali tidak pernah berubah. Mungkin rasa menyesalnya waktu kesepian di dapur kantor atau bantuannya mengantar ibuku ke klinik hari Sabtu lalu memang ada benarnya, tetapi semua itu tidak mengubah cara pandangnya terhadapku. Di matanya, yang dia rindukan bukanlah aku sebagai pasangan yang setara, melainkan pasangan penurut yang selalu rela mengorbankan pekerjaannya sendiri demi keinginannya.
 
 Dan aku, karena takut ditinggal Saka pulang ke Yogyakarta, hampir saja menyerahkan kembali harga diriku dan mengorbankan panggung buku Sela Waktu yang telah diperjuangkan Saka mati-matian untukku di ruang rapat.
 
