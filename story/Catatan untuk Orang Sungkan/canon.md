@@ -19,10 +19,10 @@
 
 ## 2. Premis ABCD & Inti Emosi
 
-- **A (Character):** **Nadia Putri** (26 tahun), seorang desainer grafis di kantor penerbitan buku yang mengidap penyakit "nggak enakan" kronis dan selalu mengiyakan permintaan semua orang sampai baru saja diputuskan pacarnya karena dianggap terlalu lembek.
+- **A (Character):** **Nadia Putri** (26 tahun), seorang desainer grafis di kantor penerbitan buku yang mengidap penyakit "nggak enakan" kronis dan selalu mengiyakan permintaan semua orang sampai baru saja diputuskan pacarnya karena dianggap terlalu penurut.
 - **B (Routine):** Setiap hari Nadia bekerja sambil menelan rasa canggung karena harus terus berpapasan dengan mantannya yang satu kantor, sembari tetap menjadi tempat limpahan kerjaan teman-temannya karena tidak pernah berani menolak.
 - **C (Inciting Incident):** Nadia dipindahkan duduk semeja untuk menggarap proyek buku baru bersama **Saka Wijaya** (28 tahun), editor naskah pindahan dari Yogyakarta yang terkenal paling blak-blakan, paling tega menolak permintaan orang, dan paling anti basa-basi.
-- **D (Action):** Terjebak bekerja berdua setiap hari dengan Saka yang gemas melihat sifat lembeknya, Nadia mulai belajar berani berkata "tidak" pada orang-orang yang memanfaatkannya, sembari perlahan jatuh hati pada pria kaku yang mengajarinya menghargai diri sendiri itu.
+- **D (Action):** Terjebak bekerja berdua setiap hari dengan Saka yang gemas melihat sifat nggak enakannya, Nadia mulai belajar berani berkata "tidak" pada orang-orang yang memanfaatkannya, sembari perlahan jatuh hati pada pria kaku yang mengajarinya menghargai diri sendiri itu.
 - **Tema / Makna Cerita:** Menjadi orang baik bukan berarti harus membiarkan diri sendiri diinjak semua orang; berkata "tidak" pada hal yang menyakiti diri sendiri adalah langkah pertama untuk berkata "iya" pada kebahagiaan yang tulus.
 
 ---
@@ -71,7 +71,7 @@
    - *Ditanam:* Bab 5, Bab 7, & Bab 17 (Nadia menyadari bahwa setiap kali Saka berbohong demi menutupi kebaikannya pada Nadia, jempol Saka selalu memutar tutup botol minum hitamnya sampai bunyi *klik* dua kali).
    - *Dibayar Tanpa Penjelasan Narator:* Bab 31 (Saat Nadia bertanya apakah Saka pindah tetap ke Jakarta demi dirinya, Saka menjawab datar, *"Enggak. Saya cuma telanjur cocok sama soto ayam tanpa seledri di warung soto Kwitang,"* sambil jempolnya memutar tutup botol minum hitamnya sampai berbunyi *klik* dua kali).
 2. **Kalimat Operator *Customer Service*:**
-   - *Ditanam:* Bab 1 (Dimas memutuskan Nadia dengan ejekan bahwa Nadia terlalu lembek dan kalau bicara sopan terus seperti operator *customer service*).
+   - *Ditanam:* Bab 1 (Dimas memutuskan Nadia dengan ejekan bahwa Nadia terlalu baik/penurut dan kalau bicara sopan terus seperti operator *customer service*).
    - *Dibayar:* Bab 28 (Saat Dimas merasa sudah berhasil membujuk Nadia balikan namun sifat aslinya keceplosan di depan keluarga, Nadia menolaknya dengan senyum tenang menggunakan kalimat penolakan ala operator *customer service* paling sopan namun paling telak).
 3. **Catatan *Post-it* Kuning (Riwayat Perpindahan Benda Fisik):**
    - *Ditanam & Perpindahan:* Bab 4 (Saka menempelkan *post-it* kuning bertuliskan *"Bilang enggak itu nggak bikin langit runtuh"* di sampul depan buku sketsa Nadia) -> Bab 5 (Rabu pagi Nadia melepasnya dari sampul buku sketsa dan menempelkannya di pojok kiri bawah bingkai monitornya) -> Bab 26 (Selasa siang Nadia mencopot *post-it* yang lemnya mulai mengering dari bingkai monitor dan menyimpannya ke halaman belakang buku sketsa) -> Bab 32 (Senin pagi Nadia mengeluarkan kembali *post-it* pertama itu dari dalam buku sketsa dan menempelkannya lagi di pojok bingkai monitornya).

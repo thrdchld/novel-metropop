@@ -1773,7 +1773,7 @@ Kali ini, aku tidak menunduk lagi.
 
 Sendok makan di tanganku kuletakkan pelan-pelan ke pinggir piring sampai berbunyi denting halus.
 
-Di seberang meja, senyum di wajah Ibu ternyata sudah luntur sejak mendengar Dimas menyebutku lembek dan menyuruhku membatalkan acara peluncuran bukuku sendiri. Ibu menatapku dengan kening berkerut rapat, paham ada sesuatu yang sangat keliru di meja makan ini.
+Di seberang meja, senyum di wajah Ibu ternyata sudah luntur sejak mendengar Dimas meremehkan buku esai itu dan menyuruhku mengorbankan peluncurannya demi acara bosnya. Ibu menatapku dengan kening berkerut rapat, paham ada sesuatu yang sangat keliru di meja makan ini.
 
 "Enggak bisa, Mas Dimas," kataku tenang.
 
@@ -1790,6 +1790,8 @@ Aku menoleh menatap Ibu di seberang meja. Sudah terlalu lama aku menyembunyikan 
 Aku melirik Dimas sekilas. "Dia belum cerita ke Ibu alasan sebenarnya kenapa dia tega mutusin aku."
 
 "Dimas? Benar itu?" tanya Ibu tajam sambil menoleh ke arahnya.
+
+Ibu meletakkan sendoknya di tepi piring. Raut kaget dan tak percaya membekas di wajahnya sambil menatap Dimas lekat-lekat, menunggu laki-laki itu membantah.
 
 "Bu, waktu itu saya cuma lagi capek kerjaan, makanya salah ngomong..." sela Dimas panik, keringat mulai muncul di pelipisnya.
 

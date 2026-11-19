@@ -9,10 +9,10 @@
 
 ## 1. Premis ABCD Simpel
 
-- **A (Character):** **Nadia Putri** (26 tahun), seorang desainer grafis di kantor penerbitan buku yang mengidap penyakit "nggak enakan" kronis dan selalu mengiyakan permintaan semua orang sampai baru saja diputuskan pacarnya karena dianggap terlalu lembek.
+- **A (Character):** **Nadia Putri** (26 tahun), seorang desainer grafis di kantor penerbitan buku yang mengidap penyakit "nggak enakan" kronis dan selalu mengiyakan permintaan semua orang sampai baru saja diputuskan pacarnya karena dianggap terlalu penurut.
 - **B (Routine):** Setiap hari Nadia bekerja sambil menelan rasa canggung karena harus terus berpapasan dengan mantannya yang satu kantor, sembari tetap menjadi tempat limpahan kerjaan teman-temannya karena tidak pernah berani menolak.
 - **C (Inciting Incident):** Nadia dipindahkan duduk semeja untuk menggarap proyek buku baru bersama **Saka Wijaya** (28 tahun), editor naskah pindahan dari Yogyakarta yang terkenal paling blak-blakan, paling tega menolak permintaan orang, dan paling anti basa-basi.
-- **D (Action):** Terjebak bekerja berdua setiap hari dengan Saka yang gemas melihat sifat lembeknya, Nadia mulai belajar berani berkata "tidak" pada orang-orang yang memanfaatkannya, sembari perlahan jatuh hati pada pria kaku yang mengajarinya menghargai diri sendiri itu.
+- **D (Action):** Terjebak bekerja berdua setiap hari dengan Saka yang gemas melihat sifat nggak enakannya, Nadia mulai belajar berani berkata "tidak" pada orang-orang yang memanfaatkannya, sembari perlahan jatuh hati pada pria kaku yang mengajarinya menghargai diri sendiri itu.
 
 ---
 
@@ -196,7 +196,7 @@
 
 ### Bab 27: Topeng Manis yang Terlepas
 - **Waktu & Lokasi:** Selasa malam pukul 19.30, Rumah Makan Keluarga di Rawamangun.
-- **Kejadian Inti:** Di awal makan malam bersama Ibu Nadia, suasana tampak hangat dan Nadia sudah hampir mengangguk saat Dimas menanyakan kesediaannya untuk kembali bersama. Namun karena merasa sudah berhasil menaklukkan hati Nadia dan mengalahkan Saka, sifat asli Dimas tak sengaja keluar: dengan nada manis tapi mengatur di depan Ibu, Dimas meminta Nadia tidak usah hadir di panggung peluncuran buku *Sela Waktu* hari Jumat nanti demi menemaninya ke acara makan malam manajer divisinya, sambil menyeletuk enteng, *"Lagian buku kecil gitu biar diurus editor Jogja itu aja, Nad. Kamu kan dari dulu juga lembek kalau ngomong di depan orang, lebih bagus kamu ngikut aku aja kayak dulu."*
+- **Kejadian Inti:** Di awal makan malam bersama Ibu Nadia, suasana tampak hangat dan Nadia sudah hampir mengangguk saat Dimas menanyakan kesediaannya untuk kembali bersama. Namun karena merasa sudah berhasil menaklukkan hati Nadia dan mengalahkan Saka, sifat asli Dimas tak sengaja keluar: dengan nada manis tapi mengatur di depan Ibu, Dimas meminta Nadia tidak usah hadir di panggung peluncuran buku *Sela Waktu* hari Jumat nanti demi menemaninya ke acara syukuran bos divisinya, sambil berujar enteng, *"Buku esai kecil gitu biar diurus editornya saja di panggung, Nad. Lebih penting kamu temani saya demi karier kita berdua nanti."*
 - **Perkembangan Emosi / Hubungan:** **Titik Balik Kesadaran:** Kalimat meremehkan itu menghantam kesadaran Nadia seketika bagai disiram air es; kabut hasutan Dimas langsung buyar karena Nadia sadar Dimas sama sekali tidak pernah berubah, melainkan hanya rindu memiliki "operator *customer service*" yang patuh dan rela mengorbankan karya kebanggaannya sendiri!
 - **Detail Kecil / Planting-Callback:** Tangan Nadia di atas pangkuannya menyentuh buku sketsa tempat ia menyimpan *post-it* kuning Saka, dan kali ini Nadia tidak lagi menunduk.
 
