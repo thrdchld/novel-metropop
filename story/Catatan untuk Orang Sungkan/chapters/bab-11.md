@@ -6,11 +6,7 @@ Suara Saka dari sebelah kiri membuyarkan lamunanku. Aku mengerjap, menatap layar
 
 "Eh, maaf, Mas. Salah pilih palet warna tadi," gumamku sambil membetulkan posisi kacamataku.
 
-Saka tidak langsung kembali ke laptopnya.
-
-"Sepuluh menit lalu pohon beringin kamu warnai biru dongker," kata Saka menunjuk layar. "Sekarang gerobak bakso ungu terong."
-
-Saka mengerutkan kening. "Kamu lagi bikin ilustrasi buku Jakarta atau poster konser musik disko?"
+Saka tidak langsung kembali ke laptopnya. "Sepuluh menit lalu pohon beringin kamu warnai biru dongker," kata Saka menunjuk layar. "Sekarang gerobak bakso ungu terong." Dia mengerutkan kening. "Kamu lagi bikin ilustrasi buku Jakarta atau poster konser musik disko?"
 
 Aku meringis kecil, tidak sanggup membela diri. "Maaf, Mas. Aku perbaiki sekarang."
 
@@ -34,32 +30,16 @@ Kami berlari kecil menembus tirai air di pinggir teras dan masuk ke dalam kedai 
 
 Tanpa bertanya, Saka memesan dua cangkir teh tawar hangat dan sepiring tahu isi goreng yang baru diangkat dari wajan. Uap panas mengepul dari kulit tahu kecokelatan yang masih berminyak saat disajikan di meja.
 
-Ponsel di dalam saku jaketku bergetar. Nama Mbak Raras muncul di layar.
-
-"Halo, Mbak. Iya, aku lagi neduh sebentar," jawabku pelan ke telepon.
-
-Aku meremas ujung meja kayu. "Soal uang empat juta itu... nanti malam aku kabari lagi ya, Mbak."
+Ponsel di dalam saku jaketku bergetar, dan nama Mbak Raras muncul di layar. "Halo, Mbak. Iya, aku lagi neduh sebentar," jawabku pelan ke telepon sambil meremas ujung meja kayu. "Soal uang empat juta itu... nanti malam aku kabari lagi ya, Mbak."
 
 Begitu telepon ditutup, aku meletakkan ponsel ke meja sambil menatap kabel papan gambarku yang menyembul terlilit lakban hitam.
 
-"Jadi itu yang dari tadi bikin kucing kampung jadi hijau stabilo?" buka Saka menggeser piring tahu isi.
+"Jadi itu yang dari tadi bikin kucing kampung jadi hijau stabilo?" buka Saka menggeser piring tahu isi. Dia menatapku lurus. "Mau minjemin uang liburan orang lain, padahal kabel alat kerjamu sendiri udah terlilit lakban begitu?"
 
-Saka menatapku lurus. "Mau minjemin uang liburan orang lain, padahal kabel alat kerjamu sendiri udah terlilit lakban begitu?"
+Aku menunduk menatap permukaan teh hangat di cangkirku. Beban yang sejak kemarin sore mengganjal di kerongkonganku akhirnya tumpah juga. "Kemarin waktu pulang ke Rawamangun, Mbak Raras minta pinjam uang tabunganku," kataku pelan sambil mengambil sepotong tahu isi hangat. Kulit tahunya garing di sela gigitan. Aku menceritakan tentang tabungan sepuluh bulan untuk papan gambar baru, sampai kalimat halus Ibu yang menyuruhku mengalah demi keponakanku seperti biasa.
 
-Aku menunduk menatap permukaan teh hangat di cangkirku. Beban yang sejak kemarin sore mengganjal di kerongkonganku akhirnya tumpah juga.
+"Lucu ya, Mas," ucapku tersenyum getir sambil menatap cangkir tehku. "Di kantor aku mulai berani nolak orang gara-gara kertas kuning Mas Saka." Suaraku melirih di tengah gemuruh hujan. "Tapi di depan Ibu sama kakakku, aku langsung ciut lagi."
 
-"Kemarin waktu pulang ke Rawamangun, Mbak Raras minta pinjam uang tabunganku," kataku pelan sambil mengambil sepotong tahu isi hangat. Kulit tahunya garing di sela gigitan.
-
-Aku menceritakan tentang tabungan sepuluh bulan untuk papan gambar baru, sampai kalimat halus Ibu yang menyuruhku mengalah demi keponakanku seperti biasa.
-
-"Lucu ya, Mas," ucapku tersenyum getir.
-
-Aku menatap cangkir tehku. "Di kantor aku mulai berani nolak orang gara-gara kertas kuning Mas Saka."
-
-Suaraku melirih di tengah gemuruh hujan. "Tapi di depan Ibu sama kakakku, aku langsung ciut lagi."
-
-Aku menarik napas perih. "Dari kecil aku takut kalau nolak di rumah, nanti nggak ada alasan mereka sayang sama aku."
-
-Suaraku agak serak di kalimat terakhir. Aku buru-buru menunduk menyesap teh hangatku supaya mataku yang mulai panas tidak kelihatan olehnya.
+Aku menarik napas perih. "Dari kecil aku takut kalau nolak di rumah, nanti nggak ada alasan mereka sayang sama aku." Suaraku agak serak di kalimat terakhir, dan aku buru-buru menunduk menyesap teh hangatku supaya mataku yang mulai panas tidak kelihatan olehnya.
 
 Di seberang meja, Saka tidak langsung menjawab dengan kalimat ledekan pedas seperti biasanya. Dia menatap jendela kaca yang basah oleh air hujan, lalu menatapku dengan pandangan yang jauh lebih teduh dari hari-hari sebelumnya.

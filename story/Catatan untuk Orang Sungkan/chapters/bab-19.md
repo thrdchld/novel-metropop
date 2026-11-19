@@ -20,57 +20,33 @@ Namun Dimas tidak mengambil air untuk cangkirnya sendiri. Dia justru mengambil k
 
 "Ada perlu apa, Mas Dimas? Kalau soal kerjaan, langsung lewat email redaksi aja ya," sahutku tanpa menyentuh cangkir itu.
 
-Dimas menunduk, menatap ubin dapur di antara sepatu kami. Kedua bahunya merosot.
-
-"Aku nggak mau minta bantuan kerjaan kok, Nad," ucap Dimas dengan suara serak. Ketika dia mendongak menatapku, matanya memerah dan sayu. "Aku ke sini cuma mau minta maaf sama kamu."
+Dimas menunduk menatap ubin dapur di antara sepatu kami, kedua bahunya merosot. "Aku nggak mau minta bantuan kerjaan kok, Nad," ucap Dimas dengan suara serak. Ketika dia mendongak menatapku, matanya memerah dan sayu. "Aku ke sini cuma mau minta maaf sama kamu."
 
 Aku terdiam di tempatku, agak kaget melihat perubahan sikapnya yang mendadak berubah seratus delapan puluh derajat itu.
 
-"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran, terus waktu aku nyuruh kamu depan Vanya, aku bodoh banget."
-
-Dia menarik napas panjang. "Selama jalan sama Vanya, aku baru merasakan capeknya menghadapi orang yang maunya menang sendiri."
-
-Dimas menatapku sedih. "Dua tahun kamu sabar ngurusin aku, tapi aku malah menganggap remeh perhatianmu."
+"Maaf buat semuanya, Nad," lanjut Dimas pelan. "Waktu di parkiran, terus waktu aku nyuruh kamu depan Vanya, aku bodoh banget." Dia menarik napas panjang. "Selama jalan sama Vanya, aku baru merasakan capeknya menghadapi orang yang maunya menang sendiri." Dimas menatapku sedih. "Dua tahun kamu sabar ngurusin aku, tapi aku malah menganggap remeh perhatianmu."
 
 Aku tetap diam bersandar di tepi meja kabinet dapur, menjaga jarak aman. "Semua itu udah lewat, Mas. Aku juga udah maafin kok, jadi kita biasa aja sebagai rekan kerja."
 
-"Aku tahu nggak berhak minta kamu langsung percaya," kata Dimas seraya menatapku rapuh.
-
-Dia menunduk lagi menatap cangkirnya. "Beberapa hari ini setelah Vanya pergi, aku baru sadar nggak ada orang setulus kamu, Nad."
-
-Dimas memandangku nanar. "Aku kangen ngobrol berdua, kangen nganterin kamu ke rumah Ibu di Rawamangun."
+"Aku tahu nggak berhak minta kamu langsung percaya," kata Dimas seraya menatapku rapuh. Dia menunduk lagi menatap cangkirnya. "Beberapa hari ini setelah Vanya pergi, aku baru sadar nggak ada orang setulus kamu, Nad." Dimas memandangku nanar. "Aku kangen ngobrol berdua, kangen nganterin kamu ke rumah Ibu di Rawamangun."
 
 "Mas Dimas, hubungan kita udah selesai," potongku tegas, meski harus kuakui melihat seseorang yang pernah bersamaku selama dua tahun menunduk serapuh itu membuat sudut hatiku sedikit melunak.
 
 Dimas mengangguk pelan, tersenyum pahit menerima penolakanku. Namun saat matanya melirik ke arah ruang tengah tempat mejaku dan meja Saka berada, raut wajahnya menegang karena cemburu yang berusaha ditahannya.
 
-Tepat sebelum dia berbalik menuju pintu dapur, langkahnya berhenti. Dia menoleh kembali menatapku dengan pandangan cemas yang bercampur getir.
-
-"Aku nggak akan maksa kamu sekarang, Nad," kata Dimas pelan.
-
-Dia meragu sejenak sebelum bersuara lagi. "Cuma sebagai orang yang kenal kamu dua tahun, boleh ngomong satu hal nggak?"
+Tepat sebelum dia berbalik menuju pintu dapur, langkahnya berhenti. Dia menoleh kembali menatapku dengan pandangan cemas yang bercampur getir. "Aku nggak akan maksa kamu sekarang, Nad," kata Dimas pelan seraya meragu sejenak sebelum bersuara lagi. "Cuma sebagai orang yang kenal kamu dua tahun, boleh ngomong satu hal nggak?"
 
 "Apa?"
 
-"Soal Mas Saka," ucap Dimas lirih. "Aku bukan mau ikut campur karena cemburu melihat kalian dekat."
+"Soal Mas Saka," ucap Dimas lirih. "Aku bukan mau ikut campur karena cemburu melihat kalian dekat." Dimas memajukan kepalanya sedikit. "Tapi kamu tahu surat penugasan Mas Saka dari Jogja cuma lima minggu?"
 
-Dimas memajukan kepalanya sedikit. "Tapi kamu tahu surat penugasan Mas Saka dari Jogja cuma lima minggu?"
+Senyum tipis di wajahku langsung memudar, dan tanganku yang memegang gagang cangkir teh mengerat sedikit. "Maksud Mas Dimas?" tanyaku, berusaha menjaga suaraku tetap datar.
 
-Senyum tipis di wajahku langsung memudar. Tanganku yang memegang gagang cangkir teh mengerat sedikit.
+"Loh, Mas Saka belum cerita ke kamu?" Dimas menatapku dengan ekspresi iba yang halus seraya melangkah setapak mendekat. "Orang HRD tadi pagi baru aja bahas masa tugas Mas Saka."
 
-"Maksud Mas Dimas?" tanyaku, berusaha menjaga suaraku tetap datar.
+Dimas melipat tangannya di dada. "Begitu buku Sela Waktu beres, tugas perbantuan dia di Jakarta habis." Dia menatap mataku lurus. "Memangnya selama ini dia pernah ngajak kamu bahas kelanjutan hubungan kalian?"
 
-"Loh, Mas Saka belum cerita ke kamu?" Dimas menatapku dengan ekspresi iba yang halus.
-
-Dia melangkah setapak mendekat. "Orang HRD tadi pagi baru aja bahas masa tugas Mas Saka."
-
-Dimas melipat tangannya di dada. "Begitu buku Sela Waktu beres, tugas perbantuan dia di Jakarta habis."
-
-Dimas menatap mataku lurus. "Memangnya selama ini dia pernah ngajak kamu bahas kelanjutan hubungan kalian?"
-
-Aku terdiam kaku di tempatku.
-
-Ingatanku langsung berputar cepat ke empat minggu terakhir. Saka memang baik, perhatian lewat tindakan kecil, dan selalu membela karyaku. Tapi Dimas benar: tidak sekali pun Saka pernah menyebut apa yang akan terjadi pada kami setelah proyek buku Sela Waktu selesai.
+Aku terdiam kaku di tempatku. Ingatanku langsung berputar cepat ke empat minggu terakhir. Saka memang baik, perhatian lewat tindakan kecil, dan selalu membela karyaku. Tapi Dimas benar: tidak sekali pun Saka pernah menyebut apa yang akan terjadi pada kami setelah proyek buku Sela Waktu selesai.
 
 "Aku cuma nggak mau kamu patah hati sendirian waktu dia pulang ke Jogja nanti, Nad," tutup Dimas lembut sebelum keluar dari pintu dapur. "Aku masih di sini kalau kamu butuh tempat pulang."
 
