@@ -807,23 +807,17 @@ Hening langsung menyergap dari seberang telepon. Suara televisi ruang tengah rum
 
 "Kok gitu, Nad?" suara Ibu berubah agak kaget, jelas tidak menyangka anak tengahnya yang selalu patuh tiba-tiba menolak. "Kemarin siang kan kamu bilangnya mau cek saldo dulu. Memangnya uang tabungan kamu nggak ada segitu?"
 
-"Uangnya ada, Bu," jawabku jujur.
-
-Aku meremas ujung seprai. "Tapi uang empat juta itu tabunganku buat beli papan gambar baru minggu ini."
+"Uangnya ada, Bu," jawabku jujur. Aku meremas ujung seprai. "Tapi uang empat juta itu tabunganku buat beli papan gambar baru minggu ini."
 
 Suaraku bergetar sedikit. "Alat lamaku udah rusak kabelnya, mati-mati terus pas kerja."
 
 "Ya kan bisa ditunda bulan depan belinya, Nad. Kasihan Mbakmu udah telanjur janji sama Daffa..."
 
-"Kalau nggak beli alat baru, aku nggak bisa kerja naskah buku, Bu," potongku pelan.
-
-"Ini alatku buat cari makan di Jakarta," lanjutku membela diri.
+"Kalau nggak beli alat baru, aku nggak bisa kerja naskah buku, Bu," potongku pelan. "Ini alatku buat cari makan di Jakarta," lanjutku membela diri.
 
 Napas cemas berkejaran di dadaku. "Malam ini aku transfer lima ratus ribu buat jajan Daffa ya, Bu? Uang itu nggak usah diganti."
 
-Tidak ada suara dari seberang selama hampir sepuluh detik.
-
-Aku menahan napas, bersiap mendengar Ibu marah atau menyebutku anak yang pelit dan hitung-hitungan.
+Tidak ada suara dari seberang selama hampir sepuluh detik. Aku menahan napas, bersiap mendengar Ibu marah atau menyebutku anak yang pelit dan hitung-hitungan.
 
 Namun yang terdengar adalah suara Mbak Raras di latar belakang yang menyahut ketus, "Tuh kan, Bu, Raras bilang juga apa. Baru pegang proyek buku satu aja sekarang udah hitung-hitungan sama saudara sendiri!"
 
