@@ -2037,7 +2037,7 @@ Mataku membelalak lebar menatap kertas itu, lalu mendongak menatap Saka. Pantas 
 
 "Waktu kamu tanya rencana saya, surat pelepasan memang belum turun," lanjut Saka pelan. "Perjalanan Selasa sore itu dari awal memang buat tanda tangan Pak Bambang dan beresin kos lama."
 
-Saka menatap mataku lekat. "Pesan Tari pagi itu nggak mengubah keputusan itu, cuma bikin hati saya tenang waktu mengejar tanda tangan kemarin siang supaya bisa naik kereta pagi ke Gambir."
+Saka menatap mataku lekat. "Pesan Tari nggak mengubah keputusan pindah saya, cuma bikin tenang waktu mengurus tanda tangan demi mengejar kereta pagi."
 
 "Mulai Senin depan, meja nomor empat meja tetap saya," pungkas Saka seraya menatapku lurus.
 
