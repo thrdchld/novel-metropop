@@ -32,7 +32,7 @@ Tahap 4, tiap bab, di ledger.md:
 2. Adakah rujukan ke kejadian, ucapan, atau tempat lama yang tidak pernah ditulis? Cari di bab sebelumnya.
 3. Dari mana tokoh tahu ini? Harus lewat lihat, dengar, atau baca, bukan dari batin narator.
 4. Adakah petunjuk yang sudah dilihat tokoh dan bertentangan dengan kesimpulannya? Apakah ditanggapi?
-5. Hari, jam, jarak, durasi konsisten? "Kemarin" dan "minggu lalu" cocok dengan kalender?
+5. Hari, jam, jarak, durasi konsisten? "Kemarin" dan "minggu lalu" cocok dengan kalender? Tulis 'kemarin' hanya untuk satu hari sebelumnya; untuk selebihnya pakai nama hari atau hitungan hari, dan cocokkan dengan kalender bab.
 6. Prosedur dunia nyata (cetak buku, kereta, bank, kantor, hukum) sesuai durasi nyata dan sudah dicek sumbernya?
 7. Konsistensi benda dan tempat: tas, tangan, pakaian, uang, lokasi tinggal.
 8. Satu informasi diucapkan lagi oleh tokoh lain seolah belum pernah disebut.
