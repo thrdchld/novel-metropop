@@ -216,29 +216,29 @@ Tergiur bayaran kilat yang menggiurkan, Ayu nekat meladeni sandiwara itu. Dia pi
 
 ## 5. Pemetaan 8 Tahap Format Dasar & Siklus Coba-Gagal (`03-structure.md`)
 
-### A. Pemetaan 8 Tahap Format Dasar Penulis (Skala 18 Bab)
+### A. Pemetaan 8 Tahap Format Dasar Penulis (Skala 24 Bab)
 1. **Perkenalan Dunia Normal & Kekurangan Tokoh (Bab 1):** Ayu (sarjana FEB *cumlaude* IPK 3,85) narik ojol & jualan kue demi utang Rp45 juta; diremehkan staf lobi Menara Astra.
 2. **Pemicu Masalah & Tenggat (Bab 2):** Rian terpojok 30 menit sebelum resepsi Grand Hyatt; menyewa Ayu Rp500 ribu (DP) + parkir VIP `B 4892 TBT`.
 3. **Keputusan Masuk ke Situasi Baru (Bab 3-6):** Transformasi di butik, menangkap buket bunga di ballroom, mendapat gelang emas Oma Ratna, dan meneken kontrak Rp15 juta/bulan selama 3 bulan.
-4. **Rangkaian Usaha & Kegagalan Kecil / Siklus Coba-Gagal (Bab 7-10):** Penyamaran bermasker, menyusun skenario di Senopati, hujan deras di Tebet bersama Bobi, hingga Vina mulai melacak log parkir VIP.
-5. **Titik Tengah / Penemuan Penting (Bab 11-12):** Jamuan keluarga hangat di Kebayoran Baru dan percikan cemburu Rian di Tebet mengubah transaksi murni menjadi perasaan nyata, tepat saat detektif Vina mengantongi data `B 4892 TBT`.
-6. **Krisis Besar / *All Hope Is Lost* (Bab 13-14):** Vina mendatangi Warung Kue Ibu Sumi di Tebet membawa foto KTP & pelat motor Ayu, mengancam akan membongkar ke Oma Ratna yang punya riwayat jantung/darah tinggi.
-7. **Klimaks / Pertarungan Terakhir (Bab 15-17):** Ayu & Rian mendahului Vina dengan mengaku jujur di depan Oma Ratna; ketika Vina membalas lewat video fitnah & *buzzer* bintang satu, Ayu membedah bukti aliran dana BuzzMedia Digital di konferensi pers.
-8. **Akibat & Keseimbangan Baru (Bab 18):** Kontrak sandiwara dirobek di Taman Menteng; hubungan dimulai dari nol secara setara.
+4. **Rangkaian Usaha & Kegagalan Kecil / Siklus Coba-Gagal (Bab 7-14):** Penyamaran bermasker, menyusun skenario di Senopati, belanja ke Jatinegara, rapat lantai 24, hingga Vina melacak log parkir VIP.
+5. **Titik Tengah / Penemuan Penting (Bab 15-16):** Jamuan keluarga hangat di Kebayoran Baru dengan rantang garang asem dan percikan cemburu Rian di Tebet mengubah transaksi murni menjadi perasaan nyata, tepat saat teror foto intaian mulai muncul.
+6. **Krisis Besar / *All Hope Is Lost* (Bab 17-18):** Vina mendatangi Warung Kue Ibu Sumi di Tebet membawa foto KTP & pelat motor Ayu, mengancam akan membongkar ke Oma Ratna yang punya riwayat jantung/darah tinggi.
+7. **Klimaks / Pertarungan Terakhir (Bab 19-22):** Ayu & Rian mendahului Vina dengan mengaku jujur di depan Oma Ratna; ketika Vina membalas lewat video fitnah & *buzzer* bintang satu, Ayu membedah bukti aliran dana BuzzMedia Digital di konferensi pers.
+8. **Akibat & Keseimbangan Baru (Bab 23-24):** Kunjungan resmi Rian ke dapur Ibu di Tebet dan kontrak sandiwara dirobek di Taman Menteng; hubungan dimulai dari nol secara setara.
 
 ### B. Rincian Siklus Coba-Gagal (6 Komponen Wajib & Uji 100%)
-- **Putaran 1 (Bab 3-5 — *Yes, but...*):**
+- **Putaran 1 (Bab 3-6 — *Yes, but...*):**
   1. *Tujuan:* Hanya menemani Rian 2 jam di resepsi agar terhindar dari perjodohan Tante Henny, lalu pulang membawa Rp500 ribu.
   2. *Rencana:* Mandi di kamar bilas VIP butik, pakai gaun *navy blue*, jawab seperlunya di ballroom.
   3. *Tindakan:* Ayu berhasil membungkam sindiran Tante Henny dengan pengetahuan manajemen rantai pasok.
   4. *Kegagalan/Komplikasi:* Buket bunga pengantin justru jatuh ke pelukan Ayu dan Oma Ratna menyematkan gelang pusaka keluarga.
   5. *Akibat Buruk:* Ayu tidak bisa sekadar kabur setelah 2 jam; ia terikat kontrak 3 bulan (Rp15 juta/bulan).
   6. *Pelajaran:* Keluarga Rian bukan sekadar orang asing, ada ketulusan Oma Ratna yang berisiko terluka.
-- **Putaran 2 (Bab 7-12 — *No, and furthermore...*):**
+- **Putaran 2 (Bab 7-18 — *No, and furthermore...*):**
   1. *Tujuan:* Menjalani kontrak 3 bulan sambil tetap narik ojol dan mengantar kue tanpa dikenali siapa pun.
   2. *Rencana:* Memakai masker kain dengan alasan alergi debu dan memisahkan urusan Tebet dari Menara Astra.
   3. *Tindakan:* Ayu disiplin memakai masker di kantor Rian dan saat *afternoon tea* keluarga, serta menolak diantar Rian sampai depan gang rumah.
   4. *Kegagalan:* Vina melacak riwayat *tap* kartu VIP e-money Rian dari malam resepsi dan menemukan pelat motor `B 4892 TBT`.
-  5. *Akibat Buruk:* Identitas lengkap Ayu (KTP, akun ojol, alamat Warung Kue Ibu Sumi) jatuh ke tangan Vina dan dibawa langsung untuk meneror warung ibunya di Bab 13.
-  6. *Pelajaran:* Menyembunyikan identitas di balik masker hanya memberi senjata bagi pemeras; satu-satunya jalan keluar adalah kejujuran total di depan Oma Ratna (Bab 15).
+  5. *Akibat Buruk:* Identitas lengkap Ayu (KTP, akun ojol, alamat Warung Kue Ibu Sumi) jatuh ke tangan Vina dan dibawa langsung untuk meneror warung ibunya di Bab 17.
+  6. *Pelajaran:* Menyembunyikan identitas di balik masker hanya memberi senjata bagi pemeras; satu-satunya jalan keluar adalah kejujuran total di depan Oma Ratna (Bab 19).
 - **Uji 100% Siklus Coba-Gagal:** Setiap kegagalan memaksa Ayu dan Rian mengubah taktik (dari sembunyi-sembunyi -> mengaku jujur ke keluarga -> melawan balik secara terbuka dengan bukti transaksi), bukan mengulang penyamaran yang sama.
