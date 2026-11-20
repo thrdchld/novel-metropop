@@ -6,7 +6,7 @@ Aku mendongak dari buku catatan cokelatku. Di luar kaca sana, Bima sedang nyengi
 
 "Selamat sore, Mas Bima, Nino. Hari ini tepat waktu," sapaku saat menggeser pintu kelas.
 
-"Kan sudah janji kemarin, Miss Hana," kata Bima sambil menepuk bahu keponakannya. "Kancing seragam juga sudah lulus sensor hari ini. Saya cek dua kali tadi sebelum naik angkot."
+"Kan sudah janji hari Senin kemarin, Miss Hana," kata Bima sambil menepuk bahu keponakannya. "Kancing seragam juga sudah lulus sensor hari ini. Saya cek dua kali tadi sebelum naik angkot."
 
 Aku melirik seragam Nino. Memang kancingnya sudah lurus, meskipun kerah sebelah kirinya masih agak terlipat ke dalam. Nino sendiri masih memeluk buku gambar dinosaurusnya rapat-rapat di depan dada, hanya mengangguk kecil saat kusapa, lalu berjalan masuk menuju kursinya tanpa suara.
 

@@ -38,7 +38,7 @@ Setetes air mata hangat langsung lolos jatuh membasahi pipiku tanpa sempat kutah
 
 Di depan mikrofon, suara Nino mulai sedikit bergetar saat dia menatap lembaran kertas kusut di tangannya, lalu beralih menatapku dengan mata bulatnya yang berkaca-kaca.
 
-"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Kemarin aku dengar Miss Hana mau pindah kerja jauh ke Surabaya," lanjutnya sambil menatapku lurus.
+"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Waktu hari Rabu kemarin aku dengar Miss Hana mau pindah kerja jauh ke Surabaya," lanjutnya sambil menatapku lurus.
 
 Nino menyeka hidungnya yang mulai memerah dengan punggung tangan. "Aku nangis minta tolong Om Bima buat ganti ceritaku, terus aku hafalkan teks baru ini sampai suaraku serak..."
 

@@ -20,7 +20,7 @@ Mendengar kalimat merendahkan itu keluar dari mulut Fajar, sisa keraguan terakhi
 
 "Kita nggak akan ke mana-mana, Fajar," kataku tegas. "Simpan saja bunga mawarmu. Mulai hari ini, jangan pernah menjemputku atau mengatur jadwal hidupku lagi. Aku menolak ajakanmu."
 
-Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Di Senopati kemarin kan aku sudah minta maaf!"
+Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Waktu di Senopati kan aku sudah minta maaf!"
 
 "Kamu cuma kangen jadwal yang rapi di atas kertas, Jar, bukan kangen aku," jawabku tenang. "Dan aku nggak mau lagi bersama orang yang menganggap remeh ketulusan orang lain. Selamat siang, Fajar."
 
@@ -34,13 +34,13 @@ Di dekat pagar besi balkon yang teduh itu, Bima sedang berdiri sendirian sambil 
 
 Aku melangkah mendekat dan berhenti tepat di sebelahnya di tepi pagar balkon, menahan senyum melihat daun telinganya yang masih merah.
 
-"Jadi waktu di Taman Ayodya kemarin, yang buru-buru dimasukkan ke saku flanel itu beneran bunga kamboja buat aku, Mas?" godaku pelan.
+"Jadi waktu di Taman Ayodya kemarin-kemarin, yang buru-buru dimasukkan ke saku flanel itu beneran bunga kamboja buat aku, Mas?" godaku pelan.
 
 Bima memejamkan matanya sesaat sambil tertawa pasrah dan mengusap wajahnya. "Sumpah, Hana, saya beneran nggak tahu kalau pas kamu ke kios air itu si Nino diam-diam nyalain tombol rekam."
 
 Dia menepuk pelan dahinya yang masih menyisakan gurat kantuk. "Subuh tadi pas gabungin semua klip video, mata saya sudah berat banget sampai hampir merem, makanya klip paling buntut lupa kepotong," tambahnya sambil tersenyum malu.
 
-Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang Mas Bima punya perasaan yang sama, kenapa kemarin pas kutanya soal Surabaya malah nyuruh aku pergi?"
+Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang Mas Bima punya perasaan yang sama, kenapa waktu hari Rabu kemarin pas kutanya soal Surabaya malah nyuruh aku pergi?"
 
 Senyum gugup di wajah Bima perlahan berganti menjadi tatapan yang sangat dalam dan jujur. Dia berbalik menghadapku sepenuhnya. Teringat pertemuannya dengan Fajar yang berpakaian rapi di lobi hari Senin dan map biru promosi yang kupegang hari Rabu, Bima mengakui bahwa saat itu dia merasa harus tahu diri.
 

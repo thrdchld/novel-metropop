@@ -118,7 +118,7 @@ Aku mendongak dari buku catatan cokelatku. Di luar kaca sana, Bima sedang nyengi
 
 "Selamat sore, Mas Bima, Nino. Hari ini tepat waktu," sapaku saat menggeser pintu kelas.
 
-"Kan sudah janji kemarin, Miss Hana," kata Bima sambil menepuk bahu keponakannya. "Kancing seragam juga sudah lulus sensor hari ini. Saya cek dua kali tadi sebelum naik angkot."
+"Kan sudah janji hari Senin kemarin, Miss Hana," kata Bima sambil menepuk bahu keponakannya. "Kancing seragam juga sudah lulus sensor hari ini. Saya cek dua kali tadi sebelum naik angkot."
 
 Aku melirik seragam Nino. Memang kancingnya sudah lurus, meskipun kerah sebelah kirinya masih agak terlipat ke dalam. Nino sendiri masih memeluk buku gambar dinosaurusnya rapat-rapat di depan dada, hanya mengangguk kecil saat kusapa, lalu berjalan masuk menuju kursinya tanpa suara.
 
@@ -1020,7 +1020,7 @@ Di dekat meja resepsionis lobi depan, berdiri Fajar. Dia mengenakan setelan keme
 
 "Sore, Hana. Jam mengajarnya sudah selesai kan?" sapa Fajar akrab, seolah penolakanku di kafe Senopati dua hari lalu tidak pernah terjadi sama sekali.
 
-"Fajar? Kamu ngapain di sini?" tanyaku kaget sambil menghentikan langkahku. "Kan sudah kubilang di kafe kemarin kalau urusan kita sudah selesai."
+"Fajar? Kamu ngapain di sini?" tanyaku kaget sambil menghentikan langkahku. "Kan sudah kubilang di kafe hari Sabtu kemarin kalau urusan kita sudah selesai."
 
 Di sebelah kiriku, Bima ikut berhenti melangkah. Tangan Bima secara refleks menarik bahu kecil Nino agar berdiri lebih dekat di samping kakinya.
 
@@ -1380,7 +1380,7 @@ Setetes air mata hangat langsung lolos jatuh membasahi pipiku tanpa sempat kutah
 
 Di depan mikrofon, suara Nino mulai sedikit bergetar saat dia menatap lembaran kertas kusut di tangannya, lalu beralih menatapku dengan mata bulatnya yang berkaca-kaca.
 
-"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Kemarin aku dengar Miss Hana mau pindah kerja jauh ke Surabaya," lanjutnya sambil menatapku lurus.
+"Miss Hana, maaf kalau kalimat terakhirnya aku campur bahasa Indonesia," kata Nino ke mikrofon hingga suaranya menggema jernih di seluruh aula. "Waktu hari Rabu kemarin aku dengar Miss Hana mau pindah kerja jauh ke Surabaya," lanjutnya sambil menatapku lurus.
 
 Nino menyeka hidungnya yang mulai memerah dengan punggung tangan. "Aku nangis minta tolong Om Bima buat ganti ceritaku, terus aku hafalkan teks baru ini sampai suaraku serak..."
 
@@ -1456,7 +1456,7 @@ Mendengar kalimat merendahkan itu keluar dari mulut Fajar, sisa keraguan terakhi
 
 "Kita nggak akan ke mana-mana, Fajar," kataku tegas. "Simpan saja bunga mawarmu. Mulai hari ini, jangan pernah menjemputku atau mengatur jadwal hidupku lagi. Aku menolak ajakanmu."
 
-Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Di Senopati kemarin kan aku sudah minta maaf!"
+Dahi Fajar langsung berkerut kaget. "Hana, kamu bicara apa sih? Waktu di Senopati kan aku sudah minta maaf!"
 
 "Kamu cuma kangen jadwal yang rapi di atas kertas, Jar, bukan kangen aku," jawabku tenang. "Dan aku nggak mau lagi bersama orang yang menganggap remeh ketulusan orang lain. Selamat siang, Fajar."
 
@@ -1470,13 +1470,13 @@ Di dekat pagar besi balkon yang teduh itu, Bima sedang berdiri sendirian sambil 
 
 Aku melangkah mendekat dan berhenti tepat di sebelahnya di tepi pagar balkon, menahan senyum melihat daun telinganya yang masih merah.
 
-"Jadi waktu di Taman Ayodya kemarin, yang buru-buru dimasukkan ke saku flanel itu beneran bunga kamboja buat aku, Mas?" godaku pelan.
+"Jadi waktu di Taman Ayodya kemarin-kemarin, yang buru-buru dimasukkan ke saku flanel itu beneran bunga kamboja buat aku, Mas?" godaku pelan.
 
 Bima memejamkan matanya sesaat sambil tertawa pasrah dan mengusap wajahnya. "Sumpah, Hana, saya beneran nggak tahu kalau pas kamu ke kios air itu si Nino diam-diam nyalain tombol rekam."
 
 Dia menepuk pelan dahinya yang masih menyisakan gurat kantuk. "Subuh tadi pas gabungin semua klip video, mata saya sudah berat banget sampai hampir merem, makanya klip paling buntut lupa kepotong," tambahnya sambil tersenyum malu.
 
-Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang Mas Bima punya perasaan yang sama, kenapa kemarin pas kutanya soal Surabaya malah nyuruh aku pergi?"
+Aku menatap wajahnya yang lelah namun begitu tulus, lalu suaraku berubah lembut. "Kalau memang Mas Bima punya perasaan yang sama, kenapa waktu hari Rabu kemarin pas kutanya soal Surabaya malah nyuruh aku pergi?"
 
 Senyum gugup di wajah Bima perlahan berganti menjadi tatapan yang sangat dalam dan jujur. Dia berbalik menghadapku sepenuhnya. Teringat pertemuannya dengan Fajar yang berpakaian rapi di lobi hari Senin dan map biru promosi yang kupegang hari Rabu, Bima mengakui bahwa saat itu dia merasa harus tahu diri.
 

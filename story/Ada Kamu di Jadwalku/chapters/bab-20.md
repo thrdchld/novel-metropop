@@ -18,7 +18,7 @@ Di dekat meja resepsionis lobi depan, berdiri Fajar. Dia mengenakan setelan keme
 
 "Sore, Hana. Jam mengajarnya sudah selesai kan?" sapa Fajar akrab, seolah penolakanku di kafe Senopati dua hari lalu tidak pernah terjadi sama sekali.
 
-"Fajar? Kamu ngapain di sini?" tanyaku kaget sambil menghentikan langkahku. "Kan sudah kubilang di kafe kemarin kalau urusan kita sudah selesai."
+"Fajar? Kamu ngapain di sini?" tanyaku kaget sambil menghentikan langkahku. "Kan sudah kubilang di kafe hari Sabtu kemarin kalau urusan kita sudah selesai."
 
 Di sebelah kiriku, Bima ikut berhenti melangkah. Tangan Bima secara refleks menarik bahu kecil Nino agar berdiri lebih dekat di samping kakinya.
 
