@@ -16,7 +16,7 @@ Foto pertama memperlihatkan diriku sedang duduk di meja kasir membantu Farhan da
 
 Di kolom takarir unggahan, narasi fitnah itu tersusun sangat rapi dan kejam:
 
-Ternyata video hujatan dua minggu lalu cuma taktik kotor buat nurunin harga dan bikin sensasi. Sekarang mimin Kritik Halus udah mesra tinggal satu atap sama anak pemilik kedai. Diduga kuat dapet uang damai puluhan juta dan fasilitas kamar gratis buat bersihin nama warung. Hati-hati sama reviewer munafik yang jual integritas demi amplop!
+Ternyata video hujatan sebulan lebih lalu cuma taktik kotor buat nurunin harga dan bikin sensasi. Sekarang mimin Kritik Halus udah mesra tinggal satu atap sama anak pemilik kedai. Diduga kuat dapet uang damai puluhan juta dan fasilitas kamar gratis buat bersihin nama warung. Hati-hati sama reviewer munafik yang jual integritas demi amplop!
 
 Darahku mendadak membeku di ujung jari. Rasa dingin yang menjalar dari telapak tanganku seketika melumpuhkan seluruh tubuhku.
 

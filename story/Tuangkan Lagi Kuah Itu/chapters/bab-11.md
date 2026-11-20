@@ -8,7 +8,7 @@ Langkahku terhenti seketika. Kantong kresek sampah di tanganku jatuh berdebum pe
 
 Aku menatap mata Farhan yang berdiri hanya berjarak setengah meter di depanku. Tidak ada kemarahan yang meledak-ledak di wajahnya, melainkan tatapan menantang yang dingin dan putus asa. Kaos hitamnya yang basah oleh peluh menempel di dada bidangnya, menandakan pria itu sudah berjam-jam berkutat sendirian di depan api kompor tanpa istirahat.
 
-"Gue tau akun Kritik Halus itu punya lo sejak hari pertama lo turun dari taksi bawa koper," kata Farhan dengan suara rendah dan bergetar tipis. "Gantungan kunci koper lo yang bunyi gemerincing itu persis sama kayak yang keliatan di video TikTok ulasan lo. Dan suara ketukan sumpit dua kali ke mangkuk yang lo lakuin kemarin lusa... itu ciri khas lo."
+"Gue tau akun Kritik Halus itu punya lo sejak hari pertama lo turun dari taksi bawa koper," kata Farhan dengan suara rendah dan bergetar tipis. "Gantungan kunci koper lo yang bunyi gemerincing itu persis sama kayak yang keliatan di video TikTok ulasan lo. Dan suara ketukan sumpit dua kali ke mangkuk yang lo lakuin waktu sarapan hari Senin kemarin... itu ciri khas lo."
 
 Tenggorokanku tercekat seketika. Seluruh alibi dan perisai pertahanan diriku yang kupersiapkan selama berhari-hari runtuh seketika di hadapan bukti-bukti fisik yang diucapkannya dengan sangat runut. Aku menyadari betapa tajamnya pengamatan pria ini di balik sikap diamnya yang dingin.
 

@@ -6,7 +6,7 @@ Sebuah map kertas cokelat tebal berdebum pelan saat dijatuhkan ke atas etalase k
 
 Aku yang baru saja menuruni anak tangga kayu hendak keluar mencari makan siang terhenti di undakan ketiga. Dari balik sekat dinding papan lorong, aku bisa melihat suasana meja kasir dengan sangat jelas.
 
-Pria itu bertubuh gempal, mengenakan kemeja safari warna abu-abu rapi dan kacamata berbingkai emas tipis. Dari obrolan Manda kemarin lusa, aku langsung mengenali sosok itu sebagai Koh Hendra, pemilik sah bangunan ruko dua lantai ini.
+Pria itu bertubuh gempal, mengenakan kemeja safari warna abu-abu rapi dan kacamata berbingkai emas tipis. Dari obrolan Manda kemarin sore, aku langsung mengenali sosok itu sebagai Koh Hendra, pemilik sah bangunan ruko dua lantai ini.
 
 Farhan berdiri di balik meja kasir, mengenakan kaus oblong hitam polos tanpa celemek. Kedua telapak tangannya bertumpu di tepi etalase kaca, menatap map cokelat itu dengan rahang yang mengeras rapat. Danisa duduk di sampingnya, memegang pulpen dengan buku kas harian yang terbuka di halaman yang sepi catatan pemasukan.
 

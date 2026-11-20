@@ -298,7 +298,7 @@ Sebuah map kertas cokelat tebal berdebum pelan saat dijatuhkan ke atas etalase k
 
 Aku yang baru saja menuruni anak tangga kayu hendak keluar mencari makan siang terhenti di undakan ketiga. Dari balik sekat dinding papan lorong, aku bisa melihat suasana meja kasir dengan sangat jelas.
 
-Pria itu bertubuh gempal, mengenakan kemeja safari warna abu-abu rapi dan kacamata berbingkai emas tipis. Dari obrolan Manda kemarin lusa, aku langsung mengenali sosok itu sebagai Koh Hendra, pemilik sah bangunan ruko dua lantai ini.
+Pria itu bertubuh gempal, mengenakan kemeja safari warna abu-abu rapi dan kacamata berbingkai emas tipis. Dari obrolan Manda kemarin sore, aku langsung mengenali sosok itu sebagai Koh Hendra, pemilik sah bangunan ruko dua lantai ini.
 
 Farhan berdiri di balik meja kasir, mengenakan kaus oblong hitam polos tanpa celemek. Kedua telapak tangannya bertumpu di tepi etalase kaca, menatap map cokelat itu dengan rahang yang mengeras rapat. Danisa duduk di sampingnya, memegang pulpen dengan buku kas harian yang terbuka di halaman yang sepi catatan pemasukan.
 
@@ -470,7 +470,7 @@ Langkahku terhenti seketika. Kantong kresek sampah di tanganku jatuh berdebum pe
 
 Aku menatap mata Farhan yang berdiri hanya berjarak setengah meter di depanku. Tidak ada kemarahan yang meledak-ledak di wajahnya, melainkan tatapan menantang yang dingin dan putus asa. Kaos hitamnya yang basah oleh peluh menempel di dada bidangnya, menandakan pria itu sudah berjam-jam berkutat sendirian di depan api kompor tanpa istirahat.
 
-"Gue tau akun Kritik Halus itu punya lo sejak hari pertama lo turun dari taksi bawa koper," kata Farhan dengan suara rendah dan bergetar tipis. "Gantungan kunci koper lo yang bunyi gemerincing itu persis sama kayak yang keliatan di video TikTok ulasan lo. Dan suara ketukan sumpit dua kali ke mangkuk yang lo lakuin kemarin lusa... itu ciri khas lo."
+"Gue tau akun Kritik Halus itu punya lo sejak hari pertama lo turun dari taksi bawa koper," kata Farhan dengan suara rendah dan bergetar tipis. "Gantungan kunci koper lo yang bunyi gemerincing itu persis sama kayak yang keliatan di video TikTok ulasan lo. Dan suara ketukan sumpit dua kali ke mangkuk yang lo lakuin waktu sarapan hari Senin kemarin... itu ciri khas lo."
 
 Tenggorokanku tercekat seketika. Seluruh alibi dan perisai pertahanan diriku yang kupersiapkan selama berhari-hari runtuh seketika di hadapan bukti-bukti fisik yang diucapkannya dengan sangat runut. Aku menyadari betapa tajamnya pengamatan pria ini di balik sikap diamnya yang dingin.
 
@@ -1132,7 +1132,7 @@ Foto pertama memperlihatkan diriku sedang duduk di meja kasir membantu Farhan da
 
 Di kolom takarir unggahan, narasi fitnah itu tersusun sangat rapi dan kejam:
 
-Ternyata video hujatan dua minggu lalu cuma taktik kotor buat nurunin harga dan bikin sensasi. Sekarang mimin Kritik Halus udah mesra tinggal satu atap sama anak pemilik kedai. Diduga kuat dapet uang damai puluhan juta dan fasilitas kamar gratis buat bersihin nama warung. Hati-hati sama reviewer munafik yang jual integritas demi amplop!
+Ternyata video hujatan sebulan lebih lalu cuma taktik kotor buat nurunin harga dan bikin sensasi. Sekarang mimin Kritik Halus udah mesra tinggal satu atap sama anak pemilik kedai. Diduga kuat dapet uang damai puluhan juta dan fasilitas kamar gratis buat bersihin nama warung. Hati-hati sama reviewer munafik yang jual integritas demi amplop!
 
 Darahku mendadak membeku di ujung jari. Rasa dingin yang menjalar dari telapak tanganku seketika melumpuhkan seluruh tubuhku.
 
