@@ -866,7 +866,7 @@ Aku melangkah menaiki anak tangga semen yang berlumut kering, membawa dua cangki
 
 Aji menoleh pelan, mematikan puntung rokoknya di asbak kaleng bekas sarden. Ia menerima cangkir seng itu, menangkupkan kedua telapak tangannya pada permukaan logam hangat.
 
-"Pak Haris yang kemarin lusa datang ke ruko," ucap Aji lirih, suaranya terdengar berat dan lelah, "dulu bos divisiku di agensi branding kawasan Senopati."
+"Pak Haris yang kemarin pagi datang ke ruko," ucap Aji lirih, suaranya terdengar berat dan lelah, "dulu bos divisiku di agensi branding kawasan Senopati."
 
 Aku duduk di anak tangga tepat satu undakan di bawahnya, menatap lurus ke arah aliran kali yang hitam berkilat.
 
