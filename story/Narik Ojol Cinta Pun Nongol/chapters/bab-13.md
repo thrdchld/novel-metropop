@@ -12,7 +12,7 @@ Aku refleks menghentikan troli kueku di dekat partisi kaca samping meja sekretar
 
 Tanpa mengetuk pintu, Vina langsung mendorong pintu ruang kerja Rian hingga terbuka lebar. Dari posisi berdiriku yang hanya berjarak empat langkah dari ambang pintu yang menganga, suara melengking Vina terdengar jelas.
 
-"Rian! Lo sengaja ya mau mempermalukan gue sama keluarga gue di depan Oma Ratna?!" sembur Vina. Dia membanting tas kulit mahalnya ke atas meja tamu Rian. "Siapa cewek nggak jelas yang lo bawa ke Grand Hyatt kemarin?! Gue tanya ke semua lingkaran teman kuliah dan rekan bisnis kita, nggak ada satu pun yang kenal nama Ayu Anindya!"
+"Rian! Lo sengaja ya mau mempermalukan gue sama keluarga gue di depan Oma Ratna?!" sembur Vina. Dia membanting tas kulit mahalnya ke atas meja tamu Rian. "Siapa cewek nggak jelas yang lo bawa ke Grand Hyatt tempo hari?! Gue tanya ke semua lingkaran teman kuliah dan rekan bisnis kita, nggak ada satu pun yang kenal nama Ayu Anindya!"
 
 Di dalam ruangan, Rian berdiri dari kursinya dengan wajah dingin. Dia membetulkan posisi jam tangannya, lalu berjalan mendekati pintu untuk meredam keributan.
 

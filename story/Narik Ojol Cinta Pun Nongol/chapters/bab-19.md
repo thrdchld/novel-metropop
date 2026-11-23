@@ -12,7 +12,7 @@ Tante Henny langsung menegakkan punggungnya, melirikku dari ujung kepala sampai 
 
 Di bawah meja, jemari Rian meremas pelan tanganku sebentar sebelum dia berdiri tegak menghadapi Oma Ratna dan Ibu Hartini.
 
-"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt kemarin, Rian sebenarnya belum punya pasangan."
+"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt tempo hari, Rian sebenarnya belum punya pasangan."
 
 Rian menatap Oma Ratna sungguh-sungguh. "Karena tertekan mau dijodohkan paksa sama Vina, Rian nekat menyewa Ayu sebelum acara buat pura-pura jadi pasangan Rian."
 

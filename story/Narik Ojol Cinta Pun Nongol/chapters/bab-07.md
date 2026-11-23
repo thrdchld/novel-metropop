@@ -36,9 +36,9 @@ Di dalam ruang kerja sudut yang berdinding kaca lebar, Rian mendongak dari balik
 
 "Kenapa pakai masker, Yu? Kamu lagi flu?" tanya Rian seraya berdiri menyambutku.
 
-Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan kemarin aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau aku pakai masker begini, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
+Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan tempo hari aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau aku pakai masker begini, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
 
-Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut terselip di belakang kertas katalog. IPK 3,85, predikat cumlaude? Jadi waktu kamu ngomong ke Tante Henny di ballroom kemarin itu beneran?"
+Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut terselip di belakang kertas katalog. IPK 3,85, predikat cumlaude? Jadi waktu kamu ngomong ke Tante Henny di ballroom tempo hari itu beneran?"
 
 Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!
 

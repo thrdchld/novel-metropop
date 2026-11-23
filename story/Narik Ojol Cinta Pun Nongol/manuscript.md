@@ -370,9 +370,9 @@ Di dalam ruang kerja sudut yang berdinding kaca lebar, Rian mendongak dari balik
 
 "Kenapa pakai masker, Yu? Kamu lagi flu?" tanya Rian seraya berdiri menyambutku.
 
-Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan kemarin aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau aku pakai masker begini, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
+Aku mengeluarkan dua kotak kue beserta map plastik dari tas jinjingku ke meja tamunya, lalu memperbaiki letak masker kain di hidungku. "Jaga-jaga aja, Bos. Kan tempo hari aku sempat debat sama anak buah Mas Rian di lobi bawah. Kalau aku pakai masker begini, nggak bakal ada staf yang ngeh kalau aku tukang ojol waktu itu."
 
-Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut terselip di belakang kertas katalog. IPK 3,85, predikat cumlaude? Jadi waktu kamu ngomong ke Tante Henny di ballroom kemarin itu beneran?"
+Rian membuka map plastik itu untuk memeriksa lembar katalog harga kue dan mengambil fotokopi KTP-ku. Namun, di balik kertas katalog kue itu, selembar kertas ukuran A4 lain ikut terselip. Gerakan tangan Rian terhenti saat membacanya. Matanya membelalak tipis menatapku. "Tunggu... ini fotokopi ijazah kamu ikut terselip di belakang kertas katalog. IPK 3,85, predikat cumlaude? Jadi waktu kamu ngomong ke Tante Henny di ballroom tempo hari itu beneran?"
 
 Aku menepuk jidat pelan. Jujur, aku malu setengah mati di balik masker. Duh, kenapa aku bisa seceroboh ini sih tadi pas merapikan kertas di meja!
 
@@ -638,7 +638,7 @@ Aku refleks menghentikan troli kueku di dekat partisi kaca samping meja sekretar
 
 Tanpa mengetuk pintu, Vina langsung mendorong pintu ruang kerja Rian hingga terbuka lebar. Dari posisi berdiriku yang hanya berjarak empat langkah dari ambang pintu yang menganga, suara melengking Vina terdengar jelas.
 
-"Rian! Lo sengaja ya mau mempermalukan gue sama keluarga gue di depan Oma Ratna?!" sembur Vina. Dia membanting tas kulit mahalnya ke atas meja tamu Rian. "Siapa cewek nggak jelas yang lo bawa ke Grand Hyatt kemarin?! Gue tanya ke semua lingkaran teman kuliah dan rekan bisnis kita, nggak ada satu pun yang kenal nama Ayu Anindya!"
+"Rian! Lo sengaja ya mau mempermalukan gue sama keluarga gue di depan Oma Ratna?!" sembur Vina. Dia membanting tas kulit mahalnya ke atas meja tamu Rian. "Siapa cewek nggak jelas yang lo bawa ke Grand Hyatt tempo hari?! Gue tanya ke semua lingkaran teman kuliah dan rekan bisnis kita, nggak ada satu pun yang kenal nama Ayu Anindya!"
 
 Di dalam ruangan, Rian berdiri dari kursinya dengan wajah dingin. Dia membetulkan posisi jam tangannya, lalu berjalan mendekati pintu untuk meredam keributan.
 
@@ -726,7 +726,7 @@ Aku mengangguk pelan, meraba gelang emas berukir daun di pergelangan tanganku, d
 
 Begitu kami menginjakkan kaki di teras belakang yang berbatasan langsung dengan kolam ikan koi, Indah langsung berlari kecil menyambutku dengan wajah berseri-seri.
 
-"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir kemarin sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji cara motong jalur distributornya!"
+"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir hari Rabu kemarin sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji cara motong jalur distributornya!"
 
 "Syukurlah kalau kepakai, Indah. Kebetulan aku sudah biasa ngitung bahan baku kue tiap hari di rumah." Aku tersenyum di balik masker dan melirik Rian yang berdiri di samping kursi Oma dengan wajah bangga.
 
@@ -920,7 +920,7 @@ Tante Henny langsung menegakkan punggungnya, melirikku dari ujung kepala sampai 
 
 Di bawah meja, jemari Rian meremas pelan tanganku sebentar sebelum dia berdiri tegak menghadapi Oma Ratna dan Ibu Hartini.
 
-"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt kemarin, Rian sebenarnya belum punya pasangan."
+"Oma, Ibu, Indah, dan Tante Henny," buka Rian dengan suara jernih tanpa sedikit pun keraguan. "Hari ini Rian datang buat meminta maaf dan mengakui kesalahan Rian. Waktu resepsi di Grand Hyatt tempo hari, Rian sebenarnya belum punya pasangan."
 
 Rian menatap Oma Ratna sungguh-sungguh. "Karena tertekan mau dijodohkan paksa sama Vina, Rian nekat menyewa Ayu sebelum acara buat pura-pura jadi pasangan Rian."
 

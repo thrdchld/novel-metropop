@@ -8,7 +8,7 @@ Aku mengangguk pelan, meraba gelang emas berukir daun di pergelangan tanganku, d
 
 Begitu kami menginjakkan kaki di teras belakang yang berbatasan langsung dengan kolam ikan koi, Indah langsung berlari kecil menyambutku dengan wajah berseri-seri.
 
-"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir kemarin sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji cara motong jalur distributornya!"
+"Mbak Ayu! Akhirnya datang juga!" seru Indah riang. Dia langsung menggandeng lenganku menuju meja rotan bundar tempat Oma Ratna dan Ibu Hartini sudah duduk menunggu. "Mbak, aku mau bilang makasih lagi! Hasil belanja grosir hari Rabu kemarin sesuai hitungan kertas tisu Mbak beneran nyelametin skripsiku! Dosen pembimbingku sampai muji-muji cara motong jalur distributornya!"
 
 "Syukurlah kalau kepakai, Indah. Kebetulan aku sudah biasa ngitung bahan baku kue tiap hari di rumah." Aku tersenyum di balik masker dan melirik Rian yang berdiri di samping kursi Oma dengan wajah bangga.
 
