@@ -48,7 +48,7 @@ Tahap 4, tiap bab, di ledger.md:
 - Keluhan gaya baru dicatat di engine/learnings/editor-feedback.md. Baru menjadi aturan jika muncul pada >= 2 cerita berbeda. Tidak menambah pemeriksaan stress-test selama 30 hari.
 
 ## Peta baca (menggantikan tabel Smart-Reading lama)
-- Awal sesi: AGENTS.md, CORE.md.
+- Awal sesi: jalankan bash scripts/resume.sh (lihat Serah-Terima di AGENTS.md), AGENTS.md, CORE.md.
 - Mode A (ide/premis): engine/01, 02, 11, story/universe-registry.md.
 - Mode B (canon dan outline): engine/03, 04, 11, 08 (§2, §4, §4A), templates/.
 - Mode C (menulis bab): state.md, canon.md, outline.md (bab aktif), ledger.md, 1 bab terakhir, engine/05, 06, 07, 08 (§2B).
