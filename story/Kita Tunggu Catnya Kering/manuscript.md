@@ -298,7 +298,7 @@ Cak Qodim menarik kursi plastik biru, menghempaskan tubuh tambunnya dengan napas
 
 "Bulan depan ada Festival Kuliner Nusantara di sepanjang jalan protokol," jelas Cak Qodim sambil menyeka keringat lehernya dengan ujung kaus. "Paguyuban kita dapat jatah lima puluh warung tenda. Tapi syarat dari orang dinas bikin pusing kepala."
 
-Aji mencondongkan badannya ke depan, tatapannya langsung tertuju pada lembaran kertas berkop resmi pemerintah kota yang menyembul dari map. "Bukannya kemarin pihak dinas minta spanduk vinil modern biar terlihat rapi dan seragam?"
+Aji mencondongkan badannya ke depan, tatapannya langsung tertuju pada lembaran kertas berkop resmi pemerintah kota yang menyembul dari map. "Bukannya tempo hari pihak dinas minta spanduk vinil modern biar terlihat rapi dan seragam?"
 
 "Seragam gundulmu!" semprot Cak Qodim tanpa tedeng aling-aling. "Kepala dinasnya orang asli Jawa Timuran, Mas! Beliau bilang, kalau pakai spanduk plastik MMT cetakan pabrik, ciri khas budayanya hilang! Kelihatan kayak posko bencana alam!"
 
@@ -330,7 +330,7 @@ Cak Qodim mengusap wajahnya yang lelah, lalu menatap kami berdua secara berganti
 
 Uang empat puluh juta. Angka itu berputar di kepalaku. Jumlah itu cukup untuk melunasi biaya pengobatan paru-paru Pak Lik Harto selama setahun penuh, bahkan masih ada sisa untuk merenovasi atap ruko kami yang mulai lapuk.
 
-Kulihat Aji terdiam membisu. Ujung jarinya yang masih memerah bekas luka bakar kemarin mengetuk-ngetuk permukaan meja kayu. Dari kilatan matanya, aku tahu cicilan sewa ruko dan utang mesin cetak bekasnya juga sedang menuntut jawaban malam ini.
+Kulihat Aji terdiam membisu. Ujung jarinya yang masih memerah bekas luka bakar dua hari lalu mengetuk-ngetuk permukaan meja kayu. Dari kilatan matanya, aku tahu cicilan sewa ruko dan utang mesin cetak bekasnya juga sedang menuntut jawaban malam ini.
 
 Cak Qodim menatap kami berdua, menunggu keputusan yang tak kunjung terucap.
 
