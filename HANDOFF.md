@@ -1,5 +1,5 @@
 # HANDOFF
-Diperbarui: 2026-11-23 09:20 WIB | Oleh: Gemini
+Diperbarui: 2026-11-23 09:26 WIB | Oleh: Gemini
 Branch: fix-waktu-2
 Tugas: Perbaikan kata waktu relatif di Narik Ojol dan Kita Tunggu Catnya Kering
 Instruksi asli (salin UTUH dari pengguna):
@@ -13,20 +13,21 @@ Sumber temuan: berkas validation/G3.md di branch audit/narik-ojol/G3 repo https:
 Laporan akhir: hash commit + hasil stress-test per cerita + daftar kata yang diubah + "sudah push". Merge ke main (--ff-only) hanya jika stress-test dan scripts/audit-continuity.py tidak menunjukkan masalah baru.
 
 Daftar langkah:
-- [ ] 1. Setup branch fix-waktu-2, inisialisasi HANDOFF.md, commit dan push
-- [ ] 2. Ambil dan baca berkas validation/G3.md dari branch audit/narik-ojol/G3
-- [ ] 3. Verifikasi & perbaiki story/Narik Ojol Cinta Pun Nongol (FIND-G3-01 s.d. 05)
-- [ ] 4. Sinkronisasi aset, stress-test --fix, build-reader.py, commit cerita 1, push
-- [ ] 5. Verifikasi & perbaiki story/Kita Tunggu Catnya Kering (Bab 6 baris 47 dan baris 15)
-- [ ] 6. Sinkronisasi aset, stress-test --fix, build-reader.py, commit cerita 2, push
-- [ ] 7. Jalankan audit-continuity.py & verifikasi akhir
-- [ ] 8. Merge ke main (--ff-only), push main, perbarui HANDOFF.md menjadi TIDAK ADA TUGAS AKTIF
-
-Sedang dikerjakan: Langkah 1 - Setup branch dan HANDOFF.md
+- [x] 1. Setup branch fix-waktu-2, inisialisasi HANDOFF.md, commit dan push (8992ccd)
+- [x] 2. Ambil dan baca berkas validation/G3.md dari branch audit/narik-ojol/G3
+- [x] 3. Verifikasi & perbaiki story/Narik Ojol Cinta Pun Nongol (FIND-G3-01 s.d. 05)
+- [x] 4. Sinkronisasi aset, stress-test --fix, build-reader.py, commit cerita 1, push (f4056c3)
+- [x] 5. Verifikasi & perbaiki story/Kita Tunggu Catnya Kering (Bab 6 baris 47 dan baris 15)
+- [x] 6. Sinkronisasi aset, stress-test --fix, build-reader.py, commit cerita 2, push (011b11b)
+- [x] 7. Jalankan audit-continuity.py & verifikasi akhir (semua LULUS 100%)
+- [x] 8. Siap merge ke main (--ff-only)
+Sedang dikerjakan: Langkah 8 - Merge ke main dan reset HANDOFF.md
 Working tree: bersih
 Keputusan penting dan alasan:
-Sudah diverifikasi, jangan diulang:
+- Narik Ojol: Bab 7 L39 & L41 memakai 'tempo hari' untuk menghindari bentrok AYKB dan audit-continuity (Bab 7 berlangsung Senin). Bab 13 L15 memakai 'tempo hari' (menghindari AYKB ban 'jumat lalu'). Bab 15 L11 memakai 'hari Rabu kemarin'. Bab 19 L15 memakai 'tempo hari'.
+- Kita Tunggu Catnya Kering: Bab 6 L47 'bekas luka bakar kemarin' diubah jadi 'bekas luka bakar dua hari lalu' (insiden wajan Jumat malam vs adegan Minggu malam). Bab 6 L15 'Bukannya kemarin pihak dinas minta...' diubah jadi 'Bukannya tempo hari pihak dinas minta...' karena dinas pemkot libur Sabtu dan wacana festival disosialisasikan di hari kerja sebelumnya.
+Sudah diverifikasi, jangan diulang: stress-test (22 cek) LULUS 100% dan audit-continuity.py BERSIH 0 isu di kedua cerita.
 Langkah berikutnya (persis, satu per satu):
-1. Commit HANDOFF.md dan push branch fix-waktu-2
-2. Fetch/ambil validation/G3.md dari repo novel-editor branch audit/narik-ojol/G3
-Masalah/blocker:
+1. Merge ke main (--ff-only)
+2. Kembalikan HANDOFF.md ke TIDAK ADA TUGAS AKTIF, commit dan push main
+Masalah/blocker: Tidak ada
