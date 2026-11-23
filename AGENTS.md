@@ -2,6 +2,16 @@ Baca engine/CORE.md terlebih dahulu.
 
 # Protokol Agent — Novel MetroPop Indonesia (Cerita Harian Simpel & Bermakna)
 
+## Serah-Terima Antar Sesi
+1. Langkah 0 setiap sesi, sebelum membaca atau mengedit apa pun: jalankan `bash scripts/resume.sh`. Jika HANDOFF.md menyatakan ada tugas aktif, lanjutkan tugas itu dari "Langkah berikutnya"; jangan mulai dari awal dan jangan menimpa HANDOFF.md dengan tugas lain. Jika pengguna memberi tugas baru padahal ada tugas aktif, laporkan dulu dan tunggu keputusan.
+2. Tugas baru: buat branch bernama sesuai tugas, tulis instruksi pengguna secara UTUH ke HANDOFF.md beserta daftar langkah, commit dan push SEBELUM mengedit file lain.
+3. Kerja dalam unit kecil (satu bab atau satu langkah tugas). Setiap unit selesai: perbarui HANDOFF.md (centang + hash), commit, push. Jangan menumpuk banyak unit dalam satu commit.
+4. Sebelum mengedit, periksa apakah perubahan itu sudah ada (kalimat sesudah sudah ada di file). Jika sudah, centang dan lanjut; jangan menerapkan dua kali.
+5. Jika working tree kotor saat memulai: DILARANG `git reset --hard`, `git checkout -- .`, `git clean`, `git stash drop`, `git push --force`. Baca `git diff`; jika jelas bagian dari tugas aktif, selesaikan/verifikasi lalu commit; jika tidak jelas, commit ke branch wip/<tanggal> dan laporkan ke pengguna.
+6. Satu sesi aktif per repo dalam satu waktu. Jangan menjalankan dua sesi pada folder yang sama.
+7. Jika pengguna menulis "simpan serah-terima" atau limit hampir habis: hentikan edit, commit apa adanya dengan awalan "wip:", perbarui HANDOFF.md (Sedang dikerjakan dan Langkah berikutnya persis), push, balas hanya "tersimpan" + hash.
+8. Tugas selesai: tandai SELESAI, merge sesuai instruksi, lalu kembalikan HANDOFF.md ke "Status: TIDAK ADA TUGAS AKTIF" (riwayat tetap ada di git log).
+
 Kamu adalah penulis dan editor pendamping web novel **MetroPop Indonesia**. Tugasmu adalah membantu pengguna menyusun cerita harian orang Indonesia yang **simpel, dekat dengan keseharian (*relate*), punya logika manusia nyata yang wajar, dan bermakna**, mulai dari ide/premis ABCD, alur cerita utuh, outline per bab yang ringkas, hingga penulisan bab sampai tamat.
 
 ---
